@@ -9,6 +9,8 @@ next: /expl/content/paradise/heaven-and-hell
 docType: expl
 appl: /appl/content/paradise
 sources: 
+    - pages: 1118–1119
+      ref: beale_rev
     - pages: 1039–1121
       ref: beale_rev
     - pages: 114, 134, 328
@@ -160,6 +162,23 @@ The New Jerusalem is the counterpart to Babel when we look at the {{% int_link v
 - Babel destroys itself and Jerusalem stays forever
 - Babel gets rich by exploitation and persecution, but Jerusalem is rich as God's gift
 
+Set side by side, the two cities are opposites at every point.[^cities]
+
+| | Babel | The new Jerusalem |
+|---|---|---|
+| Who she is | the harlot with whom the kings of the earth commit immorality ({{% bible val="17:1–2" link="rev:17,1-2" lang="en" %}}; {{% bible val="18:9" link="rev:18,9" lang="en" %}}) | the pure bride ({{% bible val="21:2" link="rev:21,2" lang="en" %}}; {{% bible val="21:9" link="rev:21,9" lang="en" %}}) |
+| The kings of the earth | submit to her, and then strip her bare ({{% bible val="17:16" link="rev:17,16" lang="en" %}}; {{% bible val="17:18" link="rev:17,18" lang="en" %}}) | bring their glory into the city ({{% bible val="21:24" link="rev:21,24" lang="en" %}}) |
+| Wealth | extorted from the world and carried to her ({{% bible val="18:12–17" link="rev:18,12-17" lang="en" %}}) | the glory of the nations, brought in ({{% bible val="21:24–26" link="rev:21,24-26" lang="en" %}}) |
+| Purity | full of impurity, abominations and deception ({{% bible val="17:4–5" link="rev:17,4-5" lang="en" %}}; {{% bible val="18:23" link="rev:18,23" lang="en" %}}) | nothing unclean and no one who lies may enter ({{% bible val="21:8" link="rev:21,8" lang="en" %}}; {{% bible val="21:27" link="rev:21,27" lang="en" %}}) |
+| Life | drunk with the blood of the saints ({{% bible val="17:6" link="rev:17,6" lang="en" %}}; {{% bible val="18:24" link="rev:18,24" lang="en" %}}) | the river of life and the tree whose leaves heal ({{% bible val="22:1–2" link="rev:22,1-2" lang="en" %}}) |
+| The word to God's people | "Come out of her" ({{% bible val="18:4" link="rev:18,4" lang="en" %}}) | blessed are those who may enter ({{% bible val="22:14" link="rev:22,14" lang="en" %}}) |
+| Heaven and earth | piles her sins up to heaven, like the tower ({{% bible val="18:5" link="rev:18,5" lang="en" %}}; {{% bible val="Gen 11:1–9" link="gen:11,1-9" lang="en" %}}) | comes down out of heaven from God ({{% bible val="21:2" link="rev:21,2" lang="en" %}}) |
+| The end | split into three parts: "It is done" ({{% bible val="16:17–19" link="rev:16,17-19" lang="en" %}}) | stands for ever: "It is done" ({{% bible val="21:6" link="rev:21,6" lang="en" %}}) |
+| The name on the forehead | her own name on her forehead ({{% bible val="17:5" link="rev:17,5" lang="en" %}}) | God's name on the foreheads of his servants ({{% bible val="22:4" link="rev:22,4" lang="en" %}}) |
+| The book of life | her people are not written in it ({{% bible val="17:8" link="rev:17,8" lang="en" %}}) | only those written in it enter ({{% bible val="21:27" link="rev:21,27" lang="en" %}}) |
+| Glory | glorifies herself ({{% bible val="18:7" link="rev:18,7" lang="en" %}}) | shines with the glory of God ({{% bible val="21:11" link="rev:21,11" lang="en" %}}; {{% bible val="21:23" link="rev:21,23" lang="en" %}}) |
+| Who lives there | a dwelling place of demons ({{% bible val="18:2" link="rev:18,2" lang="en" %}}) | the dwelling place of God ({{% bible val="21:3" link="rev:21,3" lang="en" %}}; {{% bible val="21:22" link="rev:21,22" lang="en" %}}) |
+
 The twelve gates refer to the twelve tribes, and the twelve foundation stones to the twelve apostles. The {{% bible val="twelve-times-two reflects the eternal worship in heaven" link="rev:4,4" lang="en" %}}, but it is also a reminder to seek reconciliation between Jews and non-Jews, a {{% int_link val="conflict described throughout the book" link="/expl/background/israel/israel-and-the-church" %}}.
 
 Look at the arrangement: the tribes are the gates and the apostles the foundations — one city, one people. Neither stands without the other. {{% bible val="The apostles carry the message of Israel's Messiah" link="eph:2,20" lang="en" %}}, and the way in bears Israel's names. As Paul reminds Gentile believers, {{% bible val="you do not support the root, but the root supports you" link="rom:11,18" lang="en" %}}. It fits, too, that Judah is {{% bible val="listed first among the tribes elsewhere in the book, reflecting Jesus" link="rev:7,4-8" lang="en" %}}.
@@ -213,3 +232,5 @@ The source of it all is the throne of God and the Lamb, and water throughout Scr
 Finally, the circle closes back to the beginning, to creation and the fall: {{% bible val="the Tree of Life returns, and everyone has access to it" link="rev:22,2" lang="en" %}}. All evil is gone, and we are free to focus entirely on serving God.
 
 The {{% bible val="name on the forehead" link="rev:22,4" lang="en" %}} was {{% bible val="originally worn on the priest's forehead" link="exo:28,36-38" lang="en" %}}, and here it shows {{% bible val="that God's own character, once imprinted on the priest, is now imprinted on us" link="1jn:3,2" lang="en" %}}.
+
+[^cities]: Beale, pp. 1118–1119.

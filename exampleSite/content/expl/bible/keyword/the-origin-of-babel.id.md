@@ -6,7 +6,7 @@ prev: /expl/bible/keyword/the-story-of-balaam
 next: /expl/bible/daniel/the-book-of-daniel
 docType: expl
 sources:
-    - pages: 90–91, 334, 922
+    - pages: 90–91, 334, 922, 1119
       ref: beale_rev
     - pages: 20, 103
       ref: brueggemann_gen
@@ -44,3 +44,7 @@ Dalam Kitab Wahyu, Babel sama eratnya terkait dengan Babel pada zaman Daniel, be
 - tema kesombongan
 - kejatuhan yang cepat
 - umat Allah yang hidup dalam pembuangan
+
+Dan Kitab Wahyu membalik menara itu. Di Babel manusia membangun ke atas {{% bible val="untuk mencapai langit dan mencari nama bagi diri mereka" link="gen:11,4" lang="ind" %}}, dan Babel yang terakhir {{% bible val="menimbun dosanya sampai ke langit" link="rev:18,5" lang="ind" %}}. Yerusalem baru sama sekali tidak dibangun dari bawah: kota itu {{% bible val="turun dari surga, dari Allah" link="rev:21,2" lang="ind" %}}.[^tower]
+
+[^tower]: Beale, hlm. 1119.

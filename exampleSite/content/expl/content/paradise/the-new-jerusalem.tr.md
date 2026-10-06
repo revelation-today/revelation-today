@@ -9,6 +9,8 @@ next: /expl/content/paradise/heaven-and-hell
 docType: expl
 appl: /appl/content/paradise
 sources: 
+    - pages: 1118–1119
+      ref: beale_rev
     - pages: 1039–1121
       ref: beale_rev
     - pages: 114, 134, 328
@@ -160,6 +162,23 @@ Son olarak yalancılar imana ihanet etmiş olanlardır — {{% bible val="kendil
 - Babil kendini yok eder, Yeruşalim ise sonsuza dek kalır
 - Babil sömürü ve zulümle zenginleşir, ama Yeruşalim Tanrı'nın armağanı olarak zengindir
 
+Yan yana konduğunda iki şehir her noktada birbirinin karşıtıdır.[^cities]
+
+| | Babil | Yeni Yeruşalim |
+|---|---|---|
+| Kimdir | dünya krallarının kendisiyle fuhuş yaptığı fahişe ({{% bible val="17:1–2" link="rev:17,1-2" lang="tr" %}}; {{% bible val="18:9" link="rev:18,9" lang="tr" %}}) | pak gelin ({{% bible val="21:2" link="rev:21,2" lang="tr" %}}; {{% bible val="21:9" link="rev:21,9" lang="tr" %}}) |
+| Dünya kralları | ona boyun eğer, sonra onu çırılçıplak bırakır ({{% bible val="17:16" link="rev:17,16" lang="tr" %}}; {{% bible val="17:18" link="rev:17,18" lang="tr" %}}) | görkemlerini şehre getirir ({{% bible val="21:24" link="rev:21,24" lang="tr" %}}) |
+| Zenginlik | dünyadan zorla alınıp ona taşınır ({{% bible val="18:12–17" link="rev:18,12-17" lang="tr" %}}) | ulusların görkemi içeri getirilir ({{% bible val="21:24–26" link="rev:21,24-26" lang="tr" %}}) |
+| Paklık | murdarlık, iğrençlik ve aldatmayla dolu ({{% bible val="17:4–5" link="rev:17,4-5" lang="tr" %}}; {{% bible val="18:23" link="rev:18,23" lang="tr" %}}) | murdar hiçbir şey ve hiçbir yalancı içeri giremez ({{% bible val="21:8" link="rev:21,8" lang="tr" %}}; {{% bible val="21:27" link="rev:21,27" lang="tr" %}}) |
+| Yaşam | kutsalların kanıyla sarhoş ({{% bible val="17:6" link="rev:17,6" lang="tr" %}}; {{% bible val="18:24" link="rev:18,24" lang="tr" %}}) | yaşam ırmağı ve yaprakları şifa veren ağaç ({{% bible val="22:1–2" link="rev:22,1-2" lang="tr" %}}) |
+| Tanrı'nın halkına söz | "Ondan çıkın" ({{% bible val="18:4" link="rev:18,4" lang="tr" %}}) | içeri girebilenlere ne mutlu ({{% bible val="22:14" link="rev:22,14" lang="tr" %}}) |
+| Gök ve yer | günahlarını göğe dek yığar, kule gibi ({{% bible val="18:5" link="rev:18,5" lang="tr" %}}; {{% bible val="Yar 11:1–9" link="gen:11,1-9" lang="tr" %}}) | gökten, Tanrı'nın yanından iner ({{% bible val="21:2" link="rev:21,2" lang="tr" %}}) |
+| Son | üçe bölünür: "Tamam oldu" ({{% bible val="16:17–19" link="rev:16,17-19" lang="tr" %}}) | sonsuza dek durur: "Tamam oldu" ({{% bible val="21:6" link="rev:21,6" lang="tr" %}}) |
+| Alındaki ad | kendi adı kendi alnında ({{% bible val="17:5" link="rev:17,5" lang="tr" %}}) | Tanrı'nın adı kullarının alnında ({{% bible val="22:4" link="rev:22,4" lang="tr" %}}) |
+| Yaşam kitabı | onun insanları kitapta yazılı değildir ({{% bible val="17:8" link="rev:17,8" lang="tr" %}}) | yalnızca kitapta yazılı olanlar girer ({{% bible val="21:27" link="rev:21,27" lang="tr" %}}) |
+| Görkem | kendini yüceltir ({{% bible val="18:7" link="rev:18,7" lang="tr" %}}) | Tanrı'nın görkemiyle ışıldar ({{% bible val="21:11" link="rev:21,11" lang="tr" %}}; {{% bible val="21:23" link="rev:21,23" lang="tr" %}}) |
+| Orada kim yaşar | cinlerin barınağı ({{% bible val="18:2" link="rev:18,2" lang="tr" %}}) | Tanrı'nın konutu ({{% bible val="21:3" link="rev:21,3" lang="tr" %}}; {{% bible val="21:22" link="rev:21,22" lang="tr" %}}) |
+
 On iki kapı on iki oymağa, on iki temel taşı ise on iki elçiye işaret eder. {{% bible val="On iki kere iki, gökteki sonsuz tapınmayı yansıtır" link="rev:4,4" lang="tr" %}}, ama aynı zamanda kitap boyunca anlatılan {{% int_link val="Yahudiler ile Yahudi olmayanlar arasında uzlaşma aranması gerektiğine dair bir hatırlatmadır" link="/expl/background/israel/israel-and-the-church" %}}.
 
 Düzenlemeye bakın: oymaklar kapılar, elçiler temellerdir — tek kent, tek halk. Biri diğeri olmadan duramaz. {{% bible val="Elçiler İsrail'in Mesihi'nin mesajını taşır" link="eph:2,20" lang="tr" %}} ve giriş yolu İsrail'in adlarını taşır. Pavlus'un öteki uluslardan imanlılara hatırlattığı gibi, {{% bible val="sen kökü taşımıyorsun, kök seni taşıyor" link="rom:11,18" lang="tr" %}}. Yahuda'nın {{% bible val="kitabın başka bir yerinde oymaklar arasında ilk sırada listelenmesi de" link="rev:7,4-8" lang="tr" %}} bununla uyumludur, çünkü İsa'yı yansıtır.
@@ -213,3 +232,5 @@ Bütün bunların kaynağı Tanrı'nın ve Kuzu'nun tahtıdır; su ise Kutsal Ki
 Son olarak, çember başlangıca — yaratılışa ve düşüşe — kadar kapanır: {{% bible val="Yaşam Ağacı geri döner ve herkes ona erişebilir" link="rev:22,2" lang="tr" %}}. Bütün kötülük ortadan kalkmıştır ve artık dikkatimizi tamamen Tanrı'ya hizmet etmeye verebiliriz.
 
 {{% bible val="Alındaki isim" link="rev:22,4" lang="tr" %}} başlangıçta {{% bible val="kâhinin alnında taşınıyordu" link="exo:28,36-38" lang="tr" %}} ve burada {{% bible val="bir zamanlar kâhine işlenen Tanrı'nın kendi karakterinin artık bize işlendiğini" link="1jn:3,2" lang="tr" %}} gösterir.
+
+[^cities]: Beale, s. 1118–1119.

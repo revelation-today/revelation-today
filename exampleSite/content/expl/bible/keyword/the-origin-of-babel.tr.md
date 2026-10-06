@@ -6,7 +6,7 @@ prev: /expl/bible/keyword/the-story-of-balaam
 next: /expl/bible/daniel/the-book-of-daniel
 docType: expl
 sources:
-    - pages: 90–91, 334, 922
+    - pages: 90–91, 334, 922, 1119
       ref: beale_rev
     - pages: 20, 103
       ref: brueggemann_gen
@@ -44,3 +44,7 @@ Vahiy kitabında da Babil, Daniel’in Babil’iyle aynı temel özellikleri pay
 - gurur teması
 - ani bir çöküş
 - Tanrı’nın halkının sürgünde yaşaması
+
+Vahiy kuleyi tersine çevirir. Babil'de insanlar {{% bible val="göğe erişmek ve kendilerine ün salmak için" link="gen:11,4" lang="tr" %}} yukarıya doğru inşa ettiler; son Babil ise {{% bible val="günahlarını göğe dek yığar" link="rev:18,5" lang="tr" %}}. Yeni Yeruşalim hiç de aşağıdan kurulmaz: {{% bible val="gökten, Tanrı'nın yanından iner" link="rev:21,2" lang="tr" %}}.[^tower]
+
+[^tower]: Beale, s. 1119.

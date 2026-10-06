@@ -6,7 +6,7 @@ prev: /expl/bible/keyword/the-story-of-balaam
 next: /expl/bible/daniel/the-book-of-daniel
 docType: expl
 sources:
-    - pages: 90–91, 334, 922
+    - pages: 90–91, 334, 922, 1119
       ref: beale_rev
     - pages: 20, 103
       ref: brueggemann_gen
@@ -45,3 +45,6 @@ In the book of Revelation, Babylon is likewise closely tied to the Babylon of Da
 - a swift fall
 - God’s people living in exile
 
+And Revelation turns the tower round. At Babel people built upward {{% bible val="to reach heaven and make a name for themselves" link="gen:11,4" lang="en" %}}, and the last Babel {{% bible val="piles her sins up to heaven" link="rev:18,5" lang="en" %}}. The new Jerusalem is not built from below at all: it {{% bible val="comes down out of heaven from God" link="rev:21,2" lang="en" %}}.[^tower]
+
+[^tower]: Beale, p. 1119.

@@ -6,7 +6,7 @@ prev: /expl/bible/keyword/the-story-of-balaam
 next: /expl/bible/daniel/the-book-of-daniel
 docType: expl
 sources:
-    - pages: 90–91, 334, 922
+    - pages: 90–91, 334, 922, 1119
       ref: beale_rev
     - pages: 20, 103
       ref: brueggemann_gen
@@ -44,3 +44,7 @@ Im Buch der Offenbarung ist Babylon ebenso eng mit dem Babylon Daniels verbunden
 - das Motiv des Stolzes
 - einen raschen Fall
 - Gottes Volk, das im Exil lebt
+
+Und die Offenbarung kehrt den Turm um. In Babel bauten die Menschen nach oben, {{% bible val="um den Himmel zu erreichen und sich einen Namen zu machen" link="gen:11,4" lang="de" %}}, und das letzte Babel {{% bible val="türmt seine Sünden bis an den Himmel" link="rev:18,5" lang="de" %}}. Das neue Jerusalem wird überhaupt nicht von unten gebaut: Es {{% bible val="kommt von Gott aus dem Himmel herab" link="rev:21,2" lang="de" %}}.[^tower]
+
+[^tower]: Beale, S. 1119.

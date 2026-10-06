@@ -9,6 +9,8 @@ next: /expl/content/paradise/heaven-and-hell
 docType: expl
 appl: /appl/content/paradise
 sources: 
+    - pages: 1118–1119
+      ref: beale_rev
     - pages: 1039–1121
       ref: beale_rev
     - pages: 114, 134, 328
@@ -160,6 +162,23 @@ Yerusalem Baru adalah lawan dari Babel, jika kita memperhatikan {{% int_link val
 - Babel membinasakan dirinya sendiri dan Yerusalem bertahan selamanya
 - Babel menjadi kaya melalui eksploitasi dan penganiayaan, tetapi Yerusalem kaya sebagai pemberian Allah
 
+Jika disandingkan, kedua kota itu berlawanan dalam segala hal.[^cities]
+
+| | Babel | Yerusalem baru |
+|---|---|---|
+| Siapa dia | pelacur yang dengannya raja-raja di bumi berbuat cabul ({{% bible val="17:1–2" link="rev:17,1-2" lang="ind" %}}; {{% bible val="18:9" link="rev:18,9" lang="ind" %}}) | mempelai yang murni ({{% bible val="21:2" link="rev:21,2" lang="ind" %}}; {{% bible val="21:9" link="rev:21,9" lang="ind" %}}) |
+| Raja-raja di bumi | tunduk kepadanya, lalu menelanjanginya ({{% bible val="17:16" link="rev:17,16" lang="ind" %}}; {{% bible val="17:18" link="rev:17,18" lang="ind" %}}) | membawa kemuliaan mereka ke dalam kota itu ({{% bible val="21:24" link="rev:21,24" lang="ind" %}}) |
+| Kekayaan | diperas dari dunia dan dibawa kepadanya ({{% bible val="18:12–17" link="rev:18,12-17" lang="ind" %}}) | kemuliaan bangsa-bangsa, dibawa masuk ({{% bible val="21:24–26" link="rev:21,24-26" lang="ind" %}}) |
+| Kemurnian | penuh kenajisan, kekejian, dan penyesatan ({{% bible val="17:4–5" link="rev:17,4-5" lang="ind" %}}; {{% bible val="18:23" link="rev:18,23" lang="ind" %}}) | tidak ada yang najis dan tidak ada pendusta yang boleh masuk ({{% bible val="21:8" link="rev:21,8" lang="ind" %}}; {{% bible val="21:27" link="rev:21,27" lang="ind" %}}) |
+| Kehidupan | mabuk oleh darah orang-orang kudus ({{% bible val="17:6" link="rev:17,6" lang="ind" %}}; {{% bible val="18:24" link="rev:18,24" lang="ind" %}}) | sungai kehidupan dan pohon yang daunnya menyembuhkan ({{% bible val="22:1–2" link="rev:22,1-2" lang="ind" %}}) |
+| Firman kepada umat Allah | "Pergilah kamu dari padanya" ({{% bible val="18:4" link="rev:18,4" lang="ind" %}}) | berbahagialah mereka yang boleh masuk ({{% bible val="22:14" link="rev:22,14" lang="ind" %}}) |
+| Langit dan bumi | menimbun dosanya sampai ke langit, seperti menara itu ({{% bible val="18:5" link="rev:18,5" lang="ind" %}}; {{% bible val="Kej 11:1–9" link="gen:11,1-9" lang="ind" %}}) | turun dari surga, dari Allah ({{% bible val="21:2" link="rev:21,2" lang="ind" %}}) |
+| Kesudahannya | terbelah menjadi tiga bagian: "Sudah terlaksana" ({{% bible val="16:17–19" link="rev:16,17-19" lang="ind" %}}) | tetap selamanya: "Semuanya telah terjadi" ({{% bible val="21:6" link="rev:21,6" lang="ind" %}}) |
+| Nama pada dahi | namanya sendiri pada dahinya ({{% bible val="17:5" link="rev:17,5" lang="ind" %}}) | nama Allah pada dahi hamba-hamba-Nya ({{% bible val="22:4" link="rev:22,4" lang="ind" %}}) |
+| Kitab kehidupan | orang-orangnya tidak tertulis di dalamnya ({{% bible val="17:8" link="rev:17,8" lang="ind" %}}) | hanya yang tertulis di dalamnya yang masuk ({{% bible val="21:27" link="rev:21,27" lang="ind" %}}) |
+| Kemuliaan | memuliakan dirinya sendiri ({{% bible val="18:7" link="rev:18,7" lang="ind" %}}) | bercahaya dengan kemuliaan Allah ({{% bible val="21:11" link="rev:21,11" lang="ind" %}}; {{% bible val="21:23" link="rev:21,23" lang="ind" %}}) |
+| Siapa yang diam di sana | tempat kediaman roh-roh jahat ({{% bible val="18:2" link="rev:18,2" lang="ind" %}}) | tempat kediaman Allah ({{% bible val="21:3" link="rev:21,3" lang="ind" %}}; {{% bible val="21:22" link="rev:21,22" lang="ind" %}}) |
+
 Kedua belas pintu gerbang menunjuk kepada kedua belas suku, dan kedua belas dasar batu menunjuk kepada kedua belas rasul. {{% bible val="Dua belas kali dua ini mencerminkan penyembahan kekal di surga" link="rev:4,4" lang="ind" %}}, tetapi juga menjadi peringatan untuk mencari rekonsiliasi antara orang Yahudi dan bukan Yahudi, {{% int_link val="sebuah konflik yang digambarkan di seluruh kitab ini" link="/expl/background/israel/israel-and-the-church" %}}.
 
 Perhatikan susunannya: suku-suku itu adalah pintu gerbang dan para rasul adalah batu dasar — satu kota, satu umat. Yang satu tidak berdiri tanpa yang lain. {{% bible val="Para rasul membawa berita tentang Mesias Israel" link="eph:2,20" lang="ind" %}}, dan jalan masuknya memuat nama-nama Israel. Seperti yang diingatkan Paulus kepada orang percaya bukan Yahudi, {{% bible val="bukan kamu yang menopang akar itu, melainkan akar itu yang menopang kamu" link="rom:11,18" lang="ind" %}}. Sesuai juga bahwa Yehuda {{% bible val="dicantumkan lebih dahulu di antara suku-suku di tempat lain dalam kitab ini, mencerminkan Yesus" link="rev:7,4-8" lang="ind" %}}.
@@ -213,3 +232,5 @@ Sumber dari semuanya ini adalah takhta Allah dan Anak Domba, dan air di sepanjan
 Akhirnya, lingkaran itu kembali tertutup menuju awal mula, menuju penciptaan dan kejatuhan manusia ke dalam dosa: {{% bible val="Pohon Kehidupan kembali hadir, dan setiap orang memiliki akses kepadanya" link="rev:22,2" lang="ind" %}}. Segala kejahatan telah lenyap, dan kita bebas untuk sepenuhnya berfokus melayani Allah.
 
 {{% bible val="Nama yang tertulis di dahi" link="rev:22,4" lang="ind" %}} pada mulanya {{% bible val="dikenakan di dahi imam" link="exo:28,36-38" lang="ind" %}}, dan di sini hal itu menunjukkan bahwa {{% bible val="karakter Allah sendiri, yang dahulu terpatri pada imam, kini terpatri pada kita" link="1jn:3,2" lang="ind" %}}.
+
+[^cities]: Beale, hlm. 1118–1119.

@@ -9,6 +9,8 @@ next: /expl/content/paradise/heaven-and-hell
 docType: expl
 appl: /appl/content/paradise
 sources: 
+    - pages: 1118–1119
+      ref: beale_rev
     - pages: 1039–1121
       ref: beale_rev
     - pages: 114, 134, 328
@@ -160,6 +162,23 @@ Das Neue Jerusalem ist das Gegenstück zu Babel, wenn wir den {{% int_link val="
 - Babel zerstört sich selbst, und Jerusalem bleibt für immer
 - Babel wird reich durch Ausbeutung und Verfolgung, aber Jerusalem ist reich als Gottes Geschenk
 
+Nebeneinandergestellt sind die beiden Städte in jedem Punkt Gegensätze.[^cities]
+
+| | Babel | Das neue Jerusalem |
+|---|---|---|
+| Wer sie ist | die Hure, mit der die Könige der Erde Unzucht treiben ({{% bible val="17,1–2" link="rev:17,1-2" lang="de" %}}; {{% bible val="18,9" link="rev:18,9" lang="de" %}}) | die reine Braut ({{% bible val="21,2" link="rev:21,2" lang="de" %}}; {{% bible val="21,9" link="rev:21,9" lang="de" %}}) |
+| Die Könige der Erde | unterwerfen sich ihr und machen sie dann nackt und bloß ({{% bible val="17,16" link="rev:17,16" lang="de" %}}; {{% bible val="17,18" link="rev:17,18" lang="de" %}}) | bringen ihre Herrlichkeit in die Stadt ({{% bible val="21,24" link="rev:21,24" lang="de" %}}) |
+| Reichtum | der Welt abgepresst und zu ihr gebracht ({{% bible val="18,12–17" link="rev:18,12-17" lang="de" %}}) | die Herrlichkeit der Völker, hineingebracht ({{% bible val="21,24–26" link="rev:21,24-26" lang="de" %}}) |
+| Reinheit | voll Unreinheit, Gräuel und Verführung ({{% bible val="17,4–5" link="rev:17,4-5" lang="de" %}}; {{% bible val="18,23" link="rev:18,23" lang="de" %}}) | nichts Unreines und kein Lügner darf hinein ({{% bible val="21,8" link="rev:21,8" lang="de" %}}; {{% bible val="21,27" link="rev:21,27" lang="de" %}}) |
+| Leben | trunken vom Blut der Heiligen ({{% bible val="17,6" link="rev:17,6" lang="de" %}}; {{% bible val="18,24" link="rev:18,24" lang="de" %}}) | der Strom des Lebens und der Baum, dessen Blätter heilen ({{% bible val="22,1–2" link="rev:22,1-2" lang="de" %}}) |
+| Das Wort an Gottes Volk | „Geht hinaus aus ihr“ ({{% bible val="18,4" link="rev:18,4" lang="de" %}}) | glückselig, wer hineingehen darf ({{% bible val="22,14" link="rev:22,14" lang="de" %}}) |
+| Himmel und Erde | türmt ihre Sünden bis an den Himmel, wie der Turm ({{% bible val="18,5" link="rev:18,5" lang="de" %}}; {{% bible val="1. Mose 11,1–9" link="gen:11,1-9" lang="de" %}}) | kommt von Gott aus dem Himmel herab ({{% bible val="21,2" link="rev:21,2" lang="de" %}}) |
+| Das Ende | in drei Teile zerrissen: „Es ist geschehen“ ({{% bible val="16,17–19" link="rev:16,17-19" lang="de" %}}) | bleibt für immer: „Es ist geschehen“ ({{% bible val="21,6" link="rev:21,6" lang="de" %}}) |
+| Der Name auf der Stirn | ihr eigener Name auf ihrer Stirn ({{% bible val="17,5" link="rev:17,5" lang="de" %}}) | Gottes Name auf der Stirn seiner Knechte ({{% bible val="22,4" link="rev:22,4" lang="de" %}}) |
+| Das Buch des Lebens | ihre Leute stehen nicht darin ({{% bible val="17,8" link="rev:17,8" lang="de" %}}) | nur wer darin steht, geht hinein ({{% bible val="21,27" link="rev:21,27" lang="de" %}}) |
+| Herrlichkeit | verherrlicht sich selbst ({{% bible val="18,7" link="rev:18,7" lang="de" %}}) | strahlt in der Herrlichkeit Gottes ({{% bible val="21,11" link="rev:21,11" lang="de" %}}; {{% bible val="21,23" link="rev:21,23" lang="de" %}}) |
+| Wer dort wohnt | eine Behausung der Dämonen ({{% bible val="18,2" link="rev:18,2" lang="de" %}}) | die Wohnung Gottes ({{% bible val="21,3" link="rev:21,3" lang="de" %}}; {{% bible val="21,22" link="rev:21,22" lang="de" %}}) |
+
 Die zwölf Tore beziehen sich auf die zwölf Stämme, und die zwölf Grundsteine auf die zwölf Apostel. Das {{% bible val="Zwölf-mal-zwei spiegelt die ewige Anbetung im Himmel wider" link="rev:4,4" lang="de" %}}, ist aber auch eine Mahnung, Versöhnung zwischen Juden und Nicht-Juden zu suchen, {{% int_link val="einen Konflikt, der sich durch das ganze Buch zieht" link="/expl/background/israel/israel-and-the-church" %}}.
 
 Achte auf die Anordnung: Die Stämme sind die Tore und die Apostel die Grundsteine – eine Stadt, ein Volk. Keines steht ohne das andere. {{% bible val="Die Apostel tragen die Botschaft von Israels Messias" link="eph:2,20" lang="de" %}}, und der Weg hinein trägt Israels Namen. Wie Paulus die Gläubigen aus den Völkern erinnert: {{% bible val="Nicht du trägst die Wurzel, sondern die Wurzel trägt dich" link="rom:11,18" lang="de" %}}. Dazu passt auch, dass Juda {{% bible val="an anderer Stelle im Buch als Erster unter den Stämmen aufgeführt wird, was Jesus widerspiegelt" link="rev:7,4-8" lang="de" %}}.
@@ -209,3 +228,5 @@ Die Quelle von alldem ist der Thron Gottes und des Lammes, und Wasser ist in der
 Schließlich schließt sich der Kreis zurück zum Anfang, zur Schöpfung und zum Sündenfall: {{% bible val="Der Baum des Lebens kehrt zurück, und jeder hat Zugang zu ihm" link="rev:22,2" lang="de" %}}. Alles Böse ist verschwunden, und wir sind frei, uns ganz auf den Dienst an Gott zu konzentrieren.
 
 Der {{% bible val="Name auf der Stirn" link="rev:22,4" lang="de" %}} wurde {{% bible val="ursprünglich auf der Stirn des Priesters getragen" link="exo:28,36-38" lang="de" %}}, und hier zeigt er, {{% bible val="dass Gottes eigener Charakter, einst dem Priester eingeprägt, nun uns eingeprägt ist" link="1jn:3,2" lang="de" %}}.
+
+[^cities]: Beale, S. 1118–1119.
