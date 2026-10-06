@@ -67,6 +67,5 @@ and it matters to you. Amen."
 ## Note for the Teacher
 
 Skip the millennium debate entirely for this age — there's no need to explain amillennial vs.
-premillennial views to children. The one idea worth landing is simple and true to the source
-material: faithfulness to Jesus, even in small everyday ways, is itself a kind of "reigning,"
+premillennial views to children. The one idea worth landing is simple: faithfulness to Jesus, even in small everyday ways, is itself a kind of "reigning,"
 and that's true right now, not just in some faraway future.

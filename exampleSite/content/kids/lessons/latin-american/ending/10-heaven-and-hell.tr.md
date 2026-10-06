@@ -71,6 +71,6 @@ yardım et. Amin."
 ## Öğretmen İçin Notlar
 
 Bu yaş grubu için cehennem dilini yumuşak tutun ve canlı, korku temelli görüntülerden kaçının —
-nokta "Tanrı'nın iyi armağanları olmayan bir hayat", çarpıcı bir ceza değil. Kaynak materyalin
-cehennemi öncelikle bir korkutma aracı olarak kullanmaya karşı kendi uyarısıyla uyumlu olarak,
-tehditten çok Tanrı'nın daveti ve yakınlık arzusunu vurgulayın.
+nokta "Tanrı'nın iyi armağanları olmayan bir hayat", çarpıcı bir ceza değil. Tehditten çok
+Tanrı'nın daveti ve yakınlık arzusunu vurgulayın; cehennem, hele çocuklarla, öncelikle bir
+korkutma aracı olarak kullanılmamalıdır.

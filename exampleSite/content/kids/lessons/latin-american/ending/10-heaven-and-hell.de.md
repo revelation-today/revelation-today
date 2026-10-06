@@ -77,5 +77,5 @@ nah zu sein. Amen."
 Haltet die Sprache über die Hölle sanft und vermeidet bildhafte, angsteinflößende
 Beschreibungen für dieses Alter — der Punkt ist "ein Leben ohne Gottes gute Gaben", nicht
 bildhafte Strafe. Betont Gottes Einladung und seinen Wunsch nach Nähe statt Drohung, passend zur
-eigenen Vorsicht des Quellenmaterials, die Hölle nicht hauptsächlich als Angstmacherei
+Vorsicht, die Hölle nicht hauptsächlich als Angstmacherei
 einzusetzen.

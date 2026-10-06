@@ -78,5 +78,5 @@ dengan-Mu setiap hari. Amin."
 Jaga agar bahasa tentang neraka tetap lembut dan hindari gambaran yang menakutkan secara nyata
 untuk kelompok usia ini — intinya adalah "kehidupan tanpa pemberian baik Allah," bukan hukuman
 yang mengerikan secara gamblang. Tekankan undangan dan kerinduan Allah akan kedekatan, bukan
-ancaman, sesuai dengan kehati-hatian materi sumber sendiri terhadap penggunaan neraka terutama
+ancaman, dengan kehati-hatian terhadap penggunaan neraka terutama
 sebagai alat untuk menakut-nakuti.

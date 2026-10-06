@@ -73,6 +73,6 @@ karena Engkau melihatnya dan itu penting bagi-Mu. Amin."
 
 Lewati perdebatan tentang milenium sepenuhnya untuk usia ini — tidak perlu menjelaskan pandangan
 amilenial lawan premilenial kepada anak-anak. Satu gagasan yang layak disampaikan sederhana dan
-sesuai dengan materi sumbernya: kesetiaan kepada Yesus, bahkan dengan cara-cara kecil
+sederhana: kesetiaan kepada Yesus, bahkan dengan cara-cara kecil
 sehari-hari, adalah bentuk "memerintah" itu sendiri, dan itu benar sekarang juga, bukan cuma di
 masa depan yang jauh.

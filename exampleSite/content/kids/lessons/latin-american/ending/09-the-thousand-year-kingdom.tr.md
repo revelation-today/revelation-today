@@ -68,6 +68,6 @@ olmak). Onlara hatırlat: bunu yapmak, Tanrı'nın gözünde bu tacı gerçekten
 ## Öğretmen İçin Notlar
 
 Bu yaş için bin yıl tartışmasını tamamen atlayın — çocuklara amilenyalist ve premilenyalist
-görüşleri açıklamaya gerek yok. Üzerinde durulmaya değer tek fikir basit ve kaynak materyale
+görüşleri açıklamaya gerek yok. Üzerinde durulmaya değer tek fikir basit ve metne
 sadık: İsa'ya sadakat, günlük küçük yollarla bile, bir tür "hükmetme"dir, ve bu sadece uzak bir
 gelecekte değil, şu anda da doğrudur.

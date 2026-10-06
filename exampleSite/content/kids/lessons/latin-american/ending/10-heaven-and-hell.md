@@ -72,5 +72,5 @@ Amen."
 
 Keep hell language gentle and avoid vivid fear-based imagery for this age group — the point is
 "life without God's good gifts," not graphic punishment. Emphasize God's invitation and desire
-for closeness rather than threat, matching the source material's own caution against using hell
-mainly as a scare tactic.
+for closeness rather than threat. Hell is not to be used mainly as a scare tactic, least of all
+with children.
