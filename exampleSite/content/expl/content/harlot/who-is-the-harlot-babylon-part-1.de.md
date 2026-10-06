@@ -94,7 +94,7 @@ Sie hat viele Parallelen — meist als bewusster Kontrast — zur Braut in Kapit
 
 | Die Frau in Kapitel 12 | Die Hure in Kapitel 17 | Die Braut in Kapitel 19 und 21 |
 |---|---|---|
-| Verborgen in der **Wüste** ({{% bible val="12,6" link="rev:12,6" lang="de" %}}) | Gesehen in der **Wüste** ({{% bible val="17,3" link="rev:17,3" lang="de" %}}) |  |
+| *Verborgen* in der **Wüste** ({{% bible val="12,6" link="rev:12,6" lang="de" %}}) | *Gesehen* in der **Wüste** ({{% bible val="17,3" link="rev:17,3" lang="de" %}}) |  |
 |  | Eine **Stadt**: Babel ({{% bible val="17,5" link="rev:17,5" lang="de" %}}) | Eine **Stadt**: das neue Jerusalem ({{% bible val="21,9–21" link="rev:21,9-21" lang="de" %}}) |
 |  | Die **Stadt** *ohne Gott* | Die **Stadt** *Gottes* |
 | *Mutter* rechtmäßiger Kinder | *Hure* | *Braut* |

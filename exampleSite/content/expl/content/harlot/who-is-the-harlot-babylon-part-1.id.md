@@ -94,7 +94,7 @@ Ia memiliki banyak kesejajaran — sebagian besar sebagai kontras yang disengaja
 
 | Perempuan dalam pasal 12 | Pelacur dalam pasal 17 | Mempelai dalam pasal 19 dan 21 |
 |---|---|---|
-| Disembunyikan di **padang gurun** ({{% bible val="12:6" link="rev:12,6" lang="ind" %}}) | Terlihat di **padang gurun** ({{% bible val="17:3" link="rev:17,3" lang="ind" %}}) |  |
+| *Disembunyikan* di **padang gurun** ({{% bible val="12:6" link="rev:12,6" lang="ind" %}}) | *Terlihat* di **padang gurun** ({{% bible val="17:3" link="rev:17,3" lang="ind" %}}) |  |
 |  | Sebuah **kota**: Babel ({{% bible val="17:5" link="rev:17,5" lang="ind" %}}) | Sebuah **kota**: Yerusalem baru ({{% bible val="21:9–21" link="rev:21,9-21" lang="ind" %}}) |
 |  | **Kota** *tanpa Allah* | **Kota** *Allah* |
 | *Ibu* dari anak-anak yang sah | *Pelacur* | *Mempelai* |

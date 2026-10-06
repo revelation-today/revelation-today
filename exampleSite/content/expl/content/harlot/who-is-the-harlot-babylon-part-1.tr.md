@@ -94,7 +94,7 @@ Fahişenin, çoğunlukla bilinçli bir karşıtlık olarak, 21. bölümdeki geli
 
 | 12. bölümdeki kadın | 17. bölümdeki fahişe | 19. ve 21. bölümlerdeki gelin |
 |---|---|---|
-| **Çölde** gizlenir ({{% bible val="12:6" link="rev:12,6" lang="tr" %}}) | **Çölde** görülür ({{% bible val="17:3" link="rev:17,3" lang="tr" %}}) |  |
+| **Çölde** *gizlenir* ({{% bible val="12:6" link="rev:12,6" lang="tr" %}}) | **Çölde** *görülür* ({{% bible val="17:3" link="rev:17,3" lang="tr" %}}) |  |
 |  | Bir **şehir**: Babil ({{% bible val="17:5" link="rev:17,5" lang="tr" %}}) | Bir **şehir**: yeni Yeruşalim ({{% bible val="21:9–21" link="rev:21,9-21" lang="tr" %}}) |
 |  | *Tanrı'sız* **şehir** | *Tanrı'nın* **şehri** |
 | Meşru çocukların *anası* | *Fahişe* | *Gelin* |

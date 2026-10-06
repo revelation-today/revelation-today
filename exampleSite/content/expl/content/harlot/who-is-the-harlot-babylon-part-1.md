@@ -94,7 +94,7 @@ She has many parallels — mostly as a deliberate contrast — with the bride in
 
 | The woman in chapter 12 | The harlot in chapter 17 | The bride in chapters 19 and 21 |
 |---|---|---|
-| Hidden in the **wilderness** ({{% bible val="12:6" link="rev:12,6" lang="en" %}}) | Seen in the **wilderness** ({{% bible val="17:3" link="rev:17,3" lang="en" %}}) |  |
+| *Hidden* in the **wilderness** ({{% bible val="12:6" link="rev:12,6" lang="en" %}}) | *Seen* in the **wilderness** ({{% bible val="17:3" link="rev:17,3" lang="en" %}}) |  |
 |  | A **city**: Babel ({{% bible val="17:5" link="rev:17,5" lang="en" %}}) | A **city**: the new Jerusalem ({{% bible val="21:9–21" link="rev:21,9-21" lang="en" %}}) |
 |  | The **city** *without God* | The **city** *of God* |
 | *Mother* of legitimate children | *Harlot* | *Bride* |
