@@ -18,6 +18,8 @@ deeper:
     - name: Asal-usul Babel
       link:  /expl/bible/keyword/the-origin-of-babel
 sources: 
+    - pages: 889–890, 1117–1119
+      ref: beale_rev
     - pages: 847–890
       ref: beale_rev
     - pages: 21, 833, 875
@@ -88,7 +90,7 @@ Tujuan mereka yang dinyatakan adalah untuk berperang melawan Anak Domba. Namun k
 ## Sang pelacur
 
 <a name="f764"></a>
-Ia memiliki banyak kesejajaran — sebagian besar sebagai kontras yang disengaja — dengan mempelai perempuan pada pasal 21 dan perempuan pada pasal 12. Tabel ini sekali lagi menandai rincian yang sepadan dengan huruf **tebal** dan hasil akhir yang sepadan dengan huruf *miring*.
+Ia memiliki banyak kesejajaran — sebagian besar sebagai kontras yang disengaja — dengan mempelai perempuan pada pasal 21 dan perempuan pada pasal 12. Tabel ini sekali lagi menandai rincian yang sepadan dengan huruf **tebal** dan hasil akhir yang sepadan dengan huruf *miring*.[^women]
 
 | Istri pada pasal 12 | Pelacur pada pasal 17 | Mempelai perempuan pada ps.19 dan 21 |
 |--------------------|----------------------|-----------------------|
@@ -144,3 +146,5 @@ Jadi peran-peran ini saling mencerminkan di kedua pasal itu: binatang pertama me
 [^alike]: Tentang bahasa penyesatan yang sama: Bauckham, *Theology*, hlm. 91, 124; Beale, hlm. 262. Roh-roh najis yang sama muncul pada keduanya (16:13–14; 18:2): Beale, hlm. 894.
 
 [^own]: Pengamatan ini berasal dari situs ini sendiri.
+
+[^women]: Perbandingan ini mengikuti Beale, hlm. 889–890. Tentang pelacur dan mempelai sebagai dua kota yang berlawanan, lihat juga daftarnya pada hlm. 1117–1119.

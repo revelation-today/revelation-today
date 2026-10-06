@@ -18,6 +18,8 @@ deeper:
     - name: The origin of Babylon
       link:  /expl/bible/keyword/the-origin-of-babel
 sources: 
+    - pages: 889–890, 1117–1119
+      ref: beale_rev
     - pages: 847–890
       ref: beale_rev
     - pages: 21, 833, 875
@@ -88,7 +90,7 @@ Their stated purpose is to wage war against the Lamb. Things work out rather dif
 ## The Harlot
 
 <a name="1947"></a>
-She has many parallels — mostly as a deliberate contrast — with the bride in chapter 21 and the woman in chapter 12. The table again marks matching details in **bold** and matching outcomes in *italic*.
+She has many parallels — mostly as a deliberate contrast — with the bride in chapter 21 and the woman in chapter 12. The table again marks matching details in **bold** and matching outcomes in *italic*.[^women]
 
 | The woman in chapter 12 | The harlot in chapter 17 | The bride in chapters 19 and 21 |
 |--------------------|----------------------|-----------------------|
@@ -144,3 +146,5 @@ So the roles mirror each other across the two chapters: the first beast supports
 [^alike]: On the shared language of deception: Bauckham, *Theology*, pp. 91, 124; Beale, p. 262. The same unclean spirits appear with both (16:13–14; 18:2): Beale, p. 894.
 
 [^own]: This observation is the site's own.
+
+[^women]: The comparison follows Beale, pp. 889–890. For the harlot and the bride as two opposite cities, see also his list on pp. 1117–1119.

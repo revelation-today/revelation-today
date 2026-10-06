@@ -18,6 +18,8 @@ deeper:
     - name: Der Ursprung Babels
       link:  /expl/bible/keyword/the-origin-of-babel
 sources: 
+    - pages: 889–890, 1117–1119
+      ref: beale_rev
     - pages: 847–890
       ref: beale_rev
     - pages: 21, 833, 875
@@ -88,7 +90,7 @@ Ihr erklärtes Ziel ist es, Krieg gegen das Lamm zu führen. Die Dinge entwickel
 ## Die Hure
 
 <a name="f764"></a>
-Sie hat viele Parallelen — meist als bewusster Kontrast — zur Braut in Kapitel 21 und zur Frau in Kapitel 12. Die Tabelle markiert wieder übereinstimmende Details in **fett** und übereinstimmende Ergebnisse in *kursiv*.
+Sie hat viele Parallelen — meist als bewusster Kontrast — zur Braut in Kapitel 21 und zur Frau in Kapitel 12. Die Tabelle markiert wieder übereinstimmende Details in **fett** und übereinstimmende Ergebnisse in *kursiv*.[^women]
 
 | Ehefrau in Kapitel 12 | Hure in Kapitel 17 | Braut in Kap.19 und 21 |
 |--------------------|----------------------|-----------------------|
@@ -144,3 +146,5 @@ So spiegeln sich die Rollen über die beiden Kapitel hinweg: Das erste Tier unte
 [^alike]: Zur gemeinsamen Sprache der Verführung: Bauckham, *Theology*, S. 91, 124; Beale, S. 262. Dieselben unreinen Geister begegnen bei beiden (16,13–14; 18,2): Beale, S. 894.
 
 [^own]: Diese Beobachtung stammt von dieser Seite selbst.
+
+[^women]: Der Vergleich folgt Beale, S. 889–890. Zur Hure und zur Braut als zwei gegensätzlichen Städten siehe auch seine Liste auf S. 1117–1119.

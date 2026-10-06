@@ -18,6 +18,8 @@ deeper:
     - name: Babil'in kökeni
       link:  /expl/bible/keyword/the-origin-of-babel
 sources: 
+    - pages: 889–890, 1117–1119
+      ref: beale_rev
     - pages: 847–890
       ref: beale_rev
     - pages: 21, 833, 875
@@ -88,7 +90,7 @@ Belirtilen amaçları Kuzu'ya karşı savaş açmaktır. Göreceğimiz gibi işl
 ## Fahişe
 
 <a name="b45d"></a>
-Fahişenin, çoğunlukla bilinçli bir karşıtlık olarak, 21. bölümdeki gelinle ve 12. bölümdeki kadınla birçok paralelliği vardır. Tabloda yine eşleşen ayrıntılar **kalın**, eşleşen sonuçlar ise *italik* olarak işaretlenmiştir.
+Fahişenin, çoğunlukla bilinçli bir karşıtlık olarak, 21. bölümdeki gelinle ve 12. bölümdeki kadınla birçok paralelliği vardır. Tabloda yine eşleşen ayrıntılar **kalın**, eşleşen sonuçlar ise *italik* olarak işaretlenmiştir.[^women]
 
 | 12. bölümdeki eş | 17. bölümdeki fahişe | 19. ve 21. bölümdeki gelin |
 |--------------------|----------------------|-----------------------|
@@ -144,3 +146,5 @@ Böylece iki bölümdeki roller birbirini yansıtır: 17. bölümde ilk canavar 
 [^alike]: Ortak aldatma dili için: Bauckham, *Theology*, s. 91, 124; Beale, s. 262. Aynı kirli ruhlar ikisinde de görülür (16:13–14; 18:2): Beale, s. 894.
 
 [^own]: Bu gözlem sitenin kendisine aittir.
+
+[^women]: Karşılaştırma Beale'i izler, s. 889–890. Fahişe ile gelinin iki karşıt şehir olarak ele alınışı için ayrıca s. 1117–1119'daki listesine bakın.
