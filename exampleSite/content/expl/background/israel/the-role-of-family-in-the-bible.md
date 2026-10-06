@@ -27,7 +27,7 @@ Society was built bottom-up, with the family as its smallest unit. So it mattere
 
 The Bible is sharply critical of this system, because it obviously left people without a safety net whenever they had no family behind them — widows, orphans, and families with little standing. That's why Scripture repeatedly shows God stepping in as the defender of [widows](https://www.bibleserver.com/search/NIV/widows) and orphans, even making care for them a {{% bible val="key element of faith" link="jas:1,27" lang="en" %}}.
 
-God also has a habit of choosing important people — kings, no less — from the very families the culture would have overlooked:
+God also chooses important people — kings, no less — from the very families the culture would have overlooked:
 
 - {{% bible val="unimportant families" link="rut:4,16-17" lang="en" %}}: Ruth was a Moabite, and yet became the great-grandmother of King David.
 - foreigners ({{% bible val="see the four women in Jesus' family tree" link="mat:1,2-16" lang="en" %}}): the {{% bible val="Canaanite Tamar" link="gen:38" lang="en" %}}, the {{% bible val="Rahab of Jericho" link="jos:6,25" lang="en" %}}, the {{% bible val="Moabite Ruth" link="rut:1,1-4" lang="en" %}}, and {{% bible val="Bathsheba" link="2sa:11,3" lang="en" %}}, the wife of a Hittite.
@@ -43,7 +43,7 @@ The family unit consisted of the patriarch (the oldest male member) and his wife
 
 The patriarch's role was to provide financial support for the family, to enforce law, justice, and morality within it, and to care for its disadvantaged members through illness, war, or famine. In the most extreme situations — famine, crushing debt — the patriarch even had to decide who would survive and who wouldn't, who would go into slavery and who would be bought back out of it. This is also the role the covenant gives God: in the treaties of the time the stronger party was called "father", was bound to provide for and protect the weaker, and asked for exclusive loyalty — {{% int_link val="God's covenant" link="/expl/background/israel/gods-covenant" %}} builds on exactly this.
 
-When the patriarch died, or when the family grew too large to function as one unit, it split, and the oldest male in each resulting family became the new patriarch. {{% bible val="Terah who had three sons: Haran, Abram and Nahor. When Haran dies, he leaves a son" link="gen:11,27-31" lang="en" %}} which {{% bible val="Abram takes care of" link="gen:12,1-4" lang="en" %}} shows the system working as intended.
+When the patriarch died, or when the family grew too large to function as one unit, it split, and the oldest male in each resulting family became the new patriarch. {{% bible val="Terah had three sons: Haran, Abram and Nahor. When Haran died, he left a son, Lot" link="gen:11,27-31" lang="en" %}}, and {{% bible val="Abram took care of him" link="gen:12,1-4" lang="en" %}}: the system working as intended.
 
 Women, too, could {{% bible val="inherit under the law" link="num:27,1-8" lang="en" %}} where there was no son.
 
@@ -52,11 +52,11 @@ Women, too, could {{% bible val="inherit under the law" link="num:27,1-8" lang="
 <a name="4395"></a>
 The first-born son held a leading {{% bible val="role among his siblings" link="gen:43,33" lang="en" %}} and {{% bible val="received the double inheritance" link="deu:21,17" lang="en" %}}, since he was the likely successor to his father and needed, in effect, to be trained from early on to take care of the whole family once his father was gone.
 
-{{% bible val="Reuben who, as the oldest son" link="exo:6,14" lang="en" %}} shows this responsibility in action: he was {{% bible val="very troubled when Joseph got lost" link="gen:37,21-30" lang="en" %}} and later {{% bible val="pledged his son for his family" link="gen:42,37" lang="en" %}} as surety.
+{{% bible val="Reuben, the oldest son" link="exo:6,14" lang="en" %}}, shows this responsibility in action: he was {{% bible val="very troubled when Joseph got lost" link="gen:37,21-30" lang="en" %}} and later {{% bible val="pledged his son for his family" link="gen:42,37" lang="en" %}} as surety.
 
 But the eldest son wasn't always the best leader for a family, and God repeatedly overturns the expected order — with {{% bible val="Jacob" link="gen:25,25-26" lang="en" %}}, {{% bible val="Ephraim" link="gen:48,13-20" lang="en" %}}, and {{% bible val="David" link="1sa:16,1-13" lang="en" %}} all displacing an older brother.
 
-A woman, meanwhile, faced a genuinely precarious position: she belonged first to her father's family, then became a wife and joined her husband's family, and finally, after her husband's death, was taken care of by her sons within one of their families. The Bible {{% bible val="shows a woman who fell through all these nets" link="rut:1,1-5" lang="en" %}} — Ruth — and yet was {{% bible val="covered by her redeemer, Boaz" link="rut:4" lang="en" %}}. Tamar is another such case: {{% bible val="Tamar who is judged righteous because Judah did not provide her with a husband so that she would be protected by a family" link="gen:38,26" lang="en" %}} (the law she was owed: {{% bible val="Deut 25:5–10" link="deu:25,5-10" lang="en" %}}).
+A woman, meanwhile, faced a genuinely precarious position: she belonged first to her father's family, then became a wife and joined her husband's family, and finally, after her husband's death, was taken care of by her sons within one of their families. The Bible {{% bible val="shows a woman who fell through all these nets" link="rut:1,1-5" lang="en" %}} — Ruth — and yet was {{% bible val="covered by her redeemer, Boaz" link="rut:4" lang="en" %}}. Tamar is another such case: {{% bible val="Judah calls her more righteous than himself" link="gen:38,26" lang="en" %}}, because he had not given her the husband who would have kept her inside the family (the law she was owed: {{% bible val="Deut 25:5–10" link="deu:25,5-10" lang="en" %}}).
 
 ## The land
 
