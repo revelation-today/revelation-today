@@ -41,7 +41,7 @@ Der Mann hatte völlige Freiheit bis auf eine Einschränkung: Er sollte nicht vo
 
 Alles andere hatte er — eine Aufgabe, den Garten zu bebauen und zu bewahren, kreative Verantwortung, die sich darin ausdrückte, dass er den Tieren Namen gab (und ihnen damit eine Identität verlieh), und eine innige Beziehung zu Gott. Aber eines fehlte noch, das Einzige, was Gott nicht gut nennt: Er war allein.
 
-Gott selbst existiert in Beziehung und wird durch sie definiert — Gott ist Liebe, und Liebe ergibt nur in Beziehung einen Sinn —, darum suchte er ein Gegenüber für den Mann, fand aber keines, das unter den Tieren passend war, und machte stattdessen die Frau aus ihm. Der Mann war überwältigt und nannte sie „Wow-Mann“, aber Gott nannte sie „Hilfe“ — ein Wort, das man besser mit „Lebensretterin“ übersetzt. Und genau dort beginnt der Sündenfall: Von da an braucht es nur noch einen Auslöser — und die Gestalt einer Schlange.
+Gott selbst existiert in Beziehung und wird durch sie definiert — Gott ist Liebe, und Liebe ergibt nur in Beziehung einen Sinn —, darum suchte er ein Gegenüber für den Mann, fand aber keines, das unter den Tieren passend war, und machte stattdessen die Frau aus ihm. Der Mann war voller Freude und nannte sie „Frau“; Gott hatte sie „Hilfe“ genannt — ein Wort, das man besser mit „Lebensretterin“ übersetzt. Und genau dort beginnt der Sündenfall: Von da an braucht es nur noch einen Auslöser — und die Gestalt einer Schlange.
 
 ## Der Auslöser
 
@@ -55,7 +55,7 @@ Dann gibt sie sie dem Mann — und er muss nicht erst gesucht werden, denn er is
 ## Gottes Rettungsplan
 
 <a name="8cbd"></a>
-Gott hätte sie direkt bloßstellen können, aber er tut es nicht. Stattdessen spielt er den Ahnungslosen und fragt: „Adam, wo bist du?“ — die perfekte Gelegenheit für Adam, aus seiner Scham herauszutreten und reinen Tisch mit Gott zu machen.
+Gott hätte sie direkt bloßstellen können, aber er tut es nicht. Stattdessen fragt er, als wüsste er es nicht: „Adam, wo bist du?“ — die perfekte Gelegenheit für Adam, aus seiner Scham herauszutreten und reinen Tisch mit Gott zu machen.
 
 Adam jedoch zeigt nur auf die Symptome seiner Scham: Er versteckte sich, weil er nackt war, obwohl er zuvor schon nackt gewesen war, ohne jede Scham. Also hakt Gott direkter nach: Hast du von dem Baum gegessen, von dem du nicht essen solltest?
 

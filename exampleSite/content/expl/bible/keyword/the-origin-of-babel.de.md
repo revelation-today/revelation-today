@@ -22,7 +22,7 @@ Nach einer langen Genealogie im Anschluss an die Sintflut beschließen die Mensc
 - um sich einen Namen zu machen
 - um einen zentralen Punkt zu haben, damit sie nicht zerstreut werden
 
-Es wird ein gewaltiges Bauprojekt — und dann beginnt der eigentlich amüsante Teil. Kaum machen sie sich daran, ihren Turm bis zum Himmel zu bauen, kommt Gott herab, um sich das anzusehen, in einer Geste, die sowohl ihre Anstrengung als auch die dahinterstehende Bedrohung verspottet. Was bedeutet es, dass Gott besorgt ist, nichts werde ihnen mehr unmöglich sein? Wahrscheinlich, dass sie sich eingeredet haben, alles ohne ihn tun zu können.
+Es wird ein gewaltiges Bauprojekt — und dann wendet sich die Geschichte. Kaum machen sie sich daran, ihren Turm bis zum Himmel zu bauen, kommt Gott herab, um sich das anzusehen, in einer Geste, die sowohl ihre Anstrengung als auch die dahinterstehende Bedrohung verspottet. Was bedeutet es, dass Gott besorgt ist, nichts werde ihnen mehr unmöglich sein? Wahrscheinlich, dass sie sich eingeredet haben, alles ohne ihn tun zu können.
 
 Und tatsächlich erreichen sie keines ihrer beiden Ziele — es geschieht genau das Gegenteil.
 

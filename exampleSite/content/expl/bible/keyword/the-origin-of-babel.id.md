@@ -22,7 +22,7 @@ Setelah silsilah panjang sesudah air bah, manusia memutuskan untuk membangun seb
 - untuk membuat nama bagi diri mereka sendiri
 - untuk memiliki sebuah titik pusat, supaya mereka tidak tercerai-berai
 
-Itu menjadi sebuah proyek pembangunan yang sangat besar — dan di situlah bagian yang menarik dimulai. Begitu mereka mulai membangun menara mereka hingga ke langit, Allah turun untuk melihatnya, sebuah tindakan yang mengejek baik usaha mereka maupun ancaman di baliknya. Apa artinya ketika Allah prihatin bahwa tidak ada yang mustahil bagi mereka? Kemungkinan besar, mereka telah meyakinkan diri sendiri bahwa mereka dapat melakukan segalanya tanpa Dia.
+Itu menjadi sebuah proyek pembangunan yang sangat besar — dan di situlah kisahnya berbalik. Begitu mereka mulai membangun menara mereka hingga ke langit, Allah turun untuk melihatnya, sebuah tindakan yang mengejek baik usaha mereka maupun ancaman di baliknya. Apa artinya ketika Allah prihatin bahwa tidak ada yang mustahil bagi mereka? Kemungkinan besar, mereka telah meyakinkan diri sendiri bahwa mereka dapat melakukan segalanya tanpa Dia.
 
 Dan pada kenyataannya, tidak satu pun dari kedua tujuan mereka tercapai — yang terjadi justru sebaliknya.
 

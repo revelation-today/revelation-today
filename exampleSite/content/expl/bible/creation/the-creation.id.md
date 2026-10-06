@@ -41,7 +41,7 @@ Laki-laki itu memiliki kebebasan penuh, kecuali satu larangan: ia tidak boleh ma
 
 Ia memiliki segala hal lainnya — sebuah tugas untuk mengolah dan menjaga taman itu, kepemilikan kreatif yang diwujudkan dengan memberi nama kepada binatang-binatang (dan dengan demikian memberi mereka identitas), serta hubungan yang akrab dengan Allah. Tetapi satu hal masih kurang, satu-satunya hal yang tidak disebut baik oleh Allah: ia sendirian.
 
-Allah sendiri hidup dalam relasi dan didefinisikan olehnya — Allah adalah kasih, dan kasih hanya bermakna dalam relasi — maka Ia mencari padanan bagi laki-laki itu, tidak menemukan yang cocok di antara binatang-binatang, dan sebagai gantinya menciptakan perempuan dari dirinya. Laki-laki itu takjub dan menyebutnya "perempuan," tetapi Allah menyebutnya "penolong" — sebuah kata yang lebih tepat diterjemahkan "penyelamat hidup." Dan di situlah tepatnya kejatuhan itu dimulai: yang dibutuhkan sejak itu hanyalah satu titik balik, dan wujud seekor ular.
+Allah sendiri hidup dalam relasi dan didefinisikan olehnya — Allah adalah kasih, dan kasih hanya bermakna dalam relasi — maka Ia mencari padanan bagi laki-laki itu, tidak menemukan yang cocok di antara binatang-binatang, dan sebagai gantinya menciptakan perempuan dari dirinya. Laki-laki itu bersukacita dan menamainya "perempuan"; Allah telah menyebutnya "penolong" — sebuah kata yang lebih tepat diterjemahkan "penyelamat hidup." Dan di situlah tepatnya kejatuhan itu dimulai: yang dibutuhkan sejak itu hanyalah satu titik balik, dan wujud seekor ular.
 
 ## Dorongan Terakhir
 
@@ -55,7 +55,7 @@ Kemudian ia memberikannya kepada laki-laki itu — dan laki-laki itu tidak perlu
 ## Rencana Pemulihan Allah
 
 <a name="8cbd"></a>
-Allah bisa saja langsung membongkar kesalahan mereka, tetapi Ia tidak melakukannya. Sebaliknya, Ia berpura-pura tidak tahu dan bertanya, "Adam, di manakah engkau?" — kesempatan sempurna bagi Adam untuk keluar dari rasa malunya dan berterus terang kepada Allah.
+Allah bisa saja langsung membongkar kesalahan mereka, tetapi Ia tidak melakukannya. Sebaliknya, Ia bertanya seolah-olah tidak tahu, "Adam, di manakah engkau?" — kesempatan sempurna bagi Adam untuk keluar dari rasa malunya dan berterus terang kepada Allah.
 
 Namun Adam hanya menunjuk pada gejala-gejala rasa malunya: ia bersembunyi karena telanjang, padahal sebelumnya ia pun telanjang tanpa rasa malu sama sekali. Maka Allah mendesak lebih langsung: sudahkah engkau makan dari pohon yang dilarang bagimu?
 

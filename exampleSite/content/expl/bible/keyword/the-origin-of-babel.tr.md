@@ -22,7 +22,7 @@ Tufandan sonra uzun bir soyağacının ardından, insanlar gökyüzüne ulaşaca
 - kendilerine bir ad yapmak
 - dağılıp gitmemek için merkezi bir nokta edinmek
 
-Bu, dev bir inşaat projesine dönüşür — ve sonra işin eğlenceli kısmı başlar. Onlar kulelerini göklere ulaştırmaya koyulur koyulmaz, Tanrı hem çabalarıyla hem de bu çabanın arkasındaki tehditle alay edercesine, bir göz atmak için aşağı iner. Tanrı’nın, onlar için hiçbir şeyin imkânsız olmayacağından endişe etmesi ne anlama gelir? Muhtemelen şu anlama gelir: Kendilerinin, O olmadan her şeyi yapabileceklerine ikna olmuşlardır.
+Bu, dev bir inşaat projesine dönüşür — ve sonra öykü döner. Onlar kulelerini göklere ulaştırmaya koyulur koyulmaz, Tanrı hem çabalarıyla hem de bu çabanın arkasındaki tehditle alay edercesine, bir göz atmak için aşağı iner. Tanrı’nın, onlar için hiçbir şeyin imkânsız olmayacağından endişe etmesi ne anlama gelir? Muhtemelen şu anlama gelir: Kendilerinin, O olmadan her şeyi yapabileceklerine ikna olmuşlardır.
 
 Ve gerçekten de, iki hedeflerinden hiçbiri gerçekleşmez — tam tersi olur.
 

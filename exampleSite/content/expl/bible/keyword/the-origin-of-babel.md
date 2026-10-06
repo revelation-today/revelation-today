@@ -22,7 +22,7 @@ After a long genealogy following the flood, the people decide to build a great t
 - to make a name for themselves
 - to have a central point, so that they would not be scattered
 
-It becomes a huge building project — and then the fun begins. As soon as they set out to build their tower to the sky, God comes down to have a look, in a move that mocks both their effort and the threat behind it. What does it mean that God is concerned nothing will be impossible for them? Probably that they have convinced themselves they can do everything without Him.
+It becomes a huge building project — and then the story turns. As soon as they set out to build their tower to the sky, God comes down to have a look, in a move that mocks both their effort and the threat behind it. What does it mean that God is concerned nothing will be impossible for them? Probably that they have convinced themselves they can do everything without Him.
 
 And in fact, neither of their goals is achieved — quite the opposite happens.
 

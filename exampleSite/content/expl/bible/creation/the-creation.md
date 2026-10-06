@@ -41,7 +41,7 @@ The man had complete freedom except for one restriction: he was not to eat from 
 
 He had everything else — a task to cultivate and protect the garden, creative ownership expressed in naming the animals (and so giving them identity), and an intimate relationship with God. But one thing was still missing, the one thing God does not call good: he was alone.
 
-God himself exists in relationship and is defined by it — God is love, and love only makes sense in relationship — so he looked for a counterpart for the man, found none suitable among the animals, and made the woman out of him instead. The man was amazed and called her "wow-man," but God called her "helper" — a word better translated "life-saver." And that is exactly where the fall begins: all it takes from there is a tipping point, and the shape of a serpent.
+God himself exists in relationship and is defined by it — God is love, and love only makes sense in relationship — so he looked for a counterpart for the man, found none suitable among the animals, and made the woman out of him instead. The man was delighted and named her "woman"; God had called her "helper" — a word better translated "life-saver." And that is exactly where the fall begins: all it takes from there is a tipping point, and the shape of a serpent.
 
 ## The tipping stone
 
@@ -55,7 +55,7 @@ Then she gives it to the man — and he doesn't need to be found, because he has
 ## God's recovery plan
 
 <a name="deaf"></a>
-God could have exposed them outright, but he doesn't. Instead he plays naive and asks, "Adam, where are you?" — the perfect opening for Adam to step out of his shame and come clean with God.
+God could have exposed them outright, but he doesn't. Instead he asks, as if he did not know, "Adam, where are you?" — the perfect opening for Adam to step out of his shame and come clean with God.
 
 Adam, though, only points to the symptoms of his shame: he hid because he was naked, even though he had been naked before with no shame at all. So God presses more directly: have you eaten from the tree you were told not to eat from?
 
