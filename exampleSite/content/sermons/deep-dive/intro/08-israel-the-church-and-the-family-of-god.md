@@ -83,14 +83,14 @@ The church's future is rooted in Israel's story, not detached from it.
 **Why the language is so sharp, then: it's a family dispute, not an ethnic rejection.** The
 church can speak this pointedly about Jewish opponents precisely *because* it is part of Israel
 and cannot cut off its own roots — even when some Jews are attacking it. This is the crucial
-distinction the source material insists on: Revelation's harsh words about "the synagogue of
+distinction to hold on to: Revelation's harsh words about "the synagogue of
 Satan" are never a statement about ethnicity. They're a statement about relationship to Jesus,
 directed at specific opponents in specific cities, from within a family that still claims its own
 Jewish inheritance as fully its own.
 
 **A note on tone for this session specifically.** This is one of the more theologically freighted
 topics in the whole introduction, with a long, sometimes painful history of misuse in the church.
-Handle it the way the source material does: carefully, without triumphalism, and without letting
+Handle it carefully, without triumphalism, and without letting
 "the church inherits Israel's titles" slide into "therefore Israel has been replaced" — the
 argument here is continuity and inclusion, not replacement.
 
@@ -100,8 +100,8 @@ argument here is continuity and inclusion, not replacement.
 1. Pick two or three of the title-transfers above (beloved, bride, kingdom of priests, temple)
    and trace them from their Old Testament root to their New Testament application. What
    pattern do you notice in how consistently this happens?
-2. Why does the source material insist that Revelation's "synagogue of Satan" language is about
-   relationship to Jesus, not ethnicity? What in the text supports that reading?
+2. Why is Revelation's "synagogue of Satan" language about relationship to Jesus rather than
+   about ethnicity? What in the text supports that reading?
 3. What does it mean that the 24 elders represent the 12 tribes and 12 apostles as a single,
    unified image rather than two separate groups?
 

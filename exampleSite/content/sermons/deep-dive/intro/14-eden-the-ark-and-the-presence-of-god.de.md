@@ -56,15 +56,14 @@ Faden seit 1. Mose 3 zuläuft.
 Gottes Gegenwart im umfassendsten denkbaren Sinn unter den Menschen wohnt. Als er starb, riss der
 Vorhang, der das Allerheiligste schützte, entzwei — ein Zeichen dafür, dass der Zugang zu Gottes
 Gegenwart nun allen offensteht, nicht mehr einem einzigen Priester einmal im Jahr vorbehalten ist.
-Eine Korrektur, die hier am Ausgangsmaterial angebracht werden muss: Es zitierte ursprünglich
-{{% bible val="1. Korinther 6,19" link="1co:6,19" lang="de" %}} („euer Leib ist ein Tempel des
-Heiligen Geistes in euch") zur Stütze der Aussage, dass „der Tempel zur Gemeinde wird". Doch dieser
-Vers handelt tatsächlich vom eigenen Leib des einzelnen Gläubigen im Rahmen einer Erörterung
-sexueller Ethik — keine Aussage über die Gemeinde als Ganzes. Die besseren Belegstellen für diese
-gemeinschaftsbezogene Aussage sind {{% bible val="1. Korinther 3,16-17" link="1co:3,16-17" lang="de" %}} („ihr [in der Mehrzahl] seid Gottes Tempel") und
+Wenn ihr den nächsten Schritt geht — der Tempel wird zur Gemeinde —, nehmt die Stellen, die ihn
+tragen: {{% bible val="1. Korinther 3,16-17" link="1co:3,16-17" lang="de" %}} („ihr [in der
+Mehrzahl] seid Gottes Tempel") und
 {{% bible val="Epheser 2,19-22" link="eph:2,19-22" lang="de" %}} („ein heiliger Tempel im Herrn …
-eine Wohnstätte Gottes"). Der theologische Grundgedanke bleibt bestehen — er braucht nur das
-richtige textliche Fundament.
+eine Wohnstätte Gottes").
+{{% bible val="1. Korinther 6,19" link="1co:6,19" lang="de" %}} („euer Leib ist ein Tempel des
+Heiligen Geistes in euch") wird hier oft zitiert, handelt aber vom eigenen Leib des einzelnen
+Gläubigen im Rahmen einer Erörterung sexueller Ethik, nicht von der Gemeinde als Leib.
 
 **Nun zurück zu Usa — und warum diese Geschichte tatsächlich eine gute Nachricht ist.** Gott hatte
 von den frühesten Tagen der Stiftshütte an ganz konkrete Anweisungen gegeben: Die innersten

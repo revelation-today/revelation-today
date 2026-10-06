@@ -52,16 +52,14 @@ merah ini sejak Kejadian 3.
 {{% bible val="Yesus sendiri adalah bait suci" link="jhn:2,19-22" lang="ind" %}} — tempat hadirat
 Allah berdiam di antara manusia dalam pengertian yang paling penuh. Ketika Ia wafat, tirai yang
 menjaga Ruang Mahakudus terbelah dua, menandakan bahwa akses kepada hadirat Allah kini terbuka
-bagi semua orang, tidak lagi terbatas pada satu imam setahun sekali. Ada koreksi yang perlu dibuat
-terhadap materi sumber di sini: aslinya mengutip
-{{% bible val="1 Korintus 6:19" link="1co:6,19" lang="ind" %}} ("tubuhmu adalah bait Roh Kudus")
-untuk mendukung klaim bahwa "bait suci menjadi gereja." Namun ayat itu sebenarnya berbicara
-tentang tubuh seorang percaya secara pribadi dalam konteks pembahasan etika seksual — bukan
-pernyataan tentang gereja secara korporat. Teks yang lebih tepat untuk klaim korporat itu adalah
+bagi semua orang, tidak lagi terbatas pada satu imam setahun sekali. Ketika Anda mengambil langkah
+berikutnya — bait suci menjadi gereja — pakailah teks yang memang menopangnya:
 {{% bible val="1 Korintus 3:16-17" link="1co:3,16-17" lang="ind" %}} ("kamu [jamak] adalah bait
 Allah") dan {{% bible val="Efesus 2:19-22" link="eph:2,19-22" lang="ind" %}} ("bait yang kudus di
-dalam Tuhan... tempat kediaman Allah"). Poin teologis yang mendasarinya tetap benar — hanya perlu
-dasar tekstual yang tepat.
+dalam Tuhan... tempat kediaman Allah").
+{{% bible val="1 Korintus 6:19" link="1co:6,19" lang="ind" %}} ("tubuhmu adalah bait Roh Kudus")
+sering dikutip di sini, tetapi ayat itu berbicara tentang tubuh seorang percaya secara pribadi
+dalam konteks pembahasan etika seksual, bukan tentang gereja sebagai satu tubuh.
 
 **Sekarang, kembali ke Uza — dan mengapa kisah ini sebenarnya kabar baik.** Allah telah memberikan
 instruksi yang sangat spesifik sejak masa awal kemah suci: perabotan paling dalam, termasuk tabut

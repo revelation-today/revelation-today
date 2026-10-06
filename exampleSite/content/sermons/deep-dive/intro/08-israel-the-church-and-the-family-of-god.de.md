@@ -88,14 +88,14 @@ ihr losgelöst.
 **Warum die Sprache so scharf ist: Es ist ein Familienstreit, keine ethnische Ablehnung.** Die
 Gemeinde kann so pointiert über jüdische Gegner sprechen, gerade *weil* sie Teil Israels ist und
 ihre eigenen Wurzeln nicht kappen kann — selbst wenn manche Juden sie angreifen. Das ist die
-entscheidende Unterscheidung, auf der das Quellenmaterial besteht: Die scharfen Worte der
+entscheidende Unterscheidung, an der festzuhalten ist: Die scharfen Worte der
 Offenbarung über die „Synagoge des Satans" sind nie eine Aussage über Ethnie. Sie sind eine Aussage
 über die Beziehung zu Jesus, gerichtet an bestimmte Gegner in bestimmten Städten, aus einer Familie
 heraus, die ihr eigenes jüdisches Erbe weiterhin voll und ganz als das ihre beansprucht.
 
 **Ein Hinweis zum Ton speziell für diese Einheit.** Das ist eines der theologisch am stärksten
 aufgeladenen Themen der ganzen Einführung, mit einer langen, manchmal schmerzhaften Geschichte des
-Missbrauchs in der Kirche. Behandelt es so, wie es das Quellenmaterial tut: sorgfältig, ohne
+Missbrauchs in der Kirche. Behandelt es sorgfältig, ohne
 Triumphalismus, und ohne „die Gemeinde erbt Israels Titel" zu „deshalb wurde Israel ersetzt"
 abgleiten zu lassen — das Argument hier ist Kontinuität und Einschluss, nicht Ersatz.
 
@@ -105,8 +105,8 @@ abgleiten zu lassen — das Argument hier ist Kontinuität und Einschluss, nicht
 1. Wählt zwei oder drei der obigen Titel-Übertragungen (Geliebte, Braut, Königreich von Priestern,
    Tempel) und verfolgt sie von ihrer alttestamentlichen Wurzel zu ihrer neutestamentlichen
    Anwendung. Welches Muster bemerkt ihr in der Beständigkeit, mit der das geschieht?
-2. Warum besteht das Quellenmaterial darauf, dass die Sprache der Offenbarung von der „Synagoge des
-   Satans" eine Frage der Beziehung zu Jesus ist, nicht der Ethnie? Was im Text stützt diese Lesart?
+2. Warum ist die Sprache der Offenbarung von der „Synagoge des Satans" eine Frage der Beziehung
+   zu Jesus und nicht der Ethnie? Was im Text stützt diese Lesart?
 3. Was bedeutet es, dass die 24 Ältesten die 12 Stämme und 12 Apostel als ein einziges, vereintes
    Bild repräsentieren statt als zwei getrennte Gruppen?
 

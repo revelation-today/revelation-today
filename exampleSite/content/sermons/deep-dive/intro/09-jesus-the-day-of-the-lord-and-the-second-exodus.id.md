@@ -21,7 +21,7 @@ kedatangan Yesus sekaligus dinantikan dan sama sekali tidak terduga.
 
 ## Pengajaran Inti
 
-Tiga artikel sumber mendasari sesi ini:
+Tiga artikel mendasari sesi ini:
 [Hari Tuhan]({{< relref "expl/background/israel/the-day-of-the-lord" >}}),
 [Yesus dan Perjanjian]({{< relref "expl/background/israel/jesus-and-the-covenant" >}}), dan
 [Eksodus Kedua]({{< relref "expl/background/israel/the-second-exodus" >}}).
@@ -30,25 +30,23 @@ Tiga artikel sumber mendasari sesi ini:
 mewujudkan apa yang selalu dijanjikan perjanjian itu: penghakiman atas musuh-musuh Israel,
 pemulihan Israel, penghakiman atas orang jahat di dalam Israel sendiri, dan penggenapan janji-janji
 yang tersisa seperti pencurahan Roh. Ketika Israel kembali dari pembuangan, bait suci dibangun
-kembali di bawah Ezra dan tembok di bawah Nehemia, dengan Yosua sebagai imam besar dan Zerubabel
+kembali di bawah Zerubabel dan tembok di bawah Nehemia, dengan Yosua sebagai imam besar dan
+Zerubabel
 sebagai penguasa — bagian-bagian lahiriahnya sudah di tempatnya. Tetapi substansinya belum: umat
 itu masih di bawah kekuasaan asing dalam setiap arti yang berarti
 ({{% bible val="Ezra 9" link="ezr:9" lang="ind" %}}), berkat yang dijanjikan belum tiba
-({{% bible val="Hagai 1:7-12" link="hag:1,7-12" lang="ind" %}}), dan pencurahan Roh belum terjadi
-({{% bible val="Yehezkiel 36:25-27" link="ezk:36,25-27" lang="ind" %}}). Satu koreksi kutipan yang
-layak dicatat di sini: klaim materi sumber bahwa "tanah itu masih di bawah kutuk" menunjuk pada
-Maleakhi 3:10-11 — tetapi ayat-ayat itu sebenarnya adalah janji positif tentang berkat *jika* umat
-membawa persepuluhan penuh. Pernyataan eksplisit bahwa tanah itu berada di bawah kutuk karena
-menahan persepuluhan justru ada satu ayat sebelumnya, di Maleakhi 3:9. Perbaikan kecil, kesimpulan
-yang sama: dengan setiap ukuran kenabian, pembuangan itu belum sungguh-sungguh berakhir — hanya
+({{% bible val="Hagai 1:7-12" link="hag:1,7-12" lang="ind" %}}), tanah itu masih di bawah kutuk
+karena persepuluhan yang ditahan
+({{% bible val="Maleakhi 3:9" link="mal:3,9" lang="ind" %}}), dan pencurahan Roh belum terjadi
+({{% bible val="Yehezkiel 36:25-27" link="ezk:36,25-27" lang="ind" %}}). Dengan setiap ukuran
+kenabian, pembuangan itu belum sungguh-sungguh berakhir — hanya
 berganti bentuk lahiriahnya.
 
 **Perselisihan tentang bagaimana Hari TUHAN akan tiba.** Pada zaman Yesus, kelompok-kelompok Yahudi
 sangat tidak sepakat mengenai perinciannya: Qumran mengharapkan penarikan diri dari masyarakat
 dengan peningkatan ketaatan Taurat; orang Farisi mendorong peningkatan ketaatan di dalam masyarakat
-sebagaimana adanya; orang Saduki menyukai kerja sama dengan Roma (layak sedikit dikoreksi di sini —
-orang Saduki lebih tepat digambarkan memegang pandangan ketaatan hukum yang relatif minimal,
-menolak tradisi lisan orang Farisi, alih-alih menyukai ketaatan yang "meningkat"); dan kaum Zelot
+sebagaimana adanya; orang Saduki memegang hukum yang tertulis saja, menolak tradisi lisan orang
+Farisi, dan menyukai kerja sama dengan Roma; dan kaum Zelot
 menginginkan peningkatan ketaatan yang dipasangkan dengan perlawanan bersenjata aktif. Ke dalam
 lanskap yang terpecah itu, Markus membuka injilnya dengan kata *euangelion* — istilah untuk
 pengumuman naik takhta kekaisaran — segera diikuti dengan sebuah kutipan dari Yesaya tepat pada
@@ -69,17 +67,15 @@ tidak mungkin menjadi yang terbesar, sebuah pembalikan yang seharusnya sudah dik
 pemilihannya sendiri sebagai yang terkecil di antara bangsa-bangsa
 ({{% bible val="Ulangan 7:7" link="deu:7,7" lang="ind" %}}).
 
-**Sebuah kata yang keras dan jujur dari materi sumber yang layak disebutkan dengan hati-hati.**
+**Sebuah kata keras yang perlu disebutkan dengan hati-hati.**
 Sebagian dari apa yang diharapkan Israel ternyata adalah kesalahpahaman: bahwa musuhnya adalah
 orang Roma yang menindas (Yesus menyebut musuh yang sesungguhnya sebagai kuasa-kuasa setan,
 {{% bible val="Markus 3:22-27" link="mrk:3,22-27" lang="ind" %}}), bahwa "sisa" yang setia berarti
 mereka yang tampak saleh, dan bahwa memerintah berarti memerintah sebagaimana bangsa-bangsa lain
-memerintah. Tinjauan akurasi menandai ini sebagai sebuah wilayah di mana materi sumber
-menggeneralisasi tentang "apa yang dipikirkan Israel" tanpa mengutip berbagai sumber Bait Suci
-Kedua yang akan mendukungnya — layak diperlakukan sebagai sebuah pola umum yang representatif,
-bukan sebuah klaim yang kokoh tentang keyakinan setiap orang Yahudi abad pertama, terutama mengingat
-betapa materi sumber yang sama menunjukkan kelompok-kelompok ini tidak sepakat satu sama lain
-hanya beberapa paragraf sebelumnya.
+memerintah. Katakanlah itu dengan hati-hati dalam kelompok: "apa yang diharapkan Israel" adalah
+sebuah pola umum yang representatif, bukan klaim yang kokoh tentang keyakinan setiap orang Yahudi
+abad pertama — keempat kelompok yang disebut beberapa paragraf sebelumnya justru tidak sepakat
+satu sama lain tentang pertanyaan-pertanyaan ini.
 
 **Sudah, tetapi belum sepenuhnya.** Ketika Yesus membaca
 {{% bible val="Yesaya 61:1-2" link="isa:61,1-2" lang="ind" %}} di sinagoge dan menyatakannya telah
@@ -96,13 +92,11 @@ dengan kutipan Yesaya 40 yang sama — "persiapkanlah jalan bagi TUHAN" — kare
 adalah Keluaran: sarana Allah memulihkan Israel, yang kini berjalan melalui gereja. Kisah Para
 Rasul kembali pada bahasa "jalan" ini enam kali, dan mengembangkannya melalui pencakupan orang
 Yahudi dari setiap bangsa pada hari Pentakosta, kedatangan Roh, pemulihan kerajaan Daud, dan
-pencakupan mereka yang tersisih. Satu koreksi kutipan: perbandingan "pohon ara" dalam tabel
-Markus/Yesaya (penghakiman Yesus atas pohon ara yang tidak berbuah yang membingkai kedatangan-Nya
-di Yerusalem) sesungguhnya berdasar pada
-{{% bible val="Markus 11:12-14, 20-21" link="mrk:11,12-14" lang="ind" %}}, bukan Wahyu 17:14 (yang
-berbicara tentang binatang dan sepuluh raja, tidak berhubungan dengan pohon ara atau kesuburan) —
-sebuah kutipan yang tidak cocok dalam materi sumber yang layak disebutkan jika Anda mencarinya
-langsung.
+pencakupan mereka yang tersisih. Satu baris dalam tabel Markus/Yesaya layak dicari langsung dalam
+teksnya: perbandingan "pohon ara", penghakiman Yesus atas pohon ara yang tidak berbuah yang
+membingkai kedatangan-Nya di Yerusalem, ada di
+{{% bible val="Markus 11:12-14, 20-21" link="mrk:11,12-14" lang="ind" %}} — penghakiman atau
+janji, tergantung apakah pohon itu berbuah.
 
 ## Pertanyaan Diskusi
 

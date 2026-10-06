@@ -70,15 +70,13 @@ protruding from his face; we intuitively read that symbolically already. The inv
 extend that same instinct consistently across the book, rather than switching to a literal
 reading whenever the symbol seems to map onto something we recognize in our own time.
 
-**A place where the underlying source needed a small correction.** One example in the original
-article, connecting the feeding of the 5,000 to "spiritual food," cited
-{{% bible val="Matthew 16:5-12" link="mat:16,5-12" lang="en" %}} — but that passage is actually
-Jesus's later "leaven of the Pharisees" warning, which merely references the feeding miracles in
-passing. The feeding narrative itself, and the "bread of life" theme it develops, is better
-found in {{% bible val="Matthew 14:13-21" link="mat:14,13-21" lang="en" %}} or, more fully, in
-{{% bible val="John 6" link="jhn:6,1-14" lang="en" %}}. Small correction, but worth modeling for
-your group: even careful, well-sourced material benefits from double-checking citations against
-the text itself — that habit is part of what this deep-dive format is for.
+**Have the right text open for the feeding of the 5,000.** The feeding narrative, and the "bread
+of life" theme it develops, is {{% bible val="Matthew 14:13-21" link="mat:14,13-21" lang="en" %}}
+or, more fully, {{% bible val="John 6" link="jhn:6,1-14" lang="en" %}}.
+{{% bible val="Matthew 16:5-12" link="mat:16,5-12" lang="en" %}} is Jesus's later "leaven of the
+Pharisees" warning, which only references the feeding miracles in passing — an easy one to reach
+for by mistake. Worth modeling for your group: checking a citation against the text itself is
+part of what this deep-dive format is for.
 
 **Why this matters practically.** If Revelation defaults to symbolic reading anchored in its own
 first-century world (Rome, the emperor cult, the seven churches' real struggles), then the

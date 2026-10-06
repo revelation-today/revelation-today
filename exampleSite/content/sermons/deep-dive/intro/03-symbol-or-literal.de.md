@@ -76,16 +76,14 @@ Gesicht ragt; wir lesen das intuitiv bereits symbolisch. Die Einladung besteht d
 Instinkt konsequent auf das ganze Buch auszuweiten, statt zu einer wörtlichen Lesart zu wechseln,
 sobald ein Symbol scheinbar auf etwas passt, das wir aus unserer eigenen Zeit kennen.
 
-**Eine Stelle, an der das zugrundeliegende Quellenmaterial einer kleinen Korrektur bedurfte.** Ein
-Beispiel im ursprünglichen Artikel, das die Speisung der 5.000 mit „geistlicher Nahrung"
-verbindet, zitierte {{% bible val="Matthäus 16,5-12" link="mat:16,5-12" lang="de" %}} — aber diese
-Stelle ist tatsächlich Jesu spätere Warnung vor dem „Sauerteig der Pharisäer", die die
-Speisungswunder nur beiläufig erwähnt. Die Speisungserzählung selbst, und das Thema „Brot des
-Lebens", das sie entfaltet, findet sich besser in
+**Für die Speisung der 5.000 die richtige Stelle aufschlagen.** Die Speisungserzählung selbst,
+und das Thema „Brot des Lebens", das sie entfaltet, steht in
 {{% bible val="Matthäus 14,13-21" link="mat:14,13-21" lang="de" %}} oder, ausführlicher, in
-{{% bible val="Johannes 6" link="jhn:6,1-14" lang="de" %}}. Eine kleine Korrektur, aber es lohnt
-sich, sie eurer Gruppe vorzuleben: Selbst sorgfältiges, gut belegtes Material profitiert davon,
-Zitate am Text selbst noch einmal zu überprüfen — genau diese Gewohnheit ist Teil dessen, wofür
+{{% bible val="Johannes 6" link="jhn:6,1-14" lang="de" %}}.
+{{% bible val="Matthäus 16,5-12" link="mat:16,5-12" lang="de" %}} ist Jesu spätere Warnung vor dem
+„Sauerteig der Pharisäer", die die Speisungswunder nur beiläufig erwähnt — leicht zu verwechseln.
+Es lohnt sich, das eurer Gruppe vorzuleben:
+Zitate am Text selbst noch einmal zu überprüfen ist Teil dessen, wofür
 dieses Deep-Dive-Format gedacht ist.
 
 **Warum das praktisch wichtig ist.** Wenn die Offenbarung standardmäßig symbolisch gelesen werden

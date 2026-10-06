@@ -19,7 +19,7 @@ Ketika Yesus datang ke bumi, pesan dan perilaku-Nya "mengejutkan" orang-orang â€
 ## Penantian akan Hari Tuhan
 
 <a name="f713"></a>
-Pada zaman Yesus, orang Yahudi sedang menantikan Hari Tuhan, tetapi mereka sangat tidak sepakat tentang bagaimana hari itu akan tiba. Qumran mengharapkan sebuah penarikan diri (sebagian) dari masyarakat disertai dengan ketaatan yang semakin ketat terhadap hukum Taurat. Orang Farisi mendorong ketaatan yang semakin ketat terhadap hukum Taurat di dalam masyarakat sebagaimana adanya. Sejarawan Yahudi Yosefus menyimpulkan bahwa Israel telah ditolak dan bahwa Allah sebaliknya telah memilih orang Romawi. Orang Saduki lebih memilih ketaatan yang semakin ketat terhadap hukum Taurat disertai ketundukan dan kerja sama dengan pemerintahan Romawi. Dan kaum Zelot menginginkan ketaatan yang semakin ketat terhadap hukum Taurat dipadukan dengan perlawanan aktif terhadap Roma.
+Pada zaman Yesus, orang Yahudi sedang menantikan Hari Tuhan, tetapi mereka sangat tidak sepakat tentang bagaimana hari itu akan tiba. Qumran mengharapkan sebuah penarikan diri (sebagian) dari masyarakat disertai dengan ketaatan yang semakin ketat terhadap hukum Taurat. Orang Farisi mendorong ketaatan yang semakin ketat terhadap hukum Taurat di dalam masyarakat sebagaimana adanya. Sejarawan Yahudi Yosefus menyimpulkan bahwa Israel telah ditolak dan bahwa Allah sebaliknya telah memilih orang Romawi. Orang Saduki memegang hukum yang tertulis saja, menolak tradisi lisan orang Farisi, dan lebih memilih ketundukan serta kerja sama dengan pemerintahan Romawi. Dan kaum Zelot menginginkan ketaatan yang semakin ketat terhadap hukum Taurat dipadukan dengan perlawanan aktif terhadap Roma.
 
 ## Tantangannya
 

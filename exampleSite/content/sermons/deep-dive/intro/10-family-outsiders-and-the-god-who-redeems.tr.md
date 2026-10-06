@@ -37,7 +37,7 @@ herkesi tamamen savunmasız bırakıyordu: dullar, yetimler ve hiçbir sosyal ko
 Bu yüzden dul ve yetimlere bakmak gerçek dinin belirleyici bir işareti haline gelir
 ({{% bible val="Yakup 1:27" link="jas:1,27" lang="tr" %}}). Ve Kutsal Kitap'ın kendi
 anlatısının kalıbı bu eleştiriyi pekiştirir: Tanrı, kralları ve kahramanları çevredeki kültürün
-yazacağı tam olarak o ailelerden seçmeye devam eder — Moavlı yarı Ruth, Kral Davut'un
+yazacağı tam olarak o ailelerden seçmeye devam eder — Moavlı Ruth, Kral Davut'un
 büyükannesi olur; İsa'nın Matta 1'deki soy kütüğünde adı geçen dört kadından üçü İsrailli
 olmayan yabancılardır (Kenanlı Tamar, Moavlı Ruth, Hititli'nin karısı Bat-Şeva).
 
@@ -59,15 +59,13 @@ davranmıyor — tanımlanmış bir yasal görevi yerine getiriyor ve metin bili
 Tanrı'nın kendisinin çok daha büyük, çok daha çaresiz bir aile için ne yapacağını önceden
 göstermek için kullanıyor.
 
-**Kaynak makaleden düzeltmeye değer bir yer.** Orijinal metin, "kadınların yasaya göre miras
-alabildiği" iddiası için Sayılar 36'yı kaynak gösteriyordu. Sayılar 36 aslında, kabile toprak
-paylarının kabileler arasında el değiştirmemesi için Selofhad'ın kızlarının kiminle
-evlenebileceğini kısıtlayan bir takip kararıdır — miras hakkını kurmak yerine önceden varsayar.
-Oğulların yokluğunda kızlara miras hakkı veren asıl karar
-{{% bible val="Sayılar 27:1-11" link="num:27,1-11" lang="tr" %}}'dir. Doğru alıntılamaya değer,
-çünkü altta yatan nokta — Kutsal Kitap'ın hukuki geleneğinin çevredeki kültürün varsaydığından
-kadınlara karşı daha ilerici bir şey yaptığı — en güçlü gerçek metinsel desteği hak ediyor,
-ikincil bir referans değil.
+**Kadınların miras alabildiğini söylerken açık tutulacak ayet.** Oğulların yokluğunda kızlara
+miras hakkı veren karar
+{{% bible val="Sayılar 27:1-11" link="num:27,1-11" lang="tr" %}}'dir: Selofhad'ın kızlarının
+davası. Burada sık sık Sayılar 36 anılır, ama o, kabile topraklarının kabileler arasında el
+değiştirmemesi için bu kızların kiminle evlenebileceğini kısıtlayan takip kararıdır — hakkı
+vermek yerine önceden varsayar. Güçlü metni kullanın: İsrail'in yasasının kadınlar için çevredeki
+kültürün varsaydığından fazlasını yaptığı noktası, bunu gerçekten söyleyen ayeti hak ediyor.
 
 **Bunun Vahiy'i okumak için neden önemli olduğu.** Vahiy, Tanrı'nın halkını, başı kendilerini
 başarısızlığa uğratabilecek bir ataerki değil, hiç başarısızlığa uğramayan bir kurtarıcı olan bir

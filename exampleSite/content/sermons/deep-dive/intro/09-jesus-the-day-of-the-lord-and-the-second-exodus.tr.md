@@ -20,7 +20,7 @@ boşluk, İsa'nın gelişinin neden hem beklenen hem de tamamen beklenmedik oldu
 
 ## Ana Öğreti
 
-Bu oturumu üç kaynak makale besliyor:
+Bu oturumu üç makale besliyor:
 [Rab’bin günü ve kalanlar]({{< relref "expl/background/israel/the-day-of-the-lord" >}}),
 [İsa ve antlaşma]({{< relref "expl/background/israel/jesus-and-the-covenant" >}}) ve
 [İkinci Çıkış]({{< relref "expl/background/israel/the-second-exodus" >}}).
@@ -28,25 +28,22 @@ Bu oturumu üç kaynak makale besliyor:
 **Rab'bin Günü gerçekte nedir.** Bu sadece "dünyanın sonu" değildir — antlaşmanın her zaman
 vaat ettiğini nihayet teslim eden gündür: İsrail'in düşmanlarına yargı, İsrail'in restorasyonu,
 İsrail'in kendi içindeki kötülere yargı ve Ruh'un dökülmesi gibi kalan vaatlerin gerçekleşmesi.
-İsrail sürgünden döndüğünde, tapınak Ezra döneminde, sur ise Nehemya döneminde yeniden inşa
+İsrail sürgünden döndüğünde, tapınak Zerubbabel döneminde, sur ise Nehemya döneminde yeniden inşa
 edildi, Yeşu baş kahin ve Zerubbabel yönetici olarak — dışsal parçalar yerindeydi. Ama öz orada
 değildi: halk her anlamlı açıdan hâlâ yabancı yönetim altındaydı
 ({{% bible val="Ezra 9" link="ezr:9" lang="tr" %}}), vadedilen bereket gelmemişti
-({{% bible val="Hagay 1:7-12" link="hag:1,7-12" lang="tr" %}}) ve Ruh'un dökülmesi
-gerçekleşmemişti ({{% bible val="Hezekiel 36:25-27" link="ezk:36,25-27" lang="tr" %}}). Burada
-belirtmeye değer bir alıntı düzeltmesi: kaynak malzemenin "toprak hâlâ lanet altındaydı" iddiası
-Malaki 3:10-11'e işaret ediyor — ama bu ayetler aslında halkın tam ondalığı getirmesi
-*durumunda* gelecek bereketin olumlu vaadidir. Toprağın onu geri tutmak için lanet altında
-olduğuna dair açık ifade bir ayet öncesinde, Malaki 3:9'dadır. Küçük bir düzeltme, aynı sonuç:
-her peygamberlik ölçüsüne göre sürgün gerçekten sona ermemişti — sadece dışsal şeklini
+({{% bible val="Hagay 1:7-12" link="hag:1,7-12" lang="tr" %}}), toprak geri tutulan ondalık
+yüzünden hâlâ lanet altındaydı
+({{% bible val="Malaki 3:9" link="mal:3,9" lang="tr" %}}) ve Ruh'un dökülmesi
+gerçekleşmemişti ({{% bible val="Hezekiel 36:25-27" link="ezk:36,25-27" lang="tr" %}}).
+Her peygamberlik ölçüsüne göre sürgün gerçekten sona ermemişti — sadece dışsal şeklini
 değiştirdi.
 
 **Rab'bin Günü'nün nasıl geleceği konusundaki anlaşmazlık.** İsa'nın zamanında, Yahudi gruplar
 ayrıntılar konusunda keskin bir şekilde anlaşamıyordu: Kumran, artan Tora gözlemiyle toplumdan
 çekilmeyi bekliyordu; Ferisiler, olduğu haliyle toplum içinde artan gözlem için baskı
-yapıyordu; Sadukiler Roma ile işbirliğini savunuyordu (burada küçük bir düzeltme gerekiyor —
-Sadukiler, "artan" gözlemi savunmak yerine, Ferisilerin sözlü geleneğini reddederek nispeten
-minimal bir yasal gözlem görüşüne sahip olarak daha iyi tanımlanır); ve Zelotlar artan gözlemi
+yapıyordu; Sadukiler yalnızca yazılı yasaya bağlı kalıyor, Ferisilerin sözlü geleneğini reddediyor
+ve Roma ile işbirliğini savunuyordu; ve Zelotlar artan gözlemi
 etkin silahlı direnişle eşleştirmek istiyordu. Bu parçalanmış manzaraya, Markos, imparatorluk
 tahta çıkış ilanı için kullanılan terim olan *euangelion* kelimesiyle müjdesine başlar, hemen
 ardından Rab'bin Günü'nün ilan edildiği tam noktada Yeşaya'dan bir alıntı ekler. İddia
@@ -65,17 +62,14 @@ olası olmayan şey en büyük olan haline gelir, İsrail'in ulusların en küç
 seçilmişliğinden zaten tanıması gereken bir tersine çevirme
 ({{% bible val="Yasa'nın Tekrarı 7:7" link="deu:7,7" lang="tr" %}}).
 
-**Kaynak malzemeden dikkatle belirtilmeye değer, zor, dürüst bir söz.** İsrail'in beklediği
+**Dikkatle belirtilmesi gereken zor bir söz.** İsrail'in beklediği
 bazı şeyler yanlış anlamalar olarak ortaya çıktı: düşmanların baskıcı Romalılar olduğu (İsa gerçek
 düşmanları şeytani güçler olarak adlandırdı,
 {{% bible val="Markos 3:22-27" link="mrk:3,22-27" lang="tr" %}}), sadık "kalıntının" görünürde
 dindar olanlar anlamına geldiği ve hükmetmenin diğer ulusların hükmettiği şekilde hükmetmek
-anlamına geldiği. Doğruluk incelemesi, kaynak malzemenin "İsrail'in ne düşündüğü" hakkında bunu
-destekleyecek İkinci Tapınak dönemi kaynaklarının aralığını belirtmeden genelleme yaptığı bu alanı
-tespit etti — bunu her birinci yüzyıl Yahudi'sinin inancı hakkında su geçirmez bir iddia yerine,
-geniş, temsili bir kalıp olarak ele almakta fayda var, özellikle aynı kaynak malzemenin sadece
-birkaç paragraf önce bu grupların birbiriyle ne kadar anlaşmazlık içinde olduğunu göstermesi göz
-önüne alındığında.
+anlamına geldiği. Bunu grupta dikkatle söyleyin: "İsrail'in beklediği" geniş, temsili bir
+kalıptır, her birinci yüzyıl Yahudi'sinin inancı hakkında su geçirmez bir iddia değil — birkaç
+paragraf önce sayılan dört grup tam da bu sorular üzerinde birbiriyle anlaşmazlık içindeydi.
 
 **Zaten, ama henüz değil.** İsa havrada {{% bible val="Yeşaya 61:1-2" link="isa:61,1-2" lang="tr" %}}'yi okuyup gerçekleştiğini ilan ettiğinde
 ({{% bible val="Luka 4:16-21" link="luk:4,16-21" lang="tr" %}}), "Tanrımızın öç günü"nden önce
@@ -90,11 +84,10 @@ Yeşaya 40 alıntısıyla açılır — "Rab'bin yolunu hazırlayın" — çünk
 kendisidir: Tanrı'nın İsrail'i restore etme aracı, şimdi kilise aracılığıyla akıyor. Elçilerin
 İşleri bu "yol" diline altı kez döner ve bunu Pentekost'un her ulustan Yahudileri içermesi,
 Ruh'un gelişi, Davut'un krallığının restorasyonu ve dışlananların dahil edilmesi aracılığıyla
-geliştirir. Bir alıntı düzeltmesi: Markos/Yeşaya tablosundaki "incir ağacı" karşılaştırması
-(İsa'nın meyvesiz incir ağacına yargısı, Yeruşalim'e girişini çerçeveleyerek) doğru olarak
-{{% bible val="Markos 11:12-14, 20-21" link="mrk:11,12-14" lang="tr" %}}'e dayanır, Vahiy
-17:14'e değil (bu, incir ağaçları veya meyvelilikle ilgisiz, canavar ve on kral hakkındadır) —
-doğrudan bakarsanız belirtmeye değer, kaynak malzemedeki uyuşmayan bir alıntı.
+geliştirir. Markos/Yeşaya tablosunun bir satırını metnin kendisinde aramaya değer: "incir ağacı"
+karşılaştırması, yani İsa'nın Yeruşalim'e girişini çerçeveleyen meyvesiz incir ağacına yargısı,
+{{% bible val="Markos 11:12-14, 20-21" link="mrk:11,12-14" lang="tr" %}}'tedir — ağaç meyve
+verip vermediğine göre yargı ya da vaat.
 
 ## Tartışma Soruları
 

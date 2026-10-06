@@ -36,7 +36,7 @@ backing utterly exposed: widows, orphans, and families with no social standing. 
 for widows and orphans becomes a defining marker of true religion
 ({{% bible val="James 1:27" link="jas:1,27" lang="en" %}}). And the pattern of the Bible's own
 narrative reinforces the critique: God keeps choosing kings and heroes from exactly the families
-the surrounding culture would have written off — Ruth, half-Moabite, becomes King David's
+the surrounding culture would have written off — Ruth the Moabite becomes King David's
 great-grandmother; three of the four women named in Jesus's genealogy in Matthew 1 are
 non-Israelite outsiders (Tamar the Canaanite, Ruth the Moabite, Bathsheba the Hittite's wife).
 
@@ -59,15 +59,14 @@ Ruth's *go'el* in the book of Ruth, he isn't simply being generous — he's fulf
 legal office, and the text deliberately uses that office to foreshadow what God Himself will do
 for a much larger, much more desperate family.
 
-**A place worth correcting from the source article.** The original text cites Numbers 36 for the
-claim that "women were allowed to inherit according to the law." Numbers 36 is actually a
-follow-up ruling restricting *whom* the daughters of Zelophehad could marry, so that tribal land
-allotments wouldn't transfer between tribes — it presupposes the inheritance right rather than
-establishing it. The actual ruling that grants daughters inheritance rights in the absence of
-sons is {{% bible val="Numbers 27:1-11" link="num:27,1-11" lang="en" %}}. Worth citing correctly,
-because the underlying point — that the Bible's legal tradition does something more progressive
-toward women than the surrounding culture assumed — deserves its strongest actual textual
-support, not a secondary reference.
+**The verse to have open when you say women could inherit.** The ruling that grants daughters an
+inheritance where there are no sons is
+{{% bible val="Numbers 27:1-11" link="num:27,1-11" lang="en" %}}, the case of Zelophehad's
+daughters. Numbers 36 is often quoted here, but it is the follow-up ruling restricting *whom*
+those daughters could marry, so that tribal land wouldn't transfer between tribes — it
+presupposes the right rather than granting it. Use the stronger text: the point that Israel's
+law does something more for women than the surrounding culture assumed deserves the verse that
+actually says it.
 
 **Why this matters for reading Revelation.** Revelation calls God's people to see themselves as
 part of a family whose head is not a patriarch who might fail them, but a redeemer who never

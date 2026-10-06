@@ -46,13 +46,12 @@ into a mountain filling the earth (chapter 2), and "the Ancient of Days and the 
 {{% bible val="overcome the kingdoms and establish an eternal one" link="dan:7,9-14" lang="en" %}}
 (chapter 7).
 
-**A factual correction worth making plainly.** The source material's original dating for the
-"2,300 mornings and evenings" of Daniel 8:14 placed the temple's desecration by Antiochus
-Epiphanes IV at December 6, 176 BC — but Antiochus didn't become king until 175 BC, making that
-date impossible. The well-attested historical date for the temple's desecration (the "abomination
-of desolation" altar to Zeus, per 1 Maccabees) is 167 BC, with the Maccabean rededication —
-Hanukkah — following in December 164 BC. The corrected date doesn't change the underlying
-argument at all; it just fixes an impossible chronology.
+**The dates to keep straight.** Antiochus IV Epiphanes became king in 175 BC. The temple's
+desecration — the "abomination of desolation", the altar to Zeus, per 1 Maccabees — is well
+attested in 167 BC, and the Maccabean rededication, Hanukkah, follows in December 164 BC. Those
+are the dates to hold the "2,300 mornings and evenings" of Daniel 8:14 against; a group member
+working from an older chart may well arrive with 176 BC, which is a year before Antiochus was on
+the throne.
 
 **Why the stone hasn't obviously "filled the whole earth" yet — a live tension worth naming
 honestly.** A few details in Daniel's own text don't map perfectly onto a simple "Rome falls,
@@ -60,8 +59,8 @@ story over" reading. Chapter 2 mentions further kingdoms represented by the stat
 stone's first-coming impact didn't destroy the whole statue at once, since Rome stood for
 centuries longer; and the fourth beast in chapter 7 is described as uniquely fearful and
 different from all previous beasts in ways that don't obviously distinguish Rome from earlier
-empires. The source article is honest that this is a genuinely debated point rather than a
-settled one, and offers one proposed resolution: Jesus's first coming didn't end world history
+empires. This is a genuinely debated point rather than a settled one, and one proposed resolution
+runs like this: Jesus's first coming didn't end world history
 all at once — it started a fundamental change that the church now carries forward, spreading
 through worship, prayer, witness, and perseverance rather than military conquest. Whether you
 find that resolution fully satisfying or still an open question, it's worth surfacing as a live

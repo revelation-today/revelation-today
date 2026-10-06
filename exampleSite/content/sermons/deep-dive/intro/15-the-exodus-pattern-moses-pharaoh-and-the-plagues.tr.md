@@ -20,7 +20,7 @@ tersine çevirir. Bu ters çevirme, Çıkış'ı doğru okumanın anahtarıdır 
 
 ## Ana Öğreti
 
-Bu oturum dört kaynak makaleden yararlanmaktadır:
+Bu oturum dört makaleden yararlanmaktadır:
 [Mısır’dan Çıkıştan Önceki Hikaye]({{< relref "expl/bible/exodus/the-story-before-the-exodus" >}}),
 [Musa’nın hikayesi]({{< relref "expl/bible/exodus/the-birth-of-moses" >}}),
 [Firavun’un yüreğinin katılaşması]({{< relref "expl/bible/exodus/the-hardening-of-pharaohs-heart" >}}) ve
@@ -28,11 +28,10 @@ Bu oturum dört kaynak makaleden yararlanmaktadır:
 
 **Tarihsel arka plan, kısaca.** İsrail'in öyküsü büyük olasılıkla Hiksoslar döneminde kesişiyor —
 MÖ 1720 civarında Mısır'ın doğu Nil Deltası'nın kontrolünü ele geçiren, MÖ 1550 civarında da
-kovulan Kenanlı Sami halklar. Kaynak materyale küçük bir düzeltme: Yusuf'un ailesinin yerleştiği
-Goşen, aslında Mısır'ın *kuzeydoğusunda* (Sina sınırına yakın doğu Delta bölgesi) yer alır,
-özgün metinde belirtildiği gibi kuzeybatısında değil — bu düzeltme aslında makalenin sonraki
-noktasını güçlendiriyor, çünkü Goşen'i Pitom, Ramses ve İsrailliler'in sonunda kullandığı çıkış
-yolunun da bulunduğu aynı kuzeydoğu bölgesiyle tutarlı kılıyor. Hiksoslar'ın kovulmasından sonra,
+kovulan Kenanlı Sami halklar. Yusuf'un ailesinin yerleştiği Goşen, Mısır'ın *kuzeydoğusunda* yer
+alır — Sina sınırına yakın doğu Delta bölgesi, yani Pitom, Ramses ve İsrailliler'in sonunda
+kullandığı çıkış yolunun da bulunduğu bölge. Bunu grubunuza haritada göstermeye değer; coğrafya
+argümanın yarısıdır. Hiksoslar'ın kovulmasından sonra,
 Mısır'ın ikinci bir yabancı ele geçirmeyi önleme kararlılığı, Firavun'un geride kalan İsrailliler'e
 karşı giderek artan zulmünü tetikliyor.
 
@@ -83,26 +82,21 @@ Tanrı, İsrail ile Mısır arasında o zamana dek yalnızca Firavun'un çizdiğ
 bütününde ulusal öz anlayışını hedef alır ({{% bible val="Mısır'dan Çıkış 12:12" link="exo:12,12" lang="tr" %}}); sıradan Mısırlılar önceden defalarca uyarılır. Bazı görevliler uyarıyı ciddiye alıp adamlarını
 korumaya aldı (9:20) ve İsrail çıkarken karışık bir kalabalık da onlarla birlikte gitti (12:38).
 
-**Bu makaledeki belirli iddialar üzerine bir uyarı.** Doğruluk incelemesi, kaynak materyaldeki
-Mısır mitolojisiyle ilgili birkaç belirli iddiayı doğrulanamaz ya da muhtemelen hatalı olarak
-işaretledi — bunlar arasında "Tanrı'nın parmağı" ifadesinin ardındaki uydurma gibi görünen bir
-efsane ve standart Mısırbilimde hiçbir dayanağı olmayan, çekirgeye özgü olduğu iddia edilen bir
-ilah yer alıyor. Ayrıca "tanrıların babası" unvanının hangi ilaha ait olduğunda bir hata
-işaretlendi (bu unvan yalnızca "Nil ilahı" değil, Atum, Ra ya da Nun gibi yaratıcı figürlere
-aittir; Nil genellikle Hapi olarak kişileştirilir) ve kurbağa tanrıçası Heket'in, aslında Hnum ile
-eşleştirilmesi gerekirken "Nil ilahı" ile yanlış eşleştirilmesi. Bu belirli mitolojik iddiaları
-tekrarlamak yerine, bu öğretim noktasının en güvenli ve yine de tümüyle ikna edici hâli daha
-sağlam olanıdır: belalar, Mısır'ın kendi ulusal ilahlarına ve Firavun'un sözde ilahi otoritesine
+**Mısır mitolojisine ne kadar yaslanmalı.** Bir kısmı sağlam zemin: kurbağa tanrıçası Heket,
+çömlekçi tanrı Hnum'un eşlikçisi, doğum ve yeni yaşamla ilişkilendirilirdi ve Nil'in kendisine
+tapınılırdı. Başka ayrıntılar — "Tanrı'nın parmağı" ifadesinin ardındaki efsane, tek işi
+çekirgelerden korumak olan bir ilah — standart Mısırbilimden doğrulanması daha güçtür; bunları
+grupta gevşek tutun ve argümanın onlara yaslanmasına izin vermeyin. Buna gerek de yok. Daha sağlam
+hâli bütün yükü taşır: belalar, Mısır'ın kendi ulusal ilahlarına ve Firavun'un sözde ilahi
+otoritesine
 duyduğu güveni sistematik biçimde çökertti; bu, ilk doğanların ölümüyle doruğa ulaştı — Firavun'un
-kendi soy hattına ve gelecekleri (kendi "ilk doğanlarıyla" temsil edilen) artık hiç gelecek
-olmadığı gösterilen hayvanla ilişkili ilahlara doğrudan bir darbeydi. Bu argümanı yapmak için
-belirsiz, kuşkulu bir mitolojik alıntıya ihtiyacınız yok; metnin kendisi bunu taşır.
+kendi soy hattına ve gelecekleri, kendi ilk doğanlarıyla temsil edilen, artık hiç gelecek
+olmadığı gösterilen hayvanla ilişkili ilahlara doğrudan bir darbeydi.
 
-**Belirtilmeye değer bir alıntı düzeltmesi:** Mısır'dan Çıkış 12:12'nin "bekleyecek vakit yok,
-sadece acele etmeye" iddiasını desteklediği iddiası aslında
-{{% bible val="Mısır'dan Çıkış 12:11" link="exo:12,11" lang="tr" %}} ayetine ("kemerinizi bağlamış
-olarak, aceleyle yiyeceksiniz") aittir — 12:12 ise, aynı tartışmada başka bir yerde doğru biçimde
-alıntılanan bir tema olan Mısır'ın ilahlarının yargılanmasıyla ilgilidir.
+**İki ayet, iki nokta, kolayca karışır:**
+{{% bible val="Mısır'dan Çıkış 12:11" link="exo:12,11" lang="tr" %}} acele ile ilgili ayettir
+("kemerinizi bağlamış olarak, aceleyle yiyeceksiniz"); 12:12 ise Mısır'ın ilahlarının
+yargılanmasıyla ilgilidir.
 
 **Fısıh'ın kendisi.** Onuncu beladan önce Tanrı Fısıh'ı tanıtır — yargıdan koruma, Rab'bin
 Sofrası'nın kökeni ve dikkat çekici biçimde, etnik kökene bakılmaksızın İsrail'e katılmak isteyen

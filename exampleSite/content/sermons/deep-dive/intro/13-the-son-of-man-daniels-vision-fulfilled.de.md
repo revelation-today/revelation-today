@@ -30,14 +30,12 @@ kollektive Wirklichkeit, dargestellt durch eine einzelne menschliche Gestalt, di
 anderswo verwendet wird, wenn „Tochter Zion" für die Nation steht, oder Israels Geschichte als die
 Geschichte einer Frau in Hesekiel 16 erzählt wird.
 
-**Hinweis zur Originalsprache, mit einer Korrektur.** Der Quellartikel beschrieb Daniels
-aramäischen Begriff ursprünglich als eine Einheit, „kebar enasch", was „Sohn der Menschheit"
-bedeute. Das analysiert die Grammatik leicht falsch: Der eigentliche Titel ist *bar enasch*
-(בַּר אֱנָשׁ), „Sohn eines Menschen" — das Präfix *ke-* ist ein separates Vergleichspartikel, das
-„wie" oder „gleich" bedeutet, weshalb die Vision wörtlich lautet „[einer] *wie* ein Menschensohn",
-nicht einfach „ein Sohn der Menschheit". Der zugrunde liegende Punkt, den der Artikel macht, gilt
-weiterhin und ist bedeutsam: Diese aramäische Formulierung unterscheidet sich vom hebräischen
-Ausdruck, den Hesekiel verwendet, wenn Gott diesen Propheten „Menschensohn" nennt (*ben adam*,
+**Hinweis zur Originalsprache.** Der Titel lautet in Daniels Aramäisch *bar enasch*
+(בַּר אֱנָשׁ), „Sohn eines Menschen". Das *ke-* davor ist ein separates Vergleichspartikel, das
+„wie" oder „gleich" bedeutet, weshalb die Vision wörtlich lautet „[einer] *wie* ein Menschensohn" —
+eine Gestalt, die einem Menschen gleicht, von der Seite des Himmels aus gesehen. Diese aramäische
+Formulierung ist nicht dieselbe wie der hebräische
+Ausdruck, den Hesekiel hört, wenn Gott diesen Propheten „Menschensohn" nennt (*ben adam*,
 בֶּן אָדָם, „Sohn Adams") — zwei verwandte, aber unterschiedliche Titel, keine austauschbaren
 Synonyme.
 
@@ -76,15 +74,14 @@ nicht darum, jüdische Führer des ersten Jahrhunderts aus einer angenommenen mo
 die Aufgabe Israels, sondern seine Wiederherstellung, wobei die Kirche eingegliedert wird, statt
 Israel durch etwas anderes zu ersetzen (erinnert euch an Sitzung 8).
 
-**Ein Zitat, das eine Korrektur verdient.** Der Quellartikel zitierte ursprünglich
-{{% bible val="Offenbarung 11,5" link="rev:11,5" lang="de" %}} zur Stützung der Behauptung, die
-zwei Zeugen „setzen keine Gewalt ein... sondern überlassen das Gericht Gott". Dieser Vers
-beschreibt tatsächlich, dass die Zeugen selbst übernatürlichen Schaden zufügen — Feuer aus ihrem
-Mund, das ihre Angreifer verzehrt —, was in echter Spannung zu einer Behauptung der Gewaltlosigkeit
-steht. Wenn die beabsichtigte Unterscheidung ist, dass die Zeugen keine politische oder militärische
-Macht ausüben, wie es irdische Herrscher tun, sollte dieser Punkt direkt formuliert werden, statt
-durch einen Vers beschönigt zu werden, der etwas beschreibt, das eher an Elias übernatürliche
-Vergeltung erinnert.
+**Wie man das über die zwei Zeugen sagt.** Die Zeugen tragen keine eigene Waffe: Sie üben keine
+politische oder militärische Macht aus, wie es irdische Herrscher tun. Formuliert es so, denn der
+naheliegendste Vers schneidet in beide Richtungen —
+{{% bible val="Offenbarung 11,5" link="rev:11,5" lang="de" %}} lässt Feuer aus ihrem Mund gehen
+und ihre Angreifer verzehren. Dieses Feuer ist Gottes Gericht, das seine Zeugen schützt, keine
+Truppe, die sie selbst aufgestellt haben; wenn jemand in der Gruppe 11,5 so liest, dass die Zeugen
+Rache nehmen, ist das eine faire Lesart des Bildes und es lohnt sich, darüber zu sprechen, statt
+sie abzutun.
 
 **Das Erbe, das das für die Kirche hinterlässt.** Der Stein, der die Reiche in Daniel 2 zerstört,
 wächst, um die ganze Erde zu füllen — ein Bild für das neue Israel, die Kirche eingeschlossen, die

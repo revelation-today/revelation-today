@@ -20,7 +20,7 @@ this same story's imagery.
 
 ## The Core Teaching
 
-This session draws on four source articles:
+This session draws on four articles:
 [The story before the Exodus]({{< relref "expl/bible/exodus/the-story-before-the-exodus" >}}),
 [The story of Moses]({{< relref "expl/bible/exodus/the-birth-of-moses" >}}),
 [The hardening of Pharaoh’s heart]({{< relref "expl/bible/exodus/the-hardening-of-pharaohs-heart" >}}), and
@@ -28,11 +28,10 @@ This session draws on four source articles:
 
 **The historical backdrop, briefly.** Israel's story likely intersects with the Hyksos period —
 Semitic peoples from Canaan who gained control of the eastern Nile Delta by around 1720 BC before
-being expelled around 1550 BC. A small correction to the source material: Goshen, where Joseph's
-family settled, is properly located in the *northeast* of Egypt (the eastern Delta, near the
-Sinai border), not the northwest as originally stated — a correction that actually strengthens
-the article's own later point, since it keeps Goshen consistent with the northeastern region
-where Pithom, Ramses, and the Israelites' eventual departure route are all also located. After
+being expelled around 1550 BC. Goshen, where Joseph's
+family settled, lies in the *northeast* of Egypt — the eastern Delta, near the Sinai border, the
+same region as Pithom, Ramses and the route by which Israel eventually left. Worth putting on a
+map for the group; the geography is half the argument. After
 the Hyksos expulsion, Egypt's determination to prevent a second foreign takeover is what drives
 Pharaoh's escalating cruelty toward the Israelites who remained.
 
@@ -85,26 +84,19 @@ Egypt's gods and its whole national self-understanding
 personally, who are repeatedly warned in advance. Some officials took the warning and sheltered
 their people (9:20), and when Israel left, a mixed crowd went with them (12:38).
 
-**A caution about specific claims in this article.** The accuracy review flagged several specific
-claims about Egyptian mythology in the source material as unverifiable or likely mistaken —
-including an invented-sounding myth behind "the finger of God" phrase, and a claimed
-locust-specific deity with no basis in standard Egyptology. It also flagged an error in which
-deity is "father of the gods" (that title belongs to creator-figures like Atum, Ra, or Nun, not
-simply "the Nile god," commonly personified as Hapi) and a mismatch pairing the frog goddess
-Heqet with "the Nile god" when she's properly paired with Khnum. Rather than repeating those
-specific mythological claims, the safest and still fully compelling version of this teaching
-point is the sturdier one: the plagues systematically dismantled Egypt's confidence in its own
+**How hard to lean on Egyptian mythology.** Some of it is firm ground: the frog goddess Heqet,
+companion of the potter god Khnum, was associated with birth and new life, and the Nile itself was
+worshipped. Other details — the myth behind the phrase "the finger of God," a deity whose one job
+was protection from locusts — are harder to verify from standard Egyptology, so hold them lightly
+in the group and don't let the argument rest on them. It doesn't need to. The sturdier version
+carries the whole weight: the plagues systematically dismantled Egypt's confidence in its own
 national gods and its Pharaoh's supposed divine authority, culminating in the death of the
 firstborn — a direct strike at Pharaoh's own line of succession and at animal-associated deities
-whose future (represented by their own "firstborn") was now shown to be no future at all. You
-don't need a specific, doubtful mythological citation to make that argument; the text itself
-carries it.
+whose future, represented by their own firstborn, was now shown to be no future at all.
 
-**One citation correction worth noting:** the claim that Exodus 12:12 supports "there is no time
-to wait, only to hurry" actually belongs to
-{{% bible val="Exodus 12:11" link="exo:12,11" lang="en" %}} ("eat it in haste, with your belt
-fastened") — 12:12 is about judgment on Egypt's gods, a theme correctly cited elsewhere in the
-same discussion.
+**Two verses, two points, easily swapped:**
+{{% bible val="Exodus 12:11" link="exo:12,11" lang="en" %}} is the one about haste ("eat it in
+haste, with your belt fastened"); 12:12 is the judgment on Egypt's gods.
 
 **The Passover itself.** Before the tenth plague, God introduces Passover — protection from
 judgment, the origin of the Lord's Supper, and, notably, open to anyone who wanted to join

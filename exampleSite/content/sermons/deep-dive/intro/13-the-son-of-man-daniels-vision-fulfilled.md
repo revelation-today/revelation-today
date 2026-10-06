@@ -30,13 +30,11 @@ context, is Israel — a corporate reality pictured through a single human figur
 technique used elsewhere when "daughter Zion" stands for the nation, or Israel's story is told as
 the story of a woman in Ezekiel 16.
 
-**Original-language note, with a correction.** The source article originally described Daniel's
-Aramaic term as one unit, "kebar enash," meaning "son of mankind." That slightly mis-parses the
-grammar: the actual title is *bar enash* (בַּר אֱנָשׁ), "son of man" — the *ke-* prefix is a
-separate comparative particle meaning "like" or "as," which is why the vision literally reads
-"[one] *like* a son of man," not simply "a son of mankind." The underlying point the article
-makes still holds and matters: this Aramaic phrase differs from the Hebrew Ezekiel uses when
-God calls that prophet "son of man" (*ben adam*, בֶּן אָדָם, "son of Adam") — two related but
+**Original-language note.** The title in Daniel's Aramaic is *bar enash* (בַּר אֱנָשׁ), "son of
+man." The *ke-* in front of it is a separate comparative particle meaning "like" or "as," which
+is why the vision literally reads "[one] *like* a son of man" — a figure who resembles a human
+being, seen from heaven's side. That Aramaic phrase is not the same as the Hebrew Ezekiel hears
+when God calls that prophet "son of man" (*ben adam*, בֶּן אָדָם, "son of Adam") — two related but
 distinct titles, not interchangeable synonyms.
 
 **The problem the title creates.** On its face, Daniel 7 sounds like a promise that Israel will
@@ -71,14 +69,13 @@ Jewish leaders from a position of assumed moral superiority — Jesus's own resp
 abandonment of Israel but its restoration, folding the church into it rather than replacing it
 with something else (recall session 8).
 
-**A citation worth correcting.** The source article originally cited
-{{% bible val="Revelation 11:5" link="rev:11,5" lang="en" %}} to support the claim that the two
-witnesses "do not use violence... but leave the judgment to God." That verse actually describes
-the witnesses inflicting supernatural harm themselves — fire from their mouths consuming their
-attackers — which sits in real tension with a claim of nonviolence. If the intended distinction
-is that the witnesses wield no political or military power the way earthly rulers do, that point
-should be stated directly rather than glossed by a verse that describes something closer to
-Elijah-style supernatural retaliation.
+**How to say this about the two witnesses.** The witnesses carry no weapon of their own: they
+wield no political or military power the way earthly rulers do. State it that way, because the
+verse closest to hand cuts both ways —
+{{% bible val="Revelation 11:5" link="rev:11,5" lang="en" %}} has fire going out from their
+mouths and consuming their attackers. That fire is God's judgment guarding his witnesses, not a
+militia they have raised; if someone in the group reads 11:5 as the witnesses taking revenge,
+that is a fair reading of the picture and worth talking through rather than waving off.
 
 **The heritage this leaves the church.** The stone that destroys the kingdoms in Daniel 2 grows
 to fill the whole earth — a picture of the New Israel, church included, reaching the whole world.

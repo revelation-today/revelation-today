@@ -46,13 +46,11 @@ bölüm) ve "Eskiden Beri Var Olan ve İnsanoğlu"
 {{% bible val="krallıkları alt eder ve ebedi bir krallık kurar" link="dan:7,9-14" lang="tr" %}}
 (7. bölüm).
 
-**Açıkça yapılmaya değer bir gerçek düzeltmesi.** Kaynak malzemenin Daniel 8:14'teki "2.300
-sabah-akşam"ın orijinal tarihlemesi, tapınağın Antiochus Epiphanes IV tarafından kirletilmesini
-6 Aralık MÖ 176'ya yerleştiriyordu — ama Antiochus MÖ 175'e kadar kral olmadı, bu da bu tarihi
-imkansız kılıyor. Tapınağın kirletilmesinin (Zeus'a sunak kurulan "yıkıcı iğrenç şey," 1.
-Makkabiler'e göre) iyi belgelenmiş tarihsel tarihi MÖ 167'dir, Makkabi yeniden adama töreninin —
-Hanukka'nın — Aralık MÖ 164'te takip etmesiyle. Düzeltilmiş tarih altta yatan argümanı hiç
-değiştirmiyor; sadece imkansız bir kronolojiyi düzeltiyor.
+**Birbirine karıştırılmaması gereken tarihler.** Antiochus IV Epiphanes MÖ 175'te kral oldu.
+Tapınağın kirletilmesi — Zeus'a sunak kurulan "yıkıcı iğrenç şey," 1. Makkabiler'e göre — MÖ 167
+için iyi belgelenmiştir ve Makkabi yeniden adama töreni, Hanukka, Aralık MÖ 164'te gelir.
+Daniel 8:14'teki "2.300 sabah-akşam" bu tarihlere göre ölçülür; eski bir tabloyla çalışan bir grup
+üyesi kolayca 6 Aralık MÖ 176 ile gelebilir — Antiochus'un tahta çıkmasından bir yıl önce.
 
 **Taşın neden henüz açıkça "yeryüzünü doldurmadığı" — dürüstçe belirtilmeye değer canlı bir
 gerginlik.** Daniel'in kendi metnindeki birkaç ayrıntı, basit bir "Roma düşer, hikaye biter"
@@ -60,8 +58,8 @@ okumasına mükemmel şekilde oturmuyor. 2. bölüm, heykelin ayaklarıyla temsi
 krallıklardan bahseder; taşın ilk gelişteki etkisi heykelin tamamını bir anda yok etmedi, çünkü
 Roma yüzyıllar boyunca daha ayakta kaldı; ve 7. bölümdeki dördüncü canavar, önceki tüm canavarlardan
 benzersiz derecede korkunç ve Roma'yı önceki imparatorluklardan açıkça ayırt etmeyen şekillerde
-farklı olarak tanımlanır. Kaynak makale bunun gerçekten tartışılan bir nokta olduğu konusunda
-dürüsttür, çözülmüş değil ve bir çözüm öneriyor: İsa'nın ilk gelişi dünya tarihini bir anda
+farklı olarak tanımlanır. Bu, çözülmüş değil, gerçekten tartışılan bir noktadır ve önerilen bir
+çözüm şöyledir: İsa'nın ilk gelişi dünya tarihini bir anda
 bitirmedi — kilisenin şimdi askeri fetih yerine tapınma, dua, tanıklık ve sebat aracılığıyla
 yaymaya devam ettiği temel bir değişimi başlattı. Bu çözümü tam olarak tatmin edici bulsanız da
 bulmasanız da, hâlâ açık bir soru olarak bulsanız da, Daniel'in kendi metninin her ipucunu düzgünce

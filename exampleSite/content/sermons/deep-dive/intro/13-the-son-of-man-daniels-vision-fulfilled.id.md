@@ -33,14 +33,12 @@ digambarkan melalui satu sosok manusia tunggal, teknik yang sama yang dipakai di
 "puteri Sion" mewakili bangsa itu, atau kisah Israel diceritakan sebagai kisah seorang perempuan
 dalam Yehezkiel 16.
 
-**Catatan bahasa asli, dengan sebuah koreksi.** Artikel sumber semula menggambarkan istilah bahasa
-Aram Daniel sebagai satu kesatuan, "kebar enash," yang berarti "anak umat manusia." Itu sedikit
-salah mengurai tata bahasanya: gelar sebenarnya adalah *bar enash* (בַּר אֱנָשׁ), "anak manusia" —
-awalan *ke-* adalah sebuah partikel perbandingan yang terpisah yang berarti "seperti" atau "bagai,"
-itulah mengapa penglihatan itu secara harfiah berbunyi "[seorang] *seperti* anak manusia," bukan
-sekadar "anak umat manusia." Poin dasar yang dibuat artikel itu tetap berlaku dan penting: frasa
-Aram ini berbeda dari istilah Ibrani yang dipakai Yehezkiel ketika Allah menyebut nabi itu "anak
-manusia" (*ben adam*, בֶּן אָדָם, "anak Adam") — dua gelar yang terkait namun berbeda, bukan
+**Catatan bahasa asli.** Gelar itu dalam bahasa Aram Daniel adalah *bar enash* (בַּר אֱנָשׁ),
+"anak manusia." Kata *ke-* di depannya adalah partikel perbandingan yang terpisah yang berarti
+"seperti" atau "bagai," itulah mengapa penglihatan itu secara harfiah berbunyi "[seorang]
+*seperti* anak manusia" — satu tokoh yang menyerupai manusia, dilihat dari sisi surga. Frasa
+Aram ini tidak sama dengan istilah Ibrani yang didengar Yehezkiel ketika Allah menyebut nabi itu
+"anak manusia" (*ben adam*, בֶּן אָדָם, "anak Adam") — dua gelar yang terkait namun berbeda, bukan
 sinonim yang dapat dipertukarkan.
 
 **Masalah yang ditimbulkan gelar ini.** Sepintas, Daniel 7 terdengar seperti janji bahwa Israel
@@ -79,15 +77,14 @@ dari posisi keunggulan moral yang diasumsikan — respons Yesus sendiri adalah p
 tidak pernah berupa peninggalan Israel melainkan pemulihannya, melipat jemaat ke dalamnya alih-alih
 menggantikannya dengan sesuatu yang lain (ingat kembali sesi 8).
 
-**Sebuah kutipan yang layak dikoreksi.** Artikel sumber semula mengutip
-{{% bible val="Wahyu 11:5" link="rev:11,5" lang="ind" %}} untuk mendukung klaim bahwa kedua saksi
-"tidak memakai kekerasan... melainkan menyerahkan penghakiman kepada Allah." Ayat itu sebenarnya
-menggambarkan kedua saksi menimpakan bahaya adikodrati mereka sendiri — api dari mulut mereka yang
-melahap para penyerang mereka — yang duduk dalam ketegangan nyata dengan klaim tanpa kekerasan.
-Jika perbedaan yang dimaksud adalah bahwa kedua saksi tidak memegang kekuasaan politik atau militer
-sebagaimana para penguasa duniawi, poin itu seharusnya dinyatakan secara langsung alih-alih
-dipoles dengan sebuah ayat yang menggambarkan sesuatu yang lebih dekat dengan pembalasan adikodrati
-bergaya Elia.
+**Bagaimana mengatakan hal ini tentang kedua saksi.** Kedua saksi tidak membawa senjata mereka
+sendiri: mereka tidak memegang kekuasaan politik atau militer sebagaimana para penguasa duniawi.
+Katakanlah demikian, karena ayat yang paling dekat justru bermata dua —
+{{% bible val="Wahyu 11:5" link="rev:11,5" lang="ind" %}} menampilkan api yang keluar dari mulut
+mereka dan melahap para penyerang mereka. Api itu adalah penghakiman Allah yang menjaga
+saksi-saksi-Nya, bukan laskar yang mereka himpun sendiri; jika seseorang dalam kelompok membaca
+11:5 sebagai kedua saksi yang membalas dendam, itu pembacaan yang wajar atas gambaran tersebut dan
+layak dibicarakan alih-alih diabaikan.
 
 **Warisan yang ditinggalkan ini bagi jemaat.** Batu yang menghancurkan kerajaan-kerajaan dalam
 Daniel 2 tumbuh hingga memenuhi seluruh bumi — sebuah gambaran Israel Baru, jemaat termasuk di

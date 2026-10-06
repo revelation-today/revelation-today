@@ -24,8 +24,7 @@ aus den Zahlen Daniels und der Offenbarung zu bauen — 70 Wochen, 1260 Tage, 42
 Zeiten und eine halbe Zeit"? Diese Zahlen haben mehr spekulative Datumsberechnungen befeuert als
 fast alles andere in der Schrift. Heute Abend rechnen wir sorgfältig nach, sehen, worauf sie mit
 verblüffender Präzision hinweisen (überraschenderweise auf das Kreuz selbst), und sind ehrlich
-darüber, wo die Chronologie des Quellmaterials selbst eine Korrektur braucht, bevor wir darauf
-etwas aufbauen.
+darüber, welche Schritte der Zählung unter sorgfältigen Lesern Daniels umstritten sind.
 
 ## Teil 1: Die 70 Wochen
 
@@ -49,34 +48,38 @@ versiegeln und das Hochheilige zu salben
 sechs Ziele weit über alles hinaus, was in der Geschichte erreicht wurde, außer dem, was Jesus am
 Kreuz vollbracht hat.
 
-**Eine bedeutende Korrektur an der Chronologie des Quellmaterials.** Die ursprüngliche Abfolge des
-Artikels behauptet, dass 7 Wochen (49 Jahre) vom Erlass zum Wiederaufbau Jerusalems bis 539 v. Chr.
-laufen, und dann 62 Wochen (434 Jahre), „während der Tempel steht" — verankert diesen zweiten
-Zeitraum aber ab 440 v. Chr. (schreibt den Tempelwiederaufbau Nehemia zu) und endet bei 6 v. Chr.
-Zwei Dinge müssen hier korrigiert werden. Erstens wurde der Zweite Tempel tatsächlich 516 v. Chr.
-unter Serubbabel und Darius I. fertiggestellt — Nehemias Beitrag, Jahrzehnte später (ca. 445 v.
-Chr.), war der Wiederaufbau von Jerusalems Mauern, nicht des Tempels. Zweitens, und wichtiger,
-fügen sich die Zahlen, wie ursprünglich dargestellt, nicht tatsächlich zusammen: Beginnt man die
-49-Jahre-Zählung bei 587 v. Chr. und beendet sie 539 v. Chr., und beginnt separat die
-434-Jahre-Zählung bei 440 v. Chr., bleibt eine unerklärte Lücke von etwa 99 Jahren, die Daniel
-9,25 als unmittelbar aufeinanderfolgend beschreibt, nicht mit einer jahrhundertlangen Pause
-dazwischen. Das ist eine echte argumentative Schwäche im Quellmaterial, kein bloßer
-Rundungsfehler — behandelt die Gesamtschlussfolgerung „die siebzig Wochen laufen auf das Kreuz
-zu" als ein gut belegtes historisches Muster, das ernst zu nehmen ist, während ihr eurer Gruppe
-gegenüber ehrlich sagt, dass die genaue Jahrzehnt-für-Jahrzehnt-Rechnung davon abhängt, welchen von
-mehreren vorgeschlagenen Startpunkten (Kyrus' Erlass, Darius' Erlass oder Artaxerxes' Erlass an
-Esra/Nehemia 457 oder 445 v. Chr.) man wählt — ein wirklich umstrittenes Detail unter sorgfältigen
-Lesern Daniels, kein feststehendes.
+**Wie die Zählung tatsächlich läuft — und wo sie pausiert.** Das ist der Teil, den eure Gruppe auf
+einem Whiteboard sehen will. Die Wochen sind echte Jahre, aber sie werden nicht durchgezählt:
+Zweimal hält die Zählung an. Das Wort, Jerusalem wiederherzustellen und aufzubauen, geht
+588/587 v. Chr. durch Jeremia aus, beim Fall der Stadt
+({{% bible val="Jeremia 30,18" link="jer:30,18" lang="de" %}}). Sieben Wochen, 49 Jahre, führen zu
+539 v. Chr., als Kyrus — in {{% bible val="Jesaja 45,1" link="isa:45,1" lang="de" %}} Gottes
+Gesalbter genannt — seinen Erlass gibt. Hier pausiert die Zählung: Kyrus gibt den Befehl, aber es
+dauert fast hundert Jahre, bis Jerusalem wieder als Stadt mit Mauern steht, und das geschieht
+unter Nehemia um 440 v. Chr. Von dort laufen zweiundsechzig Wochen, 434 Jahre, während die Stadt
+„in bedrängter Zeit" steht — unter Persern, Griechen, den syrisch-ägyptischen Reichen und
+schließlich Rom — und reichen bis 6 v. Chr., der Geburt Jesu. Ein zweites Mal pausiert die Zählung,
+bis sein öffentlicher Dienst beginnt.
+
+Sagt klar, dass die Pausen zum Schema gehören und kein Flicken über eine Lücke sind: So liest die
+Quelle der Erklärung, Gerhard Maier, die Stelle. Und sagt genauso klar, dass andere sorgfältige
+Leser anders zählen — durchgehend ab dem Erlass des Artaxerxes (445/444 v. Chr.) oder die Zahlen
+symbolisch statt kalendarisch. Die Schlussfolgerung, auf der diese Einheit aufbaut — dass die
+siebzig Wochen auf das Kreuz zulaufen —, ist stark; die Jahrzehnt-für-Jahrzehnt-Rechnung ist ein
+Vorschlag unter mehreren, und das sollte eure Gruppe wissen.
 
 **Die letzte „Woche", und das Kreuz.** Nach den zweiundsechzig Wochen wird „der Gesalbte getötet
 werden und nichts haben" — Jesus, diesmal nicht Kyrus. „Ausgerottet" kann im Aramäischen auch
 „einen Bund schließen" bedeuten — er starb, um einen zu schließen. In der Mitte der letzten
 siebenjährigen Periode enden Opfer und Speisopfer, weil sie nach dem Kreuz nicht mehr nötig sind
-({{% bible val="Hebräer 10,1-18" link="heb:10,1-18" lang="de" %}}). Das Quellmaterial schlägt sogar
-ein konkretes 7-Jahre-Fenster vor — 27 n. Chr. (Jesu Taufe) bis 34 n. Chr. (Stephanus' Martyrium und
-die entscheidende Wendung des Evangeliums zu den Heiden) —, wobei das Kreuz selbst in der Mitte
-liegt, 31 n. Chr. Haltet diese konkrete Datierung mit angemessener Offenheit: Es ist ein
-plausibler, sorgfältig durchdachter Vorschlag, keine Gewissheit, von der das ganze Argument abhängt.
+({{% bible val="Hebräer 10,1-18" link="heb:10,1-18" lang="de" %}}). Die letzten sieben Jahre sind
+27 n. Chr. — Jesu Taufe, datiert vom fünfzehnten Jahr des Tiberius
+({{% bible val="Lukas 3,1" link="luk:3,1" lang="de" %}}) — bis 34 n. Chr., der Steinigung des
+Stephanus und der entscheidenden Wendung des Evangeliums zu den Heiden, mit dem Kreuz in der Mitte,
+30 n. Chr. Haltet diese Datierung mit angemessener Offenheit: Es ist ein sorgfältig durchdachter
+Vorschlag, keine Gewissheit, von der das ganze Argument abhängt. Die Erklärung liest den jüdischen
+Krieg von 66–73 n. Chr. als Spiegelung derselben Woche vierzig Jahre später — der Tempel in ihrer
+Mitte zerstört, die Opfer enden mit ihm.
 
 ---
 
@@ -105,9 +108,9 @@ Betrüger ausgeführt.
 
 **Wie das 3,5-Jahres-Muster bereits bei Daniel auftauchte.** Die 70 Wochen lösen sich in ihrer
 letzten Periode in zwei Halbwochen von je 3,5 Jahren auf — eine wird häufig als Jesu irdischen
-Dienst gedeutet, die andere reicht in das Zeitalter der Kirche hinein, das darauf folgt. Das ist
-derselbe Zeitraum, aus Gründen, die das Quellmaterial offen als etwas ungewiss behandelt (dazu
-mehr unten), auf drei verschiedene Arten beschrieben.
+Dienst gedeutet, die andere reicht in das Zeitalter der Kirche hinein, das darauf folgt. Die
+Offenbarung nimmt diese halbe Woche auf und macht sie zum Bild der ganzen Zeit zwischen den
+beiden Kommen Jesu.
 
 **Was die drei Zeiträume wahrscheinlich beschreiben.** Die Tieraktivität in Kapitel 13 beginnt
 direkt nach dem Kreuz, sobald der Teufel erkennt, dass er Israel nicht direkt vernichten kann, und
@@ -119,16 +122,19 @@ beiden Kommen umspannen — ein echter Hinweis, angesichts dessen, wie lange das
 Zeugen" viel plausibler als die Kirche selbst funktionieren als als zwei einzelne
 Endzeit-Gestalten (das greifen wir später in der Sitzung über die zwei Zeugen vollständig auf).
 
-**Eine ehrlich gekennzeichnete Unsicherheit — gutes Diskussionsmaterial, keine feststehende
-Antwort.** Warum wechselt der Text die Einheiten (hier Tage, dort Monate, anderswo „Zeiten") für
-etwas, das mathematisch dieselbe Zeitlänge ist? Das Quellmaterial schlägt vor, dass Tage das
-Zeugnis der Kirche markieren, Monate die scheinbare Herrschaft des Teufels markieren und
-Jahre/Zeiten Gottes verborgenes Wirken markieren — aber der Autor des Materials selbst kennzeichnet
-das als „zugegebenermaßen spekulativ", und es löst eine echte Spannung nicht sauber auf: Dasselbe
-Ereignis (der Schutz der Frau) wird sowohl mit „Tagen" (Offb 12,6) als auch mit „Zeiten" (Offb
-12,14) beschrieben, was mit einem sauberen dreiteiligen symbolischen Schema unbequem
-zusammenpasst. Das ist ein guter Ort, um eure Gruppe direkt mit dem Text ringen zu lassen, statt
-ihr eine ordentliche Antwort zu geben, die das Material selbst nicht vollständig liefert.
+**Warum der Text die Einheiten wechselt — und das offene Ende, das bleibt.** Hier Tage, dort
+Monate, anderswo „Zeiten", für etwas, das mathematisch dieselbe Zeitlänge ist. Die Tage markieren
+das Zeugnis der Zeugen und Gottes Versorgung für Israel; die Monate markieren die Herrschaft des
+Teufels und das Zertreten des äußeren Vorhofs; die Jahre oder „Zeiten" markieren Gottes verborgenes
+Wirken. Richard Bauckham hat gezeigt, dass diese Aufteilung bewusst ist: 42 Monate ist die Zahl des
+Tieres, 1260 Tage die der Kirche, und beide gehören zu 36, der Wurzel der 666 des Tieres, und zu
+1225, der Zahl des Volkes Gottes (*Climax of Prophecy*, S. 400–402). Was die Paarung deutlich
+macht: Die Herrschaft des Teufels und die von Gott gegebene Herrschaft der Kirche laufen durch
+dieselbe Zeitspanne nebeneinander. Ein offenes Ende lohnt es, in der Gruppe zu benennen, statt es
+zu glätten: Der Schutz der Frau wird in
+{{% bible val="Offb 12,6" link="rev:12,6" lang="de" %}} mit „Tagen" und in
+{{% bible val="12,14" link="rev:12,14" lang="de" %}} mit „Zeiten" beschrieben — dasselbe Ereignis
+in zwei verschiedenen Einheiten.
 
 ## Gesprächsfragen
 
@@ -137,8 +143,8 @@ ihr eine ordentliche Antwort zu geben, die das Material selbst nicht vollständi
    genaue Jahrzehnt-für-Jahrzehnt-Rechnung umstrittener ist, als ein schneller Blick vermuten
    lässt?
 2. Was legt der Wechsel zwischen „Tagen", „Monaten" und „Zeiten" für dieselbe zugrunde liegende
-   Zeitlänge nahe, was in Offenbarung 11-13 geschieht — und warum ist es ehrlicher, die ungelöste
-   Spannung hier zu benennen, statt eine ordentliche Erklärung zu erzwingen?
+   Zeitlänge nahe, was in Offenbarung 11-13 geschieht — und was bedeutet es, dass die Zeitspanne
+   des Tieres und die der Kirche genau gleich lang sind?
 3. Wie erhellt der Elia-/Karmel-Hintergrund, was geschieht, wenn das zweite Tier in Offenbarung 13
    Feuer vom Himmel herabruft?
 
@@ -151,7 +157,7 @@ ihr eine ordentliche Antwort zu geben, die das Material selbst nicht vollständi
    zweitausend Jahren auslebt, was legt das über eure eigene Rolle in dieser fortlaufenden
    Geschichte gerade jetzt nahe?
 6. Diese Sitzung hat vorgemacht, eine Schlussfolgerung fest zu halten (das Kreuz ist das Ziel),
-   während man manche Details locker hält (die genaue Chronologie, das Tage/Monate/Zeiten-Muster).
+   während man manche Details locker hält (die genaue Chronologie, die zweite Pause der Zählung).
    Wo sonst in eurem eigenen Glauben könntet ihr von derselben Kombination aus Zuversicht und
    Demut profitieren?
 

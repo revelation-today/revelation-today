@@ -22,8 +22,8 @@ Gruba sorun: Daniel ve Vahiy'in sayılarından — 70 hafta, 1260 gün, 42 ay, "
 yarım vakit" — son-zamanlar olaylarının bir zaman çizelgesi çizmeye çalışan var mı? Bu sayılar,
 Kutsal Yazı'daki neredeyse başka her şeyden daha fazla spekülatif tarih belirlemeyi körükledi.
 Bu akşam matematiği dikkatle yapacağız, nereye tam olarak işaret ettiğini göreceğiz (şaşırtıcı
-şekilde, çarmıhın kendisine) ve kaynak malzemenin kendi kronolojisinin, üzerine bir şey inşa
-etmeden önce bir düzeltmeye ihtiyaç duyduğu yerler konusunda dürüst olacağız.
+şekilde, çarmıhın kendisine) ve sayımın hangi adımlarının Daniel'in dikkatli okuyucuları arasında
+tartışmalı olduğu konusunda dürüst olacağız.
 
 ## Bölüm 1: 70 Hafta
 
@@ -45,33 +45,38 @@ doğruluğu getirmek, görü ve peygamberliği mühürlemek ve En Kutsal Yer'i m
 ({{% bible val="Daniel 9:24-27" link="dan:9,24-27" lang="tr" %}}). Bir arada ele alındığında, bu
 altı hedef, İsa'nın çarmıhta başardığı dışında tarihte gerçekleşen her şeyin çok ötesine geçer.
 
-**Kaynak malzemenin kronolojisine önemli bir düzeltme.** Makalenin orijinal dizisi, Yeruşalim'i
-yeniden inşa etme kararnamesinden MÖ 539'a kadar 7 hafta (49 yıl) ve sonra "tapınak ayakta
-kaldığı sürece" 62 hafta (434 yıl) olduğunu iddia ediyor — ama ikinci dönemi (tapınağın yeniden
-inşasını Nehemya'ya atfederek) MÖ 440'tan başlatıp MÖ 6'da bitiriyor. Burada iki şeyin
-düzeltilmesi gerekiyor. Birincisi, İkinci Tapınak aslında Zerubbabel ve I. Darius döneminde MÖ
-516'da tamamlandı — Nehemya'nın katkısı, on yıllar sonra (yaklaşık MÖ 445), tapınağı değil
-Yeruşalim'in surlarını yeniden inşa etmekti. İkincisi, ve daha önemlisi, sayılar orijinal olarak
-sunulduğu şekliyle gerçekte birbirine bağlanmıyor: 49 yıllık sayımı MÖ 587'de başlatıp MÖ 539'da
-bitirmek, sonra ayrı olarak 434 yıllık sayımı MÖ 440'ta başlatmak, Daniel 9:25'in art arda,
-aralarında yüzyıllık bir duraklama olmadan gerçekleştiğini tanımladığı yerde yaklaşık 99 yıllık
-açıklanmamış bir boşluk bırakıyor. Bu, kaynak malzemede sadece bir yuvarlama hatası değil, gerçek
-bir argümantatif zayıflıktır — genel "yetmiş yedili çarmıhta birleşir" sonucunu ciddiye almaya
-değer, iyi desteklenmiş bir tarihsel kalıp olarak ele alın, ama grubunuza kesin ondalık-yıl
-matematiğinin birkaç önerilen başlangıç noktasından (Koreş'in kararnamesi, Darius'un kararnamesi
-veya Artahşasta'nın Ezra/Nehemya'ya MÖ 457 veya 445'teki kararnamesi) hangisini seçtiğinize
-bağlı olduğu konusunda dürüst olun — Daniel'in dikkatli okuyucuları arasında gerçekten tartışılan
-bir ayrıntı, çözülmüş bir mesele değil.
+**Sayım gerçekte nasıl ilerliyor — ve nerede duruyor.** Bu, grubunuzun bir beyaz tahtada görmek
+isteyeceği kısımdır. Haftalar gerçek yıllardır, ama baştan sona kesintisiz sayılmaz: sayım iki kez
+durur ve bekler. Yeruşalim'i geri getirme ve yeniden kurma sözü, kentin düştüğü sırada, MÖ
+588/587'de Yeremya aracılığıyla çıkar
+({{% bible val="Yeremya 30:18" link="jer:30,18" lang="tr" %}}). Yedi yedili, 49 yıl, bizi
+MÖ 539'a getirir: {{% bible val="Yeşaya 45:1" link="isa:45,1" lang="tr" %}}'de Tanrı'nın
+meshettiği kişi olarak anılan Koreş kararnamesini çıkarır. Burada sayım durur: Koreş emri verir,
+ama Yeruşalim'in surlu bir kent olarak yeniden ayağa kalkması neredeyse yüz yıl alır ve bu, MÖ 440
+dolaylarında Nehemya döneminde gerçekleşir. Oradan altmış iki yedili, 434 yıl, kent "sıkıntılı
+zamanlarda" ayakta kalırken — Persler, Yunanlar, Suriye-Mısır krallıkları ve sonunda Roma boyunca —
+akar ve MÖ 6'ya, İsa'nın doğumuna ulaşır. Sayım, O'nun açık hizmeti başlayana kadar ikinci kez
+durur.
+
+Duraklamaların bir boşluğun üzerine konan yama değil, şemanın parçası olduğunu açıkça söyleyin:
+açıklamanın kaynağı Gerhard Maier bu bölümü böyle okur. Ve aynı açıklıkla söyleyin ki başka
+dikkatli okuyucular farklı sayar — Artahşasta'nın kararnamesinden (MÖ 445/444) kesintisiz ya da
+sayıları takvimsel değil sembolik olarak. Bu oturumun üzerine kurulduğu sonuç, yani yetmiş
+yedilinin çarmıhta birleşmesi, güçlüdür; ondalık-yıl matematiği ise birkaç öneriden biridir ve
+grubunuzun bunu bilmesi gerekir.
 
 **Son "hafta" ve çarmıh.** Altmış iki yedinin ardından, "Meshedilmiş Olan öldürülecek ve hiçbir
 şeyi olmayacak" — bu sefer Koreş değil, İsa. Aramice'de "kesilmek," "antlaşma kesmek" anlamına
 da gelebilir — o, bir antlaşma yapmak için öldü. Son yedi yıllık dönemin ortasında, kurban ve
 sunu sona erer, çünkü çarmıhtan sonra artık gerekli değildirler
-({{% bible val="İbraniler 10:1-18" link="heb:10,1-18" lang="tr" %}}). Kaynak malzeme belirli bir
-7 yıllık pencere bile öneriyor — MS 27 (İsa'nın vaftizi) ile MS 34 (İstefanos'un şehit edilmesi
-ve müjdenin uluslara doğru belirleyici dönüşü) arasında — çarmıhın kendisi ortada, MS 31'de. Bu
-belirli tarihlemeyi uygun bir açıklıkla tutun: mantıklı, dikkatle akıl yürütülmüş bir öneridir,
-tüm argümanın dayandığı bir kesinlik değil.
+({{% bible val="İbraniler 10:1-18" link="heb:10,1-18" lang="tr" %}}). Son yedi yıl, MS 27 —
+Tiberius'un on beşinci yılından hesaplanan İsa'nın vaftizi
+({{% bible val="Luka 3:1" link="luk:3,1" lang="tr" %}}) — ile MS 34, yani İstefanos'un
+taşlanması ve müjdenin uluslara doğru belirleyici dönüşü arasıdır; çarmıh ortada, MS 30'da. Bu
+tarihlemeyi uygun bir açıklıkla tutun: dikkatle akıl yürütülmüş bir öneridir,
+tüm argümanın dayandığı bir kesinlik değil. Açıklama, MS 66–73 Yahudi savaşını da aynı haftanın
+kırk yıl sonraki bir yansıması olarak okur — tapınak tam ortasında yıkılır, kurbanlar onunla
+birlikte son bulur.
 
 ---
 
@@ -99,9 +104,8 @@ sergilenen.
 
 **3,5 yıllık kalıbın Daniel'de daha önce nasıl ortaya çıktığı.** 70 hafta, son döneminde ikişer
 3,5 yıllık yarım-haftaya çözülür — biri genellikle İsa'nın yeryüzü hizmetini kapsar olarak
-okunur, diğeri ise onu takip eden kilise çağına uzanır. Bu, kaynak malzemenin dürüstçe biraz
-belirsiz olarak ele aldığı nedenlerle üç farklı şekilde tanımlanan aynı dönemdir (aşağıda daha
-fazla).
+okunur, diğeri ise onu takip eden kilise çağına uzanır. Vahiy bu yarım haftayı alır ve onu İsa'nın
+iki gelişi arasındaki bütün zamanın bir resmi yapar.
 
 **Üç zaman diliminin muhtemelen neyi tanımladığı.** 13. bölümün canavar faaliyeti tam olarak
 çarmıhtan sonra, şeytan İsrail'i doğrudan yok edemeyeceğini fark ettiğinde başlar ve Mesih'in
@@ -113,16 +117,19 @@ göz önüne alındığında, "tanıkların" iki bireysel son-zamanlar figürün
 şekilde kilisenin kendisi olarak işlev gördüğüne dair gerçek bir ipucu (bunu serinin çok daha
 sonrasındaki İki Tanık oturumunda tam olarak ele alacağız).
 
-**Dürüstçe belirtilen bir belirsizlik — tartışma için iyi malzeme, çözülmüş bir cevap değil.**
+**Metin neden birimleri değiştiriyor — ve geriye kalan açık uç.**
 Metin, matematiksel olarak aynı uzunluktaki zaman için neden birimleri değiştiriyor (burada
-günler, orada aylar, başka yerde "vakitler")? Kaynak malzeme, günlerin kilisenin tanıklığını,
-ayların şeytanın görünürdeki saltanatını ve yıl/vakitlerin Tanrı'nın gizli işini işaretlediğini
-öneriyor — ama malzemenin kendi yazarı bunu "itiraf edilebilir şekilde spekülatif" olarak
-belirtiyor ve bu, gerçek bir gerginliği temiz bir şekilde çözmüyor: aynı olay (kadının korunması)
-hem "günler" (Va 12:6) hem de "vakitler" (Va 12:14) kullanılarak tanımlanıyor, ki bu temiz bir
-üçlü sembolik şemayla garip bir şekilde oturuyor. Burası, grubunuzun malzemenin kendisinin tam
-olarak sunmadığı düzenli bir cevap vermek yerine metinle doğrudan boğuşmasına izin vermek için
-iyi bir yer.
+günler, orada aylar, başka yerde "vakitler")? Günler tanıkların tanıklığını ve Tanrı'nın İsrail'e
+sağladığı korunmayı; aylar şeytanın saltanatını ve tapınağın dış avlusunun çiğnenmesini; yıllar ya
+da "vakitler" Tanrı'nın gizli işini işaretler. Richard Bauckham bu ayrımın kasıtlı olduğunu
+göstermiştir: 42 ay canavarın sayısı, 1260 gün kilisenin sayısıdır ve ikisi de canavarın 666'sının
+kökü olan 36'ya ve Tanrı'nın halkının sayısı 1225'e aittir (*Climax of Prophecy*, s. 400–402). Bu
+eşleşmenin açıkça gösterdiği şudur: şeytanın saltanatı ile kiliseye Tanrı'nın verdiği saltanat aynı
+süre boyunca yan yana akar. Bir açık ucu grubunuza, üzerini düzleştirmek yerine adıyla söylemeye
+değer: kadının korunması
+{{% bible val="Va 12:6" link="rev:12,6" lang="tr" %}}'da "günler" ile,
+{{% bible val="12:14" link="rev:12,14" lang="tr" %}}'te ise "vakitler" ile tanımlanır — aynı olay,
+iki farklı birimde.
 
 ## Tartışma Soruları
 
@@ -130,8 +137,8 @@ iyi bir yer.
 1. Kesin ondalık-yıl matematiği hızlı bir okumanın önerdiğinden daha tartışmalı olsa bile,
    "yetmiş yedili" peygamberliği neden çarmıha bu kadar tam olarak işaret ediyor?
 2. Aynı altta yatan zaman uzunluğu için "günler," "aylar" ve "vakitler" arasındaki değişim,
-   Vahiy 11-13'te neyin olduğunu öneriyor — ve çözülmemiş gerginliği burada zorla bir açıklamaya
-   sokmak yerine belirtmek neden daha dürüst?
+   Vahiy 11-13'te neyin olduğunu öneriyor — ve canavarın süresiyle kilisenin süresinin tam olarak
+   aynı uzunlukta olması ne anlama gelir?
 3. İlyas/Karmel Dağı arka planı, Vahiy 13'teki ikinci canavar gökten ateş çağırdığında neler
    olduğunu nasıl aydınlatıyor?
 

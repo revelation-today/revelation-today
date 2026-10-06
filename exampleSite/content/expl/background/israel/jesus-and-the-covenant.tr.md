@@ -19,7 +19,7 @@ sources:
 ## Rab'bin Günü beklentisi
 
 <a name="b6b5"></a>
-İsa'nın zamanında Yahudiler Rab'bin Günü'nü bekliyorlardı, ama bu günün nasıl gerçekleşeceği konusunda derin görüş ayrılıkları vardı. Kumran, toplumdan (kısmi) bir çekilmeyle birlikte yasaya bağlılığın artmasını bekliyordu. Ferisiler, mevcut toplum düzeni içinde yasaya bağlılığın artırılmasını savunuyordu. Yahudi tarihçi Josephus, İsrail'in reddedildiği ve Tanrı'nın onun yerine Romalıları seçtiği sonucuna varmıştı. Sadukiler, Roma liderliğine boyun eğme ve onunla iş birliği yapmayla birlikte yasaya bağlılığın artırılmasını tercih ediyordu. Zelotlar ise yasaya bağlılığın artırılmasını Roma'ya karşı etkin direnişle birleştirmek istiyordu.
+İsa'nın zamanında Yahudiler Rab'bin Günü'nü bekliyorlardı, ama bu günün nasıl gerçekleşeceği konusunda derin görüş ayrılıkları vardı. Kumran, toplumdan (kısmi) bir çekilmeyle birlikte yasaya bağlılığın artmasını bekliyordu. Ferisiler, mevcut toplum düzeni içinde yasaya bağlılığın artırılmasını savunuyordu. Yahudi tarihçi Josephus, İsrail'in reddedildiği ve Tanrı'nın onun yerine Romalıları seçtiği sonucuna varmıştı. Sadukiler yalnızca yazılı yasaya bağlı kalıyor, Ferisilerin sözlü geleneğini reddediyor ve Roma liderliğine boyun eğmeyi ve onunla iş birliği yapmayı tercih ediyordu. Zelotlar ise yasaya bağlılığın artırılmasını Roma'ya karşı etkin direnişle birleştirmek istiyordu.
 
 ## Meydan okuma
 

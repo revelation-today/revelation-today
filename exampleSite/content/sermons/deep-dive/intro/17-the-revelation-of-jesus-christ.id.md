@@ -38,8 +38,8 @@ lengkap. Ini layak direnungkan bersama kelompokmu, karena hal ini membingkai ula
 studimu: Kitab Wahyu bukan pertama-tama sebuah teka-teki yang harus dipecahkan, melainkan sebuah
 panggilan untuk ditaati.
 
-**"Yesus Kristus."** Bentuk genitif Yunani di sini bersifat ambigu, dan — sebagaimana diargumenkan
-materi sumber — kemungkinan memang disengaja demikian. Frasa ini bisa berarti "wahyu yang berasal
+**"Yesus Kristus."** Bentuk genitif Yunani di sini bersifat ambigu, dan kemungkinan memang
+disengaja demikian. Frasa ini bisa berarti "wahyu yang berasal
 dari Yesus" (Ia sumbernya) atau "wahyu yang berbicara tentang Yesus" (Ia isinya). Kedua pembacaan
 itu sama-sama benar secara tata bahasa, dan jawaban terbaiknya mungkin "keduanya": wahyu itu
 berasal dari Yesus, dan seluruh tujuannya adalah menunjukkan lebih banyak lagi tentang diri-Nya
@@ -67,9 +67,9 @@ masa depan, melainkan identitas masa kini yang masih terus kita pelajari untuk d
 datang dengan awan-awan" dari Daniel 7 dan "mereka akan memandang kepada Dia yang telah mereka
 tikam" dari Zakharia 12. Dalam Zakharia, ratapan itu adalah kesedihan Israel sendiri atas raja
 mereka. Yohanes memperluasnya menjadi "semua bangsa di bumi." Perlu dicatat, teks tidak menyebutkan
-*mengapa* mereka meratap — materi sumber berargumen bahwa hal ini memang disengaja terbuka:
-sebagian meratap dalam pertobatan, mengenali Juru Selamat mereka; yang lain meratap dalam
-ketakutan, mengenali Hakim mereka. Ini bukan janji pembalasan terhadap mereka yang secara harfiah
+*mengapa* mereka meratap: sebagian meratap dalam pertobatan, mengenali Juru Selamat mereka; yang
+lain meratap dalam ketakutan, mengenali Hakim mereka. Ke mana seri ini berpihak ada di bagian
+berikut. Ini bukan janji pembalasan terhadap mereka yang secara harfiah
 menyalibkan Yesus (kebanyakan dari "semua bangsa di bumi" tidak ambil bagian dalam hal itu) — ini
 adalah panggilan global untuk berhitung dengan-Nya, dengan satu atau lain cara.
 

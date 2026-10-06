@@ -37,8 +37,7 @@ Darstellung. Es lohnt sich, als Gruppe dabei zu verweilen, denn das rahmt euer g
 Studium neu: Die Offenbarung ist nicht in erster Linie ein zu lösendes Rätsel, sondern ein
 Aufruf, dem gehorcht werden soll.
 
-**„Jesu Christi".** Der griechische Genitiv hier ist mehrdeutig, und — wie das Quellmaterial
-argumentiert — wahrscheinlich bewusst so. Er kann bedeuten „die Offenbarung, die von Jesus kommt"
+**„Jesu Christi".** Der griechische Genitiv hier ist mehrdeutig, und wahrscheinlich bewusst so. Er kann bedeuten „die Offenbarung, die von Jesus kommt"
 (er ist die Quelle) oder „die Offenbarung, die von Jesus handelt" (er ist der Inhalt). Beide
 Lesarten funktionieren grammatikalisch, und die beste Antwort könnte „beides" sein: Die
 Offenbarung kommt von Jesus, und ihr ganzer Zweck ist, uns mehr von ihm zu zeigen. Was auch immer
@@ -64,9 +63,9 @@ Identität, die wir noch lernen zu leben.
 **„Jedes Auge wird ihn sehen" (V. 7).** Dieser Vers verwebt Daniel 7s „Menschensohn, der mit den
 Wolken kommt" mit Sacharja 12s „sie werden auf mich blicken, den sie durchbohrt haben, und
 klagen". Bei Sacharja ist die Klage Israels eigene Trauer um ihren König. Johannes weitet das auf
-„alle Völker der Erde" aus. Bemerkenswerterweise gibt der Text nicht an, *warum* sie klagen — das
-Quellmaterial argumentiert, dass dies bewusst offen gehalten wird: manche klagen in Umkehr, weil
-sie ihren Retter erkennen; andere klagen in Entsetzen, weil sie ihren Richter erkennen. Das ist
+„alle Völker der Erde" aus. Bemerkenswerterweise gibt der Text nicht an, *warum* sie klagen: Manche klagen in Umkehr, weil
+sie ihren Retter erkennen; andere klagen in Entsetzen, weil sie ihren Richter erkennen. Wo diese
+Reihe sich einordnet, steht im nächsten Abschnitt. Das ist
 kein Versprechen von Rache an denen, die Jesus wörtlich gekreuzigt haben (die meisten „aller Völker
 der Erde" hatten daran keinen Anteil) — es ist ein weltweiter Aufruf, sich mit ihm
 auseinanderzusetzen, auf die eine oder andere Weise.

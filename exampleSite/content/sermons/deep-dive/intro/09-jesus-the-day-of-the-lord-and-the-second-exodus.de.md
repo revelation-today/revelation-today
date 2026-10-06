@@ -21,7 +21,7 @@ war.
 
 ## Die Kernlehre
 
-Drei Quellartikel speisen diese Einheit:
+Drei Artikel speisen diese Einheit:
 [Der Tag des Herrn]({{< relref "expl/background/israel/the-day-of-the-lord" >}}),
 [Jesus und der Bund]({{< relref "expl/background/israel/jesus-and-the-covenant" >}}) und
 [Der zweite Auszug]({{< relref "expl/background/israel/the-second-exodus" >}}).
@@ -30,26 +30,24 @@ Drei Quellartikel speisen diese Einheit:
 Tag, der endlich liefert, was der Bund immer verheißen hat: Gericht über Israels Feinde, die
 Wiederherstellung Israels, Gericht über die Gottlosen innerhalb Israels selbst und die Erfüllung
 verbleibender Verheißungen wie das Ausgießen des Geistes. Als Israel aus dem Exil zurückkehrte,
-wurde der Tempel unter Esra und die Mauer unter Nehemia wieder aufgebaut, mit Josua als Hohepriester
+wurde der Tempel unter Serubbabel und die Mauer unter Nehemia wieder aufgebaut, mit Josua als
+Hohepriester
 und Serubbabel als Herrscher — die äußeren Teile waren vorhanden. Aber die Substanz war es nicht:
 Das Volk stand in jeder bedeutsamen Hinsicht immer noch unter fremder Herrschaft
 ({{% bible val="Esra 9" link="ezr:9" lang="de" %}}), der verheißene Segen war nicht angekommen
-({{% bible val="Haggai 1,7-12" link="hag:1,7-12" lang="de" %}}), und das Ausgießen des Geistes war
-nicht geschehen ({{% bible val="Hesekiel 36,25-27" link="ezk:36,25-27" lang="de" %}}). Eine
-Zitatkorrektur ist hier anzumerken: Die Behauptung des Quellenmaterials, „das Land stand immer noch
-unter dem Fluch", verweist auf Maleachi 3,10-11 — aber diese Verse sind tatsächlich die positive
-Segensverheißung *falls* das Volk den vollen Zehnten bringt. Die ausdrückliche Aussage, dass das
-Land wegen dessen Vorenthaltung unter einem Fluch steht, findet sich einen Vers früher, in Maleachi
-3,9. Eine kleine Korrektur, dieselbe Schlussfolgerung: Nach jedem prophetischen Maßstab war das
+({{% bible val="Haggai 1,7-12" link="hag:1,7-12" lang="de" %}}), das Land stand wegen des
+vorenthaltenen Zehnten immer noch unter dem Fluch
+({{% bible val="Maleachi 3,9" link="mal:3,9" lang="de" %}}), und das Ausgießen des Geistes war
+nicht geschehen ({{% bible val="Hesekiel 36,25-27" link="ezk:36,25-27" lang="de" %}}). Nach jedem
+prophetischen Maßstab war das
 Exil nicht wirklich beendet — es hatte nur seine äußere Form verändert.
 
 **Die Uneinigkeit darüber, wie der Tag des HERRN kommen würde.** Zu Jesu Zeit waren sich jüdische
 Gruppen in den Details scharf uneinig: Qumran erwartete Rückzug aus der Gesellschaft bei
 verstärkter Torabeobachtung; die Pharisäer drängten auf verstärkte Beobachtung innerhalb der
-bestehenden Gesellschaft; die Sadduzäer favorisierten Kooperation mit Rom (hier ist eine kleine
-Korrektur angebracht — die Sadduzäer werden besser als Vertreter einer vergleichsweise minimalen
-Sicht der Gesetzesbeobachtung beschrieben, die die mündliche Überlieferung der Pharisäer ablehnten,
-statt „verstärkte" Beobachtung zu favorisieren); und die Zeloten wollten verstärkte Beobachtung
+bestehenden Gesellschaft; die Sadduzäer hielten allein am geschriebenen Gesetz fest, lehnten die
+mündliche Überlieferung der Pharisäer ab und favorisierten die Kooperation mit Rom; und die
+Zeloten wollten verstärkte Beobachtung
 gepaart mit aktivem bewaffnetem Widerstand. In diese zerrissene Landschaft hinein eröffnet Markus
 sein Evangelium mit dem Wort *euangelion* — dem Begriff für die Ankündigung einer kaiserlichen
 Thronbesteigung —, unmittelbar gefolgt von einem Zitat aus Jesaja genau an dem Punkt, an dem der
@@ -69,17 +67,15 @@ wird, da Sauerteig typischerweise Verderbnis symbolisiert) — das Kleinste, Unw
 zum Größten, eine Umkehrung, die Israel bereits aus seiner eigenen Erwählung als kleinste der
 Nationen hätte erkennen sollen ({{% bible val="5. Mose 7,7" link="deu:7,7" lang="de" %}}).
 
-**Ein hartes, ehrliches Wort aus dem Quellenmaterial, das sorgfältig benannt werden sollte.**
+**Ein hartes Wort, das sorgfältig benannt werden sollte.**
 Manches, was Israel erwartete, erwies sich als Fehleinschätzung: dass die Feinde die
 unterdrückenden Römer seien (Jesus benannte die wahren Feinde als die dämonischen Mächte,
 {{% bible val="Markus 3,22-27" link="mrk:3,22-27" lang="de" %}}), dass der treue „Überrest" die
 sichtbar Religiösen meine, und dass Herrschen bedeute, so zu herrschen wie andere Nationen
-herrschten. Die Genauigkeitsprüfung bemängelte hier, dass das Quellenmaterial verallgemeinert, „was
-Israel dachte", ohne die Bandbreite der Quellen des Zweiten Tempels zu zitieren, die das stützen
-würden — es lohnt sich, das als breites, repräsentatives Muster zu behandeln, nicht als
-wasserdichte Behauptung über den Glauben jedes einzelnen Juden des ersten Jahrhunderts, zumal
-dasselbe Quellenmaterial nur wenige Absätze zuvor zeigt, wie uneinig sich diese Gruppen
-untereinander waren.
+herrschten. Sagt das in der Gruppe sorgfältig: „was Israel erwartete" ist ein breites,
+repräsentatives Muster und keine wasserdichte Behauptung über den Glauben jedes einzelnen Juden
+des ersten Jahrhunderts — die vier Gruppen, die wenige Absätze zuvor genannt wurden, waren sich
+über genau diese Fragen untereinander uneinig.
 
 **Schon, aber noch nicht.** Als Jesus {{% bible val="Jesaja 61,1-2" link="isa:61,1-2" lang="de" %}}
 in der Synagoge las und für erfüllt erklärte
@@ -96,13 +92,11 @@ beide mit demselben Jesaja-40-Zitat — „bereitet den Weg des HERRN" — weil 
 selbst ist: Gottes Mittel, Israel wiederherzustellen, das nun durch die Gemeinde läuft. Die
 Apostelgeschichte greift diese Formulierung „der Weg" sechsmal wieder auf und entfaltet sie durch
 Pfingsten mit seinem Einschluss von Juden aus jeder Nation, das Kommen des Geistes, die
-Wiederherstellung des Reiches Davids und den Einschluss der Ausgeschlossenen. Eine Zitatkorrektur:
-Der Vergleich mit dem „Feigenbaum" in der Markus/Jesaja-Tabelle (Jesu Gericht über den unfruchtbaren
-Feigenbaum, das seine Ankunft in Jerusalem rahmt) ist ordnungsgemäß in
-{{% bible val="Markus 11,12-14.20-21" link="mrk:11,12-14" lang="de" %}} verankert, nicht in
-Offenbarung 17,14 (die sich auf das Tier und die zehn Könige bezieht, unabhängig von Feigenbäumen
-oder Fruchtbarkeit) — ein nicht passendes Zitat im Quellenmaterial, das erwähnenswert ist, falls
-ihr es direkt nachschlagt.
+Wiederherstellung des Reiches Davids und den Einschluss der Ausgeschlossenen. Eine Zeile der
+Markus/Jesaja-Tabelle lohnt es, im Text selbst nachzuschlagen: Der Vergleich mit dem „Feigenbaum",
+Jesu Gericht über den unfruchtbaren Feigenbaum, das seine Ankunft in Jerusalem rahmt, steht in
+{{% bible val="Markus 11,12-14.20-21" link="mrk:11,12-14" lang="de" %}} — Gericht oder
+Verheißung, je nachdem, ob der Baum Frucht trägt.
 
 ## Gesprächsfragen
 

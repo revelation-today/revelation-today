@@ -48,14 +48,12 @@ Berg heran, der die ganze Erde füllt (Kapitel 2), und „der Hochbetagte und de
 {{% bible val="besiegen die Reiche und errichten ein ewiges" link="dan:7,9-14" lang="de" %}}
 (Kapitel 7).
 
-**Eine Sachkorrektur, die es wert ist, offen ausgesprochen zu werden.** Die ursprüngliche
-Datierung des Quellmaterials für die „2300 Abende und Morgen" aus Daniel 8,14 setzte die
-Entweihung des Tempels durch Antiochus IV. Epiphanes auf den 6. Dezember 176 v. Chr. — aber
-Antiochus wurde erst 175 v. Chr. König, was dieses Datum unmöglich macht. Das gut bezeugte
-historische Datum der Tempelentweihung (der „Gräuel der Verwüstung", der Zeus-Altar, gemäß
-1. Makkabäer) ist 167 v. Chr., mit der makkabäischen Neuweihe — Hanukkah — im Dezember 164 v. Chr.
-Das korrigierte Datum ändert nichts am zugrundeliegenden Argument; es korrigiert nur eine
-unmögliche Chronologie.
+**Die Daten, die man auseinanderhalten sollte.** Antiochus IV. Epiphanes wurde 175 v. Chr. König.
+Die Entweihung des Tempels — der „Gräuel der Verwüstung", der Zeus-Altar, gemäß 1. Makkabäer — ist
+für 167 v. Chr. gut bezeugt, und die makkabäische Neuweihe, Hanukkah, folgt im Dezember
+164 v. Chr. An diesen Daten sind die „2300 Abende und Morgen" aus Daniel 8,14 zu messen; wer mit
+einer älteren Tabelle arbeitet, kommt leicht mit dem 6. Dezember 176 v. Chr. — ein Jahr, bevor
+Antiochus überhaupt auf dem Thron saß.
 
 **Warum der Stein die ganze Erde noch nicht offensichtlich „gefüllt" hat — eine lebendige Spannung,
 die es wert ist, ehrlich benannt zu werden.** Einige Details in Daniels eigenem Text passen nicht
@@ -64,8 +62,8 @@ Reiche, die durch die Füße der Statue dargestellt werden; die Wirkung des Stei
 Kommen zerstörte nicht die ganze Statue auf einmal, da Rom noch Jahrhunderte länger bestand; und
 das vierte Tier in Kapitel 7 wird als einzigartig furchterregend und anders als alle vorherigen
 Tiere beschrieben, auf eine Weise, die Rom nicht offensichtlich von früheren Reichen unterscheidet.
-Der Quellartikel ist ehrlich, dass dies ein wirklich umstrittener Punkt ist und kein gelöster, und
-bietet eine vorgeschlagene Lösung an: Jesu erstes Kommen beendete die Weltgeschichte nicht auf
+Dies ist ein wirklich umstrittener Punkt und kein gelöster, und eine vorgeschlagene Lösung lautet
+so: Jesu erstes Kommen beendete die Weltgeschichte nicht auf
 einen Schlag — es setzte eine grundlegende Veränderung in Gang, die die Kirche nun weiterträgt,
 die sich durch Anbetung, Gebet, Zeugnis und Ausdauer verbreitet statt durch militärische Eroberung.
 Ob ihr diese Lösung vollständig überzeugend findet oder sie für euch eine offene Frage bleibt, es

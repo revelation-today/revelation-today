@@ -55,15 +55,15 @@ ipliğin ördüğü hedef.
 {{% bible val="İsa'nın kendisi tapınaktır" link="jhn:2,19-22" lang="tr" %}} — Tanrı'nın huzurunun
 insanlık arasında olabilecek en tam anlamıyla yaşadığı yer. O öldüğünde, En Kutsal Yer'i koruyan
 perde ikiye yırtıldı; bu, Tanrı'nın huzuruna erişimin artık herkese açık olduğunun, yılda bir kez
-tek bir kâhine ayrılmadığının işaretiydi. Burada kaynak materyalde düzeltilmesi gereken bir nokta
-var: özgün metin, "tapınak kiliseye dönüşür" iddiasını desteklemek için
-{{% bible val="1. Korintliler 6:19" link="1co:6,19" lang="tr" %}} ayetini ("bedeniniz, içinizdeki
-Kutsal Ruh'un tapınağıdır") gösteriyordu. Ama bu ayet aslında cinsel ahlak üzerine bir tartışmada
-bireysel bir imanlının kendi bedeniyle ilgilidir — kilisenin bütünü hakkında bir ifade değildir.
-Bu ortak iddia için daha uygun metinler {{% bible val="1. Korintliler 3:16-17" link="1co:3,16-17" lang="tr" %}} ("sizler [çoğul] Tanrı'nın tapınağısınız") ve
+tek bir kâhine ayrılmadığının işaretiydi. Bir sonraki adımı atarken — tapınak kiliseye dönüşür —
+bunu gerçekten taşıyan metinleri kullanın:
+{{% bible val="1. Korintliler 3:16-17" link="1co:3,16-17" lang="tr" %}} ("sizler [çoğul]
+Tanrı'nın tapınağısınız") ve
 {{% bible val="Efesliler 2:19-22" link="eph:2,19-22" lang="tr" %}} ("Rab'de kutsal bir tapınak...
-Tanrı'nın Ruh aracılığıyla oturacağı bir konut") ayetleridir. Altta yatan teolojik nokta
-geçerliliğini korur — sadece doğru metinsel temele oturtulması gerekir.
+Tanrı'nın Ruh aracılığıyla oturacağı bir konut").
+{{% bible val="1. Korintliler 6:19" link="1co:6,19" lang="tr" %}} ("bedeniniz, içinizdeki Kutsal
+Ruh'un tapınağıdır") burada sık anılır, ama cinsel ahlak üzerine bir tartışmada bireysel bir
+imanlının kendi bedeniyle ilgilidir, bir beden olarak kiliseyle değil.
 
 **Şimdi tekrar Uzza'ya dönelim — ve bu öykünün aslında neden iyi haber olduğuna.** Tanrı, tapınağın
 en eski günlerinden itibaren çok özel talimatlar vermişti: sandık dahil en içteki eşyalar, yalnızca

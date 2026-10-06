@@ -78,17 +78,15 @@ wajah-Nya; kita secara naluriah sudah membaca itu secara simbolis. Undangannya a
 naluri yang sama itu secara konsisten di seluruh kitab, alih-alih beralih ke pembacaan harfiah
 setiap kali sebuah simbol tampak cocok dengan sesuatu yang kita kenali di zaman kita sendiri.
 
-**Sebuah tempat di mana sumber aslinya memerlukan sedikit koreksi.** Salah satu contoh dalam
-artikel asli, yang menghubungkan pemberian makan lima ribu orang dengan "makanan rohani," mengutip
-{{% bible val="Matius 16:5-12" link="mat:16,5-12" lang="ind" %}} — tetapi bagian itu sebenarnya
-adalah peringatan Yesus yang belakangan tentang "ragi orang Farisi," yang hanya menyinggung
-mukjizat pemberian makan itu secara sekilas. Narasi pemberian makan itu sendiri, dan tema "roti
-hidup" yang dikembangkannya, lebih tepat ditemukan dalam
+**Bukalah teks yang tepat untuk pemberian makan lima ribu orang.** Narasi pemberian makan itu
+sendiri, dan tema "roti hidup" yang dikembangkannya, ada dalam
 {{% bible val="Matius 14:13-21" link="mat:14,13-21" lang="ind" %}} atau, lebih lengkap lagi, dalam
-{{% bible val="Yohanes 6" link="jhn:6,1-14" lang="ind" %}}. Koreksi kecil, tetapi layak
-dicontohkan bagi kelompok Anda: bahkan materi yang cermat dan bersumber baik pun mendapat manfaat
-dari memeriksa ulang kutipan terhadap teksnya sendiri — kebiasaan itu adalah bagian dari tujuan
-format pendalaman ini.
+{{% bible val="Yohanes 6" link="jhn:6,1-14" lang="ind" %}}.
+{{% bible val="Matius 16:5-12" link="mat:16,5-12" lang="ind" %}} adalah peringatan Yesus yang
+belakangan tentang "ragi orang Farisi," yang hanya menyinggung mukjizat pemberian makan itu secara
+sekilas — mudah terambil keliru. Layak
+dicontohkan bagi kelompok Anda: memeriksa kutipan terhadap teksnya sendiri adalah bagian dari
+tujuan format pendalaman ini.
 
 **Mengapa ini penting secara praktis.** Jika Wahyu secara default membaca secara simbolis yang
 berlabuh pada dunia abad pertamanya sendiri (Roma, kultus kaisar, pergumulan nyata ketujuh

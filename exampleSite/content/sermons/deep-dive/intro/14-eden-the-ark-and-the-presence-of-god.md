@@ -54,13 +54,14 @@ thread has been building toward since Genesis 3.
 {{% bible val="Jesus Himself is the temple" link="jhn:2,19-22" lang="en" %}} — the place where
 God's presence dwells among humanity in the fullest possible sense. When He died, the veil
 guarding the Holy of Holies tore in two, signaling that access to God's presence was now open to
-everyone, not reserved for one priest once a year. A correction worth making to the source
-material here: it originally cited {{% bible val="1 Corinthians 6:19" link="1co:6,19" lang="en" %}} ("your body is a temple of the Holy Spirit within you") to support the claim that "the temple
-becomes the church." But that verse is actually about an individual believer's own body in a
-discussion of sexual ethics — not a statement about the corporate church. The better texts for
-that corporate claim are {{% bible val="1 Corinthians 3:16-17" link="1co:3,16-17" lang="en" %}}
-("you [plural] are God's temple") and {{% bible val="Ephesians 2:19-22" link="eph:2,19-22" lang="en" %}} ("a holy temple in the Lord... a dwelling place for God"). The underlying theological
-point stands — it just needs its correct textual footing.
+everyone, not reserved for one priest once a year. When you take the next step — the temple
+becomes the church — use the texts that carry it:
+{{% bible val="1 Corinthians 3:16-17" link="1co:3,16-17" lang="en" %}} ("you [plural] are God's
+temple") and {{% bible val="Ephesians 2:19-22" link="eph:2,19-22" lang="en" %}} ("a holy temple
+in the Lord... a dwelling place for God").
+{{% bible val="1 Corinthians 6:19" link="1co:6,19" lang="en" %}} ("your body is a temple of the
+Holy Spirit within you") is often quoted here, but it speaks of an individual believer's own body
+in a discussion of sexual ethics, not of the church as a body.
 
 **Now, back to Uzzah — and why this story is actually good news.** God had given very specific
 instructions from the earliest days of the tabernacle: the innermost furnishings, including the

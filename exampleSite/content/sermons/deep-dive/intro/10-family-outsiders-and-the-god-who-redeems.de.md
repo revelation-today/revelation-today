@@ -39,7 +39,7 @@ schutzlos zurückließ: Witwen, Waisen und Familien ohne sozialen Stand. Deshalb
 für Witwen und Waisen zu einem bestimmenden Kennzeichen wahrer Religion
 ({{% bible val="Jakobus 1,27" link="jas:1,27" lang="de" %}}). Und das Muster der biblischen
 Erzählung selbst verstärkt diese Kritik: Gott erwählt immer wieder Könige und Helden ausgerechnet
-aus den Familien, die die umgebende Kultur abgeschrieben hätte — Rut, halb Moabiterin, wird König
+aus den Familien, die die umgebende Kultur abgeschrieben hätte — Rut die Moabiterin wird König
 Davids Urgroßmutter; drei der vier Frauen, die in Jesu Stammbaum in Matthäus 1 genannt werden, sind
 nicht-israelitische Außenseiterinnen (Tamar die Kanaaniterin, Rut die Moabiterin, Batseba, die
 Frau des Hetiters).
@@ -66,16 +66,13 @@ einfach großzügig — er erfüllt ein definiertes rechtliches Amt, und der Tex
 bewusst, um vorwegzunehmen, was Gott selbst für eine viel größere, viel verzweifeltere Familie tun
 wird.
 
-**Eine Stelle, die es wert ist, gegenüber dem Quellartikel korrigiert zu werden.** Der
-ursprüngliche Text zitiert 4. Mose 36 für die Behauptung, „Frauen durften nach dem Gesetz erben".
-4. Mose 36 ist tatsächlich eine Folgeregelung, die einschränkt, *wen* die Töchter Zelofhads
-heiraten durften, damit Stammeslandbesitz nicht zwischen Stämmen übertragen würde — sie setzt das
-Erbrecht bereits voraus, statt es zu begründen. Die eigentliche Regelung, die Töchtern in
-Abwesenheit von Söhnen Erbrechte gewährt, ist
-{{% bible val="4. Mose 27,1-11" link="num:27,1-11" lang="de" %}}. Es lohnt sich, korrekt zu
-zitieren, denn der zugrundeliegende Punkt — dass die rechtliche Tradition der Bibel gegenüber
-Frauen fortschrittlicher handelt, als die umgebende Kultur es vermuten ließe — verdient ihre
-stärkste tatsächliche textliche Stütze, nicht einen sekundären Verweis.
+**Die Stelle, die man aufschlagen sollte, wenn man sagt, Frauen durften erben.** Die Regelung, die
+Töchtern ein Erbe gewährt, wo keine Söhne da sind, ist
+{{% bible val="4. Mose 27,1-11" link="num:27,1-11" lang="de" %}}, der Fall der Töchter Zelofhads.
+4. Mose 36 wird hier oft zitiert, ist aber die Folgeregelung, die einschränkt, *wen* diese Töchter
+heiraten durften, damit Stammesland nicht zwischen Stämmen überging — sie setzt das Recht voraus,
+statt es zu gewähren. Nehmt den stärkeren Text: Der Punkt, dass Israels Gesetz für Frauen mehr
+tut, als die umgebende Kultur es vermuten ließe, verdient den Vers, der es tatsächlich sagt.
 
 **Warum das für das Lesen der Offenbarung wichtig ist.** Die Offenbarung ruft Gottes Volk dazu auf,
 sich selbst als Teil einer Familie zu sehen, deren Haupt nicht ein Patriarch ist, der sie im Stich

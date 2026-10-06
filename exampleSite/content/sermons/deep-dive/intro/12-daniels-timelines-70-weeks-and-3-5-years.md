@@ -23,8 +23,8 @@ Ask your group: has anyone tried to build a timeline chart of end-times events f
 Revelation's numbers — 70 weeks, 1260 days, 42 months, "time, times, and half a time"? These
 numbers have fueled more speculative date-setting than almost anything else in Scripture. Tonight
 we're going to do the math carefully, see where it points with real precision (startlingly, to
-the cross itself), and be honest about where the source material's own chronology needs a
-correction before we build anything on it.
+the cross itself), and be honest about which steps in the count are contested among careful
+readers of Daniel.
 
 ## Part 1: The 70 Weeks
 
@@ -46,32 +46,37 @@ bring in everlasting righteousness, seal up vision and prophecy, and anoint the 
 ({{% bible val="Daniel 9:24-27" link="dan:9,24-27" lang="en" %}}). Taken together, these six
 goals go well beyond anything achieved in history except what Jesus accomplished on the cross.
 
-**A significant correction to the source material's chronology.** The article's original
-sequence claims 7 weeks (49 years) run from the decree to rebuild Jerusalem to 539 BC, and then
-62 weeks (434 years) run "while the temple stands" — but it anchors that second period starting
-from 440 BC (attributing the temple's rebuilding to Nehemiah) and ending at 6 BC. Two things need
-fixing here. First, the Second Temple was actually completed in 516 BC under Zerubbabel and
-Darius I — Nehemiah's contribution, decades later (c. 445 BC), was rebuilding Jerusalem's walls,
-not the temple. Second, and more importantly, the numbers as originally presented don't actually
-chain together: starting the 49-year count at 587 BC and ending it at 539 BC, then separately
-starting the 434-year count at 440 BC, leaves an unexplained gap of roughly 99 years that Daniel
-9:25 describes as running back-to-back, not with a century-long pause in between. This is a real
-argumentative weakness in the source material, not just a rounding error — treat the overall
-"seventy sevens converge on the cross" conclusion as a well-supported historical pattern worth
-taking seriously, while being honest with your group that the precise decade-by-decade math
-depends on which of several proposed starting points (Cyrus's decree, Darius's decree, or
-Artaxerxes' decree to Ezra/Nehemiah in 457 or 445 BC) you choose — a genuinely contested detail
-among careful readers of Daniel, not a settled one.
+**How the count actually runs — and where it pauses.** This is the part your group will want on a
+whiteboard. The weeks are real years, but they are not counted straight through: twice the count
+stops and waits. The word to restore and rebuild Jerusalem goes out through Jeremiah in
+588/587 BC, as the city falls ({{% bible val="Jeremiah 30:18" link="jer:30,18" lang="en" %}}).
+Seven sevens, 49 years, bring us to 539 BC, when Cyrus — called God's anointed in
+{{% bible val="Isaiah 45:1" link="isa:45,1" lang="en" %}} — issues his decree. Then the count
+pauses: Cyrus gives the order, but it takes almost a century before Jerusalem stands again as a
+walled city, which happens under Nehemiah around 440 BC. From there sixty-two sevens, 434 years,
+run while the city stands "in times of trouble," through Persians, Greeks, the Syrian-Egyptian
+kingdoms and finally Rome — and reach 6 BC, the birth of Jesus. The count pauses a second time
+until His public ministry begins.
+
+Say plainly that the pauses are part of the scheme, not a patch over a gap: that is how the
+explanation's source, Gerhard Maier, reads the passage. And say just as plainly that other
+careful readers count differently — straight through from Artaxerxes' decree (445/444 BC), or
+taking the numbers as symbolic rather than calendrical. The conclusion the session is built on,
+that the seventy sevens converge on the cross, is strong; the decade-by-decade arithmetic is one
+proposal among several, and your group deserves to know that.
 
 **The last "week," and the cross.** After the sixty-two sevens, "the Anointed One will be put to
 death and will have nothing" — Jesus, not Cyrus this time. "Cut off" in Aramaic can also mean
 "cut a covenant" — He died in order to make one. In the middle of the final seven-year period,
 sacrifice and offering end, because they're no longer needed after the cross
-({{% bible val="Hebrews 10:1-18" link="heb:10,1-18" lang="en" %}}). The source material even
-proposes a specific 7-year window — AD 27 (Jesus's baptism) to AD 34 (Stephen's martyrdom and the
-gospel's decisive turn toward the Gentiles) — with the cross itself at the midpoint, AD 31. Hold
-this specific dating with appropriate openness: it's a plausible, carefully reasoned proposal,
-not a certainty the whole argument depends on.
+({{% bible val="Hebrews 10:1-18" link="heb:10,1-18" lang="en" %}}). The final seven years are
+AD 27 — Jesus's baptism, dated from Tiberius's fifteenth year
+({{% bible val="Luke 3:1" link="luk:3,1" lang="en" %}}) — to AD 34, the stoning of Stephen and
+the gospel's decisive turn toward the Gentiles, with the cross at the midpoint in AD 30. Hold
+that dating with appropriate openness: it is a carefully reasoned proposal, not a certainty the
+whole argument depends on. The explanation also reads the Jewish war of AD 66–73 as a reflection
+of that same week forty years later — the temple destroyed at its midpoint, the sacrifices ending
+with it.
 
 ---
 
@@ -98,9 +103,8 @@ unsettling echo of Elijah's Mount Carmel test, this time performed by a counterf
 
 **How the 3.5-year pattern already surfaced in Daniel.** The 70 weeks resolve, in their final
 period, into two half-weeks of 3.5 years each — one commonly read as covering Jesus's earthly
-ministry, the other extending into the age of the church that follows. This is the same period,
-described three different ways for reasons the source material treats candidly as somewhat
-uncertain (more below).
+ministry, the other extending into the age of the church that follows. Revelation takes that half
+week up and makes it a picture of the whole time between the two comings.
 
 **What the three time periods likely describe.** Chapter 13's beast activity begins right after
 the cross, once the devil realizes he cannot destroy Israel directly, and runs until Christ's
@@ -112,15 +116,17 @@ how long that is, that "the witnesses" function much more plausibly as the churc
 two individual end-times figures (we'll pick this up fully in the Two Witnesses session much
 later in the series).
 
-**An honest, flagged uncertainty — good material for discussion, not a settled answer.** Why
-does the text switch units (days here, months there, "times" elsewhere) for what's
-mathematically the same length of time? The source material proposes that days mark the
-church's witness, months mark the devil's apparent reign, and years/times mark God's hidden
-work — but the material's own author flags this as "admittedly speculative," and it doesn't
-cleanly resolve one real tension: the same event (the woman's protection) is described using
-both "days" (Rev 12:6) and "times" (Rev 12:14), which sits awkwardly with a clean three-way
-symbolic scheme. This is a good place to let your group wrestle with the text directly rather
-than handing them a tidy answer the material itself doesn't fully deliver.
+**Why the text switches units — and the loose end that remains.** Days here, months there,
+"times" elsewhere, for what is mathematically the same length of time. The days mark the
+witnesses' testimony and God's provision for Israel; the months mark the devil's reign and the
+trampling of the temple's outer court; the years, or "times," mark God's hidden work. Richard
+Bauckham has shown that the split is deliberate: 42 months is the beast's number, 1260 days the
+church's, and the two belong to 36, the root of the beast's 666, and to 1225, the number of the
+people of God (*Climax of Prophecy*, pp. 400–402). What the pairing makes clear is that the
+devil's rule and the church's God-given rule run side by side through the same span. One loose
+end is worth naming for your group rather than smoothing over: the woman's protection is
+described with "days" in {{% bible val="Rev 12:6" link="rev:12,6" lang="en" %}} and with "times"
+in {{% bible val="12:14" link="rev:12,14" lang="en" %}} — the same event in two different units.
 
 ## Discussion Questions
 
@@ -128,8 +134,8 @@ than handing them a tidy answer the material itself doesn't fully deliver.
 1. Why does the "seventy sevens" prophecy point so precisely toward the cross, even though the
    exact decade-by-decade math is more contested than a quick read might suggest?
 2. What does the switch between "days," "months," and "times" for the same underlying length of
-   time suggest is happening in Revelation 11-13 — and why is it more honest to name the
-   unresolved tension here than to force a tidy explanation?
+   time suggest is happening in Revelation 11-13 — and what does it mean that the beast's span
+   and the church's are exactly as long as each other?
 3. How does the Elijah/Mount Carmel background illuminate what's happening when the second beast
    in Revelation 13 calls down fire from heaven?
 
@@ -142,7 +148,7 @@ than handing them a tidy answer the material itself doesn't fully deliver.
    two thousand years, what does that suggest about your own role in that ongoing story right
    now?
 6. This session modeled holding a conclusion firmly (the cross is the target) while holding some
-   details loosely (the exact chronology, the days/months/times pattern). Where else in your
+   details loosely (the exact chronology, the second pause in the count). Where else in your
    own faith could you benefit from that same combination of confidence and humility?
 
 ## Closing Prayer Prompt

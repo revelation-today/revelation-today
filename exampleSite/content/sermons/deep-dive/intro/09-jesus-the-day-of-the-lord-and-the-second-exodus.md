@@ -20,7 +20,7 @@ completely unexpected at the same time.
 
 ## The Core Teaching
 
-Three source articles feed this session:
+Three articles feed this session:
 [The day of the Lord and the remnant]({{< relref "expl/background/israel/the-day-of-the-lord" >}}),
 [Jesus and the covenant]({{< relref "expl/background/israel/jesus-and-the-covenant" >}}), and
 [The second Exodus]({{< relref "expl/background/israel/the-second-exodus" >}}).
@@ -29,24 +29,21 @@ Three source articles feed this session:
 that finally delivers what the covenant always promised: judgment on Israel's enemies, the
 restoration of Israel, judgment on the wicked within Israel itself, and the fulfillment of
 remaining promises like the outpouring of the Spirit. When Israel returned from exile, the
-temple was rebuilt under Ezra and the wall under Nehemiah, with Joshua as high priest and
+temple was rebuilt under Zerubbabel and the wall under Nehemiah, with Joshua as high priest and
 Zerubbabel as ruler — the outward pieces were in place. But the substance wasn't: the people
 were still under foreign rule in every meaningful sense
 ({{% bible val="Ezra 9" link="ezr:9" lang="en" %}}), the promised blessing hadn't arrived
-({{% bible val="Haggai 1:7-12" link="hag:1,7-12" lang="en" %}}), and the outpouring of the Spirit
-hadn't happened ({{% bible val="Ezekiel 36:25-27" link="ezk:36,25-27" lang="en" %}}). One
-citation correction worth noting here: the source material's claim that "the land was still
-under the curse" points to Malachi 3:10-11 — but those verses are actually the positive promise
-of blessing *if* the people bring the full tithe. The explicit statement that the land is under
-a curse for withholding it comes one verse earlier, in Malachi 3:9. Small fix, same conclusion:
-by every prophetic measure, the exile hadn't really ended — it just changed its outward shape.
+({{% bible val="Haggai 1:7-12" link="hag:1,7-12" lang="en" %}}), the land was still under a
+curse for withholding the tithe ({{% bible val="Malachi 3:9" link="mal:3,9" lang="en" %}}), and
+the outpouring of the Spirit hadn't happened
+({{% bible val="Ezekiel 36:25-27" link="ezk:36,25-27" lang="en" %}}). By every prophetic
+measure, the exile hadn't really ended — it just changed its outward shape.
 
 **The disagreement about how the Day of the Lord would arrive.** By Jesus's time, Jewish groups
 sharply disagreed on the details: Qumran expected withdrawal from society with increased Torah
 observance; the Pharisees pushed for increased observance within society as it stood; the
-Sadducees favored cooperation with Rome (worth a small correction here — the Sadducees are
-better described as holding a comparatively minimal view of legal observance, rejecting the
-Pharisees' oral tradition, rather than favoring "increased" observance); and the Zealots wanted
+Sadducees held to the written law alone, rejecting the Pharisees' oral tradition, and favored
+cooperation with Rome; and the Zealots wanted
 increased observance paired with active armed resistance. Into that fractured landscape, Mark
 opens his gospel with the word *euangelion* — the term for an imperial accession announcement —
 immediately following it with a quotation from Isaiah at the exact point the Day of the Lord is
@@ -65,15 +62,13 @@ kingdom, since leaven typically symbolizes corruption) — the smallest, least l
 becoming the largest, a reversal Israel should already have recognized from its own election as
 the smallest of nations ({{% bible val="Deuteronomy 7:7" link="deu:7,7" lang="en" %}}).
 
-**A hard, honest word from the source material worth naming carefully.** Some of what Israel
+**A hard word to name carefully.** Some of what Israel
 expected turned out to be misconceptions: that the enemies were the oppressing Romans (Jesus
 named the real enemies as the demonic powers, {{% bible val="Mark 3:22-27" link="mrk:3,22-27" lang="en" %}}), that the faithful "remnant" meant the visibly religious, and that ruling meant
-ruling the way other nations ruled. The accuracy review flagged this as an area where the
-source material generalizes about "what Israel thought" without citing the range of Second
-Temple sources that would support it — worth treating as a broad, representative pattern rather
-than a airtight claim about every first-century Jewish person's belief, especially given how
-much the same source material shows these groups disagreeing with each other just paragraphs
-earlier.
+ruling the way other nations ruled. Say that carefully in the group: "what Israel expected" is a
+broad, representative pattern, not an airtight claim about every first-century Jewish person's
+belief — the four groups listed a few paragraphs earlier were disagreeing with each other about
+exactly these questions.
 
 **Already, but not yet.** When Jesus read {{% bible val="Isaiah 61:1-2" link="isa:61,1-2" lang="en" %}} in the synagogue and declared it fulfilled
 ({{% bible val="Luke 4:16-21" link="luk:4,16-21" lang="en" %}}), He stopped mid-sentence — before
@@ -88,12 +83,11 @@ throughout the rest of this series.
 quotation — "prepare the way of the Lord" — because "the way" is the Exodus itself: God's means
 of restoring Israel, running now through the church. Acts returns to this "the way" language six
 times, and develops it through Pentecost's inclusion of Jews from every nation, the coming of the
-Spirit, the restoration of David's kingdom, and the inclusion of the excluded. One citation
-correction: the "fig tree" comparison in the Mark/Isaiah table (Jesus's judgment on the
-unfruitful fig tree framing His arrival in Jerusalem) is properly grounded in
-{{% bible val="Mark 11:12-14, 20-21" link="mrk:11,12-14" lang="en" %}}, not Revelation 17:14
-(which is about the beast and ten kings, unrelated to fig trees or fruitfulness) — a
-mismatched citation in the source material worth flagging if you go looking at it directly.
+Spirit, the restoration of David's kingdom, and the inclusion of the excluded. One row of the
+Mark/Isaiah table is worth looking up in the text itself: the "fig tree" comparison, Jesus's
+judgment on the unfruitful fig tree framing His arrival in Jerusalem, is
+{{% bible val="Mark 11:12-14, 20-21" link="mrk:11,12-14" lang="en" %}} — judgment or promise,
+depending on whether the tree bears fruit.
 
 ## Discussion Questions
 

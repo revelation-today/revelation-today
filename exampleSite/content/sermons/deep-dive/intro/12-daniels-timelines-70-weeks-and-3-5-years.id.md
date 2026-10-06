@@ -24,8 +24,8 @@ akhir zaman dari angka-angka Daniel dan Wahyu — 70 kali tujuh masa, 1260 hari,
 masa dan dua masa dan setengah masa"? Angka-angka ini telah memicu lebih banyak spekulasi
 penetapan tanggal daripada hampir apa pun lainnya dalam Kitab Suci. Malam ini kita akan menghitung
 dengan cermat, melihat ke mana angka-angka itu menunjuk dengan presisi yang sesungguhnya
-(mengejutkan, tepat kepada salib itu sendiri), dan bersikap jujur di mana kronologi bahan sumbernya
-sendiri memerlukan koreksi sebelum kita membangun apa pun di atasnya.
+(mengejutkan, tepat kepada salib itu sendiri), dan bersikap jujur tentang langkah-langkah hitungan
+mana yang diperdebatkan di antara pembaca Daniel yang cermat.
 
 ## Bagian 1: 70 Kali Tujuh Masa
 
@@ -50,35 +50,39 @@ dan nubuat, serta mengurapi Yang Mahakudus
 tujuan ini jauh melampaui apa pun yang pernah tercapai dalam sejarah, kecuali apa yang dicapai
 Yesus di kayu salib.
 
-**Sebuah koreksi signifikan terhadap kronologi bahan sumber.** Urutan asli artikel ini mengklaim
-bahwa 7 kali tujuh masa (49 tahun) berjalan dari dekrit untuk membangun kembali Yerusalem hingga
-539 SM, lalu 62 kali tujuh masa (434 tahun) berjalan "selama bait suci berdiri" — tetapi artikel
-itu menjangkarkan periode kedua ini mulai dari 440 SM (menghubungkan pembangunan kembali bait suci
-dengan Nehemia) dan berakhir pada 6 SM. Ada dua hal yang perlu diperbaiki di sini. Pertama, Bait
-Suci Kedua sebenarnya selesai dibangun pada 516 SM di bawah Zerubabel dan Darius I — kontribusi
-Nehemia, beberapa dekade kemudian (sekitar 445 SM), adalah membangun kembali tembok-tembok
-Yerusalem, bukan bait sucinya. Kedua, dan yang lebih penting, angka-angka sebagaimana disajikan
-semula sebenarnya tidak menyambung: memulai hitungan 49 tahun pada 587 SM dan mengakhirinya pada
-539 SM, lalu secara terpisah memulai hitungan 434 tahun pada 440 SM, meninggalkan celah yang tidak
-terjelaskan sekitar 99 tahun — padahal Daniel 9:25 menggambarkannya berjalan berurutan tanpa jeda,
-bukan dengan jeda selama satu abad di tengahnya. Ini adalah kelemahan argumentatif yang nyata dalam
-bahan sumber, bukan sekadar kesalahan pembulatan — perlakukan kesimpulan keseluruhan "tujuh puluh
-kali tujuh masa berpusat pada salib" sebagai sebuah pola historis yang didukung dengan baik dan
-layak dipertimbangkan serius, sambil bersikap jujur kepada kelompok Anda bahwa perhitungan
-dekade-demi-dekade yang tepat bergantung pada titik awal mana, di antara beberapa yang diusulkan
-(dekrit Koresh, dekrit Darius, atau dekrit Artahsasta kepada Ezra/Nehemia pada 457 atau 445 SM),
-yang Anda pilih — sebuah detail yang sungguh-sungguh diperdebatkan di antara pembaca Daniel yang
-cermat, bukan yang sudah tuntas.
+**Bagaimana hitungan itu sebenarnya berjalan — dan di mana ia berhenti.** Inilah bagian yang ingin
+dilihat kelompok Anda di papan tulis. Kali tujuh masa itu adalah tahun-tahun yang sungguhan, tetapi
+tidak dihitung terus-menerus: dua kali hitungan itu berhenti dan menunggu. Firman untuk memulihkan
+dan membangun kembali Yerusalem keluar melalui Yeremia pada 588/587 SM, ketika kota itu jatuh
+({{% bible val="Yeremia 30:18" link="jer:30,18" lang="ind" %}}). Tujuh kali tujuh, 49 tahun,
+membawa kita ke 539 SM, ketika Koresh — yang disebut orang yang diurapi Allah dalam
+{{% bible val="Yesaya 45:1" link="isa:45,1" lang="ind" %}} — mengeluarkan dekritnya. Di sini
+hitungan berhenti: Koresh memberi perintah, tetapi hampir seratus tahun berlalu sebelum Yerusalem
+berdiri kembali sebagai kota bertembok, dan itu terjadi di bawah Nehemia sekitar 440 SM. Dari sana
+enam puluh dua kali tujuh, 434 tahun, berjalan selama kota itu berdiri "dalam zaman kesesakan" —
+melewati Persia, Yunani, kerajaan-kerajaan Siria-Mesir, dan akhirnya Roma — dan mencapai 6 SM,
+kelahiran Yesus. Hitungan itu berhenti untuk kedua kalinya sampai pelayanan publik-Nya dimulai.
+
+Katakan dengan jelas bahwa jeda-jeda itu adalah bagian dari skemanya, bukan tambalan atas sebuah
+celah: begitulah sumber penjelasan ini, Gerhard Maier, membaca bagian itu. Dan katakan sama
+jelasnya bahwa pembaca lain yang cermat menghitung secara berbeda — terus-menerus sejak dekrit
+Artahsasta (445/444 SM), atau memperlakukan angka-angka itu sebagai simbolis alih-alih kalendris.
+Kesimpulan yang menjadi dasar sesi ini, bahwa tujuh puluh kali tujuh masa berpusat pada salib,
+kuat; perhitungan dekade-demi-dekade adalah satu usulan di antara beberapa, dan kelompok Anda
+berhak mengetahuinya.
 
 **"Kali tujuh masa" terakhir, dan salib.** Setelah enam puluh dua kali tujuh masa, "Yang Diurapi
 itu akan disingkirkan, tanpa memiliki apa-apa" — Yesus, bukan Koresh kali ini. "Disingkirkan" dalam
 bahasa Aram juga bisa berarti "memotong sebuah perjanjian" — Ia mati untuk mengikat sebuah
 perjanjian. Di tengah-tengah periode tujuh tahun yang terakhir ini, korban sembelihan dan
 persembahan berakhir, karena keduanya tidak lagi diperlukan setelah salib
-({{% bible val="Ibrani 10:1-18" link="heb:10,1-18" lang="ind" %}}). Bahan sumber bahkan
-mengusulkan sebuah jendela waktu 7 tahun yang spesifik — 27 M (pembaptisan Yesus) hingga 34 M
-(kemartiran Stefanus dan titik balik yang menentukan dari Injil menuju bangsa-bangsa bukan Yahudi)
-— dengan salib itu sendiri tepat di tengahnya, 31 M. Pegang penanggalan spesifik ini dengan
+({{% bible val="Ibrani 10:1-18" link="heb:10,1-18" lang="ind" %}}). Tujuh tahun terakhir itu
+adalah 27 M — pembaptisan Yesus, dihitung dari tahun kelima belas pemerintahan Tiberius
+({{% bible val="Lukas 3:1" link="luk:3,1" lang="ind" %}}) — hingga 34 M, perajaman Stefanus dan
+titik balik yang menentukan dari Injil menuju bangsa-bangsa bukan Yahudi, dengan salib tepat di
+tengahnya, 30 M. Penjelasan itu juga membaca perang Yahudi 66–73 M sebagai pantulan pekan yang
+sama empat puluh tahun kemudian — bait suci dihancurkan pada pertengahannya, korban-korban berakhir
+bersamanya. Pegang penanggalan ini dengan
 keterbukaan yang sepatutnya: ini adalah usulan yang masuk akal dan dipikirkan secara cermat, bukan
 sebuah kepastian yang menjadi tumpuan seluruh argumen.
 
@@ -110,9 +114,8 @@ mengganggu dari ujian Gunung Karmel Elia, kali ini dilakukan oleh sebuah tiruan 
 **Bagaimana pola 3,5 tahun sudah muncul lebih dulu dalam Daniel.** 70 kali tujuh masa itu
 diselesaikan, pada periode terakhirnya, menjadi dua setengah-masa berdurasi 3,5 tahun masing-masing
 — satu umumnya dibaca mencakup pelayanan Yesus di bumi, yang lain meluas ke dalam zaman jemaat yang
-menyusulnya. Ini adalah periode yang sama, digambarkan dengan tiga cara berbeda karena alasan yang
-diperlakukan bahan sumber secara jujur sebagai sesuatu yang agak tidak pasti (lebih lanjut di
-bawah).
+menyusulnya. Wahyu mengambil setengah pekan itu dan menjadikannya gambaran seluruh waktu antara
+kedua kedatangan Yesus.
 
 **Apa yang kemungkinan besar digambarkan oleh ketiga periode waktu ini.** Aktivitas binatang di
 pasal 13 dimulai tepat setelah salib, begitu iblis menyadari ia tidak dapat menghancurkan Israel
@@ -125,17 +128,19 @@ mengingat betapa panjangnya rentang itu, bahwa "kedua saksi" berfungsi jauh lebi
 sebagai jemaat itu sendiri daripada sebagai dua tokoh akhir zaman secara individual (kita akan
 membahas ini secara penuh dalam sesi Kedua Saksi, jauh kemudian dalam seri ini).
 
-**Sebuah ketidakpastian yang jujur dan ditandai dengan jelas — bahan diskusi yang baik, bukan
-jawaban yang sudah tuntas.** Mengapa teks ini berpindah satuan (hari di sini, bulan di sana,
-"masa" di tempat lain) untuk sesuatu yang secara matematis adalah panjang waktu yang sama? Bahan
-sumber mengusulkan bahwa hari menandai kesaksian jemaat, bulan menandai pemerintahan tampak dari
-iblis, dan tahun/masa menandai karya tersembunyi Allah — tetapi penulis bahan sumber sendiri
-menandai ini sebagai "sesungguhnya spekulatif," dan itu tidak menyelesaikan dengan bersih satu
-ketegangan nyata: peristiwa yang sama (perlindungan perempuan itu) digambarkan memakai baik "hari"
-(Why 12:6) maupun "masa" (Why 12:14), yang duduk dengan janggal bersama sebuah skema simbolis
-tiga-arah yang bersih. Ini adalah tempat yang baik untuk membiarkan kelompok Anda bergumul langsung
-dengan teks itu, alih-alih menyerahkan kepada mereka jawaban rapi yang tidak sepenuhnya diberikan
-oleh bahan sumber itu sendiri.
+**Mengapa teks berpindah satuan — dan ujung yang masih terbuka.** Hari di sini, bulan di sana,
+"masa" di tempat lain, untuk sesuatu yang secara matematis adalah panjang waktu yang sama. Hari
+menandai kesaksian kedua saksi dan pemeliharaan Allah bagi Israel; bulan menandai pemerintahan
+iblis dan terinjaknya pelataran luar bait suci; tahun, atau "masa," menandai karya tersembunyi
+Allah. Richard Bauckham telah menunjukkan bahwa pembagian itu disengaja: 42 bulan adalah bilangan
+binatang itu, 1260 hari bilangan jemaat, dan keduanya termasuk pada 36 — akar dari 666 milik
+binatang itu — dan pada 1225, bilangan umat Allah (*Climax of Prophecy*, hlm. 400–402). Yang
+dijelaskan oleh pasangan itu adalah: pemerintahan iblis dan pemerintahan jemaat yang diberikan
+Allah berjalan berdampingan dalam rentang yang sama. Satu ujung terbuka layak disebutkan kepada
+kelompok Anda alih-alih dihaluskan: perlindungan perempuan itu digambarkan dengan "hari" dalam
+{{% bible val="Why 12:6" link="rev:12,6" lang="ind" %}} dan dengan "masa" dalam
+{{% bible val="12:14" link="rev:12,14" lang="ind" %}} — peristiwa yang sama dalam dua satuan yang
+berbeda.
 
 ## Pertanyaan Diskusi
 
@@ -144,9 +149,8 @@ oleh bahan sumber itu sendiri.
    perhitungan dekade-demi-dekade yang pasti lebih diperdebatkan daripada yang tampak pada
    pembacaan sekilas?
 2. Apa yang disarankan oleh perpindahan antara "hari," "bulan," dan "masa" untuk panjang waktu
-   dasar yang sama tentang apa yang sedang terjadi dalam Wahyu 11-13 — dan mengapa lebih jujur
-   untuk menyebutkan ketegangan yang belum terselesaikan ini daripada memaksakan penjelasan yang
-   rapi?
+   dasar yang sama tentang apa yang sedang terjadi dalam Wahyu 11-13 — dan apa artinya bahwa
+   rentang binatang itu dan rentang jemaat sama panjangnya?
 3. Bagaimana latar belakang Elia/Gunung Karmel menerangi apa yang terjadi ketika binatang kedua
    dalam Wahyu 13 menurunkan api dari langit?
 
@@ -158,7 +162,7 @@ oleh bahan sumber itu sendiri.
    di masa depan. Jika jemaat sudah menjalani "1260 hari" kesaksiannya selama dua ribu tahun, apa
    yang itu sarankan tentang peran Anda sendiri dalam kisah yang terus berlangsung itu sekarang?
 6. Sesi ini memodelkan cara memegang teguh sebuah kesimpulan (salib adalah sasarannya) sambil
-   memegang longgar beberapa detail (kronologi yang persis, pola hari/bulan/masa). Di manakah lagi
+   memegang longgar beberapa detail (kronologi yang persis, jeda kedua dalam hitungan). Di manakah lagi
    dalam iman Anda sendiri Anda bisa diuntungkan dari kombinasi keyakinan dan kerendahan hati yang
    sama itu?
 

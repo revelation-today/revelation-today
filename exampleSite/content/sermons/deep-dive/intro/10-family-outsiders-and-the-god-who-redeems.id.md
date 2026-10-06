@@ -41,7 +41,7 @@ keluarga-keluarga tanpa kedudukan sosial. Itulah sebabnya kepedulian terhadap pa
 yatim menjadi penanda utama dari agama yang sejati
 ({{% bible val="Yakobus 1:27" link="jas:1,27" lang="ind" %}}). Dan pola narasi Alkitab sendiri
 memperkuat kritik itu: Allah terus memilih raja-raja dan pahlawan-pahlawan justru dari
-keluarga-keluarga yang akan dianggap tidak berharga oleh budaya sekitarnya — Rut, separuh Moab,
+keluarga-keluarga yang akan dianggap tidak berharga oleh budaya sekitarnya — Rut orang Moab
 menjadi buyut Raja Daud; tiga dari empat perempuan yang disebutkan dalam silsilah Yesus di Matius 1
 adalah orang luar bukan Israel (Tamar orang Kanaan, Rut orang Moab, istri Uria orang Het,
 yaitu Batsyeba).
@@ -68,16 +68,14 @@ ia tidak sekadar bermurah hati — ia sedang memenuhi sebuah jabatan hukum yang 
 teks itu dengan sengaja memakai jabatan itu untuk mengantisipasi apa yang akan Allah sendiri
 lakukan bagi sebuah keluarga yang jauh lebih besar dan jauh lebih putus asa.
 
-**Sebuah tempat yang layak dikoreksi dari artikel sumber.** Teks aslinya mengutip Bilangan 36
-untuk klaim bahwa "perempuan diizinkan mewarisi menurut hukum." Bilangan 36 sebenarnya adalah
-sebuah keputusan lanjutan yang membatasi *siapa* yang boleh dinikahi oleh anak-anak perempuan
-Zelafehad, agar pembagian tanah antar-suku tidak berpindah antar suku — ayat itu mengandaikan hak
-waris tersebut, bukan menetapkannya. Keputusan sesungguhnya yang memberikan hak waris kepada
-anak-anak perempuan ketika tidak ada anak laki-laki adalah
-{{% bible val="Bilangan 27:1-11" link="num:27,1-11" lang="ind" %}}. Layak dikutip dengan benar,
-karena inti yang mendasarinya — bahwa tradisi hukum Alkitab melakukan sesuatu yang lebih progresif
-terhadap perempuan daripada yang diasumsikan budaya sekitarnya — layak mendapat dukungan tekstual
-sesungguhnya yang terkuat, bukan sebuah rujukan sekunder.
+**Ayat yang perlu dibuka ketika Anda mengatakan perempuan boleh mewarisi.** Keputusan yang
+memberikan hak waris kepada anak-anak perempuan ketika tidak ada anak laki-laki adalah
+{{% bible val="Bilangan 27:1-11" link="num:27,1-11" lang="ind" %}}, perkara anak-anak perempuan
+Zelafehad. Bilangan 36 sering dikutip di sini, tetapi itu adalah keputusan lanjutan yang membatasi
+*siapa* yang boleh dinikahi anak-anak perempuan itu, agar tanah suku tidak berpindah antar suku —
+ayat itu mengandaikan hak tersebut, bukan memberikannya. Pakailah teks yang lebih kuat: inti bahwa
+hukum Israel melakukan lebih banyak bagi perempuan daripada yang diasumsikan budaya sekitarnya
+layak mendapat ayat yang memang mengatakannya.
 
 **Mengapa ini penting bagi pembacaan Wahyu.** Wahyu memanggil umat Allah untuk melihat diri mereka
 sebagai bagian dari sebuah keluarga yang kepalanya bukan seorang bapak leluhur yang mungkin gagal

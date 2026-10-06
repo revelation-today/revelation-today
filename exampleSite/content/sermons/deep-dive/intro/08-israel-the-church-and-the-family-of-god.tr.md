@@ -81,15 +81,15 @@ geleceği İsrail'in hikâyesinden kopuk değil, onda köklenmiştir.
 
 **Dilin neden bu kadar keskin olduğu: bir etnik reddediş değil, bir aile anlaşmazlığı.** Kilise,
 Yahudi muhalifler hakkında bu kadar keskin konuşabilir, tam olarak İsrail'in bir parçası olduğu
-ve kendi köklerini kesemeyeceği için — bazı Yahudiler ona saldırsa bile. Bu, kaynak malzemenin
-üzerinde ısrar ettiği önemli ayrımdır: Vahiy'in "Şeytan'ın havrası" hakkındaki sert sözleri asla
+ve kendi köklerini kesemeyeceği için — bazı Yahudiler ona saldırsa bile. Tutulması gereken önemli
+ayrım budur: Vahiy'in "Şeytan'ın havrası" hakkındaki sert sözleri asla
 etnisite üzerine bir ifade değildir. Belirli şehirlerdeki belirli muhaliflere yönelik, İsa'yla
 ilişki hakkında bir ifadedir — kendi Yahudi mirasını tam olarak kendisininmiş gibi iddia etmeye
 devam eden bir ailenin içinden.
 
 **Bu oturuma özgü bir ton notu.** Bu, kilisede uzun, bazen acı verici bir kötüye kullanım
-tarihine sahip, bütün girişteki en teolojik açıdan yüklü konulardan biridir. Kaynak malzemenin
-yaptığı gibi ele alın: dikkatlice, zafer kazanmışlık havası olmadan ve "kilise İsrail'in
+tarihine sahip, bütün girişteki en teolojik açıdan yüklü konulardan biridir. Dikkatlice ele alın:
+zafer kazanmışlık havası olmadan ve "kilise İsrail'in
 unvanlarını miras alır" ifadesinin "bu yüzden İsrail'in yerine geçilmiştir"e kaymasına izin
 vermeden — buradaki argüman devamlılık ve içermedir, yer değiştirme değil.
 
@@ -99,8 +99,8 @@ vermeden — buradaki argüman devamlılık ve içermedir, yer değiştirme değ
 1. Yukarıdaki unvan-aktarımlarından ikisini veya üçünü (sevgili, gelin, kahinler krallığı,
    tapınak) seçin ve bunları Eski Ahit kökeninden Yeni Ahit uygulamalarına kadar izleyin. Bunun
    ne kadar tutarlı gerçekleştiğinde ne fark ediyorsunuz?
-2. Kaynak malzeme neden Vahiy'in "Şeytan'ın havrası" dilinin etnisite hakkında değil, İsa'yla
-   ilişki hakkında olduğunda ısrar ediyor? Metinde bunu ne destekliyor?
+2. Vahiy'in "Şeytan'ın havrası" dili neden etnisite hakkında değil, İsa'yla ilişki hakkındadır?
+   Metinde bunu ne destekliyor?
 3. 24 ihtiyarın, iki ayrı grup yerine 12 kabile ve 12 elçiyi tek, birleşik bir imge olarak temsil
    etmesi ne anlama geliyor?
 

@@ -34,8 +34,7 @@ erken Hristiyan edebiyatı türünü adlandırır. Daha geniş bir tartışma i�
 durmaya değer, çünkü bu, çalışmanızın geri kalanının tamamını yeniden çerçeveliyor: Vahiy,
 öncelikle çözülmesi gereken bir bilmece değil, itaat edilmesi gereken bir çağrıdır.
 
-**"İsa Mesih'in."** Buradaki Yunanca tamlama belirsizdir ve — kaynak materyalin savunduğu gibi —
-muhtemelen bilinçli olarak öyledir. Ya "İsa'dan gelen vahiy" (O kaynaktır) ya da "İsa hakkındaki
+**"İsa Mesih'in."** Buradaki Yunanca tamlama belirsizdir ve muhtemelen bilinçli olarak öyledir. Ya "İsa'dan gelen vahiy" (O kaynaktır) ya da "İsa hakkındaki
 vahiy" (O içeriktir) anlamına gelebilir. Her iki okuma da dil bilgisi açısından işliyor ve en iyi
 yanıt "ikisi de" olabilir: vahiy İsa'dan gelir ve bütün amacı bize O'nu daha çok göstermektir. Bu
 kitap canavarlar, taslar ve savaşlarla başka ne yaparsa yapsın, temelde Mesih merkezlidir — her
@@ -61,8 +60,8 @@ vaat değil, hâlâ yaşamayı öğrendiğimiz şimdiki bir kimlik.
 Zekeriya 12'nin "bana, deştikleri kişiye bakacaklar ve onun için yas tutacaklar" ifadelerini bir
 arada örer. Zekeriya'da bu yas, İsrail'in kendi kralı için tuttuğu yastır. Yuhanna bunu "yeryüzü
 üzerindeki bütün halklara" genişletir. Dikkat çekici biçimde metin, *neden* yas tuttuklarını
-belirtmez — kaynak materyal bunun bilinçli olarak açık bırakıldığını savunuyor: kimileri tövbe
-içinde yas tutar, Kurtarıcı'yı tanıyarak; kimileri de dehşet içinde yas tutar, Yargıç'ı tanıyarak.
+belirtmez: kimileri tövbe içinde yas tutar, Kurtarıcı'yı tanıyarak; kimileri de dehşet içinde yas
+tutar, Yargıç'ı tanıyarak. Bu dizinin nerede durduğu bir sonraki bölümde.
 Bu, İsa'yı gerçekten çarmıha gerenlere yönelik bir intikam vaadi değildir ("yeryüzü üzerindeki
 bütün halklar"ın çoğunun bunda hiçbir payı yoktu) — bu, bir yolla ya da başka bir yolla, herkesin
 O'nunla hesaplaşması için küresel bir çağrıdır.

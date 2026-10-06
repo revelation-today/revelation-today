@@ -21,7 +21,7 @@ gambaran dari kisah yang sama ini.
 
 ## Inti Pengajaran
 
-Sesi ini mengacu pada empat artikel sumber:
+Sesi ini mengacu pada empat artikel:
 [Eksodus dari Mesir: Kisah Sebelumnya]({{< relref "expl/bible/exodus/the-story-before-the-exodus" >}}),
 [Kisah Musa]({{< relref "expl/bible/exodus/the-birth-of-moses" >}}),
 [Pengerasan Hati]({{< relref "expl/bible/exodus/the-hardening-of-pharaohs-heart" >}}), dan
@@ -29,11 +29,10 @@ Sesi ini mengacu pada empat artikel sumber:
 
 **Latar belakang sejarah, secara singkat.** Kisah Israel kemungkinan bersinggungan dengan periode
 Hyksos — bangsa Semit dari Kanaan yang menguasai Delta Nil bagian timur sekitar tahun 1720 SM
-sebelum diusir sekitar tahun 1550 SM. Ada koreksi kecil terhadap materi sumber: Gosyen, tempat
-keluarga Yusuf menetap, secara tepat terletak di *timur laut* Mesir (Delta bagian timur, dekat
-perbatasan Sinai), bukan barat laut seperti yang dinyatakan semula — koreksi yang justru
-memperkuat poin lanjutan dari artikel itu sendiri, karena hal ini membuat Gosyen konsisten dengan
-wilayah timur laut tempat Pitom, Rameses, dan rute keberangkatan akhir bangsa Israel juga berada.
+sebelum diusir sekitar tahun 1550 SM. Gosyen, tempat keluarga Yusuf menetap, terletak di
+*timur laut* Mesir — Delta bagian timur, dekat perbatasan Sinai, wilayah yang sama dengan Pitom,
+Rameses, dan rute yang akhirnya dipakai Israel untuk keluar. Layak ditunjukkan pada peta kepada
+kelompok Anda; geografinya adalah separuh dari argumennya.
 Setelah pengusiran bangsa Hyksos, tekad Mesir untuk mencegah pengambilalihan asing kedua kalinya
 itulah yang mendorong kekejaman Firaun yang terus meningkat terhadap orang Israel yang tersisa.
 
@@ -94,28 +93,22 @@ pribadi, yang berulang kali diperingatkan terlebih dahulu. Beberapa pegawai Fira
 peringatan itu dan menyelamatkan orang-orang mereka (9:20), dan ketika Israel berangkat, banyak
 orang dari berbagai bangsa ikut bersama mereka (12:38).
 
-**Sebuah peringatan tentang klaim-klaim spesifik dalam artikel ini.** Tinjauan akurasi menandai
-beberapa klaim spesifik tentang mitologi Mesir dalam materi sumber sebagai tidak dapat diverifikasi
-atau kemungkinan keliru — termasuk mitos yang terkesan direka-reka di balik frasa "jari Allah,"
-dan klaim adanya dewa khusus belalang yang tidak memiliki dasar dalam ilmu Mesir Kuno standar. Hal
-itu juga menandai sebuah kekeliruan mengenai dewa mana yang disebut "bapak para dewa" (gelar itu
-milik tokoh-tokoh pencipta seperti Atum, Ra, atau Nun, bukan sekadar "dewa Sungai Nil," yang umum
-dipersonifikasikan sebagai Hapi) serta ketidaktepatan yang memasangkan dewi katak Heqet dengan
-"dewa Sungai Nil" padahal ia sebenarnya berpasangan dengan Khnum. Alih-alih mengulangi klaim-klaim
-mitologis spesifik tersebut, versi pengajaran yang paling aman dan tetap sepenuhnya meyakinkan
-adalah versi yang lebih kokoh: tulah-tulah itu secara sistematis meruntuhkan kepercayaan diri
+**Seberapa kuat bersandar pada mitologi Mesir.** Sebagian darinya tanah yang kokoh: dewi katak
+Heqet, pendamping dewa penjunan Khnum, dikaitkan dengan kelahiran dan hidup baru, dan Sungai Nil
+sendiri disembah. Detail lain — mitos di balik frasa "jari Allah," dewa yang satu-satunya tugasnya
+adalah perlindungan dari belalang — lebih sulit diverifikasi dari ilmu Mesir Kuno standar, jadi
+pegang itu dengan longgar dalam kelompok dan jangan biarkan argumennya bersandar di situ. Memang
+tidak perlu. Versi yang lebih kokoh menanggung seluruh bobotnya: tulah-tulah itu secara sistematis
+meruntuhkan kepercayaan diri
 Mesir terhadap dewa-dewa nasionalnya sendiri dan otoritas ilahi Firaun yang diklaimnya, yang
 berpuncak pada kematian anak sulung — sebuah pukulan langsung terhadap garis suksesi Firaun
-sendiri dan terhadap dewa-dewa yang berkaitan dengan hewan yang masa depannya (yang diwakili oleh
-"anak sulung" mereka sendiri) kini terbukti sama sekali tidak memiliki masa depan. Kamu tidak
-memerlukan kutipan mitologis yang spesifik dan meragukan untuk membuat argumen itu; teksnya
-sendiri sudah membawa bobot itu.
+sendiri dan terhadap dewa-dewa yang berkaitan dengan hewan yang masa depannya, yang diwakili oleh
+anak sulung mereka sendiri, kini terbukti sama sekali tidak memiliki masa depan.
 
-**Satu koreksi kutipan yang perlu dicatat:** klaim bahwa Keluaran 12:12 mendukung "tidak ada waktu
-untuk menunggu, hanya untuk bergegas" sebenarnya berasal dari
-{{% bible val="Keluaran 12:11" link="exo:12,11" lang="ind" %}} ("makanlah dengan tergesa-gesa,
-dengan pinggang berikat") — 12:12 berbicara tentang penghakiman atas dewa-dewa Mesir, sebuah tema
-yang dikutip secara tepat di tempat lain dalam pembahasan yang sama.
+**Dua ayat, dua poin, mudah tertukar:**
+{{% bible val="Keluaran 12:11" link="exo:12,11" lang="ind" %}} adalah ayat tentang bergegas
+("makanlah dengan tergesa-gesa, dengan pinggang berikat"); 12:12 berbicara tentang penghakiman
+atas dewa-dewa Mesir.
 
 **Paskah itu sendiri.** Sebelum tulah kesepuluh, Allah memperkenalkan Paskah — perlindungan dari
 penghakiman, asal mula Perjamuan Tuhan, dan, yang patut dicatat, terbuka bagi siapa pun yang ingin

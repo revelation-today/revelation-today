@@ -49,13 +49,12 @@ menghancurkan seluruh patung itu dan tumbuh menjadi sebuah gunung yang memenuhi 
 {{% bible val="mengalahkan kerajaan-kerajaan itu dan mendirikan kerajaan yang kekal" link="dan:7,9-14" lang="ind" %}}
 (pasal 7).
 
-**Sebuah koreksi faktual yang layak disebutkan dengan jelas.** Penanggalan asli materi sumber untuk
-"dua ribu tiga ratus petang dan pagi" dari Daniel 8:14 menempatkan penajisan bait suci oleh Antiokhus
-Epifanes IV pada 6 Desember 176 SM — tetapi Antiokhus baru menjadi raja pada 175 SM, membuat
-tanggal itu mustahil. Tanggal historis yang terdokumentasi baik untuk penajisan bait suci (altar
-"pembinasa keji" bagi Zeus, menurut 1 Makabe) adalah 167 SM, dengan pentahbisan ulang Makabe —
-Hanukkah — menyusul pada Desember 164 SM. Tanggal yang dikoreksi ini sama sekali tidak mengubah
-argumen yang mendasarinya; itu hanya memperbaiki sebuah kronologi yang mustahil.
+**Tanggal-tanggal yang perlu dijaga ketepatannya.** Antiokhus IV Epifanes menjadi raja pada
+175 SM. Penajisan bait suci — altar "pembinasa keji" bagi Zeus, menurut 1 Makabe — terdokumentasi
+baik pada 167 SM, dan pentahbisan ulang Makabe, Hanukkah, menyusul pada Desember 164 SM. Itulah
+tanggal-tanggal yang dipakai untuk menimbang "dua ribu tiga ratus petang dan pagi" dari Daniel
+8:14; anggota kelompok yang memakai bagan lama bisa saja datang dengan 6 Desember 176 SM, setahun
+sebelum Antiokhus naik takhta.
 
 **Mengapa batu itu belum tampak "memenuhi seluruh bumi" — sebuah ketegangan yang hidup dan layak
 disebutkan dengan jujur.** Beberapa detail dalam teks Daniel sendiri tidak sepenuhnya cocok dengan
@@ -63,9 +62,9 @@ pembacaan sederhana "Roma jatuh, cerita selesai." Pasal 2 menyebutkan kerajaan-k
 yang diwakili oleh kaki-kaki patung itu; dampak batu itu pada kedatangan pertama tidak menghancurkan
 seluruh patung sekaligus, karena Roma masih berdiri berabad-abad lagi; dan binatang keempat di
 pasal 7 digambarkan secara unik menakutkan dan berbeda dari semua binatang sebelumnya dengan
-cara-cara yang tidak jelas membedakan Roma dari kekaisaran-kekaisaran sebelumnya. Artikel sumber
-jujur bahwa ini adalah sebuah titik yang sungguh-sungguh diperdebatkan, bukan yang sudah selesai,
-dan menawarkan satu penyelesaian yang diajukan: kedatangan pertama Yesus tidak mengakhiri seluruh
+cara-cara yang tidak jelas membedakan Roma dari kekaisaran-kekaisaran sebelumnya. Ini adalah
+sebuah titik yang sungguh-sungguh diperdebatkan, bukan yang sudah selesai, dan satu penyelesaian
+yang diajukan berbunyi begini: kedatangan pertama Yesus tidak mengakhiri seluruh
 sejarah dunia sekaligus — kedatangan itu memulai sebuah perubahan mendasar yang kini dibawa terus
 oleh gereja, menyebar melalui penyembahan, doa, kesaksian, dan ketekunan alih-alih penaklukan
 militer. Baik Anda menganggap penyelesaian itu sepenuhnya memuaskan atau masih sebuah pertanyaan

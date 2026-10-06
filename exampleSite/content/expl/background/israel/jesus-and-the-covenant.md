@@ -19,7 +19,7 @@ When Jesus came to earth, His message and behavior "surprised" people — and fo
 ## The expectation of the Day of the Lord
 
 <a name="d8b5"></a>
-At the time of Jesus, the Jews were awaiting the Day of the Lord, but they disagreed sharply on how it would actually arrive. Qumran expected a (partial) withdrawal from society paired with increased observance of the law. The Pharisees pushed for increased observance of the law within society as it stood. The Jewish historian Josephus concluded that Israel had been rejected and that God had instead chosen the Romans. The Sadducees favored increased observance of the law alongside submission to and cooperation with Roman leadership. And the Zealots wanted increased observance of the law combined with active resistance against Rome.
+At the time of Jesus, the Jews were awaiting the Day of the Lord, but they disagreed sharply on how it would actually arrive. Qumran expected a (partial) withdrawal from society paired with increased observance of the law. The Pharisees pushed for increased observance of the law within society as it stood. The Jewish historian Josephus concluded that Israel had been rejected and that God had instead chosen the Romans. The Sadducees held to the written law alone, rejecting the Pharisees' oral tradition, and favoured submission to and cooperation with Roman leadership. And the Zealots wanted increased observance of the law combined with active resistance against Rome.
 
 ## The challenge
 

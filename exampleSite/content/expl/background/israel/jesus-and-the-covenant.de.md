@@ -19,7 +19,7 @@ Als Jesus auf die Erde kam, „überraschten“ seine Botschaft und sein Verhalt
 ## Die Erwartung an den Tag des Herrn
 
 <a name="f713"></a>
-Zur Zeit Jesu warteten die Juden auf den Tag des Herrn, waren sich aber uneinig, wie er tatsächlich kommen würde. Qumran erwartete einen (teilweisen) Rückzug aus der Gesellschaft, verbunden mit stärkerer Befolgung des Gesetzes. Die Pharisäer drängten auf eine stärkere Befolgung des Gesetzes innerhalb der bestehenden Gesellschaft. Der jüdische Historiker Josephus kam zu dem Schluss, dass Israel verworfen worden war und Gott stattdessen die Römer erwählt hatte. Die Sadduzäer bevorzugten eine stärkere Befolgung des Gesetzes zusammen mit Unterordnung und Zusammenarbeit mit der römischen Führung. Und die Zeloten wollten stärkere Befolgung des Gesetzes verbunden mit aktivem Widerstand gegen Rom.
+Zur Zeit Jesu warteten die Juden auf den Tag des Herrn, waren sich aber uneinig, wie er tatsächlich kommen würde. Qumran erwartete einen (teilweisen) Rückzug aus der Gesellschaft, verbunden mit stärkerer Befolgung des Gesetzes. Die Pharisäer drängten auf eine stärkere Befolgung des Gesetzes innerhalb der bestehenden Gesellschaft. Der jüdische Historiker Josephus kam zu dem Schluss, dass Israel verworfen worden war und Gott stattdessen die Römer erwählt hatte. Die Sadduzäer hielten allein am geschriebenen Gesetz fest, lehnten die mündliche Überlieferung der Pharisäer ab und bevorzugten Unterordnung und Zusammenarbeit mit der römischen Führung. Und die Zeloten wollten stärkere Befolgung des Gesetzes verbunden mit aktivem Widerstand gegen Rom.
 
 ## Die Herausforderung
 

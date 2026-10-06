@@ -91,15 +91,15 @@ bukan terlepas darinya.
 **Mengapa bahasanya begitu tajam, kalau begitu: ini adalah perselisihan keluarga, bukan penolakan
 etnis.** Gereja bisa berbicara setajam ini tentang lawan-lawan Yahudi justru *karena* gereja adalah
 bagian dari Israel dan tidak dapat memotong akarnya sendiri — bahkan ketika sejumlah orang Yahudi
-menyerangnya. Inilah perbedaan krusial yang ditegaskan materi sumber: kata-kata keras Wahyu tentang
+menyerangnya. Inilah perbedaan krusial yang harus dipegang: kata-kata keras Wahyu tentang
 "jemaah Iblis" tidak pernah menjadi pernyataan tentang etnisitas. Itu adalah pernyataan tentang
 relasi dengan Yesus, ditujukan kepada lawan-lawan tertentu di kota-kota tertentu, dari dalam sebuah
 keluarga yang masih mengklaim warisan Yahudinya sendiri sebagai sepenuhnya miliknya.
 
 **Sebuah catatan tentang nada untuk sesi ini secara khusus.** Ini adalah salah satu topik yang
 paling bermuatan teologis dalam seluruh pengantar ini, dengan sejarah yang panjang dan kadang
-menyakitkan tentang penyalahgunaannya dalam gereja. Tanganilah sebagaimana materi sumber
-menanganinya: dengan hati-hati, tanpa sikap superior, dan tanpa membiarkan "gereja mewarisi
+menyakitkan tentang penyalahgunaannya dalam gereja. Tanganilah dengan hati-hati, tanpa sikap
+superior, dan tanpa membiarkan "gereja mewarisi
 gelar-gelar Israel" merosot menjadi "karena itu Israel telah digantikan" — argumen di sini adalah
 kesinambungan dan pencakupan, bukan penggantian.
 
@@ -109,8 +109,8 @@ kesinambungan dan pencakupan, bukan penggantian.
 1. Pilih dua atau tiga pemindahan gelar di atas (yang dikasihi, mempelai, kerajaan imam, bait suci)
    dan telusuri dari akar Perjanjian Lamanya hingga penerapannya dalam Perjanjian Baru. Pola apa
    yang Anda perhatikan dalam betapa konsistennya hal ini terjadi?
-2. Mengapa materi sumber menegaskan bahwa bahasa "jemaah Iblis" dalam Wahyu adalah tentang relasi
-   dengan Yesus, bukan etnisitas? Apa dalam teks yang mendukung pembacaan itu?
+2. Mengapa bahasa "jemaah Iblis" dalam Wahyu adalah tentang relasi dengan Yesus, bukan tentang
+   etnisitas? Apa dalam teks yang mendukung pembacaan itu?
 3. Apa artinya bahwa kedua puluh empat tua-tua mewakili dua belas suku dan dua belas rasul sebagai
    satu gambar yang menyatu, bukan dua kelompok terpisah?
 

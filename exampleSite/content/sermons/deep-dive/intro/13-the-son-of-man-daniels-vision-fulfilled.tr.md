@@ -30,14 +30,12 @@ tapınırken. Görü, bunun kim olduğunu doğrudan açıklamaz, ama açıklama 
 toplu bir gerçeklik, "Siyon kızı"nın ulusu temsil ettiği veya İsrail'in hikayesinin Hezekiel
 16'da bir kadının hikayesi olarak anlatıldığı yerlerde başka yerlerde kullanılan aynı teknik.
 
-**Bir düzeltmeyle birlikte orijinal dil notu.** Kaynak makale başlangıçta Daniel'in Aramice
-terimini "kebar enash," "insanlığın oğlu" anlamına gelen tek bir birim olarak tanımlamıştı. Bu,
-grameri biraz yanlış ayrıştırıyor: gerçek unvan *bar enash*'tır (בַּר אֱנָשׁ), "insanoğlu" —
-*ke-* öneki, "gibi" veya "olarak" anlamına gelen ayrı bir karşılaştırma parçacığıdır, bu yüzden
-görü tam olarak "insanoğluna *benzer* [biri]" diye okunur, sadece "insanlığın oğlu" değil. Makalenin
-yaptığı altta yatan nokta hâlâ geçerli ve önemlidir: bu Aramice ifade, Tanrı'nın Hezekiel'i
-"insanoğlu" (*ben adam*, בֶּן אָדָם, "Adem'in oğlu") diye çağırdığında kullandığı İbraniceden
-farklıdır — birbiriyle ilişkili ama farklı iki unvan, birbirinin yerine geçen eş anlamlılar değil.
+**Orijinal dil notu.** Daniel'in Aramicesinde unvan *bar enash*'tır (בַּר אֱנָשׁ), "insanoğlu."
+Önündeki *ke-*, "gibi" veya "olarak" anlamına gelen ayrı bir karşılaştırma parçacığıdır, bu yüzden
+görü tam olarak "insanoğluna *benzer* [biri]" diye okunur — göğün tarafından görülen, bir insana
+benzeyen bir figür. Bu Aramice ifade, Tanrı'nın Hezekiel'i
+"insanoğlu" (*ben adam*, בֶּן אָדָם, "Adem'in oğlu") diye çağırdığında kullandığı İbranice ifadeyle
+aynı değildir — birbiriyle ilişkili ama farklı iki unvan, birbirinin yerine geçen eş anlamlılar değil.
 
 **Unvanın yarattığı sorun.** Yüzeyde, Daniel 7, İsrail'in bir gün dünyaya hükmedeceğine dair bir
 vaat gibi geliyor. Ama gerçek bir teolojik sorun var: bu görüdeki İnsanoğlu *tapınma alır* —
@@ -72,14 +70,13 @@ değildir — İsa'nın kendi tepkisi bağışlamaydı
 İsrail'i terk etmek değil, onu restore etmek, kiliseyi onun yerine geçen bir şeyle değiştirmek
 yerine ona katmaktı (8. oturumu hatırlayın).
 
-**Düzeltmeye değer bir alıntı.** Kaynak makale başlangıçta, iki tanığın "şiddet kullanmadığı...
-ama yargıyı Tanrı'ya bıraktığı" iddiasını desteklemek için
-{{% bible val="Vahiy 11:5" link="rev:11,5" lang="tr" %}}'i kaynak gösteriyordu. Bu ayet aslında
-tanıkların saldırganlarını yok eden ağızlarından çıkan ateşle bizzat doğaüstü zarar verdiğini
-anlatır, ki bu şiddetsizlik iddiasıyla gerçek bir gerginlik içindedir. Eğer kastedilen ayrım,
-tanıkların dünyevi yöneticilerin sahip olduğu türden siyasi veya askeri güç kullanmadığıysa, bu
-nokta, İlyas tarzı doğaüstü bir misillemeye daha yakın bir şeyi tanımlayan bir ayetle üstü
-kapatılarak değil, doğrudan ifade edilmelidir.
+**İki tanık hakkında bunu nasıl söylemeli.** İki tanık kendilerine ait bir silah taşımaz: dünyevi
+yöneticilerin sahip olduğu türden siyasi veya askeri güç kullanmazlar. Bunu böyle ifade edin,
+çünkü en yakındaki ayet iki yöne de keser —
+{{% bible val="Vahiy 11:5" link="rev:11,5" lang="tr" %}}'te ağızlarından ateş çıkıp
+saldırganlarını yok eder. O ateş, tanıklarını koruyan Tanrı'nın yargısıdır, kendilerinin kurduğu
+bir birlik değil; grupta biri 11:5'i tanıkların intikam alması olarak okursa, bu, imgenin makul
+bir okumasıdır ve savuşturmak yerine konuşmaya değer.
 
 **Kiliseye bıraktığı miras.** Daniel 2'de krallıkları yok eden taş, yeryüzünün tamamını
 doldurana kadar büyür — kilise dahil, Yeni İsrail'in tüm dünyaya ulaşmasının bir resmi. Aynı

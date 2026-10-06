@@ -21,7 +21,7 @@ Bildsprache dieser Geschichte aufgreift.
 
 ## Die zentrale Lehre
 
-Diese Einheit greift auf vier Ausgangsartikel zurück:
+Diese Einheit greift auf vier Artikel zurück:
 [Der Auszug aus Ägypten: Die Vorgeschichte]({{< relref "expl/bible/exodus/the-story-before-the-exodus" >}}),
 [Die Geschichte von Moses]({{< relref "expl/bible/exodus/the-birth-of-moses" >}}),
 [Die Verhärtung des Herzens]({{< relref "expl/bible/exodus/the-hardening-of-pharaohs-heart" >}}) und
@@ -29,12 +29,11 @@ Diese Einheit greift auf vier Ausgangsartikel zurück:
 
 **Der geschichtliche Hintergrund, kurz gefasst.** Israels Geschichte berührt sich vermutlich mit der
 Hyksos-Zeit — semitische Völker aus Kanaan, die um 1720 v. Chr. die Kontrolle über das östliche
-Nildelta gewannen, bevor sie um 1550 v. Chr. vertrieben wurden. Eine kleine Korrektur am
-Ausgangsmaterial: Goschen, wo sich Josefs Familie niederließ, liegt richtigerweise im *Nordosten*
-Ägyptens (im östlichen Delta, nahe der Grenze zum Sinai), nicht im Nordwesten, wie ursprünglich
-angegeben — eine Korrektur, die den eigenen späteren Punkt des Artikels sogar stärkt, da sie Goschen
-konsistent mit der nordöstlichen Region hält, in der auch Pitom, Ramses und die spätere Fluchtroute
-der Israeliten liegen. Nach der Vertreibung der Hyksos treibt Ägyptens Entschlossenheit, eine zweite
+Nildelta gewannen, bevor sie um 1550 v. Chr. vertrieben wurden. Goschen, wo sich Josefs Familie
+niederließ, liegt im *Nordosten* Ägyptens — im östlichen Delta, nahe der Grenze zum Sinai, in
+derselben Region wie Pitom, Ramses und die Route, auf der Israel später auszog. Es lohnt sich, das
+der Gruppe auf einer Karte zu zeigen; die Geografie ist die halbe Argumentation.
+Nach der Vertreibung der Hyksos treibt Ägyptens Entschlossenheit, eine zweite
 fremde Machtübernahme zu verhindern, die eskalierende Grausamkeit des Pharaos gegenüber den
 verbliebenen Israeliten an.
 
@@ -93,27 +92,21 @@ gewöhnliche Ägypter persönlich, die wiederholt im Voraus gewarnt werden. Eini
 Warnung ernst und brachten ihre Leute in Sicherheit (9,20), und als Israel auszog, zog viel
 fremdes Volk mit (12,38).
 
-**Eine Warnung zu bestimmten Behauptungen in diesem Artikel.** Die Faktenprüfung markierte mehrere
-konkrete Aussagen zur ägyptischen Mythologie im Ausgangsmaterial als nicht verifizierbar oder
-vermutlich falsch — darunter einen erfunden wirkenden Mythos hinter der Formulierung „Finger
-Gottes" sowie eine angebliche, speziell für Heuschrecken zuständige Gottheit ohne Grundlage in der
-gängigen Ägyptologie. Ebenfalls markiert wurde ein Fehler darüber, welche Gottheit „Vater der
-Götter" ist (dieser Titel gehört Schöpferfiguren wie Atum, Ra oder Nun, nicht einfach „dem
-Nilgott", gemeinhin als Hapi personifiziert), sowie eine Fehlzuordnung, die die Froschgöttin Heket
-mit „dem Nilgott" paart, während sie eigentlich Chnum zugeordnet ist. Statt diese spezifischen
-mythologischen Behauptungen zu wiederholen, ist die sicherere und dennoch weiterhin überzeugende
-Fassung dieses Lehrpunkts die tragfähigere: Die Plagen untergruben systematisch Ägyptens Vertrauen
+**Wie stark man sich auf ägyptische Mythologie stützen sollte.** Manches ist festes Terrain: Die
+Froschgöttin Heket, Gefährtin des Töpfergottes Chnum, war mit Geburt und neuem Leben verbunden,
+und der Nil selbst wurde verehrt. Andere Einzelheiten — der Mythos hinter der Formulierung „Finger
+Gottes", eine Gottheit, deren einzige Aufgabe der Schutz vor Heuschrecken war — sind aus der
+gängigen Ägyptologie schwer zu belegen; haltet sie in der Gruppe locker und lasst die Argumentation
+nicht darauf ruhen. Das ist auch nicht nötig. Die tragfähigere Fassung trägt das ganze Gewicht:
+Die Plagen untergruben systematisch Ägyptens Vertrauen
 in seine eigenen Landesgötter und die angebliche göttliche Autorität seines Pharaos, was im Tod der
 Erstgeborenen gipfelte — ein direkter Schlag gegen die eigene Thronfolge des Pharaos und gegen
-tierassoziierte Gottheiten, deren Zukunft (repräsentiert durch ihre eigenen „Erstgeborenen") sich
-nun als gar keine Zukunft erwies. Man braucht kein konkretes, zweifelhaftes mythologisches Zitat,
-um dieses Argument zu untermauern; der Text selbst trägt es.
+tierassoziierte Gottheiten, deren Zukunft, repräsentiert durch ihre eigenen Erstgeborenen, sich
+nun als gar keine Zukunft erwies.
 
-**Eine Zitatkorrektur, die anzumerken ist:** Die Behauptung, 2. Mose 12,12 stütze „es gibt keine
-Zeit zu warten, nur zu eilen", gehört eigentlich zu
-{{% bible val="2. Mose 12,11" link="exo:12,11" lang="de" %}} („esst es in Eile, mit gegürteten
-Hüften") — 12,12 handelt vom Gericht über Ägyptens Götter, ein Thema, das an anderer Stelle derselben
-Erörterung korrekt zitiert wird.
+**Zwei Verse, zwei Punkte, leicht zu verwechseln:**
+{{% bible val="2. Mose 12,11" link="exo:12,11" lang="de" %}} ist der Vers über die Eile („esst es
+in Eile, mit gegürteten Hüften"); 12,12 handelt vom Gericht über Ägyptens Götter.
 
 **Das Passah selbst.** Vor der zehnten Plage führt Gott das Passah ein — Schutz vor dem Gericht,
 der Ursprung des Abendmahls und, bemerkenswerterweise, offen für jeden, der sich Israel anschließen

@@ -70,15 +70,14 @@ canavar, ağızdan çıkan bir kılıç. Grubunuzda hiç kimse İsa'nın yüzün
 zamanımızda tanıdığımız bir şeyle eşleştiği her seferinde gerçek bir okumaya geçmek yerine, bu aynı
 içgüdüyü kitap boyunca tutarlı bir şekilde genişletmektir.
 
-**Altta yatan kaynağın küçük bir düzeltmeye ihtiyaç duyduğu bir yer.** Orijinal makaledeki
-5.000 kişinin doyurulmasını "ruhsal ekmek" ile bağlayan bir örnek,
-{{% bible val="Matta 16:5-12" link="mat:16,5-12" lang="tr" %}}'yi kaynak gösteriyordu — ama bu
-pasaj aslında İsa'nın daha sonraki "Ferisilerin mayası" uyarısıdır, doyurma mucizelerine sadece
-geçerken değiniyor. Doyurma anlatısının kendisi ve geliştirdiği "hayat ekmeği" teması, daha çok
+**5.000 kişinin doyurulması için doğru metni açın.** Doyurma anlatısının kendisi ve geliştirdiği
+"hayat ekmeği" teması
 {{% bible val="Matta 14:13-21" link="mat:14,13-21" lang="tr" %}}'de veya daha kapsamlı olarak
-{{% bible val="Yuhanna 6" link="jhn:6,1-14" lang="tr" %}}'da bulunur. Küçük bir düzeltme, ama
-grubunuz için modellemeye değer: dikkatli, iyi kaynaklandırılmış malzeme bile alıntıları metnin
-kendisiyle çift kontrol etmekten fayda görür — bu alışkanlık, bu derinlemesine inceleme formatının
+{{% bible val="Yuhanna 6" link="jhn:6,1-14" lang="tr" %}}'da bulunur.
+{{% bible val="Matta 16:5-12" link="mat:16,5-12" lang="tr" %}} ise İsa'nın daha sonraki
+"Ferisilerin mayası" uyarısıdır ve doyurma mucizelerine sadece geçerken değinir — yanlışlıkla
+uzanılması kolay bir pasaj. Grubunuz için modellemeye değer: bir alıntıyı metnin kendisiyle
+denetlemek, bu derinlemesine inceleme formatının
 amacının bir parçasıdır.
 
 **Bunun pratikte neden önemli olduğu.** Eğer Vahiy kendi birinci yüzyıl dünyasına (Roma,
