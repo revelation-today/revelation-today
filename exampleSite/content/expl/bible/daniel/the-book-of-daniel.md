@@ -7,6 +7,8 @@ next: /expl/bible/daniel/the-four-kingdoms-in-daniel
 docType: expl
 sources:
     - ref: daniel
+    - pages: 575
+      ref: goldingay_dan
     - pages: 566
       ref: beale_rev
     - pages: 21
@@ -39,7 +41,7 @@ Let's walk through it chapter by chapter.
 ## The chiasm
 
 <a name="3d8a"></a>
-You may have noticed a chiasm here, linking chapters 2 and 7, 3 and 6, and 4 and 5 — each pair sharing a theme but with a deliberate twist.
+You may have noticed a chiasm here, linking chapters 2 and 7, 3 and 6, and 4 and 5 — each pair sharing a theme but with a deliberate twist. It is not only a matter of themes: chapters 2–7 are also exactly the Aramaic part of the book, which is written in Hebrew before and after.[^chiasm]
 
 Chapters 2 and 7 both describe four kingdoms, but chapter 2 presents them in decreasing value, following one another until a mysterious stone destroys them all, while chapter 7 shows them as beasts that destroy each other, get subdued by the God of heaven, and are defined by their hostility toward God's people.
 
@@ -70,3 +72,5 @@ The pattern suggests these six chapters form the center of the book, with chapte
 Several dimensions of the story overlap here. There's the story of Daniel and his friends' faith and deliverance, which mirrors the larger story of Israel and the deliverance of their heirs. There's the story of secular powers and their downfall — whether that's the overthrow of the Babylonian king and his empire ({{% bible val="the head of gold" link="dan:2,38" lang="en" %}}), the fall of all earthly kingdoms under God (chapters {{% bible val="2" link="dan:2,45" lang="en" %}} and {{% bible val="7" link="dan:7" lang="en" %}}), or the more specific deliverance from the Antichrist figure Antiochus IV Epiphanes through the Maccabean War, which nonetheless leads to later subjugation under Rome. And beneath all of that runs the divine deliverance {{% bible val="of the whole world and its empires" link="dan:2,45" lang="en" %}}, accomplished in {{% bible val="God's mysterious way" link="dan:9,24-27" lang="en" %}} and lasting forever.
 
 Together, these threads show how much weight rests on each person's faith within the eternal destiny of the world. God works through the small, often hidden acts of individuals and, through them, brings forth a kingdom that cannot be beaten.
+
+[^chiasm]: The chiasm of chapters 2–7 is A. Lenglet, "La structure littéraire de Daniel 2–7", *Biblica* 53 (1972), 169–190; Goldingay, *Daniel* (WBC 30 rev.), p. 575, follows it and sets it beside the language boundary: Hebrew in 1–2:4a, Aramaic in 2:4b–7:28, Hebrew again in 8–12. The two divisions deliberately do not coincide, which is what puts chapter 7 at the centre of the book — it belongs to the first half by language and to the second by form.

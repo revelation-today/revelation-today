@@ -7,6 +7,8 @@ next: /expl/bible/daniel/the-four-kingdoms-in-daniel
 docType: expl
 sources:
     - ref: daniel
+    - pages: 575
+      ref: goldingay_dan
     - pages: 566
       ref: beale_rev
     - pages: 21
@@ -39,7 +41,7 @@ Mari kita telusuri kitab ini pasal demi pasal.
 ## Kiasmenya
 
 <a name="ef82"></a>
-Anda mungkin sudah menyadari adanya sebuah kiasme di sini, yang menghubungkan pasal 2 dan 7, pasal 3 dan 6, serta pasal 4 dan 5 — setiap pasangan berbagi tema yang sama, tetapi dengan sebuah perbedaan yang disengaja.
+Anda mungkin sudah menyadari adanya sebuah kiasme di sini, yang menghubungkan pasal 2 dan 7, pasal 3 dan 6, serta pasal 4 dan 5 — setiap pasangan berbagi tema yang sama, tetapi dengan sebuah perbedaan yang disengaja. Ini bukan soal tema saja: pasal 2–7 juga persis bagian berbahasa Aram dalam kitab ini, sedangkan sebelum dan sesudahnya berbahasa Ibrani.[^chiasm]
 
 Pasal 2 dan 7 sama-sama menggambarkan empat kerajaan, tetapi pasal 2 menampilkannya dalam nilai yang menurun, saling menggantikan satu sama lain hingga sebuah batu misterius menghancurkan semuanya, sementara pasal 7 menggambarkannya sebagai binatang-binatang yang saling menghancurkan, ditaklukkan oleh Allah di surga, dan dicirikan oleh permusuhan mereka terhadap umat Allah.
 
@@ -70,3 +72,5 @@ Pola ini menunjukkan bahwa keenam pasal ini membentuk pusat kitab ini, dengan pa
 Beberapa dimensi kisah ini saling bertumpang tindih di sini. Ada kisah tentang iman dan pembebasan Daniel serta sahabat-sahabatnya, yang mencerminkan kisah yang lebih besar tentang Israel dan pembebasan ahli waris mereka. Ada kisah tentang kuasa-kuasa duniawi dan keruntuhannya — entah itu penggulingan raja Babel dan kerajaannya ({{% bible val="kepala emas itu" link="dan:2,38" lang="ind" %}}), keruntuhan semua kerajaan duniawi di bawah Allah (pasal {{% bible val="2" link="dan:2,45" lang="ind" %}} dan {{% bible val="7" link="dan:7" lang="ind" %}}), atau pembebasan yang lebih khusus dari sosok antikristus Antiokhus Epifanes IV melalui Perang Makabe, yang kendati demikian membawa kepada penaklukan berikutnya di bawah Roma. Dan di balik semuanya itu mengalir pembebasan ilahi {{% bible val="atas seluruh dunia dan kerajaan-kerajaannya" link="dan:2,45" lang="ind" %}}, yang digenapi melalui {{% bible val="cara Allah yang misterius" link="dan:9,24-27" lang="ind" %}} dan berlangsung untuk selama-lamanya.
 
 Bersama-sama, benang-benang kisah ini menunjukkan betapa besar bobot yang ditanggung oleh iman setiap orang dalam nasib kekal dunia ini. Allah bekerja melalui tindakan-tindakan kecil, yang sering kali tersembunyi, dari orang-perorangan, dan melaluinya, Ia mewujudkan sebuah kerajaan yang tidak dapat dikalahkan.
+
+[^chiasm]: Kiasme pasal 2–7 berasal dari A. Lenglet, "La structure littéraire de Daniel 2–7", *Biblica* 53 (1972), 169–190; Goldingay, *Daniel* (WBC 30 rev.), hlm. 575, mengikutinya dan menempatkannya berdampingan dengan batas bahasa: Ibrani dalam 1–2:4a, Aram dalam 2:4b–7:28, Ibrani lagi dalam 8–12. Kedua pembagian itu sengaja tidak berimpit, dan justru itulah yang menempatkan pasal 7 di pusat kitab ini — menurut bahasanya ia masuk paruh pertama, menurut bentuknya paruh kedua.

@@ -6,6 +6,8 @@ prev: /expl/bible/daniel/the-book-of-daniel
 next: /expl/bible/daniel/the-son-of-man-and-the-remnant
 docType: expl
 sources:
+    - pages: 204–205, 372–374
+      ref: goldingay_dan
     - pages: 38–46
       ref: dabar_daniel
     - pages: 221, 259, 633, 683–686, 687, 708
@@ -77,7 +79,7 @@ Roma adalah yang terakhir dari keempat kerajaan itu yang memerintah atas seluruh
 
 Masih ada banyak perdebatan seputar kesepuluh raja dan ketiga tanduk itu — sebuah persoalan yang bahkan ditanyakan lebih lanjut oleh Daniel sendiri dalam pasal 7 — tetapi pembahasan itu lebih tepat dilakukan dalam konteks Kitab Wahyu, tempat kita bertemu kembali dengan {{% int_link val="tritunggal jahat" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} dan kesepuluh raja itu.
 
-[^four]: Inilah pandangan mayoritas dalam penelitian kritis (misalnya John J. Collins). Butir-butir terkuatnya: Daniel menyebut "Darius, orang Media" sebagai penguasa tersendiri (6:1; 9:1), dan tanduk kecil di pasal 7 mirip dengan tanduk di pasal 8, yaitu Antiokhus. Untuk Roma: Beale, hlm. 633, 683, 687, 708; Yosefus, *Antiquitates* 10.276. 4 Ezra 12:10–13 juga menyebut Roma, meskipun dengan menafsirkan ulang pembacaan yang lebih tua (Beale, hlm. 687).
+[^four]: Inilah pandangan mayoritas dalam penelitian kritis, dan pandangan itu diargumentasikan, bukan diandaikan. Goldingay (*Daniel*, WBC 30 rev., hlm. 372–374) mengakui bahwa pasal 7 sendiri "memungkinkan kerajaan keempat itu Roma, sebagaimana dipegang tafsir Yahudi dan Kristen tradisional", tetapi membacanya bersama apa yang menyusul: tanduk kecil pasal 7 cocok dengan tanduk kecil pasal 8 butir demi butir — perang melawan orang-orang kudus, ucapan melawan Allah, mengubah waktu yang ditetapkan, jangka waktu yang terbatas — dan tanduk pasal 8 jelas-jelas Antiokhus; lalu 8:17 menyebut penglihatan itu "akhir zaman", yang akan aneh jika Daniel sudah diperlihatkan sebuah kerajaan yang lebih kemudian. Rujukan tertua yang masih ada kepada Daniel 7, *Sibylline Oracles* 3.388–400 dari abad kedua SM, sudah membacanya tentang Antiokhus. Daniel juga menyebut "Darius, orang Media" sebagai penguasa tersendiri (6:1; 9:1) — Goldingay sendiri memahami keempat kerajaan pasal 2 sebagai keempat raja dalam pasal 1–6: Nebukadnezar, Belsyazar, Darius, dan Koresh (hlm. 204–205). Untuk Roma: Beale, hlm. 633, 683, 687, 708; Yosefus, *Antiquitates* 10.276; 4 Ezra 12:10–13 juga menyebut Roma, meskipun dengan menafsirkan ulang pembacaan yang lebih tua (Beale, hlm. 687).
 
 [^corporate]: Beale, hlm. 221.
 

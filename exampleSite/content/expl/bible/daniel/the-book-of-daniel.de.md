@@ -7,6 +7,8 @@ next: /expl/bible/daniel/the-four-kingdoms-in-daniel
 docType: expl
 sources:
     - ref: daniel
+    - pages: 575
+      ref: goldingay_dan
     - pages: 566
       ref: beale_rev
     - pages: 21
@@ -39,7 +41,7 @@ Gehen wir es Kapitel für Kapitel durch.
 ## Der Chiasmus
 
 <a name="ef82"></a>
-Vielleicht ist dir hier ein Chiasmus aufgefallen, der die Kapitel 2 und 7, 3 und 6 sowie 4 und 5 verbindet — jedes Paar teilt ein Thema, aber mit einer bewussten Wendung.
+Vielleicht ist dir hier ein Chiasmus aufgefallen, der die Kapitel 2 und 7, 3 und 6 sowie 4 und 5 verbindet — jedes Paar teilt ein Thema, aber mit einer bewussten Wendung. Es geht dabei nicht nur um Themen: Die Kapitel 2–7 sind zugleich genau der aramäische Teil des Buches, davor und danach steht Hebräisch.[^chiasm]
 
 Die Kapitel 2 und 7 beschreiben beide vier Königreiche, aber Kapitel 2 stellt sie in abnehmendem Wert dar, wie sie aufeinanderfolgen, bis ein geheimnisvoller Stein sie alle zerstört, während Kapitel 7 sie als Tiere zeigt, die sich gegenseitig zerstören, vom Gott des Himmels unterworfen werden und durch ihre Feindschaft gegenüber Gottes Volk gekennzeichnet sind.
 
@@ -70,3 +72,5 @@ Dieses Muster legt nahe, dass diese sechs Kapitel das Zentrum des Buches bilden,
 Hier überschneiden sich mehrere Dimensionen der Geschichte. Da ist die Geschichte von Daniel und dem Glauben und der Errettung seiner Freunde, die die größere Geschichte Israels und der Errettung seiner Erben widerspiegelt. Da ist die Geschichte der weltlichen Mächte und ihres Untergangs — sei es der Sturz des babylonischen Königs und seines Reiches ({{% bible val="das goldene Haupt" link="dan:2,38" lang="de" %}}), der Fall aller irdischen Königreiche unter Gott (Kapitel {{% bible val="2" link="dan:2,45" lang="de" %}} und {{% bible val="7" link="dan:7" lang="de" %}}) oder die konkretere Befreiung von der Antichrist-Gestalt Antiochus IV. Epiphanes durch den Makkabäeraufstand, der dennoch zur späteren Unterwerfung unter Rom führt. Und darunter verläuft die göttliche Befreiung {{% bible val="der ganzen Welt und ihrer Reiche" link="dan:2,45" lang="de" %}}, vollbracht auf {{% bible val="Gottes geheimnisvolle Weise" link="dan:9,24-27" lang="de" %}} und für immer bestehend.
 
 Zusammengenommen zeigen diese Fäden, wie viel Gewicht auf dem Glauben jedes Einzelnen innerhalb des ewigen Schicksals der Welt ruht. Gott wirkt durch die kleinen, oft verborgenen Taten Einzelner und bringt durch sie ein Reich hervor, das nicht besiegt werden kann.
+
+[^chiasm]: Der Chiasmus der Kapitel 2–7 stammt von A. Lenglet, „La structure littéraire de Daniel 2–7", *Biblica* 53 (1972), 169–190; Goldingay, *Daniel* (WBC 30, überarb.), S. 575, folgt ihm und stellt ihn neben die Sprachgrenze: Hebräisch in 1–2,4a, Aramäisch in 2,4b–7,28, wieder Hebräisch in 8–12. Die beiden Einteilungen fallen bewusst nicht zusammen, und gerade das rückt Kapitel 7 in die Mitte des Buches — der Sprache nach gehört es zur ersten Hälfte, der Form nach zur zweiten.

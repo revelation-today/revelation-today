@@ -6,6 +6,8 @@ prev: /expl/bible/daniel/the-book-of-daniel
 next: /expl/bible/daniel/the-son-of-man-and-the-remnant
 docType: expl
 sources:
+    - pages: 204–205, 372–374
+      ref: goldingay_dan
     - pages: 38–46
       ref: dabar_daniel
     - pages: 221, 259, 633, 683–686, 687, 708
@@ -77,7 +79,7 @@ Rom war das letzte der vier Reiche, das über das ganze Volk Gottes herrschte. S
 
 Es gibt noch viel mehr Kontroversen rund um die zehn Könige und die drei Hörner — ein Thema, nach dem Daniel selbst in Kapitel 7 weiter nachfragt —, aber diese Diskussion gehört in den Zusammenhang des Buches der Offenbarung, wo wir der {{% int_link val="bösen Dreieinigkeit" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} und den zehn Königen wieder begegnen.
 
-[^four]: Das ist die Mehrheitsmeinung der historisch-kritischen Forschung (zum Beispiel John J. Collins). Ihre stärksten Punkte: Daniel nennt „Darius, den Meder“ als eigenen Herrscher (6,1; 9,1), und das kleine Horn von Kapitel 7 ähnelt dem Horn von Kapitel 8, das Antiochus ist. Für Rom: Beale, S. 633, 683, 687, 708; Josephus, *Antiquitates* 10,276. Auch 4 Esra 12,10–13 nennt Rom, allerdings indem es eine ältere Deutung umdeutet (Beale, S. 687).
+[^four]: Das ist die Mehrheitsmeinung der historisch-kritischen Forschung, und sie wird begründet, nicht vorausgesetzt. Goldingay (*Daniel*, WBC 30, überarb., S. 372–374) räumt ein, Kapitel 7 für sich genommen „würde erlauben, dass das vierte Reich Rom ist, wie die traditionelle jüdische und christliche Auslegung es gehalten hat", liest es aber zusammen mit dem Folgenden: Das kleine Horn aus Kapitel 7 entspricht dem kleinen Horn aus Kapitel 8 Zug um Zug — Krieg gegen die Heiligen, Reden gegen Gott, das Ändern der festgesetzten Zeiten, eine begrenzte Frist —, und das Horn aus Kapitel 8 ist unverkennbar Antiochus; und 8,17 nennt dieses Gesicht „die Zeit des Endes", was seltsam wäre, wenn Daniel schon ein späteres Reich gezeigt worden wäre. Die älteste erhaltene Anspielung auf Daniel 7, *Sibyllinische Orakel* 3,388–400 aus dem zweiten Jahrhundert v. Chr., liest es bereits von Antiochus. Daniel nennt außerdem „Darius, den Meder" als eigenen Herrscher (6,1; 9,1) — Goldingay selbst versteht die vier aus Kapitel 2 als die vier Könige der Kapitel 1–6: Nebukadnezar, Belsazar, Darius und Kyrus (S. 204–205). Für Rom: Beale, S. 633, 683, 687, 708; Josephus, *Antiquitates* 10,276; auch 4 Esra 12,10–13 nennt Rom, allerdings indem es eine ältere Deutung umdeutet (Beale, S. 687).
 
 [^corporate]: Beale, S. 221.
 

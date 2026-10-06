@@ -6,6 +6,8 @@ prev: /expl/bible/daniel/the-book-of-daniel
 next: /expl/bible/daniel/the-son-of-man-and-the-remnant
 docType: expl
 sources:
+    - pages: 204–205, 372–374
+      ref: goldingay_dan
     - pages: 38–46
       ref: dabar_daniel
     - pages: 221, 259, 633, 683–686, 687, 708
@@ -77,7 +79,7 @@ Roma, Tanrı'nın bütün halkı üzerinde egemenlik süren dört krallığın s
 
 On kral ve üç boynuz etrafında — ki Daniel'in kendisi 7. bölümde bunlar hakkında daha fazla bilgi ister — çok daha fazla tartışma vardır, ama bu tartışma, {{% int_link val="şeytani üçlüyle" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} ve on krallarla yeniden karşılaştığımız Vahiy kitabının bağlamına aittir.
 
-[^four]: Eleştirel araştırmada çoğunluk görüşü budur (örneğin John J. Collins). En güçlü noktaları: Daniel "Med Darius"u ayrı bir hükümdar olarak anar (5:31; 9:1) ve 7. bölümdeki küçük boynuz, Antiohos olan 8. bölümdeki boynuza benzer. Roma için: Beale, s. 633, 683, 687, 708; Josephus, *Antiquitates* 10.276. 4. Ezra 12:10–13 de Roma'yı anar, ancak daha eski bir okumayı yeniden yorumlayarak (Beale, s. 687).
+[^four]: Eleştirel araştırmada çoğunluk görüşü budur ve bu görüş varsayılmaz, savunulur. Goldingay (*Daniel*, WBC 30 gözden geçirilmiş, s. 372–374), 7. bölümün tek başına "dördüncü imparatorluğun Roma olmasına izin vereceğini, geleneksel Yahudi ve Hristiyan yorumunun da bunu savunduğunu" kabul eder, ama onu ardından geleniyle birlikte okur: 7. bölümdeki küçük boynuz, 8. bölümdeki küçük boynuzla madde madde örtüşür — kutsallara karşı savaş, Tanrı’ya karşı sözler, belirlenmiş zamanları değiştirme, sınırlı bir süre — ve 8. bölümün boynuzu açıkça Antiohos’tur; ayrıca 8:17 o görümü "sonun zamanı" diye adlandırır, Daniel’e daha sonraki bir imparatorluk zaten gösterilmiş olsaydı bu tuhaf olurdu. Daniel 7’ye yapılan günümüze ulaşmış en eski gönderme, MÖ ikinci yüzyıldan *Sibylline Oracles* 3.388–400, onu çoktan Antiohos’a yorar. Daniel ayrıca "Med Darius"u ayrı bir hükümdar olarak anar (5:31; 9:1) — Goldingay’in kendisi 2. bölümdeki dördü, 1–6. bölümlerin dört kralı olarak anlar: Nebukadnessar, Belşassar, Darius ve Koreş (s. 204–205). Roma için: Beale, s. 633, 683, 687, 708; Josephus, *Antiquitates* 10.276; 4. Ezra 12:10–13 de Roma’yı anar, ancak daha eski bir okumayı yeniden yorumlayarak (Beale, s. 687).
 
 [^corporate]: Beale, s. 221.
 

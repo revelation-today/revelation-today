@@ -6,6 +6,8 @@ prev: /expl/bible/daniel/the-book-of-daniel
 next: /expl/bible/daniel/the-son-of-man-and-the-remnant
 docType: expl
 sources:
+    - pages: 204–205, 372–374
+      ref: goldingay_dan
     - pages: 38–46
       ref: dabar_daniel
     - pages: 221, 259, 633, 683–686, 687, 708
@@ -75,7 +77,7 @@ Rome was the last of the four kingdoms to rule over the whole people of God. Sin
 
 There's much more controversy surrounding the ten kings and the three horns — a subject Daniel himself inquires further about in chapter 7 — but that discussion belongs in the context of the book of Revelation, where we meet the {{% int_link val="evil trinity" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} and the ten kings again.
 
-[^four]: This is the majority view in critical scholarship (for example John J. Collins). Its strongest points: Daniel names "Darius the Mede" as a separate ruler (5:31; 9:1), and the little horn of chapter 7 resembles the horn of chapter 8, which is Antiochus. For Rome: Beale, pp. 633, 683, 687, 708; Josephus, *Antiquities* 10.276. 4 Ezra 12:10–13 also names Rome, though by reinterpreting an earlier reading (Beale, p. 687).
+[^four]: This is the majority view in critical scholarship, and it is argued, not assumed. Goldingay (*Daniel*, WBC 30 rev., pp. 372–374) grants that chapter 7 by itself "would permit the fourth empire to be Rome, as traditional Jewish and Christian interpretation has held", but reads it with what follows: the small horn of chapter 7 matches the small horn of chapter 8 point for point — war on the holy ones, speech against God, changing the appointed times, a limited span — and chapter 8’s horn is unmistakably Antiochus; then 8:17 calls that vision "the time of the end", which would be strange if Daniel had already been shown a later empire. The oldest surviving allusion to Daniel 7, *Sibylline Oracles* 3.388–400 from the second century BC, already reads it of Antiochus. Daniel also names "Darius the Mede" as a separate ruler (5:31; 9:1) — Goldingay himself takes the four of chapter 2 to be the four kings of chapters 1–6: Nebuchadnezzar, Belshazzar, Darius and Cyrus (pp. 204–205). For Rome: Beale, pp. 633, 683, 687, 708; Josephus, *Antiquities* 10.276; 4 Ezra 12:10–13 names Rome too, by reinterpreting an earlier reading (Beale, p. 687).
 
 [^corporate]: Beale, p. 221.
 

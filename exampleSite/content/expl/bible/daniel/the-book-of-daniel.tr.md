@@ -40,7 +40,7 @@ Kitabı bölüm bölüm inceleyelim.
 ## Kiazm
 
 <a name="be58"></a>
-Burada 2. ve 7., 3. ve 6., 4. ve 5. bölümleri birbirine bağlayan bir kiazm fark etmiş olabilirsiniz — her çift ortak bir tema paylaşır, ama kasıtlı bir farkla.
+Burada 2. ve 7., 3. ve 6., 4. ve 5. bölümleri birbirine bağlayan bir kiazm fark etmiş olabilirsiniz — her çift ortak bir tema paylaşır, ama kasıtlı bir farkla. Mesele yalnızca temalar değil: 2–7. bölümler aynı zamanda kitabın tam olarak Aramice bölümüdür; öncesi ve sonrası İbranicedir.[^chiasm]
 
 2. ve 7. bölümlerin ikisi de dört krallığı anlatır, ama 2. bölüm bunları azalan bir değerde, birbirini izleyen ve sonunda gizemli bir taş tarafından hepsi birden yok edilen krallıklar olarak sunarken, 7. bölüm onları birbirini yok eden, göklerin Tanrısı tarafından bastırılan ve Tanrı'nın halkına düşmanlıklarıyla tanımlanan canavarlar olarak gösterir.
 
@@ -71,3 +71,5 @@ Bu örüntü, kitabın merkezinin bu altı bölüm olduğunu, 1. bölümün giri
 Burada öykünün birkaç boyutu iç içe geçer. Daniel ve arkadaşlarının iman ve kurtuluş öyküsü vardır; bu, İsrail'in ve varislerinin kurtuluşunun daha büyük öyküsünü yansıtır. Seküler güçlerin ve onların çöküşünün öyküsü vardır — ister bu, Babil kralının ve imparatorluğunun ({{% bible val="altın baş" link="dan:2,38" lang="tr" %}}) devrilmesi olsun, ister Tanrı'nın altında tüm dünyevi krallıkların çöküşü olsun ({{% bible val="2" link="dan:2,45" lang="tr" %}} ve {{% bible val="7" link="dan:7" lang="tr" %}}. bölümler), isterse Deccal figürü Antiokhos Epifanes IV'ten Makabe Savaşı yoluyla gelen daha özel kurtuluş olsun — ki bu da sonunda Roma'ya boyun eğmeye yol açar. Ve tüm bunların altında, {{% bible val="Tanrı'nın gizemli yoluyla" link="dan:9,24-27" lang="tr" %}} gerçekleştirilen ve sonsuza dek süren, {{% bible val="tüm dünyanın ve onun imparatorluklarının" link="dan:2,45" lang="tr" %}} tanrısal kurtuluşu akar.
 
 Bir araya geldiğinde bu iplikler, dünyanın ebedi kaderi içinde her bir kişinin imanının ne kadar ağırlık taşıdığını gösterir. Tanrı, bireylerin küçük, çoğu zaman gizli kalan eylemleri aracılığıyla çalışır ve onlar sayesinde yenilmez bir krallık ortaya çıkarır.
+
+[^chiasm]: 2–7. bölümlerin kiazmı A. Lenglet’ye aittir: "La structure littéraire de Daniel 2–7", *Biblica* 53 (1972), 169–190; Goldingay, *Daniel* (WBC 30, gözden geçirilmiş), s. 575, bunu izler ve dil sınırının yanına koyar: 1–2:4a İbranice, 2:4b–7:28 Aramice, 8–12 yine İbranice. İki bölümleme bilerek üst üste düşmez ve kitabın merkezine 7. bölümü yerleştiren de budur — diline göre ilk yarıya, biçimine göre ikinci yarıya aittir.
