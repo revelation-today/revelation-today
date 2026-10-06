@@ -2,6 +2,8 @@
 title: "Vahiy Kitabı’nda sayıların kullanımı"
 weight: 40
 sources:
+    - pages: 61–62
+      ref: beale_rev
     - pages: 58–64
       ref: beale_rev
     - pages: 384–407
@@ -65,15 +67,14 @@ Eğer {{% bible val="yedi gök gürlemesi" link="rev:10,2-7" lang="tr" %}} başk
 
 {{% bible val="Babil'deki tüccarların mal listesi" link="rev:18,11-13" lang="tr" %}}, toplamda 4 çarpı 7, yani 28 mal içerir — bu da dünya ticaretinin tamamını temsil eder. Tanrı ve Mesih için kullanılan bazı isimler bile bu dört ya da yedi örüntüsünü izler:
 
-- Yaşayan Olan, tüm yaratılışı yöneten ebedi Yaratıcı olduğunu belirtmek için 4 kez.
-- Her Şeye Gücü Yeten Tanrı, yalın halde 7 kez.
-- Tahtta Oturan, 7 kez.
-- Mesih 7 kez ve İsa 14 kez.
-- İsa'yı ifade eden Kuzu, 28 kez (4 × 7).
-- Kuzu ve Tanrı birlikte 7 kez anılır.
-- Yedi ruh, muhtemelen kilisenin tanıklığı aracılığıyla/ile tüm dünyaya gönderilen ilahi egemenliğin doluluğunu göstermek için 4 kez anılır (5/6).
+- "Sonsuzluklar boyunca yaşayan" ifadesi Tanrı için 4 kez kullanılır ({{% bible val="4:9" link="rev:4,9" lang="tr" %}}; {{% bible val="4:10" link="rev:4,10" lang="tr" %}}; {{% bible val="10:6" link="rev:10,6" lang="tr" %}}; {{% bible val="15:7" link="rev:15,7" lang="tr" %}}): bütün yaratılışa egemen olan sonsuz Yaratıcı.
+- "Her Şeye Gücü Yeten Rab Tanrı" 7 kez geçer; "tahtta oturan" da öyle.
+- "Mesih" 7 kez, "İsa" 14 kez geçer.
+- "Kuzu" Mesih için 28 kez (4 × 7) kullanılır; bunların 7'sinde Kuzu ile Tanrı birlikte anılır.
+- "Alfa ve Omega" ile eşdeğer ifadeler 7 kez görülür.
+- "Yedi ruh" 4 kez anılır ({{% bible val="1:4" link="rev:1,4" lang="tr" %}}; {{% bible val="3:1" link="rev:3,1" lang="tr" %}}; {{% bible val="4:5" link="rev:4,5" lang="tr" %}}; {{% bible val="5:6" link="rev:5,6" lang="tr" %}}): Tanrı'nın egemenliğinin doluluğu, "bütün dünyaya gönderilmiş", büyük olasılıkla kilisenin tanıklığı aracılığıyla.
 
-Şeytan'da, canavarda ya da sahte peygamberde böyle bir örüntü yoktur; yalnızca Mesih'in taklidinde vardır.
+Şeytan'ın, canavarın ya da sahte peygamberin adlarında böyle bir örüntü yoktur; yalnızca Tanrı'yı ya da Mesih'i taklit ettikleri yerde görülür.[^names]
 
 ## 12 sayısı
 
@@ -94,7 +95,7 @@ Kelime sıklıkları da kitap boyunca aynı örüntüleri pekiştirir:
 ## Diğer düşünceler
 
 <a name="975c"></a>
-Bazı kelimeler kitabın sonuna doğru daha sık tekrarlanır ve bu, temalarının yoğunlaştığını işaret eder — örneğin "on iki", Tanrı'nın kiliseyle olan birliğine işaret eder, ya da "Alfa ve Omega" ve eşdeğerleri, İsa'yı öykünün sonucu olarak işaretler.
+Bazı sözcükler kitabın sonuna doğru sıklaşır. "On iki", yeni Yeruşalim görümünde on iki kez geçer ({{% bible val="21:9" link="rev:21,9" lang="tr" %}}'dan itibaren) ve "Alfa ve Omega" eşdeğer ifadeleriyle birlikte bütün kitabı çerçeveler ({{% bible val="1:8" link="rev:1,8" lang="tr" %}}; {{% bible val="1:17" link="rev:1,17" lang="tr" %}}; {{% bible val="21:6" link="rev:21,6" lang="tr" %}}; {{% bible val="22:13" link="rev:22,13" lang="tr" %}}): tarihi başlatan, onu sona da erdirecektir.[^end]
 
 Bu sayılardan ya da isim sayımlarından bazılarının rastlantısal olabileceğini kabul etsek bile, genel sıklık örüntüsü, sayıların da bir ifade oluşturmanın bilinçli bir yolu olduğunu göstermektedir.
 
@@ -152,3 +153,6 @@ Her adım sayıyı kendisiyle çarptığı için uçurum aynı kalmaz, her adım
 **Bu nereye kadar geçerli.** Hesap kesindir. Bauckham'ın kısmı, Yuhanna'nın bunu kastettiğine dair bilimsel bir savdır ve ilk Hristiyanlar bu oyunu gerçekten oynamıştır: *İşaya'nın Göğe Yükselişi* Deccal'a 1332 gün, 666'ya bağlı dikdörtgeni verir (Bauckham, *Climax of Prophecy*, s. 403). İddia ve gerçek örüntüsü metnin kendisine dayanır — taçlar, boynuzlar, bir saat, ateş — ve Beale canavarın taçlarını Mesih'in krallığına dair sahte iddialar olarak okur. İki sayı ailesi Bauckham'a aittir; canavarın son adımını Tanrı'nın ailesi için de atmak ve bundan doğan büyüyen uçurum bu sitenin canlandırmasıdır — gizli bir şifre olarak değil, Vahiy'in sözlerle söylediğinin bir resmi olarak sunulur: Şeytan, Tanrı'dan biraz büyük görünmeye çalışır ve çok daha küçük olduğu gösterilir.
 
 [^collins]: Sayıları bir ağ olarak görme fikri A. Y. Collins'e aittir: "Numerical Symbolism in Jewish and Early Christian Apocalyptic Literature" (1984), Beale'in aktarımıyla, s. 59, 63. Collins yedinin eksiksizlik anlamına geldiğinden şüphe eder; Beale ona cevap verir (s. 63–64).
+
+[^names]: Beale, s. 61, Bauckham'ı izleyerek.
+[^end]: Beale, s. 61–62.

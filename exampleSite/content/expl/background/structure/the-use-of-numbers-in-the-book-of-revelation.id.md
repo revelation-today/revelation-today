@@ -2,6 +2,8 @@
 title: "Penggunaan Angka dalam Kitab Wahyu"
 weight: 40
 sources:
+    - pages: 61–62
+      ref: beale_rev
     - pages: 58–64
       ref: beale_rev
     - pages: 384–407
@@ -65,15 +67,14 @@ Jika {{% bible val="ketujuh guruh" link="rev:10,3-7" lang="ind" %}} dihitung seb
 
 {{% bible val="Daftar barang dagangan Babel" link="rev:18,11-13" lang="ind" %}} berjumlah 4 kali 7, atau 28, jenis barang — mewakili totalitas perdagangan dunia. Bahkan nama-nama tertentu bagi Allah dan Kristus mengikuti pola empat-atau-tujuh ini:
 
-- Dia yang hidup, 4 kali, untuk menandakan-Nya sebagai Pencipta yang kekal yang memerintah atas seluruh ciptaan.
-- Allah Yang Mahakuasa dalam bentuk nominatif, 7 kali.
-- Dia yang duduk di atas takhta, 7 kali.
-- Kristus 7 kali dan Yesus 14 kali.
-- Anak Domba, yaitu Yesus, 28 kali (4 × 7).
-- Anak Domba dan Allah bersama-sama disebutkan 7 kali.
-- Ketujuh Roh disebutkan 4 kali untuk menunjukkan kepenuhan kedaulatan ilahi yang diutus ke seluruh dunia (5/6), kemungkinan melalui/bersama kesaksian gereja.
+- "Dia yang hidup sampai selama-lamanya" dikatakan tentang Allah 4 kali ({{% bible val="4:9" link="rev:4,9" lang="ind" %}}; {{% bible val="4:10" link="rev:4,10" lang="ind" %}}; {{% bible val="10:6" link="rev:10,6" lang="ind" %}}; {{% bible val="15:7" link="rev:15,7" lang="ind" %}}): Pencipta yang kekal, yang memerintah atas seluruh ciptaan.
+- "Tuhan, Allah, Yang Mahakuasa" muncul 7 kali, demikian juga "Dia yang duduk di atas takhta".
+- "Kristus" muncul 7 kali dan "Yesus" 14 kali.
+- "Anak Domba" dipakai untuk Kristus 28 kali (4 × 7); 7 kali di antaranya menyebut Anak Domba dan Allah bersama-sama.
+- "Alfa dan Omega" beserta ungkapan yang sepadan muncul 7 kali.
+- "Ketujuh Roh" disebut 4 kali ({{% bible val="1:4" link="rev:1,4" lang="ind" %}}; {{% bible val="3:1" link="rev:3,1" lang="ind" %}}; {{% bible val="4:5" link="rev:4,5" lang="ind" %}}; {{% bible val="5:6" link="rev:5,6" lang="ind" %}}): kepenuhan pemerintahan Allah, "yang diutus ke seluruh bumi", mungkin melalui kesaksian gereja.
 
-Tidak ada pola semacam ini pada Iblis, binatang itu, atau nabi palsu — hanya ada pada peniruan mereka terhadap Kristus.
+Pola seperti ini tidak ditemukan pada nama-nama Iblis, binatang itu, atau nabi palsu, kecuali ketika mereka meniru Allah atau Kristus.[^names]
 
 ## Angka 12
 
@@ -94,7 +95,7 @@ Frekuensi kata-kata memperkuat pola-pola yang sama ini di sepanjang kitab:
 ## Renungan Lebih Lanjut
 
 <a name="5fd8"></a>
-Beberapa kata muncul lebih sering menjelang akhir kitab ini, menandai intensifikasi temanya — "dua belas," misalnya, menunjuk pada persekutuan Allah dengan gereja, atau "Alfa dan Omega" dan padanan-padanannya menandai Yesus sebagai kesimpulan kisah ini.
+Beberapa kata makin sering muncul menjelang akhir kitab. "Dua belas" muncul dua belas kali dalam penglihatan tentang Yerusalem baru (mulai {{% bible val="21:9" link="rev:21,9" lang="ind" %}}), dan "Alfa dan Omega" beserta ungkapan yang sepadan membingkai seluruh kitab ({{% bible val="1:8" link="rev:1,8" lang="ind" %}}; {{% bible val="1:17" link="rev:1,17" lang="ind" %}}; {{% bible val="21:6" link="rev:21,6" lang="ind" %}}; {{% bible val="22:13" link="rev:22,13" lang="ind" %}}): Dia yang memulai sejarah juga akan mengakhirinya.[^end]
 
 Meskipun kita mengakui bahwa sebagian dari angka-angka atau hitungan nama ini mungkin kebetulan, pola frekuensi secara keseluruhan menunjukkan bahwa angka-angka itu pun merupakan cara yang disengaja untuk menyampaikan sebuah pernyataan.
 
@@ -152,3 +153,6 @@ Karena setiap langkah mengalikan bilangan itu dengan dirinya sendiri, jurang itu
 **Sejauh mana ini berlaku.** Hitungannya tepat. Bagian Bauckham adalah argumen ilmiah bahwa Yohanes memaksudkannya, dan orang Kristen mula-mula memang memainkan permainan ini: *Kenaikan Yesaya* memberi Antikristus 1332 hari, persegi panjang yang terkait dengan 666 (Bauckham, *Climax of Prophecy*, hlm. 403). Pola klaim dan kenyataan bertumpu pada teks itu sendiri — mahkota, tanduk, satu jam, api — dan Beale membaca mahkota binatang itu sebagai klaim palsu atas kerajaan Kristus. Kedua keluarga bilangan itu berasal dari Bauckham; mengambil langkah terakhir binatang itu juga bagi keluarga Allah, dan jurang yang makin lebar sebagai hasilnya, adalah ilustrasi situs ini — tidak disajikan sebagai kode tersembunyi, melainkan sebagai gambaran dari apa yang dikatakan Kitab Wahyu dengan kata-kata: Iblis berusaha tampak sedikit lebih besar daripada Allah, dan diperlihatkan jauh lebih kecil.
 
 [^collins]: Gambaran angka sebagai jaring berasal dari A. Y. Collins, "Numerical Symbolism in Jewish and Early Christian Apocalyptic Literature" (1984), menurut Beale, hlm. 59, 63. Collins meragukan bahwa angka tujuh berarti kelengkapan; Beale menjawabnya (hlm. 63–64).
+
+[^names]: Beale, hlm. 61, mengikuti Bauckham.
+[^end]: Beale, hlm. 61–62.

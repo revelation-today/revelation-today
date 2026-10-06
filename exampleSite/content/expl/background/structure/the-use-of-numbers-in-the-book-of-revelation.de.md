@@ -2,6 +2,8 @@
 title: "Die Benutzung von Zahlen in der Offenbarung"
 weight: 40
 sources:
+    - pages: 61–62
+      ref: beale_rev
     - pages: 58–64
       ref: beale_rev
     - pages: 384–407
@@ -65,15 +67,14 @@ Die {{% bible val="siebenfache Erwähnung der Sichel" link="rev:14,14-19" lang="
 
 Die {{% bible val="Liste der Handelsgüter Babels" link="rev:18,11-13" lang="de" %}} kommt auf 4 mal 7, also 28 Güter — ein Ausdruck der Gesamtheit des Welthandels. Sogar bestimmte Namen für Gott und Christus folgen diesem Vier-oder-Sieben-Muster:
 
-- Der, der lebt, 4-mal, um ihn als den ewigen Schöpfer zu bezeichnen, der über die ganze Schöpfung herrscht.
-- Gott, der Allmächtige, im Nominativ 7-mal.
-- Der auf dem Thron sitzt, 7-mal.
-- Christus 7-mal und Jesus 14-mal.
-- Das Lamm als Bezeichnung für Jesus 28-mal (4 × 7).
-- Das Lamm und Gott zusammen werden 7-mal genannt.
-- Die sieben Geister werden 4-mal erwähnt, um die Fülle der göttlichen Souveränität zu zeigen, die in alle Welt gesandt ist (5/6) — vermutlich durch bzw. mit dem Zeugnis der Gemeinde.
+- „Der da lebt von Ewigkeit zu Ewigkeit“ wird 4-mal von Gott gesagt ({{% bible val="4,9" link="rev:4,9" lang="de" %}}; {{% bible val="4,10" link="rev:4,10" lang="de" %}}; {{% bible val="10,6" link="rev:10,6" lang="de" %}}; {{% bible val="15,7" link="rev:15,7" lang="de" %}}): der ewige Schöpfer, der über die ganze Schöpfung herrscht.
+- „Der Herr, Gott, der Allmächtige“ kommt 7-mal vor, ebenso „der auf dem Thron sitzt“.
+- „Christus“ kommt 7-mal vor und „Jesus“ 14-mal.
+- „Das Lamm“ wird 28-mal (4 × 7) für Christus gebraucht; 7-mal davon werden das Lamm und Gott zusammen genannt.
+- „Das Alpha und das Omega“ und die gleichbedeutenden Wendungen erscheinen 7-mal.
+- Die „sieben Geister“ werden 4-mal erwähnt ({{% bible val="1,4" link="rev:1,4" lang="de" %}}; {{% bible val="3,1" link="rev:3,1" lang="de" %}}; {{% bible val="4,5" link="rev:4,5" lang="de" %}}; {{% bible val="5,6" link="rev:5,6" lang="de" %}}): die Fülle von Gottes Herrschaft, „ausgesandt über die ganze Erde“, wahrscheinlich durch das Zeugnis der Gemeinde.
 
-Ein solches Muster gibt es bei Satan, dem Tier oder dem falschen Propheten nicht — nur in der Nachahmung Christi.
+Für die Namen Satans, des Tieres oder des falschen Propheten gibt es kein solches Muster, außer wo sie Gott oder Christus nachahmen.[^names]
 
 ## Die Zahl 12
 
@@ -94,7 +95,7 @@ Auch Worthäufigkeiten bestätigen diese Muster im ganzen Buch:
 ## Weitere Gedanken
 
 <a name="5fd8"></a>
-Manche Wörter häufen sich zum Ende des Buches hin und markieren so eine Zuspitzung ihres Themas — "zwölf" etwa, das auf die Gemeinschaft Gottes mit der Gemeinde verweist, oder "Alpha und Omega" und seine Entsprechungen, die Jesus als den Abschluss der Geschichte kennzeichnen.
+Manche Wörter häufen sich gegen Ende des Buches. „Zwölf“ kommt in der Vision des neuen Jerusalem zwölfmal vor (ab {{% bible val="21,9" link="rev:21,9" lang="de" %}}), und „das Alpha und das Omega“ rahmt mit den gleichbedeutenden Wendungen das ganze Buch ({{% bible val="1,8" link="rev:1,8" lang="de" %}}; {{% bible val="1,17" link="rev:1,17" lang="de" %}}; {{% bible val="21,6" link="rev:21,6" lang="de" %}}; {{% bible val="22,13" link="rev:22,13" lang="de" %}}): Der die Geschichte begonnen hat, wird sie auch vollenden.[^end]
 
 Selbst wenn man einräumt, dass manche dieser Zahlen- oder Namenshäufungen Zufall sein könnten, zeigt das Gesamtmuster ihrer Häufigkeit, dass auch Zahlen bewusst eingesetzt wurden, um eine Aussage zu machen.
 
@@ -152,3 +153,6 @@ Weil jeder Schritt die Zahl mit sich selbst malnimmt, bleibt die Kluft nicht gle
 **Wie weit das trägt.** Die Rechnung stimmt genau. Bauckhams Teil ist ein wissenschaftliches Argument dafür, dass Johannes es so gemeint hat, und frühe Christen haben dieses Spiel tatsächlich gespielt: Die *Himmelfahrt des Jesaja* gibt dem Antichristen 1332 Tage, das mit 666 verbundene Rechteck (Bauckham, *Climax of Prophecy*, S. 403). Das Muster von Anspruch und Wirklichkeit beruht auf dem Text selbst — die Kronen, die Hörner, die eine Stunde, das Feuer —, und Beale liest die Kronen des Tieres als falsche Ansprüche auf Christi Königtum. Die beiden Zahlenfamilien stammen von Bauckham; den letzten Schritt des Tieres auch für Gottes Familie zu gehen, und die wachsende Kluft, die daraus folgt, sind die Veranschaulichung dieser Seite — nicht als versteckter Code gemeint, sondern als Bild dessen, was die Offenbarung mit Worten sagt: Satan versucht, etwas größer als Gott zu wirken, und wird als deutlich kleiner gezeigt.
 
 [^collins]: Das Bild vom Netz stammt von A. Y. Collins, „Numerical Symbolism in Jewish and Early Christian Apocalyptic Literature“ (1984), nach Beale, S. 59, 63. Collins bezweifelt, dass die Sieben Vollständigkeit bedeutet; Beale antwortet ihr (S. 63–64).
+
+[^names]: Beale, S. 61, im Anschluss an Bauckham.
+[^end]: Beale, S. 61–62.

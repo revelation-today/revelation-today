@@ -2,6 +2,8 @@
 title: "The use of numbers in the Book of Revelation"
 weight: 40
 sources:
+    - pages: 61–62
+      ref: beale_rev
     - pages: 58–64
       ref: beale_rev
     - pages: 384–407
@@ -65,15 +67,14 @@ The {{% bible val="sevenfold mention of the sickle" link="rev:14,14-19" lang="en
 
 The {{% bible val="list of the merchants' goods at Babel" link="rev:18,11-13" lang="en" %}} totals 4 times 7, or 28, goods — representing the totality of the world's commerce. Even certain names for God and Christ follow this four-or-seven pattern:
 
-- The One who lives 4 times, to denote Him as the eternal Creator who rules over all creation.
-- God Almighty in the nominative 7 times
-- He who sits on the throne 7 times.
-- Christ 7 times and Jesus 14 times
-- The Lamb, meaning Jesus, 28 times (4 × 7).
-- The Lamb and God together are mentioned 7 times.
-- The seven spirits are mentioned 4 times to show the fullness of divine sovereignty sent into all the world (5/6), presumably through/with the witness of the church.
+- "The one who lives for ever and ever" is said of God 4 times ({{% bible val="4:9" link="rev:4,9" lang="en" %}}; {{% bible val="4:10" link="rev:4,10" lang="en" %}}; {{% bible val="10:6" link="rev:10,6" lang="en" %}}; {{% bible val="15:7" link="rev:15,7" lang="en" %}}): the eternal Creator who rules over all creation.
+- "The Lord God Almighty" occurs 7 times, and so does "the one who sits on the throne".
+- "Christ" occurs 7 times and "Jesus" 14 times.
+- "The Lamb" is used of Christ 28 times (4 × 7); 7 of these name the Lamb and God together.
+- "The Alpha and the Omega" and its equivalents appear 7 times.
+- The "seven spirits" are mentioned 4 times ({{% bible val="1:4" link="rev:1,4" lang="en" %}}; {{% bible val="3:1" link="rev:3,1" lang="en" %}}; {{% bible val="4:5" link="rev:4,5" lang="en" %}}; {{% bible val="5:6" link="rev:5,6" lang="en" %}}): the fullness of God's rule, "sent out into all the earth", probably through the witness of the church.
 
-There is no such pattern in Satan, the beast, or the false prophet, only in the imitation of Christ.
+No such pattern is found for the names of Satan, the beast or the false prophet, except where they imitate God or Christ.[^names]
 
 ## The number 12
 
@@ -94,7 +95,7 @@ Word frequencies reinforce these same patterns throughout the book:
 ## Further thoughts
 
 <a name="c5d5"></a>
-Some words recur more frequently toward the end of the book, marking an intensification of their theme — "twelve," for instance, pointing to the communion of God with the church, or "Alpha and Omega" and its equivalents marking Jesus as the story's conclusion.
+Some words gather toward the end of the book. "Twelve" occurs twelve times in the vision of the new Jerusalem (from {{% bible val="21:9" link="rev:21,9" lang="en" %}} on), and "the Alpha and the Omega" with its equivalents frames the whole book ({{% bible val="1:8" link="rev:1,8" lang="en" %}}; {{% bible val="1:17" link="rev:1,17" lang="en" %}}; {{% bible val="21:6" link="rev:21,6" lang="en" %}}; {{% bible val="22:13" link="rev:22,13" lang="en" %}}): the one who began history will also conclude it.[^end]
 
 Even granting that some of these numbers or name-counts may be coincidental, the overall frequency pattern shows that numbers, too, were a deliberate way of making a statement.
 
@@ -152,3 +153,6 @@ Because every step multiplies the number by itself, the gap does not stay the sa
 **How far this holds.** The arithmetic is exact. Bauckham's part is a scholarly argument that John meant it, and early Christians did play this game: the *Ascension of Isaiah* gives the Antichrist 1332 days, the rectangle tied to 666 (Bauckham, *Climax of Prophecy*, p. 403). The pattern of claim and truth rests on the text itself — the crowns, the horns, the one hour, the fire — and Beale reads the beast's crowns as false claims to Christ's kingship. The two number families are Bauckham's; taking the beast's last step for God's family too, and the growing gap that results, are this site's illustration — offered not as a hidden code but as a picture of what Revelation says in words: Satan tries to look slightly bigger than God, and is shown to be significantly smaller.
 
 [^collins]: The picture of the numbers as a net comes from A. Y. Collins, "Numerical Symbolism in Jewish and Early Christian Apocalyptic Literature" (1984), as reported by Beale, pp. 59, 63. Collins doubts that seven means completeness; Beale answers her (pp. 63–64).
+
+[^names]: Beale, p. 61, following Bauckham.
+[^end]: Beale, pp. 61–62.
