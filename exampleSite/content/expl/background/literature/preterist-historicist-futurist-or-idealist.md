@@ -24,7 +24,7 @@ A few questions are worth holding in mind as you weigh them:
 <a name="p1a1"></a>
 The events of Revelation — most of them, at least — were already fulfilled in the first century, chiefly in the Jewish War and the fall of Jerusalem in AD 70, or, on a Domitianic dating, in Rome's persecution of the churches of Asia Minor. The label comes from the Latin *praeter*, "past."
 
-This comes in two quite different strengths. *Partial* preterism holds that most of chapters 4–19 is behind us, while the final judgment, resurrection, and new creation of chapters 20–22 are still ahead — this is the mainstream, held by serious evangelical scholars. *Full* (or "hyper") preterism goes further and reads even Christ's second coming and the resurrection as already fulfilled, spiritually, in AD 70 — a move that collides with the church's historic confession of a future bodily return and resurrection, and that most Christians of every other camp, including this site, reject outright.
+This comes in two quite different strengths. *Partial* preterism holds that most of chapters 4–19 is behind us, while the final judgment, resurrection, and new creation of chapters 20–22 are still ahead — this is the form held by a number of evangelical scholars[^pret]. *Full* (or "hyper") preterism goes further and reads even Christ's second coming and the resurrection as already fulfilled, spiritually, in AD 70 — a move that collides with the church's historic confession of a future bodily return and resurrection, and that most Christians of every other camp, including this site, reject outright.
 
 **In favor:**
 
@@ -43,13 +43,13 @@ This comes in two quite different strengths. *Partial* preterism holds that most
 ## Historicist
 
 <a name="h2b3"></a>
-Revelation traces the whole span of church history, from John's own day to the second coming, symbol by symbol — the seals, trumpets, and bowls corresponding to a sequence of real historical events: barbarian invasions, the rise of Islam, the papacy, the Reformation, and so on. This was the dominant reading among the Reformers, many of whom identified the beast or the harlot with the papacy of their own day — one example among the {{% int_link val="long line of similar identifications traced elsewhere on this site" link="/expl/topics/others/dispensionalism-a-little-history" %}}, from Joachim of Fiore's twelfth-century scheme onward.
+Revelation traces the whole span of church history, from John's own day to the second coming, symbol by symbol — the seals, trumpets, and bowls corresponding to a sequence of real historical events: barbarian invasions, the rise of Islam, the papacy, the Reformation, and so on. This was a common reading among the Reformers, many of whom identified the beast or the harlot with the papacy of their own day — one example among the {{% int_link val="long line of similar identifications traced elsewhere on this site" link="/expl/topics/others/dispensionalism-a-little-history" %}}, from Joachim of Fiore's twelfth-century scheme onward.
 
 **In favor:**
 
 - It takes seriously that Revelation describes an *unfolding* history, not a single event — matching Daniel's own vision of {{% int_link val="a succession of kingdoms rising and falling across centuries" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}}, which Revelation deliberately echoes.
 - It gives real weight to the church's actual experience across two millennia of persecution, corruption, and reform, rather than treating that whole stretch as prophetically silent.
-- It was the majority Protestant reading for centuries, driven by a genuine, textually-motivated concern about corrupted power within the visible church, not only by anti-Catholic polemic.
+- It was widely held among Protestants for centuries, driven by a genuine, textually-motivated concern about corrupted power within the visible church, not only by anti-Catholic polemic.
 - It fits the letter-writer's evident concern for the church's long-term faithfulness, not just its first generation.
 
 **Against:**
@@ -68,7 +68,7 @@ Most of Revelation, from chapter 4 or 6 onward, describes events still ahead of 
 
 - It keeps the book's warnings about a coming, climactic crisis as a real, still-open threat rather than something already survived and safely behind us — which matches {{% bible val="Jesus's own warning" link="mat:24,21" lang="en" %}} about a tribulation "such as has not been from the beginning of the world."
 - {{% bible val="Philadelphia's promise to be kept from the hour of trial coming on the whole world" link="rev:3,10" lang="en" %}} reads naturally as describing something bigger than a local, first-century crisis.
-- Some early church fathers, including Irenaeus, already expected a still-future antichrist — this isn't only a modern invention.
+- Some early church fathers, including Irenaeus, already expected a still-future antichrist (*Against Heresies* 5.25–30) (*Against Heresies* 5.25–30) — this isn't only a modern invention.
 - It takes the finality of {{% bible val="chapters 20–22" link="rev:20,1" lang="en" %}} seriously as genuinely climactic and future, rather than needing to explain away the new creation as already accomplished.
 
 **Against:**
@@ -127,3 +127,5 @@ A few closing questions worth sitting with:
 - If you lean preterist, what do you do with the plainly still-future language of chapters 20–22?
 - If you lean historicist or futurist, what stops your own confident identification from becoming one more entry on the long list of abandoned ones?
 - If you lean idealist, what keeps the seven churches' very specific first-century problems from feeling like decoration rather than substance?
+
+[^pret]: Beale, p. 44 n. 2, names Chilton, Gentry and Van der Waal. Whether partial preterism counts as "the mainstream" depends on which circle is meant, so the page does not say it.

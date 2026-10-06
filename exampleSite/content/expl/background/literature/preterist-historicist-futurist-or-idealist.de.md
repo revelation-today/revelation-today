@@ -24,7 +24,7 @@ Ein paar Fragen sind es wert, im Hinterkopf behalten zu werden:
 <a name="p1a1"></a>
 Die Ereignisse der Offenbarung — zumindest die meisten davon — wurden bereits im ersten Jahrhundert erfüllt, hauptsächlich im Jüdischen Krieg und dem Fall Jerusalems im Jahr 70 n. Chr., oder, bei einer Datierung unter Domitian, in Roms Verfolgung der Gemeinden Kleinasiens. Der Name kommt vom lateinischen *praeter*, „vorbei", „vergangen".
 
-Diese Sichtweise gibt es in zwei sehr unterschiedlichen Stärken. Der *partielle* Präterismus vertritt, dass der Großteil der Kapitel 4–19 bereits hinter uns liegt, während das letzte Gericht, die Auferstehung und die neue Schöpfung in den Kapiteln 20–22 noch bevorstehen — das ist die von ernstzunehmenden evangelikalen Gelehrten vertretene Hauptrichtung. Der *volle* (oder „Hyper"-)Präterismus geht weiter und liest sogar die Wiederkunft Christi und die Auferstehung als bereits geistlich im Jahr 70 n. Chr. erfüllt — ein Schritt, der mit dem historischen Bekenntnis der Kirche zu einer noch ausstehenden, leiblichen Wiederkunft und Auferstehung kollidiert, und den die meisten Christen aus jedem anderen Lager, diese Seite eingeschlossen, rundweg ablehnen.
+Diese Sichtweise gibt es in zwei sehr unterschiedlichen Stärken. Der *partielle* Präterismus vertritt, dass der Großteil der Kapitel 4–19 bereits hinter uns liegt, während das letzte Gericht, die Auferstehung und die neue Schöpfung in den Kapiteln 20–22 noch bevorstehen — diese Form vertreten eine Reihe evangelikaler Gelehrter[^pret]. Der *volle* (oder „Hyper"-)Präterismus geht weiter und liest sogar die Wiederkunft Christi und die Auferstehung als bereits geistlich im Jahr 70 n. Chr. erfüllt — ein Schritt, der mit dem historischen Bekenntnis der Kirche zu einer noch ausstehenden, leiblichen Wiederkunft und Auferstehung kollidiert, und den die meisten Christen aus jedem anderen Lager, diese Seite eingeschlossen, rundweg ablehnen.
 
 **Dafür spricht:**
 
@@ -49,7 +49,7 @@ Die Offenbarung zeichnet die gesamte Spanne der Kirchengeschichte nach, von Joha
 
 - Es nimmt ernst, dass die Offenbarung eine *sich entfaltende* Geschichte beschreibt, kein einzelnes Ereignis — passend zu Daniels eigener Vision {{% int_link val="einer Abfolge von Reichen, die über Jahrhunderte hinweg aufsteigen und untergehen" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}}, die die Offenbarung bewusst aufgreift.
 - Es misst der tatsächlichen Erfahrung der Kirche über zwei Jahrtausende hinweg — Verfolgung, Verfall, Erneuerung — echtes Gewicht bei, statt diese ganze Zeitspanne als prophetisch stumm zu behandeln.
-- Es war jahrhundertelang die protestantische Mehrheitslesart, getrieben von einer echten, textlich begründeten Sorge um korrumpierte Macht innerhalb der sichtbaren Kirche, nicht nur von antikatholischer Polemik.
+- Es war jahrhundertelang unter Protestanten weit verbreitet, getrieben von einer echten, textlich begründeten Sorge um korrumpierte Macht innerhalb der sichtbaren Kirche, nicht nur von antikatholischer Polemik.
 - Es entspricht der erkennbaren Sorge des Briefschreibers um die langfristige Treue der Kirche, nicht nur um ihre erste Generation.
 
 **Dagegen spricht:**
@@ -68,7 +68,7 @@ Der größte Teil der Offenbarung, ab Kapitel 4 oder 6, beschreibt Ereignisse, d
 
 - Es hält die Warnungen des Buches vor einer kommenden, klimaktischen Krise als eine reale, noch offene Bedrohung fest, statt als etwas bereits Überstandenes, sicher Vergangenes — was zu {{% bible val="Jesu eigener Warnung" link="mat:24,21" lang="de" %}} passt, dass es eine Trübsal geben wird, „wie sie seit Anfang der Welt nicht gewesen ist".
 - {{% bible val="Philadelphias Verheißung, vor der Stunde der Versuchung bewahrt zu werden, die über den ganzen Erdkreis kommen wird" link="rev:3,10" lang="de" %}}, liest sich natürlich als Beschreibung von etwas Größerem als einer lokalen Krise des ersten Jahrhunderts.
-- Einige frühe Kirchenväter, darunter Irenäus, erwarteten bereits einen noch zukünftigen Antichristen — das ist keine rein moderne Erfindung.
+- Einige frühe Kirchenväter, darunter Irenäus, erwarteten bereits einen noch zukünftigen Antichristen (*Gegen die Häresien* 5,25–30) — das ist keine rein moderne Erfindung.
 - Es nimmt die Endgültigkeit der {{% bible val="Kapitel 20–22" link="rev:20,1" lang="de" %}} ernst als tatsächlich klimaktisch und zukünftig, statt erklären zu müssen, warum die neue Schöpfung angeblich schon erreicht ist.
 
 **Dagegen spricht:**
@@ -127,3 +127,5 @@ Ein paar abschließende Fragen, die es wert sind, mit ihnen zu sitzen:
 - Wenn du zum Präterismus neigst, was machst du mit der eindeutig noch zukünftigen Sprache der Kapitel 20–22?
 - Wenn du zum Historismus oder Futurismus neigst, was hindert deine eigene zuversichtliche Identifikation daran, ein weiterer Eintrag auf der langen Liste der aufgegebenen zu werden?
 - Wenn du zum Idealismus neigst, was bewahrt die sehr spezifischen Probleme der sieben Gemeinden im ersten Jahrhundert davor, wie Dekoration statt wie Substanz zu wirken?
+
+[^pret]: Beale, S. 44 Anm. 2, nennt Chilton, Gentry und Van der Waal. Ob der partielle Preterismus „der Mainstream" ist, hängt davon ab, welcher Kreis gemeint ist; deshalb sagt die Seite es nicht.

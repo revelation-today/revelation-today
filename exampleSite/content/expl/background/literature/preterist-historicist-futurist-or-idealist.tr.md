@@ -24,7 +24,7 @@ Akılda tutulmaya değer birkaç soru:
 <a name="p1a1"></a>
 Vahiy'deki olaylar — en azından çoğu — birinci yüzyılda, başlıca Yahudi Savaşı'nda ve MS 70'te Yeruşalim'in düşüşünde, ya da Domitianus dönemine tarihlendirmeyle, Roma'nın Küçük Asya kiliselerine yönelik zulmünde çoktan gerçekleşmiştir. Bu terim Latince *praeter*, "geçmiş" kelimesinden gelir.
 
-Bu görüş oldukça farklı iki yoğunlukta gelir. *Kısmi* preterizm, 4-19. bölümlerin çoğunun geride kaldığını, ama son yargı, diriliş ve yeni yaratılışın (20-22. bölümler) hâlâ önümüzde olduğunu savunur — bu, ciddi evanjelik akademisyenlerin benimsediği ana akım görüştür. *Tam* (ya da "hiper") preterizm daha da ileri gider ve Mesih'in ikinci gelişini ve dirilişi bile MS 70'te ruhsal olarak çoktan gerçekleşmiş olarak okur — bu, kilisenin tarihsel olarak hâlâ gelecekte olan bedensel bir dönüş ve dirilişe dair itirafıyla çelişen bir adımdır ve diğer her kesimden Hristiyanların büyük çoğunluğu, bu site de dahil, bunu tamamen reddeder.
+Bu görüş oldukça farklı iki yoğunlukta gelir. *Kısmi* preterizm, 4-19. bölümlerin çoğunun geride kaldığını, ama son yargı, diriliş ve yeni yaratılışın (20-22. bölümler) hâlâ önümüzde olduğunu savunur — bu biçimi bir dizi evanjelik akademisyen benimser[^pret]. *Tam* (ya da "hiper") preterizm daha da ileri gider ve Mesih'in ikinci gelişini ve dirilişi bile MS 70'te ruhsal olarak çoktan gerçekleşmiş olarak okur — bu, kilisenin tarihsel olarak hâlâ gelecekte olan bedensel bir dönüş ve dirilişe dair itirafıyla çelişen bir adımdır ve diğer her kesimden Hristiyanların büyük çoğunluğu, bu site de dahil, bunu tamamen reddeder.
 
 **Lehinde:**
 
@@ -43,7 +43,7 @@ Bu görüş oldukça farklı iki yoğunlukta gelir. *Kısmi* preterizm, 4-19. b�
 ## Historisist
 
 <a name="h2b3"></a>
-Vahiy, Yuhanna'nın kendi döneminden ikinci gelişe kadar, kilise tarihinin tamamını sembol sembol izler — mühürler, borazanlar ve taslar, gerçek tarihsel olaylar dizisine karşılık gelir: barbar istilaları, İslam'ın yükselişi, papalık, Reform hareketi ve benzerleri. Bu, Reformcular arasında baskın olan okumaydı; birçoğu canavarı ya da fahişeyi kendi dönemlerinin papalığıyla özdeşleştirdi — {{% int_link val="bu sitede başka bir yerde izlenen benzer özdeşleştirmelerin uzun listesinden" link="/expl/topics/others/dispensionalism-a-little-history" %}} bir örnek, on ikinci yüzyıldaki Fioreli Joachim'in şemasından başlayarak.
+Vahiy, Yuhanna'nın kendi döneminden ikinci gelişe kadar, kilise tarihinin tamamını sembol sembol izler — mühürler, borazanlar ve taslar, gerçek tarihsel olaylar dizisine karşılık gelir: barbar istilaları, İslam'ın yükselişi, papalık, Reform hareketi ve benzerleri. Bu, Reformcular arasında yaygın olan okumaydı; birçoğu canavarı ya da fahişeyi kendi dönemlerinin papalığıyla özdeşleştirdi — {{% int_link val="bu sitede başka bir yerde izlenen benzer özdeşleştirmelerin uzun listesinden" link="/expl/topics/others/dispensionalism-a-little-history" %}} bir örnek, on ikinci yüzyıldaki Fioreli Joachim'in şemasından başlayarak.
 
 **Lehinde:**
 
@@ -68,7 +68,7 @@ Vahiy'in büyük bölümü, 4. ya da 6. bölümden itibaren, önümüzde duran o
 
 - Kitabın gelmekte olan, doruk noktasındaki bir kriz hakkındaki uyarılarını, çoktan atlatılmış ve güvenle geride bırakılmış bir şey olarak değil, gerçek ve hâlâ açık bir tehdit olarak tutar — bu da {{% bible val="İsa'nın kendi uyarısıyla" link="mat:24,21" lang="tr" %}}, "dünyanın başlangıcından bu yana görülmemiş" bir sıkıntı hakkındaki uyarısıyla örtüşür.
 - {{% bible val="Filadelfya'ya, bütün dünyanın üzerine gelecek olan sınanma saatinden korunma vaadi" link="rev:3,10" lang="tr" %}}, yerel, birinci yüzyıla ait bir krizden daha büyük bir şeyi betimliyor gibi doğal olarak okunur.
-- İrenaeus da dahil bazı erken kilise babaları, hâlâ gelecekte olan bir deccal bekliyordu — bu yalnızca modern bir icat değildir.
+- İrenaeus da dahil bazı erken kilise babaları, hâlâ gelecekte olan bir deccal bekliyordu (*Against Heresies* 5.25–30) — bu yalnızca modern bir icat değildir.
 - {{% bible val="20-22. bölümlerin" link="rev:20,1" lang="tr" %}} kesinliğini, yeni yaratılışın çoktan gerçekleşmiş olduğunu açıklamak zorunda kalmak yerine, gerçekten doruk noktası ve gelecekte olarak ciddiye alır.
 
 **Aleyhinde:**
@@ -127,3 +127,5 @@ Bu site eklektisizmi izler; başlıca nedeni, Vahiy'in kendisinin tek bir zaman 
 - Preterizme eğilimliysen, 20-22. bölümlerin açıkça hâlâ gelecekte olan dilini ne yapıyorsun?
 - Historisizme ya da fütürizme eğilimliysen, kendi güvenli özdeşleştirmenin, terk edilenlerin uzun listesine bir madde daha eklenmesini ne engelliyor?
 - İdealizme eğilimliysen, yedi kilisenin çok özel birinci yüzyıl sorunlarının süs gibi değil öz gibi hissettirilmesini ne sağlıyor?
+
+[^pret]: Beale, s. 44 n. 2, Chilton, Gentry ve Van der Waal’ı anar. Kısmi preterizmin "ana akım" olup olmadığı hangi çevrenin kastedildiğine bağlıdır; bu yüzden sayfa bunu söylemiyor.

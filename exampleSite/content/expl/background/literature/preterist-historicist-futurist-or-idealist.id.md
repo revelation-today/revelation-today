@@ -24,7 +24,7 @@ Beberapa pertanyaan berikut layak diingat:
 <a name="p1a1"></a>
 Peristiwa-peristiwa dalam Kitab Wahyu — sebagian besarnya, setidaknya — sudah digenapi pada abad pertama, terutama dalam Perang Yahudi dan kehancuran Yerusalem pada tahun 70 M, atau, jika menggunakan penanggalan masa Domitianus, dalam penganiayaan Roma terhadap jemaat-jemaat di Asia Kecil. Istilah ini berasal dari bahasa Latin *praeter*, "yang telah lewat".
 
-Pandangan ini memiliki dua tingkat kekuatan yang cukup berbeda. Preterisme *parsial* meyakini bahwa sebagian besar pasal 4–19 sudah menjadi masa lalu, sementara penghakiman terakhir, kebangkitan, dan ciptaan baru dalam pasal 20–22 masih akan datang — inilah pandangan arus utama, yang dianut oleh para ahli injili yang serius. Preterisme *penuh* (atau "hiper") melangkah lebih jauh dan membaca bahkan kedatangan Kristus yang kedua dan kebangkitan sebagai sudah digenapi secara rohani pada tahun 70 M — sebuah langkah yang bertabrakan dengan pengakuan historis gereja tentang kedatangan kembali secara jasmani dan kebangkitan yang masih akan datang, dan yang ditolak secara tegas oleh sebagian besar orang Kristen dari kubu mana pun lainnya, termasuk laman ini.
+Pandangan ini memiliki dua tingkat kekuatan yang cukup berbeda. Preterisme *parsial* meyakini bahwa sebagian besar pasal 4–19 sudah menjadi masa lalu, sementara penghakiman terakhir, kebangkitan, dan ciptaan baru dalam pasal 20–22 masih akan datang — inilah bentuk yang dianut sejumlah akademisi evanjelikal[^pret] — yang dianut oleh para ahli injili yang serius. Preterisme *penuh* (atau "hiper") melangkah lebih jauh dan membaca bahkan kedatangan Kristus yang kedua dan kebangkitan sebagai sudah digenapi secara rohani pada tahun 70 M — sebuah langkah yang bertabrakan dengan pengakuan historis gereja tentang kedatangan kembali secara jasmani dan kebangkitan yang masih akan datang, dan yang ditolak secara tegas oleh sebagian besar orang Kristen dari kubu mana pun lainnya, termasuk laman ini.
 
 **Yang mendukung:**
 
@@ -49,7 +49,7 @@ Kitab Wahyu menelusuri seluruh rentang sejarah gereja, dari zaman Yohanes sendir
 
 - Ini menganggap serius bahwa Kitab Wahyu menggambarkan sejarah yang *terus terbentang*, bukan satu peristiwa tunggal — sesuai dengan {{% int_link val="rangkaian kerajaan-kerajaan yang bangkit dan runtuh sepanjang berabad-abad dalam penglihatan Daniel sendiri" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}}, yang dengan sengaja digemakan oleh Kitab Wahyu.
 - Ini memberi bobot nyata pada pengalaman gereja yang sesungguhnya sepanjang dua milenium penganiayaan, kerusakan, dan pembaruan, alih-alih memperlakukan seluruh rentang waktu itu sebagai bisu secara nubuat.
-- Ini adalah pembacaan mayoritas Protestan selama berabad-abad, didorong oleh keprihatinan yang sungguh-sungguh dan berdasar teks tentang kekuasaan yang korup dalam gereja yang kelihatan, bukan hanya oleh polemik anti-Katolik.
+- Pembacaan ini dianut luas di kalangan Protestan selama berabad-abad, didorong oleh keprihatinan yang sungguh-sungguh dan berdasar teks tentang kekuasaan yang korup dalam gereja yang kelihatan, bukan hanya oleh polemik anti-Katolik.
 - Ini sesuai dengan kepedulian nyata sang penulis surat terhadap kesetiaan jangka panjang gereja, bukan hanya generasi pertamanya.
 
 **Yang menentang:**
@@ -68,7 +68,7 @@ Sebagian besar Kitab Wahyu, mulai dari pasal 4 atau 6 dan seterusnya, menggambar
 
 - Ini menjaga peringatan-peringatan kitab ini tentang krisis puncak yang akan datang sebagai ancaman nyata yang masih terbuka, bukan sesuatu yang sudah dilalui dan aman di masa lalu — sesuai dengan {{% bible val="peringatan Yesus sendiri" link="mat:24,21" lang="ind" %}} tentang tribulasi "yang belum pernah terjadi sejak dunia dijadikan".
 - {{% bible val="Janji kepada Filadelfia untuk dijauhkan dari saat pencobaan yang akan datang atas seluruh dunia" link="rev:3,10" lang="ind" %}} secara alami dibaca sebagai gambaran sesuatu yang lebih besar daripada krisis lokal abad pertama.
-- Beberapa bapa gereja awal, termasuk Ireneus, sudah mengharapkan antikristus yang masih akan datang — ini bukan sekadar penemuan modern.
+- Beberapa bapa gereja awal, termasuk Ireneus, sudah mengharapkan antikristus yang masih akan datang (*Against Heresies* 5.25–30) — ini bukan sekadar penemuan modern.
 - Ini menganggap serius kesudahan {{% bible val="pasal 20–22" link="rev:20,1" lang="ind" %}} sebagai sungguh-sungguh puncak dan masih akan datang, alih-alih perlu menjelaskan bahwa ciptaan baru sudah tercapai.
 
 **Yang menentang:**
@@ -127,3 +127,5 @@ Beberapa pertanyaan penutup yang layak direnungkan:
 - Jika kamu condong ke preterisme, apa yang kamu lakukan dengan bahasa yang jelas-jelas masih bersifat masa depan dalam pasal 20–22?
 - Jika kamu condong ke historisisme atau futurisme, apa yang mencegah identifikasimu sendiri yang penuh keyakinan menjadi satu lagi entri dalam daftar panjang identifikasi yang sudah ditinggalkan?
 - Jika kamu condong ke idealisme, apa yang menjaga masalah-masalah abad pertama yang sangat spesifik dari ketujuh jemaat itu agar tidak terasa seperti hiasan alih-alih substansi?
+
+[^pret]: Beale, hlm. 44 cat. 2, menyebut Chilton, Gentry, dan Van der Waal. Apakah preterisme parsial adalah "arus utama" bergantung pada lingkaran mana yang dimaksud, maka halaman ini tidak mengatakannya.
