@@ -58,7 +58,7 @@ Its gap is the arithmetic and the promise. No plausible starting point gives 490
 
 **Why both.** A prophecy can land twice, and Scripture says so itself. Isaiah gives king Ahaz a sign: a young woman will bear a son, and before the boy knows right from wrong the two kings Ahaz fears will be gone ({{% bible val="Isaiah 7:14-16" link="isa:7,14-16" lang="en" %}}). That child belongs to Ahaz's own lifetime; the sign was no use to him otherwise. Centuries later Matthew hears the same words come true again, and far more deeply, in {{% bible val="Mary's son" link="mat:1,22-23" lang="en" %}}. Nobody has to choose. Daniel himself does this: he takes Jeremiah's seventy years, which had already run their course, and hears them again as seventy weeks.
 
-So the shape I follow is this. Antiochus is the first fulfilment, close enough to be unmistakable and small enough to leave the promise standing. Jesus is the fulfilment that reaches the six goals. The Jewish war of AD 66–73 reflects the pattern once more, forty years after the week of Jesus. Daniel's words are not a calendar handed out in advance; they are a promise, given in symbols — a wrong put right, an anointed one cut off, a flood, an abomination — and symbols can be filled more than once.[^twice]
+So the shape I follow is this. Antiochus is the first fulfilment, close enough to be unmistakable and small enough to leave the promise standing. Jesus is the fulfilment that reaches the six goals. The Jewish war of AD 66–73 reflects the pattern once more, forty years after the week of Jesus. The years stay years; what repeats is the pattern they carry — a wrong put right, an anointed one cut off, a flood, an abomination. Those images can be filled more than once, and they were.[^twice]
 
 ## The seventy weeks
 
