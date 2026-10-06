@@ -8,11 +8,15 @@ docType: expl
 sources:
     - pages: 334–354
       ref: daniel
+    - pages: 482–498
+      ref: goldingay_dan
     - pages: 566–567
       ref: beale_rev
 ---
 
-Ketujuh puluh minggu tahun adalah salah satu bagian Alkitab yang paling diselimuti misteri, dan telah melahirkan banyak sekali tafsiran menarik tentang akhir zaman. Mari kita selidiki lebih dekat apa sebenarnya makna bagian ini. Artikel ini mengikuti pembacaan lama bahwa ketujuh puluh minggu itu menuju kepada Mesias. Ada dua pembacaan lain yang umum.[^weeks] Ada banyak cara menghitung minggu-minggu itu, dan tidak satu pun tanpa masalah. Yang diuraikan di sini adalah yang paling meyakinkan bagi saya.
+Ketujuh puluh minggu tahun adalah salah satu bagian Alkitab yang paling diselimuti misteri, dan telah melahirkan banyak sekali tafsiran menarik tentang akhir zaman. Mari kita selidiki lebih dekat apa sebenarnya makna bagian ini.
+
+Ada dua pembacaan yang sungguh berbobot. Yang satu berakhir pada abad kedua SM dengan Antiokhus IV, raja yang menghentikan kurban-kurban dan mendirikan altar bagi Zeus di bait suci; pembacaan itu sejalan dengan sisa Kitab Daniel, yang terus-menerus kembali kepada krisis itu. Yang lain berakhir pada Yesus dan pada kehancuran bait suci tahun 70 M. Masing-masing menjelaskan sangat banyak, dan masing-masing menyisakan sesuatu yang tidak dapat dijelaskannya. Saya memahami nubuat ini digenapi dua kali — pertama pada zaman Antiokhus, lalu jauh lebih penuh dalam Yesus — dan bagian *Digenapi dua kali* di bawah menjelaskan alasannya. Pembacaan ketiga, yang menempatkan minggu terakhir di masa depan setelah jeda yang panjang, umum di antara para pembaca dispensasional.[^weeks]
 
 ## Apa Itu Minggu Tahun
 
@@ -41,10 +45,25 @@ Ayat 24 menguraikan enam hal yang hendak dicapai melalui 490 tahun ini:
 
 Jika keenam tujuan ini digabungkan, semuanya jauh melampaui apa pun yang pernah tercapai dalam sejarah, kecuali apa yang telah dilakukan Yesus di kayu salib: Ia membayar lunas semua dosa, menuliskan perintah-perintah Allah ke dalam hati kita melalui Roh Kudus, dan masih banyak lagi.
 
+## Digenapi dua kali
+
+<a name="7c21"></a>
+Sebelum menghitung tahun, baiklah kita jujur tentang kedua pembacaan itu, karena masing-masing kuat justru di tempat yang lain lemah.
+
+**Antiokhus IV.** Sisa Kitab Daniel terus mengitari satu krisis: kerajaan keempat dan kaki patung itu, tanduk kecil yang menghentikan kurban (8:11), 2.300 petang dan pagi (8:14), raja yang "menujukan hatinya melawan perjanjian yang kudus" (11:30–31), dan masa kesesakan yang diukur dalam setengah minggu. Bacalah minggu terakhir dari ketujuh puluh itu dengan latar krisis tersebut, dan cocoknya sangat dekat. Onias III, imam besar terakhir dari garis lama — seorang yang diurapi, dan disebut "raja perjanjian" dalam 11:22 — disingkirkan ketika Antiokhus naik takhta pada 175 SM dan dibunuh pada 171 SM. Kurban sembelihan dan persembahan berhenti pada Desember 167 SM, ketika altar bagi Zeus didirikan di bait suci; bait itu disucikan dan ditahbiskan kembali pada Desember 164 SM — tiga setengah tahun kemudian, dan tujuh tahun sesudah Onias disingkirkan. Para penulis sejarah Yerusalem sendiri membaca Daniel demikian hampir seketika: 1 Makabe 1:54 menggambarkan altar Antiokhus dengan kata-kata Daniel sendiri, "pembinasa keji" — tafsiran tertua atas ayat-ayat ini yang kita miliki.[^antiochus]
+
+Celahnya adalah hitungan dan janjinya. Tidak ada titik awal yang masuk akal yang menghasilkan 490 tahun yang berakhir pada tahun 160-an SM, dan keenam hal yang dijanjikan ayat 24 tidak datang bersama orang-orang Makabe. Pelanggaran tidak selesai, dosa tidak berakhir, kejahatan tidak ditebus, kebenaran yang kekal tidak tiba. Kitab 1 Makabe sendiri tahu itu dengan baik; kisahnya berakhir dengan negara Yahudi kembali tertekan.
+
+**Yesus.** Keenam janji dalam ayat 24 tercapai di kayu salib, dan tidak di tempat lain. Ayat 26 mengatakan kota dan tempat kudus akan dihancurkan setelah yang diurapi itu disingkirkan, dan itulah yang terjadi pada tahun 70 M. Celahnya juga hitungan: seperti ditunjukkan bagian berikut, hitungan itu hanya mencapai tahun-tahun yang tepat jika ia berhenti dua kali.
+
+**Mengapa keduanya.** Sebuah nubuat dapat tergenapi dua kali, dan Alkitab sendiri mengatakannya. Yesaya memberi raja Ahas sebuah tanda: seorang perempuan muda akan mengandung dan melahirkan seorang anak, dan sebelum anak itu tahu membedakan yang baik dari yang jahat, kedua raja yang ditakuti Ahas akan lenyap ({{% bible val="Yesaya 7:14-16" link="isa:7,14-16" lang="ind" %}}). Anak itu termasuk dalam masa hidup Ahas sendiri; kalau tidak, tanda itu tak berguna baginya. Berabad-abad kemudian Matius mendengar kata-kata yang sama digenapi lagi, dan jauh lebih dalam, dalam {{% bible val="anak Maria" link="mat:1,22-23" lang="ind" %}}. Tidak ada yang harus memilih. Daniel sendiri melakukan hal itu: ia mengambil tujuh puluh tahun Yeremia, yang sudah berlalu, dan mendengarnya sekali lagi sebagai tujuh puluh minggu.
+
+Jadi bentuk yang saya ikuti adalah ini. Antiokhus adalah penggenapan pertama, cukup dekat untuk tak mungkin salah dikenali dan cukup kecil untuk membiarkan janji itu tetap berdiri. Yesus adalah penggenapan yang mencapai keenam tujuan itu. Perang Yahudi 66–73 M memantulkan pola yang sama sekali lagi, empat puluh tahun sesudah minggu Yesus. Kata-kata Daniel bukanlah kalender yang dibagikan di muka; kata-kata itu adalah janji, diberikan dalam lambang — sebuah kesalahan yang dipulihkan, seorang yang diurapi yang disingkirkan, sebuah air bah, sebuah kekejian — dan lambang dapat diisi lebih dari satu kali.[^twice]
+
 ## Ketujuh Puluh Tahun Itu
 
 <a name="d777"></a>
-Sekarang mari kita uraikan bagian selanjutnya dari nas ini. Nas ini membagi ketujuh puluh minggu itu ke dalam tiga bagian: 7 minggu (dari firman untuk membangun kembali Yerusalem sampai Koresh), 62 minggu (masa kota yang dibangun kembali itu berdiri), dan 1 minggu terakhir (untuk menggenapi segalanya). Minggu-minggu itu adalah tahun-tahun yang nyata, tetapi tidak dihitung tanpa jeda: dua kali hitungan itu berhenti.[^pause]
+Sekarang mari kita bentangkan hitungan itu di atas sejarah, mengikutinya sampai penggenapan dalam Yesus. Nas ini membagi ketujuh puluh minggu itu ke dalam tiga bagian: 7 minggu (dari firman untuk membangun kembali Yerusalem sampai Koresh), 62 minggu (masa kota yang dibangun kembali itu berdiri), dan 1 minggu terakhir (untuk menggenapi segalanya). Minggu-minggu itu adalah tahun-tahun yang nyata, tetapi tidak dihitung tanpa jeda: dua kali hitungan itu berhenti.[^pause]
 
 Ayat 25 berbunyi: {{% bible val="Maka ketahuilah dan pahamilah: dari saat firman itu keluar, yaitu bahwa Yerusalem akan dipulihkan dan dibangun kembali, sampai kepada kedatangan seorang yang diurapi, seorang raja, ada tujuh kali tujuh masa; dan enam puluh dua kali tujuh masa, jalan-jalan dan parit-parit akan dibangun kembali, tetapi dalam keadaan susah." link="dan:9,24-27" lang="ind" %}}
 
@@ -85,7 +104,9 @@ Inilah saat gereja mulai mengikuti Yesus secara penuh — perjanjian baru itu ki
 
 ![](/images/70years_en.jpg)
 
-[^weeks]: Penelitian kritis mengakhiri minggu-minggu itu dengan Antiokhus IV dan memahami orang yang diurapi yang "disingkirkan" sebagai Imam Besar Onias III (wafat 171 SM). Para pembaca dispensasional menempatkan minggu terakhir di masa depan, setelah jeda yang panjang.
+[^weeks]: Para pembaca dispensasional menempatkan minggu terakhir di masa depan, setelah jeda dua ribu tahun, sehingga 69 minggu berakhir pada kedatangan pertama Kristus dan minggu ketujuh puluh menjadi milik seorang Antikristus yang akan datang.
+[^antiochus]: Goldingay, *Daniel* (WBC 30, rev.), hlm. 487–490, memaparkan pembacaan ini: yang diurapi yang disingkirkan adalah Onias III, disingkirkan ketika Antiokhus naik takhta pada 175 SM dan dibunuh pada 171 SM (2 Makabe 4:33–34); perjanjian "dengan banyak orang" adalah kesepakatan antara pihak pembaru di Yerusalem dan raja itu; kekejian itu adalah altar tahun 167 SM. Mengenai 1 Makabe 1:54 sebagai pembacaan tertua atas frasa Daniel: Goldingay hlm. 482, mengutip J. J. Collins, *Daniel*, hlm. 357. Untuk tanggal pencemaran dan pentahbisan kembali, lihat {{% int_link val="Kitab Daniel" link="/expl/bible/daniel/the-book-of-daniel" %}}.
+[^twice]: Goldingay, hlm. 482–483 dan 497–498, menyebut ini hubungan yang biasa antara nubuat dan peristiwa dalam kedua Perjanjian: sebuah firman dikukuhkan oleh sebuah peristiwa, "tetapi tidak satu pun akhir itu adalah akhir", dan lambang-lambang dalam 9:24–27 "memiliki perwujudan-perwujudan lain" — sebuah hubungan tipologis antara krisis Antiokhus, zaman Yesus, dan akhir yang masih dinantikan. Ia sendiri berpendapat bahwa perincian ayat-ayat itu cocok dengan abad kedua dan bahwa penerapan-penerapan yang kemudian adalah keputusan iman, bukan keputusan tata bahasa. Maier, hlm. 352–354, membaca pola yang sama ke depan: minggu Yesus, penggenapan kedua pada 66–73 M, dan yang ketiga pada zaman Antikristus. Baldwin, *Daniel*, hlm. 174–175, juga melihat Wahyu membawa setengah minggu itu lebih jauh.
 [^pause]: Skema ini mengikuti Gerhard Maier, *Der Prophet Daniel* (Wuppertaler Studienbibel), hlm. 345–347, 354: tujuh minggu dari firman Yeremia pada 588/7 SM sampai Koresh pada 539/8 SM; keenam puluh dua minggu baru dihitung sejak Yerusalem berdiri kembali, sekitar 440 SM, dan berakhir pada 6 SM; minggu terakhir adalah tahun 27–34 M. Di antara masa-masa itu minggu-minggu tersebut tidak berjalan terus. Yang lain menghitung tanpa jeda sejak Artahsasta (445/444 SM), atau membaca angka-angka itu secara simbolis (Baldwin, *Daniel*, hlm. 171, 176; Goldingay, *Daniel*, hlm. 484–485).
 [^he]: Maier, hlm. 349. Yang lain memahami "ia" sebagai Yang Diurapi (M. G. Kline, "The Covenant of the Seventieth Week", 1974) atau sebagai penguasa yang memusuhi (Baldwin, hlm. 171).
 [^third]: Maier, hlm. 352–354, berbicara tentang penggenapan kedua pada tahun 66–73 M dan menantikan penggenapan ketiga pada masa Antikristus yang akan datang (Why 12:6, 14; 13:5). Situs ini berbeda pendapat tentang yang ketiga: Kitab Wahyu mengambil setengah minggu Daniel dan menjadikannya gambaran seluruh masa antara kedatangan Yesus yang pertama dan yang kedua (lihat *Rahasia Tiga Setengah Tahun Akhir Zaman*). Baldwin, hlm. 174–175, juga melihat bahwa Kitab Wahyu menerapkan setengah minggu itu lebih jauh.

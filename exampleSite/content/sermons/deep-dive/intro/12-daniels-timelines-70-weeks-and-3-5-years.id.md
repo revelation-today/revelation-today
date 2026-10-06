@@ -50,6 +50,19 @@ dan nubuat, serta mengurapi Yang Mahakudus
 tujuan ini jauh melampaui apa pun yang pernah tercapai dalam sejarah, kecuali apa yang dicapai
 Yesus di kayu salib.
 
+**Digenapi dua kali — sampaikan ini lebih awal.** Dua pembacaan ketujuh puluh minggu itu sungguh
+berbobot, dan penjelasannya memegang keduanya. Penggenapan pertama adalah Antiokhus IV: Onias III,
+imam besar terakhir dari garis lama, disingkirkan ketika Antiokhus naik takhta pada 175 SM dan
+dibunuh pada 171 SM; kurban berhenti pada Desember 167 SM ketika altar bagi Zeus didirikan di bait
+suci; bait itu ditahbiskan kembali pada Desember 164 SM — tiga setengah tahun kemudian, dan tujuh
+tahun sesudah Onias disingkirkan. 1 Makabe 1:54 sudah menggambarkan altar itu dengan kata-kata
+Daniel sendiri. Yang tidak dapat diberikan penggenapan itu adalah ayat 24: pelanggaran tidak
+selesai, dan kebenaran yang kekal tidak datang bersama orang-orang Makabe. Yesus adalah penggenapan
+yang mencapai keenam tujuan itu. Jika ada yang membantah bahwa sebuah nubuat hanya boleh berarti
+satu hal, tunjukkan {{% bible val="Yesaya 7:14-16" link="isa:7,14-16" lang="ind" %}} — tanda yang
+diberikan kepada raja Ahas, lahir dalam masa hidup Ahas sendiri, dan berabad-abad kemudian
+terdengar lagi dalam {{% bible val="anak Maria" link="mat:1,22-23" lang="ind" %}}.
+
 **Bagaimana hitungan itu sebenarnya berjalan — dan di mana ia berhenti.** Inilah bagian yang ingin
 dilihat kelompok Anda di papan tulis. Kali tujuh masa itu adalah tahun-tahun yang sungguhan, tetapi
 tidak dihitung terus-menerus: dua kali hitungan itu berhenti dan menunggu. Firman untuk memulihkan

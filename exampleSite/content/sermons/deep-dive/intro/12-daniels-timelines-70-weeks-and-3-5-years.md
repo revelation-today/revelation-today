@@ -46,6 +46,19 @@ bring in everlasting righteousness, seal up vision and prophecy, and anoint the 
 ({{% bible val="Daniel 9:24-27" link="dan:9,24-27" lang="en" %}}). Taken together, these six
 goals go well beyond anything achieved in history except what Jesus accomplished on the cross.
 
+**Fulfilled twice — put this early.** Two readings of the seventy weeks carry real weight, and
+the explanation holds both. The first fulfilment is Antiochus IV: Onias III, the last high priest
+of the old line, is pushed out when Antiochus takes the throne in 175 BC and murdered in 171 BC;
+sacrifice stops in December 167 BC when the altar to Zeus goes up in the temple; the temple is
+rededicated in December 164 BC — three and a half years later, and seven years after Onias was cut
+off. 1 Maccabees 1:54 already describes that altar in Daniel's own words. What that fulfilment
+cannot deliver is verse 24: transgression was not finished and everlasting righteousness did not
+arrive with the Maccabees. Jesus is the fulfilment that reaches those six goals. If someone
+objects that a prophecy must mean one thing, point them to
+{{% bible val="Isaiah 7:14-16" link="isa:7,14-16" lang="en" %}} — the sign given to king Ahaz, born
+in Ahaz's own lifetime, and heard again centuries later in
+{{% bible val="Mary's son" link="mat:1,22-23" lang="en" %}}.
+
 **How the count actually runs — and where it pauses.** This is the part your group will want on a
 whiteboard. The weeks are real years, but they are not counted straight through: twice the count
 stops and waits. The word to restore and rebuild Jerusalem goes out through Jeremiah in

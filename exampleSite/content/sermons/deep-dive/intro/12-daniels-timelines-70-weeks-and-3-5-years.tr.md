@@ -45,6 +45,18 @@ doğruluğu getirmek, görü ve peygamberliği mühürlemek ve En Kutsal Yer'i m
 ({{% bible val="Daniel 9:24-27" link="dan:9,24-27" lang="tr" %}}). Bir arada ele alındığında, bu
 altı hedef, İsa'nın çarmıhta başardığı dışında tarihte gerçekleşen her şeyin çok ötesine geçer.
 
+**İki kez yerine geldi — bunu erken söyleyin.** Yetmiş haftanın iki okuması da gerçek bir ağırlık
+taşır ve açıklama ikisini birlikte tutar. İlk yerine gelme IV. Antiohos'tur: eski soyun son
+başkâhini III. Onias, Antiohos MÖ 175'te tahta çıktığında görevinden uzaklaştırılır ve MÖ 171'de
+öldürülür; kurbanlar MÖ 167 Aralık'ında, Zeus sunağı tapınağa dikildiğinde durur; tapınak MÖ 164
+Aralık'ında yeniden adanır — üç buçuk yıl sonra ve Onias'ın öldürülmesinden yedi yıl sonra.
+1. Makkabiler 1:54 o sunağı daha o zaman Daniel'in kendi sözleriyle anlatır. Bu yerine gelmenin
+veremediği şey 24. ayettir: isyan bitmedi ve ebedi doğruluk Makkabilerle gelmedi. Altı hedefe varan
+yerine gelme İsa'dır. Biri bir peygamberliğin tek bir şey anlatması gerektiğini söylerse,
+{{% bible val="Yeşaya 7:14-16" link="isa:7,14-16" lang="tr" %}}'yı gösterin — kral Ahaz'a verilen,
+Ahaz'ın kendi ömründe doğan ve yüzyıllar sonra
+{{% bible val="Meryem'in oğlunda" link="mat:1,22-23" lang="tr" %}} bir kez daha duyulan belirti.
+
 **Sayım gerçekte nasıl ilerliyor — ve nerede duruyor.** Bu, grubunuzun bir beyaz tahtada görmek
 isteyeceği kısımdır. Haftalar gerçek yıllardır, ama baştan sona kesintisiz sayılmaz: sayım iki kez
 durur ve bekler. Yeruşalim'i geri getirme ve yeniden kurma sözü, kentin düştüğü sırada, MÖ

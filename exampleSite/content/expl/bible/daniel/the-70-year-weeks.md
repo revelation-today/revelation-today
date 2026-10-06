@@ -8,11 +8,15 @@ docType: expl
 sources:
     - pages: 334–354
       ref: daniel
+    - pages: 482–498
+      ref: goldingay_dan
     - pages: 566–567
       ref: beale_rev
 ---
 
-The seventy weeks are one of the most mysterious parts of the Bible, and they've generated no shortage of interesting interpretations about the end times. Let's take a closer look at what this is all about. This article follows the long-standing reading that the seventy weeks lead to the Messiah. Two other readings are common.[^weeks] There are many ways of counting the weeks, and none of them is without problems. The one set out here is the one I find most convincing.
+The seventy weeks are one of the most mysterious parts of the Bible, and they've generated no shortage of interesting interpretations about the end times. Let's take a closer look at what this is all about.
+
+Two readings carry real weight. One ends in the second century BC with Antiochus IV, the king who stopped the sacrifices and set up an altar to Zeus in the temple; that reading sits comfortably beside the rest of Daniel, which keeps returning to exactly that crisis. The other ends with Jesus and with the destruction of the temple in AD 70. Each explains a great deal, and each leaves something over that it cannot explain. I take the prophecy to be fulfilled twice — first in Antiochus' day, then far more fully in Jesus — and the section *Fulfilled twice* below says why. A third reading, which puts the last week in the future after a long gap, is common among dispensational readers.[^weeks]
 
 ## What is a year week
 
@@ -41,10 +45,25 @@ Verse 24 lays out six things these 490 years are meant to accomplish:
 
 Taken together, these six goals go far beyond anything achieved in history except what Jesus did on the cross: he paid for all sin, wrote God's commandments on our hearts through the Holy Spirit, and much more besides.
 
+## Fulfilled twice
+
+<a name="7c21"></a>
+Before counting years, it is worth being honest about the two readings, because each of them is strong where the other is weak.
+
+**Antiochus IV.** The rest of Daniel keeps circling one crisis: the fourth kingdom and the feet of the statue, the little horn that stops the sacrifices (8:11), the 2,300 evenings and mornings (8:14), the king who "sets his face against the holy covenant" (11:30–31), and a time of trouble measured in half a week. Read the last of the seventy weeks against that crisis and it fits closely. Onias III, the last high priest of the old line — an anointed one, and called "a covenant leader" in 11:22 — is pushed out when Antiochus comes to the throne in 175 BC and murdered in 171 BC. Sacrifice and offering stop in December 167 BC, when the altar to Zeus goes up in the temple; the temple is cleansed and rededicated in December 164 BC, three and a half years later and seven years after Onias was cut off. Jerusalem's own historians read Daniel that way almost at once: 1 Maccabees 1:54 describes Antiochus' altar in Daniel's own words, "a desolating abomination" — the oldest interpretation of these verses that we have.[^antiochus]
+
+Its gap is the arithmetic and the promise. No plausible starting point gives 490 years ending in the 160s BC, and the six things verse 24 promises did not arrive with the Maccabees. Transgression was not finished, sin was not ended, wickedness was not atoned for, everlasting righteousness did not come. 1 Maccabees knows this perfectly well; its own story ends with the Jewish state back under pressure.
+
+**Jesus.** The six promises of verse 24 are reached at the cross, and nowhere else. Verse 26 says the city and the sanctuary will be destroyed after the anointed one is cut off, and that is what happened in AD 70. Its gap is the arithmetic too: as the next section shows, the count only reaches the right years if it pauses twice.
+
+**Why both.** A prophecy can land twice, and Scripture says so itself. Isaiah gives king Ahaz a sign: a young woman will bear a son, and before the boy knows right from wrong the two kings Ahaz fears will be gone ({{% bible val="Isaiah 7:14-16" link="isa:7,14-16" lang="en" %}}). That child belongs to Ahaz's own lifetime; the sign was no use to him otherwise. Centuries later Matthew hears the same words come true again, and far more deeply, in {{% bible val="Mary's son" link="mat:1,22-23" lang="en" %}}. Nobody has to choose. Daniel himself does this: he takes Jeremiah's seventy years, which had already run their course, and hears them again as seventy weeks.
+
+So the shape I follow is this. Antiochus is the first fulfilment, close enough to be unmistakable and small enough to leave the promise standing. Jesus is the fulfilment that reaches the six goals. The Jewish war of AD 66–73 reflects the pattern once more, forty years after the week of Jesus. Daniel's words are not a calendar handed out in advance; they are a promise, given in symbols — a wrong put right, an anointed one cut off, a flood, an abomination — and symbols can be filled more than once.[^twice]
+
 ## The seventy weeks
 
 <a name="6576"></a>
-Now let's break down the rest of the passage. It divides the 70 weeks into three parts: 7 weeks (from the word to rebuild Jerusalem to Cyrus), 62 weeks (the rebuilt city stands), and 1 final week (to finish everything). The weeks are real years, but they are not counted without a break: twice the count pauses.[^pause]
+Now let's lay the count over history, following it through to the fulfilment in Jesus. The passage divides the 70 weeks into three parts: 7 weeks (from the word to rebuild Jerusalem to Cyrus), 62 weeks (the rebuilt city stands), and 1 final week (to finish everything). The weeks are real years, but they are not counted without a break: twice the count pauses.[^pause]
 
 Verse 25 reads: {{% bible val="Know and understand this: from the time the word goes out to restore and rebuild Jerusalem until the Anointed One, the ruler, comes, there will be seven “sevens”, and sixty-two “sevens”. It will be rebuilt with streets and a trench, but in times of trouble." link="dan:9,24-27" lang="en" %}}
 
@@ -84,7 +103,9 @@ This is the moment the church begins to follow Jesus in full — the new covenan
 
 ![](/images/70years_en.jpg)
 
-[^weeks]: Critical scholarship ends the weeks with Antiochus IV and takes the anointed one who is "cut off" as the high priest Onias III (died 171 BC). Dispensational readers place the last week in the future, after a long gap.
+[^weeks]: Dispensational readers place the last week in the future, after a gap of two thousand years, so that the sixty-nine weeks end at Christ's first coming and the seventieth belongs to a coming Antichrist.
+[^antiochus]: Goldingay, *Daniel* (WBC 30, rev.), pp. 487–490, sets out this reading: the anointed one cut off is Onias III, displaced when Antiochus came to the throne in 175 BC and killed in 171 BC (2 Macc 4:33–34); the covenant "with many" is the agreement between the reforming party in Jerusalem and the king; the abomination is the altar of 167 BC. On 1 Macc 1:54 as the earliest reading of Daniel's phrase, Goldingay p. 482, citing J. J. Collins, *Daniel*, p. 357. For the dates of the desecration and the rededication see {{% int_link val="The book of Daniel" link="/expl/bible/daniel/the-book-of-daniel" %}}.
+[^twice]: Goldingay, pp. 482–483 and 497–498, calls this the regular relationship between prophecy and event in both Testaments: a word is confirmed by an event, "but neither end is the end", and the symbols of 9:24–27 "have other embodiments" — a typological relationship between the Antiochene crisis, the time of Jesus, and the end still awaited. He holds that the detail of the verses fits the second century and that the later applications are a judgment of faith rather than of grammar. Maier, pp. 352–354, reads the same pattern forwards: the week of Jesus, a second fulfilment in AD 66–73, and a third in the time of the Antichrist. Baldwin, *Daniel*, pp. 174–175, likewise sees Revelation taking the half week further.
 [^pause]: The scheme follows Gerhard Maier, *Der Prophet Daniel* (Wuppertaler Studienbibel), pp. 345–347, 354: seven weeks from Jeremiah's word in 588/7 BC to Cyrus in 539/8 BC; the sixty-two weeks count only from the time Jerusalem stood again, about 440 BC, and reach 6 BC; the last week is AD 27–34. Between these periods the weeks do not run on. Others count without a break from Artaxerxes (445/444 BC), or read the numbers as symbolic (Baldwin, *Daniel*, pp. 171, 176; Goldingay, *Daniel*, pp. 484–485).
 [^he]: Maier, p. 349. Others take "he" as the Anointed One (M. G. Kline, "The Covenant of the Seventieth Week", 1974) or as the hostile ruler (Baldwin, p. 171).
 [^third]: Maier, pp. 352–354, speaks of a second fulfilment in AD 66–73 and expects a third in a future time of the Antichrist (Rev 12:6, 14; 13:5). This site differs on the third: Revelation takes up Daniel's half week and makes it a picture of the whole time between the first and the second coming of Jesus (see *The secret of the 3.5 years*). Baldwin, pp. 174–175, also sees Revelation applying the half week further.

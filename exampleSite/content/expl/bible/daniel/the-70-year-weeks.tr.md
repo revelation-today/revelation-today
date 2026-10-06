@@ -8,11 +8,15 @@ docType: expl
 sources:
     - pages: 334–354
       ref: daniel
+    - pages: 482–498
+      ref: goldingay_dan
     - pages: 566–567
       ref: beale_rev
 ---
 
-70 yıllık haftalar, Kutsal Kitap'ın en gizemli bölümlerinden biridir ve son zamanlar hakkında pek çok ilginç yoruma kapı açmıştır. Bunun ne anlama geldiğine daha yakından bakalım. Bu yazı, yetmiş haftanın Mesih'e vardığını söyleyen köklü okumayı izler. Yaygın iki okuma daha vardır.[^weeks] Haftaları saymanın pek çok yolu vardır ve hiçbiri sorunsuz değildir. Burada anlatılan, beni en çok ikna edenidir.
+70 yıllık haftalar, Kutsal Kitap'ın en gizemli bölümlerinden biridir ve son zamanlar hakkında pek çok ilginç yoruma kapı açmıştır. Bunun ne anlama geldiğine daha yakından bakalım.
+
+İki okumanın gerçek bir ağırlığı var. Biri MÖ ikinci yüzyılda, kurbanları durduran ve tapınağa Zeus sunağı diken kral IV. Antiohos'la biter; bu okuma, sürekli aynı krizin çevresinde dolaşan Daniel kitabının geri kalanıyla rahatça yan yana durur. Öteki İsa'yla ve MS 70'te tapınağın yıkılmasıyla biter. Her biri çok şeyi açıklar ve her biri açıklayamadığı bir şey bırakır. Ben peygamberliği iki kez yerine gelmiş sayıyorum — önce Antiohos'un günlerinde, sonra İsa'da çok daha dolu biçimde — ve aşağıdaki *İki kez yerine geldi* bölümü nedenini anlatıyor. Son haftayı uzun bir aradan sonra geleceğe yerleştiren üçüncü bir okuma, dispensasyonalist okurlar arasında yaygındır.[^weeks]
 
 ## Yıl haftası nedir
 
@@ -41,10 +45,25 @@ Bu hiçbir zaman gerçekleşmedi. {{% bible val="Yeremya'nın" link="jer:25,11-1
 
 Bir arada ele alındığında, bu altı hedef İsa'nın çarmıhta yaptıklarının dışında tarihte gerçekleşen hiçbir şeyle kıyaslanamayacak kadar ileri gider: tüm günahın bedelini ödedi, Kutsal Ruh aracılığıyla Tanrı'nın buyruklarını yüreklerimize yazdı ve çok daha fazlasını yaptı.
 
+## İki kez yerine geldi
+
+<a name="7c21"></a>
+Yılları saymadan önce iki okuma konusunda dürüst olmakta fayda var, çünkü her biri tam olarak ötekinin zayıf olduğu yerde güçlüdür.
+
+**IV. Antiohos.** Daniel kitabının geri kalanı tek bir krizin çevresinde döner: dördüncü krallık ve heykelin ayakları, kurbanları durduran küçük boynuz (8:11), 2.300 sabah-akşam (8:14), "kutsal antlaşmaya karşı yüzünü çeviren" kral (11:30–31) ve yarım haftayla ölçülen bir sıkıntı dönemi. Yetmiş haftanın sonuncusunu bu krize karşı okuyun: uyum çok yakındır. Eski soyun son başkâhini III. Onias — meshedilmiş biri ve 11:22'de "antlaşma önderi" diye anılan kişi — Antiohos MÖ 175'te tahta çıktığında görevinden uzaklaştırılır ve MÖ 171'de öldürülür. Kurban ve sunu MÖ 167 Aralık'ında, Zeus sunağı tapınağa dikildiğinde durur; tapınak MÖ 164 Aralık'ında temizlenir ve yeniden adanır — üç buçuk yıl sonra ve Onias'ın öldürülmesinden yedi yıl sonra. Yeruşalim'in kendi tarihçileri Daniel'i neredeyse hemen böyle okudu: 1. Makkabiler 1:54, Antiohos'un sunağını Daniel'in kendi sözleriyle, "yıkıcı iğrenç şey" diye anlatır — bu ayetlerin elimizdeki en eski yorumu.[^antiochus]
+
+Bu okumanın boşluğu hesap ve vaattir. Makul hiçbir başlangıç noktası MÖ 160'larda biten 490 yıl vermez ve 24. ayetin vaat ettiği altı şey Makkabilerle gelmedi. İsyan bitmedi, günah sona ermedi, kötülük bağışlanmadı, ebedi doğruluk gelmedi. 1. Makkabiler bunu gayet iyi bilir; kendi öyküsü, Yahudi devletinin yeniden baskı altına girmesiyle sona erer.
+
+**İsa.** 24. ayetin altı vaadi çarmıhta yerine gelir, başka hiçbir yerde değil. 26. ayet, meshedilmiş olan öldürüldükten sonra kentin ve kutsal yerin yıkılacağını söyler; MS 70'te olan tam budur. Burada da boşluk hesaptır: bir sonraki bölümde görüleceği gibi, sayım doğru yıllara ancak iki kez durursa varır.
+
+**Neden ikisi birlikte.** Bir peygamberlik iki kez gerçekleşebilir ve Kutsal Yazı bunu kendisi söyler. Yeşaya kral Ahaz'a bir belirti verir: genç bir kadın bir oğul doğuracak ve çocuk iyiyle kötüyü ayırt etmeyi öğrenmeden, Ahaz'ın korktuğu iki kral ortadan kalkmış olacak ({{% bible val="Yeşaya 7:14-16" link="isa:7,14-16" lang="tr" %}}). O çocuk Ahaz'ın kendi ömrüne aittir; yoksa belirtinin ona hiçbir faydası olmazdı. Yüzyıllar sonra Matta aynı sözlerin bir kez daha ve çok daha derin biçimde gerçekleştiğini {{% bible val="Meryem'in oğlunda" link="mat:1,22-23" lang="tr" %}} duyar. Kimsenin seçim yapması gerekmiyor. Daniel'in kendisi de aynısını yapar: Yeremya'nın çoktan dolmuş olan yetmiş yılını alır ve onu bir kez daha yetmiş hafta olarak duyar.
+
+Dolayısıyla izlediğim şema şudur. Antiohos ilk yerine gelmedir: tanınmayacak kadar uzak değil, vaadi ayakta bırakacak kadar küçüktür. İsa, altı hedefe varan yerine gelmedir. MS 66–73 Yahudi savaşı, İsa'nın haftasından kırk yıl sonra aynı örüntüyü bir kez daha yansıtır. Daniel'in sözleri önceden dağıtılan bir takvim değildir; imgelerle verilmiş bir vaattir — düzeltilen bir haksızlık, öldürülen bir meshedilmiş, bir tufan, bir iğrençlik — ve imgeler birden fazla kez doldurulabilir.[^twice]
+
 ## 70 yıl
 
 <a name="66c9"></a>
-Şimdi metnin geri kalanını inceleyelim. Metin, 70 haftayı üç bölüme ayırır: 7 hafta (Yeruşalim'in yeniden kurulmasına dair sözden Koreş'e kadar), 62 hafta (yeniden kurulan kentin ayakta durduğu süre) ve her şeyi tamamlayacak son 1 hafta. Haftalar gerçek yıllardır, ama kesintisiz sayılmaz: sayım iki kez durur.[^pause]
+Şimdi sayımı tarihin üzerine yerleştirip İsa'daki yerine gelmeye kadar izleyelim. Metin, 70 haftayı üç bölüme ayırır: 7 hafta (Yeruşalim'in yeniden kurulmasına dair sözden Koreş'e kadar), 62 hafta (yeniden kurulan kentin ayakta durduğu süre) ve her şeyi tamamlayacak son 1 hafta. Haftalar gerçek yıllardır, ama kesintisiz sayılmaz: sayım iki kez durur.[^pause]
 
 25. ayet şöyle der: {{% bible val="Şunu bil ve anla: Yeruşalim'i yeniden kurmak ve onarmak için buyruğun verilmesinden, meshedilmiş olan önderin gelişine dek yedi hafta ve altmış iki hafta geçecek. Sokaklar ve hendeklerle yeniden inşa edilecek, ama sıkıntılı zamanlarda." link="dan:9,24-27" lang="tr" %}}
 
@@ -85,7 +104,9 @@ Bu, kilisenin İsa'yı tam anlamıyla izlemeye başladığı andır — yeni ant
 
 ![](/images/70years_tr.jpg)
 
-[^weeks]: Eleştirel araştırma haftaları IV. Antiohos'la bitirir ve "öldürülecek" olan meshedilmişi Başkâhin III. Onias (ö. MÖ 171) olarak anlar. Dispensasyonalist okurlar son haftayı uzun bir aradan sonra geleceğe yerleştirir.
+[^weeks]: Dispensasyonalist okurlar son haftayı iki bin yıllık bir aradan sonra geleceğe yerleştirir; böylece 69 hafta Mesih'in ilk gelişinde biter ve yetmişinci hafta gelecek bir Deccal'e ait olur.
+[^antiochus]: Goldingay, *Daniel* (WBC 30, gözden geçirilmiş), s. 487–490, bu okumayı ortaya koyar: öldürülen meshedilmiş, Antiohos MÖ 175'te tahta çıktığında görevinden alınan ve MÖ 171'de öldürülen III. Onias'tır (2. Makkabiler 4:33–34); "birçoklarıyla" yapılan antlaşma, Yeruşalim'deki reformcu taraf ile kral arasındaki anlaşmadır; iğrenç şey MÖ 167'nin sunağıdır. Daniel'in ifadesinin en eski yorumu olarak 1. Makkabiler 1:54 için: Goldingay s. 482, J. J. Collins, *Daniel*, s. 357'den. Kirletme ve yeniden adama tarihleri için bkz. {{% int_link val="Daniel kitabı" link="/expl/bible/daniel/the-book-of-daniel" %}}.
+[^twice]: Goldingay, s. 482–483 ve 497–498, bunu her iki Ahit'te peygamberlik ile olay arasındaki olağan ilişki olarak adlandırır: bir söz bir olayla doğrulanır, "ama hiçbir son, son değildir" ve 9:24–27'deki imgelerin "başka cisimleşmeleri vardır" — Antiohos krizi, İsa'nın zamanı ve hâlâ beklenen son arasında tipolojik bir ilişki. Kendisi, ayetlerin ayrıntısının ikinci yüzyıla uyduğunu ve sonraki uygulamaların dilbilgisinin değil imanın bir kararı olduğunu savunur. Maier, s. 352–354, aynı örüntüyü ileriye doğru okur: İsa'nın haftası, MS 66–73'te ikinci bir yerine gelme ve Deccal'in zamanında üçüncüsü. Baldwin, *Daniel*, s. 174–175, Vahiy'in yarım haftayı daha ileri taşıdığını da görür.
 [^pause]: Şema Gerhard Maier'i izler: *Der Prophet Daniel* (Wuppertaler Studienbibel), s. 345–347, 354: Yeremya'nın MÖ 588/7'deki sözünden MÖ 539/8'de Koreş'e kadar yedi hafta; altmış iki hafta ancak Yeruşalim'in yeniden ayağa kalktığı zamandan, yaklaşık MÖ 440'tan sayılır ve MÖ 6'ya ulaşır; son hafta MS 27–34'tür. Bu dönemlerin arasında haftalar işlemez. Başkaları Artahşasta'dan (MÖ 445/444) kesintisiz sayar ya da sayıları simgesel okur (Baldwin, *Daniel*, s. 171, 176; Goldingay, *Daniel*, s. 484–485).
 [^he]: Maier, s. 349. Başkaları "o"yu Meshedilmiş Olan (M. G. Kline, "The Covenant of the Seventieth Week", 1974) ya da düşman önder (Baldwin, s. 171) olarak anlar.
 [^third]: Maier, s. 352–354, MS 66–73'te ikinci bir gerçekleşmeden söz eder ve gelecekteki Mesih Karşıtı döneminde üçüncüsünü bekler (Va 12:6, 14; 13:5). Bu site üçüncüsünde ayrılır: Vahiy, Daniel'in yarım haftasını alır ve onu İsa'nın ilk ve ikinci gelişi arasındaki bütün zamanın resmi yapar (bkz. *3,5 yıl*). Baldwin, s. 174–175, de Vahiy'in yarım haftayı daha ileriye uyguladığını görür.

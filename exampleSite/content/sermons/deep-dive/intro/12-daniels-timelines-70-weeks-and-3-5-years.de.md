@@ -48,6 +48,19 @@ versiegeln und das Hochheilige zu salben
 sechs Ziele weit über alles hinaus, was in der Geschichte erreicht wurde, außer dem, was Jesus am
 Kreuz vollbracht hat.
 
+**Zweimal erfüllt — sagt das früh.** Zwei Lesarten der siebzig Wochen haben echtes Gewicht, und
+die Erklärung hält beide fest. Die erste Erfüllung ist Antiochus IV.: Onias III., der letzte
+Hohepriester der alten Linie, wird verdrängt, als Antiochus 175 v. Chr. den Thron besteigt, und
+171 v. Chr. ermordet; die Opfer hören im Dezember 167 v. Chr. auf, als der Zeus-Altar im Tempel
+errichtet wird; der Tempel wird im Dezember 164 v. Chr. neu geweiht — dreieinhalb Jahre später und
+sieben Jahre, nachdem Onias ausgerottet wurde. 1. Makkabäer 1,54 beschreibt diesen Altar schon mit
+Daniels eigenen Worten. Was diese Erfüllung nicht leisten kann, ist Vers 24: Der Frevel war nicht
+beendet, und die ewige Gerechtigkeit kam mit den Makkabäern nicht. Jesus ist die Erfüllung, die
+diese sechs Ziele erreicht. Wenn jemand einwendet, eine Prophetie müsse eines bedeuten, verweist
+auf {{% bible val="Jesaja 7,14-16" link="isa:7,14-16" lang="de" %}} — das Zeichen für König Ahas,
+geboren in dessen eigener Lebenszeit, und Jahrhunderte später noch einmal gehört in
+{{% bible val="Marias Sohn" link="mat:1,22-23" lang="de" %}}.
+
 **Wie die Zählung tatsächlich läuft — und wo sie pausiert.** Das ist der Teil, den eure Gruppe auf
 einem Whiteboard sehen will. Die Wochen sind echte Jahre, aber sie werden nicht durchgezählt:
 Zweimal hält die Zählung an. Das Wort, Jerusalem wiederherzustellen und aufzubauen, geht

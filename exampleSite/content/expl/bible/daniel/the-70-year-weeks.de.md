@@ -8,11 +8,15 @@ docType: expl
 sources:
     - pages: 334–354
       ref: daniel
+    - pages: 482–498
+      ref: goldingay_dan
     - pages: 566–567
       ref: beale_rev
 ---
 
-Die 70 Jahrwochen gehören zu den geheimnisvollsten Abschnitten der Bibel und haben nicht wenige interessante Auslegungen über die Endzeit hervorgebracht. Schauen wir uns genauer an, worum es dabei geht. Dieser Artikel folgt der alten Lesart, dass die siebzig Wochen auf den Messias zulaufen. Zwei andere Lesarten sind verbreitet.[^weeks] Es gibt viele Ansätze, die Jahrwochen zu zählen, und keiner ist ohne Probleme. Der hier vorgestellte überzeugt mich am meisten.
+Die 70 Jahrwochen gehören zu den geheimnisvollsten Abschnitten der Bibel und haben nicht wenige interessante Auslegungen über die Endzeit hervorgebracht. Schauen wir uns genauer an, worum es dabei geht.
+
+Zwei Lesarten haben echtes Gewicht. Die eine endet im zweiten Jahrhundert v. Chr. bei Antiochus IV., dem König, der die Opfer einstellte und einen Zeus-Altar im Tempel aufstellte; diese Lesart passt gut zum übrigen Danielbuch, das immer wieder genau um diese Krise kreist. Die andere endet bei Jesus und bei der Zerstörung des Tempels 70 n. Chr. Jede erklärt sehr viel, und jede lässt etwas übrig, was sie nicht erklären kann. Ich halte die Prophetie für zweimal erfüllt — zuerst in den Tagen des Antiochus, dann viel umfassender in Jesus — und der Abschnitt *Zweimal erfüllt* sagt, warum. Eine dritte Lesart, die die letzte Woche nach einer langen Lücke in die Zukunft verlegt, ist unter dispensationalistischen Auslegern verbreitet.[^weeks]
 
 ## Was ist eine Jahrwoche
 
@@ -41,10 +45,25 @@ Vers 24 legt sechs Dinge dar, die diese 490 Jahre erreichen sollen:
 
 Zusammengenommen gehen diese sechs Ziele weit über alles hinaus, was in der Geschichte je erreicht wurde — außer dem, was Jesus am Kreuz tat: Er bezahlte für alle Sünde, schrieb durch den Heiligen Geist Gottes Gebote in unsere Herzen, und noch viel mehr.
 
+## Zweimal erfüllt
+
+<a name="7c21"></a>
+Bevor wir Jahre zählen, lohnt es sich, bei beiden Lesarten ehrlich zu sein, denn jede ist dort stark, wo die andere schwach ist.
+
+**Antiochus IV.** Das übrige Danielbuch kreist um eine Krise: das vierte Reich und die Füße der Statue, das kleine Horn, das die Opfer einstellt (8,11), die 2300 Abende und Morgen (8,14), der König, der „sein Angesicht gegen den heiligen Bund richtet“ (11,30–31), und eine Zeit der Not, gemessen in einer halben Woche. Liest man die letzte der siebzig Wochen auf diese Krise hin, passt sie genau. Onias III., der letzte Hohepriester der alten Linie — ein Gesalbter, in 11,22 „Fürst des Bundes“ genannt —, wird verdrängt, als Antiochus 175 v. Chr. auf den Thron kommt, und 171 v. Chr. ermordet. Opfer und Gabe hören im Dezember 167 v. Chr. auf, als der Zeus-Altar im Tempel errichtet wird; der Tempel wird im Dezember 164 v. Chr. gereinigt und neu geweiht — dreieinhalb Jahre später und sieben Jahre, nachdem Onias ausgerottet wurde. Jerusalems eigene Geschichtsschreiber lasen Daniel fast sofort so: 1. Makkabäer 1,54 beschreibt den Altar des Antiochus mit Daniels eigenen Worten, als „verwüstenden Gräuel“ — die älteste Auslegung dieser Verse, die wir haben.[^antiochus]
+
+Ihre Lücke sind die Rechnung und die Verheißung. Kein plausibler Ausgangspunkt ergibt 490 Jahre, die in den 160er Jahren v. Chr. enden, und die sechs Dinge, die Vers 24 verheißt, kamen mit den Makkabäern nicht. Der Frevel war nicht beendet, die Sünde nicht getilgt, die Schuld nicht gesühnt, die ewige Gerechtigkeit nicht da. Das 1. Makkabäerbuch weiß das selbst genau; seine Geschichte endet damit, dass der jüdische Staat erneut unter Druck steht.
+
+**Jesus.** Die sechs Verheißungen von Vers 24 werden am Kreuz erreicht, und nirgends sonst. Vers 26 sagt, Stadt und Heiligtum würden zerstört, nachdem der Gesalbte ausgerottet ist — und genau das geschah 70 n. Chr. Auch hier ist die Lücke die Rechnung: Wie der nächste Abschnitt zeigt, trifft die Zählung die richtigen Jahre nur, wenn sie zweimal pausiert.
+
+**Warum beides.** Eine Prophetie kann zweimal eintreffen, und die Schrift sagt das selbst. Jesaja gibt König Ahas ein Zeichen: Eine junge Frau wird einen Sohn gebären, und bevor der Junge Gut und Böse unterscheiden kann, werden die beiden Könige, die Ahas fürchtet, verschwunden sein ({{% bible val="Jesaja 7,14-16" link="isa:7,14-16" lang="de" %}}). Dieses Kind gehört in die Lebenszeit des Ahas; anders wäre das Zeichen für ihn nutzlos gewesen. Jahrhunderte später hört Matthäus dieselben Worte noch einmal und viel tiefer erfüllt, in {{% bible val="Marias Sohn" link="mat:1,22-23" lang="de" %}}. Niemand muss sich entscheiden. Daniel selbst tut genau das: Er nimmt Jeremias siebzig Jahre, die schon abgelaufen waren, und hört sie noch einmal als siebzig Wochen.
+
+Die Gestalt, der ich folge, ist also diese: Antiochus ist die erste Erfüllung, nah genug, um unverkennbar zu sein, und klein genug, um die Verheißung stehen zu lassen. Jesus ist die Erfüllung, die die sechs Ziele erreicht. Der jüdische Krieg von 66–73 n. Chr. spiegelt das Muster noch einmal, vierzig Jahre nach der Woche Jesu. Daniels Worte sind kein Kalender, der im Voraus ausgegeben wird; sie sind eine Verheißung in Bildern — ein Unrecht, das gerade gemacht wird, ein Gesalbter, der ausgerottet wird, eine Flut, ein Gräuel — und Bilder können mehr als einmal gefüllt werden.[^twice]
+
 ## Die 70 Jahrwochen
 
 <a name="d777"></a>
-Nun wollen wir den Rest des Textes aufschlüsseln. Er teilt die 70 Wochen in drei Abschnitte: 7 Wochen (vom Wort über den Wiederaufbau Jerusalems bis Kyrus), 62 Wochen (die wiederaufgebaute Stadt steht) und 1 letzte Woche (um alles zu vollenden). Die Wochen sind wirkliche Jahre, aber sie werden nicht ohne Unterbrechung gezählt: Zweimal läuft die Zählung nicht weiter.[^pause]
+Nun legen wir die Zählung über die Geschichte und verfolgen sie bis zur Erfüllung in Jesus. Der Text teilt die 70 Wochen in drei Abschnitte: 7 Wochen (vom Wort über den Wiederaufbau Jerusalems bis Kyrus), 62 Wochen (die wiederaufgebaute Stadt steht) und 1 letzte Woche (um alles zu vollenden). Die Wochen sind wirkliche Jahre, aber sie werden nicht ohne Unterbrechung gezählt: Zweimal läuft die Zählung nicht weiter.[^pause]
 
 Vers 25 lautet: {{% bible val="So wisse und verstehe: Vom Erlass des Wortes an, Jerusalem wiederherzustellen und aufzubauen, bis zu dem Gesalbten, dem Fürsten, vergehen sieben Jahrwochen und zweiundsechzig Jahrwochen; Straßen und Gräben werden wieder gebaut, und zwar in bedrängter Zeit." link="dan:9,24-27" lang="de" %}}
 
@@ -87,7 +106,9 @@ Das ist der Moment, in dem die Gemeinde beginnt, Jesus in vollem Umfang nachzufo
 
 ![](/images/70years_de.jpg)
 
-[^weeks]: Die historisch-kritische Forschung lässt die Wochen mit Antiochus IV. enden und versteht den Gesalbten, der „ausgerottet“ wird, als den Hohenpriester Onias III. (gest. 171 v. Chr.). Dispensationalistische Ausleger verlegen die letzte Woche in die Zukunft, nach einer langen Lücke.
+[^weeks]: Dispensationalistische Ausleger verlegen die letzte Woche in die Zukunft, nach einer Lücke von zweitausend Jahren, sodass die 69 Wochen beim ersten Kommen Christi enden und die siebzigste einem kommenden Antichristen gehört.
+[^antiochus]: Goldingay, *Daniel* (WBC 30, rev.), S. 487–490, legt diese Lesart dar: Der ausgerottete Gesalbte ist Onias III., verdrängt beim Thronantritt des Antiochus 175 v. Chr. und 171 v. Chr. getötet (2. Makk 4,33–34); der Bund „mit vielen“ ist die Abmachung zwischen der Reformpartei in Jerusalem und dem König; der Gräuel ist der Altar von 167 v. Chr. Zu 1. Makk 1,54 als früheste Auslegung von Daniels Formulierung: Goldingay S. 482, mit J. J. Collins, *Daniel*, S. 357. Zu den Daten von Entweihung und Neuweihe siehe {{% int_link val="Das Buch Daniel" link="/expl/bible/daniel/the-book-of-daniel" %}}.
+[^twice]: Goldingay, S. 482–483 und 497–498, nennt das das regelmäßige Verhältnis von Prophetie und Ereignis in beiden Testamenten: Ein Wort wird durch ein Ereignis bestätigt, „aber kein Ende ist das Ende“, und die Bilder von 9,24–27 „haben weitere Verkörperungen“ — ein typologisches Verhältnis zwischen der Antiochus-Krise, der Zeit Jesu und dem noch erwarteten Ende. Er selbst hält fest, dass die Einzelheiten der Verse in das zweite Jahrhundert passen und dass die späteren Anwendungen ein Urteil des Glaubens und nicht der Grammatik sind. Maier, S. 352–354, liest dasselbe Muster nach vorn: die Woche Jesu, eine zweite Erfüllung 66–73 n. Chr. und eine dritte in der Zeit des Antichristen. Auch Baldwin, *Daniel*, S. 174–175, sieht, dass die Offenbarung die halbe Woche weiterführt.
 [^pause]: Das Schema folgt Gerhard Maier, *Der Prophet Daniel* (Wuppertaler Studienbibel), S. 345–347, 354: sieben Jahrwochen von Jeremias Wort 588/7 v. Chr. bis Kyrus 539/8 v. Chr.; die 62 Jahrwochen zählen erst von der Zeit an, in der Jerusalem wieder dastand, etwa 440 v. Chr., und reichen bis 6 v. Chr.; die letzte Jahrwoche ist 27–34 n. Chr. Dazwischen laufen die Jahrwochen nicht weiter. Andere zählen ohne Unterbrechung von Artaxerxes an (445/444 v. Chr.) oder lesen die Zahlen symbolisch (Baldwin, *Daniel*, S. 171, 176; Goldingay, *Daniel*, S. 484–485).
 [^he]: Maier, S. 349. Andere beziehen „er“ auf den Gesalbten (M. G. Kline, „The Covenant of the Seventieth Week“, 1974) oder auf den feindlichen Fürsten (Baldwin, S. 171).
 [^third]: Maier, S. 352–354, spricht von einer zweiten Erfüllung 66–73 n. Chr. und erwartet eine dritte in einer künftigen Zeit des Antichristen (Offb 12,6.14; 13,5). Diese Seite sieht die dritte anders: Die Offenbarung nimmt Daniels halbe Woche auf und macht daraus ein Bild für die ganze Zeit zwischen dem ersten und dem zweiten Kommen Jesu (siehe *Die dreieinhalb Jahre der Endzeit*). Auch Baldwin, S. 174–175, sieht, dass die Offenbarung die halbe Woche weiter anwendet.
