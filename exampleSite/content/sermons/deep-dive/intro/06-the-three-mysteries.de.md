@@ -21,7 +21,7 @@ Gemeinde, Gott und der Hure.
 
 ## Die Kernlehre
 
-Diese Einheit führt zwei Quellartikel zusammen:
+Diese Einheit führt zwei Artikel zusammen:
 [Wörtlich oder symbolisch?]({{< relref "expl/background/literature/literally-or-symbolic" >}}), der die drei „Geheimnis"-Stellen und ihre
 Verbindung zu Daniel identifiziert, und
 [Die Gemeinde als Teil von Israel]({{< relref "expl/background/israel/the-church-is-part-of-israel" >}}), der das erste der drei vollständig
@@ -86,7 +86,7 @@ Einheit 2, jetzt mit einem Namen und einer Gestalt versehen.
 Wenn fast jeder Titel, der einst dem ethnischen Israel gegeben wurde — Geliebte, Sohn, Braut,
 Königreich von Priestern — nun der Gemeinde einschließlich heidnischer Gläubiger zugesprochen
 wird, was bedeutet das dafür, wie sich die Gemeinde heute zu jüdischen Menschen und zu den
-fortlaufenden Fragen um Israel verhält? Das Quellenmaterial ist hier vorsichtig: Das Argument
+fortlaufenden Fragen um Israel verhält? Hier gilt es, die Aussage genau zu halten: Das Argument
 lautet, dass die Gemeinde Teil Israels ist, eingepfropft in ihre Berufung und Verheißungen, nicht
 ein Ersatz für sie oder eine Ablehnung von ihr. Das ist eine bedeutsame Unterscheidung, bei der es
 sich lohnt, eure Gruppe verweilen zu lassen, statt sie zu schnell in die eine oder andere Richtung

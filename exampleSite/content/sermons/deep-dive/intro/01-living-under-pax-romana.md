@@ -39,18 +39,15 @@ simply what one did. Cities in Asia Minor — precisely where the seven churches
 stood — competed with each other to build temples to the emperor, hoping to win his favor or a
 tax break in return.
 
-**Naming a place where the source material needed a correction.** The accuracy review of this
-article flagged the original list of Rome's pro-imperial propagandists — it named the Stoic
-philosopher Epictetus alongside the poet Virgil as an example of literary support for the
-regime. That's worth correcting plainly: Epictetus was a former slave whose Stoic teaching
-centered on inner freedom and indifference to external power, including political power — he
-is not a figure who glorified Rome or the emperor cult, and in some ways his philosophy gave
-people resources to stay detached from exactly this kind of imperial claim. If you want a
-genuine example of pro-Roman propaganda alongside Virgil's Aeneid, look instead to Horace's
-Carmen Saeculare, or to the visual program stamped across imperial coinage and monuments like
-the Ara Pacis. The corrected point stands: Rome's message was inescapable, delivered through
-art, architecture, and public ritual alike — it's just that Epictetus isn't a good example of
-who was delivering it.
+**Who actually carried that message.** Rome's propaganda came through literature as much as
+through stone: Virgil's Aeneid gave the empire its founding myth, and Horace's Carmen Saeculare
+was written for Augustus's own festival — alongside the visual program stamped across imperial
+coinage and monuments like the Ara Pacis. Not every famous name of the period belongs on that
+list, and the difference is worth drawing for your group. The Stoic philosopher Epictetus, a
+former slave, taught inner freedom and indifference to external power, political power
+included; his philosophy gave people resources to stay detached from exactly this kind of
+imperial claim rather than reasons to embrace it. The point about Rome holds either way: its
+message was inescapable, delivered through art, architecture, and public ritual alike.
 
 **The dilemma this created for Christians.** Jesus, not the emperor, was their true king — and
 the very word used for the gospel message, *euangelion*, was Rome's own term for the
@@ -76,12 +73,12 @@ something like synagogue worship and dietary law, not literal sacrifices at a te
 longer existed. (A minority position dates Revelation earlier, before AD 70, under Nero — worth
 flagging as a live scholarly question rather than settling in passing.) Similarly, be precise
 about persecution: systematic, empire-wide persecution requiring universal sacrifice
-certificates didn't begin until Emperor Decius's edict in 250 AD — not 253, a small but real
-date correction from the source article. Before that, persecution under Nero, Domitian, and
-Trajan was real but localized and sporadic, which actually sharpens the point: John's first
-readers weren't (yet) facing empire-wide extermination. They were facing something more like
-low-grade, constant social and economic pressure to conform — arguably the harder temptation to
-resist, because it rarely demanded a dramatic, one-time choice.
+certificates didn't begin until Emperor Decius's edict in 250 AD. Before that, persecution
+under Nero, Domitian, and Trajan was real but localized and sporadic, which actually sharpens
+the point: John's first readers weren't (yet) facing empire-wide extermination. They were
+facing something more like low-grade, constant social and economic pressure to conform —
+arguably the harder temptation to resist, because it rarely demanded a dramatic, one-time
+choice.
 
 **Original-language note.** The Greek word for "gospel," *euangelion* (εὐαγγέλιον), was standard
 vocabulary for the imperial announcement of a new Caesar's accession or a military victory. When

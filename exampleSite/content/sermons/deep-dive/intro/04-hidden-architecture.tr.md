@@ -68,7 +68,7 @@ tam olarak bu X şeklini üretir. Vahiy bu tekniği yoğun bir şekilde kullanı
 yapısına ve taht odası ağırlık merkezine baktığımızda bir sonraki oturumda somut olarak
 izleyeceğimiz bir kalıp.
 
-**Kaynak malzemenin kendisinin iyi modellediği bir uyarı.** Yapısal analiz gerçek, disiplinli
+**Akılda tutulması gereken bir uyarı.** Yapısal analiz gerçek, disiplinli
 bir beceridir — yazarın hiç kastetmediği yerlere kalıp dayatma daveti değildir. "Gerçek bir
 kiyazmayı tanımak" ile "bulmanın tatmin edici olması nedeniyle yapay bir tane dayatmak" arasında
 gerçek bir çizgi vardır ve iyi yorumcular bu çizginin hangi tarafında olduklarına dair dürüst

@@ -42,18 +42,16 @@ kebiasaan biasa. Kota-kota di Asia Kecil — tepat di tempat ketujuh jemaat dala
 — bersaing satu sama lain untuk membangun kuil bagi sang kaisar, berharap mendapatkan bantuannya
 atau keringanan pajak sebagai balasannya.
 
-**Menyebutkan satu tempat di mana materi sumber memerlukan koreksi.** Tinjauan akurasi artikel ini
-menandai daftar asli para propagandis pro-kekaisaran Roma — daftar itu menyebutkan filsuf Stoik
-Epiktetus bersama penyair Vergilius sebagai contoh dukungan sastra terhadap rezim. Hal ini perlu
-dikoreksi dengan jelas: Epiktetus adalah mantan budak yang ajaran Stoiknya berpusat pada kebebasan
-batin dan sikap tak acuh terhadap kekuasaan luar, termasuk kekuasaan politik — ia bukan tokoh yang
-memuliakan Roma atau kultus kaisar, dan dalam beberapa hal filsafatnya justru memberi orang-orang
-sumber daya untuk tetap tidak terikat pada klaim kekaisaran semacam ini. Jika Anda mencari contoh
-propaganda pro-Roma yang sejati selain Aeneid karya Vergilius, lihatlah Carmen Saeculare karya
-Horatius, atau program visual yang tercetak di mata uang kekaisaran dan monumen-monumen seperti Ara
-Pacis. Poin yang telah dikoreksi tetap berdiri: pesan Roma tidak dapat dihindari, disampaikan
-melalui seni, arsitektur, dan ritual publik sekaligus — hanya saja Epiktetus bukan contoh yang tepat
-untuk siapa yang menyampaikannya.
+**Siapa yang sebenarnya menyampaikan pesan itu.** Propaganda Roma berjalan melalui sastra sama
+kuatnya seperti melalui batu: Aeneid karya Vergilius memberi kekaisaran mitos pendiriannya, dan
+Carmen Saeculare karya Horatius ditulis untuk perayaan Augustus sendiri — ditambah program visual
+yang tercetak di mata uang kekaisaran dan monumen-monumen seperti Ara Pacis. Tidak setiap nama
+terkenal dari masa itu termasuk dalam daftar tersebut, dan perbedaannya layak ditunjukkan kepada
+kelompok Anda. Filsuf Stoik Epiktetus, seorang mantan budak, mengajarkan kebebasan batin dan sikap
+tak acuh terhadap kekuasaan luar, termasuk kekuasaan politik; filsafatnya justru memberi orang
+sumber daya untuk tetap tidak terikat pada klaim kekaisaran semacam ini, bukan alasan untuk
+menerimanya. Poin tentang Roma tetap berdiri: pesannya tidak dapat dihindari, disampaikan melalui
+seni, arsitektur, dan ritual publik sekaligus.
 
 **Dilema yang tercipta bagi orang Kristen.** Yesus, bukan sang kaisar, adalah raja sejati mereka —
 dan kata yang dipakai untuk berita Injil, *euangelion*, adalah istilah Roma sendiri untuk
@@ -85,7 +83,7 @@ minoritas menempatkan penulisan Wahyu lebih awal, sebelum 70 M, pada masa Nero �
 sebagai pertanyaan ilmiah yang masih hidup, bukan sesuatu yang diselesaikan begitu saja.) Demikian
 pula, bersikaplah tepat mengenai penganiayaan: penganiayaan yang sistematis dan berlaku di seluruh
 kekaisaran, yang mensyaratkan sertifikat pengorbanan universal, baru dimulai dengan dekrit Kaisar
-Decius pada 250 M — bukan 253, sebuah koreksi tanggal kecil namun nyata dari artikel sumber. Sebelum
+Decius pada 250 M. Sebelum
 itu, penganiayaan di bawah Nero, Domitianus, dan Trajanus memang nyata namun terlokalisasi dan
 sporadis, yang justru mempertajam maksudnya: para pembaca pertama Yohanes (belum) menghadapi
 pemusnahan menyeluruh di seluruh kekaisaran. Mereka menghadapi sesuatu yang lebih menyerupai tekanan

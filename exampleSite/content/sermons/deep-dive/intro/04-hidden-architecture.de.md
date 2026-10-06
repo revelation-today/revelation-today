@@ -74,7 +74,7 @@ Offenbarung nutzt diese Technik ausgiebig — ein Muster, das wir in der nächst
 nachzeichnen werden, wenn wir uns die Gesamtstruktur des Buches und ihr Schwerkraftzentrum im
 Thronsaal anschauen.
 
-**Eine Warnung, die das Quellenmaterial selbst gut vorlebt.** Strukturanalyse ist eine echte,
+**Eine Warnung, die man im Blick behalten sollte.** Strukturanalyse ist eine echte,
 disziplinierte Fähigkeit — keine Einladung, Muster in Textabschnitte hineinzupressen, in denen der
 Autor sie nie beabsichtigt hat. Die Grenze zwischen „einen echten Chiasmus erkennen" und „einen
 künstlichen aufzwingen, weil es befriedigend ist, ihn zu finden" ist eine echte Grenze, und gute

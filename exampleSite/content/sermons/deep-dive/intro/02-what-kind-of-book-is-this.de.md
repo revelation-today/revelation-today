@@ -25,7 +25,7 @@ bevor wir überhaupt bei Kapitel 1 ankommen.
 
 Die vollständige Argumentation für das Folgende findet sich in
 [Wie lese ich die Offenbarung?]({{< relref "expl/background/literature/the-book-of-revelation-how-to-read-it" >}}) — es lohnt sich, diese Woche
-ein Gruppenmitglied den Quellartikel direkt lesen zu lassen, falls eure Gruppe gerne tiefer geht
+ein Gruppenmitglied diesen Artikel direkt lesen zu lassen, falls eure Gruppe gerne tiefer geht
 als die Einheit selbst.
 
 **1. Es ist ein Brief.** Die Offenbarung beginnt mit einem klassischen brieflichen Gruß
@@ -62,8 +62,8 @@ der Krise, indem sie den Unterdrücker scharf kritisiert, zum Widerstand aufruft
 endgültigen Sieg bekräftigt — alles aufgebaut auf einem bewussten Dualismus, sowohl in der Zeit
 (dieses gegenwärtige böse Zeitalter gegenüber dem kommenden Zeitalter, das nur Gott bringen kann)
 als auch im Charakter (Gott gegen Satan), was eine entsprechende moralische Entscheidung ohne
-neutralen Boden erzeugt. Die Absicht ist, eine Entscheidung zu erzwingen. Der Quellartikel bietet
-einen wirklich nützlichen modernen Vergleich: Apokalyptische Literatur funktioniert ähnlich wie
+neutralen Boden erzeugt. Die Absicht ist, eine Entscheidung zu erzwingen. Ein moderner Vergleich
+hilft hier weiter: Apokalyptische Literatur funktioniert ähnlich wie
 eine politische Karikatur. Man nimmt nicht an, dass der Drache der Karikatur buchstäblich
 existiert oder dass ihre überzeichneten Figuren ein Foto der Realität sind — man versteht die
 Pointe sofort, durch Symbole, ohne jedes Bild wörtlich nehmen zu müssen. Die Offenbarung

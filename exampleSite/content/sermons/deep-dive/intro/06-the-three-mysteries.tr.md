@@ -20,7 +20,7 @@ Tanrı ve fahişenin yansıtılmış bir üçlemesi.
 
 ## Ana Öğreti
 
-Bu oturum iki kaynak makaleyi bir araya getirir:
+Bu oturum iki makaleyi bir araya getirir:
 [Gerçek veya sembolik]({{< relref "expl/background/literature/literally-or-symbolic" >}}), üç "sır" referansını ve Daniel'le
 bağlantısını tanımlar, ve [Kilise İsrail’in bir parçasıdır]({{< relref "expl/background/israel/the-church-is-part-of-israel" >}}), üçünün
 ilkini tam olarak açar.
@@ -76,8 +76,8 @@ kıyamet yazınının "tarafsız zemin yok" ilkesidir, şimdi bir isim ve bir ş
 
 Etnik İsrail'e verilen unvanların neredeyse tamamı — sevgili, oğul, gelin, kahinler krallığı —
 şimdi uluslardan gelen inanlılar da dahil kiliseye uygulanıyorsa, bu bugün kilisenin Yahudi
-halkıyla ve İsrail hakkındaki devam eden sorularla ilişkisi için ne anlama gelir? Kaynak
-malzeme burada dikkatlidir: argüman, kilisenin İsrail'in yerine geçen veya onu reddeden bir şey
+halkıyla ve İsrail hakkındaki devam eden sorularla ilişkisi için ne anlama gelir? İddiayı burada
+tam olarak koruyun: argüman, kilisenin İsrail'in yerine geçen veya onu reddeden bir şey
 değil, İsrail'in bir parçası olduğu, onun çağrısına ve vaatlerine aşılanmış olduğudur. Bu, her
 iki yönde de çok hızlı çözmek yerine grubunuzun üzerinde oturmasına değer anlamlı bir ayrımdır —
 Vahiy'in bazı birinci yüzyıl Yahudi muhaliflerine yönelik sert dili (8. oturum bunu daha da

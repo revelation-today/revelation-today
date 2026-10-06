@@ -25,7 +25,7 @@ pasal 1.
 
 Argumen lengkap untuk apa yang mengikuti ini dijabarkan dalam
 [Bagaimana Saya Membaca Kitab Wahyu?]({{< relref "expl/background/literature/the-book-of-revelation-how-to-read-it" >}}) — layak untuk diminta salah
-satu anggota kelompok membaca artikel sumbernya langsung minggu ini jika kelompok Anda suka
+satu anggota kelompok membaca artikel itu langsung minggu ini jika kelompok Anda suka
 menggali lebih jauh daripada sesi itu sendiri.
 
 **1. Ini adalah sebuah surat.** Kitab Wahyu dibuka dengan salam pembuka surat yang baku
@@ -62,8 +62,8 @@ menguatkan umat Allah melewati krisis dengan mengkritik penindas secara tajam, m
 perlawanan, dan menegaskan kemenangan akhir Allah — semuanya dibangun di atas dualisme yang
 disengaja, baik dalam waktu (zaman jahat sekarang ini versus zaman yang akan datang yang hanya
 dapat dibawa oleh Allah) maupun dalam karakter (Allah versus Iblis), yang menghasilkan pilihan
-moral yang sesuai tanpa ada wilayah netral. Maksudnya adalah memaksa sebuah keputusan. Artikel
-sumber menawarkan perbandingan modern yang sungguh berguna: sastra apokaliptik berfungsi seperti
+moral yang sesuai tanpa ada wilayah netral. Maksudnya adalah memaksa sebuah keputusan. Sebuah
+perbandingan modern menolong di sini: sastra apokaliptik berfungsi seperti
 kartun politik. Anda tidak menganggap naga dalam kartun itu benar-benar ada atau bahwa tokoh-tokoh
 yang dilebih-lebihkan itu adalah foto realitas — Anda langsung memahami maksudnya, lewat simbol,
 tanpa perlu memaknai setiap gambar secara harfiah. Wahyu bekerja dengan cara yang sama: kitab ini

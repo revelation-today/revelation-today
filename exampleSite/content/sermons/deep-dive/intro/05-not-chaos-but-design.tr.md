@@ -31,9 +31,9 @@ ederek açılır: ışık olun ve O'na güvenin (1. bölüm). Oradan yedi kilise
 bölümler) ve sonuçlar düşündürücüdür — yedi kiliseden yalnızca ikisi hiçbir azarlama almadan
 kurtulur ve listede sıra dışı olmayan konumlarda otururlar (İzmir, ikinci; Filadelfiya, altıncı).
 Diğer ikisi özellikle ağır bir düzeltme alır ve tam merkezdeki bir kilise (Tiyatira), yozlaştırıcı
-bir "İzebel" figürü nedeniyle özellikle hedef alınır. Kaynak makale, Efes ve Laodikya'yı dizinin
-"tam felaketler" olarak listeyi çevreleyen iki ucu şeklinde çerçeveler — bunu tartışmasız bir
-gerçek değil, bir yorumsal karar olarak belirtmekte fayda var: Sardis de, açılış tanımında hiçbir
+bir "İzebel" figürü nedeniyle özellikle hedef alınır. Listenin ilk ve son kilisesi, Efes ve
+Laodikya, kilise olma kimliklerini tümden yitirme tehlikesinde olan ikilidir — gerçi Sardis de,
+açılış tanımında hiçbir
 övgü olmadan ("yaşıyorsun diye bir adın var, ama ölüsün,"
 {{% bible val="Va 3:1" link="rev:3,1" lang="tr" %}}) benzersiz derecede ağır bir hüküm alır.
 Makul okuyucular "en kötü" kiliseyi farklı sıralayabilir; tartışılmayan şey, mektupların
@@ -66,23 +66,25 @@ dolaştı. Vahiy'in sayıları da aynı şekilde işler:
   sayım değil, eksik, sınırlı bir zorluk dönemidir.
 
 **Derine inmeye vakti olan bir grup için gerçekten çarpıcı bir gözlem: aritmetiğin kendisi.**
-Kaynak malzeme, 666'nın — "canavarın sırrının"
-({{% bible val="Va 13:18" link="rev:13,18" lang="tr" %}}) — üçgensel bir sayı olduğunu belirtir
+666 — "canavarın sırrı"
+({{% bible val="Va 13:18" link="rev:13,18" lang="tr" %}}) — üçgensel bir sayıdır
 (1'den 36'ya kadar olan sayıların toplamı) ve 36 aynı zamanda en küçük önemsiz olmayan "kare
 üçgensel" sayıdır, hem 6'ya (Tanrı'dan bağımsız insanlık/güç ile ilişkilendirilen) hem de 8'e
-(dirilişle ilişkilendirilen) bağlanır. Bir sonraki böyle sayı, 1.225, aynı ilişkiyi 750'den fazla
-bir faktörle ölçeklendirir — kaynak makalenin kendi canlı imgesiyle, iki metre boyunda bir kişinin
-iki milimetreden kısa bir böceğin yanında durması gibi bir şey gösterir. Her okuyucu aritmetiğin
+(dirilişle ilişkilendirilen) bağlanır. Bir sonraki böyle sayı 1.225'tir — 35'in karesi ve 49'un
+üçgeni, ayrıca kilisenin 1260 gününün (35 × 36) arkasındaki sayı. Canavarın son adımını Tanrı'nın
+halkı için de atın, yani 1.225 üzerine kurulan üçgeni, ve onun 666'sına karşı 750.925 elde
+edersiniz: aynı ilişki, 1.100 kattan fazla büyük. İki metre boyunda bir kişinin
+iki milimetreden kısa bir böceğin yanında durduğunu düşünün. Her okuyucu aritmetiğin
 kendisini kasıtlı bir yazarlık tasarımı olarak ikna edici bulsun ya da bulmasın (bu, daha net
 kelime-sayımı kalıplarından daha spekülatiftir), altta yatan teolojik nokta kendi sağlam
 zemininde durur: Şeytan'ın krallığı, Tanrı'nınkinin bir gölgesi ve parodisidir, hikayenin
 içinden göründüğünden çok daha küçük ve zayıftır.
 
-**Kesin bir gerçek değil, canlı bir soru olarak belirtmeye değer bir yer.** Kaynak makale, Efes
-ve Laodikya'yı, Sardis'in neden en az onlar kadar güçlü bir aday olmadığını tam olarak
-tartışmadan dizinin en ağır iki vakası olarak sıralar — bu savunulabilir bir yorumsal karardır,
-bir hata değil, ama tam olarak 45-60 dakikalık bir küçük grup oturumunun basitçe kabul etmek
-yerine incelemeye vakti olduğu türden bir karardır. Grubunuzu, metinden yola çıkarak hangi
+**Kesin bir gerçek değil, canlı bir soru olarak belirtmeye değer bir yer.** Hangi mektubun en ağır
+okunduğu bir değerlendirme sorusudur. Efes ve Laodikya halkanın iki ucunda durur, ama yalnızca
+sözlere bakıldığında Sardis en az onlar kadar güçlü bir adaydır — ve bu, tam olarak 45-60
+dakikalık bir küçük grup oturumunun basitçe karara bağlamak
+yerine incelemeye vakti olduğu türden bir sorudur. Grubunuzu, metinden yola çıkarak hangi
 kilisenin mektubunun en ağır okunduğuna dair kendi savlarını yapmaya davet etmeyi düşünün.
 
 ## Tartışma Soruları

@@ -24,7 +24,7 @@ chapter 1.
 
 The full argument for what follows is laid out in
 [How to read the book of Revelation]({{< relref "expl/background/literature/the-book-of-revelation-how-to-read-it" >}}) — it's worth having a
-group member read the source article directly this week if your group likes to go further than
+group member read that article directly this week if your group likes to go further than
 the session itself.
 
 **1. It's a letter.** Revelation opens with a standard epistolary greeting
@@ -57,8 +57,8 @@ because we don't encounter it anywhere else in daily life. An apocalypse encoura
 through crisis by scathingly criticizing the oppressor, calling for resistance, and asserting
 God's ultimate victory — all built on a deliberate dualism, both in time (this present evil age
 versus the coming age God alone can bring) and in character (God versus Satan, producing a
-corresponding moral choice with no neutral ground). The intent is to force a decision. The
-source article offers a genuinely useful modern comparison: apocalyptic literature functions
+corresponding moral choice with no neutral ground). The intent is to force a decision. A modern
+comparison helps here: apocalyptic literature functions
 something like a political cartoon. You don't assume the cartoon's dragon literally exists or
 that its exaggerated figures are a photograph of reality — you get the point instantly, through
 symbol, without needing to take every image literally. Revelation works the same way: it's built

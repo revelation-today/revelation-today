@@ -39,17 +39,15 @@ adet olduğu ortak yemeklerde. Küçük Asya'daki şehirler — Vahiy'in yedi ki
 bulunduğu yerler — imparatorun lütfunu veya karşılığında bir vergi indirimini kazanmayı umarak
 birbirleriyle imparatora tapınak inşa etmek için yarışıyordu.
 
-**Kaynak malzemenin bir düzeltmeye ihtiyaç duyduğu bir yeri belirtmek.** Bu makalenin doğruluk
-incelemesi, Roma'nın rejim yanlısı propagandacılarının orijinal listesinde bir sorun tespit etti —
-liste, şair Virgil'in yanında Stoacı filozof Epiktetos'u da rejime edebi destek örneği olarak
-gösteriyordu. Bunu açıkça düzeltmekte fayda var: Epiktetos, öğretisi iç özgürlük ve dış güce —
-siyasi güç de dahil — kayıtsızlık üzerine kurulu, eski bir köle olan Stoacı bir öğretmendi — o,
-Roma'yı veya imparator kültünü yücelten bir figür değildir, aksine felsefesi insanlara tam da bu
-tür bir imparatorluk iddiasından uzak durabilmeleri için kaynaklar sunuyordu. Virgil'in Aeneid'i
-yanında gerçek bir Roma yanlısı propaganda örneği arıyorsanız, bunun yerine Horatius'un Carmen
-Saeculare'sine veya madeni paralara ve Ara Pacis gibi anıtlara damgalanmış görsel programa bakın.
-Düzeltilmiş nokta geçerliliğini koruyor: Roma'nın mesajı sanat, mimari ve kamu ritüeli aracılığıyla
-kaçınılmazdı — sadece Epiktetos'un bunu ileten biri için iyi bir örnek olmadığı ortaya çıkıyor.
+**Bu mesajı gerçekte kimler taşıyordu.** Roma'nın propagandası taş kadar edebiyat üzerinden de
+yürüyordu: Virgil'in Aeneid'i imparatorluğa kuruluş mitini verdi, Horatius'un Carmen Saeculare'si
+Augustus'un kendi şenliği için yazıldı — buna madeni paralara ve Ara Pacis gibi anıtlara
+damgalanmış görsel program da eklenir. O dönemin her ünlü adı bu listeye girmez ve bu ayrımı
+grubunuza göstermekte fayda var. Eski bir köle olan Stoacı filozof Epiktetos, iç özgürlüğü ve dış
+güce — siyasi güç de dahil — kayıtsızlığı öğretiyordu; felsefesi insanlara tam da bu tür bir
+imparatorluk iddiasını benimsemek için gerekçe değil, ondan uzak durabilmeleri için kaynaklar
+sunuyordu. Roma hakkındaki nokta her hâlde geçerliliğini koruyor: mesajı sanat, mimari ve kamu
+ritüeli aracılığıyla kaçınılmazdı.
 
 **Bunun Hristiyanlar için yarattığı ikilem.** İmparator değil İsa onların gerçek kralıydı — ve
 müjde mesajı için kullanılan kelimenin kendisi, *euangelion*, Roma'nın yeni bir imparatorun
@@ -77,9 +75,8 @@ olmayan bir tapınakta gerçek kurbanlar değil, sinagog ibadeti ve dini beslenm
 şey anlamına gelmesi gerektiği anlamına gelir. (Azınlıkta kalan bir görüş, Vahiy'i daha erken,
 MS 70'ten önce, Nero döneminde tarihlendirir — bunu geçerken çözülmüş bir mesele olarak değil,
 canlı bir bilimsel soru olarak belirtmekte fayda var.) Benzer şekilde, zulüm konusunda da hassas
-olun: evrensel kurban sertifikaları gerektiren sistematik, imparatorluk çapında zulüm, MS 253'te
-değil, İmparator Decius'un 250 yılındaki fermanına kadar başlamadı — kaynak makaledeki küçük ama
-gerçek bir tarih düzeltmesi. Bundan önce, Nero, Domitian ve Trajan döneminde zulüm gerçekti ama
+olun: evrensel kurban sertifikaları gerektiren sistematik, imparatorluk çapında zulüm, İmparator
+Decius'un MS 250 yılındaki fermanına kadar başlamadı. Bundan önce, Nero, Domitian ve Trajan döneminde zulüm gerçekti ama
 yerel ve aralıklıydı — ki bu aslında noktayı daha da keskinleştirir: John'un ilk okuyucuları
 (henüz) imparatorluk çapında bir yok edilmeyle karşı karşıya değildi. Onlar, daha çok düşük
 düzeyli, sürekli sosyal ve ekonomik uyum baskısıyla karşı karşıyaydılar — bu, muhtemelen direnmesi

@@ -66,7 +66,7 @@ pairs with lines produces exactly that X shape. Revelation uses this technique e
 pattern we'll trace concretely next session when we look at the book's overall structure and its
 throne-room center of gravity.
 
-**A caution the source material itself models well.** Structural analysis is a real, disciplined
+**A caution worth keeping in view.** Structural analysis is a real, disciplined
 skill — not an invitation to force patterns onto passages where the author never intended them.
 The line between "recognizing a genuine chiasm" and "imposing an artificial one because it's
 satisfying to find" is a real line, and good interpreters stay honest about which side of it

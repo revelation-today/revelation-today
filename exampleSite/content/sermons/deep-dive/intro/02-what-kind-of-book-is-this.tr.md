@@ -23,7 +23,7 @@ kaynaklanır. Bu oturum, 1. bölüme gelmeden önce türü doğru okumayı öğr
 
 Aşağıda anlatılanların tam argümanı
 [Vahiy kitabı: Nasıl okunmalı?]({{< relref "expl/background/literature/the-book-of-revelation-how-to-read-it" >}}) dosyasında verilmiştir —
-grubunuz oturumun kendisinden daha ileri gitmeyi seviyorsa, bu hafta bir grup üyesinin kaynak
+grubunuz oturumun kendisinden daha ileri gitmeyi seviyorsa, bu hafta bir grup üyesinin bu
 makaleyi doğrudan okuması değerli olur.
 
 **1. Bir mektuptur.** Vahiy, standart bir mektup selamlamasıyla açılır
@@ -57,7 +57,7 @@ krizde, zalimi acı bir şekilde eleştirerek, direnişe çağırarak ve Tanrı'
 ederek teşvik eder — bunların hepsi hem zamanda (bu şimdiki kötü çağ ile Tanrı'nın tek başına
 getirebileceği gelecek çağ) hem de karakterde (Tanrı ile Şeytan) bilinçli bir ikiliğe dayanır ve
 buna karşılık gelen, tarafsız zemin bırakmayan ahlaki bir seçim doğurur. Amaç bir karar vermeye
-zorlamaktır. Kaynak makale gerçekten yararlı bir modern karşılaştırma sunar: kıyamet edebiyatı
+zorlamaktır. Modern bir karşılaştırma burada yardımcı olur: kıyamet edebiyatı
 bir siyasi karikatür gibi işler. Karikatürdeki ejderhanın gerçekten var olduğunu veya abartılı
 figürlerinin gerçekliğin bir fotoğrafı olduğunu varsaymazsınız — her şeyi her görüntüyü harfi
 harfine almanıza gerek kalmadan, sembol yoluyla anında kavrarsınız. Vahiy de aynı şekilde işler:

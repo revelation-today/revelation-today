@@ -21,7 +21,7 @@ sebuah triptik yang bercermin antara jemaat, Allah, dan sundal itu.
 
 ## Pengajaran Inti
 
-Sesi ini menyatukan dua artikel sumber:
+Sesi ini menyatukan dua artikel:
 [Harfiah atau simbolis?]({{< relref "expl/background/literature/literally-or-symbolic" >}}), yang mengidentifikasi ketiga rujukan
 "rahasia" dan hubungannya dengan Daniel, dan
 [Gereja sebagai Bagian dari Israel]({{< relref "expl/background/israel/the-church-is-part-of-israel" >}}), yang membahas yang pertama dari ketiganya
@@ -89,7 +89,7 @@ sesi 2, kini diberi nama dan bentuk.
 Jika hampir setiap gelar yang dahulu diberikan kepada Israel secara etnis — yang dikasihi, anak,
 mempelai, kerajaan imam — kini diterapkan kepada jemaat termasuk orang percaya bukan Yahudi, apa
 artinya itu bagi bagaimana jemaat hari ini berelasi dengan orang Yahudi dan dengan pertanyaan-
-pertanyaan yang terus berlangsung tentang Israel? Materi sumber berhati-hati di sini: argumennya
+pertanyaan yang terus berlangsung tentang Israel? Jagalah ketepatan klaimnya di sini: argumennya
 adalah bahwa jemaat adalah bagian dari Israel, dicangkokkan ke dalam panggilan dan janji-janjinya,
 bukan sebuah pengganti baginya atau sebuah penolakan terhadapnya. Itu perbedaan yang berarti yang
 layak direnungkan kelompok Anda, alih-alih diselesaikan terlalu cepat ke arah mana pun — bahasa

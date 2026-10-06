@@ -32,10 +32,10 @@ sieben Gemeinden beurteilt (Kapitel 2-3), und die Ergebnisse sind ernüchternd �
 sieben kommen ohne jeden Tadel davon, und sie stehen an unauffälligen Positionen in der Liste
 (Smyrna, an zweiter Stelle; Philadelphia, an sechster Stelle). Zwei andere erhalten besonders
 scharfe Zurechtweisung, und eine Gemeinde genau in der Mitte (Thyatira) wird wegen einer
-verderblichen „Isebel"-Gestalt besonders herausgegriffen. Der Quellartikel rahmt Ephesus und
-Laodizea als die „regelrechten Katastrophen" der Reihe, die die Liste einrahmen — es lohnt sich,
-das als interpretatorisches Urteil zu benennen, nicht als unbestrittene Tatsache: Auch Sardes
-erhält ein einzigartig scharfes Urteil („du hast den Namen, dass du lebst, und bist tot",
+verderblichen „Isebel"-Gestalt besonders herausgegriffen. Die erste und die letzte Gemeinde der
+Liste, Ephesus und Laodizea, sind die beiden, die in Gefahr stehen, ihre Identität als Gemeinde
+überhaupt zu verlieren — wobei auch Sardes
+ein einzigartig scharfes Urteil erhält („du hast den Namen, dass du lebst, und bist tot",
 {{% bible val="Offb 3,1" link="rev:3,1" lang="de" %}}) ganz ohne Lob in seiner Eröffnungsbeschreibung.
 Vernünftige Leser könnten die „schlimmste" Gemeinde unterschiedlich einstufen; unstrittig ist, dass
 die Briefe mit echter Symmetrie und einem Zentrum korrupter Führung angeordnet sind, nicht
@@ -70,25 +70,26 @@ Die Zahlen der Offenbarung funktionieren genauso:
   eine Periode unvollständiger, begrenzter Not statt ein wörtlicher, fester Countdown.
 
 **Eine wirklich bemerkenswerte Beobachtung für eine Gruppe mit Zeit zum Vertiefen: die Arithmetik
-selbst.** Das Quellenmaterial merkt an, dass 666 — „das Geheimnis des Tieres"
-({{% bible val="Offb 13,18" link="rev:13,18" lang="de" %}}) — eine Dreieckszahl ist (die Summe von
+selbst.** 666 — „das Geheimnis des Tieres"
+({{% bible val="Offb 13,18" link="rev:13,18" lang="de" %}}) — ist eine Dreieckszahl (die Summe von
 1 bis 36), und 36 ist zugleich die kleinste nichttriviale „quadratische Dreieckszahl", die sowohl
 mit 6 (der mit Menschheit/Macht ohne Gott assoziierten Zahl) als auch mit 8 (assoziiert mit
-Auferstehung) verbunden ist. Die nächste solche Zahl, 1.225, skaliert dieselbe Beziehung um mehr
-als das 750-fache — eine Illustration, im eigenen anschaulichen Bild des Quellartikels, etwa wie
-ein zwei Meter großer Mensch neben einem Insekt von weniger als zwei Millimetern Länge steht. Ob
+Auferstehung) verbunden ist. Die nächste solche Zahl ist 1.225 — das Quadrat von 35 und das
+Dreieck von 49, und die Zahl hinter den 1260 Tagen der Gemeinde (35 × 36). Geht man den letzten
+Schritt des Tieres auch für Gottes Volk, das Dreieck über 1.225, erhält man 750.925 gegen seine
+666: dieselbe Beziehung, mehr als 1.100-mal größer. Man stelle sich einen zwei Meter großen
+Menschen neben einem Insekt von weniger als zwei Millimetern Länge vor. Ob
 jeder Leser die Arithmetik selbst als absichtliches Autorendesign überzeugend findet (das ist
 spekulativer als die klareren Wortzahl-Muster) oder nicht, der zugrundeliegende theologische Punkt
 steht auf eigenem, festem Grund: Satans Reich ist ein Schatten und eine Parodie auf Gottes Reich,
 weitaus kleiner und schwächer, als es von innerhalb der Geschichte betrachtet erscheint.
 
-**Ein Ort, der es wert ist, als offene Frage benannt zu werden, nicht als geklärte Tatsache.** Der
-Quellartikel stuft Ephesus und Laodizea als die beiden schwersten Fälle der Reihe ein, ohne
-vollständig zu begründen, warum Sardes nicht mindestens ebenso ein Kandidat wäre — das ist eine
-vertretbare interpretatorische Entscheidung, kein Fehler, aber genau die Art von Ermessensfrage,
-für die eine 45-60-minütige Kleingruppeneinheit Raum hat, statt sie einfach hinzunehmen. Ladet eure
-Gruppe ein, ihren eigenen Fall dafür zu machen, welcher Gemeindebrief sich am schwersten liest, mit
-Argumenten aus dem Text.
+**Ein Ort, der es wert ist, als offene Frage benannt zu werden, nicht als geklärte Tatsache.**
+Welcher Brief sich am schwersten liest, ist eine Ermessensfrage. Ephesus und Laodizea stehen an
+den beiden Enden des Rings, aber vom Wortlaut her ist Sardes mindestens ebenso ein Kandidat — und
+das ist genau die Art von Frage, für die eine 45-60-minütige Kleingruppeneinheit Raum hat, statt
+sie einfach abzuhaken. Ladet eure Gruppe ein, ihren eigenen Fall dafür zu machen, welcher
+Gemeindebrief sich am schwersten liest, mit Argumenten aus dem Text.
 
 ## Gesprächsfragen
 

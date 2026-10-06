@@ -20,7 +20,7 @@ triptych of church, God, and the harlot.
 
 ## The Core Teaching
 
-This session draws together two source articles:
+This session draws together two articles:
 [Literally or symbolic]({{< relref "expl/background/literature/literally-or-symbolic" >}}), which identifies the three "mystery"
 references and their connection to Daniel, and
 [The church is part of Israel]({{< relref "expl/background/israel/the-church-is-part-of-israel" >}}), which unpacks the first of the three
@@ -81,8 +81,8 @@ shape.
 
 If nearly every title once given to ethnic Israel — beloved, son, bride, kingdom of priests — is
 now applied to the church including Gentile believers, what does that mean for how the church
-today relates to Jewish people and to ongoing questions about Israel? The source material is
-careful here: the argument is that the church is part of Israel, grafted into her calling and
+today relates to Jewish people and to ongoing questions about Israel? Keep the claim precise
+here: the argument is that the church is part of Israel, grafted into her calling and
 promises, not a replacement for her or a rejection of her. That's a meaningful distinction worth
 letting your group sit with rather than resolving too quickly in either direction — Revelation's
 own harsh language toward some first-century Jewish opponents (session 8 will unpack this

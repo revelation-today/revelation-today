@@ -71,7 +71,7 @@ cocok dengan garis akan menghasilkan tepat bentuk X itu. Wahyu memakai teknik in
 — sebuah pola yang akan kita telusuri secara konkret pada sesi berikutnya saat kita melihat struktur
 keseluruhan kitab ini dan pusat gravitasinya di ruang takhta.
 
-**Sebuah peringatan yang dicontohkan dengan baik oleh materi sumber itu sendiri.** Analisis
+**Sebuah peringatan yang perlu terus diingat.** Analisis
 struktural adalah keterampilan yang nyata dan disiplin — bukan undangan untuk memaksakan pola pada
 bagian-bagian yang tidak pernah dimaksudkan penulisnya seperti itu. Garis batas antara "mengenali
 sebuah kiasme yang sungguh nyata" dan "memaksakan satu yang buatan karena memuaskan untuk

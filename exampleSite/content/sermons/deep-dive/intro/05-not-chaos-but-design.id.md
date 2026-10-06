@@ -31,10 +31,10 @@ apa yang diharapkan-Nya dari jemaat sebagai respons: jadilah terang, dan bergant
 (pasal 1). Dari situ ketujuh jemaat dihakimi (pasal 2-3), dan hasilnya menggugah: hanya dua dari
 tujuh yang lolos tanpa teguran sama sekali, dan mereka menempati posisi yang tidak mencolok dalam
 daftar itu (Smirna, kedua; Filadelfia, keenam). Dua lainnya menerima koreksi yang sangat keras, dan
-satu jemaat tepat di tengah (Tiatira) disoroti karena sosok "Izebel" yang merusak. Artikel sumber
-membingkai Efesus dan Laodikia sebagai "bencana terbuka" dari rangkaian itu yang mengapit
-daftarnya — layak disebutkan sebagai sebuah penilaian tafsir, bukan sebuah fakta yang tak
-terbantahkan: Sardis juga menerima vonis yang unik kerasnya ("engkau dikatakan hidup, padahal
+satu jemaat tepat di tengah (Tiatira) disoroti karena sosok "Izebel" yang merusak. Jemaat pertama
+dan jemaat terakhir dalam daftar itu, Efesus dan Laodikia, adalah dua jemaat yang berada dalam
+bahaya kehilangan identitas mereka sebagai jemaat — meskipun
+Sardis juga menerima vonis yang unik kerasnya ("engkau dikatakan hidup, padahal
 engkau mati," {{% bible val="Why 3:1" link="rev:3,1" lang="ind" %}}) tanpa satu pun pujian dalam
 uraian pembukanya. Pembaca yang masuk akal bisa saja mengurutkan jemaat "terburuk" secara berbeda;
 yang tidak diperdebatkan adalah bahwa surat-surat itu disusun dengan simetri yang nyata dan sebuah
@@ -69,13 +69,15 @@ setelah empat puluh hari ketidakpercayaan. Angka-angka dalam Wahyu bekerja denga
   tetap.
 
 **Sebuah pengamatan yang sungguh mencolok bagi kelompok yang punya waktu untuk menggali lebih
-dalam: aritmetika itu sendiri.** Materi sumber mencatat bahwa 666 — "rahasia binatang itu"
+dalam: aritmetika itu sendiri.** 666 — "rahasia binatang itu"
 ({{% bible val="Why 13:18" link="rev:13,18" lang="ind" %}}) — adalah sebuah bilangan segitiga
 (jumlah dari 1 hingga 36), dan 36 juga merupakan bilangan "kuadrat-segitiga" nontrivial terkecil,
 yang terhubung baik dengan 6 (angka yang dikaitkan dengan manusia/kekuasaan tanpa Allah) maupun 8
-(dikaitkan dengan kebangkitan). Bilangan berikutnya semacam itu, 1.225, memperbesar hubungan yang
-sama dengan faktor lebih dari 750 — menggambarkan, dalam gambaran hidup dari artikel sumber
-sendiri, sesuatu seperti seorang yang tingginya dua meter berdiri di samping seekor serangga yang
+(dikaitkan dengan kebangkitan). Bilangan berikutnya semacam itu adalah 1.225 — kuadrat dari 35 dan
+segitiga dari 49, dan bilangan di balik 1260 hari jemaat (35 × 36). Ambil langkah terakhir
+binatang itu untuk umat Allah juga, yaitu segitiga di atas 1.225, dan Anda mendapat 750.925
+melawan 666 miliknya: hubungan yang sama, lebih dari 1.100 kali lebih besar. Bayangkan seorang
+yang tingginya dua meter berdiri di samping seekor serangga yang
 panjangnya kurang dari dua milimeter. Terlepas apakah setiap pembaca menemukan aritmetika itu
 sendiri meyakinkan sebagai rancangan yang disengaja penulisnya (ini lebih spekulatif daripada pola
 hitungan kata yang lebih jelas), inti teologis yang mendasarinya tetap berdiri kokoh: kerajaan
@@ -83,11 +85,11 @@ Iblis adalah bayangan dan tiruan dari kerajaan Allah, jauh lebih kecil dan lemah
 tampak dari dalam kisah itu.
 
 **Sebuah tempat yang layak disebutkan sebagai pertanyaan yang masih hidup, bukan fakta yang
-selesai.** Artikel sumber mengurutkan Efesus dan Laodikia sebagai dua kasus paling parah dari
-rangkaian itu tanpa sepenuhnya berargumen mengapa Sardis bukan kandidat yang setidaknya sama
-kuatnya — ini adalah keputusan tafsir yang bisa dipertahankan, bukan sebuah kesalahan, tetapi
-justru inilah jenis keputusan yang punya ruang untuk diperiksa oleh sesi kelompok kecil 45-60
-menit, bukan sekadar diterima begitu saja. Pertimbangkan mengundang kelompok Anda untuk membuat
+selesai.** Surat mana yang terbaca paling parah adalah soal penilaian. Efesus dan Laodikia berdiri
+di kedua ujung cincin itu, tetapi dari kata-katanya saja Sardis setidaknya sama kuat sebagai
+kandidat — dan justru inilah jenis pertanyaan yang punya ruang untuk diperiksa oleh sesi kelompok
+kecil 45-60
+menit, bukan sekadar diselesaikan begitu saja. Pertimbangkan mengundang kelompok Anda untuk membuat
 argumen mereka sendiri tentang surat jemaat mana yang terbaca paling parah, berargumen dari
 teksnya.
 

@@ -42,19 +42,16 @@ Städte in Kleinasien — genau dort, wo die sieben Gemeinden der Offenbarung st
 miteinander, Tempel für den Kaiser zu errichten, in der Hoffnung, seine Gunst oder eine
 Steuervergünstigung im Gegenzug zu gewinnen.
 
-**Eine Stelle, an der das Quellenmaterial einer Korrektur bedurfte.** Die Genauigkeitsprüfung
-dieses Artikels bemängelte die ursprüngliche Liste von Roms pro-kaiserlichen Propagandisten — sie
-nannte den stoischen Philosophen Epiktet neben dem Dichter Vergil als Beispiel literarischer
-Unterstützung für das Regime. Das muss klar richtiggestellt werden: Epiktet war ein ehemaliger
-Sklave, dessen stoische Lehre auf innerer Freiheit und Gleichgültigkeit gegenüber äußerer Macht
-beruhte, einschließlich politischer Macht — er ist keine Gestalt, die Rom oder den Kaiserkult
-verherrlichte, und in mancher Hinsicht gab seine Philosophie den Menschen Mittel an die Hand, sich
-von genau dieser Art imperialen Anspruchs fernzuhalten. Wer ein echtes Beispiel für pro-römische
-Propaganda neben Vergils Aeneis sucht, sollte stattdessen auf Horaz' Carmen Saeculare blicken, oder
-auf das visuelle Programm, das auf kaiserlichen Münzen und Monumenten wie der Ara Pacis eingeprägt
-war. Der korrigierte Punkt bleibt bestehen: Roms Botschaft war unentrinnbar, verbreitet durch
-Kunst, Architektur und öffentliches Ritual gleichermaßen — nur ist Epiktet kein gutes Beispiel
-dafür, wer sie verbreitete.
+**Wer diese Botschaft tatsächlich verbreitete.** Roms Propaganda lief über die Literatur genauso
+wie über den Stein: Vergils Aeneis gab dem Reich seinen Gründungsmythos, und Horaz' Carmen
+Saeculare wurde für Augustus' eigenes Festspiel geschrieben — dazu das visuelle Programm, das auf
+kaiserlichen Münzen und Monumenten wie der Ara Pacis eingeprägt war. Nicht jeder berühmte Name
+dieser Zeit gehört auf diese Liste, und der Unterschied lohnt sich für die Gruppe. Der stoische
+Philosoph Epiktet, ein ehemaliger Sklave, lehrte innere Freiheit und Gleichgültigkeit gegenüber
+äußerer Macht, politische Macht eingeschlossen; seine Philosophie gab den Menschen eher Mittel an
+die Hand, sich von genau dieser Art imperialen Anspruchs fernzuhalten, als Gründe, ihn zu
+übernehmen. Der Punkt über Rom bleibt in jedem Fall bestehen: Seine Botschaft war unentrinnbar,
+verbreitet durch Kunst, Architektur und öffentliches Ritual gleichermaßen.
 
 **Das Dilemma, das dies für Christen schuf.** Jesus, nicht der Kaiser, war ihr wahrer König — und
 das Wort, das für die Heilsbotschaft verwendet wurde, *euangelion*, war Roms eigener Begriff für
@@ -84,9 +81,8 @@ Speisegesetze meinen müssten, nicht buchstäbliche Opfer an einem Tempel, den e
 (Eine Minderheitsposition datiert die Offenbarung früher, vor 70 n. Chr., unter Nero — das ist es
 wert, als offene wissenschaftliche Frage benannt zu werden, statt sie beiläufig zu klären.) Ebenso
 sollte man bei der Verfolgung genau sein: systematische, reichsweite Verfolgung mit
-Opferzertifikaten für alle begann erst mit dem Edikt des Kaisers Decius im Jahr 250 n. Chr. — nicht
-253, eine kleine, aber echte Datumskorrektur gegenüber dem Ausgangsartikel. Davor war die
-Verfolgung unter Nero, Domitian und Trajan real, aber örtlich begrenzt und sporadisch, was den
+Opferzertifikaten für alle begann erst mit dem Edikt des Kaisers Decius im Jahr 250 n. Chr. Davor
+war die Verfolgung unter Nero, Domitian und Trajan real, aber örtlich begrenzt und sporadisch, was den
 Punkt eigentlich noch schärfer macht: Johannes' erste Leser standen (noch) keiner reichsweiten
 Vernichtung gegenüber. Sie standen eher unter einem niedrigschwelligen, ständigen sozialen und
 wirtschaftlichen Druck zur Anpassung — womöglich die schwerere Versuchung, ihr zu widerstehen, weil

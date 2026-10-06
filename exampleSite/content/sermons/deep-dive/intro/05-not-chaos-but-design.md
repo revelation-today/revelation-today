@@ -31,9 +31,9 @@ the church in response: be light, and depend on Him (chapter 1). From there the 
 are judged (chapters 2-3), and the results are sobering — only two of seven come away with no
 rebuke at all, and they sit in unremarkable positions in the list (Smyrna, second; Philadelphia,
 sixth). Two others receive especially severe correction, and one church at the very center
-(Thyatira) gets singled out over a corrupting "Jezebel" figure. The source article frames
-Ephesus and Laodicea as the sequence's "outright disasters" bookending the list — worth naming
-as an interpretive judgment rather than an uncontested fact: Sardis, too, receives a uniquely
+(Thyatira) gets singled out over a corrupting "Jezebel" figure. The first and the last church in
+the list, Ephesus and Laodicea, are the two in danger of losing their very identity as churches —
+though Sardis, too, receives a uniquely
 severe verdict ("you have the reputation of being alive, but you are dead," {{% bible val="Rev 3:1" link="rev:3,1" lang="en" %}}) with no commendation at all in its opening description. Reasonable
 readers could rank the "worst" church differently; what's not in dispute is that the letters are
 arranged with real symmetry and a corrupt-leadership centerpiece, not randomly.
@@ -65,24 +65,26 @@ numbers work the same way:
   hardship rather than a literal, fixed countdown.
 
 **A genuinely striking observation for a group with time to dig in: the arithmetic itself.**
-The source material notes that 666 — "the mystery of the beast"
+666 — "the mystery of the beast"
 ({{% bible val="Rev 13:18" link="rev:13,18" lang="en" %}}) — is a triangular number (the sum of
 1 through 36), and 36 is also the smallest nontrivial "square triangular" number, connecting to
 both 6 (the number associated with humanity/power apart from God) and 8 (associated with
-resurrection). The next such number, 1,225, scales up the same relationship by a factor of over
-750 — illustrating, in the source article's own vivid image, something like a two-meter-tall
-person standing next to an insect under two millimeters long. Whether or not every reader finds
+resurrection). The next such number is 1,225 — the square of 35 and the triangle of 49, and the
+number behind the church's 1260 days (35 × 36). Take the beast's last step for God's people too,
+the triangle built on 1,225, and you get 750,925 against his 666: the same relationship, more
+than 1,100 times larger. Picture a two-meter-tall person standing next to an insect under two
+millimeters long. Whether or not every reader finds
 the arithmetic itself persuasive as intentional authorial design (this is more speculative than
 the clearer word-count patterns), the underlying theological point stands on its own solid
 ground: Satan's kingdom is a shadow and a parody of God's, vastly smaller and weaker than it
 manages to appear from the inside of the story.
 
-**A place worth naming as a live question, not settled fact.** The source article ranks Ephesus
-and Laodicea as the sequence's two most severe cases without fully arguing why Sardis isn't at
-least as strong a candidate — this is a defensible interpretive call, not an error, but it's
-exactly the kind of judgment call a 45-60 minute small-group session has room to examine rather
-than simply accept. Consider inviting your group to make their own case for which church's
-letter reads as the most severe, arguing from the text.
+**A place worth naming as a live question, not settled fact.** Which letter reads as the most
+severe is a judgment call. Ephesus and Laodicea stand at the two ends of the ring, but on the
+wording alone Sardis is at least as strong a candidate — and that is exactly the kind of question
+a 45-60 minute small-group session has room to examine rather than simply settle. Consider
+inviting your group to make their own case for which church's letter reads as the most severe,
+arguing from the text.
 
 ## Discussion Questions
 
