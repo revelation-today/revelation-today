@@ -1,5 +1,5 @@
 ---
-title: "The secret of the 3,5 years"
+title: "The secret of the 3.5 years"
 weight: 50
 base: /quick/bible/daniel
 prev: /expl/bible/daniel/the-70-year-weeks

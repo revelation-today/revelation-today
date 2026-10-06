@@ -31,7 +31,7 @@ Vahiy 20'deki bin yıllık krallık, kitaptaki neredeyse başka her hangi bir b�
 
 Baştan akılda tutulması gereken birkaç soru var, çünkü bunlar çoğu okuyucunun metne fark etmeden getirdiği varsayımları ortaya çıkarır:
 
-- [Kim kime ve nerede egemenlik sürecek?](https://www.bibleserver.com/NIV/Revelation20%3A4)
+- {{% bible val="Kim kime ve nerede egemenlik sürecek?" link="rev:20,4" lang="tr" %}}
 - Neden doğrudan yeni bir gök ve yeni bir yer değil de araya bir bin yıl giriyor — eğer alternatif sonsuz durumun doğrudan başlaması ise, metnin buna neden ihtiyacı olsun?
 - Bu {{% bible val="tek ayet" link="rev:20,4" lang="tr" %}} dışında, Kutsal Kitap'ın başka neresinde bin yıllık krallık kavramı görülür?
 - O bin yıl boyunca gerçekleştiğini varsaydığımız {{% bible val="egemenlik sürme" link="mat:20,20-28" lang="tr" %}} tam olarak ne tür bir şeydir?

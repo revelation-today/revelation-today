@@ -27,7 +27,7 @@ sources:
     - pages: 586–587, 623
       ref: aune_rev
 readBefore:
-    - name: "Gods covenant"
+    - name: "God's covenant"
       link:  /expl/background/israel/gods-covenant
     - name: "The remnant of Israel"
       link:  /expl/background/israel/the-remnant-of-israel
@@ -38,7 +38,7 @@ readBefore:
 ## You may want to read before
 
 <a name="0926"></a>
-- {{% int_link val="The 3,5 years" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}
+- {{% int_link val="The 3.5 years" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}
 - {{% int_link val="The two beasts" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}
 
 ## The call

@@ -107,7 +107,7 @@ Reading {{% bible val="the parable of the fig tree" link="mat:24,32" lang="en" %
 ## A place for us
 
 <a name="11c1"></a>
-"['Do not let your hearts be troubled. You believe in God; believe also in me. My Father's house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?](https://www.bibleserver.com/NIV/John14%3A1-2)"
+"{{% bible val="'Do not let your hearts be troubled. You believe in God; believe also in me. My Father's house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?" link="jhn:14,1-2" lang="en" %}}"
 
 How does this passage connect to the rapture? The assumption is that these "rooms" are places where the faithful will wait out the tribulation.
 

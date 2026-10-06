@@ -13,7 +13,7 @@ deeper:
       link:  /expl/background/literature/literally-or-symbolic
     - name: The day of the Lord
       link:  /expl/background/israel/the-day-of-the-lord
-    - name: The battle of Karkemish
+    - name: The battle of Carchemish
       link:  /expl/content/bowls/armageddon-and-the-battle-of-karkemish
 sources: 
     - pages: 827, 836–841

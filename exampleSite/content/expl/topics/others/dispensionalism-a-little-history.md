@@ -1,5 +1,5 @@
 ---
-title: "Dispensionalism — A little history"
+title: "Dispensationalism — A little history"
 themes: ["dispensationalism"]
 weight: 1
 prev: /expl/content/paradise/heaven-and-hell
@@ -7,7 +7,7 @@ next: /expl/topics/others/dispensionalism-and-its-critic
 docType: expl
 appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapture
 deeper:
-    - name: Critic on Dispensionalism
+    - name: Critic on Dispensationalism
       link:  /expl/topics/others/dispensionalism-and-its-critic
 sources: 
     - pages: 11–67

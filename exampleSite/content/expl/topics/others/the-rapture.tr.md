@@ -107,7 +107,7 @@ Ama İsa'nın burada gerçekte ele aldığı temalar, 66–73 Yahudi savaşını
 ## Bizim için bir yer
 
 <a name="3ebd"></a>
-"['Yüreğiniz sıkılmasın. Tanrı'ya iman edin, bana da iman edin. Babam'ın evinde kalacak çok yer var. Öyle olmasa size söylerdim. Çünkü size yer hazırlamaya gidiyorum.](https://www.bibleserver.com/NIV/John14%3A1-2)'"
+"{{% bible val="'Yüreğiniz sıkılmasın. Tanrı'ya iman edin, bana da iman edin. Babam'ın evinde kalacak çok yer var. Öyle olmasa size söylerdim. Çünkü size yer hazırlamaya gidiyorum." link="jhn:14,1-2" lang="tr" %}}'"
 
 Bu pasajın göğe alınmayla ne ilgisi var? Varsayım, bu "odaların", imanlıların sıkıntıyı bekleyerek geçireceği yerler olduğudur.
 

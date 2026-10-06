@@ -1,5 +1,5 @@
 ---
-title: "Gods covenant"
+title: "God's covenant"
 weight: 2
 readBefore:
     - name: The role of family

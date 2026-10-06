@@ -157,7 +157,7 @@ Liars, finally, have betrayed the faith — {{% bible val="they call themselves 
 <a name="946d"></a>
 The New Jerusalem is the counterpart to Babel when we look at the {{% int_link val="larger context" link="/expl/content/1000y/the-thousand-year-kingdom" %}}. The {{% bible val="New Jerusalem represents a woman (the bride)" link="rev:21,2" lang="en" %}} just as Babel represents one (the harlot), which is also reflected in {{% bible val="Isaiah" link="isa:62,1-5" lang="en" %}}.
 
-- Babel is the economic system distributed with the power of the ruler, and immorality is done with idolatry (unfaithfulness), but God's people are faithful to him
+- Babel is an economy backed by the ruler's power, and its immorality is idolatry, unfaithfulness to God; God's people are faithful to him
 - Babel causes suffering while Jerusalem removes suffering
 - Babel destroys itself and Jerusalem stays forever
 - Babel gets rich by exploitation and persecution, but Jerusalem is rich as God's gift

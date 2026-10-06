@@ -11,7 +11,7 @@ appl: /appl/content/letters
 deeper:
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
-    - name: Gods covenant
+    - name: God's covenant
       link:  /expl/background/israel/gods-covenant
 sources:
     - pages: 225–227

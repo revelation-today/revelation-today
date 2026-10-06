@@ -31,7 +31,7 @@ The thousand-year kingdom of Revelation 20 has spawned more competing theories t
 
 A few questions are worth holding in mind from the outset, since they expose assumptions most readers bring to the passage without noticing:
 
-- [Who will reign over whom, and where?](https://www.bibleserver.com/NIV/Revelation20%3A4)
+- {{% bible val="Who will reign over whom, and where?" link="rev:20,4" lang="en" %}}
 - Why not just a new heaven and a new earth — why would the text even need a millennium in between, if the alternative is simply the eternal state beginning right away?
 - Where else in the Bible does the concept of a 1000-year kingdom appear, outside this {{% bible val="one vision" link="rev:20,4" lang="en" %}}?
 - What kind of {{% bible val="reigning" link="mat:20,20-28" lang="en" %}} are we even assuming happens during those 1000 years?

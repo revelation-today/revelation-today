@@ -80,7 +80,7 @@ Demek ki iki hasat, uluslar için iki sonucu ortaya koyar: tahıl toplanır, üz
 <a name="e8d4"></a>
 Bir sonraki sahne bizi yeni bir çıkışın içine çeker; bunun işareti hem cam deniz — Kızıldeniz'in yarılmasının bir yankısı — hem de birlikte söylenen Musa'nın şarkısı ve Kuzu'nun şarkısıdır:
 
-“[‘Büyük ve şaşılası işlerin var, ey Her Şeye Gücü Yeten Rab Tanrı. Yolların doğru ve adildir, ey ulusların Kralı. Ya Rab, senden kim korkmaz, adını kim yüceltmez? Çünkü kutsal olan yalnız sensin. Bütün uluslar gelip sana tapınacak, çünkü adil işlerin açığa çıktı.’](https://www.bibleserver.com/NIV/Revelation15%3A3-4)“
+“{{% bible val="‘Büyük ve şaşılası işlerin var, ey Her Şeye Gücü Yeten Rab Tanrı. Yolların doğru ve adildir, ey ulusların Kralı. Ya Rab, senden kim korkmaz, adını kim yüceltmez? Çünkü kutsal olan yalnız sensin. Bütün uluslar gelip sana tapınacak, çünkü adil işlerin açığa çıktı.’" link="rev:15,3-4" lang="tr" %}}“
 
 {{% bible val="Musa'nın asıl şarkısı, Kızıldeniz'deki mucizenin ardından söylenen övgüyü anlatır" link="exo:15,1-19" lang="tr" %}}, ama burada söylenen sözler Musa'nın gerçekte söylediklerinden oldukça farklıdır — yani "Musa'nın şarkısı" etiketi yalnızca bir kaynağı işaret etmekle kalmaz; bilinçli bir paralellik kurar.
 

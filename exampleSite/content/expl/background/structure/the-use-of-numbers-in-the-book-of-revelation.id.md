@@ -81,7 +81,7 @@ Pola seperti ini tidak ditemukan pada nama-nama Iblis, binatang itu, atau nabi p
 <a name="d8d4"></a>
 Dua belas juga melambangkan kelengkapan, bersama dengan kesatuan dalam keberagaman, sebab umat Israel terdiri dari dua belas suku. Kedua belas rasul mencerminkan pola yang sama dalam Perjanjian Baru.
 
-{{% bible val="Dua belas dikuadratkan dan dikalikan dengan 1.000 dalam Kitab Wahyu" link="rev:7,4-8" lang="ind" %}} untuk menunjukkan kelengkapan pada skala yang jauh lebih besar. Angka ini cukup bermakna sehingga "dua belas" sendiri muncul dua belas kali dalam penggambaran Yerusalem Baru, melukiskan gambaran kelengkapan orang-orang kudus pada akhir zaman — bersama dengan [3×4 pintu gerbang](https://www.bibleserver.com/NIV/Revelation21%3A13) dan {{% bible val="12 batu permata yang berharga" link="rev:21,18-20" lang="ind" %}}.
+{{% bible val="Dua belas dikuadratkan dan dikalikan dengan 1.000 dalam Kitab Wahyu" link="rev:7,4-8" lang="ind" %}} untuk menunjukkan kelengkapan pada skala yang jauh lebih besar. Angka ini cukup bermakna sehingga "dua belas" sendiri muncul dua belas kali dalam penggambaran Yerusalem Baru, melukiskan gambaran kelengkapan orang-orang kudus pada akhir zaman — bersama dengan {{% bible val="3×4 pintu gerbang" link="rev:21,13" lang="ind" %}} dan {{% bible val="12 batu permata yang berharga" link="rev:21,18-20" lang="ind" %}}.
 
 ## Angka-Angka Lain
 

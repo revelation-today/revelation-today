@@ -1,5 +1,5 @@
 ---
-title: "The mystery of the four horse men"
+title: "The mystery of the four horsemen"
 weight: 3
 base: /quick/content/seals
 story: /story/general/tour
@@ -56,7 +56,7 @@ There are two main interpretations, and both have their merits — and both stil
 <a name="0edc"></a>
 Looking closely at the text, three strong parallels stand out.
 
-First, a text in the prophet Zechariah describes {{% bible val="several horses of different colors patrolling the earth" link="zec:1,8-15" lang="en" %}}. A few chapters later, {{% bible val="four chariots of different colors reflect the winds of the earth" link="zec:6,1-8" lang="en" %}}. And the description of the {{% bible val="four plagues of God" link="ezk:14,12-23" lang="en" %}} — sword, famine, wild beasts, and pestilence — closely resembles the activities of these four horses; note that the most direct echo is actually the fourth horseman alone, who in Rev 6:8 is given power to kill "by sword, famine and plague, and by the wild beasts" — nearly all four Ezekiel judgments in a single verse.
+First, a text in the prophet Zechariah describes {{% bible val="several horses of different colors patrolling the earth" link="zec:1,8-15" lang="en" %}}. A few chapters later, {{% bible val="four chariots of different colors are the four winds of heaven" link="zec:6,1-8" lang="en" %}}. And the description of the {{% bible val="four plagues of God" link="ezk:14,12-23" lang="en" %}} — sword, famine, wild beasts, and pestilence — closely resembles the activities of these four horses; note that the most direct echo is actually the fourth horseman alone, who in Rev 6:8 is given power to kill "by sword, famine and plague, and by the wild beasts" — nearly all four Ezekiel judgments in a single verse.
 
 Looking at the horsemen themselves, we see both similarities and differences between them. All four are called to act; none of them act on their own. Each rider is given some item to act with. Yet the first horseman is uniquely marked out by a doubled verb in the Greek — he "rides out conquering, and in order that he might conquer" — an emphatic construction not used for the others. The activity of the first rider stays vague ("conquer"), while for the others it is spelled out clearly: bring war, hunger, and death.
 

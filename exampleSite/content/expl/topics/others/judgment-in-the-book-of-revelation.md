@@ -1,5 +1,5 @@
 ---
-title: "Judgment in the book of revelation"
+title: "Judgment in the book of Revelation"
 themes: ["judgment"]
 weight: 7
 prev: /expl/topics/others/why-so-many-believe-in-the-rapture

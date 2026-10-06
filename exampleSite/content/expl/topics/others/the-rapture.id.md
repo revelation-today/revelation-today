@@ -107,7 +107,7 @@ Menafsirkan {{% bible val="perumpamaan tentang pohon ara" link="mat:24,32" lang=
 ## Sebuah Tempat bagi Kita
 
 <a name="6812"></a>
-"[Janganlah gelisah hatimu; percayalah kepada Allah, percayalah juga kepada-Ku. Di rumah Bapa-Ku banyak tempat tinggal. Jika tidak demikian, tentu Aku mengatakannya kepadamu. Sebab Aku pergi ke situ untuk menyediakan tempat bagimu.](https://www.bibleserver.com/NIV/John14%3A1-2)"
+"{{% bible val="Janganlah gelisah hatimu; percayalah kepada Allah, percayalah juga kepada-Ku. Di rumah Bapa-Ku banyak tempat tinggal. Jika tidak demikian, tentu Aku mengatakannya kepadamu. Sebab Aku pergi ke situ untuk menyediakan tempat bagimu." link="jhn:14,1-2" lang="ind" %}}"
 
 Bagaimana hubungan ayat ini dengan pengangkatan? Asumsinya adalah bahwa "tempat-tempat tinggal" ini adalah tempat orang-orang percaya akan menunggu selama kesengsaraan besar berlangsung.
 

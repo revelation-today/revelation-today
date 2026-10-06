@@ -1,5 +1,5 @@
 ---
-title: "Gods army and the seven angels"
+title: "God's army and the seven angels"
 weight: 2
 base: /quick/content/harvest
 story: /story/general/tour
@@ -80,7 +80,7 @@ So the two harvests lay out the two outcomes for the nations: the grain is gathe
 <a name="5102"></a>
 The next scene draws us into a new exodus, signaled by the sea of glass — an echo of the parting of the Red Sea — and by the song of Moses and the song of the Lamb sung together:
 
-"[Great and marvelous are your deeds, Lord God Almighty. Just and true are your ways, King of the nations. Who will not fear you, Lord, and bring glory to your name? For you alone are holy. All nations will come and worship before you, for your righteous acts have been revealed.](https://www.bibleserver.com/NIV/Revelation15%3A3-4)"
+"{{% bible val="Great and marvelous are your deeds, Lord God Almighty. Just and true are your ways, King of the nations. Who will not fear you, Lord, and bring glory to your name? For you alone are holy. All nations will come and worship before you, for your righteous acts have been revealed." link="rev:15,3-4" lang="en" %}}"
 
 {{% bible val="The original song of Moses describes the praise that followed the miracle at the Red Sea" link="exo:15,1-19" lang="en" %}}, but the words sung here are quite different from what Moses actually said — so the label "song of Moses" is doing more than just naming a source; it's drawing a deliberate parallel.
 

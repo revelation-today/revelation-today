@@ -7,7 +7,7 @@ expl: /expl/content/witnesses/the-two-witnesses
 prev: /quick/content/scroll
 next: /quick/content/jesus
 deeper:
-    - name: The secret of the 3,5 years
+    - name: The secret of the 3.5 years
       link:  /expl/bible/daniel/the-secret-of-the-3-5-years
 docType: quick
 kids: /kids/elementary/09-the-two-witnesses

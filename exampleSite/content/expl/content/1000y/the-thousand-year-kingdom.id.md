@@ -31,7 +31,7 @@ Kerajaan Seribu Tahun dalam Wahyu pasal 20 telah melahirkan lebih banyak teori y
 
 ada baiknya beberapa pertanyaan berikut ini diingat sejak awal, sebab pertanyaan-pertanyaan ini menyingkapkan asumsi-asumsi yang dibawa kebanyakan pembaca ke bagian ini tanpa disadari:
 
-- [Siapa yang akan memerintah atas siapa, dan di mana?](https://www.bibleserver.com/NIV/Revelation20%3A4)
+- {{% bible val="Siapa yang akan memerintah atas siapa, dan di mana?" link="rev:20,4" lang="ind" %}}
 - Mengapa tidak langsung ada langit baru dan bumi baru — untuk apa teks ini masih memerlukan masa seribu tahun di antaranya, jika alternatifnya hanyalah keadaan kekal itu sendiri yang langsung dimulai?
 - Di mana lagi dalam Alkitab konsep kerajaan 1000 tahun ini muncul, di luar {{% bible val="satu ayat ini" link="rev:20,4" lang="ind" %}}?
 - {{% bible val="Pemerintahan" link="mat:20,20-28" lang="ind" %}} macam apa sebenarnya yang kita asumsikan terjadi selama 1000 tahun itu?

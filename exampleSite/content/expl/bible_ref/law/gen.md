@@ -37,7 +37,7 @@ docType: expl
 | {{% bible val="Genesis:11,1-9" link="gen:11,1-9" lang="en" %}} | ["The Core Teaching": Genesis 11:1-9](/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#the-core-teaching) |
 | {{% bible val="Genesis:11,1-9" link="gen:11,1-9" lang="en" %}} | ["The Core Teaching": Genesis 11:2](/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#the-core-teaching) |
 | {{% bible val="Genesis:11,27-31" link="gen:11,27-31" lang="en" %}} | ["The patriarch": Terah who had three sons: Haran, Abram and Nahor. When Haran dies, he leaves a son](/expl/background/israel/the-role-of-family-in-the-bible#7e2f) |
-| {{% bible val="Genesis:11,31" link="gen:11,31" lang="en" %}} | ["The story before Karkemish": Abraham came from](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#9897) |
+| {{% bible val="Genesis:11,31" link="gen:11,31" lang="en" %}} | ["The story before Carchemish": Abraham came from](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#9897) |
 | {{% bible val="Genesis:12,1-3" link="gen:12,1-3" lang="en" %}} | ["The garden of Eden as a place of fellowship with God": God chooses to make a name for Abraham](/expl/bible/creation/the-temple-and-the-presence-of-god#the-garden-of-eden-as-a-place-of-fellowship-with-god) |
 | {{% bible val="Genesis:12,1-4" link="gen:12,1-4" lang="en" %}} | ["The patriarch": Abram takes care of](/expl/background/israel/the-role-of-family-in-the-bible#7e2f) |
 | {{% bible val="Genesis:12,2-3" link="gen:12,2-3" lang="en" %}} | ["Origin of the Day of the Lord": covenant was to be a blessing to all nations](/expl/background/israel/the-day-of-the-lord#674e) |

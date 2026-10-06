@@ -64,7 +64,7 @@ The heading names the two Greek verbs that reveal the book's own stated purpose:
 This is the same word used in the Greek of Daniel for the interpretation of a symbolic vision, and outside Revelation it appears only 5 times in the New Testament.
 
 - Once in a generic sense, meaning simply to {{% bible val="specify" link="act:25,27" lang="en" %}}.
-- Once describing a potentially {{% bible val="symbolic prophecy" link="act:11,28" lang="en" %}}, tied to the {{% bible val="symbolic significance of that same prophet" link="act:21,10-11" lang="en" %}}.
+- Once of {{% bible val="Agabus' prophecy of a famine" link="act:11,28" lang="en" %}}, the same Agabus who later {{% bible val="acts out his message with Paul's belt" link="act:21,10-11" lang="en" %}}.
 - Three more times in John, pointing ahead to the kind of death someone would die: Jesus's death on the cross in chapters {{% bible val="12" link="jhn:12,33" lang="en" %}} and {{% bible val="18" link="jhn:18,32" lang="en" %}}, and Peter's death in chapter {{% bible val="21" link="jhn:21,19" lang="en" %}}.
 
 The related noun is often used for Jesus's miracles as signs pointing to his character or mission. For example:

@@ -80,7 +80,7 @@ Jadi kedua tuaian itu memaparkan dua kesudahan bagi bangsa-bangsa: gandum dikump
 <a name="6689"></a>
 Adegan berikutnya membawa kita ke dalam sebuah keluaran baru, ditandai oleh lautan kaca — sebuah gema dari terbelahnya Laut Merah — dan oleh nyanyian Musa dan nyanyian Anak Domba yang dinyanyikan bersama:
 
-"[Besar dan ajaib segala pekerjaan-Mu, ya Tuhan, Allah, Yang Mahakuasa! Adil dan benar segala jalan-Mu, ya Raja segala bangsa! Siapakah yang tidak takut, ya Tuhan, dan yang tidak memuliakan nama-Mu? Sebab Engkau saja yang kudus, sebab semua bangsa akan datang sujud menyembah Engkau, sebab telah nyata segala penghakiman-Mu yang adil.](https://www.bibleserver.com/NIV/Revelation15%3A3-4)"
+"{{% bible val="Besar dan ajaib segala pekerjaan-Mu, ya Tuhan, Allah, Yang Mahakuasa! Adil dan benar segala jalan-Mu, ya Raja segala bangsa! Siapakah yang tidak takut, ya Tuhan, dan yang tidak memuliakan nama-Mu? Sebab Engkau saja yang kudus, sebab semua bangsa akan datang sujud menyembah Engkau, sebab telah nyata segala penghakiman-Mu yang adil." link="rev:15,3-4" lang="ind" %}}"
 
 {{% bible val="Nyanyian Musa yang asli menggambarkan pujian yang menyertai mukjizat di Laut Merah" link="exo:15,1-19" lang="ind" %}}, tetapi kata-kata yang dinyanyikan di sini cukup berbeda dari apa yang sebenarnya dikatakan Musa — jadi sebutan "nyanyian Musa" bukan sekadar menyebut sumbernya; sebutan itu sengaja menarik sebuah paralel.
 

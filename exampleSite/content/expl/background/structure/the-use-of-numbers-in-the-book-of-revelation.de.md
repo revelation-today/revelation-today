@@ -81,7 +81,7 @@ Für die Namen Satans, des Tieres oder des falschen Propheten gibt es kein solch
 <a name="d8d4"></a>
 Auch Zwölf steht für Vollständigkeit, verbunden mit Einheit in Vielfalt, da das Volk Israel aus zwölf Stämmen bestand. Die zwölf Apostel spiegeln dasselbe Muster im Neuen Testament.
 
-{{% bible val="Zwölf wird in der Offenbarung quadriert und mit 1000 multipliziert" link="rev:7,4-8" lang="de" %}}, um Vollständigkeit in noch größerem Maßstab zu zeigen. Die Zahl ist so bedeutsam, dass "zwölf" selbst zwölfmal in der Beschreibung des Neuen Jerusalems vorkommt und damit ein Bild der endzeitlichen Vollständigkeit der Heiligen zeichnet — zusammen mit den [3×4 Toren](https://www.bibleserver.com/NIV/Revelation21%3A13) und den {{% bible val="12 kostbaren Steinen" link="rev:21,19-20" lang="de" %}}.
+{{% bible val="Zwölf wird in der Offenbarung quadriert und mit 1000 multipliziert" link="rev:7,4-8" lang="de" %}}, um Vollständigkeit in noch größerem Maßstab zu zeigen. Die Zahl ist so bedeutsam, dass "zwölf" selbst zwölfmal in der Beschreibung des Neuen Jerusalems vorkommt und damit ein Bild der endzeitlichen Vollständigkeit der Heiligen zeichnet — zusammen mit den {{% bible val="3×4 Toren" link="rev:21,13" lang="de" %}} und den {{% bible val="12 kostbaren Steinen" link="rev:21,19-20" lang="de" %}}.
 
 ## Andere Zahlen
 

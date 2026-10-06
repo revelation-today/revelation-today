@@ -1,5 +1,5 @@
 ---
-title: "The 70 year weeks"
+title: "The seventy weeks"
 weight: 40
 base: /quick/bible/daniel
 prev: /expl/bible/daniel/the-son-of-man-and-the-remnant
@@ -12,7 +12,7 @@ sources:
       ref: beale_rev
 ---
 
-The 70 year weeks are one of the most mysterious parts of the Bible, and they've generated no shortage of interesting interpretations about the end times. Let's take a closer look at what this is all about. This article follows the long-standing reading that the seventy weeks lead to the Messiah. Two other readings are common.[^weeks] There are many ways of counting the weeks, and none of them is without problems. The one set out here is the one I find most convincing.
+The seventy weeks are one of the most mysterious parts of the Bible, and they've generated no shortage of interesting interpretations about the end times. Let's take a closer look at what this is all about. This article follows the long-standing reading that the seventy weeks lead to the Messiah. Two other readings are common.[^weeks] There are many ways of counting the weeks, and none of them is without problems. The one set out here is the one I find most convincing.
 
 ## What is a year week
 
@@ -41,7 +41,7 @@ Verse 24 lays out six things these 490 years are meant to accomplish:
 
 Taken together, these six goals go far beyond anything achieved in history except what Jesus did on the cross: he paid for all sin, wrote God's commandments on our hearts through the Holy Spirit, and much more besides.
 
-## The 70 years
+## The seventy weeks
 
 <a name="6576"></a>
 Now let's break down the rest of the passage. It divides the 70 weeks into three parts: 7 weeks (from the word to rebuild Jerusalem to Cyrus), 62 weeks (the rebuilt city stands), and 1 final week (to finish everything). The weeks are real years, but they are not counted without a break: twice the count pauses.[^pause]
@@ -87,4 +87,4 @@ This is the moment the church begins to follow Jesus in full — the new covenan
 [^weeks]: Critical scholarship ends the weeks with Antiochus IV and takes the anointed one who is "cut off" as the high priest Onias III (died 171 BC). Dispensational readers place the last week in the future, after a long gap.
 [^pause]: The scheme follows Gerhard Maier, *Der Prophet Daniel* (Wuppertaler Studienbibel), pp. 345–347, 354: seven weeks from Jeremiah's word in 588/7 BC to Cyrus in 539/8 BC; the sixty-two weeks count only from the time Jerusalem stood again, about 440 BC, and reach 6 BC; the last week is AD 27–34. Between these periods the weeks do not run on. Others count without a break from Artaxerxes (445/444 BC), or read the numbers as symbolic (Baldwin, *Daniel*, pp. 171, 176; Goldingay, *Daniel*, pp. 484–485).
 [^he]: Maier, p. 349. Others take "he" as the Anointed One (M. G. Kline, "The Covenant of the Seventieth Week", 1974) or as the hostile ruler (Baldwin, p. 171).
-[^third]: Maier, pp. 352–354, speaks of a second fulfilment in AD 66–73 and expects a third in a future time of the Antichrist (Rev 12:6, 14; 13:5). This site differs on the third: Revelation takes up Daniel's half week and makes it a picture of the whole time between the first and the second coming of Jesus (see *The secret of the 3,5 years*). Baldwin, pp. 174–175, also sees Revelation applying the half week further.
+[^third]: Maier, pp. 352–354, speaks of a second fulfilment in AD 66–73 and expects a third in a future time of the Antichrist (Rev 12:6, 14; 13:5). This site differs on the third: Revelation takes up Daniel's half week and makes it a picture of the whole time between the first and the second coming of Jesus (see *The secret of the 3.5 years*). Baldwin, pp. 174–175, also sees Revelation applying the half week further.

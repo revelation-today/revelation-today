@@ -22,7 +22,7 @@ on.
 
 ## The Core Teaching
 
-The full argument is in [Gods covenant]({{< relref "expl/background/israel/gods-covenant" >}}).
+The full argument is in [God's covenant]({{< relref "expl/background/israel/gods-covenant" >}}).
 
 **How ancient covenants actually worked.** There were two basic kinds of ancient treaty. Covenants
 between equals functioned like alliances — mutual support, and the members could even be called

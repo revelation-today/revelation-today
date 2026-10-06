@@ -31,7 +31,7 @@ Das tausendjährige Reich aus Offenbarung 20 hat mehr konkurrierende Theorien he
 
 Ein paar Fragen lohnt es sich von vornherein im Kopf zu behalten, denn sie legen Annahmen offen, die die meisten Leser unbemerkt an den Text herantragen:
 
-- [Wer wird über wen herrschen, und wo?](https://www.bibleserver.com/NIV/Revelation20%3A4)
+- {{% bible val="Wer wird über wen herrschen, und wo?" link="rev:20,4" lang="de" %}}
 - Warum nicht einfach ein neuer Himmel und eine neue Erde – wozu bräuchte der Text überhaupt ein Jahrtausend dazwischen, wenn die Alternative einfach ist, dass der ewige Zustand sofort beginnt?
 - Wo sonst in der Bibel taucht das Konzept eines 1000-jährigen Reiches außerhalb {{% bible val="dieses einen Verses" link="rev:20,4" lang="de" %}} auf?
 - Was für eine {{% bible val="Art von Herrschaft" link="mat:20,20-28" lang="de" %}} nehmen wir überhaupt an, dass sie während dieser 1000 Jahre stattfindet?

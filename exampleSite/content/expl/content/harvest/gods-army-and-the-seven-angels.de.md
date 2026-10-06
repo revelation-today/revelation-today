@@ -80,7 +80,7 @@ Die beiden Ernten zeigen also die zwei Ausgänge für die Nationen: Das Getreide
 <a name="6689"></a>
 Die nächste Szene führt uns in einen neuen Exodus, angezeigt durch das gläserne Meer – ein Echo der Teilung des Roten Meeres – und durch das Lied des Mose und das Lied des Lammes, die gemeinsam gesungen werden:
 
-„[Groß und wunderbar sind deine Werke, Herr, Gott, du Allmächtiger. Gerecht und wahrhaftig sind deine Wege, König der Nationen. Wer wird dich nicht fürchten, Herr, und deinen Namen preisen? Denn du allein bist heilig. Alle Nationen werden kommen und vor dir anbeten, denn deine gerechten Taten sind offenbar geworden.](https://www.bibleserver.com/NIV/Revelation15%3A3-4)"
+„{{% bible val="Groß und wunderbar sind deine Werke, Herr, Gott, du Allmächtiger. Gerecht und wahrhaftig sind deine Wege, König der Nationen. Wer wird dich nicht fürchten, Herr, und deinen Namen preisen? Denn du allein bist heilig. Alle Nationen werden kommen und vor dir anbeten, denn deine gerechten Taten sind offenbar geworden." link="rev:15,3-4" lang="de" %}}"
 
 {{% bible val="Das ursprüngliche Lied des Mose beschreibt das Lob, das dem Wunder am Roten Meer folgte" link="exo:15,1-19" lang="de" %}}, aber die hier gesungenen Worte unterscheiden sich deutlich von dem, was Mose tatsächlich sagte – die Bezeichnung „Lied des Mose" tut also mehr, als nur eine Quelle zu benennen; sie zieht eine bewusste Parallele.
 

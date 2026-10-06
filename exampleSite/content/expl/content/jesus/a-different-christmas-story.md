@@ -15,9 +15,9 @@ deeper:
       link:  /expl/bible/daniel/the-book-of-daniel
     - name: The four kingdoms
       link:  /expl/bible/daniel/the-four-kingdoms-in-daniel
-    - name: The 70 years
+    - name: The seventy weeks
       link:  /expl/bible/daniel/the-70-year-weeks
-    - name: "The 3,5 years"
+    - name: "The 3.5 years"
       link:  /expl/bible/daniel/the-secret-of-the-3-5-years
 sources: 
     - pages: 621–681

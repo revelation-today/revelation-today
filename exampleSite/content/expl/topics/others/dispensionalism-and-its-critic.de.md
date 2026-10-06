@@ -1,5 +1,5 @@
 ---
-title: "Kritik am Dispensionalismus"
+title: "Kritik am Dispensationalismus"
 themes: ["Dispensationalismus"]
 weight: 2
 prev: /expl/topics/others/dispensionalism-a-little-history
@@ -13,25 +13,25 @@ sources:
       ref: goreman
 ---
 
-Der Dispensionalismus wird ständig diskutiert, und er lässt sich nur schwer greifen, weil er in so vielen Spielarten vorkommt. Im Folgenden stehen einige scharf umrissene, konkrete Kritikpunkte — darunter auch einige, die sich gegen „Left Behind” richten, die Variante, die die meisten Leser tatsächlich kennen werden.
+Der Dispensationalismus wird ständig diskutiert, und er lässt sich nur schwer greifen, weil er in so vielen Spielarten vorkommt. Im Folgenden stehen einige scharf umrissene, konkrete Kritikpunkte — darunter auch einige, die sich gegen „Left Behind” richten, die Variante, die die meisten Leser tatsächlich kennen werden.
 
-Gerade wegen dieser Vielfalt ist es schwer, den Dispensionalismus als Ganzes zu kritisieren, aber die folgenden Punkte versuchen, scharf und konkret zu bleiben, statt ein vages Zerrbild anzugreifen.
+Gerade wegen dieser Vielfalt ist es schwer, den Dispensationalismus als Ganzes zu kritisieren, aber die folgenden Punkte versuchen, scharf und konkret zu bleiben, statt ein vages Zerrbild anzugreifen.
 
-Vorab sei angemerkt: Das meiste, was folgt — vor allem die politischen Kritikpunkte gegen Ende und die pauschale Ablehnung einer künftigen Entrückung — bezieht sich auf die klassische, populär bekannte Form des Dispensionalismus: Scofield, Lindsey, „Left Behind" — die Variante, die die meisten Leser tatsächlich kennen werden. Seit den 1980er Jahren hat ein „progressiver Dispensionalismus" (verbunden mit Theologen wie Craig Blaising, Darrell Bock und Robert Saucy) vieles davon überarbeitet: eine engere Beziehung zwischen Israel und der Gemeinde, weniger starre Wörtlichkeit und eine ernsthafte Auseinandersetzung mit dem weiteren wissenschaftlichen Gespräch. Die Kritik an der hermeneutischen Inkonsequenz und am Literaturverständnis unten trifft weiterhin breit auf die ganze Familie zu; die politische Kritik und die Kritik an Gemeinde/Israel treffen präziser die ältere, populärere Form.
+Vorab sei angemerkt: Das meiste, was folgt — vor allem die politischen Kritikpunkte gegen Ende und die pauschale Ablehnung einer künftigen Entrückung — bezieht sich auf die klassische, populär bekannte Form des Dispensationalismus: Scofield, Lindsey, „Left Behind" — die Variante, die die meisten Leser tatsächlich kennen werden. Seit den 1980er Jahren hat ein „progressiver Dispensationalismus" (verbunden mit Theologen wie Craig Blaising, Darrell Bock und Robert Saucy) vieles davon überarbeitet: eine engere Beziehung zwischen Israel und der Gemeinde, weniger starre Wörtlichkeit und eine ernsthafte Auseinandersetzung mit dem weiteren wissenschaftlichen Gespräch. Die Kritik an der hermeneutischen Inkonsequenz und am Literaturverständnis unten trifft weiterhin breit auf die ganze Familie zu; die politische Kritik und die Kritik an Gemeinde/Israel treffen präziser die ältere, populärere Form.
 
 ## Wörtlich, aber nicht konsequent wörtlich
 
 <a name="7102"></a>
-Der Dispensionalismus ist stolz darauf, die Bibel wörtlich zu lesen, was auf den ersten Blick verantwortungsbewusst klingt. Das Problem ist, dass dieser Ansatz nicht widerspiegelt, wie die Literatur der Bibel in jedem Fall tatsächlich funktioniert.
+Der Dispensationalismus ist stolz darauf, die Bibel wörtlich zu lesen, was auf den ersten Blick verantwortungsbewusst klingt. Das Problem ist, dass dieser Ansatz nicht widerspiegelt, wie die Literatur der Bibel in jedem Fall tatsächlich funktioniert.
 
 Man nehme das Hohelied, das durch und durch poetische Literatur ist. Liest man es mit flacher Wörtlichkeit, hat Sulamith am Ende {{% bible val="Tauben als Augen und einen Turm als Hals" link="sng:4,1-4" lang="de" %}} — offenkundig nicht die Absicht des Textes. Mehrere andere Stellen tragen dasselbe Warnsignal, darunter eine, bei der der Text selbst anzeigt, dass er nicht {{% bible val="wörtlich" link="isa:55,12" lang="de" %}} gemeint ist.
 
-Bezeichnender noch: Dispensionalisten wenden ihr eigenes Prinzip nicht einmal konsequent an. Sie stimmen zum Beispiel zu, dass {{% bible val="das Tier keine sieben Köpfe und zehn Hörner haben wird" link="rev:13,1" lang="de" %}} in irgendeinem wörtlichen, sichtbaren Sinn. Und wenn {{% bible val="Gog und Magog" link="rev:20,8" lang="de" %}} zusammen mit einem Hinweis darauf auftauchen, dass {{% bible val="Gott Bogen und Pfeile zerstört" link="ezk:39,3" lang="de" %}}, deuten Dispensionalisten „Bogen und Pfeile” bereitwillig als Flugzeuge und Raketen — ein durch und durch unwörtlicher Schritt für eine Hermeneutik, die Wörtlichkeit als ihr Markenzeichen beansprucht.
+Bezeichnender noch: Dispensationalisten wenden ihr eigenes Prinzip nicht einmal konsequent an. Sie stimmen zum Beispiel zu, dass {{% bible val="das Tier keine sieben Köpfe und zehn Hörner haben wird" link="rev:13,1" lang="de" %}} in irgendeinem wörtlichen, sichtbaren Sinn. Und wenn {{% bible val="Gog und Magog" link="rev:20,8" lang="de" %}} zusammen mit einem Hinweis darauf auftauchen, dass {{% bible val="Gott Bogen und Pfeile zerstört" link="ezk:39,3" lang="de" %}}, deuten Dispensationalisten „Bogen und Pfeile” bereitwillig als Flugzeuge und Raketen — ein durch und durch unwörtlicher Schritt für eine Hermeneutik, die Wörtlichkeit als ihr Markenzeichen beansprucht.
 
 ## Eine Theorie, die die Literatur selbst missversteht
 
 <a name="0bf6"></a>
-Das tiefere Problem ist, dass die Theorie nicht berücksichtigt, mit welcher Art von Literatur sie es zu tun hat. Die Offenbarung ist eine apokalyptische, prophetische Sammlung von Briefen, keine Chronik — doch der Dispensionalismus legt sie aus, als wäre sie eine schlichte Beschreibung der Geschichte, die sich der Reihe nach entfaltet.
+Das tiefere Problem ist, dass die Theorie nicht berücksichtigt, mit welcher Art von Literatur sie es zu tun hat. Die Offenbarung ist eine apokalyptische, prophetische Sammlung von Briefen, keine Chronik — doch der Dispensationalismus legt sie aus, als wäre sie eine schlichte Beschreibung der Geschichte, die sich der Reihe nach entfaltet.
 
 ## Eine Theorie ohne Relevanz für die ersten Leser
 
@@ -71,7 +71,7 @@ Die Behauptung, es werde buchstäblich ein neues Tempelgebäude errichtet, ergib
 
 Eine ernstzunehmendere Version dieses Arguments stützt sich gar nicht auf Offenbarung 11, sondern auf {{% bible val="Hesekiels detaillierte Vision eines wiederaufgebauten Tempels, komplett mit Maßangaben und einem wiederhergestellten Opfersystem" link="ezk:40,1-4" lang="de" %}} — den eigentlichen Ankerpunkt der meisten Erwartungen eines dritten Tempels, und einen Text, den die Offenbarung selbst nie direkt aufgreift. Das verdient eine echte Antwort, keine Umgehung über Offenbarung 11.
 
-Zwei Dinge sind bemerkenswert. Erstens widersetzt sich Hesekiels eigene Vision aus sich selbst heraus einer rein wörtlichen Lesart: Der {{% bible val="Fluss, der vom Tempel ausgeht, vertieft sich innerhalb weniger tausend Ellen von einem Rinnsal zu einem Fluss, der zu tief zum Durchqueren ist" link="ezk:47,1-5" lang="de" %}}, und {{% bible val="der Berg, auf dem der Tempel steht" link="ezk:40,2" lang="de" %}}, entspricht nicht der tatsächlichen Geographie Jerusalems — beides deutet darauf hin, dass dies, wie das kubische Neue Jerusalem der Offenbarung selbst, eine symbolische Vision der wiederhergestellten Anbetung und der Gegenwart Gottes ist, die sich der Architektur bedient, die sich die Exilierten vorstellen konnten, kein Bauplan. Zweitens steht ein buchstäblich wiederaufgebauter Tempel mit einem buchstäblich wiederhergestellten Opfersystem in echter Spannung zu dem Argument des Hebräerbriefs, dass {{% bible val="Christi einziges Opfer die Notwendigkeit wiederholter Opfergaben beendet hat" link="heb:10,1-14" lang="de" %}} — eine Spannung, die Dispensionalisten selbst unterschiedlich auflösen (manche lesen Hesekiels Opfer als Gedenkopfer statt als Sühnopfer), was selbst ein Zeichen dafür ist, dass die Stelle schwieriger ist, als eine bloße Lesart „es gibt Maßangaben, also muss es wörtlich sein" zulässt.
+Zwei Dinge sind bemerkenswert. Erstens widersetzt sich Hesekiels eigene Vision aus sich selbst heraus einer rein wörtlichen Lesart: Der {{% bible val="Fluss, der vom Tempel ausgeht, vertieft sich innerhalb weniger tausend Ellen von einem Rinnsal zu einem Fluss, der zu tief zum Durchqueren ist" link="ezk:47,1-5" lang="de" %}}, und {{% bible val="der Berg, auf dem der Tempel steht" link="ezk:40,2" lang="de" %}}, entspricht nicht der tatsächlichen Geographie Jerusalems — beides deutet darauf hin, dass dies, wie das kubische Neue Jerusalem der Offenbarung selbst, eine symbolische Vision der wiederhergestellten Anbetung und der Gegenwart Gottes ist, die sich der Architektur bedient, die sich die Exilierten vorstellen konnten, kein Bauplan. Zweitens steht ein buchstäblich wiederaufgebauter Tempel mit einem buchstäblich wiederhergestellten Opfersystem in echter Spannung zu dem Argument des Hebräerbriefs, dass {{% bible val="Christi einziges Opfer die Notwendigkeit wiederholter Opfergaben beendet hat" link="heb:10,1-14" lang="de" %}} — eine Spannung, die Dispensationalisten selbst unterschiedlich auflösen (manche lesen Hesekiels Opfer als Gedenkopfer statt als Sühnopfer), was selbst ein Zeichen dafür ist, dass die Stelle schwieriger ist, als eine bloße Lesart „es gibt Maßangaben, also muss es wörtlich sein" zulässt.
 
 ## Die Trübsal
 

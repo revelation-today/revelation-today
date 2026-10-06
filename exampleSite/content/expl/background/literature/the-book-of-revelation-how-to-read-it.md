@@ -75,7 +75,7 @@ That thought isn't wrong exactly, but when it comes to the prophetic books of th
 Old Testament prophetic literature was grounded in the covenant made at Mount Sinai. There, God didn't hand people a mere list of rules — he gave them an entire way of thinking. He established that:
 
 - we are all equal before the law,
-- we should show mercy to the helpless, {{% bible val="just as Israel itself had once been enslaved" link="exo:20,2" lang="en" %}} and {{% bible val="God protects the helpless" link="deu:10,18" lang="en" %}}, as in {{% bible val="Lev 23:22" link="lev:23,22" lang="en" %}},
+- we should show mercy to the helpless, as in {{% bible val="Lev 23:22" link="lev:23,22" lang="en" %}}: {{% bible val="Israel itself was once enslaved" link="exo:20,2" lang="en" %}}, and {{% bible val="God protects the helpless" link="deu:10,18" lang="en" %}},
 - and the most important law is {{% bible val="to love God" link="deu:6,5" lang="en" %}} and {{% bible val="to love your neighbor" link="lev:19,18" lang="en" %}} — a command {{% bible val="confirmed in the New Testament, where we learn that everyone is our neighbor" link="luk:10,25-37" lang="en" %}}.
 
 When the people abandoned these principles, the prophets were bound to call them back. Their basic message ran:
@@ -149,5 +149,5 @@ Reading the book well means holding three things together at once. Revelation is
 
 What the book is *not*:
 
-- a look into the far future (from the vantage of its ancient listeners) describing events that would have no bearing on them at all.
+- a look into a future so far from its first listeners that the events would have had no bearing on them at all.
 - a straightforward description of what the future will look like.

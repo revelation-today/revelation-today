@@ -81,7 +81,7 @@ Eğer {{% bible val="yedi gök gürlemesi" link="rev:10,2-7" lang="tr" %}} başk
 <a name="601b"></a>
 On iki de aynı şekilde eksiksizliği, çeşitlilik içindeki birlikle birlikte temsil eder; çünkü İsrail halkı on iki kabileden oluşuyordu. On iki havari, Yeni Antlaşma'da aynı örüntüyü yansıtır.
 
-{{% bible val="Vahiy'de on iki, karesi alınıp 1000 ile çarpılarak" link="rev:7,4-8" lang="tr" %}} çok daha büyük bir ölçekte eksiksizliği göstermek için kullanılır. Sayı o kadar önemlidir ki, Yeni Yeruşalim'in tasvirinde "on iki" kelimesinin kendisi on iki kez geçer; bu da azizlerin son zaman eksiksizliğinin bir resmini çizer — [3×4 kapı](https://www.bibleserver.com/NIV/Revelation21%3A13) ve {{% bible val="12 değerli taşla" link="rev:21,19-20" lang="tr" %}} birlikte.
+{{% bible val="Vahiy'de on iki, karesi alınıp 1000 ile çarpılarak" link="rev:7,4-8" lang="tr" %}} çok daha büyük bir ölçekte eksiksizliği göstermek için kullanılır. Sayı o kadar önemlidir ki, Yeni Yeruşalim'in tasvirinde "on iki" kelimesinin kendisi on iki kez geçer; bu da azizlerin son zaman eksiksizliğinin bir resmini çizer — {{% bible val="3×4 kapı" link="rev:21,13" lang="tr" %}} ve {{% bible val="12 değerli taşla" link="rev:21,19-20" lang="tr" %}} birlikte.
 
 ## Diğer sayılar
 

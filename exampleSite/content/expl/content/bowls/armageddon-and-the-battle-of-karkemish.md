@@ -1,5 +1,5 @@
 ---
-title: "Armageddon and the battle of Karkemish"
+title: "Armageddon and the battle of Carchemish"
 weight: 4
 base: /quick/content/harvest
 story: /story/general/tour
@@ -12,7 +12,7 @@ appl: /appl/content/bowls
 
 What does one of the most important battles in the first-millennium-B.C. Middle East have to do with the end-time battle tied to the end of the world? More than just the word "battle," as it turns out.
 
-## The story before Karkemish
+## The story before Carchemish
 
 <a name="9897"></a>
 The story begins in 612 B.C., when the Babylonians, together with the Medes, overran Nineveh, the former capital of the Assyrians. The prophet {{% bible val="Nahum" link="nam:1" lang="en" %}} condemns Nineveh for its violence and idolatry in its own right; it's tempting to read the fall alongside the earlier repentance under {{% bible val="Jonah" link="jon:1" lang="en" %}}, as if the change hadn't lasted — though Nahum's own oracle doesn't make that connection explicit.
@@ -21,25 +21,25 @@ The surviving Assyrians retreated to Haran — the same place {{% bible val="Abr
 
 Around the same time, {{% bible val="there was a battle near Megiddo where Josiah, king of Judah, fought against Necho, Pharaoh of Egypt" link="2ch:35,20-25" lang="en" %}}. Josiah died in that battle, but not before he had delayed Necho on his way to reinforce the Assyrians at Haran.
 
-## The battle of Karkemish and its consequences
+## The battle of Carchemish and its consequences
 
 <a name="ae51"></a>
-After defeating the Assyrians at Haran, the Babylonian Empire went on to crush the remaining forces of Assyria and Egypt at the [Battle of Karkemish in 605 B.C.](https://en.wikipedia.org/wiki/Battle_of_Carchemish), fought under [Nebuchadnezzar](https://en.wikipedia.org/wiki/Nebuchadnezzar_II), who commanded the Babylonian army as crown prince before becoming king himself later that year.
+After defeating the Assyrians at Haran, the Babylonian Empire went on to crush the remaining forces of Assyria and Egypt at the [Battle of Carchemish in 605 B.C.](https://en.wikipedia.org/wiki/Battle_of_Carchemish), fought under [Nebuchadnezzar](https://en.wikipedia.org/wiki/Nebuchadnezzar_II), who commanded the Babylonian army as crown prince before becoming king himself later that year.
 
 That battle sealed the fall of both the Assyrian and Egyptian empires — Assyria vanished, and Egypt never again ruled the region — and marked the beginning of Babel's rise.
 
 Judah fell under Babylonian rule, rebelled several times over the next twenty years, and finally went into exile in 587 B.C. The northern kingdom of Israel had already suffered exile under the Assyrians in 722 B.C., under Shalmaneser V and Sargon II, who scattered those families so thoroughly that the northern tribes never returned as tribes, though many of their people found their way to Judah (2 Chr 30:1–11). The tribes exiled under Babel fared differently: they were kept together, which meant they were able to come {{% bible val="back to Israel" link="ezr:1,1-3" lang="en" %}} in 537 B.C. and still exist today.
 
-It's tempting to wonder what would have happened if Josiah hadn't delayed Necho at Megiddo — though by 609 B.C. Assyria was already a spent force retreating to its last stronghold at Haran, so the real stakes of the following years were less about an Assyrian comeback than about who would inherit the region after Assyria's fall: Egypt or Babel. Babel's actual victory at Karkemish came four years later, in 605 B.C., after campaigns of its own that had nothing to do with Josiah's stand.
+It's tempting to wonder what would have happened if Josiah hadn't delayed Necho at Megiddo — though by 609 B.C. Assyria was already a spent force retreating to its last stronghold at Haran, so the real stakes of the following years were less about an Assyrian comeback than about who would inherit the region after Assyria's fall: Egypt or Babel. Babel's actual victory at Carchemish came four years later, in 605 B.C., after campaigns of its own that had nothing to do with Josiah's stand.
 
-## Armageddon and Karkemish
+## Armageddon and Carchemish
 
 <a name="3991"></a>
 So what does all of this have to do with the Battle of {{% bible val="Armageddon" link="rev:16,12-16" lang="en" %}}? Several threads connect them.
 
 The Babylonians are indirectly present in the Battle of Armageddon too, through the mention of the Euphrates River. And the name itself points the same direction: among the proposed derivations of the name (see {{% int_link val="The key to Armageddon" link="/expl/content/bowls/the-key-to-armageddon" %}}), Armageddon can be translated "the mountain of Megiddo" — exactly where Josiah made his stand against Necho.
 
-The parallel goes deeper than the shared location. Battles don't actually take place on a mountain — armies assemble there, and the fighting happens in the valley below. The Battle of Megiddo was the staging ground for the Battle of Karkemish, just as Armageddon is not itself the site of the battle but the gathering point for an army that will later be defeated {{% bible val="by Jesus" link="rev:19,11-21" lang="en" %}}.
+The parallel goes deeper than the shared location. Battles don't actually take place on a mountain — armies assemble there, and the fighting happens in the valley below. The Battle of Megiddo was the staging ground for the Battle of Carchemish, just as Armageddon is not itself the site of the battle but the gathering point for an army that will later be defeated {{% bible val="by Jesus" link="rev:19,11-21" lang="en" %}}.
 
 Both places, too, describe the protection of God's people — Megiddo because it spared Judah's tribes from dispersion, Armageddon because it sets the stage for Jesus's final victory. And there's a striking echo in how that protection is won: Jesus, who died on the cross, defeats the army assembled at Armageddon, and Josiah, centuries earlier, gave his own life on a battlefield. The Bible does not say what his death achieved. But it is worth reflecting that Judah, unlike the northern tribes, was not scattered for good — and that the royal line through which the Messiah came survived.
 

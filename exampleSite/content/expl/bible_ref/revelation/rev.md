@@ -688,7 +688,7 @@ docType: expl
 | {{% bible val="Revelation:16,12" link="rev:16,12" lang="en" %}} | ["The eighth king": sixth bowl](/expl/content/beasts/666-the-number-of-the-beast#22e8) |
 | {{% bible val="Revelation:16,12" link="rev:16,12" lang="en" %}} | ["The sixth bowl": The river Euphrates was dried up to make way for the kings of the East.](/expl/content/bowls/the-bowls-of-wrath#a667) |
 | {{% bible val="Revelation:16,12-14" link="rev:16,12-14" lang="en" %}} | ["The fifth and sixth trumpet": the sixth bowl](/expl/content/trumpets/the-trumpets-in-revelation#403f) |
-| {{% bible val="Revelation:16,12-16" link="rev:16,12-16" lang="en" %}} | ["Armageddon and Karkemish": Armageddon](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#3991) |
+| {{% bible val="Revelation:16,12-16" link="rev:16,12-16" lang="en" %}} | ["Armageddon and Carchemish": Armageddon](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#3991) |
 | {{% bible val="Revelation:16,12-16" link="rev:16,12-16" lang="en" %}} | ["Armageddon": Revelation 16:12-16](/quick/content/bowls#armageddon) |
 | {{% bible val="Revelation:16,12-21" link="rev:16,12-21" lang="en" %}} | ["The bowls": The sixth and seventh bowls](/expl/content/bowls/the-bowls-of-wrath#7ced) |
 | {{% bible val="Revelation:16,13" link="rev:16,13" lang="en" %}} | ["The 666 in context": the sixth bowl ](/expl/content/beasts/666-the-number-of-the-beast#2def) |
@@ -844,7 +844,7 @@ docType: expl
 | {{% bible val="Revelation:19,11-12" link="rev:19,11-12" lang="en" %}} | ["The mystery of the first horseman": victorious rider on a white horse with a crown on his head](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
 | {{% bible val="Revelation:19,11-21" link="rev:19,11-21" lang="en" %}} | ["A little word with big consequences": the final battle](/expl/content/1000y/the-thousand-year-kingdom#ed7b) |
 | {{% bible val="Revelation:19,11-21" link="rev:19,11-21" lang="en" %}} | ["Two final battles?": Jesus's battle 'before' the 1000-year kingdom](/expl/content/1000y/the-thousand-year-kingdom#1767) |
-| {{% bible val="Revelation:19,11-21" link="rev:19,11-21" lang="en" %}} | ["Armageddon and Karkemish": by Jesus](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#3991) |
+| {{% bible val="Revelation:19,11-21" link="rev:19,11-21" lang="en" %}} | ["Armageddon and Carchemish": by Jesus](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#3991) |
 | {{% bible val="Revelation:19,11-21" link="rev:19,11-21" lang="en" %}} | ["Armageddon": Revelation 19:11-21](/quick/content/bowls#armageddon) |
 | {{% bible val="Revelation:19,15" link="rev:19,15" lang="en" %}} | ["Two final battles?": sword](/expl/content/1000y/the-thousand-year-kingdom#1767) |
 | {{% bible val="Revelation:19,15" link="rev:19,15" lang="en" %}} | ["The two harvests": treads the winepress of the fury of the wrath of God Almighty](/expl/content/harvest/gods-army-and-the-seven-angels#833c) |

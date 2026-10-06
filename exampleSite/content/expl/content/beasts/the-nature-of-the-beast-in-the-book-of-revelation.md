@@ -13,7 +13,7 @@ deeper:
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: The number 666
       link:  /expl/content/beasts/666-the-number-of-the-beast
-    - name: The 3,5 years
+    - name: The 3.5 years
       link:  /expl/bible/daniel/the-secret-of-the-3-5-years
 sources: 
     - pages: 729
