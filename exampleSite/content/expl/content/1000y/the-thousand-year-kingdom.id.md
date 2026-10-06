@@ -112,8 +112,8 @@ Itu jelas menunjuk kepada langit baru dan bumi baru yang digambarkan dalam Wahyu
 
 <a name="008e"></a>
 Jika pasal 20 bukan sedang menggambarkan sebuah zaman masa depan yang terpisah, apa sebenarnya alur cerita yang sedang dijalaninya? Kisah dalam Kitab Wahyu di sini kurang lebih mengikuti bentuk penglihatan nabi Yehezkiel, yang tersusun dalam empat gerakan:
-- {{% bible val="37/1–14" link="ezk:37,1-14" lang="ind" %}}: kebangkitan umat Allah oleh Roh Kudus, yang sesuai dengan {{% bible val="kebangkitan" link="rev:20,4" lang="ind" %}} di pasal 20 — menunjuk kepada Pentakosta.
-- {{% bible val="37/15–28" link="ezk:37,15-28" lang="ind" %}}: Kerajaan Mesianik, yang sesuai dengan pemerintahan orang-orang kudus di {{% bible val="pasal 20" link="rev:20,4-6" lang="ind" %}} — masa kesaksian gereja di antara kedatangan Yesus yang pertama dan yang kedua.
+- {{% bible val="37:1–14" link="ezk:37,1-14" lang="ind" %}}: kebangkitan umat Allah oleh Roh Kudus, yang sesuai dengan {{% bible val="kebangkitan" link="rev:20,4" lang="ind" %}} di pasal 20 — menunjuk kepada Pentakosta.
+- {{% bible val="37:15–28" link="ezk:37,15-28" lang="ind" %}}: Kerajaan Mesianik, yang sesuai dengan pemerintahan orang-orang kudus di {{% bible val="pasal 20" link="rev:20,4-6" lang="ind" %}} — masa kesaksian gereja di antara kedatangan Yesus yang pertama dan yang kedua.
 - {{% bible val="38–39" link="ezk:38" lang="ind" %}}: {{% bible val="pertempuran Gog dan Magog" link="rev:20,7-10" lang="ind" %}}, yang sesuai dengan kedatangan Yesus yang kedua.
 - {{% bible val="40–48" link="ezk:40" lang="ind" %}}: penglihatan terakhir tentang bait suci baru dan Yerusalem Baru, yang sesuai dengan {{% bible val="pasal 21" link="rev:21" lang="ind" %}} — meskipun perlu dicatat bahwa Wahyu 21:22 secara eksplisit mengatakan bahwa *tidak ada* bait suci di Yerusalem Baru, "sebab Tuhan, Allah Yang Mahakuasa, dan Anak Domba adalah bait sucinya," sehingga kesesuaian ini paling tepat jika bait suci Yehezkiel yang sangat fisik itu dibaca sebagai simbol yang kemudian digenapi tanpa bangunan harfiah, bukan sebagai kesesuaian satu-lawan-satu.
 

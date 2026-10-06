@@ -60,8 +60,8 @@ Tokoh pertama mudah dikenali. Dalam ayat 9, ia disebut secara langsung sebagai "
 <a name="a89c"></a>
 Sang anak digambarkan dengan sedikit rincian, tetapi satu ciri menonjol dengan jelas: tongkat besi. Menelusuri bagian lain Alkitab, kita menemukan beberapa rujukan yang menjelaskan siapa dia sebenarnya:
 - {{% bible val="Mazmur 2" link="psa:2" lang="ind" %}} menggambarkan sebuah adegan di mana semua raja di bumi memberontak terhadap Allah, dan Allah memperingatkan mereka untuk takut kepada Anak-Nya, yang akan memerintah mereka dengan tongkat besi.
-- {{% bible val="Yesaya 11/4" link="isa:11,4" lang="ind" %}} menggambarkan Mesias yang akan datang, yang akan memukul bumi dengan tongkat dari mulut-Nya.
-- Dalam {{% bible val="Wahyu 19/15" link="rev:19,15" lang="ind" %}}, Yesus sendiri - sang penunggang yang disebut Setia dan Benar - adalah Dia yang memerintah bangsa-bangsa dengan tongkat besi.
+- {{% bible val="Yesaya 11:4" link="isa:11,4" lang="ind" %}} menggambarkan Mesias yang akan datang, yang akan memukul bumi dengan tongkat dari mulut-Nya.
+- Dalam {{% bible val="Wahyu 19:15" link="rev:19,15" lang="ind" %}}, Yesus sendiri - sang penunggang yang disebut Setia dan Benar - adalah Dia yang memerintah bangsa-bangsa dengan tongkat besi.
 
 Rujukan-rujukan ini membuat cukup jelas bahwa sang anak adalah Yesus dan bahwa ini adalah kisah kelahiran-Nya.
 

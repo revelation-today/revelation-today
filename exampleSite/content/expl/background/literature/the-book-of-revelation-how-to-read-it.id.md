@@ -75,7 +75,7 @@ Pemikiran itu tidak sepenuhnya salah, tetapi ketika menyangkut kitab-kitab nubua
 Sastra kenabian Perjanjian Lama berakar pada perjanjian yang dibuat di Gunung Sinai. Di sana, Allah tidak sekadar memberikan orang-orang sebuah daftar aturan — Ia memberi mereka seluruh cara berpikir yang baru. Ia menetapkan bahwa:
 
 - kita semua setara di hadapan hukum,
-- kita harus menunjukkan belas kasihan kepada mereka yang tidak berdaya, {{% bible val="sama seperti Israel sendiri pernah diperbudak" link="exo:20,2" lang="ind" %}} dan {{% bible val="Allah melindungi mereka yang tidak berdaya" link="deu:10,18" lang="ind" %}}, seperti dalam {{% bible val="Im.23/22" link="lev:23,22" lang="ind" %}},
+- kita harus menunjukkan belas kasihan kepada mereka yang tidak berdaya, {{% bible val="sama seperti Israel sendiri pernah diperbudak" link="exo:20,2" lang="ind" %}} dan {{% bible val="Allah melindungi mereka yang tidak berdaya" link="deu:10,18" lang="ind" %}}, seperti dalam {{% bible val="Im 23:22" link="lev:23,22" lang="ind" %}},
 - dan hukum yang terpenting adalah {{% bible val="mengasihi Allah" link="deu:6,5" lang="ind" %}} dan {{% bible val="mengasihi sesama" link="lev:19,18" lang="ind" %}} — sebuah perintah {{% bible val="yang ditegaskan dalam Perjanjian Baru, di mana kita belajar bahwa setiap orang adalah sesama kita" link="luk:10,25-37" lang="ind" %}}.
 
 Ketika umat itu meninggalkan prinsip-prinsip ini, para nabi terpanggil untuk memanggil mereka kembali. Pesan dasar mereka berbunyi:

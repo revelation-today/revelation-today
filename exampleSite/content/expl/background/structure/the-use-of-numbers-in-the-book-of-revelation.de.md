@@ -104,7 +104,7 @@ Die Zahlen 4, 7 und 12 spiegeln eine kosmische Ordnung wider, wie sie in der apo
 ## Arithmetische Betrachtungen
 
 <a name="f042"></a>
-Revelations Zahlen haben noch eine weitere Schicht: die Formen, die sie bilden.
+Die Zahlen der Offenbarung haben noch eine weitere Schicht: die Formen, die sie bilden.
 
 **Zahlen mit Gestalt.** Zur Zeit des Johannes stellte man sich Zahlen als Kieselsteine vor, die zu Figuren gelegt werden — eine alte pythagoreische Gewohnheit, gebildeten Lesern im ersten Jahrhundert vertraut (Bauckham, *Climax of Prophecy*, S. 391). Manche Zahlen bilden Dreiecke (1 + 2 + 3 …), manche Quadrate (6 × 6), manche Rechtecke (6 × 7).
 

@@ -147,7 +147,7 @@ Struktur ini meninggalkan kesan bahwa doa Yunus yang pertama bersifat munafik da
 ### Pola Simetris
 
 <a name="1bc4"></a>
-Pola ini mengikuti skema seperti a-b-b'-a', seperti dalam {{% bible val="Yes.22/22" link="isa:22,22" lang="ind" %}}, yang bermain dengan gagasan "membuka/menutup":
+Pola ini mengikuti skema seperti a-b-b'-a', seperti dalam {{% bible val="Yes 22:22" link="isa:22,22" lang="ind" %}}, yang bermain dengan gagasan "membuka/menutup":
 
 - a: ia akan membuka
 	- b: dan tidak seorang pun akan menutup
@@ -156,7 +156,7 @@ Pola ini mengikuti skema seperti a-b-b'-a', seperti dalam {{% bible val="Yes.22/
 
 Jika digambarkan, pola ini membentuk separuh kiri dari huruf X — huruf Yunani Chi — itulah sebabnya pola semacam ini disebut kiasme (chiasmus).
 
-Teknik yang sama dapat membentuk seluruh kitab dalam Alkitab, seperti dalam {{% bible val="Hak.3/7–16/31" link="jdg:3,7-16,31" lang="ind" %}}. Di sini juga, **tebal** menandai satu tema yang berulang dan *miring* menandai pasangannya, sehingga Anda dapat melihat bagaimana satuan-satuan luar saling menjawab di sekitar titik balik pusatnya:
+Teknik yang sama dapat membentuk seluruh kitab dalam Alkitab, seperti dalam {{% bible val="Hak 3:7–16:31" link="jdg:3,7-16,31" lang="ind" %}}. Di sini juga, **tebal** menandai satu tema yang berulang dan *miring* menandai pasangannya, sehingga Anda dapat melihat bagaimana satuan-satuan luar saling menjawab di sekitar titik balik pusatnya:
 
 - a: Otniel dan **istrinya** yang *baik* (3/7–11)
 	- b: Ehud dan *kemenangan* di **tempat-tempat penyeberangan Sungai Yordan** (3/12–31)

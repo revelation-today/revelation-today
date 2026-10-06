@@ -61,7 +61,7 @@ Die erste Figur ist leicht zu identifizieren. In Vers 9 wird er unverblümt bena
 Über das Kind erfahren wir wenig, aber ein Merkmal sticht deutlich hervor: das eiserne Zepter. Ein Blick auf den Rest der Bibel fördert einige Stellen zutage, die klären, um wen es sich handelt:
 - {{% bible val="Psalm 2" link="psa:2" lang="de" %}} beschreibt eine Szene, in der sich alle Könige der Erde gegen Gott auflehnen, und Gott warnt sie, seinen Sohn zu fürchten, der sie mit eisernem Zepter regieren wird.
 - {{% bible val="Jesaja 11,4" link="isa:11,4" lang="de" %}} beschreibt den kommenden Messias, der die Erde mit dem Stab seines Mundes schlagen wird.
-- In {{% bible val="Offb.19/15" link="rev:19,15" lang="de" %}} ist Jesus selbst – der Reiter, der Treu und Wahrhaftig genannt wird – derjenige, der die Völker mit eisernem Zepter regiert.
+- In {{% bible val="Offb 19,15" link="rev:19,15" lang="de" %}} ist Jesus selbst – der Reiter, der Treu und Wahrhaftig genannt wird – derjenige, der die Völker mit eisernem Zepter regiert.
 
 Diese Stellen machen ziemlich klar, dass das Kind Jesus ist und dass dies die Geschichte seiner Geburt ist. Aber wer ist dann die seltsame Frau, bekleidet mit Sonne, Mond und zwölf Sternen? Es gibt drei Kandidaten dafür, wer Jesus geboren hat:
 

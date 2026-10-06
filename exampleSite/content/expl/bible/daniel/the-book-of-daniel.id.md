@@ -60,9 +60,9 @@ Pola ini menunjukkan bahwa keenam pasal ini membentuk pusat kitab ini, dengan pa
 
 {{% bible val="Dan.10" link="dan:10" lang="ind" %}} mempersiapkan dasar bagi penglihatan terakhir yang muncul dalam pasal 11 dan 12.
 
-{{% bible val="Dan.11/1–35" link="dan:11,1-35" lang="ind" %}} adalah bagian yang para penafsir sebagian besar sepakat, sebab hubungannya dengan buku-buku sejarah terlalu kuat untuk disangkal: bagian ini menelusuri masa dari raja-raja Persia pada zaman Daniel sendiri hingga sosok antikristus Yahudi, Antiokhus Epifanes IV.
+{{% bible val="Dan 11:1–35" link="dan:11,1-35" lang="ind" %}} adalah bagian yang para penafsir sebagian besar sepakat, sebab hubungannya dengan buku-buku sejarah terlalu kuat untuk disangkal: bagian ini menelusuri masa dari raja-raja Persia pada zaman Daniel sendiri hingga sosok antikristus Yahudi, Antiokhus Epifanes IV.
 
-{{% bible val="Dan.11/36–45" link="dan:11,36-45" lang="ind" %}} tampak menyambung dengan lancar dari bagian sebelumnya, tetapi sesungguhnya tidak memiliki hubungan yang jelas dengan peristiwa-peristiwa historis.[^v36] Sebaliknya, bagian ini menggambarkan kuasa-kuasa dan potensi-potensi di balik jenis raja dan kekuasaan semacam ini secara umum, mirip dengan bagaimana {{% bible val="Tirus" link="ezk:28,13-17" lang="ind" %}} digunakan di tempat lain sebagai sebuah tipe, bukan sebagai rujukan historis yang ketat.
+{{% bible val="Dan 11:36–45" link="dan:11,36-45" lang="ind" %}} tampak menyambung dengan lancar dari bagian sebelumnya, tetapi sesungguhnya tidak memiliki hubungan yang jelas dengan peristiwa-peristiwa historis.[^v36] Sebaliknya, bagian ini menggambarkan kuasa-kuasa dan potensi-potensi di balik jenis raja dan kekuasaan semacam ini secara umum, mirip dengan bagaimana {{% bible val="Tirus" link="ezk:28,13-17" lang="ind" %}} digunakan di tempat lain sebagai sebuah tipe, bukan sebagai rujukan historis yang ketat.
 
 {{% bible val="Dan.12" link="dan:12" lang="ind" %}} menutup kitab ini dengan dorongan bagi orang-orang kudus untuk bertekun melewati semuanya ini.
 

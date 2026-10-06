@@ -147,7 +147,7 @@ Bu yapı, Yunus'un ilk duasının ikiyüzlü, ikincisinin ise bencilce olduğu i
 ### Simetrik örüntüler
 
 <a name="f356"></a>
-Bunlar a-b-b'-a' gibi bir örüntü izler; örneğin "açık/kapalı" fikri üzerinde oynayan {{% bible val="İşa.22/22" link="isa:22,22" lang="tr" %}}:
+Bunlar a-b-b'-a' gibi bir örüntü izler; örneğin "açık/kapalı" fikri üzerinde oynayan {{% bible val="İşa 22:22" link="isa:22,22" lang="tr" %}}:
 
 - a: o açacak
 	- b: ve kimse kapatmayacak
@@ -156,7 +156,7 @@ Bunlar a-b-b'-a' gibi bir örüntü izler; örneğin "açık/kapalı" fikri üze
 
 İzlendiğinde, bu bir X'in — Yunanca Ki harfinin — sol yarısını oluşturur; bu yüzden bu tür bir örüntüye kiazm denir.
 
-Aynı teknik, İncil'in koca kitaplarını da biçimlendirebilir; örneğin {{% bible val="Hak.3/7–16/31" link="jdg:3,7-16,31" lang="tr" %}}. Burada da **kalın yazı** tekrarlayan bir temayı, *italik yazı* ise onun eşleşen karşılığını işaret eder; böylece dış birimlerin merkezi dönüm noktasının çevresinde birbirine nasıl karşılık verdiğini görebilirsiniz:
+Aynı teknik, İncil'in koca kitaplarını da biçimlendirebilir; örneğin {{% bible val="Hak 3:7–16:31" link="jdg:3,7-16,31" lang="tr" %}}. Burada da **kalın yazı** tekrarlayan bir temayı, *italik yazı* ise onun eşleşen karşılığını işaret eder; böylece dış birimlerin merkezi dönüm noktasının çevresinde birbirine nasıl karşılık verdiğini görebilirsiniz:
 
 - a: Otniel ve *iyi* **karısı** (3/7–11)
 	- b: Ehud ve **Ürdün geçitlerinde** kazanılan *zafer* (3/12–31)

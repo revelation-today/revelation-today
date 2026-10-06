@@ -59,9 +59,9 @@ Bu örüntü, kitabın merkezinin bu altı bölüm olduğunu, 1. bölümün giri
 
 {{% bible val="Dan.10" link="dan:10" lang="tr" %}}, 11. ve 12. bölümlerde gelecek olan son görüm için zemin hazırlar.
 
-{{% bible val="Dan.11/1–35" link="dan:11,1-35" lang="tr" %}}, yorumcuların büyük ölçüde hemfikir olduğu bir bölümdür, çünkü tarih kitaplarıyla bağlantısı inkâr edilemeyecek kadar güçlüdür: Daniel'in kendi döneminin Pers krallarından Yahudi Deccal figürü Antiokhos Epifanes IV'e kadar olan zamanı izler.
+{{% bible val="Dan 11:1–35" link="dan:11,1-35" lang="tr" %}}, yorumcuların büyük ölçüde hemfikir olduğu bir bölümdür, çünkü tarih kitaplarıyla bağlantısı inkâr edilemeyecek kadar güçlüdür: Daniel'in kendi döneminin Pers krallarından Yahudi Deccal figürü Antiokhos Epifanes IV'e kadar olan zamanı izler.
 
-{{% bible val="Dan.11/36–45" link="dan:11,36-45" lang="tr" %}}, önceki bölümden sorunsuzca devam ediyor gibi görünse de, aslında tarihsel olaylarla açık bir bağlantısı yoktur.[^v36] Bunun yerine, {{% bible val="Sur'un" link="ezk:28,13-17" lang="tr" %}} başka bir yerde katı bir tarihsel referans yerine bir tip olarak kullanılmasına benzer şekilde, bu tür bir kral ve krallığın ardındaki güçleri ve potansiyelleri anlatır.
+{{% bible val="Dan 11:36–45" link="dan:11,36-45" lang="tr" %}}, önceki bölümden sorunsuzca devam ediyor gibi görünse de, aslında tarihsel olaylarla açık bir bağlantısı yoktur.[^v36] Bunun yerine, {{% bible val="Sur'un" link="ezk:28,13-17" lang="tr" %}} başka bir yerde katı bir tarihsel referans yerine bir tip olarak kullanılmasına benzer şekilde, bu tür bir kral ve krallığın ardındaki güçleri ve potansiyelleri anlatır.
 
 {{% bible val="Dan.12" link="dan:12" lang="tr" %}}, azizlere tüm bunlara dayanmaları için cesaret vererek kitabı kapatır.
 

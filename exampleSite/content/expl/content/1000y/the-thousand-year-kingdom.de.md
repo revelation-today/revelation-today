@@ -114,8 +114,8 @@ Das bezieht sich eindeutig auf den neuen Himmel und die neue Erde, die in Offenb
 
 <a name="008e"></a>
 Wenn Kapitel 20 keine eigene, zukünftige Epoche beschreibt, welchem Handlungsverlauf folgt es dann eigentlich? Die Darstellung der Offenbarung folgt hier grob der Form der Vision des Propheten Hesekiel, in vier Bewegungen dargelegt:
-- {{% bible val="37/1–14" link="ezk:37,1-14" lang="de" %}}: die Auferweckung des Volkes Gottes durch den Heiligen Geist, was der {{% bible val="Auferstehung" link="rev:20,4" lang="de" %}} in Kapitel 20 entspricht – ein Hinweis auf Pfingsten.
-- {{% bible val="37/15–28" link="ezk:37,15-28" lang="de" %}}: das messianische Reich, entsprechend der Herrschaft der Heiligen in {{% bible val="Kapitel 20" link="rev:20,4-6" lang="de" %}} – die Zeit des Zeugnisses der Gemeinde zwischen Jesu erstem und zweitem Kommen.
+- {{% bible val="37,1–14" link="ezk:37,1-14" lang="de" %}}: die Auferweckung des Volkes Gottes durch den Heiligen Geist, was der {{% bible val="Auferstehung" link="rev:20,4" lang="de" %}} in Kapitel 20 entspricht – ein Hinweis auf Pfingsten.
+- {{% bible val="37,15–28" link="ezk:37,15-28" lang="de" %}}: das messianische Reich, entsprechend der Herrschaft der Heiligen in {{% bible val="Kapitel 20" link="rev:20,4-6" lang="de" %}} – die Zeit des Zeugnisses der Gemeinde zwischen Jesu erstem und zweitem Kommen.
 - {{% bible val="38–39" link="ezk:38" lang="de" %}}: die {{% bible val="Schlacht von Gog und Magog" link="rev:20,7-10" lang="de" %}}, entsprechend dem zweiten Kommen Jesu.
 - {{% bible val="40–48" link="ezk:40" lang="de" %}}: die abschließende Vision eines neuen Tempels und des Neuen Jerusalems, entsprechend {{% bible val="Kapitel 21" link="rev:21" lang="de" %}} – wobei bemerkenswert ist, dass Offenbarung 21,22 ausdrücklich sagt, dass es *keinen* Tempel im Neuen Jerusalem gibt, „denn der Herr, der allmächtige Gott, ist ihr Tempel, er und das Lamm", sodass die Entsprechung am besten funktioniert, wenn man Hesekiels sehr physischen Tempel als ein Symbol liest, das später ohne ein wörtliches Gebäude erfüllt wird, statt als exakte Eins-zu-eins-Entsprechung.
 

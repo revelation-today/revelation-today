@@ -147,7 +147,7 @@ Diese Struktur erweckt den Eindruck, dass Jonas erstes Gebet heuchlerisch und se
 ## Symmetrische Muster
 
 <a name="1bc4"></a>
-Diese folgen einem Muster wie a-b-b'-a', wie in {{% bible val="Jes.22/22" link="isa:22,22" lang="de" %}}, das mit der Vorstellung von „öffnen/schließen" spielt:
+Diese folgen einem Muster wie a-b-b'-a', wie in {{% bible val="Jes 22,22" link="isa:22,22" lang="de" %}}, das mit der Vorstellung von „öffnen/schließen" spielt:
 
 - a: er wird öffnen
 	- b: und niemand wird schließen
@@ -156,7 +156,7 @@ Diese folgen einem Muster wie a-b-b'-a', wie in {{% bible val="Jes.22/22" link="
 
 Grafisch dargestellt bildet das die linke Hälfte eines X — des griechischen Buchstabens Chi —, weshalb diese Art von Muster Chiasmus genannt wird.
 
-Dieselbe Technik kann ganze Bücher der Bibel prägen, wie in {{% bible val="Ri.3/7–16/31" link="jdg:3,7-16,31" lang="de" %}}. Auch hier kennzeichnet **fett** ein wiederkehrendes Thema und *kursiv* sein zugehöriges Gegenstück, sodass du sehen kannst, wie die äußeren Einheiten einander um den zentralen Wendepunkt herum entsprechen:
+Dieselbe Technik kann ganze Bücher der Bibel prägen, wie in {{% bible val="Ri 3,7–16,31" link="jdg:3,7-16,31" lang="de" %}}. Auch hier kennzeichnet **fett** ein wiederkehrendes Thema und *kursiv* sein zugehöriges Gegenstück, sodass du sehen kannst, wie die äußeren Einheiten einander um den zentralen Wendepunkt herum entsprechen:
 
 - a: Othniel und seine *gute* **Frau** (3/7–11)
 	- b: Ehud und der *Sieg* an den **Furten des Jordan** (3/12–31)

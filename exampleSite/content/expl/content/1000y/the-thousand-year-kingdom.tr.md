@@ -112,8 +112,8 @@ Bu açıkça Vahiy 21'de anlatılan yeni gök ve yeryüzüne işaret ediyor — 
 
 <a name="41d8"></a>
 Eğer 20. bölüm ayrı bir gelecekteki dönemi anlatmıyorsa, izlediği hikaye konusu gerçekte nedir? Vahiy'in buradaki anlatımı, kabaca peygamber Hezekiel'in görümünün şeklini, dört hareket halinde izler:
-- {{% bible val="37/1–14" link="ezk:37,1-14" lang="tr" %}}: Tanrı halkının Kutsal Ruh tarafından diriltilmesi, bu da 20. bölümdeki {{% bible val="dirilişe" link="rev:20,4" lang="tr" %}} karşılık gelir — Pentikost'a işaret eder.
-- {{% bible val="37/15–28" link="ezk:37,15-28" lang="tr" %}}: Mesih'in krallığı, {{% bible val="20. bölümdeki" link="rev:20,4-6" lang="tr" %}} kutsalların egemenliğine karşılık gelir — İsa'nın birinci ve ikinci gelişi arasında kilisenin tanıklık zamanı.
+- {{% bible val="37:1–14" link="ezk:37,1-14" lang="tr" %}}: Tanrı halkının Kutsal Ruh tarafından diriltilmesi, bu da 20. bölümdeki {{% bible val="dirilişe" link="rev:20,4" lang="tr" %}} karşılık gelir — Pentikost'a işaret eder.
+- {{% bible val="37:15–28" link="ezk:37,15-28" lang="tr" %}}: Mesih'in krallığı, {{% bible val="20. bölümdeki" link="rev:20,4-6" lang="tr" %}} kutsalların egemenliğine karşılık gelir — İsa'nın birinci ve ikinci gelişi arasında kilisenin tanıklık zamanı.
 - {{% bible val="38–39" link="ezk:38" lang="tr" %}}: {{% bible val="Gog ve Magog savaşı" link="rev:20,7-10" lang="tr" %}}, İsa'nın ikinci gelişine karşılık gelir.
 - {{% bible val="40–48" link="ezk:40" lang="tr" %}}: yeni bir tapınak ve Yeni Yeruşalim'in son görümü, {{% bible val="21. bölüme" link="rev:21" lang="tr" %}} karşılık gelir — ama Vahiy 21:22'nin açıkça Yeni Yeruşalim'de *hiç* tapınak olmadığını, çünkü "Her Şeye Gücü Yeten Rab Tanrı ve Kuzu, onun tapınağıdır" dediğini belirtmekte fayda var; bu yüzden bu karşılık, Hezekiel'in çok somut tapınağı birebir bir eşleşme olarak değil, sonradan gerçek bir yapı olmadan yerine gelen bir sembol olarak okunduğunda en iyi işler.
 

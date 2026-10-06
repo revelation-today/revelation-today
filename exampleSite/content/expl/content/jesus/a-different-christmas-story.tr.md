@@ -60,8 +60,8 @@ Sonunu bilmeden bu sahneye bakarsak, kesinlikle kadının hiçbir şansı olmad�
 <a name="8ae1"></a>
 Çocuk hakkında pek az şey anlatılır, ama bir özellik hemen göze çarpar: demir çomak. Kutsal Kitap'ın geri kalanına baktığımızda, bu çocuğun kim olduğunu ortaya koyan birkaç referans buluruz:
 - {{% bible val="Mezmur 2" link="psa:2" lang="tr" %}}, yeryüzünün bütün krallarının Tanrı'ya isyan ettiği bir sahneyi anlatır; Tanrı onları, kendilerini demir bir çomakla yönetecek olan Oğlu'ndan korkmaları konusunda uyarır.
-- {{% bible val="Yeşaya 11/4" link="isa:11,4" lang="tr" %}}, yeryüzünü ağzının değneğiyle vuracak olan gelecek Mesih'i anlatır.
-- {{% bible val="Vahiy 19/15'te" link="rev:19,15" lang="tr" %}} İsa'nın kendisi — Sadık ve Gerçek adlı binici — uluslara demir bir çomakla hükmeden kişidir.
+- {{% bible val="Yeşaya 11:4" link="isa:11,4" lang="tr" %}}, yeryüzünü ağzının değneğiyle vuracak olan gelecek Mesih'i anlatır.
+- {{% bible val="Vahiy 19:15'te" link="rev:19,15" lang="tr" %}} İsa'nın kendisi — Sadık ve Gerçek adlı binici — uluslara demir bir çomakla hükmeden kişidir.
 
 Bu referanslar, çocuğun İsa olduğunu ve bunun onun doğum hikâyesi olduğunu oldukça netleştirir. Peki güneşe, aya ve on iki yıldıza sarınmış bu tuhaf kadın kimdir? İsa'yı kimin doğurduğuna dair üç aday vardır:
 - Elbette Meryem, çünkü {{% bible val="İsa'yı o doğurdu" link="mat:1,18-25" lang="tr" %}}.
