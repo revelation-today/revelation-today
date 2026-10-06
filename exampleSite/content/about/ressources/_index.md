@@ -149,6 +149,36 @@ If you want to step deeper into the understanding of Exodus. [He wrote an intere
 
 This is critical [evaluation of the rapture and a reflection of its consequences](https://www.amazon.de/Rapture-Exposed-Message-Hope-Revelation/dp/0813343143).
 
+<a name="goldingay_dan"></a>
+
+### John Goldingay: Daniel (Word Biblical Commentary 30, revised)
+
+A careful, technical commentary on Daniel. It reads the seventy weeks against the crisis under Antiochus IV, and it is also the clearest statement of why a prophecy can be fulfilled more than once. [The revised edition](https://www.amazon.de/-/en/Daniel-Volume-30-Word-Commentary/dp/0310526159).
+
+<a name="beasley_rev"></a>
+
+### G. R. Beasley-Murray: The Book of Revelation
+
+An older commentary on Revelation, shorter than Beale and Aune and often easier to start with. [New Century Bible Commentary](https://www.amazon.de/-/en/Book-Revelation-New-Century-Commentary/dp/0802818854).
+
+<a name="westermann_gen"></a>
+
+### Claus Westermann: Genesis 12–36
+
+The standard scholarly commentary on the stories of Abraham, Isaac and Jacob. [A continental commentary](https://www.amazon.de/-/en/Genesis-12-36-Commentary-Claus-Westermann/dp/0806625295).
+
+<a name="brueggemann_gen"></a>
+
+### Walter Brueggemann: Genesis
+
+A commentary that keeps asking what the text is for, not only what it meant. [Interpretation series](https://www.amazon.de/-/en/Genesis-Interpretation-Commentary-Teaching-Preaching/dp/0804231028).
+
+<a name="tdot"></a>
+
+### Theological Dictionary of the Old Testament
+
+The reference work behind many of the word studies on this site: what a Hebrew word carries, volume by volume. [Edited by Botterweck and Ringgren](https://www.amazon.de/-/en/Theological-Dictionary-Old-Testament-Vol/dp/0802823300).
+
 And there are also some online presentations:
 
 [A good online preaching series, good application](https://youtube.com/playlist?list=PLxtYjQc7ibKuQzQA9wGVDzMgGvXPL_PA0)

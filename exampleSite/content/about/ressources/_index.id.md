@@ -149,6 +149,36 @@ Jika kamu ingin melangkah lebih dalam untuk memahami Kitab Keluaran. [Ia menulis
 
 Ini adalah [evaluasi kritis terhadap pengangkatan dan refleksi atas konsekuensi-konsekuensinya](https://www.amazon.de/Rapture-Exposed-Message-Hope-Revelation/dp/0813343143).
 
+<a name="goldingay_dan"></a>
+
+### John Goldingay: Daniel (Word Biblical Commentary 30, edisi revisi)
+
+Tafsiran yang cermat dan teknis atas Kitab Daniel. Ia membaca ketujuh puluh minggu itu terhadap krisis di bawah Antiokhus IV, sekaligus menjelaskan paling jernih mengapa sebuah nubuat dapat digenapi lebih dari satu kali. [Edisi revisi](https://www.amazon.de/-/en/Daniel-Volume-30-Word-Commentary/dp/0310526159).
+
+<a name="beasley_rev"></a>
+
+### G. R. Beasley-Murray: The Book of Revelation
+
+Tafsiran Kitab Wahyu yang lebih lama, lebih ringkas daripada Beale dan Aune, dan sering lebih mudah sebagai awalan. [New Century Bible Commentary](https://www.amazon.de/-/en/Book-Revelation-New-Century-Commentary/dp/0802818854).
+
+<a name="westermann_gen"></a>
+
+### Claus Westermann: Genesis 12–36
+
+Tafsiran ilmiah baku atas kisah Abraham, Ishak, dan Yakub. [Continental Commentary](https://www.amazon.de/-/en/Genesis-12-36-Commentary-Claus-Westermann/dp/0806625295).
+
+<a name="brueggemann_gen"></a>
+
+### Walter Brueggemann: Genesis
+
+Tafsiran yang terus bertanya untuk apa teks itu ada, bukan hanya apa artinya dahulu. [Seri Interpretation](https://www.amazon.de/-/en/Genesis-Interpretation-Commentary-Teaching-Preaching/dp/0804231028).
+
+<a name="tdot"></a>
+
+### Theological Dictionary of the Old Testament
+
+Karya rujukan di balik banyak kajian kata di situs ini: apa yang dibawa sebuah kata Ibrani, jilid demi jilid. [Disunting oleh Botterweck dan Ringgren](https://www.amazon.de/-/en/Theological-Dictionary-Old-Testament-Vol/dp/0802823300).
+
 Ada juga beberapa presentasi daring:
 
 [Rangkaian khotbah daring yang baik, penerapannya bagus](https://youtube.com/playlist?list=PLxtYjQc7ibKuQzQA9wGVDzMgGvXPL_PA0)

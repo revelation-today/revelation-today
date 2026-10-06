@@ -149,6 +149,36 @@ Eğer Çıkış’ı daha derinlemesine anlamak istiyorsanız. [Ücretsiz e-kita
 
 [Bu, kendinden geçişin eleştirel bir değerlendirmesi ve sonuçlarının bir yansımasıdır](https://www.amazon.de/Rapture-Exposed-Message-Hope-Revelation/dp/0813343143).
 
+<a name="goldingay_dan"></a>
+
+### John Goldingay: Daniel (Word Biblical Commentary 30, gözden geçirilmiş)
+
+Daniel üzerine dikkatli, teknik bir tefsir. Yetmiş haftayı IV. Antiohos dönemindeki krize göre okur ve bir peygamberliğin neden birden fazla kez yerine gelebileceğini en açık biçimde anlatır. [Gözden geçirilmiş baskı](https://www.amazon.de/-/en/Daniel-Volume-30-Word-Commentary/dp/0310526159).
+
+<a name="beasley_rev"></a>
+
+### G. R. Beasley-Murray: The Book of Revelation
+
+Vahiy üzerine daha eski bir tefsir; Beale ve Aune'dan kısa ve başlangıç için çoğu zaman daha kolay. [New Century Bible Commentary](https://www.amazon.de/-/en/Book-Revelation-New-Century-Commentary/dp/0802818854).
+
+<a name="westermann_gen"></a>
+
+### Claus Westermann: Genesis 12–36
+
+İbrahim, İshak ve Yakup anlatıları üzerine standart akademik tefsir. [Continental Commentary](https://www.amazon.de/-/en/Genesis-12-36-Commentary-Claus-Westermann/dp/0806625295).
+
+<a name="brueggemann_gen"></a>
+
+### Walter Brueggemann: Genesis
+
+Metnin yalnızca ne anlama geldiğini değil, ne için orada olduğunu sormayı sürdüren bir tefsir. [Interpretation dizisi](https://www.amazon.de/-/en/Genesis-Interpretation-Commentary-Teaching-Preaching/dp/0804231028).
+
+<a name="tdot"></a>
+
+### Theological Dictionary of the Old Testament
+
+Bu sitedeki pek çok sözcük incelemesinin arkasındaki başvuru eseri: bir İbranice sözcüğün neyi taşıdığı, cilt cilt. [Botterweck ve Ringgren'in editörlüğünde](https://www.amazon.de/-/en/Theological-Dictionary-Old-Testament-Vol/dp/0802823300).
+
 Ayrıca bazı çevrimiçi sunumlar da var:
 
 [A good online preaching series, good application](https://youtube.com/playlist?list=PLxtYjQc7ibKuQzQA9wGVDzMgGvXPL_PA0)

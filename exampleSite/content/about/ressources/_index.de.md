@@ -151,6 +151,36 @@ Wenn du mehr zum Auszug aus Ägypten wissen willst, wird [dieses Buch](https://w
 
 Es ist eine [kritische Auseinandersetzung mit der Entrückung und eine Reflektion über ihre Auswirkung](https://www.amazon.de/Rapture-Exposed-Message-Hope-Revelation/dp/0813343143).
 
+<a name="goldingay_dan"></a>
+
+### John Goldingay: Daniel (Word Biblical Commentary 30, überarbeitet)
+
+Ein sorgfältiger, fachlicher Kommentar zu Daniel. Er liest die siebzig Wochen auf die Krise unter Antiochus IV. hin und erklärt zugleich am klarsten, warum eine Prophetie mehr als einmal erfüllt werden kann. [Die überarbeitete Ausgabe](https://www.amazon.de/-/en/Daniel-Volume-30-Word-Commentary/dp/0310526159).
+
+<a name="beasley_rev"></a>
+
+### G. R. Beasley-Murray: The Book of Revelation
+
+Ein älterer Kommentar zur Offenbarung, kürzer als Beale und Aune und oft leichter als Einstieg. [New Century Bible Commentary](https://www.amazon.de/-/en/Book-Revelation-New-Century-Commentary/dp/0802818854).
+
+<a name="westermann_gen"></a>
+
+### Claus Westermann: Genesis 12–36
+
+Der wissenschaftliche Standardkommentar zu den Erzählungen von Abraham, Isaak und Jakob. [Biblischer Kommentar](https://www.amazon.de/-/en/Genesis-12-36-Commentary-Claus-Westermann/dp/0806625295).
+
+<a name="brueggemann_gen"></a>
+
+### Walter Brueggemann: Genesis
+
+Ein Kommentar, der immer wieder fragt, wozu der Text da ist, nicht nur, was er bedeutet hat. [Reihe Interpretation](https://www.amazon.de/-/en/Genesis-Interpretation-Commentary-Teaching-Preaching/dp/0804231028).
+
+<a name="tdot"></a>
+
+### Theologisches Wörterbuch zum Alten Testament
+
+Das Nachschlagewerk hinter vielen Wortstudien auf dieser Seite: was ein hebräisches Wort trägt, Band für Band. [Herausgegeben von Botterweck und Ringgren](https://www.amazon.de/-/en/Theological-Dictionary-Old-Testament-Vol/dp/0802823300).
+
 Und noch ein paar Online-Presentationen:
 
 [A good online preaching series, good application](https://youtube.com/playlist?list=PLxtYjQc7ibKuQzQA9wGVDzMgGvXPL_PA0)
