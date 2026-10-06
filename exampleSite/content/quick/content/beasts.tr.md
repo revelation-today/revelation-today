@@ -30,4 +30,4 @@ Kitaba göre kiliseleri sahtekârlığa kananlardan ayırması gereken şey bu k
 
 - **Canavarın heykeli** - herkesin saygı göstermesi beklenen imparator heykeli: görünür kılınmış bağlılık — reddetmek sizi hain yapardı.
 
-[Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}}) · [Canavarlar tarihsel bağlamında →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}})
+[Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}) · [Canavarlar tarihsel bağlamında →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}})

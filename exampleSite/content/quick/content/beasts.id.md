@@ -30,4 +30,4 @@ Adapun angka 666: alih-alih sebuah kode yang menunjuk satu tokoh tertentu di mas
 
 - **Patung binatang itu** - patung kaisar yang wajib dihormati semua orang: kesetiaan yang dibuat kasatmata — menolaknya berarti dianggap pengkhianat.
 
-[Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}}) · [Binatang-binatang itu dalam konteks sejarahnya →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}})
+[Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}) · [Binatang-binatang itu dalam konteks sejarahnya →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}})

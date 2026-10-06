@@ -48,14 +48,14 @@ Itu tokoh yang sangat banyak untuk satu pasal, tetapi masing-masing diperlukan u
 <a name="0e13"></a>
 Binatang ini memiliki banyak kesejajaran dengan Binatang Pertama pada pasal 13. Tabel di bawah ini menandai rincian yang sepadan dengan huruf **tebal** dan hasil akhir yang sepadan dengan huruf *miring*.
 
-| Binatang Pertama dari Wahyu 13 | Binatang dari Wahyu 17 |
+| Binatang pertama dari Wahyu 13 | Binatang dalam Wahyu 17 |
 |----------------------------------|----------------------------|
-| Memiliki **7 kepala dan 10 tanduk** {{% bible val="Why.13/1" link="rev:13,1" lang="ind" %}} | Memiliki **7 kepala dan 10 tanduk** {{% bible val="Why.17/3" link="rev:17,3" lang="ind" %}} |
-| **{{% bible val="Kepala seperti tersembelih, tumbuh kembali" link="rev:13,3" lang="ind" %}}** | **{{% bible val="5 raja telah jatuh, satu ada, satu belum datang" link="rev:17,10" lang="ind" %}}** |
-| **{{% bible val="Binatang itu tampak tak tertandingi" link="rev:13,4" lang="ind" %}}** | **{{% bible val="Binatang itu berperang melawan Raja segala raja" link="rev:17,14" lang="ind" %}}** |
-| **Perkataan** yang **menghujat** {{% bible val="Why.13/5-6" link="rev:13,5-6" lang="ind" %}} | **Nama** yang **menghujat** {{% bible val="Why.17/3" link="rev:17,3" lang="ind" %}} |
-| **Berperang melawan** *orang-orang kudus dan mengalahkan mereka* {{% bible val="Why.13/7" link="rev:13,7" lang="ind" %}} | **Berperang melawan** *Anak Domba dan dikalahkan* {{% bible val="Why.17/14" link="rev:17,14" lang="ind" %}} </br> **Berperang melawan** *sang pelacur dan membinasakannya* {{% bible val="Why.17/16" link="rev:17,16" lang="ind" %}} |
-| **Semua orang yang tidak tertulis dalam kitab kehidupan** *menyembah binatang itu* {{% bible val="Why.13/8" link="rev:13,8" lang="ind" %}} | **Semua orang yang tidak tertulis dalam kitab kehidupan** *dikalahkan sepenuhnya* {{% bible val="Why.17/8" link="rev:17,8" lang="ind" %}} |
+| {{% bible val="Memiliki 7 kepala dan 10 tanduk" link="rev:13,1" lang="ind" %}} | {{% bible val="Memiliki 7 kepala dan 10 tanduk" link="rev:17,3" lang="ind" %}} |
+| {{% bible val="Kepala seperti disembelih, tumbuh kembali" link="rev:13,3" lang="ind" %}} | {{% bible val="5 raja telah jatuh, satu ada, satu belum datang" link="rev:17,10" lang="ind" %}} (keduanya menunjuk pada kesinambungan dan kembalinya binatang itu secara misterius, bdk. {{% bible val="binatang yang telah ada dan sekarang tidak ada dan akan datang" link="rev:17,8" lang="ind" %}}) |
+| {{% bible val="Siapa yang dapat berperang melawan binatang itu" link="rev:13,4" lang="ind" %}} | {{% bible val="Binatang itu berperang melawan Raja segala raja" link="rev:17,14" lang="ind" %}} |
+| {{% bible val="Perkataan yang menghujat Allah" link="rev:13,5-6" lang="ind" %}} | {{% bible val="Nama yang menghujat Allah" link="rev:17,3" lang="ind" %}} |
+| {{% bible val="Berperang melawan orang-orang kudus dan mengalahkan mereka" link="rev:13,7" lang="ind" %}} | {{% bible val="Berperang melawan Anak Domba dan dikalahkan" link="rev:17,14" lang="ind" %}} </br> {{% bible val="Berperang melawan sang perempuan sundal dan membinasakannya" link="rev:17,16" lang="ind" %}}. |
+| {{% bible val="Semua orang yang tidak tertulis dalam kitab kehidupan menyembah binatang itu" link="rev:13,8" lang="ind" %}} | {{% bible val="Semua orang yang tidak tertulis dalam kitab kehidupan tercengang" link="rev:17,8" lang="ind" %}} |
 
 Binatang ini juga merupakan gambaran sang kaisar, termasuk kekuatan militernya, dan warna merah kirmizinya menunjuk kepada kedudukan sebagai raja.
 

@@ -48,14 +48,14 @@ Das sind viele Akteure für ein Kapitel, aber jeder wird gebraucht, um das Bild 
 <a name="0e13"></a>
 Dieses Tier hat viele Parallelen zum ersten Tier in Kapitel 13. Die folgende Tabelle markiert übereinstimmende Details in **fett** und übereinstimmende Ergebnisse in *kursiv*.
 
-| Das erste Tier aus Offenbarung 13 | Das Tier aus Offenbarung 17 |
-|----------------------------------|----------------------------|
-| Hat **7 Köpfe und 10 Hörner** {{% bible val="Offb.13/1" link="rev:13,1" lang="de" %}} | Hat **7 Köpfe und 10 Hörner** {{% bible val="Offb.17/3" link="rev:17,3" lang="de" %}} |
-| **{{% bible val="Kopf wie geschlachtet, wächst nach" link="rev:13,3" lang="de" %}}** | **{{% bible val="5 Könige gefallen, einer ist da, einer kommt noch" link="rev:17,10" lang="de" %}}** |
-| **{{% bible val="Tier scheint unangefochten" link="rev:13,4" lang="de" %}}** | **{{% bible val="Tier führt Krieg gegen den König der Könige" link="rev:17,14" lang="de" %}}** |
-| **Gotteslästerliche** Rede {{% bible val="Offb.13/5-6" link="rev:13,5-6" lang="de" %}} | **Gotteslästerlicher** Name {{% bible val="Offb.17/3" link="rev:17,3" lang="de" %}} |
-| **Kämpft gegen** *Heilige und besiegt sie* {{% bible val="Offb.13/7" link="rev:13,7" lang="de" %}} | **Kämpft gegen** das *Lamm und wird überwunden* {{% bible val="Offb.17/14" link="rev:17,14" lang="de" %}} </br> **Kämpft gegen** die *Hure und vernichtet sie* {{% bible val="Offb.17/16" link="rev:17,16" lang="de" %}} |
-| **Alle, die nicht im Buch des Lebens geschrieben stehen,** *beten das Tier an* {{% bible val="Offb.13/8" link="rev:13,8" lang="de" %}} | **Alle, die nicht im Buch des Lebens geschrieben stehen,** *sind überwältigt* {{% bible val="Offb.17/8" link="rev:17,8" lang="de" %}} |
+| Das erste Tier aus Offenbarung 13 | Das Tier auf Offenbarung 17 |
+|-----------------------------------|-----------------------------|
+| {{% bible val="Hat 7 Köpfe und 10 Hörner" link="rev:13,1" lang="de" %}} | {{% bible val="Hat 7 Köpfe und 10 Hörner" link="rev:17,3" lang="de" %}} |
+| {{% bible val="Kopf wie geschlachtet, wächst nach" link="rev:13,3" lang="de" %}} | {{% bible val="5 Könige gefallen, einer ist da, einer kommt noch" link="rev:17,10" lang="de" %}} (beides verweist auf die geheimnisvolle Kontinuität und Rückkehr des Tieres, vgl. {{% bible val="das Tier, das war und nicht ist und wiederkommen wird" link="rev:17,8" lang="de" %}}) |
+| {{% bible val="Wer kann gegen das Tier kämpfen" link="rev:13,4" lang="de" %}} | {{% bible val="Tier macht Krieg gegen König der Könige" link="rev:17,14" lang="de" %}} |
+| {{% bible val="Gotteslästerliche Reden" link="rev:13,5-6" lang="de" %}} | {{% bible val="Gotteslästerliche Name" link="rev:17,3" lang="de" %}} |
+| {{% bible val="Kämpft gegen Heilige und besiegt sie" link="rev:13,7" lang="de" %}} | {{% bible val="Kämpft gegen Lamm und wird überwunden" link="rev:17,14" lang="de" %}} </br> {{% bible val="Kämpft gegen Hure und vernichtet sie" link="rev:17,16" lang="de" %}} |
+| {{% bible val="Alle, die nicht im Buch des Lebens geschrieben sind beten das Tier an" link="rev:13,8" lang="de" %}} | {{% bible val="Alle, die nicht im Buch des Lebens geschrieben sind sind überwältigt" link="rev:17,8" lang="de" %}} |
 
 Dieses Tier ist zugleich ein Bild des Kaisers, einschließlich der militärischen Macht, und seine scharlachrote Farbe weist auf Königtum hin.
 

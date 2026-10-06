@@ -30,4 +30,4 @@ Und die Zahl 666: Statt ein Code zu sein, der eine bestimmte zukünftige Einzelp
 
 - **Das Bild des Tieres** - die Statue des Kaisers, die jeder ehren sollte: sichtbar gemachte Loyalität — wer sich weigerte, galt als Verräter.
 
-[Die ausführlichere Erklärung lesen →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}}) · [Die Tiere in ihrem historischen Umfeld →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}})
+[Die ausführlichere Erklärung lesen →]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}) · [Die Tiere in ihrem historischen Umfeld →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}})

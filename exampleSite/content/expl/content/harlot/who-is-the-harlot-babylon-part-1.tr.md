@@ -48,14 +48,14 @@ Tek bir bölüm için bu çok fazla oyuncu, ama her biri resmi tamamlamak için 
 <a name="87f4"></a>
 Bu canavarın, 13. bölümdeki İlk Canavar'la birçok paralelliği vardır. Aşağıdaki tabloda eşleşen ayrıntılar **kalın**, eşleşen sonuçlar ise *italik* olarak işaretlenmiştir.
 
-| Vahiy 13'teki İlk Canavar | Vahiy 17'deki Canavar |
+| Vahiy 13'teki ilk canavar | Vahiy 17'deki canavar |
 |----------------------------------|----------------------------|
-| **7 baş ve 10 boynuzu** vardır {{% bible val="Vah.13/1" link="rev:13,1" lang="tr" %}} | **7 baş ve 10 boynuzu** vardır {{% bible val="Vah.17/3" link="rev:17,3" lang="tr" %}} |
-| **{{% bible val="Kesilmiş gibi görünen başı yeniden büyür" link="rev:13,3" lang="tr" %}}** | **{{% bible val="5 kral düştü, biri duruyor, biri henüz gelmedi" link="rev:17,10" lang="tr" %}}** |
-| **{{% bible val="Canavar rakipsiz görünür" link="rev:13,4" lang="tr" %}}** | **{{% bible val="Canavar Kralların Kralı'na karşı savaş açar" link="rev:17,14" lang="tr" %}}** |
-| **Küfürlü** konuşma {{% bible val="Vah.13/5-6" link="rev:13,5-6" lang="tr" %}} | **Küfürlü** isim {{% bible val="Vah.17/3" link="rev:17,3" lang="tr" %}} |
-| **Karşı savaşır** ve *kutsalları yener* {{% bible val="Vah.13/7" link="rev:13,7" lang="tr" %}} | **Karşı savaşır** ama *Kuzu'ya yenilir* {{% bible val="Vah.17/14" link="rev:17,14" lang="tr" %}} </br> **Karşı savaşır** ve *fahişeyi yok eder* {{% bible val="Vah.17/16" link="rev:17,16" lang="tr" %}} |
-| **Yaşam kitabında adı yazılı olmayan herkes** *canavara tapar* {{% bible val="Vah.13/8" link="rev:13,8" lang="tr" %}} | **Yaşam kitabında adı yazılı olmayan herkes** *şaşkına döner* {{% bible val="Vah.17/8" link="rev:17,8" lang="tr" %}} |
+| {{% bible val="7 başı ve 10 boynuzu vardır" link="rev:13,1" lang="tr" %}} | {{% bible val="7 başı ve 10 boynuzu vardır" link="rev:17,3" lang="tr" %}} |
+| {{% bible val="Başı boğazlanmış gibidir, yeniden büyür" link="rev:13,3" lang="tr" %}} | {{% bible val="5 kral düşmüştür, biri duruyor, biri henüz gelmedi" link="rev:17,10" lang="tr" %}} (ikisi de canavarın gizemli sürekliliğine ve geri dönüşüne işaret eder, krş. {{% bible val="var olan, şimdi olmayan ve yeniden gelecek olan canavar" link="rev:17,8" lang="tr" %}}) |
+| {{% bible val="Canavara karşı kim savaşabilir" link="rev:13,4" lang="tr" %}} | {{% bible val="Canavar Kralların Kralı'na karşı savaş açar" link="rev:17,14" lang="tr" %}} |
+| {{% bible val="Küfür dolu konuşma" link="rev:13,5-6" lang="tr" %}} | {{% bible val="Küfür dolu ad" link="rev:17,3" lang="tr" %}} |
+| {{% bible val="Kutsallarla savaşır ve onları yener" link="rev:13,7" lang="tr" %}} | {{% bible val="Kuzu'yla savaşır ve yenilir" link="rev:17,14" lang="tr" %}} </br> {{% bible val="Fahişeyle savaşır ve onu yok eder" link="rev:17,16" lang="tr" %}}. |
+| {{% bible val="Yaşam kitabında adı yazılı olmayan herkes canavara tapar" link="rev:13,8" lang="tr" %}} | {{% bible val="Yaşam kitabında adı yazılı olmayan herkes şaşkınlığa uğrar" link="rev:17,8" lang="tr" %}} |
 
 Bu canavar aynı zamanda, askeri gücü de dâhil olmak üzere, imparatorun bir resmidir; kızıl rengi ise krallığa işaret eder.
 
