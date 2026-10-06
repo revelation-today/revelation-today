@@ -48,7 +48,7 @@ That is because the church is part of Israel, not a replacement for it. Revelati
 
 ## Conclusion
 
-The challenge for the church, then, is to hold both truths at once — being part of Israel while also, at times, being attacked by Israel.
+The challenge for the church, then, is to hold both truths at once — being part of Israel while also, at times, being attacked by some in Israel.
 
 There is a lot we can learn from this book about how to navigate that same kind of tension today, whether between different church denominations or in our relationship with Jewish people.
 

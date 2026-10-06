@@ -43,7 +43,7 @@ Jesus comes to this church as the "True Witness" and the "Amen," a pointed contr
 ## The problem
 
 <a name="d6b2"></a>
-Jesus approaches them as a merchant — a figure they can relate to — offering them, free of charge, the very goods they believe they already possess in the best available version: gold refined in the fire in place of their banking wealth, white garments in place of their prized black wool, and true eyesalve in place of their famous medical remedy. They assume that living a respectable life is enough to make a great church: no glaring sins, faithful tithing, regular Bible reading, and so on.
+Jesus approaches them as a merchant — a figure they can relate to — offering them, free of charge, the very goods they believe they already possess in the best available version: gold refined in the fire in place of their banking wealth, white garments in place of their prized black wool, and true eyesalve in place of their famous medical remedy. They assume that living a respectable life is enough to make a great church. In today's terms: no glaring sins, faithful giving, regular Bible reading, and so on.
 
 Their real problem is that they are lukewarm, and the image is drawn straight from the temperature of water. In that culture, water was valued in two states: hot, useful for healing purposes like the hot springs of Hierapolis, or cold, refreshing to drink like the water of Colossae. Laodicea's own water supply, notably, arrived lukewarm through an aqueduct, having lost its heat along the way — a local fact Jesus turns into a spiritual diagnosis. The church has neither of the useful qualities: only lukewarm, mineral-laden water that gets spat back out the moment it's tasted.
 

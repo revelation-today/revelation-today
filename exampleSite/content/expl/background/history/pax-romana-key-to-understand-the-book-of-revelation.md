@@ -49,7 +49,7 @@ Underneath these conditions lay a coherent, almost theological idea:
 - The Pax Romana is itself the longed-for "Golden Age."
 - Therefore, the emperor is worthy of worship, loyalty, and titles equal to a god's.
 
-The downside is that this golden age was built on violence, oppression, and forced pacification, and it was only golden for a few.
+But this golden age was built on violence, oppression, and forced pacification, and it was golden only for a few.
 
 Rome propagated this vision relentlessly, through:
 
@@ -94,8 +94,8 @@ The Jews were another source of conflict. Rome let them keep their faith, and fo
 
 Here are some questions for reflection:
 - How is the Pax Romana being articulated today? What happens when someone disagrees?
-- Who/what do you see as the source of your good life? From whom/what do you expect the solution to the problems in your life or the orientation in your life?
+- Who or what do you see as the source of your good life? From whom or what do you expect the solution to your problems, or direction for your life?
 - How do you react when this conflicts with being "politically correct"?
-- How do you threaten other people who disagree with you?
+- How do you treat people who disagree with you? Do you ever put pressure on them?
 - Do you feel the need to pretend in certain areas of your life? Why? What would happen if you didn’t pretend?
 - If you were in a situation where your personal opinion/belief would cost you a lot, would you still stand up for it? To what extent? What would you do in practice?

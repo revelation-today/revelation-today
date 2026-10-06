@@ -6,7 +6,7 @@ weight: 2
 
 Understanding what type of literature a book is avoids a lot of misunderstandings.
 
-Here's a simple example: when Paul says that Jesus was resurrected from the dead, that's a non-negotiable truth for a Christian. But when Jesus himself says there was a man going down from Jerusalem to Jericho, that story doesn't need to have literally happened to be true — because Jesus told us beforehand that he was telling a parable. Same category, "something Jesus said," but two very different claims to truth, because the genre is different.
+Here's a simple example: when Paul says that Jesus was resurrected from the dead, that's a non-negotiable truth for a Christian. But when Jesus himself says there was a man going down from Jerusalem to Jericho, that story doesn't need to have literally happened to be true — because Jesus told us beforehand that he was telling a parable. Both stand in the New Testament, but they make two very different claims to truth, because the genre is different.
 
 Revelation doesn't give us a simple answer either, because the book is actually composed of three genres at once:
 - a letter — whatever is written must have been applicable to the first readers, which includes the material in chapters 4–20, not just 1–3

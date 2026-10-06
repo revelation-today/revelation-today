@@ -24,7 +24,7 @@ Baştan belirtmekte fayda var: aşağıdakilerin çoğu — özellikle sona doğ
 <a name="16f7"></a>
 Dispansiyonalizm, Kutsal Kitap'ı harfiyen okumakla övünür; bu, yüzeyde oldukça sorumlu bir tutum gibi görünür. Sorun şu ki, bu yaklaşım Kutsal Kitap edebiyatının her durumda nasıl işlediğini gerçekte yansıtmaz.
 
-Baştan sona şiirsel bir edebiyat olan Ezgiler Ezgisi'ni ele alalım. Onu düz bir harfiyenlikle okursanız, Sulamit [böyle](https://www.pinterest.com/pin/414894184412811101/) görünür — ki bu açıkça amaçlanan anlam değildir. Başka birkaç pasaj da aynı uyarı işaretini taşır; bunlardan birinde metnin kendisi {{% bible val="harfiyen" link="isa:55,12" lang="tr" %}} anlaşılmasının amaçlanmadığını belirtir.
+Baştan sona şiirsel bir edebiyat olan Ezgiler Ezgisi'ni ele alalım. Onu düz bir harfiyenlikle okursanız, Sulamit'in {{% bible val="gözleri güvercin, boynu kule" link="sng:4,1-4" lang="tr" %}} olur — ki bu açıkça amaçlanan anlam değildir. Başka birkaç pasaj da aynı uyarı işaretini taşır; bunlardan birinde metnin kendisi {{% bible val="harfiyen" link="isa:55,12" lang="tr" %}} anlaşılmasının amaçlanmadığını belirtir.
 
 Daha da çarpıcı olanı, dispansiyonalistlerin kendi ilkelerini bile tutarlı biçimde uygulamamalarıdır. Örneğin, {{% bible val="canavarın hiçbir gerçek, görünür anlamda yedi başı ve on boynuzu olmayacağı" link="rev:13,1" lang="tr" %}} konusunda hemfikirdirler. Ve {{% bible val="Gog ve Magog" link="rev:20,8" lang="tr" %}}, {{% bible val="Tanrı'nın yay ve okları yok edeceğine" link="ezk:39,3" lang="tr" %}} dair bir ifadeyle birlikte geçtiğinde, dispansiyonalistler "yay ve oklar" ifadesini seve seve uçaklar ve füzeler olarak okurlar — harfiyenliği rozet gibi taşıyan bir yorum yöntemi için hiç de harfi harfine olmayan bir hamle.
 

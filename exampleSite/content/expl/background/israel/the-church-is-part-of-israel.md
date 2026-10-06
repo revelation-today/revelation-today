@@ -50,7 +50,7 @@ In the {{% bible val="letter to the Romans" link="rom:9,25" lang="en" %}}, Paul 
 Israel is repeatedly called God's son throughout the Old Testament:
 
 - as the {{% bible val="first-born son when God calls for the Exodus" link="exo:4,22-23" lang="en" %}},
-- {{% bible val="in the instructions on how the people are to treat themselves" link="deu:14,1" lang="en" %}},
+- {{% bible val="when Moses tells them: You are the children of the LORD your God" link="deu:14,1" lang="en" %}},
 - {{% bible val="when Israel had forgotten that God was their father" link="isa:1,2-4" lang="en" %}},
 - {{% bible val="as confirmation of how God cares for His children" link="isa:63,8" lang="en" %}},
 - {{% bible val="when Israel is promised a future as God's grown children" link="hos:1,10" lang="en" %}},
