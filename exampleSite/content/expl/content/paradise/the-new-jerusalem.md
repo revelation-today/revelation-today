@@ -188,7 +188,7 @@ Look at the arrangement: the tribes are the gates and the apostles the foundatio
 <a name="5b7b"></a>
 The measuring of the city draws on {{% bible val="Ezekiel" link="ezk:40,3-5" lang="en" %}}, where measuring signals {{% bible val="security" link="deu:3,5" lang="en" %}} against {{% bible val="destructive forces" link="rev:21,27" lang="en" %}} — a deliberate contrast with the old Jerusalem, whose walls were destroyed. In Ezekiel, the temple itself is {{% bible val="measured as a square" link="ezk:45,2-3" lang="en" %}}, and the {{% bible val="city beside it is a square as well" link="ezk:48,15-16" lang="en" %}}. In Zechariah, God measures the {{% bible val="city" link="zec:2,2" lang="en" %}} so that {{% bible val="people find refuge" link="zec:2,6" lang="en" %}}, since {{% bible val="God has again shown mercy to Jerusalem" link="zec:1,16" lang="en" %}}. Much of the language in Revelation 21 is drawn from these temple descriptions, especially from the last nine chapters of Ezekiel — yet {{% bible val="there will be no temple" link="rev:21,22" lang="en" %}} in the New Jerusalem at all.
 
-## Why a cube
+### Why a cube
 
 When you look further, you find the city has a strange shape: it is a {{% bible val="cube" link="rev:21,16" lang="en" %}}. The only object in the Old Testament with this shape is {{% bible val="the Holy of Holies" link="1ki:6,20" lang="en" %}}. Why revisit that shape here? Because the Holy of Holies pointed to a real limitation in the old temple: God dwelled there, and the farther you stood from it, the farther you were from him. Now, in the New Jerusalem, everyone stands equally close to God. More than that: all {{% bible val="the unbelievers are outside the city" link="rev:22,14-15" lang="en" %}}, meaning outside the Holy of Holies altogether — so once again, you are either completely in or completely out.
 
@@ -210,7 +210,7 @@ The mention of the {{% bible val="street in the New Jerusalem" link="rev:21,21" 
 <a name="bf9a"></a>
 The statement {{% bible val="that the city has no need of sun or moon" link="rev:21,23" lang="en" %}} draws on {{% bible val="Isaiah" link="isa:60,19" lang="en" %}}, where the line "your God will be your glory" is here replaced by "the Lamb is its lamp" — so Jesus is God's [glory, or beauty](https://biblehub.com/hebrew/strongs_8597.htm). This also fulfills {{% bible val="Ezekiel 43:2 and 5" link="ezk:43,2-5" lang="en" %}}.
 
-## The nations and their gifts
+### The nations and their gifts
 
 The {{% bible val="statement that the nations will bring their splendor, glory, and honor into the city" link="rev:21,24-26" lang="en" %}} is easier to understand alongside {{% bible val="Isaiah" link="isa:60,3-11" lang="en" %}}, which uses the same phrases but speaks of wealth where Revelation speaks of glory and honor.
 

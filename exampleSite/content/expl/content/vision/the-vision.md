@@ -22,7 +22,7 @@ The book of Revelation begins with a bang: John has a vision of an amazing figur
 ## Overview
 
 <a name="3876"></a>
-John — most likely the apostle (the traditional identification, though a minority of scholars have argued for a separate figure known as "John the Elder") — is introduced as someone {{% bible val="on the island of Patmos, exiled — by the widely-held tradition — for his testimony about Jesus, though whether this was formal Roman banishment or a self-chosen mission field is debated" link="rev:1,9" lang="en" %}}. The vision he receives of Jesus falls into three parts:
+John — most likely the apostle (the traditional identification, though a minority of scholars have argued for a separate figure known as "John the Elder") — is introduced as someone {{% bible val="on the island of Patmos because of the word of God and the testimony of Jesus" link="rev:1,9" lang="en" %}}. Tradition says he was exiled there; whether that was a formal Roman banishment or a mission field he chose is debated. The vision he receives of Jesus falls into three parts:
 
 - the vision itself (verses 12–16),
 - his reaction (verse 17a),

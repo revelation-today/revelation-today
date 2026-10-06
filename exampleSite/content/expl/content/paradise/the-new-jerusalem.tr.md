@@ -188,7 +188,7 @@ Düzenlemeye bakın: oymaklar kapılar, elçiler temellerdir — tek kent, tek h
 <a name="57fc"></a>
 Kentin ölçülmesi {{% bible val="Hezekiel'den" link="ezk:40,3-5" lang="tr" %}} beslenir; orada ölçmek {{% bible val="yıkıcı güçlere" link="rev:21,27" lang="tr" %}} karşı {{% bible val="güvenliğe" link="deu:3,5" lang="tr" %}} işaret eder — duvarları yıkılmış eski Kudüs'le kasıtlı bir tezat. Hezekiel'de tapınağın kendisi {{% bible val="kare olarak ölçülür" link="ezk:45,2-3" lang="tr" %}}, {{% bible val="yanındaki kent de bir karedir" link="ezk:48,15-16" lang="tr" %}}. Zekeriya'da Tanrı {{% bible val="kenti ölçer" link="zec:2,2" lang="tr" %}}, öyle ki {{% bible val="insanlar sığınak bulsun" link="zec:2,6" lang="tr" %}}, çünkü {{% bible val="Tanrı Yeruşalim'e yeniden merhamet göstermiştir" link="zec:1,16" lang="tr" %}}. Vahiy 21'deki dilin çoğu bu tapınak tasvirlerinden, özellikle Hezekiel'in son dokuz bölümünden alınmıştır — yine de Yeni Yeruşalim'de {{% bible val="hiç tapınak olmayacaktır" link="rev:21,22" lang="tr" %}}.
 
-## Neden bir küp
+### Neden bir küp
 
 Daha ileri baktığınızda kentin tuhaf bir şekle sahip olduğunu görürsünüz: bir {{% bible val="küptür" link="rev:21,16" lang="tr" %}}. Eski Ahit'te bu şekle sahip tek nesne {{% bible val="Kutsalların Kutsalı'dır" link="1ki:6,20" lang="tr" %}}. Bu şekil neden burada yeniden karşımıza çıkıyor? Çünkü Kutsalların Kutsalı, eski tapınaktaki gerçek bir sınırlamaya işaret ediyordu: Tanrı orada yaşıyordu ve oradan ne kadar uzaksanız, O'ndan da o kadar uzaktınız. Şimdi, Yeni Yeruşalim'de, herkes Tanrı'ya eşit derecede yakın duruyor. Dahası: {{% bible val="tüm imansızlar kentin dışındadır" link="rev:22,14-15" lang="tr" %}}, yani tamamen Kutsalların Kutsalı'nın dışında — yani burada da ya tamamen içerideyseniz ya da tamamen dışarıda.
 
@@ -210,7 +210,7 @@ Burada bir çeviri notu önemlidir: çevirilerimiz genellikle "ilk temel yeşiml
 <a name="1c33"></a>
 {{% bible val="Kentin güneşe ya da aya ihtiyacı olmadığı" link="rev:21,23" lang="tr" %}} ifadesi {{% bible val="Yeşaya'dan" link="isa:60,19" lang="tr" %}} beslenir; orada "Tanrın senin görkemin olacak" sözü burada "Kuzu onun kandilidir" sözüyle yer değiştirir — yani İsa, Tanrı'nın [görkemi, ya da güzelliğidir](https://biblehub.com/hebrew/strongs_8597.htm). Bu aynı zamanda {{% bible val="Hezekiel 43:2 ve 5'in" link="ezk:43,2-5" lang="tr" %}} yerine gelişidir.
 
-## Uluslar ve armağanları
+### Uluslar ve armağanları
 
 {{% bible val="Ulusların görkemlerini, yüceliklerini ve onurlarını kente getirecekleri ifadesi" link="rev:21,24-26" lang="tr" %}}, aynı ifadeleri kullanan ama Vahiy'in yücelik ve onurdan söz ettiği yerde zenginlikten söz eden {{% bible val="Yeşaya'yla" link="isa:60,3-11" lang="tr" %}} birlikte okunduğunda daha kolay anlaşılır.
 
