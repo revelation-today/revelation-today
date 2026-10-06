@@ -1,5 +1,5 @@
 ---
-title: "Rev. 17: Who Is the Harlot Babylon? Part 1"
+title: "Rev. 17: Who Is the Harlot Babel? Part 1"
 weight: 44
 docType: sermon
 audience_group: "deep-dive-guide"
@@ -11,11 +11,11 @@ next: /sermons/deep-dive/conflict/45-who-is-the-harlot-babylon-part-2
 
 ## Opening
 
-Ask your group to guess, before you open the Bible tonight: who do people today claim the "Harlot Babylon" is? You'll probably hear a range of answers — a political figure, a religious institution, "the culture," even specific countries. Revelation 17 is one of the most over-identified passages in the whole book, precisely because it crowds so many symbols into one scene. Tonight's session is mostly detective work: before we can ask what Babylon means for us (that's next session), we need to carefully sort out who's actually on stage.
+Ask your group to guess, before you open the Bible tonight: who do people today claim the "Harlot Babel" is? You'll probably hear a range of answers — a political figure, a religious institution, "the culture," even specific countries. Revelation 17 is one of the most over-identified passages in the whole book, precisely because it crowds so many symbols into one scene. Tonight's session is mostly detective work: before we can ask what Babel means for us (that's next session), we need to carefully sort out who's actually on stage.
 
 ## A crowded cast
 
-Revelation 17 introduces the Great Harlot, seated on a scarlet beast with seven heads and ten horns, drunk with the blood of the saints and dressed like royalty. An angel offers to explain "the mystery of the woman and of the beast" (17:7), and what follows is one of the densest pieces of symbolism in the book: seven heads that are also seven hills and also seven kings, an eighth king who is somehow also one of the seven, ten horns that are ten kings, and finally the beast and the kings turning on the harlot herself and destroying her. For the fuller unpacking of every character in this scene, see [Part 1: Who is the Harlot Babylon?]({{< relref "expl/content/harlot/who-is-the-harlot-babylon-part-1" >}}).
+Revelation 17 introduces the Great Harlot, seated on a scarlet beast with seven heads and ten horns, drunk with the blood of the saints and dressed like royalty. An angel offers to explain "the mystery of the woman and of the beast" (17:7), and what follows is one of the densest pieces of symbolism in the book: seven heads that are also seven hills and also seven kings, an eighth king who is somehow also one of the seven, ten horns that are ten kings, and finally the beast and the kings turning on the harlot herself and destroying her. For the fuller unpacking of every character in this scene, see [Part 1: Who is the Harlot Babel?]({{< relref "expl/content/harlot/who-is-the-harlot-babylon-part-1" >}}).
 
 It helps to notice how deliberately this beast echoes the beast of chapter 13: both have seven heads and ten horns, both are described in language that parodies God's own eternal "was, is, and is to come" (compare Revelation 1:8 with 17:8, 11), and both ultimately go down in defeat despite looking unbeatable. This scarlet beast is the same imperial power already introduced earlier in the book, now viewed from a different angle — the angle of what supports and adorns it.
 

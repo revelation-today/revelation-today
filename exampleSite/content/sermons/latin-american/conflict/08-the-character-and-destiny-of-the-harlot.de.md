@@ -11,7 +11,7 @@ next: /sermons/latin-american/ending/09-the-thousand-year-kingdom
 
 ## Dort weitermachen, wo wir aufgehört haben
 
-Die letzte Sitzung hat die Hure Babylon beim Namen genannt: das glamouröse wirtschaftliche und
+Die letzte Sitzung hat die Hure Babel beim Namen genannt: das glamouröse wirtschaftliche und
 kulturelle System, das die rohe Gewalt des Tieres in etwas verwandelt, das wie Segen,
 Sicherheit und Erfolg aussieht. Diese Sitzung stellt die zwei Fragen, die sich natürlich daran
 anschließen. Was ist ihre eigentliche Methode – wie operiert sie im Alltag? Und was bringt sie
@@ -29,7 +29,7 @@ direkt dem eigenen Warenkatalog der antiken Handelsstadt Tyrus entnommen ist (He
 lohnt sich, bei diesem Detail zu verweilen: Menschen werden als Ware aufgelistet, genau neben
 der Fracht. Das ist kein Zufall. Es ist die Pointe. Jedes System, ob antik oder modern, das
 leise Menschen als Vermögenswerte behandelt, die verwaltet werden, statt als nach Gottes Bild
-geschaffene Personen, hat Babylons eigene Betriebslogik übernommen, welche Sprache es auch
+geschaffene Personen, hat Babels eigene Betriebslogik übernommen, welche Sprache es auch
 verwendet, um sich selbst zu beschreiben.
 
 Ihre kennzeichnende Haltung ist ein Selbstvertrauen, das zu Selbsttäuschung geronnen ist: „In
@@ -44,7 +44,7 @@ Frage, die der Text immer wieder stellt, ist, welcher Geist hinter dem Reichtum 
 wir darauf reagieren: Trauern wir gemeinsam mit allen anderen, wenn eine Wirtschaft
 zusammenbricht und Lebensgrundlagen verschwinden (18,10)? Unterstützen wir ungerechtes
 Handeln, um unser eigenes finanzielles Interesse zu schützen? Wenn ja, steht das Urteil des
-Textes fest: Wir sind mitten in Babylon, und „wir müssen hinausgehen" (18,4).
+Textes fest: Wir sind mitten in Babel, und „wir müssen hinausgehen" (18,4).
 
 ## Der Zusammenbruch, den niemand kommen sah – bis er da war
 
@@ -59,7 +59,7 @@ wenden?
 
 Die Antwort der Schrift läuft auf mehreren Spuren zugleich. Einfach gesagt: Loyalitäten
 verschieben sich – der Verbündete von heute ist der Feind von morgen, weil jeder in einem
-Babylon-förmigen System letztlich auf den eigenen Vorteil bedacht ist, und allein Gott sich
+Babel-förmigen System letztlich auf den eigenen Vorteil bedacht ist, und allein Gott sich
 nicht ändert. Das erfüllt ein Muster, das schon bei Daniel angelegt ist, wo das Böse Gottes
 Volk scheinbar besiegt, nur damit Gott den Sieg ihm doch wieder zurückgibt (Daniel 7,21–22) –
 das Böse sieht am stärksten aus genau in dem Moment, in dem es gleich entlarvt wird. Und es
@@ -98,7 +98,7 @@ Gott treu zu vertreten, nicht diese Berufung gegen Gold einzutauschen.
 - Wie würde es praktisch aussehen, dein eigenes Sicherheitsgefühl auf etwas anderes zu bauen
   als ein System, das so anfällig für plötzlichen Zusammenbruch ist?
 
-Babylons Fall ist nicht nur ein Gericht über das Reich eines anderen, weit entfernt. Es ist
+Babels Fall ist nicht nur ein Gericht über das Reich eines anderen, weit entfernt. Es ist
 eine bleibende Warnung vor jeder Sicherheit, die auf wechselnder weltlicher Loyalität aufgebaut
 ist statt auf dem Gott, der sich nicht ändert – und eine Einladung, stattdessen auf dem einen
 Fundament zu bauen, von dem dieses Buch uns zeigen wird, dass es niemals einstürzen kann.

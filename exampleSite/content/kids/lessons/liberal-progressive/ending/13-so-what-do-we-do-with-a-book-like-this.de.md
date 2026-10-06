@@ -32,7 +32,7 @@ Manche Menschen sagen: "Die Offenbarung war nur für Menschen vor sehr, sehr lan
 
 Stattdessen hat sich herausgestellt, dass jedes einzelne Bild in diesem Buch mit etwas Echtem zu tun hat, das noch heute passiert:
 - Die Anbetung, über die wir gesprochen haben, verändert, wie wir mit jedem anderen Problem umgehen.
-- Die falsche Art von "Reichtum und Macht", für die Babylon stand, verführt Menschen auch heute noch.
+- Die falsche Art von "Reichtum und Macht", für die Babel stand, verführt Menschen auch heute noch.
 - Das Versprechen, dass Gott Unfairness und Ungerechtigkeit bemerkt, stimmt auch jetzt noch.
 - Das wunderschöne Ende — Gott, der für immer nah bei seinem Volk lebt — ist ein Versprechen, keine bloße nette alte Geschichte.
 

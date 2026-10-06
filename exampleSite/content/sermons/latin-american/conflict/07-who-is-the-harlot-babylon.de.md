@@ -1,5 +1,5 @@
 ---
-title: "Offb. 17: Wer ist die Hure Babylon? Wessen Sicherheit kaufst du eigentlich?"
+title: "Offb. 17: Wer ist die Hure Babel? Wessen Sicherheit kaufst du eigentlich?"
 weight: 7
 docType: sermon
 audience_group: "latin-american"
@@ -12,7 +12,7 @@ next: /sermons/latin-american/conflict/08-the-character-and-destiny-of-the-harlo
 ## Die wichtigste Sitzung dieser Reihe
 
 Von allem in diesem Regionalpaket ist dies die Sitzung, für die es sich am meisten lohnt,
-innezuhalten und ihr den meisten Raum zu geben. Die Vision der Hure Babylon in Offenbarung
+innezuhalten und ihr den meisten Raum zu geben. Die Vision der Hure Babel in Offenbarung
 17–18 ist, mehr als jeder andere Abschnitt des Buches, eine direkte, gezielte Konfrontation
 mit einer Botschaft, die viele von euch in gutem Glauben gepredigt gehört haben, in Gemeinden,
 die ihr liebt, von Leitern, die wirklich daran glauben: dass Reichtum, Gesundheit und
@@ -26,7 +26,7 @@ Offenbarung 17 ist überfüllt mit Figuren: ein Tier, sieben Hügel, zehn König
 die auf all dem reitet. Beginnen wir mit der Hure selbst. Sie sitzt inthronisiert, gekleidet in
 Purpur, Scharlach, Gold und Edelsteinen – das Bild imperialen Reichtums und Glamours –, mit
 einem Kelch in der Hand, „voll Gräuel und Unreinheit ihrer Hurerei" (17,4), und einem Namen
-auf ihrer Stirn: „Babylon, die Große, die Mutter der Huren." Die Könige der Erde „haben mit
+auf ihrer Stirn: „Babel, die Große, die Mutter der Huren." Die Könige der Erde „haben mit
 ihr Hurerei getrieben", und sie hat „die Bewohner der Erde trunken gemacht mit dem Wein ihrer
 Hurerei" (17,2). Sie sitzt auf einem scharlachroten Tier mit sieben Köpfen und zehn Hörnern –
 demselben Tier aus Kapitel 13 –, was sie mit dem imperialen Rom identifiziert und, darüber
@@ -50,7 +50,7 @@ Jerusalem selbst beschuldigte, wie eine Hure zu handeln (Hesekiel 16). Tyrus und
 bekommen anderswo genau dasselbe Etikett aus genau demselben Grund: wirtschaftlicher
 Reichtum, aufgebaut durch Ausbeutung, verkleidet als Segen (Jesaja 23; Nahum 3).
 
-Ist Babylon also einfach die Gemeinde, die schlecht geworden ist? Nicht ganz – sie ist ein
+Ist Babel also einfach die Gemeinde, die schlecht geworden ist? Nicht ganz – sie ist ein
 eigenständiges System, die glamouröse, geldgetriebene, propagandagesättigte Partnerin, die auf
 der rohen politischen und militärischen Macht reitet. Das Tier ist die brutale Gewalt; die
 Hure ist das, was diese Gewalt attraktiv, sicher und vertrauenswürdig aussehen lässt. Zusammen
@@ -60,7 +60,7 @@ mitspielen, ein Gefühl der Überlegenheit und das Zum-Schweigen-Bringen jeder u
 Stimme, die benennt, was wirklich geschieht (siehe Offenbarung 13,4.7.10.13–14.16–17; 17,6).
 Aber die Gemeinde ist immer in Gefahr, in ihre Umlaufbahn hineingezogen zu werden – „sodass
 ihr gezwungen seid, Tag für Tag weiter darüber nachzudenken und aus ihr herauszutreten", wie
-der Text selbst es ausdrückt (18,4), „weil Babylon überall ist."
+der Text selbst es ausdrückt (18,4), „weil Babel überall ist."
 
 ## Die Kollision direkt benennen
 
@@ -87,7 +87,7 @@ Offenbarung fragt, ist schärfer und persönlicher: Welcher Geist steckt hinter 
 wie reagierst du, wenn er bedroht ist? Trauerst du gemeinsam mit allen anderen, wenn die
 Wirtschaft zusammenbricht (18,10–17)? Würdest du echte Ungerechtigkeit unterstützen, um dein
 eigenes finanzielles Interesse zu schützen? Wenn ja, ist das Urteil der Offenbarung selbst
-unverblümt: Du stehst mitten in Babylon, „und wir müssen hinausgehen" (18,4).
+unverblümt: Du stehst mitten in Babel, „und wir müssen hinausgehen" (18,4).
 
 ## Die Einladung unter der Warnung
 
@@ -116,6 +116,6 @@ wird. Dieser hier ist die Fälschung.
 - Wie würde es konkret aussehen, „aus ihr herauszugehen" (18,4), in einem Bereich deines
   Lebens, in dem Sicherheit leise mehr mit Geld oder Status zu tun bekommen hat als mit Gott?
 
-Babylon sieht glamourös aus, bis genau zu der Stunde, in der sie fällt. Das Lamm sah nach
+Babel sieht glamourös aus, bis genau zu der Stunde, in der sie fällt. Das Lamm sah nach
 nichts aus, bis genau zu dem Moment, in dem es als würdig aller Anbetung offenbart wurde.
 Wähle deine Sicherheit sorgfältig – nur eines von beiden überdauert das andere.

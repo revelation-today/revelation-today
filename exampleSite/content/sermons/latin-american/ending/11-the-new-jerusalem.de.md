@@ -13,11 +13,11 @@ next: /sermons/latin-american/ending/12-the-rapture-judgment-and-left-behind-the
 
 Jede Sitzung dieser Reihe hat auf die eine oder andere Weise auf diese hier hingearbeitet. Wir
 haben ein Gegen-Evangelium der Sicherheit gesehen, das verkleidet als siegreicher Held
-ausritt (der erste Reiter). Wir haben ein glamouröses wirtschaftliches System namens Babylon
+ausritt (der erste Reiter). Wir haben ein glamouröses wirtschaftliches System namens Babel
 gesehen, das Reichtum und Status gegen Treue anbot, nur um ohne Vorwarnung innerhalb einer
 einzigen Stunde zusammenzubrechen, verlassen von ihren eigenen Verbündeten. Jetzt endlich
 zeigt uns Johannes, wie echte, dauerhafte Sicherheit tatsächlich aussieht – und sie lässt
-Babylons Fälschung genau so billig aussehen, wie sie immer war.
+Babels Fälschung genau so billig aussehen, wie sie immer war.
 
 ## Eines hören, ein anderes sehen
 
@@ -28,17 +28,17 @@ sich als geschlachtetes Lamm (5,5–6), das gezählte Heer entpuppt sich als unz
 anbetende Schar (7,4.9) –, und er signalisiert jedes Mal dasselbe: Pass auf, denn die
 Wirklichkeit ist größer und seltsamer, als das erste Bild vermuten lässt.
 
-## Alles, was Babylon versprach, tatsächlich geliefert
+## Alles, was Babel versprach, tatsächlich geliefert
 
-Stellt man das Neue Jerusalem direkt Babylon gegenüber, ist der Kontrast bewusst und
-vollständig. Babylon ist eine Frau, eine Hure; das Neue Jerusalem ist eine Frau, eine Braut –
-gleiche Gestalt, entgegengesetzter Charakter. Babylons Glamour ist auf Ausbeutung und
+Stellt man das Neue Jerusalem direkt Babel gegenüber, ist der Kontrast bewusst und
+vollständig. Babel ist eine Frau, eine Hure; das Neue Jerusalem ist eine Frau, eine Braut –
+gleiche Gestalt, entgegengesetzter Charakter. Babels Glamour ist auf Ausbeutung und
 Götzendienst aufgebaut; die Herrlichkeit des Neuen Jerusalems ist Gottes eigene Gegenwart,
-frei gegeben. Babylon verursacht Leiden; das Neue Jerusalem beseitigt es vollständig – „keinen
+frei gegeben. Babel verursacht Leiden; das Neue Jerusalem beseitigt es vollständig – „keinen
 Tod noch Leid noch Geschrei noch Schmerz mehr" (21,4), wobei jede Träne persönlich von Gott
-selbst abgewischt wird. Babylons Reichtum wird anderen entzogen, wobei sogar Menschen als
+selbst abgewischt wird. Babels Reichtum wird anderen entzogen, wobei sogar Menschen als
 Handelsware behandelt werden; die Reichtümer des Neuen Jerusalems sind Geschenk, nicht
-Entzug – lebendiges Wasser „ohne Kosten" (21,6), frei angeboten jedem, der durstig ist. Babylon
+Entzug – lebendiges Wasser „ohne Kosten" (21,6), frei angeboten jedem, der durstig ist. Babel
 fällt innerhalb einer einzigen Stunde und ist für immer verschwunden; das Neue Jerusalem wird
 in erschöpfender, liebevoller Detailfülle beschrieben, gerade weil es Bestand hat. Was auch
 immer die Hure versprach – Sicherheit, Reichtum, Status, Dauerhaftigkeit –, im Neuen Jerusalem
@@ -66,7 +66,7 @@ anschlägt. Und beachtet, wer sonst noch auftaucht: „die Nationen werden in ih
 und die Könige der Erde werden ihre Herrlichkeit in sie hineinbringen" (21,24) – ein Bild,
 direkt entnommen aus Jesajas Vision der Nationen, die zum Jerusalem strömen (Jesaja 60), außer
 dass das, was sie hier bringen, kein entzogener Reichtum ist, der triumphierend zur Schau
-gestellt wird, so wie Babylons Könige einst „von ihrem übermäßigen Luxus reich wurden" (18,3).
+gestellt wird, so wie Babels Könige einst „von ihrem übermäßigen Luxus reich wurden" (18,3).
 Es ist Herrlichkeit und Ehre, freiwillig an Gott zurückgegeben, von Abrahams uralter Berufung,
 ein Segen für alle Nationen zu sein, jetzt endlich, vollständig verwirklicht.
 

@@ -15,7 +15,7 @@ draft: true
 
 
 # The City That Promised Everything and Kept Nothing
-### Who is the harlot Babylon?
+### Who is the harlot Babel?
 
 ## 1. Fool's gold
 
@@ -29,7 +29,7 @@ turns out to be exactly like fool's gold.
 ## 2. A woman dressed like a queen
 
 In Revelation 17, John sees a woman dressed in purple and scarlet, covered in gold and
-jewels, riding on a scary beast. She's called "Babylon," and kings and rulers from all
+jewels, riding on a scary beast. She's called "Babel," and kings and rulers from all
 over the world are in love with her — her wealth, her glamour, her power.
 
 For the very first readers of Revelation, this wasn't a mystery — they knew right away
@@ -45,7 +45,7 @@ glitter and gold were built on hurting others, not on anything good or true.
 
 ## 4. Her allies turn on her
 
-Here's the surprising twist: the very kings and rulers who loved Babylon and made her rich
+Here's the surprising twist: the very kings and rulers who loved Babel and made her rich
 suddenly turn against her and destroy her (Revelation 17:16). All her "friends" only
 stuck around because of what she could give them — the moment that stopped being useful,
 they abandoned her completely.
@@ -88,5 +88,5 @@ discuss the difference.
 
 **Questions for the kids:**
 1. Can you think of something that looks amazing but isn't actually good for you?
-2. Why do you think Babylon's "friends" abandoned her so quickly?
+2. Why do you think Babel's "friends" abandoned her so quickly?
 3. What's one shiny-looking thing you sometimes trust more than you trust God?

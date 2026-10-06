@@ -237,7 +237,7 @@ docType: expl
 | {{% bible val="Offenbarung:6,1-8" link="rev:6,1-8" lang="de" %}} | ["Der Text": Offb.6/1–8](/expl/content/seals/the-mystery-of-the-four-horse-men#19b5) |
 | {{% bible val="Offenbarung:6,2" link="rev:6,2" lang="de" %}} | ["Ein Reiter, der nicht dazuzugehören scheint": 'Und ich sah, und siehe, ein weißes Pferd. Und der darauf saß, hatte einen Bogen, und ihm wurde eine Krone gegeben, und er zog aus als Sieger, um zu siegen.'](/sermons/prosperity-gospel-module/worship-and-seals/01-the-first-horsemans-fake-gospel#ein-reiter-der-nicht-dazuzugehören-scheint) |
 | {{% bible val="Offenbarung:6,5-6" link="rev:6,5-6" lang="de" %}} | ["Die Große Trübsal": beim dritten Reiter](/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
-| {{% bible val="Offenbarung:6,5-6" link="rev:6,5-6" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": Ausbeutung der Schwachen](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
+| {{% bible val="Offenbarung:6,5-6" link="rev:6,5-6" lang="de" %}} | ["Ist Babel die abgefallene Gemeinde?": Ausbeutung der Schwachen](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:6,8" link="rev:6,8" lang="de" %}} | ["Gibt es nicht auch Unterschiede?": Ort des Todes beziehen, der auf der Erde sein kann](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
 | {{% bible val="Offenbarung:6,9" link="rev:6,9" lang="de" %}} | ["Was das Thema wirklich trägt": die Seelen derer, die geschlachtet worden waren](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Offenbarung:6,9" link="rev:6,9" lang="de" %}} | ["Werden wir enthauptet?": Parallele zu den Seelen unter dem Altar](/expl/content/1000y/the-thousand-year-kingdom#c7a1) |
@@ -507,7 +507,7 @@ docType: expl
 | {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Die dunkle Seite": erstaunt, wenn sie die Stärke des Tieres sehen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
 | {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Die falsche Dreifaltigkeit": Wer kann gegen das Tier kämpfen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Das scharlachrote Tier": Tier scheint unangefochten](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
-| {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": Sicherheit](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
+| {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Ist Babel die abgefallene Gemeinde?": Sicherheit](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Die fünfte und sechste Posaune": Menschen den Drachen und das Tier anbeten](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/4](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/4](/expl/content/witnesses/the-two-witnesses#3cd4) |
@@ -531,7 +531,7 @@ docType: expl
 | {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Der zweifache Angriff": die Heiligen besiegen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Die falsche Dreifaltigkeit": Kämpft gegen Heilige und besiegt sie](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Das scharlachrote Tier": Offb.13/7](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
-| {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": Krieg](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
+| {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Ist Babel die abgefallene Gemeinde?": Krieg](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Das Geheimnis des ersten Reiters": das Tier](/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/7](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Die Zeugen und die Tiere": Macht über Stämme, Sprachen und Nationen](/expl/content/witnesses/the-two-witnesses#3cd4) |
@@ -556,7 +556,7 @@ docType: expl
 | {{% bible val="Offenbarung:13,10" link="rev:13,10" lang="de" %}} | ["Was ist zu tun?": Ausharren](/expl/content/beasts/666-the-number-of-the-beast#6293) |
 | {{% bible val="Offenbarung:13,10" link="rev:13,10" lang="de" %}} | ["Der zweifache Angriff": Hier ist die Geduld und der Glaube der Heiligen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,10" link="rev:13,10" lang="de" %}} | ["Der zweifache Angriff": jeden Widerstand vernichten](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Offenbarung:13,10" link="rev:13,10" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": Verfolgung](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
+| {{% bible val="Offenbarung:13,10" link="rev:13,10" lang="de" %}} | ["Ist Babel die abgefallene Gemeinde?": Verfolgung](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:13,10" link="rev:13,10" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/10](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Das zweite Tier": dieses zweite Tier aufsteigt und harmlos aussieht, wie ein Lamm](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Der zweifache Angriff": Aus der Erde](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
@@ -578,7 +578,7 @@ docType: expl
 | {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Der zweifache Angriff": zweite Tier spricht in der Autorität des ersten Tieres](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Die Hure und das zweite Tier": Agiert in Macht des (ersten) Tieres](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Die Hure und das zweite Tier": Handelt in der Macht des (ersten) Tieres](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": Ideologie](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
+| {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Ist Babel die abgefallene Gemeinde?": Ideologie](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/12](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/12](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,12-14" link="rev:13,12-14" lang="de" %}} | ["Die Zeugen und die Tiere": zweite Tier](/expl/content/witnesses/the-two-witnesses#3cd4) |
@@ -591,9 +591,9 @@ docType: expl
 | {{% bible val="Offenbarung:13,13-14" link="rev:13,13-14" lang="de" %}} | ["Das zweite Tier": würdig großer Zeichen und Wunder](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="Offenbarung:13,13-14" link="rev:13,13-14" lang="de" %}} | ["Der zweifache Angriff": Tut große Zeichen, lässt Feuer vom Himmel fallen, täuscht durch Zeichen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,13-14" link="rev:13,13-14" lang="de" %}} | ["Der zweifache Angriff": Tut große Dinge vor den Menschen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Offenbarung:13,13-14" link="rev:13,13-14" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": ein Gefühl der Überlegenheit](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
+| {{% bible val="Offenbarung:13,13-14" link="rev:13,13-14" lang="de" %}} | ["Ist Babel die abgefallene Gemeinde?": ein Gefühl der Überlegenheit](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:13,13-14" link="rev:13,13-14" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/13-14](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Offenbarung:13,13-15" link="rev:13,13-15" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": beeindruckendem Tempeldienst](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
+| {{% bible val="Offenbarung:13,13-15" link="rev:13,13-15" lang="de" %}} | ["Ist Babel die abgefallene Gemeinde?": beeindruckendem Tempeldienst](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:13,14" link="rev:13,14" lang="de" %}} | ["Knotenpunkt 1: zweimal lebendig werden, ein Verb": dessen Schwertwunde heilte und das lebendig wurde](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Offenbarung:13,14" link="rev:13,14" lang="de" %}} | ["Was das Thema wirklich trägt": es wurde lebendig](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Offenbarung:13,14" link="rev:13,14" lang="de" %}} | ["Der Kontext der ersten Leser": in der Offenbarung mit dem Schwert verwundet wird](/expl/content/beasts/666-the-number-of-the-beast#a261) |
@@ -622,8 +622,8 @@ docType: expl
 | {{% bible val="Offenbarung:13,16" link="rev:13,16" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/16](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,16-17" link="rev:13,16-17" lang="de" %}} | ["Das zweite Tier": wird finanziell ruiniert](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="Offenbarung:13,16-17" link="rev:13,16-17" lang="de" %}} | ["Die dunkle Seite": alle Menschen sich unserem Wertesystem unterwerfen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
-| {{% bible val="Offenbarung:13,16-17" link="rev:13,16-17" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": gibt Reichtum oder macht arm](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
-| {{% bible val="Offenbarung:13,16-17" link="rev:13,16-17" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": Ausgrenzung all derer, die nicht mitmachen](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
+| {{% bible val="Offenbarung:13,16-17" link="rev:13,16-17" lang="de" %}} | ["Ist Babel die abgefallene Gemeinde?": gibt Reichtum oder macht arm](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
+| {{% bible val="Offenbarung:13,16-17" link="rev:13,16-17" lang="de" %}} | ["Ist Babel die abgefallene Gemeinde?": Ausgrenzung all derer, die nicht mitmachen](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:13,16-17" link="rev:13,16-17" lang="de" %}} | ["Die Zeugen und die Tiere": zweiten](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,17" link="rev:13,17" lang="de" %}} | ["Der zweifache Angriff": Niemand kann kaufen oder verkaufen, es sei denn, er hat das Zeichen des Tieres](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,17" link="rev:13,17" lang="de" %}} | ["Die Hure und das zweite Tier": Kann nicht kaufen oder verkaufen ohne Zeichen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
@@ -656,7 +656,7 @@ docType: expl
 | {{% bible val="Offenbarung:14,6-7" link="rev:14,6-7" lang="de" %}} | ["Die ersten drei Engel": er hatte das ewige Evangelium zu verkündigen denen, die auf der Erde wohnen – jeder Nation und jedem Stamm, jeder Sprache und jedem Volk. Er sprach mit lauter Stimme: 'Fürchtet Gott und gebt ihm die Ehre, denn die Stunde seines Gerichts ist gekommen. Betet den an, der den Himmel, die Erde, das Meer und die Wasserquellen gemacht hat.'](/expl/content/harvest/gods-army-and-the-seven-angels#ad85) |
 | {{% bible val="Offenbarung:14,6-13" link="rev:14,6-13" lang="de" %}} | ["Das Muster: Überwinden durch Schwachheit": ins Verderben gehen und alle mit sich reißen werden, die auf sie vertraut haben](/expl/content/jesus/a-different-christmas-story#fb36) |
 | {{% bible val="Offenbarung:14,7" link="rev:14,7" lang="de" %}} | ["Die Zahl 4": durch die drei Engel](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#0f0d) |
-| {{% bible val="Offenbarung:14,8" link="rev:14,8" lang="de" %}} | ["Die beiden Ernten": wenige Verse zuvor angekündigten Fall Babylons](/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |
+| {{% bible val="Offenbarung:14,8" link="rev:14,8" lang="de" %}} | ["Die beiden Ernten": wenige Verse zuvor angekündigten Fall Babels](/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |
 | {{% bible val="Offenbarung:14,10-11" link="rev:14,10-11" lang="de" %}} | ["Worum geht es bei der Hölle?": mit brennendem Schwefel gequält, und der Rauch ihrer Qual steigt auf in alle Ewigkeit](/expl/content/paradise/heaven-and-hell#2be6) |
 | {{% bible val="Offenbarung:14,14" link="rev:14,14" lang="de" %}} | ["Das Geheimnis des ersten Reiters": der wie der Menschensohn auf einer weißen Wolke sitzt, mit einer scharfen Sichel, um die Erde zu ernten](/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="Offenbarung:14,14-19" link="rev:14,14-19" lang="de" %}} | ["Die Kombination 4x7": siebenfache Erwähnung der Sichel](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#1ee7) |
@@ -707,7 +707,7 @@ docType: expl
 | {{% bible val="Offenbarung:17" link="rev:17,-1" lang="de" %}} | ["Die Auflösung": Kapitel 17](/expl/content/seals/the-mystery-of-the-four-horse-men#8d71) |
 | {{% bible val="Offenbarung:17" link="rev:17,-1" lang="de" %}} | [""Die Hure (Kap. 17-19)"": Kapitel 17](/kids/content/harlot) |
 | {{% bible val="Offenbarung:17" link="rev:17,-1" lang="de" %}} | ["Offenbarung 17–19": Offenbarung 17–19](/kids/elementary/14-the-harlot-and-the-bride#offenbarung-1719) |
-| {{% bible val="Offenbarung:17" link="rev:17,-1" lang="de" %}} | [""Offb. 17–18: Babylon fällt"": Offenbarung 17–19](/kids/teens/15-babylon-falls) |
+| {{% bible val="Offenbarung:17" link="rev:17,-1" lang="de" %}} | [""Offb. 17–18: Babel fällt"": Offenbarung 17–19](/kids/teens/15-babylon-falls) |
 | {{% bible val="Offenbarung:17" link="rev:17,-1" lang="de" %}} | [""Die Hure (Kap. 17-19)"": Kapitel 17](/quick/content/harlot) |
 | {{% bible val="Offenbarung:17" link="rev:17,-1" lang="de" %}} | ["Die vier Reiter": Kapitel 17](/quick/content/seals#die-vier-reiter) |
 | {{% bible val="Offenbarung:17,1" link="rev:17,1" lang="de" %}} | ["deiknumi": Die Einleitung zur Vision der Hure](/expl/background/literature/literally-or-symbolic#360a) |
@@ -718,7 +718,7 @@ docType: expl
 | {{% bible val="Offenbarung:17,1-13" link="rev:17,1-13" lang="de" %}} | ["Die Ekphrasis": erste Hälfte von Kapitel 17](/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#d4d3) |
 | {{% bible val="Offenbarung:17,2" link="rev:17,2" lang="de" %}} | ["Das Geheimnis ihres Falls": kontrolliert die Könige](/expl/content/harlot/the-character-and-destiny-of-the-harlot#a995) |
 | {{% bible val="Offenbarung:17,2" link="rev:17,2" lang="de" %}} | ["Die Hure": täuscht die Menschen](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Offenbarung:17,2" link="rev:17,2" lang="de" %}} | ["Der wirtschaftliche Aspekt": Babylons Hurerei mit den Königen der Erde](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
+| {{% bible val="Offenbarung:17,2" link="rev:17,2" lang="de" %}} | ["Der wirtschaftliche Aspekt": Babels Hurerei mit den Königen der Erde](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
 | {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Der Dienst": (Offb.17/3)](/expl/background/israel/the-church-is-part-of-israel#05d4) |
 | {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Die falsche Dreifaltigkeit": Hat 7 Köpfe und 10 Hörner](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Die falsche Dreifaltigkeit": Gotteslästerliche Name](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
@@ -742,14 +742,14 @@ docType: expl
 | {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Die Hure": Verfolgte Mutter](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Die Hure": Offb.17/5](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Die Hure und das zweite Tier": Offb.17/5](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Der religiöse Aspekt": Babylon, die Große, Mutter der Huren und der Gräuel der Erde](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
+| {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Der religiöse Aspekt": Babel, die Große, Mutter der Huren und der Gräuel der Erde](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Die Kernlehre": Tieres](/sermons/deep-dive/intro/03-symbol-or-literal#die-kernlehre) |
 | {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Die Kernlehre": Hure](/sermons/deep-dive/intro/06-the-three-mysteries#die-kernlehre) |
 | {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Die Kernlehre": Offenbarung 17,5](/sermons/deep-dive/intro/06-the-three-mysteries#die-kernlehre) |
 | {{% bible val="Offenbarung:17,6" link="rev:17,6" lang="de" %}} | ["Die Hure und das zweite Tier": Trinkt Blut der Heiligen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:17,6" link="rev:17,6" lang="de" %}} | ["Die Hure": Verfolgt und tötet Heilige](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,6" link="rev:17,6" lang="de" %}} | ["Die Hure und das zweite Tier": Trinkt das Blut der Heiligen](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Offenbarung:17,6" link="rev:17,6" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": das Zum-Schweigen-Bringen unbequemer Stimmen](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
+| {{% bible val="Offenbarung:17,6" link="rev:17,6" lang="de" %}} | ["Ist Babel die abgefallene Gemeinde?": das Zum-Schweigen-Bringen unbequemer Stimmen](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:17,7" link="rev:17,7" lang="de" %}} | ["Die Ekphrasis": verwirrter Erzähler](/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#d4d3) |
 | {{% bible val="Offenbarung:17,8" link="rev:17,8" lang="de" %}} | ["Die falsche Dreifaltigkeit": das Tier, das war und nicht ist und wiederkommen wird](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:17,8" link="rev:17,8" lang="de" %}} | ["Die falsche Dreifaltigkeit": Alle, die nicht im Buch des Lebens geschrieben sind sind überwältigt](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
@@ -782,32 +782,32 @@ docType: expl
 | {{% bible val="Offenbarung:17,16" link="rev:17,16" lang="de" %}} | ["Das scharlachrote Tier": Offb.17/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung:17,16" link="rev:17,16" lang="de" %}} | ["Die Hure": Offb.17/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,16" link="rev:17,16" lang="de" %}} | ["Die Hure und das zweite Tier": Offb.17/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Offenbarung:17,16" link="rev:17,16" lang="de" %}} | ["Der religiöse Aspekt": beschämt endet wie Babylon](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
+| {{% bible val="Offenbarung:17,16" link="rev:17,16" lang="de" %}} | ["Der religiöse Aspekt": beschämt endet wie Babel](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Offenbarung:17,17" link="rev:17,17" lang="de" %}} | ["Das Geheimnis ihres Falls": Die einfachste Antwort ist, dass Gott es ihnen ins Herz gegeben hat](/expl/content/harlot/the-character-and-destiny-of-the-harlot#a995) |
 | {{% bible val="Offenbarung:17,17" link="rev:17,17" lang="de" %}} | ["Die Hure": Gott hat es ins Herz gelegt, die Hure zu vernichten](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,18" link="rev:17,18" lang="de" %}} | ["Die Hure": Offb.17/18](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,18" link="rev:17,18" lang="de" %}} | ["Die Hure": Offb.17/18](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:18" link="rev:18,-1" lang="de" %}} | [""Die Hure (Kap. 17-19)"": 18](/kids/content/harlot) |
 | {{% bible val="Offenbarung:18" link="rev:18,-1" lang="de" %}} | [""Die Hure (Kap. 17-19)"": 18](/quick/content/harlot) |
-| {{% bible val="Offenbarung:18,1" link="rev:18,1" lang="de" %}} | ["Ein kleines Wort mit großen Konsequenzen": dem Gericht über Babylon](/expl/content/1000y/the-thousand-year-kingdom#b25f) |
+| {{% bible val="Offenbarung:18,1" link="rev:18,1" lang="de" %}} | ["Ein kleines Wort mit großen Konsequenzen": dem Gericht über Babel](/expl/content/1000y/the-thousand-year-kingdom#b25f) |
 | {{% bible val="Offenbarung:18,3" link="rev:18,3" lang="de" %}} | ["Die Hure und das zweite Tier": Kann ohne Zeichen nicht kaufen oder verkaufen](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Offenbarung:18,3" link="rev:18,3" lang="de" %}} | ["Der wirtschaftliche Aspekt": treiben Hurerei mit Babylon](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
+| {{% bible val="Offenbarung:18,3" link="rev:18,3" lang="de" %}} | ["Der wirtschaftliche Aspekt": treiben Hurerei mit Babel](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
 | {{% bible val="Offenbarung:18,3" link="rev:18,3" lang="de" %}} | ["Die internen Features": die Art von Ruhm und Reichtum, die sie einst von Babel bezogen](/expl/content/paradise/the-new-jerusalem#284a) |
 | {{% bible val="Offenbarung:18,4" link="rev:18,4" lang="de" %}} | ["Der Charakter der Hure": und wir müssen es verlassen](/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
-| {{% bible val="Offenbarung:18,4" link="rev:18,4" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": damit du gezwungen bist, immer weiter zu reflektieren und Tag für Tag aus ihr herauszutreten](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
+| {{% bible val="Offenbarung:18,4" link="rev:18,4" lang="de" %}} | ["Ist Babel die abgefallene Gemeinde?": damit du gezwungen bist, immer weiter zu reflektieren und Tag für Tag aus ihr herauszutreten](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:18,4" link="rev:18,4" lang="de" %}} | ["Ihre Wirkung und ihr Gericht": Offenbarung 18,4](/quick/content/harlot#ihre-wirkung-und-ihr-gericht) |
 | {{% bible val="Offenbarung:18,6" link="rev:18,6" lang="de" %}} | ["Das Gericht": doppelt für ihre Taten vergolten](/expl/content/harlot/the-character-and-destiny-of-the-harlot#db66) |
 | {{% bible val="Offenbarung:18,7" link="rev:18,7" lang="de" %}} | ["Der Charakter der Hure": Sie sieht sich selbst als unantastbar](/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
 | {{% bible val="Offenbarung:18,7" link="rev:18,7" lang="de" %}} | ["Die Hure": Offb.18/7](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Offenbarung:18,8" link="rev:18,8" lang="de" %}} | ["Der religiöse Aspekt": das ist das Gericht, das über Babylon kommt](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
+| {{% bible val="Offenbarung:18,8" link="rev:18,8" lang="de" %}} | ["Der religiöse Aspekt": das ist das Gericht, das über Babel kommt](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Offenbarung:18,9" link="rev:18,9" lang="de" %}} | ["Die Hure und das zweite Tier": Offb.18/9](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:18,9" link="rev:18,9" lang="de" %}} | ["Das Geheimnis ihres Falls": weinen anschließend über sie](/expl/content/harlot/the-character-and-destiny-of-the-harlot#a995) |
 | {{% bible val="Offenbarung:18,9" link="rev:18,9" lang="de" %}} | ["Die Hure und das zweite Tier": Offb.18/9](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:18,9" link="rev:18,9" lang="de" %}} | ["Der wirtschaftliche Aspekt": werden dadurch reich](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
 | {{% bible val="Offenbarung:18,9-11" link="rev:18,9-11" lang="de" %}} | ["Die Hure": Gott richtet die Nachfolger](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Offenbarung:18,10" link="rev:18,10" lang="de" %}} | ["Der Charakter der Hure": die Könige Babylons plötzlichen Fall beklagen](/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
+| {{% bible val="Offenbarung:18,10" link="rev:18,10" lang="de" %}} | ["Der Charakter der Hure": die Könige Babels plötzlichen Fall beklagen](/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
 | {{% bible val="Offenbarung:18,10" link="rev:18,10" lang="de" %}} | ["Die Hure": Gericht kommt schnell](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Offenbarung:18,10" link="rev:18,10" lang="de" %}} | ["Niederlage wird zum Sieg": Babylon, die große Stadt](/expl/content/witnesses/the-two-witnesses#5f50) |
+| {{% bible val="Offenbarung:18,10" link="rev:18,10" lang="de" %}} | ["Niederlage wird zum Sieg": Babel, die große Stadt](/expl/content/witnesses/the-two-witnesses#5f50) |
 | {{% bible val="Offenbarung:18,11" link="rev:18,11" lang="de" %}} | ["Die 666 im Zusammenhang": Beschreibung des Tieres, auf dem die Hure sitzt](/expl/content/beasts/666-the-number-of-the-beast#c413) |
 | {{% bible val="Offenbarung:18,11" link="rev:18,11" lang="de" %}} | ["Die Hure und das zweite Tier": Händler, die mit ihr Handel trieben, können nichts mehr kaufen oder verkaufen, jetzt da sie gefallen ist](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:18,11-13" link="rev:18,11-13" lang="de" %}} | ["Die Kombination 4x7": Liste der Handelsgüter Babels](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#1ee7) |
@@ -815,7 +815,7 @@ docType: expl
 | {{% bible val="Offenbarung:18,11-17" link="rev:18,11-17" lang="de" %}} | ["Die Hure und das zweite Tier": Offb.18/11-17](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:18,11-19" link="rev:18,11-19" lang="de" %}} | ["Die Hure": Sucht nach wirtschaftlichem Reichtum](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:18,12-13" link="rev:18,12-13" lang="de" %}} | ["Der Charakter der Hure": Liste ihrer Güter](/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
-| {{% bible val="Offenbarung:18,12-13" link="rev:18,12-13" lang="de" %}} | ["Der wirtschaftliche Aspekt": Güterliste Babylons](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
+| {{% bible val="Offenbarung:18,12-13" link="rev:18,12-13" lang="de" %}} | ["Der wirtschaftliche Aspekt": Güterliste Babels](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
 | {{% bible val="Offenbarung:18,16" link="rev:18,16" lang="de" %}} | ["Die Hure": Offb.18/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:18,16" link="rev:18,16" lang="de" %}} | ["Die Hure": Offb.18/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:18,16" link="rev:18,16" lang="de" %}} | ["Der religiöse Aspekt": 18](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |

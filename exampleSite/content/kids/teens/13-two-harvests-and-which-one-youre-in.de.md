@@ -30,7 +30,7 @@ Sie singen ein neues Lied, das niemand sonst lernen kann. Nicht, weil es schwier
 
 Und hier lohnt es sich, genau zu sein, weil man es leicht verdreht: Diese Menschen haben den Krieg nicht gewonnen. Jesus hat ihn am Kreuz gewonnen, in Kapitel 12. Was sie getan haben, ist, **einem Sieg die Treue zu halten, der längst feststand** — ein gewöhnliches Nein zum Kompromiss nach dem anderen. Das ist die ganze Qualifikation, um dort zu stehen und zu singen: Sie sind nicht eingeknickt.
 
-Dann fliegen drei Engel über den Himmel und rufen. Der erste verkündet „das ewige Evangelium" allen Nationen — und beachte: Selbst hier, so tief im Buch, steht das Angebot noch allen offen. Der zweite verkündet, dass Babylon gefallen ist. Der dritte warnt in der härtesten Sprache des Buches davor, das Zeichen des Tieres anzunehmen. Das ist kein Kleingedrucktes. Es ist die letzte, lauteste Gelegenheit, es sich anders zu überlegen, bevor das Nächste kommt.
+Dann fliegen drei Engel über den Himmel und rufen. Der erste verkündet „das ewige Evangelium" allen Nationen — und beachte: Selbst hier, so tief im Buch, steht das Angebot noch allen offen. Der zweite verkündet, dass Babel gefallen ist. Der dritte warnt in der härtesten Sprache des Buches davor, das Zeichen des Tieres anzunehmen. Das ist kein Kleingedrucktes. Es ist die letzte, lauteste Gelegenheit, es sich anders zu überlegen, bevor das Nächste kommt.
 
 Und das Nächste ist unverblümt. Zwei Engel schwingen zwei Sicheln über die Erde. Der eine bringt eine **Getreide**ernte ein — das Heimholen, Menschen in Sicherheit gebracht. Der andere erntet **Trauben** und wirft sie in „die große Kelter des Zorns Gottes", beschrieben mit einem Bild, das das Buch nicht abmildert: Blut bis an die Zäume der Pferde, 1.600 Stadien weit.
 

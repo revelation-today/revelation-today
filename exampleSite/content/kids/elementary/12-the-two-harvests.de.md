@@ -48,7 +48,7 @@ geht es.
 Dann fliegen drei Engel vorbei mit drei Ansagen:
 
 - der erste hat **gute Nachricht für jedes Volk** — das Angebot steht noch, für alle
-- der zweite sagt: **Babylon ist gefallen** — die große Fälscher-Stadt ist am Ende
+- der zweite sagt: **Babel ist gefallen** — die große Fälscher-Stadt ist am Ende
 - der dritte warnt ernst davor, dem Tier zu folgen
 
 Achte auf die Reihenfolge. Die gute Nachricht kommt *zuerst*. Die Warnung ist echt, aber die

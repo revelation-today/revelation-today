@@ -13,7 +13,7 @@ next: /sermons/liberal-progressive/ending/12-rapture-judgment-left-behind
 
 ## A hopeful landing place
 
-After ten sessions spent honestly wrestling with material that doesn't come easily to this tradition — wrath, tribulation, beasts, an economically indicted Babylon, the hard edges of heaven and hell — we arrive somewhere genuinely restful. Revelation 21–22 is this whole book's actual destination, and it's worth letting it land as the good news it is, without immediately hedging it with more difficult questions. There will be time for that. Not today.
+After ten sessions spent honestly wrestling with material that doesn't come easily to this tradition — wrath, tribulation, beasts, an economically indicted Babel, the hard edges of heaven and hell — we arrive somewhere genuinely restful. Revelation 21–22 is this whole book's actual destination, and it's worth letting it land as the good news it is, without immediately hedging it with more difficult questions. There will be time for that. Not today.
 
 ## Hearing and seeing, one more time
 
@@ -35,9 +35,9 @@ Here's a detail easy to skim past that carries real theological weight: the city
 
 ## The counter-image to everything we've studied
 
-The New Jerusalem is deliberately built as the mirror opposite of the harlot Babylon we sat with last session — and lining the two up sharpens what each one means. Both are described as women; both are cities; both are elaborately dressed in gold and jewels. But Babylon's glamour covered exploitation, drank the blood of the persecuted, and collapsed within a single hour once her allies turned on her. The New Jerusalem's glory reflects God's own mercy and compassion, gained through faithfulness rather than extraction, and it stands forever rather than for an hour. Every value Babylon corrupted — wealth, splendor, security, permanence — reappears here in its true, uncorrupted form.
+The New Jerusalem is deliberately built as the mirror opposite of the harlot Babel we sat with last session — and lining the two up sharpens what each one means. Both are described as women; both are cities; both are elaborately dressed in gold and jewels. But Babel's glamour covered exploitation, drank the blood of the persecuted, and collapsed within a single hour once her allies turned on her. The New Jerusalem's glory reflects God's own mercy and compassion, gained through faithfulness rather than extraction, and it stands forever rather than for an hour. Every value Babel corrupted — wealth, splendor, security, permanence — reappears here in its true, uncorrupted form.
 
-There's an added detail worth sitting with: the nations bring their own splendor and honor into the city — not tribute extracted from them by force, as Babylon demanded, but something they freely bring to lay before God, echoing Isaiah's vision of the nations streaming toward Zion's light. This isn't the language of a walled fortress excluding outsiders reflexively. It's the language of an open city, gates never shut, built at roughly the scale of the entire known world at the time — room, the text suggests, for everyone willing to come.
+There's an added detail worth sitting with: the nations bring their own splendor and honor into the city — not tribute extracted from them by force, as Babel demanded, but something they freely bring to lay before God, echoing Isaiah's vision of the nations streaming toward Zion's light. This isn't the language of a walled fortress excluding outsiders reflexively. It's the language of an open city, gates never shut, built at roughly the scale of the entire known world at the time — room, the text suggests, for everyone willing to come.
 
 ## A promise, delivered
 
@@ -46,5 +46,5 @@ One last detail worth naming: every promise made to the seven struggling churche
 ## Questions for reflection or discussion
 
 - What does it mean to you that the New Jerusalem takes the single most restricted space in the Old Testament — the Holy of Holies — and makes it the shared home of everyone who belongs there?
-- Compare Babylon's glamour with the New Jerusalem's glory. Where in your own life or community have you mistaken one for the other?
+- Compare Babel's glamour with the New Jerusalem's glory. Where in your own life or community have you mistaken one for the other?
 - The nations bring their splendor freely, rather than having it extracted by force. What would it look like for your own gifts to be brought that way — freely, rather than under pressure?

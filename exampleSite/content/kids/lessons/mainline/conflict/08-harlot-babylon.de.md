@@ -15,7 +15,7 @@ draft: true
 
 
 # Die Stadt, die alles versprach und nichts hielt
-### Wer ist die Hure Babylon?
+### Wer ist die Hure Babel?
 
 ## 1. Katzengold
 
@@ -30,7 +30,7 @@ und glanzvoll aussieht — sich aber als genau wie Katzengold herausstellt.
 ## 2. Eine Frau, gekleidet wie eine Königin
 
 In Offenbarung 17 sieht Johannes eine Frau, gekleidet in Purpur und Scharlach, bedeckt mit
-Gold und Edelsteinen, reitend auf einem gruseligen Tier. Sie heißt "Babylon", und Könige
+Gold und Edelsteinen, reitend auf einem gruseligen Tier. Sie heißt "Babel", und Könige
 und Herrscher aus der ganzen Welt sind in sie verliebt — in ihren Reichtum, ihren Glanz,
 ihre Macht.
 
@@ -48,7 +48,7 @@ schaden, nicht auf etwas Gutem oder Wahrem.
 
 ## 4. Ihre Verbündeten wenden sich gegen sie
 
-Hier kommt die überraschende Wendung: Genau die Könige und Herrscher, die Babylon liebten
+Hier kommt die überraschende Wendung: Genau die Könige und Herrscher, die Babel liebten
 und sie reich machten, wenden sich plötzlich gegen sie und zerstören sie
 (Offenbarung 17,16). All ihre "Freunde" blieben nur wegen dem, was sie ihnen geben konnte —
 in dem Moment, als das nicht mehr nützlich war, verließen sie sie komplett.
@@ -92,5 +92,5 @@ wirklich gut ist", und besprecht den Unterschied.
 
 **Fragen für die Kinder:**
 1. Fällt dir etwas ein, das erstaunlich aussieht, aber eigentlich nicht gut für dich ist?
-2. Warum, glaubst du, haben Babylons "Freunde" sie so schnell verlassen?
+2. Warum, glaubst du, haben Babels "Freunde" sie so schnell verlassen?
 3. Was ist eine glänzend aussehende Sache, der du manchmal mehr vertraust als Gott?

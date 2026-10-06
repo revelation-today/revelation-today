@@ -35,7 +35,7 @@ Geheimnis {{% bible val="Gottes" link="rev:10,7" lang="de" %}} und das Geheimnis
 {{% bible val="Hure" link="rev:17,5" lang="de" %}}. Diese drei sind nicht zufällig verstreut —
 zusammen bilden sie einen gespiegelten Kontrast, der sich durch das ganze Buch zieht: die Berufung
 der Braut zu treuer Anbetung, gestellt gegen das Verhängnis, das alle erwartet, die sich mit
-Babylon verstrickt haben, mit Gottes eigenem verborgenen Plan als Angelpunkt dazwischen.
+Babel verstrickt haben, mit Gottes eigenem verborgenen Plan als Angelpunkt dazwischen.
 
 **Erstes Geheimnis: die Gemeinde.** Paulus' Sprache in
 {{% bible val="Epheser 3,3-6" link="eph:3,3-6" lang="de" %}} benennt das Geheimnis direkt: „dass
@@ -64,10 +64,10 @@ unten betrachtet aussieht, als bräuchte er viel zu lange — aber dass das Gehe
 wird, bedeutet, dass es nie wirklich verzögert war.
 
 **Drittes Geheimnis: die Hure.** In {{% bible val="Offenbarung 17,5" link="rev:17,5" lang="de" %}}
-wird „Babylon, die Große, die Mutter der Huren" selbst ein Geheimnis genannt — ein Codename für ein
+wird „Babel, die Große, die Mutter der Huren" selbst ein Geheimnis genannt — ein Codename für ein
 reales System, herausgeputzt wie eine Braut, aber einmal enthüllt als verurteilte Fälschung. Wir
 werden ihrer Identität viel später in der Reihe erheblich Zeit widmen (die Einheiten zur Hure
-Babylon); der Punkt, der jetzt schon gesetzt werden soll, ist strukturell: Die Hure ist bewusst als
+Babel); der Punkt, der jetzt schon gesetzt werden soll, ist strukturell: Die Hure ist bewusst als
 dunkler Spiegel der Gemeinde positioniert. Wo das Gemeinde-Geheimnis die wahre Braut ist, bestehend
 aus einem erlösten, anbetenden Volk, ist das Hure-Geheimnis die falsche Braut, bestehend aus allen,
 die Bundestreue gegen Wohlstand, Sicherheit und Status eingetauscht haben.
@@ -102,7 +102,7 @@ Familienstreit darüber, wer wirklich zu Israel gehört, nicht als ethnische Abl
    genannt werden?
 2. Was fügt Epheser 3,3-6 eurem Verständnis dessen hinzu, was „Geheimnis" biblisch bedeutet — im
    Gegensatz zum gängigen modernen Sinn eines ungelösten Rätsels?
-3. Wie verändert es eure Erwartungen an die späteren Kapitel über Babylon, wenn ihr die Gemeinde
+3. Wie verändert es eure Erwartungen an die späteren Kapitel über Babel, wenn ihr die Gemeinde
    und die Hure als bewusst gespiegeltes Paar seht?
 
 **Was das für uns bedeutet:**
@@ -111,7 +111,7 @@ Familienstreit darüber, wer wirklich zu Israel gehört, nicht als ethnische Abl
    gewöhnliche, unauffällige Ortsgemeinde sehen?
 5. Die Hure repräsentiert den Tausch von Bundestreue gegen Wohlstand und Sicherheit. Wo seht ihr,
    dass euch persönlich dieser Tausch angeboten wird, auf Weisen, die überhaupt nicht wie das
-   antike Babylon aussehen?
+   antike Babel aussehen?
 6. Gottes verborgener Plan (das „Geheimnis Gottes") wird als etwas beschrieben, das verzögert
    aussieht, es aber nicht ist. Wo in eurem eigenen Leben müsst ihr darauf vertrauen, dass Gottes
    Timing tatsächlich nicht hinterherhinkt?

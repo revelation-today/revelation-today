@@ -28,27 +28,27 @@ außen schön und wichtig aussieht — aber darunter ist etwas sehr falsch."
 
 ## 2. Die aufgeputzte Stadt
 
-In der Offenbarung sieht Johannes eine Stadt namens "Babylon", gekleidet in Gold, Purpur und
+In der Offenbarung sieht Johannes eine Stadt namens "Babel", gekleidet in Gold, Purpur und
 Juwelen, sieht aus wie eine Braut, bereit für ihre Hochzeit. Aber statt Gott treu zu gehören, hat
 diese Stadt ihre Liebe und Treue der Macht, dem Geld und Dingen gegeben, die nicht Gott sind.
 
 ## 3. Was sie wirklich anbietet
 
-Babylon verspricht den Menschen Sicherheit, Reichtum und Wichtigkeit — aber sie bekommt das alles,
+Babel verspricht den Menschen Sicherheit, Reichtum und Wichtigkeit — aber sie bekommt das alles,
 indem sie anderen wehtut und Dingen vertraut statt Gott zu vertrauen. Sie sieht glamourös und
 schön aus, aber darunter sind die Dinge nicht so, wie sie scheinen.
 
 ## 4. Eine Frage für uns, nicht nur für "die anderen"
 
-Es ist leicht zu denken, Babylon sei nur "eine böse Stadt da draußen", die nichts mit uns zu tun
+Es ist leicht zu denken, Babel sei nur "eine böse Stadt da draußen", die nichts mit uns zu tun
 hat. Aber die eigentliche Frage, die die Bibel uns stellen will, ist: Vertrauen wir jemals Geld,
-Beliebtheit oder gutem Aussehen mehr als Gott? Das ist der hinterhältige Teil — Babylon ist nicht
+Beliebtheit oder gutem Aussehen mehr als Gott? Das ist der hinterhältige Teil — Babel ist nicht
 nur "jemand anderes". Es ist eine Versuchung, die sich in jedes Herz einschleichen kann,
 einschließlich unserem.
 
 ## 5. Das Ende
 
-Am Ende fällt Babylons prächtiges, glitzerndes Königreich auseinander — weil alles, was auf
+Am Ende fällt Babels prächtiges, glitzerndes Königreich auseinander — weil alles, was auf
 anderen Dingen als Gott gebaut ist, nicht wirklich bestehen kann. Das ist kein gruseliges Ende;
 es ist eigentlich eine gute Nachricht: Es bedeutet, dass wir nicht weiter Dingen hinterherjagen
 müssen, die nicht bestehen bleiben können. Wir können unser Leben stattdessen auf Jesus bauen, der
@@ -69,7 +69,7 @@ fällst. Amen.
 
 **Einstiegsaktivität:** Der oben beschriebene Vergleich mit falschem/Modeschmuck.
 
-**Bastelidee:** Die Kinder malen zwei Häuser — eins auf Sand gebaut (Babylon, Dinge, die nicht
+**Bastelidee:** Die Kinder malen zwei Häuser — eins auf Sand gebaut (Babel, Dinge, die nicht
 bestehen bleiben) und eins auf Fels gebaut (Jesus vertrauen) — und verbinden das mit dem
 Gleichnis vom weisen und törichten Baumeister.
 

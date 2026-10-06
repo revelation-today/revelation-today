@@ -28,7 +28,7 @@ docType: expl
 | {{% bible val="Jeremia:31,9" link="jer:31,9" lang="de" %}} | ["Gottes Sohn": als Israels Stamm Ephraim Erstgeborener genannt wird](/expl/background/israel/the-church-is-part-of-israel#db2c) |
 | {{% bible val="Jeremia:31,31-34" link="jer:31,31-34" lang="de" %}} | ["Die 70 Jahrwochen": Bund mit vielen](/expl/bible/daniel/the-70-year-weeks#d777) |
 | {{% bible val="Jeremia:49,19-22" link="jer:49,19-22" lang="de" %}} | ["Die vier Königreiche": Löwen und Adler](/expl/bible/daniel/the-four-kingdoms-in-daniel#c9a9) |
-| {{% bible val="Jeremia:51,25" link="jer:51,25" lang="de" %}} | ["Die sieben Hügel und die sieben Könige": Babylon, das als Berg beschrieben wird](/expl/content/harlot/who-is-the-harlot-babylon-part-1#09b7) |
+| {{% bible val="Jeremia:51,25" link="jer:51,25" lang="de" %}} | ["Die sieben Hügel und die sieben Könige": Babel, das als Berg beschrieben wird](/expl/content/harlot/who-is-the-harlot-babylon-part-1#09b7) |
 | {{% bible val="Jeremia:51,25" link="jer:51,25" lang="de" %}} | ["Die ersten vier Posaunen": ein zerstörender Berg](/expl/content/trumpets/the-trumpets-in-revelation#e565) |
 | {{% bible val="Jeremia:51,33" link="jer:51,33" lang="de" %}} | ["Die beiden Ernten": Dreschen](/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |
-| {{% bible val="Jeremia:51,63-64" link="jer:51,63-64" lang="de" %}} | ["Die ersten vier Posaunen": Jeremias Schriftrolle gegen Babylon an einen Stein gebunden und im Euphrat versenkt wurde](/expl/content/trumpets/the-trumpets-in-revelation#e565) |
+| {{% bible val="Jeremia:51,63-64" link="jer:51,63-64" lang="de" %}} | ["Die ersten vier Posaunen": Jeremias Schriftrolle gegen Babel an einen Stein gebunden und im Euphrat versenkt wurde](/expl/content/trumpets/the-trumpets-in-revelation#e565) |

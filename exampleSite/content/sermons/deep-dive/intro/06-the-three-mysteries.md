@@ -33,7 +33,7 @@ book to use the term — and Revelation uses it exactly three times: the mystery
 {{% bible val="God" link="rev:10,7" lang="en" %}}, and the mystery of the
 {{% bible val="harlot" link="rev:17,5" lang="en" %}}. These three aren't scattered at random —
 together they form a mirrored contrast running through the whole book: the Bride's calling to
-faithful worship set against the doom awaiting everyone entangled with Babylon, with God's own
+faithful worship set against the doom awaiting everyone entangled with Babel, with God's own
 hidden plan as the hinge between them.
 
 **Mystery one: the church.** Paul's language in
@@ -61,9 +61,9 @@ plan all along that looks, from the ground, like it's taking far too long — bu
 being "finished" means it was never actually delayed.
 
 **Mystery three: the harlot.** In {{% bible val="Revelation 17:5" link="rev:17,5" lang="en" %}},
-"Babylon the Great, Mother of Prostitutes" is herself called a mystery — a coded name for a real
+"Babel the Great, Mother of Prostitutes" is herself called a mystery — a coded name for a real
 system dressed up as a bride but revealed, once unveiled, as a doomed counterfeit. We'll spend
-substantial time on her identity much later in the series (the Harlot Babylon sessions); the
+substantial time on her identity much later in the series (the Harlot Babel sessions); the
 point worth planting now is structural: the harlot is deliberately positioned as the dark mirror
 of the church. Where the church-mystery is the true Bride made up of a redeemed, worshiping
 people, the harlot-mystery is the false bride made up of everyone who traded covenant
@@ -97,14 +97,14 @@ rejection.
 2. What does Ephesians 3:3-6 add to your understanding of what "mystery" means biblically —
    versus the common modern sense of an unsolved puzzle?
 3. How does seeing the church and the harlot as a deliberate mirrored pair change how you expect
-   to read the later chapters about Babylon?
+   to read the later chapters about Babel?
 
 **So what for us:**
 4. If the church now carries titles once reserved for Israel alone (bride, kingdom of priests,
    God's own treasured possession), how should that shape the way we see our own ordinary,
    unremarkable local church?
 5. The harlot represents trading covenant faithfulness for wealth and security. Where do you see
-   that trade being offered to you personally, in ways that look nothing like ancient Babylon on
+   that trade being offered to you personally, in ways that look nothing like ancient Babel on
    the surface?
 6. God's hidden plan (the "mystery of God") is described as something that looks delayed but
    isn't. Where in your own life do you need to trust that God's timing isn't actually behind

@@ -25,12 +25,12 @@ could ever want is inside — but you have to give me the most important thing y
 it." Would you trust it?
 
 In Revelation, John sees a woman dressed in the most amazing clothes — purple and gold and
-jewels — riding on a scary beast. She's called "Babylon," and she looks incredibly rich and
+jewels — riding on a scary beast. She's called "Babel," and she looks incredibly rich and
 glamorous. But something is very wrong underneath all that shine.
 
 ## 2. What she's really selling
 
-Babylon isn't just one bad person — she's a picture of any promise that says: "You can have all
+Babel isn't just one bad person — she's a picture of any promise that says: "You can have all
 the money, all the success, all the good feelings you want — just put those things ahead of
 what's actually right, ahead of caring for people, ahead of God." She looks amazing on the
 outside. But look at what her glamor is actually built on: unfairness, and hurting people to get
@@ -38,20 +38,20 @@ rich.
 
 ## 3. It doesn't last
 
-Here's the surprising twist: the very people who loved Babylon and made her rich are the ones
+Here's the surprising twist: the very people who loved Babel and made her rich are the ones
 who turn against her and knock her down — suddenly, in almost no time at all! Something that
 looked so solid, so permanent, so secure... wasn't, after all.
 
 ## 4. What actually lasts
 
-So what's the difference between Babylon's fake treasure and real treasure? Real security — the
+So what's the difference between Babel's fake treasure and real treasure? Real security — the
 kind that never runs out and never gets suddenly knocked down — comes from Jesus, not from
 stuff, not from being rich, not from everybody thinking you're a winner. Jesus never asked
 anyone to trade what's right for what's shiny. He gave up everything for us, instead of asking
 us to give up what's right to get something shiny.
 
 This doesn't mean having nice things, or being successful, is bad! God is not against you having
-good things. The question Babylon's story asks is simpler: are you trusting stuff to make you
+good things. The question Babel's story asks is simpler: are you trusting stuff to make you
 safe and happy, or are you trusting Jesus?
 
 ## Our Refrain

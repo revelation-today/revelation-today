@@ -18,7 +18,7 @@ Nach der Sintflut lässt sich die Menschheit in Schinar nieder und beschließt, 
 
 Keines der beiden Ziele wird erreicht. Sie wollten sich einen Namen machen — das gelingt ihnen nie, aber Gott macht stattdessen aus Abraham einen Namen. Sie wollten vermeiden, zerstreut zu werden — genau das geschieht, als Gott ihre Sprache verwirrt, ein Ergebnis, das erst Jahrhunderte später an Pfingsten umgekehrt wird.
 
-Als Israel später ins Exil geht, vermerkt der Text, dass Babylon genau in dem Gebiet lag wie der ursprüngliche Turm — Schinar (1. Mose 10,10; Daniel 1,2). Die Verbindung ist bewusst: Stolz ist der gemeinsame Faden, und beide Reiche werden brutal verkürzt — Daniels Babylon bestand weniger als ein Jahrhundert, bevor Kyrus, den Gott selbst erweckt hatte, es zu Fall brachte. Babylon in der Offenbarung trägt dieselben Züge weiter: Stolz, ein plötzlicher Fall, und Gottes Volk, das mitten darin im Exil lebt.
+Als Israel später ins Exil geht, vermerkt der Text, dass Babel genau in dem Gebiet lag wie der ursprüngliche Turm — Schinar (1. Mose 10,10; Daniel 1,2). Die Verbindung ist bewusst: Stolz ist der gemeinsame Faden, und beide Reiche werden brutal verkürzt — Daniels Babel bestand weniger als ein Jahrhundert, bevor Kyrus, den Gott selbst erweckt hatte, es zu Fall brachte. Babel in der Offenbarung trägt dieselben Züge weiter: Stolz, ein plötzlicher Fall, und Gottes Volk, das mitten darin im Exil lebt.
 
 ## Bileam: angegriffen durch Verführung, nicht durch Widerstand
 
@@ -32,7 +32,7 @@ Die Lehre ist ernüchternd: Der gefährlichste Angriff auf Gottes Volk kommt nic
 
 ## Warum diese beiden Geschichten hier zusammengehören
 
-Babel handelt von Selbstgenügsamkeit — etwas zu bauen, um unseren eigenen Namen, unsere eigene Zukunft zu sichern, ohne Bezug auf Gott. Bileam handelt von Verführung in den Kompromiss — sanft und ohne jede dramatische Konfrontation zu Praktiken hingezogen zu werden, die still unsere Loyalität teilen. Die Offenbarung verwebt beide Fäden durch das ganze Buch hindurch: Babylon, die Große, als das ultimative Babel, und die Gemeinden in Pergamon und Thyatira, ausdrücklich gewarnt vor "der Lehre Bileams" und "der Lehre der Isebel" — beide beschreiben genau dieselbe Gefahr, Kompromiss, getarnt als Zugehörigkeit.
+Babel handelt von Selbstgenügsamkeit — etwas zu bauen, um unseren eigenen Namen, unsere eigene Zukunft zu sichern, ohne Bezug auf Gott. Bileam handelt von Verführung in den Kompromiss — sanft und ohne jede dramatische Konfrontation zu Praktiken hingezogen zu werden, die still unsere Loyalität teilen. Die Offenbarung verwebt beide Fäden durch das ganze Buch hindurch: Babel, die Große, als das ultimative Babel, und die Gemeinden in Pergamon und Thyatira, ausdrücklich gewarnt vor "der Lehre Bileams" und "der Lehre der Isebel" — beide beschreiben genau dieselbe Gefahr, Kompromiss, getarnt als Zugehörigkeit.
 
 ## Die Frage, die das für uns ehrlich aufwirft
 

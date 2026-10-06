@@ -8,15 +8,15 @@ docType: sermon
 
 This is not a standalone series. It is a short, four-session module built to be inserted into
 whichever regional or confessional pack a congregation is already using — most naturally into
-the harlot-Babylon and beast sessions of the Latin American and African packs, both of which
+the harlot-Babel and beast sessions of the Latin American and African packs, both of which
 already point here explicitly, but it fits just as well anywhere health-and-wealth teaching has
 real traction in the room. Health-and-wealth (Word of Faith / prosperity gospel) teaching isn't
 confined to one region or tradition; it cuts across all of them. So rather than build a
 thirteenth regional pack, this module gives any pack a deeper engagement exactly where
-Revelation's own content already collides with this teaching most directly: the harlot Babylon
+Revelation's own content already collides with this teaching most directly: the harlot Babel
 and the counterfeit-Christ imagery of the beasts and the first horseman.
 
-Use it where the underlying pack already has a harlot-Babylon or beast session scheduled — go
+Use it where the underlying pack already has a harlot-Babel or beast session scheduled — go
 deeper there instead of teaching both, then return to the pack's normal flow. Presented on its
 own, disconnected from the natural movement through Revelation, this risks feeling like an
 isolated attack on a named movement. Woven into the larger reading of the book, it reads instead

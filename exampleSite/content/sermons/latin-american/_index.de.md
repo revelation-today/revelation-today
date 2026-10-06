@@ -39,7 +39,7 @@ bestätigt, nicht korrigiert werden.
 Ein paar Stellen verlangen zusätzliche Sorgfalt, und wir benennen sie ehrlich, weil es wichtig
 genug ist, sie richtig zu behandeln. Die am schnellsten wachsenden Gemeinden der Region haben
 oft ein Evangelium gepredigt, in dem Reichtum, Gesundheit und sichtbarer Erfolg der Beweis für
-Gottes Gunst sind – und die Hure Babylon der Offenbarung ist als direkte, gezielte Warnung
+Gottes Gunst sind – und die Hure Babel der Offenbarung ist als direkte, gezielte Warnung
 genau vor diesem Tausch geschrieben: Treue eingetauscht gegen Glamour, Sicherheit und Gewinn.
 Wir gehen das nicht als Angriff auf jemanden an, der das in gutem Glauben gelehrt bekam,
 sondern als Einladung zu einer tieferen, beständigeren Sicherheit – der Art, die die

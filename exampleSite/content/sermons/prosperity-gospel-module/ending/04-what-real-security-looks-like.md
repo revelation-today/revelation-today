@@ -24,7 +24,7 @@ Jerusalem.
 
 {{% bible val="'I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband.'" link="rev:21,2" lang="en" %}}
 
-Notice immediately what's being answered here. The harlot Babylon was also dressed up,
+Notice immediately what's being answered here. The harlot Babel was also dressed up,
 glittering with gold and jewels, calling herself untouchable. The New Jerusalem is dressed too —
 but her beauty isn't self-declared and self-protected; it's given to her, a gift from the
 husband who loves her. Everything the harlot counterfeited, the New Jerusalem actually is.
@@ -44,7 +44,7 @@ vulnerable, and a glamor that could be stripped away in a single hour once the t
 turned. The New Jerusalem's security was never purchased at all. It's described, in the very next
 chapter, as water "without cost" — freely given to anyone who thirsts. Nothing about this city's
 safety depends on kings staying loyal or an economy staying strong, because both of those failed
-Babylon completely. It depends only on the God who cannot change and does not withdraw.
+Babel completely. It depends only on the God who cannot change and does not withdraw.
 
 ## The shape of the city tells the story
 
@@ -80,7 +80,7 @@ quarter.
 
 That's not a downgrade from what health-and-wealth teaching promises. It's an upgrade, because
 it's the one version of the promise that cannot fail, be reversed, or be taken back by a change
-in circumstances, a market downturn, or an unanswered prayer. Babylon fell within a single hour.
+in circumstances, a market downturn, or an unanswered prayer. Babel fell within a single hour.
 The New Jerusalem's gates never close, because nothing is ever coming to take it away again.
 
 ## The invitation
@@ -94,4 +94,4 @@ faithful, because what he actually promises cannot be un-given. "To the thirsty 
 water without cost from the spring of the water of life." That water was never something you
 had to earn, purchase, or prove yourself worthy of. It was already flowing before you arrived,
 and it will still be flowing long after every counterfeit crown, every glittering cup, and every
-Babylon has fallen for good. Come and drink.
+Babel has fallen for good. Come and drink.

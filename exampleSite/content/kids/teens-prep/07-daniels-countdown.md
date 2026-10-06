@@ -15,7 +15,7 @@ next: /kids/teens-prep/08-the-son-of-man
 
 You've probably had a season where you just wanted to know: how much longer does this last? Waiting for test results, waiting to hear back from a school, waiting for a friendship to either heal or finally end, waiting for a hard family situation to resolve. The not-knowing is often worse than the hard thing itself. It's disorienting to feel like you're stuck in a holding pattern with no end date.
 
-Daniel and the Jewish exiles in Babylon lived that feeling for real, on a national scale. Their temple was destroyed, their city was rubble, and they were living as captives in a foreign empire, wondering if this was just permanent now. Then Daniel gets an answer — not a vague "hang in there," but something startlingly specific: God gives him an actual countdown.
+Daniel and the Jewish exiles in Babel lived that feeling for real, on a national scale. Their temple was destroyed, their city was rubble, and they were living as captives in a foreign empire, wondering if this was just permanent now. Then Daniel gets an answer — not a vague "hang in there," but something startlingly specific: God gives him an actual countdown.
 
 ## What's Actually Going On
 

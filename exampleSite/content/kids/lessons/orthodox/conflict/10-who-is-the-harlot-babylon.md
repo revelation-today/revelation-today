@@ -27,17 +27,17 @@ Sometimes the fanciest, most sparkly thing isn't the best thing. Today's story f
 
 ---
 
-## 2. Meet "Babylon"
+## 2. Meet "Babel"
 
-In Revelation 17, John sees a woman riding on a scary beast, dressed in purple, gold, and jewels, called "Babylon." At first she looks rich and impressive. But the angel explains: she's not someone to admire. She represents a whole system built on greed, unfairness, and turning away from God to chase money and power instead.
+In Revelation 17, John sees a woman riding on a scary beast, dressed in purple, gold, and jewels, called "Babel." At first she looks rich and impressive. But the angel explains: she's not someone to admire. She represents a whole system built on greed, unfairness, and turning away from God to chase money and power instead.
 
-For the first people who read this, "Babylon" clearly meant Rome — the powerful empire ruling over them, dressed up in glory but built on the suffering of others.
+For the first people who read this, "Babel" clearly meant Rome — the powerful empire ruling over them, dressed up in glory but built on the suffering of others.
 
 ---
 
-## 3. Babylon vs. the real Bride
+## 3. Babel vs. the real Bride
 
-Revelation shows us two women who look similar on the outside but are opposites underneath: Babylon (dressed in jewels that hide her ugliness) and the Bride of Christ, the Church (dressed in white that shows her true goodness, a gift from God). One got rich by using and hurting people. The other received everything as a gift from God's love.
+Revelation shows us two women who look similar on the outside but are opposites underneath: Babel (dressed in jewels that hide her ugliness) and the Bride of Christ, the Church (dressed in white that shows her true goodness, a gift from God). One got rich by using and hurting people. The other received everything as a gift from God's love.
 
 ---
 
@@ -69,11 +69,11 @@ Dear God, help us to want what's really good, not just what looks fancy or impre
 
 **Opening idea:** The two-crowns comparison described above (one plain-but-real, one flashy-but-fake) works well as a visual hook.
 
-**Craft idea:** Have kids draw or decorate two simple robes — one labeled "Babylon" (covered in fake jewels/glitter) and one labeled "The Church/Bride" (plain white, "a gift from God") — to reinforce the contrast.
+**Craft idea:** Have kids draw or decorate two simple robes — one labeled "Babel" (covered in fake jewels/glitter) and one labeled "The Church/Bride" (plain white, "a gift from God") — to reinforce the contrast.
 
 **Questions for the kids:**
-1. Why do you think Babylon looked so impressive on the outside?
-2. What's the difference between the Bride's white robe and Babylon's jeweled robe?
+1. Why do you think Babel looked so impressive on the outside?
+2. What's the difference between the Bride's white robe and Babel's jeweled robe?
 3. Is there anything in your own life that sometimes feels more important than God, even though it looks good?
 
 **Song suggestions:**

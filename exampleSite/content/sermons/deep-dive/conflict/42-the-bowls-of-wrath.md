@@ -35,7 +35,7 @@ The sixth and seventh bowls (16:12-21) finally bring down the devil's whole king
 
 ## A closer look at the sixth bowl
 
-The sixth bowl deserves special attention, because it sets up next session's topic. The Euphrates — Babylon's ancient natural defense — is dried up "to make way for the kings of the East" (16:12). The historian Herodotus records a tradition that ancient Babylon fell to the Persians after they diverted the Euphrates around the city's defenses; whether or not that's historically precise, it was widely believed in the first century, which is exactly why the image would have landed so sharply for Revelation's first readers: the "unconquerable" city, undone from within.
+The sixth bowl deserves special attention, because it sets up next session's topic. The Euphrates — Babel's ancient natural defense — is dried up "to make way for the kings of the East" (16:12). The historian Herodotus records a tradition that ancient Babel fell to the Persians after they diverted the Euphrates around the city's defenses; whether or not that's historically precise, it was widely believed in the first century, which is exactly why the image would have landed so sharply for Revelation's first readers: the "unconquerable" city, undone from within.
 
 Then three unclean spirits like frogs emerge from the mouths of the dragon, the beast, and the false prophet (16:13). Frogs weren't a random choice: in Egyptian religion, the frog was associated with the goddess Heqet, who was linked to fertility and resurrection — a sly jab at the very moment the wounded beast is loudly claiming to have "come back to life" and proven itself invincible (13:3-4). The frogs are propaganda for a counterfeit resurrection.
 

@@ -28,7 +28,7 @@ docType: expl
 | {{% bible val="Jeremiah:31,9" link="jer:31,9" lang="en" %}} | ["God's son": when Israel's tribe Ephraim is called first-born](/expl/background/israel/the-church-is-part-of-israel#639c) |
 | {{% bible val="Jeremiah:31,31-34" link="jer:31,31-34" lang="en" %}} | ["The 70 years": covenant with many](/expl/bible/daniel/the-70-year-weeks#6576) |
 | {{% bible val="Jeremiah:49,19-22" link="jer:49,19-22" lang="en" %}} | ["The four kingdoms": lion and eagle](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
-| {{% bible val="Jeremiah:51,25" link="jer:51,25" lang="en" %}} | ["The seven hills and seven kings": Babylon described as a mountain](/expl/content/harlot/who-is-the-harlot-babylon-part-1#2d9d) |
+| {{% bible val="Jeremiah:51,25" link="jer:51,25" lang="en" %}} | ["The seven hills and seven kings": Babel described as a mountain](/expl/content/harlot/who-is-the-harlot-babylon-part-1#2d9d) |
 | {{% bible val="Jeremiah:51,25" link="jer:51,25" lang="en" %}} | ["The first four trumpets": a destroying mountain](/expl/content/trumpets/the-trumpets-in-revelation#8718) |
 | {{% bible val="Jeremiah:51,33" link="jer:51,33" lang="en" %}} | ["The two harvests": threshing](/expl/content/harvest/gods-army-and-the-seven-angels#833c) |
-| {{% bible val="Jeremiah:51,63-64" link="jer:51,63-64" lang="en" %}} | ["The first four trumpets": Jeremiah's scroll against Babylon was tied to a stone and sunk in the Euphrates](/expl/content/trumpets/the-trumpets-in-revelation#8718) |
+| {{% bible val="Jeremiah:51,63-64" link="jer:51,63-64" lang="en" %}} | ["The first four trumpets": Jeremiah's scroll against Babel was tied to a stone and sunk in the Euphrates](/expl/content/trumpets/the-trumpets-in-revelation#8718) |

@@ -64,7 +64,7 @@ an undeserving, often unfaithful people, who takes the curse on himself rather t
 pay it, and who keeps calling his people back not with distant legal threats but with the
 patient love of a father. That's the story that makes sense of a God who judges evil so
 seriously in Revelation's later chapters — because he has already shown, at the cross, exactly
-how far he'll go to keep his side of the covenant. The wrath aimed at Babylon and the beast
+how far he'll go to keep his side of the covenant. The wrath aimed at Babel and the beast
 isn't a contradiction of God's grace; it's the same covenant loyalty defending the family he
 bled to keep.
 

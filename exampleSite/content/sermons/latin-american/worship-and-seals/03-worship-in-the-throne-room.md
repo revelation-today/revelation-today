@@ -12,7 +12,7 @@ next: /sermons/latin-american/worship-and-seals/04-the-four-horsemen-unmasked
 ## The answer before the questions
 
 Here is something remarkable about how Revelation is built: before a single plague falls,
-before the beast appears, before Babylon is even mentioned, John is shown a throne room. Two
+before the beast appears, before Babel is even mentioned, John is shown a throne room. Two
 whole chapters (Revelation 4–5) are given to nothing but worship — God enthroned in glory, the
 Lamb who was slain found worthy to open the sealed scroll, every creature in heaven and on
 earth crying out in praise. Everything that follows in the rest of the book — every seal,
@@ -60,12 +60,12 @@ where every legitimate expression of God's people gathers around the same worthy
 ## Worship as the antidote
 
 This session matters more than it might first appear for what's coming later in this series.
-When we get to the harlot Babylon and the counterfeit security she offers — money, glamor,
+When we get to the harlot Babel and the counterfeit security she offers — money, glamor,
 influence dressed up as blessing — the answer will not primarily be a better argument. It will
 be the same answer given here: a people who already know how to worship the true God with
 their whole selves are far less likely to be seduced by a cheap substitute. Worship is not
 just what we do when the sermon's over. It's the thing that reorders our loves so that
-Babylon's offer stops looking attractive in the first place.
+Babel's offer stops looking attractive in the first place.
 
 ## Questions for reflection
 

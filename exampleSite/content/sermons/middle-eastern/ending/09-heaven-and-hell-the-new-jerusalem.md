@@ -53,7 +53,7 @@ The city's twelve gates are named for the twelve tribes of Israel; its twelve fo
 
 ## The nations bring their honor, not their wealth
 
-"The nations will walk by its light, and the kings of the earth will bring their splendour into it" (Rev 21:24). This echoes Isaiah's picture of the nations streaming toward Jerusalem's light, but with an important shift: what they bring is not wealth extracted the way Babylon extracted it, through exploitation and idolatry. It is glory and honor freely given, offered because Israel's ancient calling — to be a blessing to all nations, beginning all the way back with Abraham (Genesis 12:2-3) — has finally, fully arrived. Every nation who ever suffered under a Babylon of their own now streams toward this city instead, freely, to give rather than to be taken from.
+"The nations will walk by its light, and the kings of the earth will bring their splendour into it" (Rev 21:24). This echoes Isaiah's picture of the nations streaming toward Jerusalem's light, but with an important shift: what they bring is not wealth extracted the way Babel extracted it, through exploitation and idolatry. It is glory and honor freely given, offered because Israel's ancient calling — to be a blessing to all nations, beginning all the way back with Abraham (Genesis 12:2-3) — has finally, fully arrived. Every nation who ever suffered under a Babel of their own now streams toward this city instead, freely, to give rather than to be taken from.
 
 ## Hell: simply, the absence of all of this
 

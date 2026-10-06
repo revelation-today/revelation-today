@@ -46,7 +46,7 @@ The servant here is called Israel, yet he cannot simply be Israel: he is the one
 
 The next step in the argument is Psalm 87.
 
-“{{% bible val="He has founded his city on the holy mountain. 2 The Lord loves the gates of Zion more than all the other dwellings of Jacob. 3 Glorious things are said of you, city of God: 4 ‘I will record Rahab (Egypt) and Babylon among those who acknowledge me — Philistia too, and Tyre, along with Cush — and will say, “This one was born in Zion.” ’ 5 Indeed, of Zion it will be said, ‘This one and that one were born in her, and the Most High himself will establish her.’ 6 The Lord will write in the register of the peoples: ‘This one was born in Zion.’" link="psa:87,1-6" lang="en" %}}”
+“{{% bible val="He has founded his city on the holy mountain. 2 The Lord loves the gates of Zion more than all the other dwellings of Jacob. 3 Glorious things are said of you, city of God: 4 ‘I will record Rahab (Egypt) and Babel among those who acknowledge me — Philistia too, and Tyre, along with Cush — and will say, “This one was born in Zion.” ’ 5 Indeed, of Zion it will be said, ‘This one and that one were born in her, and the Most High himself will establish her.’ 6 The Lord will write in the register of the peoples: ‘This one was born in Zion.’" link="psa:87,1-6" lang="en" %}}”
 
 Gentiles are considered to be born in Israel here. The register mentioned in verse 6 is an end-time act of registration that will include everyone who knows Him, exactly as described in verse 4.
 

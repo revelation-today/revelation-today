@@ -25,7 +25,7 @@ auf das Neue Jerusalem.
 
 {{% bible val="'Und ich sah die heilige Stadt, das neue Jerusalem, von Gott aus dem Himmel herabkommen, bereitet wie eine Braut, die sich für ihren Mann geschmückt hat.'" link="rev:21,2" lang="de" %}}
 
-Beachtet sofort, was hier beantwortet wird. Auch die Hure Babylon war herausgeputzt, funkelnd
+Beachtet sofort, was hier beantwortet wird. Auch die Hure Babel war herausgeputzt, funkelnd
 von Gold und Edelsteinen, und nannte sich selbst unantastbar. Auch das Neue Jerusalem ist
 geschmückt — aber seine Schönheit ist nicht selbst erklärt und selbst geschützt; sie ist ihm
 geschenkt, eine Gabe von dem Mann, der es liebt. Alles, was die Hure fälschte, ist das Neue
@@ -47,7 +47,7 @@ aus den Schutzlosen, und Glanz, der binnen einer einzigen Stunde abgestreift wer
 sobald sich die Flut der Gunst wendete. Die Sicherheit des Neuen Jerusalem war niemals erkauft.
 Sie wird im nächsten Kapitel als Wasser "ohne Kosten" beschrieben — frei geschenkt an jeden, der
 dürstet. Nichts an der Sicherheit dieser Stadt hängt davon ab, dass Könige treu bleiben oder eine
-Wirtschaft stark bleibt, denn beides hat bei Babylon vollständig versagt. Sie hängt allein von
+Wirtschaft stark bleibt, denn beides hat bei Babel vollständig versagt. Sie hängt allein von
 dem Gott ab, der sich nicht ändert und sich nicht zurückzieht.
 
 ## Die Form der Stadt erzählt die Geschichte
@@ -88,7 +88,7 @@ macht es für die kommende Welt, nicht als Kontoauszug, der schon dieses Quartal
 Das ist keine Herabstufung dessen, was die Wohlstandslehre verspricht. Es ist eine Höherstufung,
 denn es ist die eine Version des Versprechens, die nicht scheitern, rückgängig gemacht oder durch
 einen Wandel der Umstände, einen Markteinbruch oder ein unerhörtes Gebet zurückgenommen werden
-kann. Babylon fiel binnen einer einzigen Stunde. Die Tore des Neuen Jerusalem schließen sich
+kann. Babel fiel binnen einer einzigen Stunde. Die Tore des Neuen Jerusalem schließen sich
 niemals, denn nichts wird je wieder kommen, um es fortzunehmen.
 
 ## Die Einladung
@@ -102,5 +102,5 @@ Version; er ist großzügiger und treuer, denn was er tatsächlich verspricht, k
 zurückgenommen werden. "Dem Dürstenden will ich umsonst geben aus der Quelle des lebendigen
 Wassers." Dieses Wasser war nie etwas, das du verdienen, erkaufen oder dir als würdig erweisen
 musstest. Es floss schon, bevor du ankamst, und es wird noch lange fließen, nachdem jede
-gefälschte Krone, jeder glitzernde Becher und jedes Babylon endgültig gefallen ist. Komm und
+gefälschte Krone, jeder glitzernde Becher und jedes Babel endgültig gefallen ist. Komm und
 trink.

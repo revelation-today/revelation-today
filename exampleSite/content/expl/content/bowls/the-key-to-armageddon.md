@@ -35,15 +35,15 @@ The term Armageddon is mentioned only once {{% bible val="in the Bible," link="r
 
 "Har" means "mountain" in Hebrew, but which mountain? Megiddo itself sits on a tell, not a prominent mountain, which is part of why more than one derivation has been proposed. Three meanings have been proposed, and each of them is worth hearing.
 
-It can mean "mount of assembly," drawn from {{% bible val="a passage in Isaiah" link="isa:14,13" lang="en" %}} describing the fall of Babylon.[^assembly] The verse just before that reference — Babylon pictured as "fallen from heaven, O Day star, son of Dawn" — actually describes the powers behind Babylon more than Babylon itself, and may well refer to Satan, though that reading became standard only through later Christian tradition; the immediate context names the king of Babylon as the target of the taunt, and many modern commentators read the "Day Star" language as stock ancient Near Eastern imagery for an overreaching king, applied to Satan only as a later typological extension. The whole chapter is a {{% bible val="mockery" link="isa:14,3-4" lang="en" %}} of the invincible, utterly destroyed.
+It can mean "mount of assembly," drawn from {{% bible val="a passage in Isaiah" link="isa:14,13" lang="en" %}} describing the fall of Babel.[^assembly] The verse just before that reference — Babel pictured as "fallen from heaven, O Day star, son of Dawn" — actually describes the powers behind Babel more than Babel itself, and may well refer to Satan, though that reading became standard only through later Christian tradition; the immediate context names the king of Babel as the target of the taunt, and many modern commentators read the "Day Star" language as stock ancient Near Eastern imagery for an overreaching king, applied to Satan only as a later typological extension. The whole chapter is a {{% bible val="mockery" link="isa:14,3-4" lang="en" %}} of the invincible, utterly destroyed.
 
 It can also mean "mountain of Megiddo", the most common reading.[^megiddo] This one takes longer to unpack, since a great many events happened at Megiddo and its mountain.
 
 And finally, it can mean "mountain of cutting down", or of slaughter. This is the oldest explanation we have: the first Greek commentators on Revelation read it this way, from Zechariah 12:11, where the Greek Old Testament speaks of the plain "of that which is cut down".[^slaughter]
 
-Whichever meaning is heard, the name is mockery. The kings of the whole world bring their huge army to Megiddo, of all places — the place where, again and again, the weak won and the mighty fell. The bowl has already begun the joke: the Euphrates dries up to open the way for "the kings from the east" (16:12). That was Rome's own nightmare — an invasion from beyond the Euphrates, in popular rumour led by a returning Nero — and in the end it is the beast and his allied kings who turn on Babylon and destroy her (17:16).[^east] The nations think they are gathering to wipe out God's people, but it is God who gathers them, to meet their judgment.
+Whichever meaning is heard, the name is mockery. The kings of the whole world bring their huge army to Megiddo, of all places — the place where, again and again, the weak won and the mighty fell. The bowl has already begun the joke: the Euphrates dries up to open the way for "the kings from the east" (16:12). That was Rome's own nightmare — an invasion from beyond the Euphrates, in popular rumour led by a returning Nero — and in the end it is the beast and his allied kings who turn on Babel and destroy her (17:16).[^east] The nations think they are gathering to wipe out God's people, but it is God who gathers them, to meet their judgment.
 
-The three meanings may add one more layer. John tells us the name is Hebrew (16:16), which invites the reader to listen to what it means. Heard as a wordplay, like the taunt over Babylon in Isaiah 14, the mountain of assembly where the kings gather turns out to be the mountain of their own cutting down. No commentator we know of treats the name as an intended pun, so this remains a suggestion; the mockery does not depend on it.[^pun]
+The three meanings may add one more layer. John tells us the name is Hebrew (16:16), which invites the reader to listen to what it means. Heard as a wordplay, like the taunt over Babel in Isaiah 14, the mountain of assembly where the kings gather turns out to be the mountain of their own cutting down. No commentator we know of treats the name as an intended pun, so this remains a suggestion; the mockery does not depend on it.[^pun]
 
 ## Deborah and Jael
 
@@ -70,7 +70,7 @@ When Jehu, {{% bible val="the commander of the army, is finally anointed" link="
 <a name="a257"></a>
 {{% int_link val="There is a separate entry for this" link="/expl/content/bowls/armageddon-and-the-battle-of-karkemish" %}}, but the short version is this: a king gives his life fighting the king of Egypt, who was on his way to help the Assyrians against the rising Babylonian Empire. A few notes are worth adding.
 
-Assyria had been oppressing Israel constantly up to this point, and stopped only because Babylon started causing it trouble instead. Egypt, meanwhile, occupied an odd place in Israel's story — it was the place Israel had come out of slavery, yet it kept serving as the {{% bible val="backup plan for Israel, one that usually ended in disappointment" link="2ki:18,21" lang="en" %}}. It seems Josiah was the first king of Israel ever to march out against Egypt.
+Assyria had been oppressing Israel constantly up to this point, and stopped only because Babel started causing it trouble instead. Egypt, meanwhile, occupied an odd place in Israel's story — it was the place Israel had come out of slavery, yet it kept serving as the {{% bible val="backup plan for Israel, one that usually ended in disappointment" link="2ki:18,21" lang="en" %}}. It seems Josiah was the first king of Israel ever to march out against Egypt.
 
 ## Conclusion
 
@@ -85,6 +85,6 @@ The place of death mocks the one who conquered all. A housewife defeats an army 
 
 [^slaughter]: Oecumenius and Andrew of Caesarea (Aune, *Revelation 6–16*, p. 899). Among modern commentators, Caird ("mountain of attack") and LaRondelle (Beale, p. 839 n. 107).
 
-[^east]: Aune, *Revelation 6–16*, p. 891; Bauckham, *Climax*, pp. 382, 407. On the dried-up Euphrates and Cyrus's capture of Babylon, Beale, p. 827. That the nations are deceived into gathering, but are gathered by God for their own judgment: Beale, p. 836.
+[^east]: Aune, *Revelation 6–16*, p. 891; Bauckham, *Climax*, pp. 382, 407. On the dried-up Euphrates and Cyrus's capture of Babel, Beale, p. 827. That the nations are deceived into gathering, but are gathered by God for their own judgment: Beale, p. 836.
 
 [^pun]: This is the site's own suggestion. Beale hears several layers in the Megiddo name itself — Deborah's victory, Elijah on Carmel, Josiah's death (p. 840).

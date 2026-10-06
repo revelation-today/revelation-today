@@ -1,5 +1,5 @@
 ---
-title: "Rev. 17: Who Is the Harlot Babylon?"
+title: "Rev. 17: Who Is the Harlot Babel?"
 weight: 9
 docType: sermon
 audience_group: "catholic"
@@ -9,14 +9,14 @@ prev: /sermons/catholic/conflict/08-the-unholy-trinity
 next: /sermons/catholic/ending/10-the-thousand-year-kingdom
 ---
 
-# Who Is the Harlot Babylon?
+# Who Is the Harlot Babel?
 
 ## Opening: A Crowded, Confusing Scene
 
 Revelation 17 throws a lot at you at once: a beast, seven heads that are also seven hills, ten
 horns that are also ten kings, and — riding on top of all of it — a woman dressed in purple and
 scarlet, glittering with gold and jewels, holding a golden cup, with a strange title written on
-her forehead: "Babylon the Great, Mother of Harlots." It can read like a riddle wrapped in a
+her forehead: "Babel the Great, Mother of Harlots." It can read like a riddle wrapped in a
 nightmare.
 
 But this scene resolves faster than it looks like it will, once you know where to start looking.
@@ -85,14 +85,14 @@ famously) importing foreign gods along with foreign wealth. Scripture doesn't tr
 idolatry as separate categories. Economic entanglement has a way of becoming religious
 entanglement.
 
-## The Takeaway: Babylon Is a Pattern, Not Just a Place
+## The Takeaway: Babel Is a Pattern, Not Just a Place
 
 So who is the harlot? In the first century, the answer is concrete: Rome, the empire that
 demanded worship of the emperor, that seduced the known world with wealth and spectacle and
 promised security, that clothed raw political power in the trappings of the sacred.
 
 But if that were the whole answer, this vision would have nothing to say to us. The deeper answer
-Revelation is pointing toward is this: "Babylon" is less a single place than a recurring pattern —
+Revelation is pointing toward is this: "Babel" is less a single place than a recurring pattern —
 any system, economic, political, or cultural, that seduces God's people into trading covenant
 faithfulness for wealth, security, and status, all while wearing the appearance of legitimacy or
 even holiness. That is precisely why Revelation later commands, "Come out of her, my people"
@@ -103,7 +103,7 @@ willing to hear addressed to itself, in every age, including our own.
 
 This isn't a comfortable session to sit with, and it isn't meant to be. The real question Revelation
 17-18 leaves for the Church isn't "was Rome bad?" History has settled that. It's whether we have
-quietly moved into Babylon ourselves — whether comfort, security, prestige, or wealth have become
+quietly moved into Babel ourselves — whether comfort, security, prestige, or wealth have become
 non-negotiables we protect even at the cost of faithfulness, dressed up in language that sounds
 sacred. Ask concretely: where is loyalty to Christ quietly losing out to loyalty to comfort or
 status in my own life, while still looking entirely respectable from the outside? That is the
@@ -115,8 +115,8 @@ something you'd want to trust.
 Revelation names Rome, but it doesn't stop there. Every generation of the Church is invited to ask
 the same question John's first readers had to ask: have we been seduced by a power that promises
 security and glitter in exchange for our first loyalty? The good news is that the same book that
-exposes Babylon also promises her fall is certain (Revelation 18:2) and that a wedding feast, not
-a funeral, is what God's people are ultimately headed toward (Revelation 19:7-9). Babylon's
+exposes Babel also promises her fall is certain (Revelation 18:2) and that a wedding feast, not
+a funeral, is what God's people are ultimately headed toward (Revelation 19:7-9). Babel's
 glamour is not the last word.
 
 ---
@@ -133,7 +133,7 @@ glamour is not the last word.
    you personally, need to examine whether an appearance of holiness is covering something less
    faithful underneath?
 4. "Come out of her, my people" (Revelation 18:4) is addressed to God's own people, inside
-   Babylon. What would "coming out" concretely look like for you this week, without requiring you
+   Babel. What would "coming out" concretely look like for you this week, without requiring you
    to physically go anywhere?
 
 **Song/hymn suggestions:** "Turn Back, O Man"; "O Jesus, Thou Art Standing"; "Lord, Whose Love in

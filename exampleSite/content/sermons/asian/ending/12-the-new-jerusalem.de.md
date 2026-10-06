@@ -30,7 +30,7 @@ Das Meer steht in der ganzen Schrift für den Ort, von dem das Böse ausgeht, un
 
 Das Neue Jerusalem wird als Würfel beschrieben (21,16) — dieselbe Form wie das Allerheiligste, der eine Ort im alten Tempel, so erfüllt von Gottes Gegenwart, dass nur der Hohepriester ihn betreten durfte, und das nur einmal im Jahr. Diese Beschränkung ist jetzt vollständig verschwunden: Jeder in der Stadt steht gleichermaßen nah bei Gott. Ihre erstaunliche Größe liest sich am besten nicht als buchstäbliche Kapazitätsberechnung, sondern als Symbol von Vollständigkeit und Fülle — ein Echo der Zahl zwölf im ganzen Abschnitt, der Vollständigkeit von Gottes erlöstem Volk aus jeder Nation.
 
-Das Neue Jerusalem steht als direktes Gegenstück zu Babylon in der ganzen Offenbarung: Babylons Reichtum kam aus Ausbeutung; Jerusalems kommt als Gottes Geschenk. Babylon verursachte Leid; Jerusalem entfernt es. Babylon zerstörte sich selbst; Jerusalem steht für immer. Und ihre zwölf Tore und zwölf Grundsteine — Stämme und Apostel zusammen — zeichnen Israel und die Gemeinde als ein Volk, endlich und vollständig versöhnt, mit Raum für jede Nation, die zu Christus kommt.
+Das Neue Jerusalem steht als direktes Gegenstück zu Babel in der ganzen Offenbarung: Babels Reichtum kam aus Ausbeutung; Jerusalems kommt als Gottes Geschenk. Babel verursachte Leid; Jerusalem entfernt es. Babel zerstörte sich selbst; Jerusalem steht für immer. Und ihre zwölf Tore und zwölf Grundsteine — Stämme und Apostel zusammen — zeichnen Israel und die Gemeinde als ein Volk, endlich und vollständig versöhnt, mit Raum für jede Nation, die zu Christus kommt.
 
 ## 5. Unsere frühere Schande wird zu ewiger Ehre
 

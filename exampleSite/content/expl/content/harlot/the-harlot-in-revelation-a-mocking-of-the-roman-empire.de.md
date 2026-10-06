@@ -37,7 +37,7 @@ Die Rückseite der Münze ist also eine unverhohlene Feier der Macht und Bestän
 
 Die Feier der {{% int_link val="Pax Romana" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} auf der Münze wird Punkt für Punkt in ein Bild der Verachtung und des Abscheus verkehrt — eine Erinnerung an jeden Gläubigen, der diese Münze im Alltag in der Hand hielt, dass man Rom nicht trauen konnte. Es ist bemerkenswert wirksame Gegenpropaganda.
 
-Das ist keine isolierte rhetorische Spitze. „Babylon" selbst ist in der jüdischen und frühchristlichen Literatur jener Zeit ein anerkannter Deckname für Rom — am deutlichsten in 1. Petrus 5,13, aber auch in Werken wie 2. Baruch, 4. Esra und den Sibyllinischen Orakeln 5. Babylon hatte 586 v. Chr. den Tempel Salomos zerstört; Rom zerstörte 70 n. Chr. den Zweiten Tempel. Rom „Babylon" zu nennen, stellte es in dasselbe typologische Muster eines stolzen heidnischen Reiches, das Gottes Tempel zerstört und dafür seinerseits Gottes Gericht erfährt.
+Das ist keine isolierte rhetorische Spitze. „Babel" selbst ist in der jüdischen und frühchristlichen Literatur jener Zeit ein anerkannter Deckname für Rom — am deutlichsten in 1. Petrus 5,13, aber auch in Werken wie 2. Baruch, 4. Esra und den Sibyllinischen Orakeln 5. Babel hatte 586 v. Chr. den Tempel Salomos zerstört; Rom zerstörte 70 n. Chr. den Zweiten Tempel. Rom „Babel" zu nennen, stellte es in dasselbe typologische Muster eines stolzen heidnischen Reiches, das Gottes Tempel zerstört und dafür seinerseits Gottes Gericht erfährt.
 
 ## Die Ekphrasis
 

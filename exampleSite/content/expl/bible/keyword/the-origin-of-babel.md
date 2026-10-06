@@ -32,14 +32,14 @@ And in fact, neither of their goals is achieved — quite the opposite happens.
 ## Daniel in Babel
 
 <a name="a8a8"></a>
-When Israel went into exile in Babylon, the text notes that this Babel stood in the land of Shinar — the very place where the original tower had been built. That detail ties the two stories together.
+When Israel went into exile in Babel, the text notes that this Babel stood in the land of Shinar — the very place where the original tower had been built. That detail ties the two stories together.
 
-Pride is a common thread between them as well, and so is the fact that God cut short both empires’ existence. Daniel’s Babylon lasted less than 100 years before it was defeated by Cyrus, whom God had called for that purpose.
+Pride is a common thread between them as well, and so is the fact that God cut short both empires’ existence. Daniel’s Babel lasted less than 100 years before it was defeated by Cyrus, whom God had called for that purpose.
 
 ## Babel in the Book of Revelation
 
 <a name="dfad"></a>
-In the book of Revelation, Babylon is likewise closely tied to the Babylon of Daniel, sharing the same key features:
+In the book of Revelation, Babel is likewise closely tied to the Babel of Daniel, sharing the same key features:
 
 - the theme of pride
 - a swift fall

@@ -25,7 +25,7 @@ Offenbarung 14,4-5 legt genau dar, was sie hindurchtrug: Sie "haben sich nicht b
 
 Der erste Engel verkündet, was Offenbarung 14,6-7 "das ewige Evangelium" nennt — gute Nachricht für jede Nation, jeden Stamm, jede Sprache und jedes Volk, mit dem Ruf, Gott zu fürchten und den Schöpfer anzubeten. Es lohnt sich zu erwähnen, dass Ausleger diese Formulierung mit unterschiedlichen alttestamentlichen Hintergründen verbinden — manche verweisen auf Psalm 96, der die Völker aufruft, "seine Rettung von Tag zu Tag zu verkünden", andere auf Jesajas Texte vom Freudenboten (wie Jesaja 52,7). Ein plausibler alttestamentlicher Hintergrund ist Psalm 96, zumal dieser Psalm mit "singt dem Herrn ein neues Lied" beginnt — derselben Formulierung, die zuvor in diesem Kapitel für die 144.000 verwendet wird, und beide Texte bestehen darauf, dass alle Völker eingeladen sind, den einen wahren König anzubeten. Das ist aber eine erwähnenswerte Resonanz, kein erwiesener einzelner Quelltext.
 
-Der zweite Engel kündigt Babylons Fall an (14,8) — dem werden wir später zwei ganze Sitzungen widmen. Der dritte gibt eine ernste Warnung: Wer das Tier anbetet, wird den Wein des Zorns Gottes trinken, "gequält mit Feuer und Schwefel" (14,9-11). Wichtig ist, diese beiden Ankündigungen auseinanderzuhalten: Vers 8 handelt vom Gericht über Babylon als System; die Verse 9-11 sind ein eigenständiges Orakel über das Schicksal einzelner Tier-Anbeter. Sie reimen sich aufeinander, sind aber nicht dasselbe Ereignis.
+Der zweite Engel kündigt Babels Fall an (14,8) — dem werden wir später zwei ganze Sitzungen widmen. Der dritte gibt eine ernste Warnung: Wer das Tier anbetet, wird den Wein des Zorns Gottes trinken, "gequält mit Feuer und Schwefel" (14,9-11). Wichtig ist, diese beiden Ankündigungen auseinanderzuhalten: Vers 8 handelt vom Gericht über Babel als System; die Verse 9-11 sind ein eigenständiges Orakel über das Schicksal einzelner Tier-Anbeter. Sie reimen sich aufeinander, sind aber nicht dasselbe Ereignis.
 
 ## Zwei Ernten, eine offene Frage
 
@@ -39,7 +39,7 @@ So lässt das Kapitel für "jede Nation, jeden Stamm, jede Sprache und jedes Vol
 
 **Den Text verstehen**
 1. Was genau, laut Offenbarung 14,4-5, trug die 144.000 durch den Angriff des Tieres? Welche Formulierung erscheint dir am überraschendsten oder gegenkulturellsten?
-2. Warum ist es wichtig, dass Offenbarung 14,8 (Babylons Fall) und 14,9-11 (das Gericht über die Tier-Anbeter) zwei getrennte Aussagen sind statt einer einzigen? Schaut sie euch nebeneinander an.
+2. Warum ist es wichtig, dass Offenbarung 14,8 (Babels Fall) und 14,9-11 (das Gericht über die Tier-Anbeter) zwei getrennte Aussagen sind statt einer einzigen? Schaut sie euch nebeneinander an.
 3. Was sind die drei textlichen Hinweise darauf, dass die Getreideernte (14,14-16) sich in ihrer Art von der Traubenernte/Kelter (14,17-20) unterscheidet?
 
 **Und was bedeutet das für uns?**

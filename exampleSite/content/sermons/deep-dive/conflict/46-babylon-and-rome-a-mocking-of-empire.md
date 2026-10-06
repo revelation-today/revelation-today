@@ -1,5 +1,5 @@
 ---
-title: "Rev. 17: Babylon and Rome: A Mocking of Empire"
+title: "Rev. 17: Babel and Rome: A Mocking of Empire"
 weight: 46
 docType: sermon
 audience_group: "deep-dive-guide"
@@ -26,7 +26,7 @@ That's a coin built entirely to celebrate Rome's power, protection, and permanen
 Line up the coin against Revelation 17 and the reversals are precise and deliberate:
 
 - Roma sits enthroned on the seven hills, protector of Rome. In Revelation, the woman sits on the beast and is identified with the seven hills (17:9) — but instead of being protected, she is destroyed by the very powers she rode on (17:16).
-- Roma is a goddess in military dress. Revelation recasts her as "Babylon the Great, Mother of Harlots" (17:5) — not just any prostitute, but the source of all of them.
+- Roma is a goddess in military dress. Revelation recasts her as "Babel the Great, Mother of Harlots" (17:5) — not just any prostitute, but the source of all of them.
 - Roma's sword symbolizes protection through strength. The harlot, instead, is "drunk with the blood of the saints" (17:6) — the "protection" Rome offered was violence turned against God's people.
 - The coin celebrates the Pax Romana as the peace that makes everyone secure. Revelation shows that peace paid for in the blood of the martyrs.
 

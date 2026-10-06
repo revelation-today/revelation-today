@@ -349,7 +349,7 @@ That is the entire armoury. It is available to everyone, which is the point - no
 requires you to be remarkable.
 
 Three angels fly past with three announcements. The first carries good news for every nation:
-the offer is still open, to all. The second says Babylon has fallen. The third gives a serious
+the offer is still open, to all. The second says Babel has fallen. The third gives a serious
 warning about following the beast.
 
 Watch the order. The good news goes first. The warning is real, but the invitation leads.

@@ -225,7 +225,7 @@ Erstens gibt es eine starke Parallele zwischen dem Tier in Kapitel 17 und dem er
 | {{% bible val="Kämpft gegen Heilige und besiegt sie" link="rev:13,7" lang="de" %}} | {{% bible val="Kämpft gegen Lamm und wird überwunden" link="rev:17,14" lang="de" %}} </br> {{% bible val="Kämpft gegen Hure und vernichtet sie" link="rev:17,16" lang="de" %}} |
 | {{% bible val="Alle, die nicht im Buch des Lebens geschrieben sind beten das Tier an" link="rev:13,8" lang="de" %}} | {{% bible val="Alle, die nicht im Buch des Lebens geschrieben sind sind überwältigt" link="rev:17,8" lang="de" %}} |
 
-Zweitens wirkt die Hure Seite an Seite mit dem zweiten Tier. Sie ist nicht das zweite Tier und nimmt auch nicht dessen Platz unter den dreien ein: Die Offenbarung hält ihre Feinde auseinander — den Drachen, das Tier, den falschen Propheten und Babylon —, und sie fallen einer nach dem anderen, in umgekehrter Reihenfolge.[^apart] Aber die Hure tut in Handel und Kultur, was das zweite Tier in der Religion tut.[^alike]
+Zweitens wirkt die Hure Seite an Seite mit dem zweiten Tier. Sie ist nicht das zweite Tier und nimmt auch nicht dessen Platz unter den dreien ein: Die Offenbarung hält ihre Feinde auseinander — den Drachen, das Tier, den falschen Propheten und Babel —, und sie fallen einer nach dem anderen, in umgekehrter Reihenfolge.[^apart] Aber die Hure tut in Handel und Kultur, was das zweite Tier in der Religion tut.[^alike]
 
 ## Die Hure und das zweite Tier
 
@@ -252,7 +252,7 @@ Er scheint der Sieger zu sein, doch am Ende hinterlässt er überall Zerstörung
 
 Das ist das Thema, das in der Geschichte vom Drachen und den beiden Tieren entfaltet wird. Dort hat {{% int_link val="Satan tatsächlich einiges wirklich Verlockendes anzubieten" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e" %}}. Doch der Text stellt dem eine klare Alternative gegenüber: {{% int_link val="die beiden Zeugen, die einen Lebensstil der Anbetung führen und in ihrem Zeugnis treu bleiben bis in den Tod" link="/expl/content/witnesses/the-two-witnesses" %}}.
 
-Dieser Kontrast entfaltet sich schließlich vollständig in der letzten Vision, wo Babylon ausführlich als das dunkle Gegenstück zum Neuen Jerusalem beschrieben wird.
+Dieser Kontrast entfaltet sich schließlich vollständig in der letzten Vision, wo Babel ausführlich als das dunkle Gegenstück zum Neuen Jerusalem beschrieben wird.
 
 [^apart]: Bauckham, *Climax*, S. 20, und *Theology*, S. 89; Beale, S. 148, 623, 812.
 

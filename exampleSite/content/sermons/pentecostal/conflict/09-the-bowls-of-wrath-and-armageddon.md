@@ -51,7 +51,7 @@ view:
 
 The sixth bowl dries up the Euphrates "to make way for the kings of the East" (16:12) — an image
 loaded with irony for first-century readers, who knew the story (whether strictly historical or
-not) that ancient Babylon fell to the Persians after they diverted the same river. The very
+not) that ancient Babel fell to the Persians after they diverted the same river. The very
 image Rome's enemies once used to conquer becomes, here, the image of the beast's own kingdom
 falling. Then three unclean spirits, described as frogs, go out to gather the world's rulers
 for battle. Frogs weren't a random choice of animal — they were associated in the ancient world
@@ -70,7 +70,7 @@ finishing blow was struck not by a soldier but by Jael, a woman with a tent peg 
 Elijah defeated several hundred prophets of Baal single-handedly on Mount Carmel, overlooking
 the same valley (1 Kings 18). And King Josiah, ruling a small, vulnerable kingdom, gave his life
 fighting Pharaoh Necho at Megiddo — a costly stand that historically helped delay Egypt's forces
-long enough that Babylon, not Assyria, ended up ruling the region, which is very possibly the
+long enough that Babel, not Assyria, ended up ruling the region, which is very possibly the
 reason the southern tribes of Israel survived exile intact while the northern tribes,
 deported earlier by Assyria, simply vanished from history. Every single "Megiddo story" in the
 Bible follows the same shape: the weak and unlikely defeat the invincible. That's the loaded

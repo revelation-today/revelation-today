@@ -45,7 +45,7 @@ sollte bestärkt, nicht korrigiert werden.
 Ein paar Stellen verlangen zusätzliche Sorgfalt, und wir benennen sie ehrlich, weil es wichtig
 ist, sie richtig zu treffen. Die am schnellsten wachsenden Gemeinden der Region haben oft ein
 Evangelium gepredigt, in dem Reichtum, Gesundheit und sichtbarer Erfolg der Beweis für Gottes
-Wohlwollen sind — und die Hure Babylon der Offenbarung ist als direkte, gezielte Warnung genau
+Wohlwollen sind — und die Hure Babel der Offenbarung ist als direkte, gezielte Warnung genau
 vor diesem Tausch geschrieben: Treue eingetauscht gegen Glanz, Sicherheit und Gewinn. Wir
 sprechen das nicht als Angriff auf jemanden an, der das in gutem Glauben gelehrt bekommen hat,
 sondern als Einladung zu einer tieferen, dauerhafteren Sicherheit — der Art, die die

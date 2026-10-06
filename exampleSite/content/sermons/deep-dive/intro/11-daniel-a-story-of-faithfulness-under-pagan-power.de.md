@@ -36,9 +36,9 @@ erkennen) — sie positioniert die Kapitel 2 und 7 als das tragende Paar dafür,
 Buches, und die Offenbarung danach, gelesen werden sollte.
 
 **Die vier Reiche, konkret nachgezeichnet.** Beide Visionen durchlaufen dieselben vier Weltreiche.
-Babylon (das Haupt aus Gold; der Löwe mit Adlerflügeln, der gut bezeugte babylonische
+Babel (das Haupt aus Gold; der Löwe mit Adlerflügeln, der gut bezeugte babylonische
 Königsbildsprache aufgreift) fällt an das gemeinsame medisch-persische Reich (Silber; der
-schiefe Bär mit drei Rippen im Maul, ein Bild für seine drei großen Eroberungen Lydiens, Babylons
+schiefe Bär mit drei Rippen im Maul, ein Bild für seine drei großen Eroberungen Lydiens, Babels
 und Ägyptens). Das fällt an Griechenland unter Alexander (Bronze; der vierköpfige Leopard, ein
 Bild sowohl für Alexanders erstaunlich schnelle Eroberung als auch für die Vierteilung seines
 Reichs nach seinem Tod). Das fällt schließlich an Rom (Eisen; das vierte Tier, „furchterregend und

@@ -1,5 +1,5 @@
 ---
-title: "Offb. 17: Wer ist die Hure Babylon? Teil 1"
+title: "Offb. 17: Wer ist die Hure Babel? Teil 1"
 weight: 44
 docType: sermon
 audience_group: "deep-dive-guide"
@@ -11,7 +11,7 @@ next: /sermons/deep-dive/conflict/45-who-is-the-harlot-babylon-part-2
 
 ## Einstieg
 
-Bittet eure Gruppe, bevor ihr heute Abend die Bibel aufschlagt, zu raten: Wen halten Menschen heute für die "Hure Babylon"? Ihr werdet wahrscheinlich eine ganze Bandbreite an Antworten hören — eine politische Figur, eine religiöse Institution, "die Kultur", sogar bestimmte Länder. Offenbarung 17 ist eine der am häufigsten über-identifizierten Passagen im ganzen Buch, gerade weil sie so viele Symbole in eine einzige Szene drängt. Die heutige Sitzung ist vor allem Detektivarbeit: Bevor wir fragen können, was Babylon für uns bedeutet (das ist die nächste Sitzung), müssen wir sorgfältig klären, wer eigentlich auf der Bühne steht.
+Bittet eure Gruppe, bevor ihr heute Abend die Bibel aufschlagt, zu raten: Wen halten Menschen heute für die "Hure Babel"? Ihr werdet wahrscheinlich eine ganze Bandbreite an Antworten hören — eine politische Figur, eine religiöse Institution, "die Kultur", sogar bestimmte Länder. Offenbarung 17 ist eine der am häufigsten über-identifizierten Passagen im ganzen Buch, gerade weil sie so viele Symbole in eine einzige Szene drängt. Die heutige Sitzung ist vor allem Detektivarbeit: Bevor wir fragen können, was Babel für uns bedeutet (das ist die nächste Sitzung), müssen wir sorgfältig klären, wer eigentlich auf der Bühne steht.
 
 ## Eine überfüllte Besetzung
 

@@ -13,7 +13,7 @@ sources:
       ref: aune_rev
 ---
 
-The story of the harlot Babylon in Revelation is one of the most layered in the book, and it leans heavily on subtle irony aimed at the Roman Empire. Ready for it?
+The story of the harlot Babel in Revelation is one of the most layered in the book, and it leans heavily on subtle irony aimed at the Roman Empire. Ready for it?
 
 ## The coin
 
@@ -37,7 +37,7 @@ So the reverse of the coin is a straightforward celebration of Rome's power and 
 
 The coin's celebration of the {{% int_link val="Pax Romana" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} is turned, point by point, into an image of contempt and disgust — a reminder to every believer who handled that coin in daily life that Rome could not be trusted. It's remarkably effective counter-propaganda.
 
-This is not an isolated rhetorical move. "Babylon" itself is a recognized code name for Rome in Jewish and early Christian writing of the period — most clearly in 1 Peter 5:13, and also in works like 2 Baruch, 4 Ezra, and Sibylline Oracles 5. Babylon had destroyed Solomon's temple in 586 BC; Rome destroyed the Second Temple in 70 AD. Calling Rome "Babylon" placed it inside that same typological pattern of a proud pagan empire that destroys God's temple and, in turn, faces God's judgment.
+This is not an isolated rhetorical move. "Babel" itself is a recognized code name for Rome in Jewish and early Christian writing of the period — most clearly in 1 Peter 5:13, and also in works like 2 Baruch, 4 Ezra, and Sibylline Oracles 5. Babel had destroyed Solomon's temple in 586 BC; Rome destroyed the Second Temple in 70 AD. Calling Rome "Babel" placed it inside that same typological pattern of a proud pagan empire that destroys God's temple and, in turn, faces God's judgment.
 
 ## The Ekphrasis
 

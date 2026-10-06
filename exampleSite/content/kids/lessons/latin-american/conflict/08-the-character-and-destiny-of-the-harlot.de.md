@@ -16,17 +16,17 @@ draft: true
 
 
 # Wenn die Sandburg einstürzt
-### Warum sich Babylons "Freunde" gegen sie wenden
+### Warum sich Babels "Freunde" gegen sie wenden
 
-## 1. Erinnert ihr euch an Babylon?
+## 1. Erinnert ihr euch an Babel?
 
-Letztes Mal haben wir Babylon kennengelernt — die Frau in Gold und Edelsteinen, die so reich und
+Letztes Mal haben wir Babel kennengelernt — die Frau in Gold und Edelsteinen, die so reich und
 glanzvoll aussah, aber in Wirklichkeit auf Ungerechtigkeit aufgebaut war. Heute erfahren wir, was
 mit ihr passiert, und warum.
 
 ## 2. Alle dachten, sie würde für immer bestehen
 
-Babylon dachte, sie sei unantastbar. In ihrem eigenen Herzen sagte sie: "Ich werde immer Königin
+Babel dachte, sie sei unantastbar. In ihrem eigenen Herzen sagte sie: "Ich werde immer Königin
 sein. Ich werde nie traurig sein" (Offenbarung 18,7). Sie war sich so sicher, dass nichts sie
 jemals zu Fall bringen könnte.
 
@@ -38,7 +38,7 @@ Keine Feinde von weit weg. Ihre eigenen Freunde.
 
 Habt ihr schon mal direkt am Wasserrand eine Sandburg gebaut und gedacht, sie würde halten — und
 dann kam eine Welle, und sie war einfach... weg, blitzschnell, bevor ihr überhaupt Zeit hattet,
-sie zu reparieren? So ähnlich ist es mit Babylon. Etwas, das so solide und dauerhaft aussah,
+sie zu reparieren? So ähnlich ist es mit Babel. Etwas, das so solide und dauerhaft aussah,
 stürzte fast augenblicklich ein, und genau die Menschen, die es einst liebten, waren es, die es
 zu Fall brachten.
 
@@ -52,7 +52,7 @@ ist der einzige wirklich feste Boden, den es gibt.
 
 Erinnert ihr euch an die Geschichte, die Jesus erzählt hat, vom klugen Mann, der sein Haus auf
 Felsen baute, und dem unklugen Mann, der auf Sand baute? Als der Sturm kam, blieb nur das Haus
-auf dem Felsen stehen. Babylon ist eine ganze Stadt, auf Sand gebaut. Echte Sicherheit — die
+auf dem Felsen stehen. Babel ist eine ganze Stadt, auf Sand gebaut. Echte Sicherheit — die
 Art, die von der nächsten Welle nicht umgerissen wird — kommt nur davon, dein Leben auf Jesus zu
 bauen.
 

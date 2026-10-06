@@ -69,7 +69,7 @@ Mond Josefs Eltern, und elf Sterne sind seine elf Brüder; Josef selbst vervolls
 zwölf. Diese Zwölf sind, kurz gesagt, die zwölf Stämme Israels. Wenn Offenbarung 12 der Frau einen
 Kranz von zwölf Sternen gibt, greift sie auf eben dieses Bild zurück, wobei wieder Israel im Blick
 ist: das Volk, dem verheißen wurde, den Messias hervorzubringen, das unter dem Druck Roms in Wehen
-stöhnt, so wie es einst unter Ägypten und Babylon gestöhnt hatte.
+stöhnt, so wie es einst unter Ägypten und Babel gestöhnt hatte.
 
 So gelesen wird die ganze Vision zur Evangeliumsgeschichte, noch einmal erzählt als ein einziger
 ununterbrochener Bogen: Israel (die Frau) gebiert seinen verheißenen Messias unter gewaltigem

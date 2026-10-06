@@ -28,26 +28,26 @@ important on the outside — but underneath, something is very wrong."
 
 ## 2. The dressed-up city
 
-In Revelation, John sees a city called "Babylon," dressed in gold, purple, and jewels, looking
+In Revelation, John sees a city called "Babel," dressed in gold, purple, and jewels, looking
 just like a bride ready for her wedding. But instead of belonging faithfully to God, this city
 has given her love and loyalty to power, money, and things that aren't God.
 
 ## 3. What she really offers
 
-Babylon promises people safety, wealth, and importance — but she gets it all by hurting others
+Babel promises people safety, wealth, and importance — but she gets it all by hurting others
 and by trusting things instead of trusting God. She looks glamorous and beautiful, but
 underneath, things are not what they seem.
 
 ## 4. A question for us, not just "them"
 
-It's easy to think Babylon is just "a bad city out there" that has nothing to do with us. But
+It's easy to think Babel is just "a bad city out there" that has nothing to do with us. But
 the real question the Bible wants us to ask is: do we ever trust money, popularity, or looking
-good more than we trust God? That's the sneaky part — Babylon isn't just "someone else." It's a
+good more than we trust God? That's the sneaky part — Babel isn't just "someone else." It's a
 temptation that can creep into anyone's heart, including ours.
 
 ## 5. The ending
 
-In the end, Babylon's fancy, glittery kingdom falls apart — because anything built on things
+In the end, Babel's fancy, glittery kingdom falls apart — because anything built on things
 other than God can't actually last. That's not a scary ending; it's actually good news: it means
 we don't have to keep chasing things that can't last. We can build our lives on Jesus instead,
 who never falls.
@@ -66,7 +66,7 @@ than we trust you. Help us build our lives on you instead, because you never fal
 
 **Opening activity:** The fake/costume jewelry comparison described above.
 
-**Craft idea:** Kids draw two houses — one built on sand (Babylon, things that don't last) and
+**Craft idea:** Kids draw two houses — one built on sand (Babel, things that don't last) and
 one built on rock (trusting Jesus) — connecting back to the parable of the wise and foolish
 builders.
 

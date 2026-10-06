@@ -18,7 +18,7 @@ After the flood, humanity settles in Shinar and decides to build a great tower r
 
 Neither goal is achieved. They wanted to make a name for themselves — that never happens for them, but God goes on to make a name out of Abraham instead. They wanted to avoid being scattered — scattering is exactly what happens, as God confuses their language, an outcome only reversed centuries later at Pentecost.
 
-When Israel later goes into exile, the text notes that Babylon stood in the very same territory as the original tower — Shinar (Genesis 10:10; Daniel 1:2). The connection is deliberate: pride is the common thread, and both empires are cut brutally short — Daniel's Babylon lasted less than a century before Cyrus, whom God himself raised up, brought it down. Revelation's Babylon carries the same features forward: pride, a sudden fall, and God's people living as exiles in the middle of it.
+When Israel later goes into exile, the text notes that Babel stood in the very same territory as the original tower — Shinar (Genesis 10:10; Daniel 1:2). The connection is deliberate: pride is the common thread, and both empires are cut brutally short — Daniel's Babel lasted less than a century before Cyrus, whom God himself raised up, brought it down. Revelation's Babel carries the same features forward: pride, a sudden fall, and God's people living as exiles in the middle of it.
 
 ## Balaam: attacked through seduction, not opposition
 
@@ -32,7 +32,7 @@ The lesson is sobering: the most dangerous attack on God's people doesn't always
 
 ## Why these two stories belong together here
 
-Babel is about self-sufficiency — building something to secure our own name, our own future, without reference to God. Balaam is about seduction into compromise — being drawn, gently and without any dramatic confrontation, toward practices that quietly divide our loyalty. Revelation weaves both threads throughout the whole book: Babylon the great as the ultimate Babel, and the church at Pergamum and Thyatira warned specifically against "the teaching of Balaam" and "the teaching of Jezebel" — both of which describe exactly the same danger, compromise disguised as belonging.
+Babel is about self-sufficiency — building something to secure our own name, our own future, without reference to God. Balaam is about seduction into compromise — being drawn, gently and without any dramatic confrontation, toward practices that quietly divide our loyalty. Revelation weaves both threads throughout the whole book: Babel the great as the ultimate Babel, and the church at Pergamum and Thyatira warned specifically against "the teaching of Balaam" and "the teaching of Jezebel" — both of which describe exactly the same danger, compromise disguised as belonging.
 
 ## The question this raises for us, honestly
 

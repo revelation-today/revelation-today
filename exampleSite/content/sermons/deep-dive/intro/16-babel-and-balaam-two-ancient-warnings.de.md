@@ -37,12 +37,12 @@ wird, als der Geist Menschen aus jeder Nation befähigt, eine Botschaft in ihrer
 verstehen.
 
 **Die Verbindung Babel-Daniel-Offenbarung.** Als Israel Jahrhunderte später ins Exil geht, merkt
-der Text ausdrücklich an, dass Babylon im Land Schinar lag — genau dem Ort des ursprünglichen
+der Text ausdrücklich an, dass Babel im Land Schinar lag — genau dem Ort des ursprünglichen
 Turms ({{% bible val="1. Mose 11,2" link="gen:11,1-9" lang="de" %}}). Das ist eine bewusste
 literarische Verbindung, kein Zufall: Stolz ist der gemeinsame Faden, der sich durch beide Reiche
-zieht, und Gott verkürzt die Herrschaft beider — Daniels Babylon bestand weniger als ein
+zieht, und Gott verkürzt die Herrschaft beider — Daniels Babel bestand weniger als ein
 Jahrhundert, bevor Kyrus, den Gott selbst zu diesem Zweck erweckte, es zu Fall brachte. Das
-Babylon der Offenbarung (ein großes Thema, dem wir viel später in dieser Reihe echte Zeit widmen
+Babel der Offenbarung (ein großes Thema, dem wir viel später in dieser Reihe echte Zeit widmen
 werden) teilt bewusst dieselben Merkmale: Stolz, ein schneller und plötzlicher Fall, und Gottes
 Volk, das darin als Exilanten lebt. Babel ist nicht bloß eine alte Geschichte; es ist der
 Mustername, den die Offenbarung jedem menschlichen System gibt, das versucht, Sicherheit und

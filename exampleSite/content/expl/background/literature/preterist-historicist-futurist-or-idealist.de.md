@@ -16,7 +16,7 @@ Ein paar Fragen sind es wert, im Hinterkopf behalten zu werden:
 
 - Bedeutet {{% bible val="'was bald geschehen muss'" link="rev:1,1" lang="de" %}} und {{% bible val="'die Zeit ist nahe'" link="rev:1,3" lang="de" %}} — noch einmal wiederholt {{% bible val="ganz am Ende des Buches" link="rev:22,6" lang="de" %}} und {{% bible val="in der Anweisung, es nicht zu versiegeln" link="rev:22,10" lang="de" %}} —, dass die Ereignisse für die ersten Leser bereits im Wesentlichen begonnen hatten, oder beschreibt es, wie sich jede Generation seither angesichts der Wiederkunft Christi fühlen sollte, wie weit entfernt sie sich auch erweisen mag?
 - Steht der Tempel, {{% bible val="den Johannes vermessen soll" link="rev:11,1-2" lang="de" %}}, noch als konkretes Detail des ersten Jahrhunderts, oder ist er ein Symbol ohne Bindung an ein bestimmtes Gebäude?
-- Verweist ein Symbol wie Babylon auf eine bestimmte Stadt oder ein bestimmtes Reich, oder auf ein wiederkehrendes Muster unterdrückerischer Macht, das immer wieder auftaucht?
+- Verweist ein Symbol wie Babel auf eine bestimmte Stadt oder ein bestimmtes Reich, oder auf ein wiederkehrendes Muster unterdrückerischer Macht, das immer wieder auftaucht?
 - Wie viel von den konkreten Details der sieben Sendschreiben aus dem ersten Jahrhundert — Nikolaiten, Kaiserkult, {{% int_link val="ein echtes Erdbeben hinter Laodizeas selbstgenügsamem Wohlstand" link="/expl/content/letters/the-letter-to-the-church-in-laodicea" %}} — muss im Blick bleiben, damit der Rest des Buches Sinn ergibt, statt bloß beiläufiges Beiwerk für eine rein zukünftige oder rein zeitlose Botschaft zu sein?
 
 ## Präteristisch
@@ -104,7 +104,7 @@ Statt sich für eine der vier Sichtweisen zu entscheiden, liest diese Seite die 
 
 **Dafür spricht:**
 
-- Es muss nicht jedes Symbol in einen einzigen Zeitrahmen zwingen — die sieben Sendschreiben können im ersten Jahrhundert verankert bleiben, Babylon kann Rom *und* jedes ähnliche Reich sein, und das letzte Gericht kann trotzdem echt zukünftig sein, alles ohne Widerspruch.
+- Es muss nicht jedes Symbol in einen einzigen Zeitrahmen zwingen — die sieben Sendschreiben können im ersten Jahrhundert verankert bleiben, Babel kann Rom *und* jedes ähnliche Reich sein, und das letzte Gericht kann trotzdem echt zukünftig sein, alles ohne Widerspruch.
 - Es vermeidet das spezifische, wiederkehrende Scheitern von Historismus und Futurismus: ein Symbol zuversichtlich an ein aktuelles Ereignis oder eine aktuelle Gestalt zu binden, nur um eine Generation später eine neue Identifikation zu brauchen.
 - Es entspricht der Art, wie der Rest dieser Seite das Buch tatsächlich praktisch liest — {{% int_link val="fest verankert in der realen Geschichte des ersten Jahrhunderts" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}}, wo der Text dies verlangt, aufmerksam für wiederkehrende Muster, und dennoch eine reale zukünftige Wiederkunft Christi erwartend.
 - Es nimmt ernst, dass {{% int_link val="sich selbst ernstzunehmende, gläubige Gelehrte" link="/expl/topics/others/who-wrote-revelation-and-when" %}} schon über das Datum des Buches uneins sind, geschweige denn über seine Erfüllung — eine Demut, die ein einziges, alles-oder-nichts-Schema nicht ohne Weiteres zulässt.

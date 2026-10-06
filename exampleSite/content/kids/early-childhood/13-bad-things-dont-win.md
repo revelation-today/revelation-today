@@ -46,7 +46,7 @@ sun and a smiling cross or crown nearby, showing Jesus is still shining above it
 
 ## Note for the Teacher
 
-Skip any description of the bowls' contents or Babylon's specific wrongdoing (Revelation
+Skip any description of the bowls' contents or Babel's specific wrongdoing (Revelation
 15–18) — keep entirely to the single simplified idea that a proud, hurtful city falls down and
 doesn't get the last word. Land every time on relief and safety: Jesus makes sure bad things
 don't win.

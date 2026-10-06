@@ -25,13 +25,13 @@ und sagt: "Alles, was du dir je wünschen könntest, ist da drin — aber du mus
 Wichtigste geben, das du hast." Würdest du das glauben?
 
 In der Offenbarung sieht Johannes eine Frau in den erstaunlichsten Kleidern — Purpur, Gold und
-Edelsteine —, die auf einem furchteinflößenden Tier reitet. Sie heißt "Babylon", und sie sieht
+Edelsteine —, die auf einem furchteinflößenden Tier reitet. Sie heißt "Babel", und sie sieht
 unglaublich reich und glanzvoll aus. Aber unter all diesem Glanz stimmt etwas ganz und gar
 nicht.
 
 ## 2. Was sie wirklich verkauft
 
-Babylon ist nicht nur eine einzelne böse Person — sie steht für jedes Versprechen, das sagt: "Du
+Babel ist nicht nur eine einzelne böse Person — sie steht für jedes Versprechen, das sagt: "Du
 kannst all das Geld, allen Erfolg, all die guten Gefühle haben, die du willst — stell nur das,
 was wirklich richtig ist, was wirklich wichtig ist, hinten an: die Sorge um andere Menschen,
 Gott." Sie sieht von außen fantastisch aus. Aber schau dir an, worauf ihr Glanz eigentlich
@@ -39,21 +39,21 @@ aufgebaut ist: Ungerechtigkeit und das Verletzen von Menschen, um reich zu werde
 
 ## 3. Es hält nicht
 
-Hier ist die überraschende Wendung: Genau die Menschen, die Babylon liebten und sie reich
+Hier ist die überraschende Wendung: Genau die Menschen, die Babel liebten und sie reich
 machten, sind es, die sich am Ende gegen sie wenden und sie zu Fall bringen — plötzlich, in
 kürzester Zeit! Etwas, das so solide, so dauerhaft, so sicher aussah... war es am Ende gar
 nicht.
 
 ## 4. Was wirklich hält
 
-Was ist also der Unterschied zwischen Babylons falschem Schatz und einem echten Schatz? Echte
+Was ist also der Unterschied zwischen Babels falschem Schatz und einem echten Schatz? Echte
 Sicherheit — die Art, die niemals ausgeht und nie plötzlich einstürzt — kommt von Jesus, nicht
 von Sachen, nicht von Reichtum, nicht davon, dass alle dich für einen Gewinner halten. Jesus hat
 nie von jemandem verlangt, das Richtige gegen etwas Glänzendes einzutauschen. Er hat für uns
 alles hergegeben, statt von uns zu verlangen, das Richtige für etwas Glänzendes herzugeben.
 
 Das heißt nicht, dass es schlecht ist, schöne Dinge zu haben oder erfolgreich zu sein! Gott ist
-nicht dagegen, dass es dir gut geht. Die Frage, die Babylons Geschichte stellt, ist einfacher:
+nicht dagegen, dass es dir gut geht. Die Frage, die Babels Geschichte stellt, ist einfacher:
 Vertraust du darauf, dass Sachen dich sicher und glücklich machen, oder vertraust du Jesus?
 
 ## Unser Ruf

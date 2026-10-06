@@ -13,7 +13,7 @@ next: /sermons/prosperity-gospel-module/ending/04-what-real-security-looks-like
 
 ## The most dressed-up figure in the whole book
 
-If Revelation had a moment of maximum glamor, it's this one. Revelation 17 introduces "Babylon
+If Revelation had a moment of maximum glamor, it's this one. Revelation 17 introduces "Babel
 the Great" dressed in purple and scarlet, glittering with gold, pearls, and precious stones,
 holding a golden cup. She sits enthroned on a scarlet beast with seven heads and ten horns. Kings
 commit adultery with her. Merchants grow rich trading with her. She calls herself a queen who
@@ -25,7 +25,7 @@ security. That surface is exactly the point — and exactly the danger.
 Look again, though, and the cup is full of filth. The purple and scarlet echo the priestly
 garments of the Old Testament tabernacle — the very colors meant to represent devotion to God —
 now worn by a figure whose name is written where the high priest once wore "Holy to the Lord":
-"Babylon the Great, the Mother of Prostitutes and of the Abominations of the Earth." This is a
+"Babel the Great, the Mother of Prostitutes and of the Abominations of the Earth." This is a
 counterfeit of holiness itself, not merely of wealth.
 
 ## Who she actually is
@@ -48,19 +48,19 @@ seductive package, the harlot's pattern is present.
 
 ## Wealth that costs someone else everything
 
-The economic picture Revelation paints of Babylon is not vague. Chapter 18 lists her cargo in
+The economic picture Revelation paints of Babel is not vague. Chapter 18 lists her cargo in
 detail — gold, silver, jewels, fine cloth, spices, wine, oil, livestock — and then, without any
 pause or special emphasis, adds "human beings sold as slaves." Bodies and souls, listed as
 merchandise alongside cinnamon and horses. That single detail should stop us. Whatever glamor
 this system projects, its wealth was never free. It was extracted — from the poor, from the
 weak, from anyone whose labor or life could be converted into someone else's profit. The
-merchants who "weep" over Babylon's fall in chapter 18 aren't mourning her; they're mourning
+merchants who "weep" over Babel's fall in chapter 18 aren't mourning her; they're mourning
 their own lost income. Nobody in that scene loved her. They only loved what she made possible
 for them.
 
 This is not a claim that trade, wealth, or economic growth are inherently evil — the text never
 says that, and neither should we. The question the harlot forces onto the table is different:
-what spirit lies behind the wealth, and who pays the actual cost of it? Babylon "considered
+what spirit lies behind the wealth, and who pays the actual cost of it? Babel "considered
 herself untouchable" and beyond consequence — proud in exactly the way great economic and
 political systems tend to become proud when they've never yet been made to answer for what
 they've built on.
@@ -87,10 +87,10 @@ in the language of holiness that the difference is easy to miss.
 
 ## Why she falls, and why it matters
 
-The strangest part of Babylon's story is her ending: the very kings and powers who built her up
+The strangest part of Babel's story is her ending: the very kings and powers who built her up
 are the ones who turn on her and destroy her. Nothing about that loyalty was ever secure. People,
 nations, and economic systems change their allegiances constantly; God alone does not change.
-Babylon's entire foundation — the shifting favor of self-interested rulers — was never going to
+Babel's entire foundation — the shifting favor of self-interested rulers — was never going to
 hold, because everyone inside that system was ultimately looking out for their own advantage
 first, herself included. A security system built on other people's continued approval is not
 security. It's a countdown.

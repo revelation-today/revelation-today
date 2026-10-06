@@ -27,17 +27,17 @@ Manchmal ist das schickste, glänzendste Ding nicht das beste. Die heutige Gesch
 
 ---
 
-## 2. Begegnung mit „Babylon"
+## 2. Begegnung mit „Babel"
 
-In Offenbarung 17 sieht Johannes eine Frau, die auf einem furchterregenden Tier reitet, gekleidet in Purpur, Gold und Edelsteine, genannt „Babylon". Zuerst wirkt sie reich und beeindruckend. Aber der Engel erklärt: Sie ist niemand, den man bewundern sollte. Sie steht für ein ganzes System, das auf Gier, Ungerechtigkeit und der Abkehr von Gott hin zu Geld und Macht aufgebaut ist.
+In Offenbarung 17 sieht Johannes eine Frau, die auf einem furchterregenden Tier reitet, gekleidet in Purpur, Gold und Edelsteine, genannt „Babel". Zuerst wirkt sie reich und beeindruckend. Aber der Engel erklärt: Sie ist niemand, den man bewundern sollte. Sie steht für ein ganzes System, das auf Gier, Ungerechtigkeit und der Abkehr von Gott hin zu Geld und Macht aufgebaut ist.
 
-Für die ersten Leser bedeutete „Babylon" eindeutig Rom – das mächtige Reich, das über sie herrschte, herausgeputzt in Herrlichkeit, aber aufgebaut auf dem Leiden anderer.
+Für die ersten Leser bedeutete „Babel" eindeutig Rom – das mächtige Reich, das über sie herrschte, herausgeputzt in Herrlichkeit, aber aufgebaut auf dem Leiden anderer.
 
 ---
 
-## 3. Babylon gegen die echte Braut
+## 3. Babel gegen die echte Braut
 
-Die Offenbarung zeigt uns zwei Frauen, die von außen ähnlich aussehen, aber im Inneren Gegensätze sind: Babylon (gekleidet in Edelsteinen, die ihre Hässlichkeit verbergen) und die Braut Christi, die Kirche (gekleidet in Weiß, das ihre wahre Güte zeigt, ein Geschenk Gottes). Die eine wurde reich, indem sie Menschen ausnutzte und verletzte. Die andere empfing alles als Geschenk aus Gottes Liebe.
+Die Offenbarung zeigt uns zwei Frauen, die von außen ähnlich aussehen, aber im Inneren Gegensätze sind: Babel (gekleidet in Edelsteinen, die ihre Hässlichkeit verbergen) und die Braut Christi, die Kirche (gekleidet in Weiß, das ihre wahre Güte zeigt, ein Geschenk Gottes). Die eine wurde reich, indem sie Menschen ausnutzte und verletzte. Die andere empfing alles als Geschenk aus Gottes Liebe.
 
 ---
 
@@ -69,11 +69,11 @@ Lieber Gott, hilf uns, das zu wollen, was wirklich gut ist, nicht nur, was schic
 
 **Idee für die Eröffnung:** Der oben beschriebene Vergleich der zwei Kronen (eine schlicht-aber-echt, eine auffällig-aber-falsch) eignet sich gut als visueller Aufhänger.
 
-**Idee für Bastelarbeit:** Lasst die Kinder zwei einfache Gewänder zeichnen oder verzieren – eines beschriftet mit „Babylon" (bedeckt mit falschen Edelsteinen/Glitzer) und eines mit „Die Kirche/Braut" (schlicht weiß, „ein Geschenk Gottes") –, um den Gegensatz zu verstärken.
+**Idee für Bastelarbeit:** Lasst die Kinder zwei einfache Gewänder zeichnen oder verzieren – eines beschriftet mit „Babel" (bedeckt mit falschen Edelsteinen/Glitzer) und eines mit „Die Kirche/Braut" (schlicht weiß, „ein Geschenk Gottes") –, um den Gegensatz zu verstärken.
 
 **Fragen für die Kinder:**
-1. Warum, glaubst du, sah Babylon von außen so beeindruckend aus?
-2. Was ist der Unterschied zwischen dem weißen Gewand der Braut und dem juwelenbesetzten Gewand Babylons?
+1. Warum, glaubst du, sah Babel von außen so beeindruckend aus?
+2. Was ist der Unterschied zwischen dem weißen Gewand der Braut und dem juwelenbesetzten Gewand Babels?
 3. Gibt es etwas in deinem eigenen Leben, das dir manchmal wichtiger erscheint als Gott, obwohl es gut aussieht?
 
 **Vorschläge für Lieder:**

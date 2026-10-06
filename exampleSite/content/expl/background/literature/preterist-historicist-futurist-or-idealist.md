@@ -16,7 +16,7 @@ A few questions are worth holding in mind as you weigh them:
 
 - Does {{% bible val="'what must soon take place'" link="rev:1,1" lang="en" %}} and {{% bible val="'the time is near'" link="rev:1,3" lang="en" %}} — repeated again at {{% bible val="the very end of the book" link="rev:22,6" lang="en" %}} and {{% bible val="in the instruction not to seal it up" link="rev:22,10" lang="en" %}} — mean the events had substantially begun for the first readers, or does it describe how every generation since should feel about Christ's return, however distant it turns out to be?
 - Is the temple {{% bible val="John is told to measure" link="rev:11,1-2" lang="en" %}} still standing as a concrete first-century detail, or a symbol untethered from any one building?
-- Does a symbol like Babylon point to one specific city or empire, or a recurring pattern of oppressive power that keeps resurfacing?
+- Does a symbol like Babel point to one specific city or empire, or a recurring pattern of oppressive power that keeps resurfacing?
 - How much of the seven letters' first-century detail — Nicolaitans, emperor worship, {{% int_link val="a real earthquake behind Laodicea's self-sufficiency" link="/expl/content/letters/the-letter-to-the-church-in-laodicea" %}} — has to stay in view for the rest of the book to make sense, rather than being incidental scaffolding for a purely future or purely timeless message?
 
 ## Preterist
@@ -104,7 +104,7 @@ Rather than picking one of the four, this site reads Revelation as doing all fou
 
 **In favor:**
 
-- It doesn't have to force every symbol into one single timeframe — the seven letters can stay first-century, Babylon can be Rome *and* every empire like it, and the final judgment can still be genuinely future, all without contradiction.
+- It doesn't have to force every symbol into one single timeframe — the seven letters can stay first-century, Babel can be Rome *and* every empire like it, and the final judgment can still be genuinely future, all without contradiction.
 - It avoids the specific, repeated failure mode of both historicism and futurism: confidently pinning a symbol to one current event or figure, only to need a new identification a generation later.
 - It matches how the rest of this site actually reads the book in practice — {{% int_link val="grounded in real first-century history" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} where the text calls for it, alert to recurring patterns, and still expecting a real future return of Christ.
 - It takes seriously that {{% int_link val="serious, faithful scholars disagree" link="/expl/topics/others/who-wrote-revelation-and-when" %}} even about the book's date, let alone its fulfillment — a humility that a single, all-or-nothing scheme doesn't easily allow for.

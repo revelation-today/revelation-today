@@ -1,5 +1,5 @@
 ---
-title: "Rev. 17: Who Is the Harlot Babylon? Whose Security Are You Actually Buying?"
+title: "Rev. 17: Who Is the Harlot Babel? Whose Security Are You Actually Buying?"
 weight: 7
 docType: sermon
 audience_group: "latin-american"
@@ -12,7 +12,7 @@ next: /sermons/latin-american/conflict/08-the-character-and-destiny-of-the-harlo
 ## The most important session in this series
 
 Of everything in this regional pack, this is the one session worth slowing down for and
-giving the most room to. Revelation 17–18's vision of the harlot Babylon is, more than any
+giving the most room to. Revelation 17–18's vision of the harlot Babel is, more than any
 other passage in the book, a direct, pointed confrontation with a message many of you have
 heard preached in good faith, in churches you love, by leaders who genuinely believe it: that
 wealth, health, and visible success are the reliable proof of God's favor. This session
@@ -24,7 +24,7 @@ as an invitation into something more durable than what it offers.
 Revelation 17 is crowded with characters: a beast, seven hills, ten kings, and a harlot riding
 on all of it. Start with the harlot herself. She sits enthroned, dressed in purple, scarlet,
 gold, and jewels — the picture of imperial wealth and glamor — with a cup in her hand "full of
-abominations and the filth of her adulteries" (17:4), and a name on her forehead: "Babylon the
+abominations and the filth of her adulteries" (17:4), and a name on her forehead: "Babel the
 Great, the Mother of Prostitutes." The kings of the earth "committed adultery with her," and
 she has made "the inhabitants of the earth intoxicated with the wine of her adulteries"
 (17:2). She sits on a scarlet beast with seven heads and ten horns — the same beast from
@@ -47,7 +47,7 @@ sharpest at God's own people, the way Ezekiel accused Jerusalem itself of acting
 (Ezekiel 16). Tyre and Nineveh get the same label elsewhere for exactly the same reason:
 economic wealth built through exploitation, dressed up as blessing (Isaiah 23; Nahum 3).
 
-So is Babylon simply the church gone bad? Not quite — she's a system in her own right, the
+So is Babel simply the church gone bad? Not quite — she's a system in her own right, the
 glamorous, moneyed, propaganda-soaked partner riding on top of raw political and military
 power. The beast is brute force; the harlot is what makes that force look attractive, secure,
 and worth trusting. Together they form the devil's whole counterfeit gospel: security bought
@@ -55,7 +55,7 @@ through fear of violence, wealth built by exploiting the poor and excluding anyo
 comply, a feeling of superiority, and the silencing of any inconvenient voice that names what's
 really happening (see Revelation 13:4, 7, 10, 13–14, 16–17; 17:6). But the church is always at
 risk of being pulled into her orbit — "so that you're forced to keep reflecting and stepping
-out of it, day after day," as the text itself puts it (18:4), "because Babylon is everywhere."
+out of it, day after day," as the text itself puts it (18:4), "because Babel is everywhere."
 
 ## Naming the collision directly
 
@@ -79,7 +79,7 @@ comfortable life inherently sinful — trade and wealth aren't condemned here. W
 asking is sharper and more personal: what spirit lies behind the wealth, and how do you respond
 when it's threatened? Do you mourn right alongside everyone else when the economy crumbles
 (18:10–17)? Would you support real injustice to protect your own financial interest? If so,
-Revelation's own verdict is blunt: you're standing inside Babylon, "and we need to leave"
+Revelation's own verdict is blunt: you're standing inside Babel, "and we need to leave"
 (18:4).
 
 ## The invitation underneath the warning
@@ -106,6 +106,6 @@ the counterfeit.
 - What would it look like, concretely, for you to "come out of her" (18:4) in an area of your
   life where security has quietly become more about money or status than about God?
 
-Babylon looks glamorous right up until the hour she falls. The Lamb looked like nothing right
+Babel looks glamorous right up until the hour she falls. The Lamb looked like nothing right
 up until he was revealed as worthy of all worship. Choose your security carefully — one of
 those two outlasts the other.

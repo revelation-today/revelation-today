@@ -12,7 +12,7 @@ next: /sermons/deep-dive/intro/10-family-outsiders-and-the-god-who-redeems
 
 Ask your group what they picture when they hear "the Day of the Lord" — most will say something
 like "the end of the world," a single cataclysmic future event. Then point out something
-surprising: when Israel actually returned from exile in Babylon — rebuilt temple, rebuilt walls,
+surprising: when Israel actually returned from exile in Babel — rebuilt temple, rebuilt walls,
 priest and governor both in place — nothing about it felt like the fulfillment they'd been
 promised. By every measure that mattered, they were still in exile. That gap between the promise
 and the underwhelming "return" is exactly what sets up why Jesus's arrival was both expected and

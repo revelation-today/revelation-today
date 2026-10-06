@@ -20,16 +20,16 @@ draft: true
 
 ## 1. Remember the shiny trap?
 
-A while back, we learned about Babylon — the beautiful trap that looked so rich and secure, but
+A while back, we learned about Babel — the beautiful trap that looked so rich and secure, but
 fell apart fast. Today we see the opposite: a city that's truly beautiful, truly secure, and
 lasts forever. It's called the New Jerusalem.
 
-## 2. Everything Babylon promised — for real this time
+## 2. Everything Babel promised — for real this time
 
 The New Jerusalem shines with gold and jewels too — but this treasure isn't built on hurting
-anyone. It's a free gift from God. Babylon's water cost you everything; in the New Jerusalem,
+anyone. It's a free gift from God. Babel's water cost you everything; in the New Jerusalem,
 "the water of life" is given "without cost" — completely free, to anyone who's thirsty
-(Revelation 21:6). Babylon fell apart in an hour; the New Jerusalem lasts forever.
+(Revelation 21:6). Babel fell apart in an hour; the New Jerusalem lasts forever.
 
 ## 3. No more sad things
 

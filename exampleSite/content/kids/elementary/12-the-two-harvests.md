@@ -46,7 +46,7 @@ rather the point.
 Then three angels fly over with three announcements:
 
 - the first has **good news for every nation** — the offer is still open, to everyone
-- the second says **Babylon is fallen** — the great fake city is finished
+- the second says **Babel is fallen** — the great fake city is finished
 - the third gives a serious warning about following the beast
 
 Notice the order. The good news comes *first*. The warning is real, but the invitation is

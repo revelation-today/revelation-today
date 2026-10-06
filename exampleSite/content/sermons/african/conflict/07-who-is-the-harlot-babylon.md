@@ -1,5 +1,5 @@
 ---
-title: "Rev. 17: Who Is the Harlot Babylon?"
+title: "Rev. 17: Who Is the Harlot Babel?"
 weight: 7
 docType: sermon
 audience_group: "african"
@@ -10,7 +10,7 @@ next: /sermons/african/worship-and-seals/08-the-144000-and-the-great-tribulation
 
 ## The most important session in this series
 
-Of everything Revelation addresses, this is the one that speaks most directly and most personally into many of our churches today. In a region where health-and-wealth teaching is, in many places, not a fringe position but close to the mainstream of independent and Pentecostal-charismatic Christianity, Revelation's harlot Babylon material is aimed with striking precision at exactly this territory. This isn't an attack on anyone in this room. It's an invitation to test what we've been taught to expect from God against what Scripture actually promises.
+Of everything Revelation addresses, this is the one that speaks most directly and most personally into many of our churches today. In a region where health-and-wealth teaching is, in many places, not a fringe position but close to the mainstream of independent and Pentecostal-charismatic Christianity, Revelation's harlot Babel material is aimed with striking precision at exactly this territory. This isn't an attack on anyone in this room. It's an invitation to test what we've been taught to expect from God against what Scripture actually promises.
 
 ## A crowded chapter, one clear picture
 
@@ -18,7 +18,7 @@ Revelation 17 introduces a lot of characters at once: a great harlot, a scarlet 
 
 The beast in this chapter closely mirrors the first beast of chapter 13 — same seven heads and ten horns, same claim to being unrivaled, same blasphemous name. It represents imperial military and political power. The seven hills the woman sits on identified Rome unmistakably to the first readers — this was never a prophecy about some future pope or nation, but a description of the empire actually ruling them at the time.
 
-The harlot herself sits on the beast, dressed in the very same materials as the Old Testament high priest — the offering for the tabernacle, the ephod, the breastplate — but where the priest's forehead-plate read "Holy to the Lord," hers reads "Babylon the great, the mother of harlots" (Revelation 17:5). She is a corrupted picture of what should have been holy. The parallel goes further: the same judgment prescribed for a priest's daughter who became a prostitute — death by fire (Leviticus 21:9) — falls on her exactly (Revelation 18:8).
+The harlot herself sits on the beast, dressed in the very same materials as the Old Testament high priest — the offering for the tabernacle, the ephod, the breastplate — but where the priest's forehead-plate read "Holy to the Lord," hers reads "Babel the great, the mother of harlots" (Revelation 17:5). She is a corrupted picture of what should have been holy. The parallel goes further: the same judgment prescribed for a priest's daughter who became a prostitute — death by fire (Leviticus 21:9) — falls on her exactly (Revelation 18:8).
 
 ## What the harlot actually represents
 
@@ -48,12 +48,12 @@ Here is one of Revelation's strangest, most instructive turns: the very kings wh
 
 ## A pastoral word, not a condemnation
 
-None of this makes wealth, trade, business success, or economic growth inherently evil. Scripture never says that. The question Revelation actually presses is narrower and more searching: what do we do when the economy crumbles, when the harvest fails, when the promised breakthrough doesn't come? Do we quietly conclude that God has failed us — or that we simply didn't have enough faith — because our theology told us faithfulness always produces visible prosperity? That is the precise moment we need to ask whether we've unknowingly moved into Babylon's territory, mistaking her glamor for God's blessing.
+None of this makes wealth, trade, business success, or economic growth inherently evil. Scripture never says that. The question Revelation actually presses is narrower and more searching: what do we do when the economy crumbles, when the harvest fails, when the promised breakthrough doesn't come? Do we quietly conclude that God has failed us — or that we simply didn't have enough faith — because our theology told us faithfulness always produces visible prosperity? That is the precise moment we need to ask whether we've unknowingly moved into Babel's territory, mistaking her glamor for God's blessing.
 
 The call, both to the church addressed in Revelation and to us, is the same: "Come out of her, my people" (Revelation 18:4) — not out of business, not out of ambition, not out of hope for a better life, but out of the lie that wealth and ease are the true measure of God's favor, and the false gospel that promises them without the cross.
 
 ## Closing: the real prosperity
 
-Revelation doesn't end with the harlot's fall. It ends, three chapters later, with the New Jerusalem — a city where God himself lives permanently among his people, where there is no more death, mourning, or pain, where every tear is personally wiped away. That is the real, lasting security Revelation actually promises — not wealth as proof of favor now, but God's own presence, forever, freely given to "the thirsty... without cost" (Revelation 21:6). That is what real, permanent prosperity looks like, and it's better than anything Babylon ever offered.
+Revelation doesn't end with the harlot's fall. It ends, three chapters later, with the New Jerusalem — a city where God himself lives permanently among his people, where there is no more death, mourning, or pain, where every tear is personally wiped away. That is the real, lasting security Revelation actually promises — not wealth as proof of favor now, but God's own presence, forever, freely given to "the thirsty... without cost" (Revelation 21:6). That is what real, permanent prosperity looks like, and it's better than anything Babel ever offered.
 
 Where have you, even unknowingly, measured God's favor by your bank balance or your circumstances rather than his presence? What would it look like this week to trade the promise of the harlot for the promise of the New Jerusalem?

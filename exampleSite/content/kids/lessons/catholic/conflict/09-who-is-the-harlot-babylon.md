@@ -1,5 +1,5 @@
 ---
-title: "Rev. 17: Who Is the Harlot Babylon?"
+title: "Rev. 17: Who Is the Harlot Babel?"
 weight: 9
 docType: kids
 audience_group: "catholic"
@@ -15,7 +15,7 @@ draft: true
 > repository for reference and is no longer published.
 
 
-# Who Is the Harlot Babylon?
+# Who Is the Harlot Babel?
 
 ## Game/Hook: The Fancy Fake
 
@@ -34,7 +34,7 @@ tale. It's in the Bible.
 In Revelation, John sees a strange and dazzling woman. She's dressed in purple and scarlet,
 covered in gold, pearls, and jewels, holding a fancy golden cup. She looks like a queen — maybe
 even like someone holy, dressed the way a priest might dress for something sacred. But written
-right on her forehead is a name: "Babylon the Great." And the cup she's holding? It's full of
+right on her forehead is a name: "Babel the Great." And the cup she's holding? It's full of
 disgusting things, not treasure.
 
 This woman stands for a real, powerful city in John's time called Rome — a city so rich and
@@ -45,11 +45,11 @@ God, and it used its wealth and glamour to pull people away from loving God firs
 Here's the important part: this beautiful-looking woman is a trick. She looks fancy, even
 sacred — but underneath, she's rotten. She represents anything that tries to look wonderful and
 trustworthy on the outside while actually pulling people away from God on the inside. The Bible
-calls this "Babylon," and it shows up any time money, fame, or fitting in becomes more important
+calls this "Babel," and it shows up any time money, fame, or fitting in becomes more important
 to us than loving and obeying God.
 
 The really important thing to know is that this isn't just a story about one city a long, long
-time ago. It's a warning for every single person, in every time, including us — because "Babylon"
+time ago. It's a warning for every single person, in every time, including us — because "Babel"
 can sneak into anyone's life if we're not careful, no matter how good and normal it looks on the
 outside.
 

@@ -16,16 +16,16 @@ draft: true
 
 
 # When the Sandcastle Falls
-### Why Babylon's "friends" turned on her
+### Why Babel's "friends" turned on her
 
-## 1. Remember Babylon?
+## 1. Remember Babel?
 
-Last time, we met Babylon — the woman dressed in gold and jewels who looked so rich and
+Last time, we met Babel — the woman dressed in gold and jewels who looked so rich and
 glamorous, but was really built on unfairness. Today we find out what happens to her, and why.
 
 ## 2. Everyone thought she'd last forever
 
-Babylon thought she was untouchable. In her own heart she said, "I'll always be a queen. I'll
+Babel thought she was untouchable. In her own heart she said, "I'll always be a queen. I'll
 never be sad" (Revelation 18:7). She was so sure nothing could ever knock her down.
 
 ## 3. Her own friends knock her down
@@ -35,7 +35,7 @@ her — who suddenly turn around and destroy her. Not enemies from far away. Her
 
 Have you ever built a sandcastle right at the edge of the water, and thought it would last —
 and then a wave came and it was just... gone, fast, before you even had time to fix it? That's
-a little bit like what happens to Babylon. Something that looked so solid and permanent
+a little bit like what happens to Babel. Something that looked so solid and permanent
 collapsed almost instantly, and the very people who once loved it were the ones who knocked it
 down.
 
@@ -48,7 +48,7 @@ solid ground there is.
 ## 5. Build on the Rock instead
 
 Remember the story Jesus told about the wise man who built his house on rock, and the foolish
-man who built on sand? When the storm came, only the house on the rock stood. Babylon is a
+man who built on sand? When the storm came, only the house on the rock stood. Babel is a
 whole city built on sand. Real security — the kind that doesn't get knocked down by the next
 wave — only comes from building your life on Jesus.
 

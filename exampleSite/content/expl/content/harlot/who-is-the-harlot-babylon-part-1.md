@@ -1,5 +1,5 @@
 ---
-title: "Part 1: Who is the Harlot Babylon?"
+title: "Part 1: Who is the Harlot Babel?"
 weight: 2
 base: /quick/content/harlot
 story: /story/general/tour
@@ -15,7 +15,7 @@ deeper:
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
     - name: The Harlot part 2
       link:  /expl/content/harlot/who-is-the-harlot-babylon-part-2
-    - name: The origin of Babylon
+    - name: The origin of Babel
       link:  /expl/bible/keyword/the-origin-of-babel
 sources: 
     - pages: 889–890, 1117–1119
@@ -33,13 +33,13 @@ readBefore:
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 ---
 
-Some people say it's the Pope; some say it's the economy. It could be anyone — even the Church. So who is the Harlot Babylon?
+Some people say it's the Pope; some say it's the economy. It could be anyone — even the Church. So who is the Harlot Babel?
 
 ## Overview
 
-Chapter 17 is about the Harlot Babylon, but identifying her isn't straightforward, because {{% bible val="so many characters in this chapter interact with each other" link="rev:17" lang="en" %}}. Let's look at them one at a time.
+Chapter 17 is about the Harlot Babel, but identifying her isn't straightforward, because {{% bible val="so many characters in this chapter interact with each other" link="rev:17" lang="en" %}}. Let's look at them one at a time.
 
-It begins with the Great Harlot: the kings of the earth commit adultery with her, and she intoxicates the whole earth. Then an angel starts unpacking the mystery surrounding her. The first clue is that she sits on a beast ({{% int_link val="from chapter 13" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}) with seven heads and ten horns, and the woman herself is identified as Babylon. The seven heads turn out to be seven hills, or seven kings who rule one after another, with the beast itself as an eighth king. The ten horns are ten kings who rule at the same time and hand all their power over to the beast.
+It begins with the Great Harlot: the kings of the earth commit adultery with her, and she intoxicates the whole earth. Then an angel starts unpacking the mystery surrounding her. The first clue is that she sits on a beast ({{% int_link val="from chapter 13" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}) with seven heads and ten horns, and the woman herself is identified as Babel. (English Bibles print "Babylon"; it is the same name as the Babel of Genesis 11, and this site uses "Babel" throughout.) The seven heads turn out to be seven hills, or seven kings who rule one after another, with the beast itself as an eighth king. The ten horns are ten kings who rule at the same time and hand all their power over to the beast.
 
 The beast then fights against the saints, but Jesus takes up that fight himself — and the whole scene ends with the beast and the kings turning on the harlot, hating her and destroying her.
 
@@ -74,7 +74,7 @@ This is a parody of God's own description as the Eternal One in Rev. 1:8, the On
 <a name="2d9d"></a>
 The seven hills the woman sits on are {{% bible val="seven hills" link="rev:17,9" lang="en" %}} that identify Rome — a near-universal conclusion among interpreters, since Rome was famous in antiquity as "the city on seven hills." For the first readers, Rome was the seat of the emperor, praised as Lord of lords and King of kings as though he were equal to God — this is not a prophecy about the Pope, or anyone else who later happened to live in Rome.
 
-At the same time, hills can also stand for kingdoms, since the text goes on to interpret them as kings, and each king has an associated kingdom. That reading is supported by the greatest kingdom pictured as a mountain in {{% bible val="Isaiah" link="isa:2,2" lang="en" %}}, by {{% bible val="Babylon described as a mountain" link="jer:51,25" lang="en" %}}, and by the {{% bible val="mountain that fills the earth in Daniel as the new godly kingdom" link="dan:2,35" lang="en" %}}. Edom's own mountainous homeland gave rise to similar language ({{% bible val="Edom's mountain, Mount Seir" link="ezk:35,3" lang="en" %}}), though there the mountain is Edom's literal territory rather than a purely symbolic image.
+At the same time, hills can also stand for kingdoms, since the text goes on to interpret them as kings, and each king has an associated kingdom. That reading is supported by the greatest kingdom pictured as a mountain in {{% bible val="Isaiah" link="isa:2,2" lang="en" %}}, by {{% bible val="Babel described as a mountain" link="jer:51,25" lang="en" %}}, and by the {{% bible val="mountain that fills the earth in Daniel as the new godly kingdom" link="dan:2,35" lang="en" %}}. Edom's own mountainous homeland gave rise to similar language ({{% bible val="Edom's mountain, Mount Seir" link="ezk:35,3" lang="en" %}}), though there the mountain is Edom's literal territory rather than a purely symbolic image.
 
 [Who are the seven kings?](https://www.bibleserver.com/NIV/Revelation17%3A10) Five have already fallen, one currently reigns, and a seventh is still to come and will reign only briefly. Together they describe a chronological sequence, showing that throughout this span of time the kings support the beast. This is one of the most debated passages in Revelation for dating the book: some scholars try to count actual emperors from Julius Caesar or Augustus onward to land on a specific "sixth king" (usually Nero), arguing this points to a date in the late 60s AD; the majority view, following the early church's own testimony (Irenaeus) that John wrote under Domitian in the mid-90s AD, reads the sequence more symbolically, as we do here. We won't try to name a specific sixth king; the point is not an exact headcount but that the final countdown is close, {{% bible val="a call to stay alert" link="rev:16,15" lang="en" %}}. For a fuller look at how this dating question plays out across the site, see {{% int_link val="who wrote Revelation, and when" link="/expl/topics/others/who-wrote-revelation-and-when" %}}.
 
@@ -95,7 +95,7 @@ She has many parallels — mostly as a deliberate contrast — with the bride in
 | The woman in chapter 12 | The harlot in chapter 17 | The bride in chapters 19 and 21 |
 |--------------------|----------------------|-----------------------|
 | Hidden in the **wilderness** {{% bible val="Rev.12/6" link="rev:12,6" lang="en" %}} | Sheltered in the **wilderness** {{% bible val="Rev.17/3" link="rev:17,3" lang="en" %}} | |
-| | Is the **city** Babylon {{% bible val="Rev.17/5" link="rev:17,5" lang="en" %}} | Is a **city** {{% bible val="Rev.21/9-21" link="rev:21,9-21" lang="en" %}} |
+| | Is the **city** Babel {{% bible val="Rev.17/5" link="rev:17,5" lang="en" %}} | Is a **city** {{% bible val="Rev.21/9-21" link="rev:21,9-21" lang="en" %}} |
 | | The **capital** *without God* | The **city** *of God* |
 | *Mother* of legitimate children | *Harlot* | *bride* |
 | **{{% bible val="Pursued mother" link="rev:12" lang="en" %}}** | **{{% bible val="Persecuted mother" link="rev:17,5" lang="en" %}}** ({{% bible val="Rev.17/16" link="rev:17,16" lang="en" %}}) | |

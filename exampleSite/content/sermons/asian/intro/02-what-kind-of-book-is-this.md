@@ -41,7 +41,7 @@ It does this through a deliberate dualism — in time (this present age is passi
 
 ## 5. Why this matters for us specifically
 
-For readers facing state pressure, surveillance, or minority status, the apocalyptic genre's core move — forcing a decision, refusing a comfortable middle ground — is not a literary curiosity. It's an accurate description of your actual situation. Revelation doesn't offer a third, safer reading any more than it offers a third, safer way to live. The book's whole architecture insists: Lamb or dragon, Jerusalem or Babylon, the seal of God or the mark of the beast, the true King or the counterfeit one. That structure was not designed to make you comfortable. It was designed to make the choice unmistakably clear, because the original readers, like many of you, could not afford to pretend the choice didn't exist.
+For readers facing state pressure, surveillance, or minority status, the apocalyptic genre's core move — forcing a decision, refusing a comfortable middle ground — is not a literary curiosity. It's an accurate description of your actual situation. Revelation doesn't offer a third, safer reading any more than it offers a third, safer way to live. The book's whole architecture insists: Lamb or dragon, Jerusalem or Babel, the seal of God or the mark of the beast, the true King or the counterfeit one. That structure was not designed to make you comfortable. It was designed to make the choice unmistakably clear, because the original readers, like many of you, could not afford to pretend the choice didn't exist.
 
 ## 6. Reading it well
 

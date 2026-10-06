@@ -14,7 +14,7 @@ kids: /kids/elementary/12-the-two-harvests
 
 After the beast's total, terrifying takeover in chapter 13, one thing is now clear: the victors are the 144,000, standing firm on Mount Zion, their defining trait being loyalty to God alone. They stand beside the sea of glass, singing a song of victory that only they can learn - a reminder that God remains sovereign over all of this.
 
-Before judgment falls on the beast's followers, an angel first announces the good news to every nation, tribe, language and people on earth - a last public offer, made to everyone, before anything is decided. Two more angels then pronounce judgment on Babylon and on anyone who worships the beast.
+Before judgment falls on the beast's followers, an angel first announces the good news to every nation, tribe, language and people on earth - a last public offer, made to everyone, before anything is decided. Two more angels then pronounce judgment on Babel and on anyone who worships the beast.
 
 The remaining scenes describe two harvests. The first is a grain harvest, gathered in by a figure resembling the Son of Man - the faithful, simply collected, with no judgment attached. The second is a harvest of grapes, thrown into "the great winepress of God's wrath," trampled until blood flows - the followers of the beast, judged rather than gathered.
 
@@ -24,6 +24,6 @@ This closes the loop back to that first angel: did the nations actually receive 
 
 ## Key images
 
-- **The three angels** - the last public offer before the harvest — the gospel to every nation, the fall of Babylon announced, and the warning against the mark.
+- **The three angels** - the last public offer before the harvest — the gospel to every nation, the fall of Babel announced, and the warning against the mark.
 
 [Read the fuller explanation →]({{< relref "expl/content/harvest/gods-army-and-the-seven-angels" >}})

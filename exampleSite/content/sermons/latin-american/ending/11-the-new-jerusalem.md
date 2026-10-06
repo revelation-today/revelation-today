@@ -13,10 +13,10 @@ next: /sermons/latin-american/ending/12-the-rapture-judgment-and-left-behind-the
 
 Every session in this series has, in one way or another, been building toward this one. We've
 watched a counterfeit gospel of security ride out disguised as a conquering hero (the first
-horseman). We've watched a glamorous economic system called Babylon offer wealth and status in
+horseman). We've watched a glamorous economic system called Babel offer wealth and status in
 exchange for faithfulness, only to collapse without warning in a single hour, abandoned by her
 own allies. Now, at last, John shows us what real, lasting security actually looks like — and
-it makes Babylon's counterfeit look exactly as cheap as it always was.
+it makes Babel's counterfeit look exactly as cheap as it always was.
 
 ## Hearing one thing, seeing another
 
@@ -26,16 +26,16 @@ has used before — the Lion turns out to be a slaughtered Lamb (5:5–6), the c
 out to be an uncountable worshiping multitude (7:4, 9) — and it signals the same thing every
 time: pay attention, because the reality is bigger and stranger than the first image suggests.
 
-## Everything Babylon promised, actually delivered
+## Everything Babel promised, actually delivered
 
-Set the New Jerusalem directly against Babylon and the contrast is deliberate and total.
-Babylon is a woman, a harlot; the New Jerusalem is a woman, a bride — same shape, opposite
-character. Babylon's glamor is built on exploitation and idolatry; the New Jerusalem's glory is
-God's own presence, freely given. Babylon causes suffering; the New Jerusalem removes it
+Set the New Jerusalem directly against Babel and the contrast is deliberate and total.
+Babel is a woman, a harlot; the New Jerusalem is a woman, a bride — same shape, opposite
+character. Babel's glamor is built on exploitation and idolatry; the New Jerusalem's glory is
+God's own presence, freely given. Babel causes suffering; the New Jerusalem removes it
 entirely — "no more death or mourning or crying or pain" (21:4), with every tear personally
-wiped away by God himself. Babylon's wealth is extracted from others, even treating human
+wiped away by God himself. Babel's wealth is extracted from others, even treating human
 beings as merchandise; the New Jerusalem's riches are gift, not extraction — living water
-"without cost" (21:6), freely offered to anyone thirsty. Babylon falls in a single hour and is
+"without cost" (21:6), freely offered to anyone thirsty. Babel falls in a single hour and is
 gone forever; the New Jerusalem is described in exhaustive, loving detail specifically because
 it lasts. Whatever the harlot promised — security, wealth, status, permanence — the New
 Jerusalem is where that promise is finally, truly kept, without the exploitation, without the
@@ -60,7 +60,7 @@ series has sounded before and sounds again here at the very end. And notice who 
 "the nations will walk by its light, and the kings of the earth will bring their splendor into
 it" (21:24) — an image lifted straight from Isaiah's vision of the nations streaming toward
 Jerusalem (Isaiah 60), except here what they bring isn't extracted wealth paraded in triumph,
-the way Babylon's kings once "grew rich from her excessive luxuries" (18:3). It's glory and
+the way Babel's kings once "grew rich from her excessive luxuries" (18:3). It's glory and
 honor freely given back to God, from Abraham's ancient calling to be a blessing to all
 nations, now finally, fully realized.
 

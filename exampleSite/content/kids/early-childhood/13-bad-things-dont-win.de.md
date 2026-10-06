@@ -50,7 +50,7 @@ Amen."
 
 ## Hinweis für die Lehrkraft
 
-Lasst jede Beschreibung des Inhalts der Schalen oder von Babylons konkretem Unrecht weg
+Lasst jede Beschreibung des Inhalts der Schalen oder von Babels konkretem Unrecht weg
 (Offenbarung 15–18) — bleibt ganz bei der vereinfachten Idee, dass eine stolze, verletzende
 Stadt umfällt und nicht das letzte Wort hat. Landet jedes Mal bei Erleichterung und Sicherheit:
 Jesus sorgt dafür, dass schlimme Dinge nicht gewinnen.

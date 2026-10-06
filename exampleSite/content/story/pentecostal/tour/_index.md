@@ -191,7 +191,7 @@ But look closer — do not look away yet — and the imitation is already cracki
 
 Look up: the Lamb is standing on Mount Zion right in front of you, and with him a hundred and forty-four thousand, his name and his Father's name written on their foreheads. Jesus already won it at the cross, and you have kept faith with that victory ever since — and now watch the enemy's forces scatter like smoke in front of your eyes. On a sea of glass and fire, the faithful are singing a song no one else can learn, and you are singing it with them, right now, in your own chest. Your only qualification was staying loyal.
 
-Not everyone gets to sing. Watch three angels fly overhead, one after another, calling out with loud voices: fear God, give him glory, for Babylon is fallen. The ones who played it safe and took the mark to avoid the cost now face a far heavier one, poured out full strength, undiluted, right in front of everyone.
+Not everyone gets to sing. Watch three angels fly overhead, one after another, calling out with loud voices: fear God, give him glory, for Babel is fallen. The ones who played it safe and took the mark to avoid the cost now face a far heavier one, poured out full strength, undiluted, right in front of everyone.
 
 Two sickles swing across the earth in front of you. One is swung by one like a son of man, seated on a cloud, a golden crown on his head — and the harvest of the earth is gathered in. The other is swung by an angel out of the temple, and it gathers grapes into the great winepress of God's wrath, trodden outside the city, and blood flows out of it as high as a horse's bridle.
 
@@ -219,7 +219,7 @@ They are already finished. They just do not know it yet.
 
 One deception still waits to be unmasked right in front of you before the story can end — and unmasking it reveals what this was always about: not simply defeating evil, but God binding himself to his people forever, like a marriage.
 
-Here is the deception, right in front of you: a woman, dazzling, seated on a scarlet beast, draped in jewels and purple and gold that should have belonged to the bride, a golden cup in her hand, promising prosperity to anyone who will drink from it. Her name is written across her forehead: Babylon the Great, the mother of prostitutes. Watch the crowd around you lean toward her, drawn in, thirsty for what she is pouring.
+Here is the deception, right in front of you: a woman, dazzling, seated on a scarlet beast, draped in jewels and purple and gold that should have belonged to the bride, a golden cup in her hand, promising prosperity to anyone who will drink from it. Her name is written across her forehead: Babel the Great, the mother of prostitutes. Watch the crowd around you lean toward her, drawn in, thirsty for what she is pouring.
 
 Watch the dress pulled back now — and there is the beast underneath, teeth and all. She is no bride. She is a harlot, and plenty inside the Church itself, people standing right beside you, have fallen for the act.
 

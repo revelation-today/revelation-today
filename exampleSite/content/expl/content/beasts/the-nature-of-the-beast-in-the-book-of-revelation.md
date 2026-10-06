@@ -224,7 +224,7 @@ First, there is a strong parallel between the beast in chapter 17 and the first 
 | {{% bible val="Fight against saints and defeat them" link="rev:13,7" lang="en" %}} | {{% bible val="Fights against Lamb and is overcome" link="rev:17,14" lang="en" %}} </br> {{% bible val="Fight against Harlot and destroys it" link="rev:17,16" lang="en" %}}. |
 | {{% bible val="All who are not written in the book of life worship the beast" link="rev:13,8" lang="en" %}} | {{% bible val="All who are not written in the book of life are overwhelmed" link="rev:17,8" lang="en" %}} |
 
-Second, the harlot works alongside the second beast. She is not the second beast, and she does not take its place among the three: Revelation keeps its enemies apart — the dragon, the beast, the false prophet and Babylon — and they fall one after another, in reverse order.[^apart] But the harlot does in trade and culture what the second beast does in religion.[^alike]
+Second, the harlot works alongside the second beast. She is not the second beast, and she does not take its place among the three: Revelation keeps its enemies apart — the dragon, the beast, the false prophet and Babel — and they fall one after another, in reverse order.[^apart] But the harlot does in trade and culture what the second beast does in religion.[^alike]
 
 ## The harlot and the second beast
 
@@ -251,7 +251,7 @@ He appears to be the victorious one, but he ends up leaving destruction and deat
 
 That's the theme developed in the story of the dragon and the two beasts. There, {{% int_link val="Satan does have some genuinely appealing things to offer" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#896a" %}}. Yet the text sets a clear alternative alongside it: {{% int_link val="the two witnesses, who live a lifestyle of worship and stay faithful in their testimony even to death" link="/expl/content/witnesses/the-two-witnesses" %}}.
 
-This contrast finally unfolds in full in the last vision, where Babylon is described in detail as the dark counterpart of the New Jerusalem.
+This contrast finally unfolds in full in the last vision, where Babel is described in detail as the dark counterpart of the New Jerusalem.
 
 [^apart]: Bauckham, *Climax*, p. 20, and *Theology*, p. 89; Beale, pp. 148, 623, 812.
 

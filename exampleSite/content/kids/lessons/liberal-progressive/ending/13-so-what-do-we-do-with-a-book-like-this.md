@@ -32,7 +32,7 @@ Some people say, "Revelation was just for people a long, long time ago — it ha
 
 Instead, every single picture in this book turned out to be about something real, still happening today:
 - The worship we talked about changes how we treat every other problem.
-- The wrong kind of "wealth and power" that Babylon stood for is still tempting people today.
+- The wrong kind of "wealth and power" that Babel stood for is still tempting people today.
 - The promise that God notices unfairness and injustice is still true right now.
 - The beautiful ending — God living close with his people forever — is a promise, not just a nice old story.
 

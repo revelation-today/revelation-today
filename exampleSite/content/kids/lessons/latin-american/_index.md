@@ -41,7 +41,7 @@ something true in the text; it should be affirmed, not corrected.
 
 A few places call for extra care, and we name them honestly because they matter enough to get
 right. The region's fastest-growing churches have often preached a gospel where wealth,
-health, and visible success are the proof of God's favor — and Revelation's harlot Babylon is
+health, and visible success are the proof of God's favor — and Revelation's harlot Babel is
 written as a direct, pointed warning against exactly that trade: faithfulness exchanged for
 glamor, security, and gain. We address this not as an attack on anyone taught this in good
 faith, but as an invitation to a deeper, more durable security — the kind Revelation says can

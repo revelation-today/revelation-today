@@ -49,7 +49,7 @@ human versus demonic armies — dissolve on closer inspection: Ezekiel's own two
 both sword and fire interchangeably, and Revelation 16:14 already shows Satan leading
 human armies in the very battle that culminates in chapter 19. The sequence of the seven
 bowls points the same direction: the sixth bowl gathers armies for battle; the seventh
-bowl announces victory already won, followed immediately by Babylon's fall and the
+bowl announces victory already won, followed immediately by Babel's fall and the
 marriage of the Lamb; chapter 19 then narrates that same victorious battle in full detail.
 Since the bowls are explicitly called the *final* plagues (15:1), any battle narrated
 afterward — including chapter 20's Gog and Magog — reads far more naturally as the same

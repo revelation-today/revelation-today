@@ -53,7 +53,7 @@ Die zwölf Tore der Stadt sind nach den zwölf Stämmen Israels benannt; ihre zw
 
 ## Die Völker bringen ihre Ehre, nicht ihren Reichtum
 
-„Und die Völker werden wandeln in ihrem Licht, und die Könige der Erde werden ihre Herrlichkeit in sie bringen" (Offb 21,24). Das erinnert an Jesajas Bild von den Völkern, die zum Licht Jerusalems strömen, aber mit einer wichtigen Verschiebung: Was sie bringen, ist kein Reichtum, herausgepresst so, wie Babylon ihn herauspresste, durch Ausbeutung und Götzendienst. Es ist Herrlichkeit und Ehre, frei gegeben, dargebracht, weil Israels uralte Berufung – ein Segen für alle Völker zu sein, ganz von Abraham an (1. Mose 12,2-3) – endlich, vollständig angekommen ist. Jedes Volk, das je unter einem eigenen Babylon gelitten hat, strömt nun stattdessen zu dieser Stadt, frei, um zu geben statt genommen zu werden.
+„Und die Völker werden wandeln in ihrem Licht, und die Könige der Erde werden ihre Herrlichkeit in sie bringen" (Offb 21,24). Das erinnert an Jesajas Bild von den Völkern, die zum Licht Jerusalems strömen, aber mit einer wichtigen Verschiebung: Was sie bringen, ist kein Reichtum, herausgepresst so, wie Babel ihn herauspresste, durch Ausbeutung und Götzendienst. Es ist Herrlichkeit und Ehre, frei gegeben, dargebracht, weil Israels uralte Berufung – ein Segen für alle Völker zu sein, ganz von Abraham an (1. Mose 12,2-3) – endlich, vollständig angekommen ist. Jedes Volk, das je unter einem eigenen Babel gelitten hat, strömt nun stattdessen zu dieser Stadt, frei, um zu geben statt genommen zu werden.
 
 ## Die Hölle: schlicht die Abwesenheit von all dem
 

@@ -30,7 +30,7 @@ They're singing a new song that nobody else can learn. Not because it's difficul
 
 And here's the thing worth being precise about, because it's easy to get backwards: these people did not win the war. Jesus won it at the cross, back in chapter 12. What they did was **keep faith with a victory that was already secured**, one ordinary refusal to compromise at a time. That's the entire qualification for standing there singing. They didn't cave.
 
-Then three angels fly across the sky, each shouting. The first announces "the eternal gospel" to every nation — and notice that even here, this deep into the book, the offer is still open to everyone. The second announces that Babylon has fallen. The third warns, in the harshest language in the book, against taking the beast's mark. This is not fine print. It's the last, loudest chance to reconsider before what comes next.
+Then three angels fly across the sky, each shouting. The first announces "the eternal gospel" to every nation — and notice that even here, this deep into the book, the offer is still open to everyone. The second announces that Babel has fallen. The third warns, in the harshest language in the book, against taking the beast's mark. This is not fine print. It's the last, loudest chance to reconsider before what comes next.
 
 And what comes next is blunt. Two angels swing two sickles across the earth. One gathers a harvest of **grain** — the gathering-in, people brought home safe. The other gathers **grapes** and throws them into "the great winepress of God's wrath," described with an image the book does not soften: blood as high as a horse's bridle, for 1,600 stadia.
 

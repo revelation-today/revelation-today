@@ -54,7 +54,7 @@ sichtbar:
 
 Die sechste Schale trocknet den Euphrat aus, „damit den Königen vom Aufgang der Sonne der Weg
 bereitet würde" (16,12) – ein Bild voller Ironie für Leser des ersten Jahrhunderts, die die
-Geschichte kannten (ob streng historisch oder nicht), dass das antike Babylon an die Perser fiel,
+Geschichte kannten (ob streng historisch oder nicht), dass das antike Babel an die Perser fiel,
 nachdem diese denselben Fluss umgeleitet hatten. Das Bild, das einst die Feinde Roms benutzten, um
 zu erobern, wird hier zum Bild des Falls des eigenen Reiches des Tieres. Dann gehen drei unreine
 Geister, beschrieben als Frösche, hinaus, um die Herrscher der Welt zur Schlacht zu versammeln.
@@ -76,7 +76,7 @@ einer Frau mit einem Zeltpflock (Richter 4). Elia besiegte mehrere hundert Baals
 Alleingang auf dem Berg Karmel, mit Blick auf dasselbe Tal (1. Könige 18). Und König Josia, der
 über ein kleines, verletzliches Königreich herrschte, gab sein Leben im Kampf gegen Pharao Necho
 bei Megiddo – ein kostspieliger Widerstand, der historisch half, die Streitkräfte Ägyptens lange
-genug aufzuhalten, sodass letztlich Babylon, nicht Assyrien, die Region beherrschte, was sehr
+genug aufzuhalten, sodass letztlich Babel, nicht Assyrien, die Region beherrschte, was sehr
 wohl der Grund sein könnte, warum die südlichen Stämme Israels das Exil intakt überstanden,
 während die nördlichen Stämme, früher von Assyrien deportiert, einfach aus der Geschichte
 verschwanden. Jede einzelne „Megiddo-Geschichte" in der Bibel folgt derselben Gestalt: Die

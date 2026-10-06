@@ -11,7 +11,7 @@ next: /sermons/latin-american/ending/09-the-thousand-year-kingdom
 
 ## Picking up where we left off
 
-Last session named the harlot Babylon for what she is: the glamorous economic and cultural
+Last session named the harlot Babel for what she is: the glamorous economic and cultural
 system that launders the beast's raw violence into something that looks like blessing,
 security, and success. This session asks the two questions that naturally follow. What is her
 actual method — how does she operate day to day? And what finally brings her down?
@@ -26,7 +26,7 @@ gold, jewels, fine cloth, spices, "and human beings sold as slaves" (18:11–13)
 straight from the ancient trading city of Tyre's own catalogue of goods (Ezekiel 27). It is
 worth sitting with that detail: people are listed as merchandise, right alongside cargo. That's
 not incidental. It's the point. Any system, ancient or modern, that quietly treats human beings
-as assets to be managed rather than people made in God's image has adopted Babylon's own
+as assets to be managed rather than people made in God's image has adopted Babel's own
 operating logic, whatever language it uses to describe itself.
 
 Her defining posture is self-confidence that has curdled into delusion: "In her heart she
@@ -40,7 +40,7 @@ themselves — Revelation doesn't condemn commerce as such. The real question th
 asking is what spirit lies behind the wealth, and how we respond to it: do we mourn alongside
 everyone else when an economy collapses and livelihoods disappear (18:10)? Do we support unjust
 action to protect our own financial interest? If so, the text's own verdict stands: we're
-inside Babylon, and "we need to leave" (18:4).
+inside Babel, and "we need to leave" (18:4).
 
 ## The collapse nobody saw coming — until they had
 
@@ -52,7 +52,7 @@ bring her to ruin and leave her naked; they will eat her flesh and burn her with
 (18:9). Why would anyone turn against their own source of power?
 
 Scripture's answer runs on several tracks at once. Simply put, people's loyalties shift —
-today's ally is tomorrow's enemy, because everyone in a Babylon-shaped system is ultimately
+today's ally is tomorrow's enemy, because everyone in a Babel-shaped system is ultimately
 looking out for their own advantage, and God alone does not change. This fulfills a pattern set
 earlier in Daniel, where evil appears to defeat God's people only for God to hand the victory
 back to them anyway (Daniel 7:21–22) — evil looking strongest right at the moment it's about to
@@ -89,7 +89,7 @@ not to trade that calling for gold.
 - What would it look like, practically, to build your own sense of security on something other
   than a system this vulnerable to sudden collapse?
 
-Babylon's fall is not just judgment on someone else's empire far away. It's a standing warning
+Babel's fall is not just judgment on someone else's empire far away. It's a standing warning
 about any security built on shifting worldly loyalty rather than the God who does not change —
 and an invitation to build, instead, on the one foundation this book will show us can never
 collapse.

@@ -14,7 +14,7 @@ next: /sermons/prosperity-gospel-module/ending/04-what-real-security-looks-like
 ## Die am prächtigsten herausgeputzte Gestalt im ganzen Buch
 
 Wenn die Offenbarung einen Moment maximalen Glanzes hätte, dann diesen. Offenbarung 17 führt
-"Babylon die Große" ein, gekleidet in Purpur und Scharlach, funkelnd von Gold, Perlen und
+"Babel die Große" ein, gekleidet in Purpur und Scharlach, funkelnd von Gold, Perlen und
 Edelsteinen, einen goldenen Becher in der Hand. Sie thront auf einem scharlachroten Tier mit
 sieben Köpfen und zehn Hörnern. Könige treiben Unzucht mit ihr. Kaufleute werden reich im Handel
 mit ihr. Sie nennt sich selbst eine Königin, die "niemals Leid sehen" wird. An der Oberfläche
@@ -26,7 +26,7 @@ Punkt — und genau darin liegt die Gefahr.
 Schaut man jedoch genauer hin, ist der Becher voller Schmutz. Purpur und Scharlach erinnern an
 die priesterlichen Gewänder der alttestamentlichen Stiftshütte — genau die Farben, die einst
 Hingabe an Gott ausdrücken sollten —, nun getragen von einer Gestalt, deren Name dort steht, wo
-der Hohepriester einst "Heilig dem Herrn" trug: "Babylon, die Große, die Mutter der Huren und der
+der Hohepriester einst "Heilig dem Herrn" trug: "Babel, die Große, die Mutter der Huren und der
 Gräuel der Erde." Dies ist eine Fälschung der Heiligkeit selbst, nicht nur des Reichtums.
 
 ## Wer sie eigentlich ist
@@ -51,20 +51,20 @@ Hure gegenwärtig.
 
 ## Reichtum, der jemand anderen alles kostet
 
-Das wirtschaftliche Bild, das die Offenbarung von Babylon zeichnet, ist nicht vage. Kapitel 18
+Das wirtschaftliche Bild, das die Offenbarung von Babel zeichnet, ist nicht vage. Kapitel 18
 listet ihre Fracht im Detail auf — Gold, Silber, Edelsteine, feine Stoffe, Gewürze, Wein, Öl,
 Vieh — und fügt dann, ohne Pause oder besondere Betonung, hinzu: "Menschen, verkauft als
 Sklaven." Leiber und Seelen, aufgelistet als Ware neben Zimt und Pferden. Dieses eine Detail
 sollte uns innehalten lassen. Was auch immer dieses System an Glanz ausstrahlt — sein Reichtum
 war nie kostenlos. Er wurde herausgepresst — aus den Armen, aus den Schwachen, aus jedem, dessen
 Arbeit oder Leben sich in den Gewinn eines anderen verwandeln ließ. Die Kaufleute, die in Kapitel
-18 über Babylons Fall "weinen", trauern nicht um sie; sie trauern um ihr eigenes verlorenes
+18 über Babels Fall "weinen", trauern nicht um sie; sie trauern um ihr eigenes verlorenes
 Einkommen. Niemand in dieser Szene liebte sie. Sie liebten nur, was sie für sie möglich machte.
 
 Das ist keine Behauptung, dass Handel, Reichtum oder wirtschaftliches Wachstum an sich böse
 seien — das sagt der Text nirgends, und wir sollten es auch nicht tun. Die Frage, die die Hure
 auf den Tisch zwingt, ist eine andere: Welcher Geist steckt hinter dem Reichtum, und wer trägt
-tatsächlich seine Kosten? Babylon "hielt sich selbst für unantastbar" und jenseits jeder Folge —
+tatsächlich seine Kosten? Babel "hielt sich selbst für unantastbar" und jenseits jeder Folge —
 stolz genau in der Art, wie große wirtschaftliche und politische Systeme dazu neigen, stolz zu
 werden, wenn sie noch nie zur Rechenschaft gezogen wurden für das, was sie aufgebaut haben.
 
@@ -92,10 +92,10 @@ Unterschied leicht zu übersehen ist.
 
 ## Warum sie fällt, und warum das wichtig ist
 
-Der seltsamste Teil von Babylons Geschichte ist ihr Ende: Genau die Könige und Mächte, die sie
+Der seltsamste Teil von Babels Geschichte ist ihr Ende: Genau die Könige und Mächte, die sie
 aufgebaut haben, sind es, die sich gegen sie wenden und sie zerstören. Nichts an dieser Loyalität
 war je sicher. Menschen, Nationen und Wirtschaftssysteme wechseln ständig ihre Bündnisse; Gott
-allein ändert sich nicht. Babylons gesamtes Fundament — die wechselhafte Gunst
+allein ändert sich nicht. Babels gesamtes Fundament — die wechselhafte Gunst
 eigennütziger Herrscher — konnte niemals halten, weil jeder innerhalb dieses Systems letztlich
 zuerst auf seinen eigenen Vorteil bedacht war, sie selbst eingeschlossen. Ein Sicherheitssystem,
 das auf der fortdauernden Zustimmung anderer Menschen aufbaut, ist keine Sicherheit. Es ist ein

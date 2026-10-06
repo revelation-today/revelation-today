@@ -12,7 +12,7 @@ next: /sermons/latin-american/worship-and-seals/04-the-four-horsemen-unmasked
 ## Die Antwort vor den Fragen
 
 Hier ist etwas Bemerkenswertes daran, wie die Offenbarung aufgebaut ist: Bevor auch nur eine
-einzige Plage fällt, bevor das Tier erscheint, bevor Babylon überhaupt erwähnt wird, wird
+einzige Plage fällt, bevor das Tier erscheint, bevor Babel überhaupt erwähnt wird, wird
 Johannes ein Thronsaal gezeigt. Zwei ganze Kapitel (Offenbarung 4–5) sind nichts als Anbetung
 gewidmet – Gott, thronend in Herrlichkeit, das geschlachtete Lamm, das würdig befunden wird,
 die versiegelte Schriftrolle zu öffnen, jedes Geschöpf im Himmel und auf Erden, das Lob
@@ -67,12 +67,12 @@ legitime Ausdruck von Gottes Volk um dasselbe würdige Lamm versammelt.
 ## Anbetung als Gegenmittel
 
 Diese Sitzung ist wichtiger, als sie zunächst scheinen mag, für das, was später in dieser Reihe
-kommt. Wenn wir zur Hure Babylon und der falschen Sicherheit kommen, die sie anbietet – Geld,
+kommt. Wenn wir zur Hure Babel und der falschen Sicherheit kommen, die sie anbietet – Geld,
 Glamour, Einfluss, als Segen verkleidet –, wird die Antwort nicht in erster Linie ein besseres
 Argument sein. Es wird dieselbe Antwort sein, die hier gegeben wird: Ein Volk, das bereits
 weiß, wie man den wahren Gott mit seinem ganzen Selbst anbetet, wird viel weniger leicht von
 einem billigen Ersatz verführt. Anbetung ist nicht nur das, was wir tun, wenn die Predigt
-vorbei ist. Sie ist das, was unsere Lieben neu ordnet, sodass Babylons Angebot von vornherein
+vorbei ist. Sie ist das, was unsere Lieben neu ordnet, sodass Babels Angebot von vornherein
 aufhört, attraktiv auszusehen.
 
 ## Fragen zur Reflexion

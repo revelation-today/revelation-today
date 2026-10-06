@@ -46,6 +46,6 @@ Three examples from this study:
 
 - **The trumpets** replay the plagues of Egypt — hail, water turned to blood, darkness, locusts — so the readers would hear that God is unmasking a new Pharaoh. → {{% int_link val="The trumpets" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
 - **The 144,000** are counted tribe by tribe, like the census of Israel's fighting men in the wilderness ({{% bible val="Num 1" link="num:1,2-3" lang="en" %}}). → {{% int_link val="The 144,000" link="/expl/content/army/the-144000" %}}
-- **The harlot** carries the charge the prophets brought against unfaithful cities: {{% bible val="Ezekiel 16" link="ezk:16,15-41" lang="en" %}} calls Jerusalem a prostitute, {{% bible val="Isaiah 23" link="isa:23,15-18" lang="en" %}} and {{% bible val="Nahum 3" link="nam:3,4" lang="en" %}} say it of Tyre and Nineveh. → {{% int_link val="Who is the harlot Babylon? (2)" link="/expl/content/harlot/who-is-the-harlot-babylon-part-2" %}}
+- **The harlot** carries the charge the prophets brought against unfaithful cities: {{% bible val="Ezekiel 16" link="ezk:16,15-41" lang="en" %}} calls Jerusalem a prostitute, {{% bible val="Isaiah 23" link="isa:23,15-18" lang="en" %}} and {{% bible val="Nahum 3" link="nam:3,4" lang="en" %}} say it of Tyre and Nineveh. → {{% int_link val="Who is the harlot Babel? (2)" link="/expl/content/harlot/who-is-the-harlot-babylon-part-2" %}}
 
 A reader who knows the source hears far more than one who does not — which is why the explanations on this site keep going back to the Old Testament.

@@ -25,7 +25,7 @@ Revelation 14:4-5 spells out what carried them through: they "did not defile the
 
 The first angel proclaims what Revelation 14:6-7 calls "the eternal gospel" — good news to every nation, tribe, language, and people, calling them to fear God and worship the Creator. It's worth noting that scholars connect this phrase to different Old Testament backgrounds — some point to Psalm 96's call to "declare his salvation day after day" among the nations, others to Isaiah's herald-of-good-news texts (like Isaiah 52:7). One plausible Old Testament background is Psalm 96, especially since that psalm opens with "sing to the Lord a new song" — the same phrase used of the 144,000 earlier in this chapter, and both texts insist that all nations are being invited to worship the one true King. But this is a resonance worth noting, not a single proven source text.
 
-The second angel announces Babylon's fall (14:8) — we'll spend two whole sessions on her later. The third gives a sober warning: anyone who worships the beast will drink the wine of God's wrath, "tormented with fire and sulfur" (14:9-11). It's important to keep these two announcements distinct: verse 8 is about Babylon's judgment as a system; verses 9-11 are a separate oracle about the fate of individual beast-worshippers. They rhyme with each other, but they aren't the same event.
+The second angel announces Babel's fall (14:8) — we'll spend two whole sessions on her later. The third gives a sober warning: anyone who worships the beast will drink the wine of God's wrath, "tormented with fire and sulfur" (14:9-11). It's important to keep these two announcements distinct: verse 8 is about Babel's judgment as a system; verses 9-11 are a separate oracle about the fate of individual beast-worshippers. They rhyme with each other, but they aren't the same event.
 
 ## Two harvests, one open question
 
@@ -39,7 +39,7 @@ So the chapter leaves two doors open for "every nation, tribe, language and peop
 
 **Understanding the text**
 1. What specifically does Revelation 14:4-5 say carried the 144,000 through the beast's assault? Which phrase strikes you as most surprising or countercultural?
-2. Why does it matter that Revelation 14:8 (Babylon's fall) and 14:9-11 (beast-worshippers' judgment) are two separate pronouncements rather than one? Look them up side by side.
+2. Why does it matter that Revelation 14:8 (Babel's fall) and 14:9-11 (beast-worshippers' judgment) are two separate pronouncements rather than one? Look them up side by side.
 3. What are the three textual clues that the grain harvest (14:14-16) is different in kind from the grape harvest/winepress (14:17-20)?
 
 **So what for us**

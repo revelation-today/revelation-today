@@ -1,5 +1,5 @@
 ---
-title: "Rev. 17: Who Is the Harlot Babylon?"
+title: "Rev. 17: Who Is the Harlot Babel?"
 weight: 8
 docType: sermon
 audience_group: "mainline"
@@ -8,7 +8,7 @@ prev: /sermons/mainline/conflict/07-unholy-trinity
 next: /sermons/mainline/ending/09-thousand-year-kingdom
 ---
 
-# Who Is the Harlot Babylon?
+# Who Is the Harlot Babel?
 
 ## A crowded chapter
 
@@ -40,7 +40,7 @@ The harlot's portrait draws heavily on the Old Testament pattern of an unfaithfu
 partner — Judah called a harlot in Jeremiah 2–4, Jerusalem confronted the same way in
 Ezekiel 16, even foreign cities like Tyre and Nineveh judged as harlots for trading their
 integrity for profit. Strikingly, she is also dressed in materials that echo the Old
-Testament high priest's garments — gold, precious stones, fine linen — with "Babylon the
+Testament high priest's garments — gold, precious stones, fine linen — with "Babel the
 great, mother of harlots" inscribed on her forehead where the high priest bore "Holy to
 the Lord" (Exodus 28:36–38). The pattern across every one of these Old Testament
 precedents is the same: the harlot is what a former, genuine relationship with God looks
@@ -60,8 +60,8 @@ without warning, abandoned by the same allies who profited from it.
 "Harlot" in this Old Testament tradition covers religious, political, and economic
 unfaithfulness at once, and Revelation's language draws heavily on Ezekiel's dirge over
 Tyre (chapter 27) — the world's great trading port, growing rich while claiming its wealth
-came from its own genius rather than as a gift. Babylon's cargo list in chapter 18 tracks
-Tyre's almost item for item. The kings of the earth "commit fornication" with Babylon and
+came from its own genius rather than as a gift. Babel's cargo list in chapter 18 tracks
+Tyre's almost item for item. The kings of the earth "commit fornication" with Babel and
 grow rich by it (18:3,9); economic dependency here has quietly become a religious
 allegiance, exactly as it did for ancient Tyre. The beast beneath her represents raw
 political and military power; the harlot represents everything that dresses that power up
@@ -71,25 +71,25 @@ offer a rival gospel: security through fear, wealth through exploiting the weak 
 excluding the noncompliant, a sense of superiority, and the silencing of any inconvenient
 voice.
 
-## Is the church ever Babylon?
+## Is the church ever Babel?
 
-The text never identifies Babylon as simply the church gone astray — Babylon and the
+The text never identifies Babel as simply the church gone astray — Babel and the
 Bride are consistently drawn as opposites, not variations on the same thing. But the
-church is always at risk of drifting into Babylon's orbit, trading covenant faithfulness
+church is always at risk of drifting into Babel's orbit, trading covenant faithfulness
 for wealth, cultural approval, or a comfortable arrangement with worldly power. That risk
-is precisely why Babylon is not drawn with sharper, more exclusive edges: the ambiguity
+is precisely why Babel is not drawn with sharper, more exclusive edges: the ambiguity
 forces every generation of the church to keep asking the question freshly, rather than
 assuming it has already been answered. "Come out of her, my people" (18:4) is addressed to
-believers, not merely to unbelievers watching Babylon from a safe distance.
+believers, not merely to unbelievers watching Babel from a safe distance.
 
 ## Why the historical reading holds up
 
 Because Revelation names Rome specifically enough for its first readers to recognize —
 seven hills, an emperor cult, a persecuting power — this series treats the historical-Rome
 identification as settled rather than a live debate needing fresh defense session by
-session. What remains genuinely open, and worth sitting with, is the pattern Babylon
+session. What remains genuinely open, and worth sitting with, is the pattern Babel
 represents across history: any system, ancient or modern, that offers security, wealth,
-and belonging in exchange for compromised worship. Rome was Babylon in the first century.
+and belonging in exchange for compromised worship. Rome was Babel in the first century.
 The pattern has reappeared since, in various guises, without needing a new scarlet beast
 to reappear literally to do it.
 
@@ -100,6 +100,6 @@ to reappear literally to do it.
 - Where do you see the modern church tempted to trade covenant faithfulness for cultural
   approval, financial security, or political power?
 - "Come out of her, my people" is addressed to believers. What would it concretely mean
-  for your own congregation to "come out" of some entanglement with a modern Babylon?
+  for your own congregation to "come out" of some entanglement with a modern Babel?
 - How does recognizing the harlot as first-century Rome, rather than a future world
   system, change how urgently or how differently you apply this chapter to today?

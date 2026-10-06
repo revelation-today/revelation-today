@@ -70,7 +70,7 @@ bezahlen zu lassen, und der sein Volk immer wieder zurückruft, nicht mit fernen
 Drohungen, sondern mit der geduldigen Liebe eines Vaters. Das ist die Geschichte, die einen
 Gott verständlich macht, der das Böse in den späteren Kapiteln der Offenbarung so ernst
 richtet – weil er am Kreuz bereits gezeigt hat, wie weit er gehen wird, um seine Seite des
-Bundes zu halten. Der Zorn, der sich gegen Babylon und das Tier richtet, ist kein Widerspruch
+Bundes zu halten. Der Zorn, der sich gegen Babel und das Tier richtet, ist kein Widerspruch
 zu Gottes Gnade; es ist dieselbe Bundestreue, die die Familie verteidigt, für die er geblutet
 hat, um sie zu behalten.
 

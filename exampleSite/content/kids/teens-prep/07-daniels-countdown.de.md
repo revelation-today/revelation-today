@@ -15,7 +15,7 @@ next: /kids/teens-prep/08-the-son-of-man
 
 Du hattest wahrscheinlich schon eine Phase, in der du einfach wissen wolltest: Wie viel länger dauert das noch? Warten auf Testergebnisse, warten auf Rückmeldung von einer Schule, warten darauf, dass eine Freundschaft entweder heilt oder endlich endet, warten darauf, dass sich eine schwierige Familiensituation löst. Das Nicht-Wissen ist oft schlimmer als die schwierige Sache selbst. Es ist verwirrend, sich in einer Warteschleife ohne Enddatum gefangen zu fühlen.
 
-Daniel und die jüdischen Verbannten in Babylon lebten dieses Gefühl wirklich, auf nationaler Ebene. Ihr Tempel war zerstört, ihre Stadt lag in Trümmern, und sie lebten als Gefangene in einem fremden Reich und fragten sich, ob das jetzt einfach dauerhaft so bleiben würde. Dann bekommt Daniel eine Antwort — kein vages "halt durch", sondern etwas erstaunlich Konkretes: Gott gibt ihm einen echten Countdown.
+Daniel und die jüdischen Verbannten in Babel lebten dieses Gefühl wirklich, auf nationaler Ebene. Ihr Tempel war zerstört, ihre Stadt lag in Trümmern, und sie lebten als Gefangene in einem fremden Reich und fragten sich, ob das jetzt einfach dauerhaft so bleiben würde. Dann bekommt Daniel eine Antwort — kein vages "halt durch", sondern etwas erstaunlich Konkretes: Gott gibt ihm einen echten Countdown.
 
 ## Was wirklich los ist
 

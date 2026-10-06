@@ -59,7 +59,7 @@ would you still hold it?
 Across Latin America, this question shows up in more than one costume. Sometimes it wears the
 face of political power that asks for more loyalty than any human government deserves.
 Sometimes — and this will come up again later in this series, especially around the harlot
-Babylon material — it wears the face of a promise that God's blessing shows up mainly as
+Babel material — it wears the face of a promise that God's blessing shows up mainly as
 money, health, and visible success, so that "trusting God" quietly becomes indistinguishable
 from trusting the next paycheck or the next breakthrough. None of that makes prosperity itself
 evil, any more than Rome's peace and order were evil in themselves. The question Revelation

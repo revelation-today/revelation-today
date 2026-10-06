@@ -35,9 +35,9 @@ isn't accidental structure (recall session 4's tools for spotting exactly this k
 Revelation after it, should be read.
 
 **The four kingdoms, traced concretely.** Both visions move through the same four empires.
-Babylon (the head of gold; the lion with eagle's wings, echoing well-attested Babylonian royal
+Babel (the head of gold; the lion with eagle's wings, echoing well-attested Babylonian royal
 imagery) falls to the joint Medo-Persian empire (silver; the lopsided bear with three ribs in its
-mouth, picturing its three major conquests of Lydia, Babylon, and Egypt). That falls to Greece
+mouth, picturing its three major conquests of Lydia, Babel, and Egypt). That falls to Greece
 under Alexander (bronze; the four-headed leopard, picturing both Alexander's astonishingly rapid
 conquest and the four-way split of his empire after his death). That finally falls to Rome
 (iron; the fourth beast, "terrifying and dreadful," crushing everything with iron strength). Each

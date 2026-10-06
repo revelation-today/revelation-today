@@ -8,17 +8,17 @@ docType: sermon
 
 Dies ist keine eigenständige Reihe. Es ist ein kurzes, viergliedriges Modul, das dafür gedacht
 ist, in welches regionale oder konfessionelle Paket auch immer eine Gemeinde gerade verwendet
-eingefügt zu werden — am naheliegendsten in die Sitzungen über die Hure Babylon und die Tiere
+eingefügt zu werden — am naheliegendsten in die Sitzungen über die Hure Babel und die Tiere
 der lateinamerikanischen und afrikanischen Pakete, die beide schon ausdrücklich hierher
 verweisen, aber es passt genauso gut überall dort, wo Wohlstands- und Heilslehre (Health-and-
 Wealth) in der Praxis wirklich Fuß fasst. Wohlstandslehre (Word of Faith / Wohlstandsevangelium)
 ist nicht auf eine Region oder Tradition beschränkt; sie durchzieht sie alle. Statt also ein
 dreizehntes regionales Paket zu bauen, gibt dieses Modul jedem Paket eine vertiefte
 Auseinandersetzung genau dort, wo der eigene Inhalt der Offenbarung ohnehin am direktesten mit
-dieser Lehre zusammenstößt: bei der Hure Babylon und der Gegen-Christus-Bildsprache der Tiere
+dieser Lehre zusammenstößt: bei der Hure Babel und der Gegen-Christus-Bildsprache der Tiere
 und des ersten Reiters.
 
-Setzt es dort ein, wo das zugrunde liegende Paket bereits eine Sitzung über die Hure Babylon
+Setzt es dort ein, wo das zugrunde liegende Paket bereits eine Sitzung über die Hure Babel
 oder die Tiere vorgesehen hat — geht dort tiefer, statt beides zu lehren, und kehrt danach zum
 normalen Ablauf des Pakets zurück. Für sich genommen, losgelöst von der natürlichen Bewegung
 durch die Offenbarung, läuft dies Gefahr, wie ein isolierter Angriff auf eine bestimmte Bewegung

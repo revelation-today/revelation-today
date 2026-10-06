@@ -191,7 +191,7 @@ Aber sieh genauer hin - schau noch nicht weg -, und die Nachahmung bekommt schon
 
 Schau nach oben: Das Lamm steht direkt vor dir auf dem Berg Zion, und bei ihm hundertvierundvierzigtausend, sein Name und der Name seines Vaters auf ihre Stirnen geschrieben. Jesus hat es am Kreuz bereits gewonnen, und du hast diesem Sieg seitdem die Treue gehalten - und jetzt sieh zu, wie sich die Kräfte des Feindes vor deinen Augen zerstreuen wie Rauch. Auf einem Meer aus Glas und Feuer singen die Treuen ein Lied, das niemand sonst lernen kann, und du singst es mit ihnen, jetzt gerade, in deiner eigenen Brust. Deine einzige Qualifikation war, treu geblieben zu sein.
 
-Nicht alle dürfen singen. Sieh zu, wie drei Engel über dich hinwegfliegen, einer nach dem anderen, und mit lauter Stimme rufen: Fürchtet Gott, gebt ihm die Ehre, denn Babylon ist gefallen. Diejenigen, die auf Nummer sicher gegangen sind und das Zeichen angenommen haben, um die Kosten zu vermeiden, stehen jetzt vor einer weit schwereren Rechnung, ausgeschenkt in voller Stärke, unverdünnt, vor den Augen aller.
+Nicht alle dürfen singen. Sieh zu, wie drei Engel über dich hinwegfliegen, einer nach dem anderen, und mit lauter Stimme rufen: Fürchtet Gott, gebt ihm die Ehre, denn Babel ist gefallen. Diejenigen, die auf Nummer sicher gegangen sind und das Zeichen angenommen haben, um die Kosten zu vermeiden, stehen jetzt vor einer weit schwereren Rechnung, ausgeschenkt in voller Stärke, unverdünnt, vor den Augen aller.
 
 Zwei Sicheln fahren vor dir über die Erde. Die eine schwingt einer, der aussieht wie ein Menschensohn, auf einer Wolke sitzend, eine goldene Krone auf seinem Kopf - und die Ernte der Erde wird eingebracht. Die andere schwingt ein Engel aus dem Tempel, und sie sammelt Trauben in die große Kelter des Zornes Gottes, die außerhalb der Stadt getreten wird, und Blut fließt aus ihr heraus, so hoch wie das Zaumzeug eines Pferdes.
 
@@ -219,7 +219,7 @@ Sie sind bereits erledigt. Sie wissen es nur noch nicht.
 
 Eine Täuschung wartet noch darauf, direkt vor dir entlarvt zu werden, bevor die Geschichte enden kann - und ihre Entlarvung zeigt, worum es die ganze Zeit ging: nicht einfach darum, das Böse zu besiegen, sondern darum, dass Gott sich für immer an sein Volk bindet, wie in einer Ehe.
 
-Hier ist die Täuschung, direkt vor dir: eine Frau, blendend schön, auf einem scharlachroten Tier sitzend, geschmückt mit Juwelen und Purpur und Gold, die eigentlich der Braut gehören sollten, einen goldenen Kelch in der Hand, und sie verspricht jedem Wohlstand, der daraus trinkt. Ihr Name steht auf ihrer Stirn geschrieben: Babylon die Große, die Mutter der Huren. Sieh zu, wie sich die Menge um dich herum zu ihr hinneigt, angezogen, durstig nach dem, was sie ausschenkt.
+Hier ist die Täuschung, direkt vor dir: eine Frau, blendend schön, auf einem scharlachroten Tier sitzend, geschmückt mit Juwelen und Purpur und Gold, die eigentlich der Braut gehören sollten, einen goldenen Kelch in der Hand, und sie verspricht jedem Wohlstand, der daraus trinkt. Ihr Name steht auf ihrer Stirn geschrieben: Babel die Große, die Mutter der Huren. Sieh zu, wie sich die Menge um dich herum zu ihr hinneigt, angezogen, durstig nach dem, was sie ausschenkt.
 
 Sieh jetzt zu, wie das Kleid weggezogen wird - und darunter kommt das Tier zum Vorschein, mit allen Zähnen. Sie ist keine Braut. Sie ist eine Hure, und etliche innerhalb der Gemeinde selbst, Menschen, die direkt neben dir stehen, sind auf die Vorstellung hereingefallen.
 

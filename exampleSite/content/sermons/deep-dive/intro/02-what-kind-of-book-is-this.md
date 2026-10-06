@@ -62,7 +62,7 @@ source article offers a genuinely useful modern comparison: apocalyptic literatu
 something like a political cartoon. You don't assume the cartoon's dragon literally exists or
 that its exaggerated figures are a photograph of reality — you get the point instantly, through
 symbol, without needing to take every image literally. Revelation works the same way: it's built
-entirely out of "either/or" pairs (Lamb versus Dragon, Jerusalem versus Babylon, the seal of God
+entirely out of "either/or" pairs (Lamb versus Dragon, Jerusalem versus Babel, the seal of God
 versus the mark of the Beast) that force the reader to pick a side.
 
 **What the book is not,** to say it plainly: it is not a straightforward newsreel of future

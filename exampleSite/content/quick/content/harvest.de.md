@@ -14,7 +14,7 @@ kids: /kids/elementary/12-the-two-harvests
 
 Nach der totalen, furchterregenden Machtübernahme des Tieres in Kapitel 13 ist jetzt eines klar: Die Sieger sind die 144.000, die fest auf dem Berg Zion stehen, und ihr entscheidendes Merkmal ist die Treue zu Gott allein. Sie stehen am gläsernen Meer und singen ein Siegeslied, das nur sie lernen können - eine Erinnerung daran, dass Gott über all dem souverän bleibt.
 
-Bevor das Gericht über die Anhänger des Tieres hereinbricht, verkündet zuerst ein Engel die gute Nachricht jeder Nation, jedem Stamm, jeder Sprache und jedem Volk auf der Erde - ein letztes öffentliches Angebot an alle, bevor irgendetwas entschieden ist. Zwei weitere Engel sprechen dann das Gericht über Babylon aus und über jeden, der das Tier anbetet.
+Bevor das Gericht über die Anhänger des Tieres hereinbricht, verkündet zuerst ein Engel die gute Nachricht jeder Nation, jedem Stamm, jeder Sprache und jedem Volk auf der Erde - ein letztes öffentliches Angebot an alle, bevor irgendetwas entschieden ist. Zwei weitere Engel sprechen dann das Gericht über Babel aus und über jeden, der das Tier anbetet.
 
 Die übrigen Szenen beschreiben zwei Ernten. Die erste ist eine Getreideernte, eingebracht von einer Gestalt, die dem Menschensohn gleicht - die Treuen, die einfach eingesammelt werden, ohne dass ein Gericht damit verbunden wäre. Die zweite ist eine Traubenernte, geworfen in "die große Kelter des Zornes Gottes", zertreten, bis Blut fließt - die Anhänger des Tieres, die gerichtet statt eingesammelt werden.
 
@@ -24,6 +24,6 @@ Damit schließt sich der Kreis zu jenem ersten Engel: Haben die Völker die Nach
 
 ## Schlüsselbilder
 
-- **Die drei Engel** - das letzte öffentliche Angebot vor der Ernte — das Evangelium für jedes Volk, der angekündigte Fall Babylons und die Warnung vor dem Mal.
+- **Die drei Engel** - das letzte öffentliche Angebot vor der Ernte — das Evangelium für jedes Volk, der angekündigte Fall Babels und die Warnung vor dem Mal.
 
 [Die ausführlichere Erklärung lesen →]({{< relref "expl/content/harvest/gods-army-and-the-seven-angels" >}})

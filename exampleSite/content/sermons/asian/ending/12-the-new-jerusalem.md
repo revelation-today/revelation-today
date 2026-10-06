@@ -30,7 +30,7 @@ The sea, throughout Scripture, represents the place where evil originates and th
 
 The New Jerusalem is described as a cube (21:16) — the same shape as the Holy of Holies, the one place in the old temple so filled with God's presence that only the high priest could enter, and only once a year. That limitation is now gone entirely: everyone in the city stands equally close to God. Its staggering size is best read not as a literal capacity calculation but as a symbol of totality and abundance — echoing the number twelve throughout the passage, the completeness of God's redeemed people from every nation.
 
-The New Jerusalem stands as the direct counterpart to Babylon throughout Revelation: Babylon's wealth came from exploitation; Jerusalem's comes as God's gift. Babylon caused suffering; Jerusalem removes it. Babylon destroyed itself; Jerusalem stands forever. And its twelve gates and twelve foundations — tribes and apostles together — picture Israel and the church as one people, finally and fully reconciled, with room for every nation that comes to Christ.
+The New Jerusalem stands as the direct counterpart to Babel throughout Revelation: Babel's wealth came from exploitation; Jerusalem's comes as God's gift. Babel caused suffering; Jerusalem removes it. Babel destroyed itself; Jerusalem stands forever. And its twelve gates and twelve foundations — tribes and apostles together — picture Israel and the church as one people, finally and fully reconciled, with room for every nation that comes to Christ.
 
 ## 5. Our former shame becomes eternal honor
 

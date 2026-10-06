@@ -35,11 +35,11 @@ only reversed later, at Pentecost, when the Spirit enables people from every nat
 one message in their own tongue.
 
 **The Babel-Daniel-Revelation connection.** When Israel goes into exile centuries later, the text
-specifically notes that Babylon stood in the land of Shinar — the very location of the original
+specifically notes that Babel stood in the land of Shinar — the very location of the original
 tower ({{% bible val="Genesis 11:2" link="gen:11,1-9" lang="en" %}}). That's a deliberate literary
 link, not a coincidence: pride is the common thread running through both empires, and God cuts
-short both of their reigns — Daniel's Babylon lasted less than a century before Cyrus, whom God
-Himself raised up for the purpose, brought it down. Revelation's own Babylon (a major theme we'll
+short both of their reigns — Daniel's Babel lasted less than a century before Cyrus, whom God
+Himself raised up for the purpose, brought it down. Revelation's own Babel (a major theme we'll
 spend real time on much later in this series) shares these same features deliberately: pride, a
 swift and sudden fall, and God's people living as exiles within it. Babel isn't simply an ancient
 story; it's the pattern name Revelation gives to every human system that tries to build security

@@ -20,16 +20,16 @@ draft: true
 
 ## 1. Erinnert ihr euch an die glänzende Falle?
 
-Vor einer Weile haben wir von Babylon gelernt — der wunderschönen Falle, die so reich und sicher
+Vor einer Weile haben wir von Babel gelernt — der wunderschönen Falle, die so reich und sicher
 aussah, aber schnell zusammenbrach. Heute sehen wir das Gegenteil: eine Stadt, die wirklich
 schön ist, wirklich sicher, und für immer hält. Sie heißt das Neue Jerusalem.
 
-## 2. Alles, was Babylon versprach — diesmal wirklich
+## 2. Alles, was Babel versprach — diesmal wirklich
 
 Auch das Neue Jerusalem glänzt mit Gold und Edelsteinen — aber dieser Schatz ist nicht darauf
-aufgebaut, jemandem zu schaden. Er ist ein freies Geschenk von Gott. Babylons Wasser kostete
+aufgebaut, jemandem zu schaden. Er ist ein freies Geschenk von Gott. Babels Wasser kostete
 dich alles; im Neuen Jerusalem wird "das Wasser des Lebens" "umsonst" gegeben — völlig
-kostenlos, an jeden, der durstig ist (Offenbarung 21,6). Babylon zerfiel in einer Stunde; das
+kostenlos, an jeden, der durstig ist (Offenbarung 21,6). Babel zerfiel in einer Stunde; das
 Neue Jerusalem hält für immer.
 
 ## 3. Keine traurigen Dinge mehr

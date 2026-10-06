@@ -1,5 +1,5 @@
 ---
-title: "Offb. 17: Wer ist die Hure Babylon?"
+title: "Offb. 17: Wer ist die Hure Babel?"
 weight: 7
 docType: sermon
 audience_group: "african"
@@ -10,7 +10,7 @@ next: /sermons/african/worship-and-seals/08-the-144000-and-the-great-tribulation
 
 ## Die wichtigste Einheit dieser Reihe
 
-Von allem, was die Offenbarung anspricht, ist dies dasjenige, das am direktesten und persönlichsten in viele unserer Gemeinden heute hineinspricht. In einer Region, in der die Lehre von Gesundheit und Wohlstand vielerorts keine Randposition, sondern nahe am Mainstream des unabhängigen und pfingstlich-charismatischen Christentums ist, zielt der Stoff der Offenbarung über die Hure Babylon mit verblüffender Präzision genau auf dieses Gebiet. Das ist kein Angriff auf irgendjemanden in diesem Raum. Es ist eine Einladung, das, was uns gelehrt wurde, von Gott zu erwarten, an dem zu prüfen, was die Schrift tatsächlich verspricht.
+Von allem, was die Offenbarung anspricht, ist dies dasjenige, das am direktesten und persönlichsten in viele unserer Gemeinden heute hineinspricht. In einer Region, in der die Lehre von Gesundheit und Wohlstand vielerorts keine Randposition, sondern nahe am Mainstream des unabhängigen und pfingstlich-charismatischen Christentums ist, zielt der Stoff der Offenbarung über die Hure Babel mit verblüffender Präzision genau auf dieses Gebiet. Das ist kein Angriff auf irgendjemanden in diesem Raum. Es ist eine Einladung, das, was uns gelehrt wurde, von Gott zu erwarten, an dem zu prüfen, was die Schrift tatsächlich verspricht.
 
 ## Ein überfülltes Kapitel, ein klares Bild
 
@@ -18,7 +18,7 @@ Offenbarung 17 führt auf einmal viele Figuren ein: eine große Hure, ein scharl
 
 Das Tier in diesem Kapitel spiegelt eng das erste Tier aus Kapitel 13 — dieselben sieben Häupter und zehn Hörner, derselbe Anspruch auf Unvergleichlichkeit, derselbe lästerliche Name. Es steht für imperiale militärische und politische Macht. Die sieben Hügel, auf denen die Frau sitzt, identifizierten Rom für die ersten Leser unmissverständlich — das war nie eine Prophezeiung über einen zukünftigen Papst oder eine zukünftige Nation, sondern eine Beschreibung des Reiches, das sie damals tatsächlich beherrschte.
 
-Die Hure selbst sitzt auf dem Tier, gekleidet in genau dieselben Materialien wie der alttestamentliche Hohepriester — die Opfergabe für die Stiftshütte, das Efod, die Brusttasche —, aber wo die Stirnplatte des Priesters "Heilig dem HERRN" trug, trägt ihre "Babylon, die Große, die Mutter der Huren" (Offenbarung 17,5). Sie ist ein korrumpiertes Abbild dessen, was heilig hätte sein sollen. Die Parallele geht noch weiter: Dasselbe Urteil, das für die Tochter eines Priesters vorgesehen war, die zur Hure wurde — der Tod durch Feuer (3. Mose 21,9) —, trifft sie genau so (Offenbarung 18,8).
+Die Hure selbst sitzt auf dem Tier, gekleidet in genau dieselben Materialien wie der alttestamentliche Hohepriester — die Opfergabe für die Stiftshütte, das Efod, die Brusttasche —, aber wo die Stirnplatte des Priesters "Heilig dem HERRN" trug, trägt ihre "Babel, die Große, die Mutter der Huren" (Offenbarung 17,5). Sie ist ein korrumpiertes Abbild dessen, was heilig hätte sein sollen. Die Parallele geht noch weiter: Dasselbe Urteil, das für die Tochter eines Priesters vorgesehen war, die zur Hure wurde — der Tod durch Feuer (3. Mose 21,9) —, trifft sie genau so (Offenbarung 18,8).
 
 ## Wofür die Hure tatsächlich steht
 
@@ -48,12 +48,12 @@ Hier liegt eine der seltsamsten, lehrreichsten Wendungen der Offenbarung: Genau 
 
 ## Ein seelsorgerliches Wort, keine Verurteilung
 
-Nichts davon macht Reichtum, Handel, geschäftlichen Erfolg oder wirtschaftliches Wachstum von Natur aus böse. Die Schrift sagt das nirgends. Die Frage, die die Offenbarung tatsächlich stellt, ist enger und tiefer bohrend: Was tun wir, wenn die Wirtschaft zusammenbricht, wenn die Ernte ausfällt, wenn der versprochene Durchbruch nicht kommt? Schließen wir still, dass Gott uns im Stich gelassen hat — oder dass wir einfach nicht genug Glauben hatten —, weil unsere Theologie uns sagte, Treue erzeuge immer sichtbaren Wohlstand? Genau das ist der Moment, in dem wir fragen müssen, ob wir unwissentlich in Babylons Gebiet abgedriftet sind und ihren Glanz mit Gottes Segen verwechselt haben.
+Nichts davon macht Reichtum, Handel, geschäftlichen Erfolg oder wirtschaftliches Wachstum von Natur aus böse. Die Schrift sagt das nirgends. Die Frage, die die Offenbarung tatsächlich stellt, ist enger und tiefer bohrend: Was tun wir, wenn die Wirtschaft zusammenbricht, wenn die Ernte ausfällt, wenn der versprochene Durchbruch nicht kommt? Schließen wir still, dass Gott uns im Stich gelassen hat — oder dass wir einfach nicht genug Glauben hatten —, weil unsere Theologie uns sagte, Treue erzeuge immer sichtbaren Wohlstand? Genau das ist der Moment, in dem wir fragen müssen, ob wir unwissentlich in Babels Gebiet abgedriftet sind und ihren Glanz mit Gottes Segen verwechselt haben.
 
 Der Ruf, sowohl an die in der Offenbarung angesprochene Gemeinde als auch an uns, ist derselbe: "Geht aus ihr heraus, mein Volk" (Offenbarung 18,4) — nicht heraus aus dem Geschäft, nicht heraus aus dem Ehrgeiz, nicht heraus aus der Hoffnung auf ein besseres Leben, sondern heraus aus der Lüge, dass Wohlstand und Bequemlichkeit der wahre Maßstab von Gottes Gunst seien, und aus dem falschen Evangelium, das sie ohne das Kreuz verspricht.
 
 ## Schluss: der wahre Wohlstand
 
-Die Offenbarung endet nicht mit dem Fall der Hure. Sie endet, drei Kapitel später, mit dem Neuen Jerusalem — einer Stadt, in der Gott selbst dauerhaft bei seinem Volk wohnt, wo es keinen Tod, keine Trauer und keinen Schmerz mehr gibt, wo jede Träne persönlich abgewischt wird. Das ist die wirkliche, dauerhafte Sicherheit, die die Offenbarung tatsächlich verspricht — nicht Reichtum als Beweis der Gunst jetzt, sondern Gottes eigene Gegenwart, für immer, frei geschenkt an "den Durstigen ... umsonst" (Offenbarung 21,6). Das ist, wie wirklicher, dauerhafter Wohlstand aussieht, und er ist besser als alles, was Babylon je angeboten hat.
+Die Offenbarung endet nicht mit dem Fall der Hure. Sie endet, drei Kapitel später, mit dem Neuen Jerusalem — einer Stadt, in der Gott selbst dauerhaft bei seinem Volk wohnt, wo es keinen Tod, keine Trauer und keinen Schmerz mehr gibt, wo jede Träne persönlich abgewischt wird. Das ist die wirkliche, dauerhafte Sicherheit, die die Offenbarung tatsächlich verspricht — nicht Reichtum als Beweis der Gunst jetzt, sondern Gottes eigene Gegenwart, für immer, frei geschenkt an "den Durstigen ... umsonst" (Offenbarung 21,6). Das ist, wie wirklicher, dauerhafter Wohlstand aussieht, und er ist besser als alles, was Babel je angeboten hat.
 
 Wo hast du, auch unbewusst, Gottes Gunst an deinem Bankkonto oder deinen Umständen gemessen statt an seiner Gegenwart? Wie würde es aussehen, diese Woche das Versprechen der Hure gegen das Versprechen des Neuen Jerusalems einzutauschen?

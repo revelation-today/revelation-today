@@ -13,7 +13,7 @@ next: /sermons/liberal-progressive/ending/12-rapture-judgment-left-behind
 
 ## Ein hoffnungsvoller Landeplatz
 
-Nach zehn Sitzungen, die wir damit verbracht haben, ehrlich mit Material zu ringen, das dieser Tradition nicht leichtfällt — Zorn, Trübsal, Tiere, ein wirtschaftlich angeklagtes Babylon, die harten Ränder von Himmel und Hölle —, kommen wir irgendwo wirklich Erholsamem an. Offenbarung 21–22 ist das eigentliche Ziel dieses ganzen Buches, und es lohnt sich, es als die gute Nachricht landen zu lassen, die es ist, ohne es sofort mit weiteren schwierigen Fragen abzusichern. Dafür wird noch Zeit sein. Heute nicht.
+Nach zehn Sitzungen, die wir damit verbracht haben, ehrlich mit Material zu ringen, das dieser Tradition nicht leichtfällt — Zorn, Trübsal, Tiere, ein wirtschaftlich angeklagtes Babel, die harten Ränder von Himmel und Hölle —, kommen wir irgendwo wirklich Erholsamem an. Offenbarung 21–22 ist das eigentliche Ziel dieses ganzen Buches, und es lohnt sich, es als die gute Nachricht landen zu lassen, die es ist, ohne es sofort mit weiteren schwierigen Fragen abzusichern. Dafür wird noch Zeit sein. Heute nicht.
 
 ## Hören und Sehen, noch einmal
 
@@ -35,9 +35,9 @@ Hier ist ein Detail, das leicht zu überlesen ist, aber echtes theologisches Gew
 
 ## Das Gegenbild zu allem, was wir studiert haben
 
-Das Neue Jerusalem ist absichtlich als Spiegelbild der Hure Babylon gebaut, mit der wir uns in der letzten Sitzung befasst haben — und die beiden nebeneinanderzulegen schärft, was jede von beiden bedeutet. Beide werden als Frauen beschrieben; beide sind Städte; beide sind aufwendig in Gold und Juwelen gekleidet. Aber Babylons Glanz verdeckte Ausbeutung, trank das Blut der Verfolgten und brach innerhalb einer einzigen Stunde zusammen, als sich ihre Verbündeten gegen sie wandten. Die Herrlichkeit des Neuen Jerusalems spiegelt Gottes eigene Barmherzigkeit und Mitgefühl wider, gewonnen durch Treue statt durch Ausbeutung, und sie besteht für immer statt für eine Stunde. Jeder Wert, den Babylon korrumpierte — Reichtum, Pracht, Sicherheit, Beständigkeit — kehrt hier in seiner wahren, unkorrumpierten Form wieder.
+Das Neue Jerusalem ist absichtlich als Spiegelbild der Hure Babel gebaut, mit der wir uns in der letzten Sitzung befasst haben — und die beiden nebeneinanderzulegen schärft, was jede von beiden bedeutet. Beide werden als Frauen beschrieben; beide sind Städte; beide sind aufwendig in Gold und Juwelen gekleidet. Aber Babels Glanz verdeckte Ausbeutung, trank das Blut der Verfolgten und brach innerhalb einer einzigen Stunde zusammen, als sich ihre Verbündeten gegen sie wandten. Die Herrlichkeit des Neuen Jerusalems spiegelt Gottes eigene Barmherzigkeit und Mitgefühl wider, gewonnen durch Treue statt durch Ausbeutung, und sie besteht für immer statt für eine Stunde. Jeder Wert, den Babel korrumpierte — Reichtum, Pracht, Sicherheit, Beständigkeit — kehrt hier in seiner wahren, unkorrumpierten Form wieder.
 
-Es gibt ein zusätzliches Detail, bei dem es sich zu verweilen lohnt: Die Nationen bringen ihre eigene Pracht und Ehre in die Stadt — kein Tribut, der ihnen mit Gewalt entrissen wurde, wie Babylon es verlangte, sondern etwas, das sie freiwillig bringen, um es vor Gott niederzulegen, im Echo von Jesajas Vision der Nationen, die zum Licht Zions strömen. Das ist nicht die Sprache einer ummauerten Festung, die Außenstehende reflexartig ausschließt. Es ist die Sprache einer offenen Stadt, deren Tore nie geschlossen werden, gebaut in etwa der Größe der gesamten damals bekannten Welt — Platz, so legt der Text nahe, für jeden, der bereit ist zu kommen.
+Es gibt ein zusätzliches Detail, bei dem es sich zu verweilen lohnt: Die Nationen bringen ihre eigene Pracht und Ehre in die Stadt — kein Tribut, der ihnen mit Gewalt entrissen wurde, wie Babel es verlangte, sondern etwas, das sie freiwillig bringen, um es vor Gott niederzulegen, im Echo von Jesajas Vision der Nationen, die zum Licht Zions strömen. Das ist nicht die Sprache einer ummauerten Festung, die Außenstehende reflexartig ausschließt. Es ist die Sprache einer offenen Stadt, deren Tore nie geschlossen werden, gebaut in etwa der Größe der gesamten damals bekannten Welt — Platz, so legt der Text nahe, für jeden, der bereit ist zu kommen.
 
 ## Ein Versprechen, eingelöst
 
@@ -46,5 +46,5 @@ Ein letztes Detail lohnt sich zu benennen: Jedes Versprechen, das den sieben rin
 ## Fragen zur Reflexion oder zum Gespräch
 
 - Was bedeutet es für Sie, dass das Neue Jerusalem den einzigen, am stärksten eingeschränkten Raum des Alten Testaments — das Allerheiligste — nimmt und ihn zur gemeinsamen Heimat aller macht, die dorthin gehören?
-- Vergleichen Sie Babylons Glanz mit der Herrlichkeit des Neuen Jerusalems. Wo haben Sie in Ihrem eigenen Leben oder Ihrer Gemeinschaft das eine mit dem anderen verwechselt?
+- Vergleichen Sie Babels Glanz mit der Herrlichkeit des Neuen Jerusalems. Wo haben Sie in Ihrem eigenen Leben oder Ihrer Gemeinschaft das eine mit dem anderen verwechselt?
 - Die Nationen bringen ihre Pracht freiwillig, statt dass sie ihnen mit Gewalt entrissen wird. Wie würde es aussehen, wenn Ihre eigenen Gaben auf diese Weise gebracht würden — freiwillig, statt unter Druck?

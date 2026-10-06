@@ -17,7 +17,7 @@ draft: true
 
 # Die Stadt, die reich aussah, es aber nicht wirklich war
 
-### Wer ist die Hure Babylon?
+### Wer ist die Hure Babel?
 
 ## 1. Zum Einstieg: die Geburtstagsparty-Falle
 
@@ -25,19 +25,19 @@ Stellt euch vor, ein Kind lädt euch zu einer riesigen Geburtstagsparty ein und 
 
 ## 2. Eine glanzvolle, gefährliche Stadt
 
-In Offenbarung 17 und 18 sieht Johannes eine Stadt namens "Babylon", herausgeputzt wie eine schöne Braut — Gold, Edelsteine, feine Kleidung. Sie sieht glamourös und erfolgreich aus. Aber je genauer Johannes hinschaut, desto mehr sieht er, was wirklich darunter steckt: ein System, das darauf aufgebaut ist, Menschen zu betrügen, sie ungerecht zu behandeln und Gott zu vergessen — alles zugedeckt mit Reichtum und Glanz.
+In Offenbarung 17 und 18 sieht Johannes eine Stadt namens "Babel", herausgeputzt wie eine schöne Braut — Gold, Edelsteine, feine Kleidung. Sie sieht glamourös und erfolgreich aus. Aber je genauer Johannes hinschaut, desto mehr sieht er, was wirklich darunter steckt: ein System, das darauf aufgebaut ist, Menschen zu betrügen, sie ungerecht zu behandeln und Gott zu vergessen — alles zugedeckt mit Reichtum und Glanz.
 
-## 3. Womit Babylon wirklich handelt
+## 3. Womit Babel wirklich handelt
 
-Das traurigste Detail: Als die Liste all dessen vorgelesen wird, was Babylon kauft und verkauft, steht dort, mitten zwischen Gold, Schmuck und Gewürzen, noch etwas anderes — Menschen selbst, behandelt wie Fracht statt wie Menschen, die zählen. Das ist das eigentliche Problem mit Babylon: nicht dass sie reich ist, sondern dass ihr Reichtum daher kommt, dass sie Menschen wie Dinge behandelt statt wie Menschen, die Gott liebt.
+Das traurigste Detail: Als die Liste all dessen vorgelesen wird, was Babel kauft und verkauft, steht dort, mitten zwischen Gold, Schmuck und Gewürzen, noch etwas anderes — Menschen selbst, behandelt wie Fracht statt wie Menschen, die zählen. Das ist das eigentliche Problem mit Babel: nicht dass sie reich ist, sondern dass ihr Reichtum daher kommt, dass sie Menschen wie Dinge behandelt statt wie Menschen, die Gott liebt.
 
-## 4. Wenn Babylon fällt
+## 4. Wenn Babel fällt
 
-Irgendwann bricht Babylon zusammen — und ausgerechnet die Menschen, die zusammen mit ihr reich geworden sind, trauern nicht um die Menschen, die verletzt wurden. Sie trauern um ihre eigenen verlorenen Gewinne. Das sagt uns etwas Wichtiges: Alles, was nur auf "was habe ich davon" aufgebaut ist, fällt in dem Moment auseinander, in dem es sich nicht mehr lohnt.
+Irgendwann bricht Babel zusammen — und ausgerechnet die Menschen, die zusammen mit ihr reich geworden sind, trauern nicht um die Menschen, die verletzt wurden. Sie trauern um ihre eigenen verlorenen Gewinne. Das sagt uns etwas Wichtiges: Alles, was nur auf "was habe ich davon" aufgebaut ist, fällt in dem Moment auseinander, in dem es sich nicht mehr lohnt.
 
 ## 5. Warum das für uns wichtig ist
 
-Es wäre einfach, einfach nur auf "Babylon" da draußen zu zeigen und froh zu sein, dass wir nicht dazugehören. Aber die eigentliche Frage der Bibel liegt näher bei uns: Gibt es Wege, auch kleine, auf denen wir uns daran gewöhnen, Menschen als weniger wichtig zu behandeln als Geld, Bequemlichkeit oder Erfolg? Babylon ist nicht nur eine antike Stadt — sie ist eine Warnung, die es wert ist, mit unseren eigenen Entscheidungen abgeglichen zu werden.
+Es wäre einfach, einfach nur auf "Babel" da draußen zu zeigen und froh zu sein, dass wir nicht dazugehören. Aber die eigentliche Frage der Bibel liegt näher bei uns: Gibt es Wege, auch kleine, auf denen wir uns daran gewöhnen, Menschen als weniger wichtig zu behandeln als Geld, Bequemlichkeit oder Erfolg? Babel ist nicht nur eine antike Stadt — sie ist eine Warnung, die es wert ist, mit unseren eigenen Entscheidungen abgeglichen zu werden.
 
 ## 6. Merkvers
 
@@ -57,7 +57,7 @@ Lieber Gott, hilf uns zu bemerken, wenn etwas von außen glamourös aussieht, ab
 
 **Fragen für die Kinder:**
 1. Warst du schon einmal von etwas verlockt, das von außen gut aussah, aber eigentlich nicht in Ordnung war?
-2. Warum, glaubst du, ist es wichtig, dass auf Babylons Handelsliste auch Menschen stehen, nicht nur Waren?
+2. Warum, glaubst du, ist es wichtig, dass auf Babels Handelsliste auch Menschen stehen, nicht nur Waren?
 3. Was ist ein Weg, wie du sicherstellen kannst, dass du Menschen wichtiger nimmst als Geld oder Erfolg?
 
 **Liedvorschläge:**

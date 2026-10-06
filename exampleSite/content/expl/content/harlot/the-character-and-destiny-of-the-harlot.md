@@ -38,16 +38,16 @@ Looking at the {{% bible val="list of her goods" link="rev:18,12-13" lang="en" %
 
 None of this makes economic growth, or the research behind it, inherently bad. Trade and the exchange of goods and money are necessary. The question is what spirit lies behind it, and how we respond to it.
 
-Do we mourn along with everyone else when {{% bible val="the kings lament Babylon's sudden fall" link="rev:18,10" lang="en" %}} and our standard of living drops? Revelation pictures merchants and sailors mourning the sudden {{% bible val="loss of their trade" link="rev:18,17" lang="en" %}} — today, that might look like jobs moving to other countries. Do we support military interventions to protect our business interests? If the answer is yes, we're standing inside Babylon — {{% bible val="and we need to leave" link="rev:18,4" lang="en" %}}.
+Do we mourn along with everyone else when {{% bible val="the kings lament Babel's sudden fall" link="rev:18,10" lang="en" %}} and our standard of living drops? Revelation pictures merchants and sailors mourning the sudden {{% bible val="loss of their trade" link="rev:18,17" lang="en" %}} — today, that might look like jobs moving to other countries. Do we support military interventions to protect our business interests? If the answer is yes, we're standing inside Babel — {{% bible val="and we need to leave" link="rev:18,4" lang="en" %}}.
 
 ## The mystery of her fall
 
 <a name="0a44"></a>
-The end of Babylon is genuinely fascinating. She {{% bible val="sits on the beast" link="rev:17,3" lang="en" %}} and {{% bible val="controls the kings" link="rev:17,2" lang="en" %}}, yet {{% bible val="they are the ones who destroy her" link="rev:17,16" lang="en" %}} — and then {{% bible val="weep over her afterward" link="rev:18,9" lang="en" %}}. Why would they turn on their own source of power?
+The end of Babel is genuinely fascinating. She {{% bible val="sits on the beast" link="rev:17,3" lang="en" %}} and {{% bible val="controls the kings" link="rev:17,2" lang="en" %}}, yet {{% bible val="they are the ones who destroy her" link="rev:17,16" lang="en" %}} — and then {{% bible val="weep over her afterward" link="rev:18,9" lang="en" %}}. Why would they turn on their own source of power?
 
 {{% bible val="The simplest answer is that God put it into their hearts" link="rev:17,17" lang="en" %}}, but there's more going on underneath that:
 
-- People change their loyalties — today's friend is tomorrow's enemy — but God does not change. Babylon relied on the support of the rulers, and that support was always going to prove deceptive, because in the end everyone in this world looks out for their own advantage first.
+- People change their loyalties — today's friend is tomorrow's enemy — but God does not change. Babel relied on the support of the rulers, and that support was always going to prove deceptive, because in the end everyone in this world looks out for their own advantage first.
 - This fulfills a pattern already set in {{% bible val="Daniel" link="dan:7,21-22" lang="en" %}}, where evil defeats the saints only for God to hand them the victory anyway — a theme that recurs throughout Revelation, in the witnesses and in the millennial kingdom alike. Right at the moment evil looks like it's winning, and shows its true face, God turns the tables.
 - The beast and the kings attack the saints, but Jesus defeats them; he intervenes precisely when the Church comes under attack.
 - The harlot looks like the bride from the outside — that resemblance is deliberate, part of the same deception carried out by the second beast with its two horns like a lamb. One speculative possibility, not found in the major commentaries, is that this is a case of Satan falling for his own deception: the kings want to destroy the saints, {{% bible val="for obvious reasons" link="rev:11,6-10" lang="en" %}}, but mistake the harlot for the saints and destroy her instead. This remains secondary to the plainer explanation above — that God simply turns the rulers' self-interest against their own creation.
@@ -59,4 +59,4 @@ Her judgment matches her actions point for point:
 
 - She considered herself untouchable, so she falls within a single hour — about as short a time as the text can picture.
 - She will be judged in return for what she {{% bible val="inflicted on others" link="rev:18,22-24" lang="en" %}}: Revelation 18:6 says she will be repaid {{% bible val="double for her deeds" link="rev:18,6" lang="en" %}} — read by commentators either as an intensified judgment or as full, exact recompense; either way, the punishment fits the crime.
-- She will be consumed by fire — the same judgment prescribed for a priest's daughter who turned to prostitution (Leviticus 21:9) — a strong warning to stay away from Babylon and resist its pull.
+- She will be consumed by fire — the same judgment prescribed for a priest's daughter who turned to prostitution (Leviticus 21:9) — a strong warning to stay away from Babel and resist its pull.

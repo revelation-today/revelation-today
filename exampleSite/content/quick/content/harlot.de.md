@@ -14,7 +14,7 @@ kids: /kids/elementary/14-the-harlot-and-the-bride
 
 ## Die Hure wird entlarvt
 
-So wie die Siegel und die Posaunen jeweils eine ergänzende Vision hatten, ergänzt dieser Abschnitt die Schalen und fasst alles bisherige Böse in einem Bild zusammen: eine Hure namens Babylon, die auf einem Tier reitet, das die Könige der Erde beherrscht, die Herrscher manipuliert und die tötet, die Zeugnis ablegen.
+So wie die Siegel und die Posaunen jeweils eine ergänzende Vision hatten, ergänzt dieser Abschnitt die Schalen und fasst alles bisherige Böse in einem Bild zusammen: eine Hure namens Babel, die auf einem Tier reitet, das die Könige der Erde beherrscht, die Herrscher manipuliert und die tötet, die Zeugnis ablegen.
 
 ![](/images/Hure+Tier_de.jpg)
 
@@ -24,9 +24,9 @@ Die Hure ist das dunkle Gegenstück zur Braut, die in diesem Buch für die Gemei
 
 ## Ihre Wirkung und ihr Gericht
 
-Unter der Oberfläche steckt die Hure hinter dem Hunger des dritten Siegels: Die Armen leiden Mangel, während ihr Handel weitergeht - Menschen werden wie Handelsware behandelt. Am Wohlstand selbst ist nichts falsch - auch Gott schenkt ihn -, aber wenn er wichtiger wird als Gott, ist das Bürgerschaft in Babylon, nicht im Neuen Jerusalem. Eine Gemeinde, die nur bequemen Segen will, ohne den Preis des Zeugnisses, ist stillschweigend zum Gast der Hure geworden statt zur Braut.
+Unter der Oberfläche steckt die Hure hinter dem Hunger des dritten Siegels: Die Armen leiden Mangel, während ihr Handel weitergeht - Menschen werden wie Handelsware behandelt. Am Wohlstand selbst ist nichts falsch - auch Gott schenkt ihn -, aber wenn er wichtiger wird als Gott, ist das Bürgerschaft in Babel, nicht im Neuen Jerusalem. Eine Gemeinde, die nur bequemen Segen will, ohne den Preis des Zeugnisses, ist stillschweigend zum Gast der Hure geworden statt zur Braut.
 
-Als Jesus eingreift, wird die Hure - nicht die Gemeinde - zum Ziel, gerichtet von genau den Königen, die einst dem Tier dienten. Stolz und ihrer eigenen Sicherheit gewiss, kommt ihr Sturz plötzlich, genau wie beim historischen Babylon, und mit demselben Maß, mit dem sie anderen zugeteilt hat.
+Als Jesus eingreift, wird die Hure - nicht die Gemeinde - zum Ziel, gerichtet von genau den Königen, die einst dem Tier dienten. Stolz und ihrer eigenen Sicherheit gewiss, kommt ihr Sturz plötzlich, genau wie beim historischen Babel, und mit demselben Maß, mit dem sie anderen zugeteilt hat.
 
 ![](/images/Hure_de.jpg)
 

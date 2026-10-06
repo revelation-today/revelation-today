@@ -1,5 +1,5 @@
 ---
-title: "Offb. 17: Wer ist die Hure Babylon?"
+title: "Offb. 17: Wer ist die Hure Babel?"
 weight: 9
 docType: kids
 audience_group: "catholic"
@@ -15,7 +15,7 @@ draft: true
 > repository for reference and is no longer published.
 
 
-# Wer ist die Hure Babylon?
+# Wer ist die Hure Babel?
 
 ## Spiel/Einstieg: Die schicke Fälschung
 
@@ -36,7 +36,7 @@ In der Offenbarung sieht Johannes eine seltsame, blendende Frau. Sie ist in Purp
 Scharlachrot gekleidet, mit Gold, Perlen und Edelsteinen bedeckt, und hält einen prunkvollen
 goldenen Becher. Sie sieht aus wie eine Königin — vielleicht sogar wie etwas Heiliges, gekleidet,
 wie sich ein Priester für etwas Heiliges kleiden könnte. Aber direkt auf ihrer Stirn steht ein
-Name geschrieben: "Babylon, die Große." Und der Becher, den sie hält? Er ist voller widerlicher
+Name geschrieben: "Babel, die Große." Und der Becher, den sie hält? Er ist voller widerlicher
 Dinge, kein Schatz.
 
 Diese Frau steht für eine reale, mächtige Stadt zur Zeit des Johannes, genannt Rom — eine Stadt so
@@ -48,12 +48,12 @@ Gott an erste Stelle zu setzen.
 Hier ist der wichtige Teil: Diese schön aussehende Frau ist ein Trick. Sie wirkt prunkvoll, sogar
 heilig — aber darunter ist sie verdorben. Sie steht für alles, was von außen wunderbar und
 vertrauenswürdig wirken will, während es die Menschen innerlich von Gott wegzieht. Die Bibel nennt
-das "Babylon", und es taucht immer dann auf, wenn Geld, Ruhm oder Dazugehören uns wichtiger werden
+das "Babel", und es taucht immer dann auf, wenn Geld, Ruhm oder Dazugehören uns wichtiger werden
 als Gott zu lieben und ihm zu gehorchen.
 
 Das wirklich Wichtige, das man wissen sollte, ist: Das ist nicht nur eine Geschichte über eine
 einzige Stadt vor sehr langer Zeit. Es ist eine Warnung für jeden einzelnen Menschen, zu jeder
-Zeit, auch für uns — denn "Babylon" kann sich in das Leben von jedem einschleichen, wenn wir nicht
+Zeit, auch für uns — denn "Babel" kann sich in das Leben von jedem einschleichen, wenn wir nicht
 aufpassen, egal wie gut und normal es von außen aussieht.
 
 ## Was das für uns bedeutet

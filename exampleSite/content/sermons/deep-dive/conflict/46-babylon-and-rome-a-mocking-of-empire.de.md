@@ -1,5 +1,5 @@
 ---
-title: "Offb. 17: Babylon und Rom: Eine Verspottung des Imperiums"
+title: "Offb. 17: Babel und Rom: Eine Verspottung des Imperiums"
 weight: 46
 docType: sermon
 audience_group: "deep-dive-guide"
@@ -26,7 +26,7 @@ Das ist eine Münze, die vollständig darauf ausgelegt ist, Roms Macht, Schutz u
 Legt man die Münze neben Offenbarung 17, sind die Umkehrungen präzise und bewusst:
 
 - Roma thront auf den sieben Hügeln, Beschützerin Roms. In der Offenbarung sitzt die Frau auf dem Tier und wird mit den sieben Hügeln identifiziert (17,9) — doch statt beschützt zu werden, wird sie von genau den Mächten zerstört, auf denen sie ritt (17,16).
-- Roma ist eine Göttin in militärischer Kleidung. Die Offenbarung stellt sie neu dar als "Babylon, die Große, Mutter der Huren" (17,5) — nicht nur irgendeine Prostituierte, sondern die Quelle aller.
+- Roma ist eine Göttin in militärischer Kleidung. Die Offenbarung stellt sie neu dar als "Babel, die Große, Mutter der Huren" (17,5) — nicht nur irgendeine Prostituierte, sondern die Quelle aller.
 - Roma's Schwert symbolisiert Schutz durch Stärke. Die Hure dagegen ist "betrunken vom Blut der Heiligen" (17,6) — der "Schutz", den Rom bot, war Gewalt, gewendet gegen Gottes Volk.
 - Die Münze feiert die Pax Romana als den Frieden, der alle sicher macht. Die Offenbarung zeigt, dass dieser Friede mit dem Blut der Märtyrer bezahlt wurde.
 

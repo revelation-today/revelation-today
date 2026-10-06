@@ -239,7 +239,7 @@ docType: expl
 | {{% bible val="Revelation:6,1-8" link="rev:6,1-8" lang="en" %}} | ["The text": Rev.6/1–8](/expl/content/seals/the-mystery-of-the-four-horse-men#3b7c) |
 | {{% bible val="Revelation:6,2" link="rev:6,2" lang="en" %}} | ["A rider who doesn't seem to belong": 'I looked, and there before me was a white horse! Its rider held a bow, and he was given a crown, and he rode out as a conqueror bent on conquest.'](/sermons/prosperity-gospel-module/worship-and-seals/01-the-first-horsemans-fake-gospel#a-rider-who-doesnt-seem-to-belong) |
 | {{% bible val="Revelation:6,5-6" link="rev:6,5-6" lang="en" %}} | ["The great tribulation": for the third horseman](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
-| {{% bible val="Revelation:6,5-6" link="rev:6,5-6" lang="en" %}} | ["Is Babylon the apostate church?": abuse of the weak](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:6,5-6" link="rev:6,5-6" lang="en" %}} | ["Is Babel the apostate church?": abuse of the weak](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:6,8" link="rev:6,8" lang="en" %}} | ["But aren't there also differences?": place of death, which can be on earth](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
 | {{% bible val="Revelation:6,9" link="rev:6,9" lang="en" %}} | ["What actually carries the theme": the souls of those who had been slain](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Revelation:6,9" link="rev:6,9" lang="en" %}} | ["Will we be beheaded?": parallel with the souls under the altar](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
@@ -510,7 +510,7 @@ docType: expl
 | {{% bible val="Revelation:13,4" link="rev:13,4" lang="en" %}} | ["The dark side": astonished when they see the strength of the beast](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#896a) |
 | {{% bible val="Revelation:13,4" link="rev:13,4" lang="en" %}} | ["The false trinity": Who can fight against the beast](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#45d1) |
 | {{% bible val="Revelation:13,4" link="rev:13,4" lang="en" %}} | ["The scarlet Beast": Beast seems unrivalled](/expl/content/harlot/who-is-the-harlot-babylon-part-1#9621) |
-| {{% bible val="Revelation:13,4" link="rev:13,4" lang="en" %}} | ["Is Babylon the apostate church?": security](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:13,4" link="rev:13,4" lang="en" %}} | ["Is Babel the apostate church?": security](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:13,4" link="rev:13,4" lang="en" %}} | ["The fifth and sixth trumpet": people worship the dragon and the beast](/expl/content/trumpets/the-trumpets-in-revelation#403f) |
 | {{% bible val="Revelation:13,4" link="rev:13,4" lang="en" %}} | ["The witnesses and the beasts": Rev.13/4](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation:13,4" link="rev:13,4" lang="en" %}} | ["The witnesses and the beasts": Rev.13/4](/expl/content/witnesses/the-two-witnesses#3181) |
@@ -534,7 +534,7 @@ docType: expl
 | {{% bible val="Revelation:13,7" link="rev:13,7" lang="en" %}} | ["The twofold attack": conquering the saints](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Revelation:13,7" link="rev:13,7" lang="en" %}} | ["The false trinity": Fight against saints and defeat them](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#45d1) |
 | {{% bible val="Revelation:13,7" link="rev:13,7" lang="en" %}} | ["The scarlet Beast": Rev.13/7](/expl/content/harlot/who-is-the-harlot-babylon-part-1#9621) |
-| {{% bible val="Revelation:13,7" link="rev:13,7" lang="en" %}} | ["Is Babylon the apostate church?": war](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:13,7" link="rev:13,7" lang="en" %}} | ["Is Babel the apostate church?": war](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:13,7" link="rev:13,7" lang="en" %}} | ["The mystery of the first horseman": refer to the beast](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
 | {{% bible val="Revelation:13,7" link="rev:13,7" lang="en" %}} | ["The witnesses and the beasts": Rev.13/7](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation:13,7" link="rev:13,7" lang="en" %}} | ["The witnesses and the beasts": power over tribes, tongues and nations](/expl/content/witnesses/the-two-witnesses#3181) |
@@ -559,7 +559,7 @@ docType: expl
 | {{% bible val="Revelation:13,10" link="rev:13,10" lang="en" %}} | ["What to do?": perseverance](/expl/content/beasts/666-the-number-of-the-beast#0a91) |
 | {{% bible val="Revelation:13,10" link="rev:13,10" lang="en" %}} | ["The twofold attack": Here is patience and faith of the saints](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Revelation:13,10" link="rev:13,10" lang="en" %}} | ["The twofold attack": killing any resistance](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
-| {{% bible val="Revelation:13,10" link="rev:13,10" lang="en" %}} | ["Is Babylon the apostate church?": persecution](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:13,10" link="rev:13,10" lang="en" %}} | ["Is Babel the apostate church?": persecution](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:13,10" link="rev:13,10" lang="en" %}} | ["The witnesses and the beasts": Rev.13/10](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation:13,11" link="rev:13,11" lang="en" %}} | ["The second beast": the moment this second beast rises up, looking harmless, like a lamb](/expl/content/beasts/666-the-number-of-the-beast#2f0d) |
 | {{% bible val="Revelation:13,11" link="rev:13,11" lang="en" %}} | ["The twofold attack": From the Earth](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
@@ -582,7 +582,7 @@ docType: expl
 | {{% bible val="Revelation:13,12" link="rev:13,12" lang="en" %}} | ["The twofold attack": second beast speaks with the authority of the first beast](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Revelation:13,12" link="rev:13,12" lang="en" %}} | ["The harlot and the second beast": Acts in power of the (first) beast](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#45d1) |
 | {{% bible val="Revelation:13,12" link="rev:13,12" lang="en" %}} | ["The Harlot and the second beast": Acts in power of the (first) beast](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
-| {{% bible val="Revelation:13,12" link="rev:13,12" lang="en" %}} | ["Is Babylon the apostate church?": ideology](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:13,12" link="rev:13,12" lang="en" %}} | ["Is Babel the apostate church?": ideology](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:13,12" link="rev:13,12" lang="en" %}} | ["The witnesses and the beasts": Rev.13/12](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation:13,12" link="rev:13,12" lang="en" %}} | ["The witnesses and the beasts": Rev.13/12](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation:13,12-14" link="rev:13,12-14" lang="en" %}} | ["The witnesses and the beasts": second beast](/expl/content/witnesses/the-two-witnesses#3181) |
@@ -595,9 +595,9 @@ docType: expl
 | {{% bible val="Revelation:13,13-14" link="rev:13,13-14" lang="en" %}} | ["The second beast": worthy of great signs and wonders](/expl/content/beasts/666-the-number-of-the-beast#2f0d) |
 | {{% bible val="Revelation:13,13-14" link="rev:13,13-14" lang="en" %}} | ["The twofold attack": Does great signs, makes fire fall from heaven, deceives by signs](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Revelation:13,13-14" link="rev:13,13-14" lang="en" %}} | ["The twofold attack": Does great things in front of people](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
-| {{% bible val="Revelation:13,13-14" link="rev:13,13-14" lang="en" %}} | ["Is Babylon the apostate church?": a feeling of superiority](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:13,13-14" link="rev:13,13-14" lang="en" %}} | ["Is Babel the apostate church?": a feeling of superiority](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:13,13-14" link="rev:13,13-14" lang="en" %}} | ["The witnesses and the beasts": Rev.13/13-14](/expl/content/witnesses/the-two-witnesses#3181) |
-| {{% bible val="Revelation:13,13-15" link="rev:13,13-15" lang="en" %}} | ["Is Babylon the apostate church?": impressive temple worship](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:13,13-15" link="rev:13,13-15" lang="en" %}} | ["Is Babel the apostate church?": impressive temple worship](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:13,14" link="rev:13,14" lang="en" %}} | ["Crux 1: two comings to life, one verb": whose sword-wound healed, and it came to life](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Revelation:13,14" link="rev:13,14" lang="en" %}} | ["What actually carries the theme": it came to life](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Revelation:13,14" link="rev:13,14" lang="en" %}} | ["The context of the first readers": wounded by a sword in Revelation](/expl/content/beasts/666-the-number-of-the-beast#2f6a) |
@@ -626,8 +626,8 @@ docType: expl
 | {{% bible val="Revelation:13,16" link="rev:13,16" lang="en" %}} | ["The witnesses and the beasts": Rev.13/16](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation:13,16-17" link="rev:13,16-17" lang="en" %}} | ["The second beast": will be financially ruined ](/expl/content/beasts/666-the-number-of-the-beast#2f0d) |
 | {{% bible val="Revelation:13,16-17" link="rev:13,16-17" lang="en" %}} | ["The dark side": all people to submit to our value system](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#896a) |
-| {{% bible val="Revelation:13,16-17" link="rev:13,16-17" lang="en" %}} | ["Is Babylon the apostate church?": giving wealth or making poor](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
-| {{% bible val="Revelation:13,16-17" link="rev:13,16-17" lang="en" %}} | ["Is Babylon the apostate church?": exclusion of anyone who won't comply](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:13,16-17" link="rev:13,16-17" lang="en" %}} | ["Is Babel the apostate church?": giving wealth or making poor](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:13,16-17" link="rev:13,16-17" lang="en" %}} | ["Is Babel the apostate church?": exclusion of anyone who won't comply](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:13,16-17" link="rev:13,16-17" lang="en" %}} | ["The witnesses and the beasts": second](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation:13,17" link="rev:13,17" lang="en" %}} | ["The twofold attack": No one can buy or sell, unless they have the mark of the beast](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Revelation:13,17" link="rev:13,17" lang="en" %}} | ["The harlot and the second beast": Cannot buy or sell without the mark](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#45d1) |
@@ -660,7 +660,7 @@ docType: expl
 | {{% bible val="Revelation:14,6-7" link="rev:14,6-7" lang="en" %}} | ["The first three angels": he had the eternal gospel to proclaim to those who live on the earth — to every nation, tribe, language and people. He said in a loud voice, ‘Fear God and give him glory, because the hour of his judgment has come. Worship him who made the heavens, the earth, the sea and the springs of water.’](/expl/content/harvest/gods-army-and-the-seven-angels#6911) |
 | {{% bible val="Revelation:14,6-13" link="rev:14,6-13" lang="en" %}} | ["The pattern: overcoming through weakness": whose worshippers are warned of the disaster awaiting everyone who trusted in them](/expl/content/jesus/a-different-christmas-story#the-pattern-overcoming-through-weakness) |
 | {{% bible val="Revelation:14,7" link="rev:14,7" lang="en" %}} | ["The number 4": by the three angels](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#3175) |
-| {{% bible val="Revelation:14,8" link="rev:14,8" lang="en" %}} | ["The two harvests": fall of Babylon announced just a few verses earlier](/expl/content/harvest/gods-army-and-the-seven-angels#833c) |
+| {{% bible val="Revelation:14,8" link="rev:14,8" lang="en" %}} | ["The two harvests": fall of Babel announced just a few verses earlier](/expl/content/harvest/gods-army-and-the-seven-angels#833c) |
 | {{% bible val="Revelation:14,10-11" link="rev:14,10-11" lang="en" %}} | ["What is hell about?": tormented with burning sulphur, the smoke of their torment rising for ever and ever](/expl/content/paradise/heaven-and-hell#1a72) |
 | {{% bible val="Revelation:14,14" link="rev:14,14" lang="en" %}} | ["The mystery of the first horseman": one who looks like the Son of Man on a white cloud with a sickle to harvest the earth](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
 | {{% bible val="Revelation:14,14-19" link="rev:14,14-19" lang="en" %}} | ["The combination 4x7": sevenfold mention of the sickle](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#3f68) |
@@ -705,14 +705,14 @@ docType: expl
 | {{% bible val="Revelation:16,17-20" link="rev:16,17-20" lang="en" %}} | ["The seventh trumpet, and what comes first": seventh bowl, where the devil's kingdom is torn down](/expl/content/trumpets/the-trumpets-in-revelation#403f) |
 | {{% bible val="Revelation:16,17-21" link="rev:16,17-21" lang="en" %}} | ["Armageddon": Revelation 16:17-21](/quick/content/bowls#armageddon) |
 | {{% bible val="Revelation:16,18" link="rev:16,18" lang="en" %}} | ["The number 4": conclusion of the bowls](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#3175) |
-| {{% bible val="Revelation:16,18-20" link="rev:16,18-20" lang="en" %}} | ["Further arguments for one battle": destruction of Babylon and the devil's kingdom behind her](/expl/content/1000y/the-thousand-year-kingdom#ba8d) |
+| {{% bible val="Revelation:16,18-20" link="rev:16,18-20" lang="en" %}} | ["Further arguments for one battle": destruction of Babel and the devil's kingdom behind her](/expl/content/1000y/the-thousand-year-kingdom#ba8d) |
 | {{% bible val="Revelation:17" link="rev:17,-1" lang="en" %}} | ["Overview": so many characters in this chapter interact with each other](/expl/content/harlot/who-is-the-harlot-babylon-part-1#overview) |
 | {{% bible val="Revelation:17" link="rev:17,-1" lang="en" %}} | ["The Harlot": Destroyed woman](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation:17" link="rev:17,-1" lang="en" %}} | ["The religious aspect": Revelation](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:17" link="rev:17,-1" lang="en" %}} | ["The resolution": chapter 17](/expl/content/seals/the-mystery-of-the-four-horse-men#6235) |
 | {{% bible val="Revelation:17" link="rev:17,-1" lang="en" %}} | [""The Harlot (Ch. 17-19)"": Chapter 17](/kids/content/harlot) |
 | {{% bible val="Revelation:17" link="rev:17,-1" lang="en" %}} | ["Revelation 17–19": Revelation 17–19](/kids/elementary/14-the-harlot-and-the-bride#revelation-1719) |
-| {{% bible val="Revelation:17" link="rev:17,-1" lang="en" %}} | [""Rev. 17–18: Babylon Falls"": Revelation 17–19](/kids/teens/15-babylon-falls) |
+| {{% bible val="Revelation:17" link="rev:17,-1" lang="en" %}} | [""Rev. 17–18: Babel Falls"": Revelation 17–19](/kids/teens/15-babylon-falls) |
 | {{% bible val="Revelation:17" link="rev:17,-1" lang="en" %}} | [""The harlot (Ch. 17-19)"": Chapter 17](/quick/content/harlot) |
 | {{% bible val="Revelation:17" link="rev:17,-1" lang="en" %}} | ["The four horsemen": chapter 17](/quick/content/seals#the-four-horsemen) |
 | {{% bible val="Revelation:17,1" link="rev:17,1" lang="en" %}} | ["deiknumi": The introduction to the vision of the harlot](/expl/background/literature/literally-or-symbolic#08d2) |
@@ -723,7 +723,7 @@ docType: expl
 | {{% bible val="Revelation:17,1-13" link="rev:17,1-13" lang="en" %}} | ["The Ekphrasis": first half of chapter 17](/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#66fb) |
 | {{% bible val="Revelation:17,2" link="rev:17,2" lang="en" %}} | ["The mystery of her fall": controls the kings](/expl/content/harlot/the-character-and-destiny-of-the-harlot#0a44) |
 | {{% bible val="Revelation:17,2" link="rev:17,2" lang="en" %}} | ["The Harlot": fools people](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
-| {{% bible val="Revelation:17,2" link="rev:17,2" lang="en" %}} | ["The economic aspect": Babylon's adultery with the kings of the earth](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:17,2" link="rev:17,2" lang="en" %}} | ["The economic aspect": Babel's adultery with the kings of the earth](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:17,3" link="rev:17,3" lang="en" %}} | ["The ministry": (Rev.17/3)](/expl/background/israel/the-church-is-part-of-israel#121f) |
 | {{% bible val="Revelation:17,3" link="rev:17,3" lang="en" %}} | ["The false trinity": Has 7 heads and 10 horns](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#45d1) |
 | {{% bible val="Revelation:17,3" link="rev:17,3" lang="en" %}} | ["The false trinity": Blasphemous name](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#45d1) |
@@ -747,14 +747,14 @@ docType: expl
 | {{% bible val="Revelation:17,5" link="rev:17,5" lang="en" %}} | ["The Harlot": Persecuted Mother](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation:17,5" link="rev:17,5" lang="en" %}} | ["The Harlot": Rev.17/5](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation:17,5" link="rev:17,5" lang="en" %}} | ["The Harlot and the second beast": Rev.17/5](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
-| {{% bible val="Revelation:17,5" link="rev:17,5" lang="en" %}} | ["The religious aspect": Babylon the great the mother of harlots and of the abominations of the earth](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:17,5" link="rev:17,5" lang="en" %}} | ["The religious aspect": Babel the great the mother of harlots and of the abominations of the earth](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:17,5" link="rev:17,5" lang="en" %}} | ["The Core Teaching": beast](/sermons/deep-dive/intro/03-symbol-or-literal#the-core-teaching) |
 | {{% bible val="Revelation:17,5" link="rev:17,5" lang="en" %}} | ["The Core Teaching": harlot](/sermons/deep-dive/intro/06-the-three-mysteries#the-core-teaching) |
 | {{% bible val="Revelation:17,5" link="rev:17,5" lang="en" %}} | ["The Core Teaching": Revelation 17:5](/sermons/deep-dive/intro/06-the-three-mysteries#the-core-teaching) |
 | {{% bible val="Revelation:17,6" link="rev:17,6" lang="en" %}} | ["The harlot and the second beast": Drink blood of the saints](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#45d1) |
 | {{% bible val="Revelation:17,6" link="rev:17,6" lang="en" %}} | ["The Harlot": Persecutes and kills saints](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation:17,6" link="rev:17,6" lang="en" %}} | ["The Harlot and the second beast": Drink blood of the saints](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
-| {{% bible val="Revelation:17,6" link="rev:17,6" lang="en" %}} | ["Is Babylon the apostate church?": the silencing of inconvenient voices](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:17,6" link="rev:17,6" lang="en" %}} | ["Is Babel the apostate church?": the silencing of inconvenient voices](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:17,7" link="rev:17,7" lang="en" %}} | ["The Ekphrasis": bewildered narrator](/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#66fb) |
 | {{% bible val="Revelation:17,8" link="rev:17,8" lang="en" %}} | ["The false trinity": the beast that was, and is not, and is to come](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#45d1) |
 | {{% bible val="Revelation:17,8" link="rev:17,8" lang="en" %}} | ["The false trinity": All who are not written in the book of life are overwhelmed](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#45d1) |
@@ -787,32 +787,32 @@ docType: expl
 | {{% bible val="Revelation:17,16" link="rev:17,16" lang="en" %}} | ["The scarlet Beast": Rev.17/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#9621) |
 | {{% bible val="Revelation:17,16" link="rev:17,16" lang="en" %}} | ["The Harlot": Rev.17/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation:17,16" link="rev:17,16" lang="en" %}} | ["The Harlot and the second beast": Rev.17/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
-| {{% bible val="Revelation:17,16" link="rev:17,16" lang="en" %}} | ["The religious aspect": ashamed like Babylon](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:17,16" link="rev:17,16" lang="en" %}} | ["The religious aspect": ashamed like Babel](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:17,17" link="rev:17,17" lang="en" %}} | ["The mystery of her fall": The simplest answer is that God put it into their hearts](/expl/content/harlot/the-character-and-destiny-of-the-harlot#0a44) |
 | {{% bible val="Revelation:17,17" link="rev:17,17" lang="en" %}} | ["The Harlot": God has put in heart to destroy the harlot](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation:17,18" link="rev:17,18" lang="en" %}} | ["The Harlot": Rev.17/18](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation:17,18" link="rev:17,18" lang="en" %}} | ["The Harlot": Rev.17/18](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation:18" link="rev:18,-1" lang="en" %}} | [""The Harlot (Ch. 17-19)"": 18](/kids/content/harlot) |
 | {{% bible val="Revelation:18" link="rev:18,-1" lang="en" %}} | [""The harlot (Ch. 17-19)"": 18](/quick/content/harlot) |
-| {{% bible val="Revelation:18,1" link="rev:18,1" lang="en" %}} | ["A little word with big consequences": the judgment of Babylon](/expl/content/1000y/the-thousand-year-kingdom#ed7b) |
+| {{% bible val="Revelation:18,1" link="rev:18,1" lang="en" %}} | ["A little word with big consequences": the judgment of Babel](/expl/content/1000y/the-thousand-year-kingdom#ed7b) |
 | {{% bible val="Revelation:18,3" link="rev:18,3" lang="en" %}} | ["The Harlot and the second beast": Cannot buy or sell without sign](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
-| {{% bible val="Revelation:18,3" link="rev:18,3" lang="en" %}} | ["The economic aspect": prostitute themselves with Babylon](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:18,3" link="rev:18,3" lang="en" %}} | ["The economic aspect": prostitute themselves with Babel](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:18,3" link="rev:18,3" lang="en" %}} | ["The nations and their gifts": the kind of glory and riches they once drew from Babel](/expl/content/paradise/the-new-jerusalem#bf9a) |
 | {{% bible val="Revelation:18,4" link="rev:18,4" lang="en" %}} | ["The character of the harlot": and we need to leave](/expl/content/harlot/the-character-and-destiny-of-the-harlot#b96c) |
-| {{% bible val="Revelation:18,4" link="rev:18,4" lang="en" %}} | ["Is Babylon the apostate church?": so that you're forced to keep reflecting and stepping out of it, day after day](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:18,4" link="rev:18,4" lang="en" %}} | ["Is Babel the apostate church?": so that you're forced to keep reflecting and stepping out of it, day after day](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:18,4" link="rev:18,4" lang="en" %}} | ["Her impact and her judgment": Revelation 18:4](/quick/content/harlot#her-impact-and-her-judgment) |
 | {{% bible val="Revelation:18,6" link="rev:18,6" lang="en" %}} | ["The judgment": double for her deeds](/expl/content/harlot/the-character-and-destiny-of-the-harlot#3d3b) |
 | {{% bible val="Revelation:18,7" link="rev:18,7" lang="en" %}} | ["The character of the harlot": She sees herself as untouchable](/expl/content/harlot/the-character-and-destiny-of-the-harlot#b96c) |
 | {{% bible val="Revelation:18,7" link="rev:18,7" lang="en" %}} | ["The Harlot": Rev.18/7](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
-| {{% bible val="Revelation:18,8" link="rev:18,8" lang="en" %}} | ["The religious aspect": exactly the judgment that falls on Babylon](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:18,8" link="rev:18,8" lang="en" %}} | ["The religious aspect": exactly the judgment that falls on Babel](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:18,9" link="rev:18,9" lang="en" %}} | ["The harlot and the second beast": Rev.18/9](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#45d1) |
 | {{% bible val="Revelation:18,9" link="rev:18,9" lang="en" %}} | ["The mystery of her fall": weep over her afterward](/expl/content/harlot/the-character-and-destiny-of-the-harlot#0a44) |
 | {{% bible val="Revelation:18,9" link="rev:18,9" lang="en" %}} | ["The Harlot and the second beast": Rev.18/9](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation:18,9" link="rev:18,9" lang="en" %}} | ["The economic aspect": grow rich as a result](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:18,9-11" link="rev:18,9-11" lang="en" %}} | ["The Harlot": God judges successors](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
-| {{% bible val="Revelation:18,10" link="rev:18,10" lang="en" %}} | ["The character of the harlot": the kings lament Babylon's sudden fall](/expl/content/harlot/the-character-and-destiny-of-the-harlot#b96c) |
+| {{% bible val="Revelation:18,10" link="rev:18,10" lang="en" %}} | ["The character of the harlot": the kings lament Babel's sudden fall](/expl/content/harlot/the-character-and-destiny-of-the-harlot#b96c) |
 | {{% bible val="Revelation:18,10" link="rev:18,10" lang="en" %}} | ["The Harlot": Court comes quickly](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
-| {{% bible val="Revelation:18,10" link="rev:18,10" lang="en" %}} | ["Defeat turned into victory": Babylon the great city](/expl/content/witnesses/the-two-witnesses#3181) |
+| {{% bible val="Revelation:18,10" link="rev:18,10" lang="en" %}} | ["Defeat turned into victory": Babel the great city](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation:18,11" link="rev:18,11" lang="en" %}} | ["The 666 in context": description of the beast on which the harlot sits](/expl/content/beasts/666-the-number-of-the-beast#2def) |
 | {{% bible val="Revelation:18,11" link="rev:18,11" lang="en" %}} | ["The harlot and the second beast": Merchants who traded with her can no longer buy or sell anything, now that she has fallen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#45d1) |
 | {{% bible val="Revelation:18,11-13" link="rev:18,11-13" lang="en" %}} | ["The combination 4x7": list of the merchants' goods at Babel](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#3f68) |
@@ -820,7 +820,7 @@ docType: expl
 | {{% bible val="Revelation:18,11-17" link="rev:18,11-17" lang="en" %}} | ["The Harlot and the second beast": Rev.18/11-17](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation:18,11-19" link="rev:18,11-19" lang="en" %}} | ["The Harlot": Addiction to economic wealth](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation:18,12-13" link="rev:18,12-13" lang="en" %}} | ["The character of the harlot": list of her goods](/expl/content/harlot/the-character-and-destiny-of-the-harlot#b96c) |
-| {{% bible val="Revelation:18,12-13" link="rev:18,12-13" lang="en" %}} | ["The economic aspect": list of Babylon's trade goods](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation:18,12-13" link="rev:18,12-13" lang="en" %}} | ["The economic aspect": list of Babel's trade goods](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation:18,16" link="rev:18,16" lang="en" %}} | ["The Harlot": Rev.18/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation:18,16" link="rev:18,16" lang="en" %}} | ["The Harlot": Rev.18/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation:18,16" link="rev:18,16" lang="en" %}} | ["The religious aspect": 18](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |

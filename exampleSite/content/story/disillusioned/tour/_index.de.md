@@ -370,7 +370,7 @@ Das ist die ganze Waffenkammer. Sie steht allen offen, und das ist der Punkt - n
 verlangt, dass du außergewöhnlich bist.
 
 Drei Engel fliegen mit drei Ansagen vorbei. Der erste bringt gute Nachricht für jede Nation:
-Das Angebot steht noch, für alle. Der zweite sagt, Babylon ist gefallen. Der dritte gibt eine
+Das Angebot steht noch, für alle. Der zweite sagt, Babel ist gefallen. Der dritte gibt eine
 ernste Warnung davor, dem Tier zu folgen.
 
 Achte auf die Reihenfolge. Die gute Nachricht kommt zuerst. Die Warnung ist echt, aber die

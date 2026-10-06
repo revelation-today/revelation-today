@@ -1,5 +1,5 @@
 ---
-title: "Offb. 17: Wer ist die Hure Babylon?"
+title: "Offb. 17: Wer ist die Hure Babel?"
 weight: 9
 docType: sermon
 audience_group: "catholic"
@@ -9,14 +9,14 @@ prev: /sermons/catholic/conflict/08-the-unholy-trinity
 next: /sermons/catholic/ending/10-the-thousand-year-kingdom
 ---
 
-# Wer ist die Hure Babylon?
+# Wer ist die Hure Babel?
 
 ## Einstieg: Eine überfüllte, verwirrende Szene
 
 Offenbarung 17 wirft eine Menge auf einmal auf dich: ein Tier, sieben Häupter, die auch sieben
 Hügel sind, zehn Hörner, die auch zehn Könige sind, und — obenauf reitend — eine Frau, gekleidet in
 Purpur und Scharlach, glitzernd von Gold und Edelsteinen, einen goldenen Becher haltend, mit einem
-merkwürdigen Titel auf ihrer Stirn geschrieben: "Babylon, die Große, Mutter der Huren." Das kann
+merkwürdigen Titel auf ihrer Stirn geschrieben: "Babel, die Große, Mutter der Huren." Das kann
 sich lesen wie ein Rätsel, eingewickelt in einen Albtraum.
 
 Aber diese Szene löst sich schneller auf, als es zunächst scheint, sobald man weiß, wo man mit dem
@@ -90,14 +90,14 @@ Abhängigkeit wird, eine königliche Heirat (am berühmtesten die Isebels), die 
 mit fremdem Reichtum importiert. Die Schrift behandelt Handel und Götzendienst nicht als getrennte
 Kategorien. Wirtschaftliche Verstrickung hat die Angewohnheit, zu religiöser Verstrickung zu werden.
 
-## Die Erkenntnis: Babylon ist ein Muster, nicht nur ein Ort
+## Die Erkenntnis: Babel ist ein Muster, nicht nur ein Ort
 
 Wer also ist die Hure? Im ersten Jahrhundert ist die Antwort konkret: Rom, das Reich, das Anbetung
 des Kaisers forderte, das die bekannte Welt mit Reichtum, Spektakel und versprochener Sicherheit
 verführte, das rohe politische Macht in das Gewand des Heiligen kleidete.
 
 Aber wäre das die ganze Antwort, hätte diese Vision uns nichts zu sagen. Die tiefere Antwort, auf
-die die Offenbarung hinweist, ist diese: "Babylon" ist weniger ein einzelner Ort als ein
+die die Offenbarung hinweist, ist diese: "Babel" ist weniger ein einzelner Ort als ein
 wiederkehrendes Muster — jedes System, wirtschaftlich, politisch oder kulturell, das Gottes Volk
 dazu verführt, Bundestreue gegen Reichtum, Sicherheit und Status einzutauschen, während es dabei
 den Anschein von Legitimität oder sogar Heiligkeit trägt. Genau deshalb gebietet die Offenbarung
@@ -109,7 +109,7 @@ sich selbst gerichtet zu hören, in jedem Zeitalter, unser eigenes eingeschlosse
 
 Das ist keine bequeme Einheit, bei der man verweilt, und sie soll es auch nicht sein. Die
 eigentliche Frage, die Offenbarung 17-18 der Kirche stellt, ist nicht "War Rom böse?" Die
-Geschichte hat das geklärt. Es ist, ob wir selbst still und leise nach Babylon gezogen sind — ob
+Geschichte hat das geklärt. Es ist, ob wir selbst still und leise nach Babel gezogen sind — ob
 Komfort, Sicherheit, Ansehen oder Reichtum zu Unverhandelbarem geworden sind, das wir sogar auf
 Kosten der Treue verteidigen, verkleidet in einer Sprache, die heilig klingt. Frag konkret: Wo
 verliert die Treue zu Christus in meinem eigenen Leben leise gegen die Treue zu Komfort oder
@@ -122,9 +122,9 @@ möchte.
 Die Offenbarung nennt Rom, aber sie hört dort nicht auf. Jede Generation der Kirche ist eingeladen,
 dieselbe Frage zu stellen, die sich die ersten Leser des Johannes stellen mussten: Sind wir von
 einer Macht verführt worden, die Sicherheit und Glanz im Austausch für unsere erste Treue
-verspricht? Die gute Nachricht ist, dass dasselbe Buch, das Babylon entlarvt, auch verheißt, dass
+verspricht? Die gute Nachricht ist, dass dasselbe Buch, das Babel entlarvt, auch verheißt, dass
 ihr Fall gewiss ist (Offenbarung 18,2) und dass ein Hochzeitsmahl, keine Beerdigung, das ist, worauf
-Gottes Volk letztlich zusteuert (Offenbarung 19,7-9). Babylons Glanz ist nicht das letzte Wort.
+Gottes Volk letztlich zusteuert (Offenbarung 19,7-9). Babels Glanz ist nicht das letzte Wort.
 
 ---
 
@@ -140,7 +140,7 @@ Gottes Volk letztlich zusteuert (Offenbarung 19,7-9). Babylons Glanz ist nicht d
    oder du persönlich, prüfen, ob ein Anschein von Heiligkeit etwas weniger Treues darunter
    verdeckt?
 4. "Geht aus ihr heraus, mein Volk" (Offenbarung 18,4) ist an Gottes eigenes Volk gerichtet,
-   innerhalb Babylons. Wie würde "Herausgehen" für dich diese Woche konkret aussehen, ohne dass du
+   innerhalb Babels. Wie würde "Herausgehen" für dich diese Woche konkret aussehen, ohne dass du
    irgendwohin reisen müsstest?
 
 **Lied-/Gesangsvorschläge:** "Kehr um, o Mensch" (Turn Back, O Man); "O Jesus, du stehst vor der

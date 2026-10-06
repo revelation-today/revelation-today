@@ -62,7 +62,7 @@ zu vertreten – sozial, wirtschaftlich, in der Familie – würdest du trotzdem
 In ganz Lateinamerika zeigt sich diese Frage in mehr als einem Gewand. Manchmal trägt sie das
 Gesicht politischer Macht, die mehr Loyalität verlangt, als irgendeine menschliche Regierung
 verdient. Manchmal – und das wird später in dieser Reihe wieder aufgegriffen, besonders beim
-Material über die Hure Babylon – trägt sie das Gesicht eines Versprechens, dass Gottes Segen
+Material über die Hure Babel – trägt sie das Gesicht eines Versprechens, dass Gottes Segen
 sich hauptsächlich in Geld, Gesundheit und sichtbarem Erfolg zeigt, sodass „Gott vertrauen"
 leise ununterscheidbar wird von „dem nächsten Gehaltsscheck oder dem nächsten Durchbruch
 vertrauen". Nichts davon macht Wohlstand an sich böse, genauso wenig wie Roms Friede und

@@ -29,13 +29,13 @@ When we look at the city's shape, something remarkable appears: it's a cube (Rev
 
 In the New Jerusalem, the entire city is that same shape — meaning the whole city is the Holy of Holies now, and every believer stands equally, fully close to God. The access once reserved for the high priest alone, on pain of death if approached wrongly, is now the ordinary inheritance of every single believer. That is the ultimate reversal of every system, ancient or modern, that ever excluded ordinary people from God's presence, keeping it for an elite few.
 
-## The counterpoint to Babylon
+## The counterpoint to Babel
 
-The New Jerusalem is deliberately drawn as the opposite, point by point, of Babylon the harlot from our earlier session. Babylon's wealth came through exploitation and idolatry; Jerusalem's riches are God's own gift, freely given. Babylon caused suffering; Jerusalem removes it entirely. Babylon collapsed in a single hour, without warning; Jerusalem stands forever, secure. Everything the harlot only pretended to offer — permanence, glory, security — the New Jerusalem actually delivers, without the deception or the cost paid by the vulnerable.
+The New Jerusalem is deliberately drawn as the opposite, point by point, of Babel the harlot from our earlier session. Babel's wealth came through exploitation and idolatry; Jerusalem's riches are God's own gift, freely given. Babel caused suffering; Jerusalem removes it entirely. Babel collapsed in a single hour, without warning; Jerusalem stands forever, secure. Everything the harlot only pretended to offer — permanence, glory, security — the New Jerusalem actually delivers, without the deception or the cost paid by the vulnerable.
 
 ## Every nation, welcomed
 
-"The nations will walk by its light, and the kings of the earth will bring their splendor into it" (Revelation 21:24). This echoes Isaiah's picture of the nations streaming to Jerusalem's light, bringing their wealth in acknowledgment that God's blessing rests there. In both Isaiah and Revelation, what the nations bring is not something they already possessed independently — it is something they now offer back to God, no longer as the currency of Babylon's false economy, but as an act of worship. Israel's calling — beginning with Abraham, promised to bless all nations — finally reaches its completion here: every tribe, tongue, people, and nation gathered, without losing what makes each nation distinctly itself, all now serving the one true God together.
+"The nations will walk by its light, and the kings of the earth will bring their splendor into it" (Revelation 21:24). This echoes Isaiah's picture of the nations streaming to Jerusalem's light, bringing their wealth in acknowledgment that God's blessing rests there. In both Isaiah and Revelation, what the nations bring is not something they already possessed independently — it is something they now offer back to God, no longer as the currency of Babel's false economy, but as an act of worship. Israel's calling — beginning with Abraham, promised to bless all nations — finally reaches its completion here: every tribe, tongue, people, and nation gathered, without losing what makes each nation distinctly itself, all now serving the one true God together.
 
 ## Living water and the tree of life
 
@@ -45,4 +45,4 @@ The chapter closes on a river of life flowing from God's throne, and the tree of
 
 This is where the whole story of Revelation, and indeed the whole story of Scripture, has been heading: not escape from the world, but the world itself, and God's people within it, finally and fully made new. Every tear wiped away personally. Every barrier between us and God's presence removed. Every nation gathered, distinct and honored, worshiping together. This is our actual eternal home — not a vague, distant idea, but a specific, promised reality, described in careful, deliberate detail because God wants us to hold onto it.
 
-What griefs are you carrying that you can trust God to personally address in that day? What would it change about how you live now, to remember that this — not Babylon's glamor, not any earthly system's promises — is your real and permanent home?
+What griefs are you carrying that you can trust God to personally address in that day? What would it change about how you live now, to remember that this — not Babel's glamor, not any earthly system's promises — is your real and permanent home?

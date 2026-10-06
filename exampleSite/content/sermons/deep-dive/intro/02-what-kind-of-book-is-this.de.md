@@ -68,7 +68,7 @@ eine politische Karikatur. Man nimmt nicht an, dass der Drache der Karikatur buc
 existiert oder dass ihre überzeichneten Figuren ein Foto der Realität sind — man versteht die
 Pointe sofort, durch Symbole, ohne jedes Bild wörtlich nehmen zu müssen. Die Offenbarung
 funktioniert genauso: Sie ist vollständig aus „Entweder-Oder"-Paaren aufgebaut (Lamm gegen Drache,
-Jerusalem gegen Babylon, das Siegel Gottes gegen das Malzeichen des Tieres), die den Leser zwingen,
+Jerusalem gegen Babel, das Siegel Gottes gegen das Malzeichen des Tieres), die den Leser zwingen,
 Partei zu ergreifen.
 
 **Was das Buch nicht ist,** um es klar zu sagen: Es ist keine schlichte Nachrichtensendung

@@ -34,12 +34,12 @@ Und tatsächlich erreichen sie keines ihrer beiden Ziele — es geschieht genau 
 <a name="644d"></a>
 Als Israel ins babylonische Exil zog, vermerkt der Text, dass dieses Babel im Land Schinar lag — genau dort, wo einst der ursprüngliche Turm gebaut worden war. Dieses Detail verknüpft die beiden Geschichten miteinander.
 
-Stolz ist ein gemeinsames Motiv zwischen ihnen, ebenso die Tatsache, dass Gott die Existenz beider Reiche verkürzte. Daniels Babylon bestand weniger als 100 Jahre, bevor es von Kyrus besiegt wurde, den Gott genau zu diesem Zweck berufen hatte.
+Stolz ist ein gemeinsames Motiv zwischen ihnen, ebenso die Tatsache, dass Gott die Existenz beider Reiche verkürzte. Daniels Babel bestand weniger als 100 Jahre, bevor es von Kyrus besiegt wurde, den Gott genau zu diesem Zweck berufen hatte.
 
 ## Babel im Buch der Offenbarung
 
 <a name="d54a"></a>
-Im Buch der Offenbarung ist Babylon ebenso eng mit dem Babylon Daniels verbunden und teilt dieselben Schlüsselmerkmale:
+Im Buch der Offenbarung ist Babel ebenso eng mit dem Babel Daniels verbunden und teilt dieselben Schlüsselmerkmale:
 
 - das Motiv des Stolzes
 - einen raschen Fall
