@@ -102,7 +102,7 @@ Ketujuh tahun itu berakhir pada tahun 34, tahun {{% bible val="ketika Stefanus d
 
 Inilah saat gereja mulai mengikuti Yesus secara penuh — perjanjian baru itu kini benar-benar aktif.
 
-![](/images/70years_en.jpg)
+![Ketujuh puluh minggu: hitungan dengan dua jedanya, dan minggu terakhir yang diisi tiga kali — pada Antiokhus IV, pada minggu Yesus, dan pada perang Yahudi 66–73 M](/images/seventy-weeks.id.svg)
 
 [^weeks]: Para pembaca dispensasional menempatkan minggu terakhir di masa depan, setelah jeda dua ribu tahun, sehingga 69 minggu berakhir pada kedatangan pertama Kristus dan minggu ketujuh puluh menjadi milik seorang Antikristus yang akan datang.
 [^antiochus]: Goldingay, *Daniel* (WBC 30, rev.), hlm. 487–490, memaparkan pembacaan ini: yang diurapi yang disingkirkan adalah Onias III, disingkirkan ketika Antiokhus naik takhta pada 175 SM dan dibunuh pada 171 SM (2 Makabe 4:33–34); perjanjian "dengan banyak orang" adalah kesepakatan antara pihak pembaru di Yerusalem dan raja itu; kekejian itu adalah altar tahun 167 SM. Mengenai 1 Makabe 1:54 sebagai pembacaan tertua atas frasa Daniel: Goldingay hlm. 482, mengutip J. J. Collins, *Daniel*, hlm. 357. Untuk tanggal pencemaran dan pentahbisan kembali, lihat {{% int_link val="Kitab Daniel" link="/expl/bible/daniel/the-book-of-daniel" %}}.

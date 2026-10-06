@@ -101,7 +101,7 @@ The seven years end in the year 34, the year {{% bible val="Stephen is presumabl
 
 This is the moment the church begins to follow Jesus in full — the new covenant is now genuinely active.
 
-![](/images/70years_en.jpg)
+![The seventy weeks: the count with its two pauses, and the last week filled three times — under Antiochus IV, in the week of Jesus, and in the Jewish war of AD 66-73](/images/seventy-weeks.en.svg)
 
 [^weeks]: Dispensational readers place the last week in the future, after a gap of two thousand years, so that the sixty-nine weeks end at Christ's first coming and the seventieth belongs to a coming Antichrist.
 [^antiochus]: Goldingay, *Daniel* (WBC 30, rev.), pp. 487–490, sets out this reading: the anointed one cut off is Onias III, displaced when Antiochus came to the throne in 175 BC and killed in 171 BC (2 Macc 4:33–34); the covenant "with many" is the agreement between the reforming party in Jerusalem and the king; the abomination is the altar of 167 BC. On 1 Macc 1:54 as the earliest reading of Daniel's phrase, Goldingay p. 482, citing J. J. Collins, *Daniel*, p. 357. For the dates of the desecration and the rededication see {{% int_link val="The book of Daniel" link="/expl/bible/daniel/the-book-of-daniel" %}}.

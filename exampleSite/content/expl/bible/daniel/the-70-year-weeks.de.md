@@ -104,7 +104,7 @@ Die sieben Jahre enden im Jahr 34, dem Jahr, in dem {{% bible val="vermutlich St
 
 Das ist der Moment, in dem die Gemeinde beginnt, Jesus in vollem Umfang nachzufolgen — der neue Bund ist nun wirklich aktiv.
 
-![](/images/70years_de.jpg)
+![Die siebzig Wochen: die Zählung mit ihren zwei Pausen und die letzte Woche, dreimal gefüllt — unter Antiochus IV., in der Woche Jesu und im jüdischen Krieg 66–73 n. Chr.](/images/seventy-weeks.de.svg)
 
 [^weeks]: Dispensationalistische Ausleger verlegen die letzte Woche in die Zukunft, nach einer Lücke von zweitausend Jahren, sodass die 69 Wochen beim ersten Kommen Christi enden und die siebzigste einem kommenden Antichristen gehört.
 [^antiochus]: Goldingay, *Daniel* (WBC 30, rev.), S. 487–490, legt diese Lesart dar: Der ausgerottete Gesalbte ist Onias III., verdrängt beim Thronantritt des Antiochus 175 v. Chr. und 171 v. Chr. getötet (2. Makk 4,33–34); der Bund „mit vielen“ ist die Abmachung zwischen der Reformpartei in Jerusalem und dem König; der Gräuel ist der Altar von 167 v. Chr. Zu 1. Makk 1,54 als früheste Auslegung von Daniels Formulierung: Goldingay S. 482, mit J. J. Collins, *Daniel*, S. 357. Zu den Daten von Entweihung und Neuweihe siehe {{% int_link val="Das Buch Daniel" link="/expl/bible/daniel/the-book-of-daniel" %}}.

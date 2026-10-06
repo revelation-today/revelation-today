@@ -102,7 +102,7 @@ Yedi yıl, İsrail'i antlaşmayı terk etmekle suçlayan bir konuşmanın ardın
 
 Bu, kilisenin İsa'yı tam anlamıyla izlemeye başladığı andır — yeni antlaşma artık gerçekten yürürlüktedir.
 
-![](/images/70years_tr.jpg)
+![Yetmiş hafta: iki duraklamalı sayım ve üç kez doldurulan son hafta — IV. Antiohos döneminde, İsa’nın haftasında ve MS 66–73 Yahudi savaşında](/images/seventy-weeks.tr.svg)
 
 [^weeks]: Dispensasyonalist okurlar son haftayı iki bin yıllık bir aradan sonra geleceğe yerleştirir; böylece 69 hafta Mesih'in ilk gelişinde biter ve yetmişinci hafta gelecek bir Deccal'e ait olur.
 [^antiochus]: Goldingay, *Daniel* (WBC 30, gözden geçirilmiş), s. 487–490, bu okumayı ortaya koyar: öldürülen meshedilmiş, Antiohos MÖ 175'te tahta çıktığında görevinden alınan ve MÖ 171'de öldürülen III. Onias'tır (2. Makkabiler 4:33–34); "birçoklarıyla" yapılan antlaşma, Yeruşalim'deki reformcu taraf ile kral arasındaki anlaşmadır; iğrenç şey MÖ 167'nin sunağıdır. Daniel'in ifadesinin en eski yorumu olarak 1. Makkabiler 1:54 için: Goldingay s. 482, J. J. Collins, *Daniel*, s. 357'den. Kirletme ve yeniden adama tarihleri için bkz. {{% int_link val="Daniel kitabı" link="/expl/bible/daniel/the-book-of-daniel" %}}.
