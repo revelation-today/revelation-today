@@ -36,7 +36,7 @@ ayıramayacak" bir şey (Romalılar 8:35-36). Pavlus, Timoteos'u bunu beklemesi 
 (2. Timoteos 3:12), ve Petrus bunu doğrudan acı çeken kiliselere hitaben ele alır (1. Petrus
 4:12-13). Ekonomik biçim alabilir (Smyrna'da olduğu gibi, ya da üçüncü atlının adaletsiz kıtlık
 fiyatlandırması) ya da doğrudan zulüm — hapis, hatta ölüm (Smyrna'ya 2:10'da vaat edildiği gibi).
-Kaynak materyalin çizdiği bağlantı ipliği: Daniel 12:1, İsrail'in koruyucusu Mikail'in
+Bağlantı ipliği şudur: Daniel 12:1, İsrail'in koruyucusu Mikail'in
 "ortaya çıkacağını" söyler — ve Vahiy 12, tam olarak bunu gösterir, Mikail ejderhayı yenip
 gökten atarken (12:7-9). Yere atılmış ama yok edilmemiş ejderha, "vaktinin kısa olduğunu" bilir
 ve elinde kalan her şeyle önce İsrail'e (12:13-17), sonra kilisenin kendisine (13. bölüm) saldırır.
@@ -51,8 +51,8 @@ belirli, gelecekteki, yoğunlaştırılmış bir döneme (genellikle yedi yıl) 
 olmakta fayda var: "sıkıntı Yeni Antlaşma'nın tamamında, birçok kitapta, süregelen acıyı
 tanımlayarak bahsedilir" (doğru, ve yukarıda iyi belgelenmiş) düşüncesinden "bu yüzden Daniel
 12'de temellenen belirli bir terim olan *Büyük* Sıkıntı, ayrı bir doruk döneme değil, tüm kilise
-çağına atıfta bulunur" düşüncesine geçiş, kaynak materyalin tam olarak savunduğundan daha büyük
-bir çıkarımsal sıçramadır. Daniel ve Vahiy'in birçok dikkatli yorumcusu, "Büyük Sıkıntı"yı tüm
+çağına atıfta bulunur" düşüncesine geçiş, yukarıda sayılan metinlerin kendi başına verdiğinden
+daha büyük bir çıkarımsal sıçramadır. Daniel ve Vahiy'in birçok dikkatli yorumcusu, "Büyük Sıkıntı"yı tüm
 Hristiyan acısıyla iki bin yıl boyunca eş kapsamlı görmek yerine, benzersiz derecede yoğun, son
 bir döneme ayırır — bu, metinden kaçınmak için uydurulmuş marjinal bir konum değil, gerçek, ciddi
 bir alternatif okumadır. "Tüm kilise çağı" okumasının en güçlü metinsel dayanakları, Daniel 12:1 ve
@@ -77,8 +77,8 @@ vaadi geçerlidir.
 1. "Büyük Sıkıntı" hakkındaki kendi zihinsel tablonuz aslında nereden geldi — doğrudan Kutsal
    Kitap çalışmasından mı, yoksa popüler öğreti, kurgu ya da medyadan mı? Bunu Daniel 12'ye ve
    Yeni Antlaşma yankılarına geri izlemek bu tabloyu nasıl değiştiriyor?
-2. Kaynak materyal, "sıkıntı yaygın bir Yeni Antlaşma temasıdır" düşüncesinden "bu yüzden
-   Daniel'in Büyük Sıkıntı'sı bu demektir" düşüncesine geçiyor. Bu savı tam olarak ikna edici
+2. Sav, "sıkıntı yaygın bir Yeni Antlaşma temasıdır" düşüncesinden "bu yüzden
+   Daniel'in Büyük Sıkıntı'sı bu demektir" düşüncesine geçiyor. Bunu tam olarak ikna edici
    buluyor musunuz, yoksa daha fazla desteğe mi ihtiyacı var? Daha dikkatli tartışılmasını
    istediğiniz ne olurdu?
 3. Sıkıntı, Mesih'in ilk gelişinden beri kilisenin zaten yaşadığı bir şeyse — sadece gelecekteki

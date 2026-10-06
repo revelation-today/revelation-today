@@ -57,7 +57,7 @@ dolaştı. Vahiy'in sayıları da aynı şekilde işler:
   borazan, yedi tas ve "her oymak, dil, halk ve ulus" ifadesi (yedi kez geçer), hepsi gerçek bir
   sayımdan çok bütünlüğü tanımlar.
 - **Dört** evrenselliği işaret eder — dört rüzgar, yeryüzünün dört köşesi, yaratılışın dörtlü
-  bölünmesi (gök, yer, deniz, denizin altı) hepsi birlikte Tanrı'ya övgü sunar.
+  bölünmesi (gök, yer, yerin altı, deniz) hepsi birlikte Tanrı'ya övgü sunar.
 - **On iki** çeşitlilik içinde birlikle eşleşen tamlığı işaret eder, on iki kabileye ve on iki
   elçiye köklenir — 144.000 için karesi alınıp bine katlanır (Bölüm 5'teki bir oturum) ve Yeni
   Yeruşalim'in tanımında yalnız başına on iki kez geçer.

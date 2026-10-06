@@ -31,7 +31,7 @@ Beachten Sie auch, wie die "Könige der Erde" und "Kaufleute der Erde" reagieren
 
 Es lohnt sich, ehrlich damit umzugehen, wie natürlich diese Lesart zu den bestehenden Instinkten dieses Publikums passt: "Babel" mit ungerechten Systemen von Imperium, Ausbeutung und wirtschaftlicher Ausnutzung zu identifizieren, ist keine Überdehnung, die wir dem Text auferlegen — es ist das, was der Text selbst, in seinem eigenen Kontext des ersten Jahrhunderts gelesen, tut. Die Versuchung besteht jedoch darin, dort stehenzubleiben, zufrieden mit einer rein strukturellen Kritik, die sicher nach außen auf "das System" zielt, ohne je die andere, schwerere Frage der Passage näher an uns heranzulassen.
 
-## Die Frage, auf der das Ausgangsmaterial besteht
+## Die Frage, auf der der Text besteht
 
 Denn hier ist, was die Passage uns nicht zu vermeiden erlaubt: Babel wird nie mit perfekt scharfen, festen Rändern beschrieben, ein für alle Mal identifizierbar und abgelegt. Diese Unschärfe wirkt wie eine Schwäche im Text, bis man bemerkt, dass sie absichtlich ist — genau damit jeder Leser, in jeder Generation, gezwungen ist, dieselbe unbequeme Frage über sich selbst zu stellen, statt die Sache ein für alle Mal, sicher, über jemand anderen zu klären. Könnte die Gemeinde selbst Teil Babels werden? Nicht bloß "könnte ein äußeres, ungerechtes System da draußen Babel ähneln" — sondern könnten unsere eigenen Gemeinden, unsere eigenen wirtschaftlichen Entscheidungen, unsere eigenen bequemen Arrangements sich still in sie hineinbewegt haben?
 

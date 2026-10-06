@@ -54,9 +54,9 @@ vurguluyor; *angelos* sözcüğü "haberci" anlamına gelir ve kiliseye Tanrı'n
 amacını hatırlatır; ve bu, kilisenin bu işi kendi gücüyle yapamayacağını işaret eder — 1. bölümdeki
 "tahtın önündeki yedi ruh"tan gelen Kutsal Ruh'un yardımına ihtiyacı vardır.
 
-**Adlandırılmaya değer canlı bir soru.** Kaynak materyaldeki destekleyici argümanlardan biri —
-"melekler" sözcüğünün "belirli tanımlık olmadan geçtiği, bunun Yahudi ya da erken Hristiyan
-edebiyatı için sıra dışı olduğu" iddiası — göründüğünden daha zayıf çıkıyor. Koine Yunancasında,
+**Karşılaşabileceğiniz zayıf bir argüman.** Zaman zaman, "melekler" sözcüğünün burada "belirli
+tanımlık olmadan geçtiği, bunun Yahudi ya da erken Hristiyan
+edebiyatı için sıra dışı olduğu" ileri sürülür. Bu argüman göründüğünden daha zayıftır. Koine Yunancasında,
 bu tür hitap kalıplarında edatlardan sonra tanımlığın düşmesi yaygındır ve tek başına açıkça
 anlamlı değildir. Bu, genel davayı bozmaz (yukarıdaki diğer dört gözlem gerçek ağırlık taşır),
 ama bu belirli noktaya sanki belirleyiciymiş gibi dayanmamaya değer. Bu, sağlam sonuçların bile

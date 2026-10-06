@@ -56,11 +56,12 @@ Warnung; das arme, verfolgte Smyrna erhält keine.
 
 ## Ein Hinweis zum historischen Hintergrund
 
-Das Quellmaterial datiert Smyrnas kaiserlichen Tempel auf 20 n. Chr. Das besser dokumentierte
-Datum ist 26 n. Chr. — das Jahr, in dem Smyrna einen Wettbewerb unter elf Städten Asiens um das
-Recht gewann, einen Tempel für Tiberius, seine Mutter Livia und den römischen Senat zu bauen
-(überliefert vom Historiker Tacitus). Der Bau folgte danach. Der Punkt bleibt bestehen (Smyrna
-war ein echtes Zentrum des Kaiserkults), nur das Datum muss korrigiert werden.
+Smyrnas kaiserlicher Tempel geht auf 26 n. Chr. zurück — das Jahr, in dem Smyrna einen Wettbewerb
+unter elf Städten Asiens um das
+Recht gewann, einen Tempel für Tiberius, seine Mutter Livia und den römischen Senat zu bauen;
+der Historiker Tacitus überliefert den Wettstreit, der Bau folgte danach. Smyrna
+war ein echtes Zentrum des Kaiserkults, und genau deshalb war „der Teufel wird einige von euch ins
+Gefängnis werfen" dort keine Redewendung.
 
 ## Eine lebendige Frage, die es wert ist, benannt zu werden
 

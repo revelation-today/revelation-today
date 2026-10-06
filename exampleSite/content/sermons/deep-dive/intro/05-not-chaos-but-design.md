@@ -56,7 +56,7 @@ numbers work the same way:
   seven seals, seven trumpets, seven bowls, and the phrase "every tribe, tongue, people, and
   nation" (occurring seven times) all describe totality rather than a literal headcount.
 - **Four** signals universality — the four winds, four corners of the earth, the fourfold
-  division of creation (heaven, earth, sea, under the sea) all praising God together.
+  division of creation (heaven, earth, under the earth, sea) all praising God together.
 - **Twelve** signals completeness paired with unity in diversity, rooted in the twelve tribes and
   twelve apostles — squared and multiplied by a thousand for the 144,000 (session in Part 5), and
   appearing twelve times in the description of the New Jerusalem alone.

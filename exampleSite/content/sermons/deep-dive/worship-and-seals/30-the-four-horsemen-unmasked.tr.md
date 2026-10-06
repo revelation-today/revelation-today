@@ -37,7 +37,7 @@ atın binicisi olarak gösterir (19:11) ve O'nu yeryüzünü orakla biçerken re
 kitabın başka yerlerinde tutarlı biçimde olumlu bir renktir. Ve bu binici, diğer üçünden farklı
 olarak, açıkça yıkıcı bir şey yaparken gösterilmez; sadece "fetheder."
 
-**Karşı sav**, kaynak makalenin sonuçta daha ikna edici bulduğu: Tanrı, yayı özellikle Gog ve
+**Karşı sav**, bu dizinin daha ikna edici bulduğu: Tanrı, yayı özellikle Gog ve
 Magog'dan, son zaman düşmanından alır, Hezekiel 39:3'te — bu da yayın kendisini Tanrı'nın
 müttefikinin değil, düşmanının silahı olarak işaretler. Vahiy'de taçlar da yalnızca olumlu
 değildir — 9. bölümün iblis çekirgeleri de taç takar. "Fetheden" dili başka yerlerde tanrısız
@@ -46,8 +46,8 @@ yapısal olarak: Zekeriya'nın dört atı tek bir birim olarak işlev görür, v
 borusu ve ilk dört tası da her biri bir birim olarak işlev görür — bu da dört atlıyı, ilkini
 diğer üçünden ayırmak yerine, bir birim olarak okumayı daha doğal kılar.
 
-**Üzerinde durulmaya değer canlı bir soru.** Kaynak materyalin kendi mantığı burada kabul
-edilmekten çok incelenmeye değer. "Bu dörtlü gruplar tek bir ahlaki birim olmalı" savı,
+**Üzerinde durulmaya değer canlı bir soru.** Bu savdaki bir argüman göründüğünden zayıftır ve
+kabul edilmekten çok incelenmeye değer. "Bu dörtlü gruplar tek bir ahlaki birim olmalı" savı,
 aslında başka yerlerde gözlemlenen yapısal bir kalıptır, ama sanki soruyu çözüyormuş gibi ele
 alınıyor — oysa edebi birimler, tekdüze setler kadar kolayca zıtlıkları da (bereket ve lanet,
 ışık ve karanlık) yan yana koyabilir. Bu sav tek başına kesin kabul edilmemeli. Daha güçlü kanıt
@@ -71,8 +71,7 @@ aldatma seyrini tamamlamış ve gerçek, yıkıcı doğası açığa çıkmışt
    olarak mı? Bu oturum görüşünüzü değiştirdi mi, ve öyleyse neyle?
 2. Mesih'in kendi zaferinin bir taklidi, açıkça kötü bir tehditten neden daha tehlikeli bir
    aldatma biçimi olabilir?
-3. Kaynak materyalin "bunlar tek bir birim oluşturmalı" savı, kanıtın tam olarak desteklediğinden
-   daha kendinden emin biçimde sunuluyor — İsa'nın Zeytin Dağı Söylevi'yle (Markos 13, Matta 24,
+3. "Bunlar tek bir birim oluşturmalı" savı, olduğundan daha belirleyici duyuluyor — İsa'nın Zeytin Dağı Söylevi'yle (Markos 13, Matta 24,
    Luka 21) olan paralellik daha güçlü bir sav. Bu, Kutsal Kitap'ı kendiniz incelerken farklı
    türde savları tartmak konusunda size ne öğretiyor?
 4. Eğer ilk atlı iyi haber kılığına girmiş aldatmayı temsil ediyorsa, bu, çevrenizdeki dünyada

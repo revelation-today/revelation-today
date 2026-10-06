@@ -68,14 +68,13 @@ terlihat baik-baik saja.
 
 ## Catatan tentang Latar Belakang Sejarah
 
-Artikel sumber menyatakan orang Yahudi di Efesus "memegang kewarganegaraan penuh Efesus." Itu
-melebih-lebihkan catatan sejarah — dekrit-dekrit Romawi (dicatat oleh Yosefus) melindungi
-komunitas Yahudi besar di Efesus dengan hak-hak hukum tertentu (pengamatan Sabat, pembebasan dari
-kewajiban sipil tertentu, kendali atas dana komunal), namun kewarganegaraan sipil Yunani penuh,
-yang mensyaratkan partisipasi dalam kehidupan keagamaan sipil yang dihindari oleh orang Yahudi
-yang taat, umumnya tidak diberikan. Gambaran yang lebih akurat adalah komunitas diaspora yang
-besar dan dilindungi secara hukum, bukan kewarganegaraan penuh — sebuah koreksi kecil, namun layak
-diketahui jika kamu ingin menyajikan sejarahnya secara akurat.
+Efesus memiliki komunitas Yahudi yang besar, dan dekrit-dekrit Romawi yang dicatat Yosefus
+melindunginya dengan hak-hak hukum tertentu: pengamatan Sabat, pembebasan dari
+kewajiban sipil tertentu, kendali atas dana komunal. Kewarganegaraan sipil Yunani penuh adalah hal
+yang berbeda, dan umumnya tidak diberikan, karena menuntut keikutsertaan dalam kehidupan keagamaan
+sipil yang dihindari orang Yahudi yang taat. Berikan kepada kelompok Anda gambaran yang akurat —
+komunitas diaspora yang besar dan dilindungi secara hukum, bukan warga negara penuh — dan tekanan
+yang digambarkan surat ini menjadi lebih terasa.
 
 ## Pertanyaan Diskusi
 

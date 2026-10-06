@@ -69,12 +69,11 @@ keluar sebelum dimulai.
 
 ## Sebuah Catatan tentang Kutipan
 
-Salah satu kutipan pendukung dalam artikel sumber (Amsal 7:5, dipasangkan dengan Yakobus 1:27)
-sebenarnya tidak terhubung dengan argumen ini — Amsal 7:5 adalah sastra hikmat Ibrani tentang
-menghindari godaan seksual dan hanya berbagi tumpang tindih terjemahan bahasa Inggris dalam kata-
-katanya, bukan kaitan eksegetis yang sesungguhnya. Yakobus 1:27 ("menjaga dirinya sendiri supaya
-tidak dicemarkan oleh dunia") adalah kutipan yang sungguh-sungguh mendukung bacaan "dilindungi di
-dalam, bukan diangkat keluar dari," dan berdiri baik dengan sendirinya.
+Ayat yang menopang hal ini adalah Yakobus 1:27, "menjaga dirinya sendiri supaya tidak dicemarkan
+oleh dunia" — dilindungi di dalam dunia, bukan diangkat keluar darinya. Amsal 7:5 kadang dikutip
+bersamanya, tetapi itu adalah sastra hikmat Ibrani tentang
+menghindari godaan seksual; tumpang tindihnya ada pada terjemahan, bukan pada argumennya.
+Yakobus 1:27 berdiri cukup baik dengan sendirinya.
 
 ## Sebuah Pertanyaan Hidup yang Layak Disebutkan
 

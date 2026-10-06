@@ -59,7 +59,7 @@ setelah empat puluh hari ketidakpercayaan. Angka-angka dalam Wahyu bekerja denga
   meterai, tujuh sangkakala, tujuh cawan, dan frasa "setiap suku, bahasa, kaum, dan bangsa"
   (muncul tujuh kali) semuanya menggambarkan totalitas, bukan sekadar hitungan kepala harfiah.
 - **Empat** menandakan universalitas — empat angin, empat penjuru bumi, pembagian ciptaan yang
-  berjumlah empat (surga, bumi, laut, di bawah laut) yang semuanya memuji Allah bersama-sama.
+  berjumlah empat (surga, bumi, di bawah bumi, laut) yang semuanya memuji Allah bersama-sama.
 - **Dua belas** menandakan kelengkapan yang dipasangkan dengan kesatuan dalam keberagaman, berakar
   pada dua belas suku dan dua belas rasul — dikuadratkan dan dikalikan seribu untuk 144.000 (sesi
   di Bagian 5), dan muncul dua belas kali hanya dalam uraian tentang Yerusalem Baru saja.

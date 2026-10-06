@@ -39,8 +39,8 @@ sesungguhnya di dalam jemaat yang melakukan hal yang sama — mengajar orang per
 memiliki wawasan khusus tentang "rahasia-rahasia Iblis yang mendalam" (2:24).
 
 **Mengapa ini berbeda dari Pergamus.** Sepintas, Tiatira tampak seperti pengulangan masalah
-Pergamus — ajaran yang berkompromi yang mengakar. Namun artikel sumber menarik perbedaan yang
-lebih tajam: di Pergamus, kepemimpinan yang lemah *membiarkan* ajaran yang merusak itu masuk. Di
+Pergamus — ajaran yang berkompromi yang mengakar. Namun ada perbedaan yang
+lebih tajam untuk ditarik: di Pergamus, kepemimpinan yang lemah *membiarkan* ajaran yang merusak itu masuk. Di
 Tiatira, kerusakan itu sendiri *adalah* kepemimpinan. Ini bukan kegagalan menjaga garis; ini garis
 itu sendiri yang ditarik di tempat yang salah oleh orang yang justru dipercayakan untuk
 menariknya.

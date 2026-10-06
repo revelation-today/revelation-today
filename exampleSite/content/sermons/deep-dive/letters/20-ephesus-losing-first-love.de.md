@@ -68,14 +68,13 @@ während jeder andere Maßstab gut aussieht.
 
 ## Ein Hinweis zum historischen Hintergrund
 
-Der Quellartikel behauptet, ephesinische Juden „besaßen das volle ephesinische Bürgerrecht". Das
-überzeichnet den historischen Befund — römische Erlasse (von Josephus überliefert) schützten
-Ephesus' große jüdische Gemeinde mit bestimmten rechtlichen Privilegien (Sabbatbeobachtung,
-Befreiung von bestimmten bürgerlichen Pflichten, Kontrolle über Gemeinschaftsgelder), aber das
-volle griechische Bürgerrecht, das die Teilnahme am bürgerlichen religiösen Leben erforderte, das
-gläubige Juden mieden, wurde im Allgemeinen nicht gewährt. Das genauere Bild ist eine große,
-rechtlich geschützte Diaspora-Gemeinschaft, kein volles Bürgerrecht — eine kleine Korrektur, aber
-gut zu wissen, wenn ihr die Geschichte genau wiedergeben wollt.
+Ephesus hatte eine große jüdische Gemeinde, und römische Erlasse, die Josephus überliefert,
+schützten sie mit bestimmten rechtlichen Privilegien: Sabbatbeobachtung,
+Befreiung von bestimmten bürgerlichen Pflichten, Kontrolle über Gemeinschaftsgelder. Das
+volle griechische Bürgerrecht war etwas anderes und wurde im Allgemeinen nicht gewährt, denn es
+erforderte die Teilnahme am bürgerlichen religiösen Leben, das gläubige Juden mieden. Gebt der
+Gruppe das genauere Bild — eine große, rechtlich geschützte Diaspora-Gemeinschaft statt Bürger —,
+dann wird der Druck, den der Brief beschreibt, besser spürbar. Wenn ihr die Geschichte genau wiedergeben wollt.
 
 ## Gesprächsfragen
 

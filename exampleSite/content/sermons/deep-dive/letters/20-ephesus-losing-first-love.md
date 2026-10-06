@@ -35,7 +35,7 @@ Lose the love, and the witness goes cold with it — even while all the machiner
 
 ## A note on historical background
 
-The source article states Ephesian Jews "held full Ephesian citizenship." That overstates the historical record — Roman decrees (recorded by Josephus) protected Ephesus's large Jewish community with specific legal privileges (Sabbath observance, exemption from certain civic duties, control of communal funds), but full Greek civic citizenship, which required participation in civic religious life that observant Jews avoided, was generally not granted. The more accurate picture is a large, legally-protected diaspora community, not full citizenship — a small correction, but worth knowing if you want to represent the history accurately.
+Ephesus had a large Jewish community, and Roman decrees recorded by Josephus protected it with specific legal privileges: Sabbath observance, exemption from certain civic duties, control of communal funds. Full Greek civic citizenship is a different thing, and it was generally not granted, because it required taking part in civic religious life that observant Jews avoided. Give the group the accurate picture — a large, legally protected diaspora community rather than citizens — and the pressure the letter describes becomes easier to feel.
 
 ## Discussion questions
 

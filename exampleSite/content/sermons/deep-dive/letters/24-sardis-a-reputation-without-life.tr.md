@@ -51,12 +51,11 @@ az yaşam da sönmeden önce, ölmekte olan bir kiliseye bir uyandırma çağrı
 
 ## Tarihsel Arka Plan Üzerine Bir Not
 
-Kaynak makale, Sart'ı harap eden depremi "MÖ 17" olarak tarihlendiriyor. Görülen tarihsel olay —
-Romalı tarihçi Tacitus tarafından kaydedilmiştir — aslında İmparator Tiberius döneminde, MÖ 17
-değil **MS 17**'de gerçekleşti. Tiberius kentin yeniden inşasını finanse etti ve önemli vergi
-indirimleri sağladı; Sart daha sonra onu bir tapınakla onurlandırmak için başvurdu. İmparator
-himayesiyle ilgili nokta geçerliliğini koruyor; yalnızca tarihin düzeltilmesi gerekiyor (MÖ'den
-MS'ye).
+Sart'ı harap eden deprem İmparator Tiberius döneminde, **MS 17**'de gerçekleşti; Romalı tarihçi
+Tacitus bunu kaydeder ve bu tarih kolayca MÖ 17 diye yazılabiliyor.
+Tiberius kentin yeniden inşasını finanse etti ve önemli vergi
+indirimleri sağladı; Sart daha sonra onu bir tapınakla onurlandırmak için başvurdu. Mektubun
+arkasındaki imparator himayesi budur: ikinci hayatını Sezar'a borçlu bir kent.
 
 ## Tartışma Soruları
 

@@ -31,7 +31,7 @@ John himself writes from exile on Patmos, "your brother and partner in the tribu
 
 ## Where this lands for us — beyond the easy target
 
-This audience tends to be quick, and rightly so, to apply this material outward: to critique unjust systems, nationalism, empire, the machinery of power that produces prosperity for some at the expense of others. That instinct is good and it's exactly the direction the source material itself points. But Revelation's real target was never merely "the system out there" — it was the individual Christian's own loyalty, tested in ordinary daily choices. The pointed question underneath the whole Pax Romana passage isn't only "what unjust systems do you see?" It's "who do you actually credit for the good life you enjoy, and what does that credit quietly demand of you?"
+This audience tends to be quick, and rightly so, to apply this material outward: to critique unjust systems, nationalism, empire, the machinery of power that produces prosperity for some at the expense of others. That instinct is good, and it is exactly the direction the text itself points. But Revelation's real target was never merely "the system out there" — it was the individual Christian's own loyalty, tested in ordinary daily choices. The pointed question underneath the whole Pax Romana passage isn't only "what unjust systems do you see?" It's "who do you actually credit for the good life you enjoy, and what does that credit quietly demand of you?"
 
 That's a harder question to ask of ourselves than of Rome. A few contemporary versions worth sitting with:
 
@@ -40,7 +40,7 @@ That's a harder question to ask of ourselves than of Rome. A few contemporary ve
 - **National identity as faith.** When "what makes my country great" gets fused tightly enough with "what my faith requires," it becomes genuinely hard to tell which one we're actually serving.
 - **Comfortable non-commitment.** The old third way is still available: Christian on Sunday, indistinguishable from the prevailing culture the rest of the week, never quite examining whether that's a compromise or just "living in the modern world."
 
-None of this is a claim that comfort, security, or civic participation are themselves evil — the source material doesn't argue that, and neither do we. The question was never "is it good?" It's "whom do you actually trust, and what does that trust cost you to admit?"
+None of this is a claim that comfort, security, or civic participation are themselves evil. Revelation doesn't argue that, and neither do we. The question was never "is it good?" It's "whom do you actually trust, and what does that trust cost you to admit?"
 
 ## The frog in warm water
 

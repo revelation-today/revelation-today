@@ -45,7 +45,7 @@ Ama diğer taraftaki argüman da eşit derecede güçlü, ve nihayetinde daha ik
   Mesih'in zaferini değil.
 - Dört atlı, bu görüntünün arkasında duran Zekeriya'daki dört at ve savaş arabası gibi, tek bir
   birim olarak işlev görür. Ve Vahiy'in kendi içinde, ilk dört boru ve ilk dört kâse de eşleşen
-  gruplar oluşturur. Eğer dördüncü atlı (Ölüm) kötüyse ve dördü, Zekeriya'daki kaynak materyalin
+  gruplar oluşturur. Eğer dördüncü atlı (Ölüm) kötüyse ve dördü, Zekeriya'nın kendi görümünün
   açıkça amaçladığı şekilde birlikte okunmak üzereyse, ilk üçü de neredeyse kesinlikle öyledir.
 - İsa'nın kendi son zaman öğretisi, Matta 24, Markos 13 ve Luka 21'de, her seferinde aynı
   sırayla aynı uyarıyla açılır: aldatılmaya dikkat edin, sonra savaş, sonra kıtlık — tam olarak

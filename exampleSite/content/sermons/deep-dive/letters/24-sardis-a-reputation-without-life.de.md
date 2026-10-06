@@ -56,12 +56,12 @@ wenige verbleibende Leben schwindet.
 
 ## Ein Hinweis zum historischen Hintergrund
 
-Der Quellartikel datiert das Erdbeben, das Sardes verwüstete, auf „17 v. Chr.". Das historische
-Ereignis, das gemeint ist — überliefert vom römischen Historiker Tacitus — geschah tatsächlich
-**17 n. Chr.**, unter Kaiser Tiberius, nicht 17 v. Chr. Tiberius finanzierte den Wiederaufbau der
+Das Erdbeben, das Sardes verwüstete, geschah **17 n. Chr.**, unter Kaiser Tiberius — der römische
+Historiker Tacitus überliefert es, und die Jahreszahl wird leicht versehentlich als 17 v. Chr.
+geschrieben. Tiberius finanzierte den Wiederaufbau der
 Stadt und gewährte erhebliche Steuererleichterungen, und Sardes bat später darum, ihn mit einem
-Tempel zu ehren. Der Punkt über kaiserliche Gönnerschaft bleibt bestehen; nur das Datum muss
-korrigiert werden (v. Chr. zu n. Chr.).
+Tempel zu ehren. Das ist die kaiserliche Gönnerschaft hinter dem Brief: eine Stadt, die Cäsar ihr
+zweites Leben verdankte.
 
 ## Gesprächsfragen
 

@@ -31,7 +31,7 @@ Perhatikan juga, bagaimana "raja-raja dunia" dan "para pedagang dunia" bereaksi 
 
 Layak jujur tentang betapa alaminya pembacaan ini mendarat pada naluri audiens ini yang sudah ada: mengidentifikasi "Babel" dengan sistem-sistem tidak adil dari kekaisaran, ekstraksi, dan eksploitasi ekonomi bukanlah sesuatu yang kita paksakan pada teks — itu adalah apa yang dilakukan teks itu sendiri, jika dibaca dalam konteks abad pertamanya. Godaannya, meskipun demikian, adalah berhenti di situ, puas dengan kritik struktural murni yang ditujukan dengan aman ke luar kepada "sistem itu," tanpa pernah membiarkan pertanyaan lain yang lebih sulit dari bagian ini mendarat lebih dekat ke rumah.
 
-## Pertanyaan yang dituntut materi sumber
+## Pertanyaan yang dituntut nas itu sendiri
 
 Sebab inilah yang tidak akan dibiarkan bagian ini untuk kita hindari: Babel tidak pernah digambarkan dengan batas-batas yang sempurna tajam dan tetap, dapat diidentifikasi sekali dan disimpan. Ketidakjelasan itu terlihat seperti kelemahan dalam teks sampai Anda menyadari itu disengaja — justru agar setiap pembaca, di setiap generasi, dipaksa terus bertanya pertanyaan yang sama tidak nyaman tentang diri mereka sendiri, alih-alih menyelesaikan persoalan itu sekali, dengan aman, tentang orang lain. Bisakah gereja itu sendiri menjadi bagian dari Babel? Bukan sekadar "bisakah sebuah sistem eksternal yang tidak adil di luar sana menyerupai Babel" — tetapi bisakah jemaat-jemaat kita sendiri, pilihan-pilihan ekonomi kita sendiri, pengaturan-pengaturan nyaman kita sendiri, diam-diam telah bergeser ke dalam dirinya?
 

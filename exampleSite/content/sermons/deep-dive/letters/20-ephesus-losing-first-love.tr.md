@@ -59,13 +59,12 @@ kandillik kilisenin kimliği ve çağrısının ta kendisidir. Sevgisini kaybede
 
 ## Tarihsel Arka Plan Üzerine Bir Not
 
-Kaynak makale, Efesli Yahudiler'in "tam Efes vatandaşlığına sahip olduğunu" belirtiyor. Bu, tarihsel
-kaydı abartıyor — Roma kararnameleri (Josephus tarafından kaydedilmiştir) Efes'in büyük Yahudi
-topluluğunu belirli yasal ayrıcalıklarla korudu (Şabat gözetimi, belirli sivil görevlerden muafiyet,
-cemaat fonlarının kontrolü), ama gözlemci Yahudiler'in kaçındığı sivil dinsel yaşama katılım
-gerektiren tam Yunan sivil vatandaşlığı genellikle verilmedi. Daha doğru tablo, tam vatandaşlık
-değil, büyük, yasal olarak korunan bir diaspora topluluğudur — küçük bir düzeltme, ama tarihi
-doğru temsil etmek isterseniz bilmeye değer.
+Efes'in büyük bir Yahudi topluluğu vardı ve Josephus'un kaydettiği Roma kararnameleri bu
+topluluğu belirli yasal ayrıcalıklarla korudu: Şabat gözetimi, belirli sivil görevlerden muafiyet,
+cemaat fonlarının kontrolü. Tam Yunan sivil vatandaşlığı ise başka bir şeydir ve genellikle
+verilmedi; çünkü gözlemci Yahudiler'in kaçındığı sivil dinsel yaşama katılmayı gerektiriyordu.
+Gruba doğru tabloyu verin — tam vatandaşlar değil, büyük ve yasal olarak korunan bir diaspora
+topluluğu — o zaman mektubun anlattığı baskı daha iyi hissedilir.
 
 ## Tartışma Soruları
 

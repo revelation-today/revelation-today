@@ -51,11 +51,12 @@ gören İzmir hiçbir uyarı almıyor.
 
 ## Tarihsel Arka Plan Üzerine Bir Not
 
-Kaynak materyal, İzmir'in imparator tapınağını MS 20'ye tarihlendiriyor. Daha iyi belgelenmiş
-tarih MS 26'dır — İzmir'in, Tiberius'a, annesi Livia'ya ve Roma Senatosu'na tapınak inşa etme
-hakkı için Asya'nın on bir kenti arasında bir yarışmayı kazandığı yıl (tarihçi Tacitus tarafından
-kaydedilmiştir). İnşaat bunun ardından gerçekleşti. Nokta geçerliliğini koruyor (İzmir gerçek bir
-imparator tapınması merkeziydi), yalnızca tarih düzeltilmiş oluyor.
+İzmir'in imparator tapınağı MS 26'ya dayanır: İzmir'in, Tiberius'a, annesi Livia'ya ve Roma
+Senatosu'na tapınak inşa etme
+hakkı için Asya'nın on bir kenti arasında bir yarışmayı kazandığı yıl. Tarihçi Tacitus bu
+yarışmayı kaydeder; inşaat bunun ardından gerçekleşti. İzmir gerçek bir
+imparator tapınması merkeziydi ve tam da bu yüzden "İblis bazılarınızı hapse attıracak" sözü orada
+bir mecaz değildi.
 
 ## Adlandırılmaya Değer Canlı Bir Soru
 

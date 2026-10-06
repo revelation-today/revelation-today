@@ -51,7 +51,7 @@ ele alınacaktır.
 
 **Bunun pratikte neden önemli olduğu.** Özellikle olağandışı bir tarihsel rahatlık içinde
 yaşayan okuyucular için, ilahi gazabı soyut olarak ahlaken rahatsız edici bulmak cazip olabilir.
-Kaynak materyal bu içgüdüye doğrudan karşı çıkar: tarih boyunca çoğu inanlı, ve bugün yaşayan
+Bu içgüdüye doğrudan karşı çıkın: tarih boyunca çoğu inanlı, ve bugün yaşayan
 çoğu insan, zorbalık, insan ticareti, etnik ya da dini zulüm, sömürünün neden olduğu kıtlık ya da
 kimsenin müdahale etmediği için ayrım gözetmeksizin öldüren savaşla doğrudan deneyime sahiptir.
 Tanrı, gerçek kurbanlar adına yerleşik, tövbe etmemiş kötülüğe karşı harekete geçtiğinde, bu

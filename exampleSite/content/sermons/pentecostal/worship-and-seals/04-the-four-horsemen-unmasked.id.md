@@ -52,7 +52,7 @@ Tetapi argumen di sisi lain sama kuatnya, dan pada akhirnya lebih meyakinkan:
   latar belakang gambaran ini, berfungsi sebagai satu kesatuan. Dan dalam Kitab Wahyu sendiri,
   empat sangkakala pertama dan empat cawan pertama juga membentuk rangkaian yang sepadan. Jika
   penunggang kuda keempat (Kematian) itu jahat, dan keempatnya dimaksudkan untuk dibaca bersama
-  sebagaimana jelas dimaksudkan oleh bahan sumber dalam Zakharia, maka ketiga penunggang
+  sebagaimana jelas dimaksudkan oleh penglihatan Zakharia sendiri, maka ketiga penunggang
   pertama hampir pasti juga jahat.
 - Pengajaran akhir zaman Yesus sendiri, dalam Matius 24, Markus 13, dan Lukas 21, selalu dibuka
   dengan peringatan yang sama, dalam urutan yang sama: waspadalah terhadap penyesatan, lalu

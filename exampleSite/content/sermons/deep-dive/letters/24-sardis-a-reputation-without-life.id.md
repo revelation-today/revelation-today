@@ -59,12 +59,12 @@ gereja yang sekarat sebelum sisa kehidupan yang masih ada pun ikut pudar.
 
 ## Sebuah Catatan tentang Latar Belakang Sejarah
 
-Artikel sumber menanggalkan gempa bumi yang meluluhlantakkan Sardis pada "17 SM." Peristiwa
-historis yang dimaksud — dicatat oleh sejarawan Romawi Tacitus — sebenarnya terjadi pada **17 M**,
-di bawah Kaisar Tiberius, bukan 17 SM. Tiberius mendanai pembangunan kembali kota itu dan memberi
+Gempa bumi yang meluluhlantakkan Sardis terjadi pada **17 M**, di bawah Kaisar Tiberius —
+sejarawan Romawi Tacitus mencatatnya, dan angka itu mudah tertulis keliru sebagai 17 SM.
+Tiberius mendanai pembangunan kembali kota itu dan memberi
 keringanan pajak besar, dan Sardis kemudian mengajukan permohonan untuk menghormatinya dengan
-sebuah bait suci. Poin tentang bantuan kekaisaran ini tetap berlaku; hanya tanggalnya yang perlu
-dikoreksi (dari SM menjadi M).
+sebuah bait suci. Itulah bantuan kekaisaran di balik surat ini: sebuah kota yang berutang hidup
+keduanya kepada Kaisar.
 
 ## Pertanyaan Diskusi
 

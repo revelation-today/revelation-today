@@ -61,7 +61,7 @@ Die Zahlen der Offenbarung funktionieren genauso:
   jedem Stamm und jeder Sprache, jedem Volk und jeder Nation" (die siebenmal vorkommt) beschreiben
   alle Vollständigkeit, keine wörtliche Kopfzahl.
 - **Vier** signalisiert Universalität — die vier Winde, die vier Enden der Erde, die vierfache
-  Gliederung der Schöpfung (Himmel, Erde, Meer, unter dem Meer), die alle gemeinsam Gott loben.
+  Gliederung der Schöpfung (Himmel, Erde, unter der Erde, Meer), die alle gemeinsam Gott loben.
 - **Zwölf** signalisiert Vollständigkeit gepaart mit Einheit in Vielfalt, verwurzelt in den zwölf
   Stämmen und zwölf Aposteln — quadriert und mit tausend multipliziert für die 144.000 (Einheit in
   Teil 5), und kommt allein in der Beschreibung des Neuen Jerusalem zwölfmal vor.

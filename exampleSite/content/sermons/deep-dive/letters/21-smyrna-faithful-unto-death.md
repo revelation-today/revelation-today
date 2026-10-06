@@ -27,7 +27,7 @@ Smyrna sat about 70 km north of Ephesus on a strategic harbor, and by the time R
 
 ## A note on historical background
 
-The source material dates Smyrna's imperial temple to AD 20. The better-documented date is AD 26 — the year Smyrna won a contest among eleven cities of Asia for the right to build a temple to Tiberius, his mother Livia, and the Roman Senate (recorded by the historian Tacitus). The construction followed after that. The point still stands (Smyrna was a genuine center of emperor worship), just with the date corrected.
+Smyrna's imperial temple goes back to AD 26, the year Smyrna won a contest among eleven cities of Asia for the right to build a temple to Tiberius, his mother Livia, and the Roman Senate; the historian Tacitus records the competition, and construction followed. Smyrna was a genuine centre of emperor worship, which is exactly why "the devil will put some of you in prison" was no figure of speech there.
 
 ## A live question worth naming
 

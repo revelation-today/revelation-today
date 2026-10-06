@@ -47,7 +47,7 @@ But the case on the other side is just as strong, and ultimately more persuasive
 - The four horsemen, like the four horses and chariots in Zechariah that stand behind this
   image, function as a single unit. And within Revelation itself, the first four trumpets and
   first four bowls also form matching sets. If the fourth horseman (Death) is evil, and the
-  four are meant to be read together the way the source material in Zechariah clearly intends,
+  four are meant to be read together the way Zechariah's own vision clearly intends,
   the first three almost certainly are too.
 - Jesus' own end-times teaching, in Matthew 24, Mark 13, and Luke 21, opens every time with the
   same warning, in the same order: watch out for deception, then war, then famine — precisely

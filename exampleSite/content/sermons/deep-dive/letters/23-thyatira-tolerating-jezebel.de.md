@@ -40,8 +40,8 @@ Götzenopferfleisch zu essen" (2,20) und beansprucht besondere Einsicht in „di
 Tiefen des Satans" (2,24).
 
 **Warum das anders ist als bei Pergamon.** Auf den ersten Blick sieht Thyatira wie eine
-Wiederholung des Pergamon-Problems aus — kompromittierende Lehre, die Fuß fasst. Aber der
-Quellartikel zieht eine schärfere Unterscheidung: In Pergamon *ließ* eine schwache Führung
+Wiederholung des Pergamon-Problems aus — kompromittierende Lehre, die Fuß fasst. Aber es gibt
+eine schärfere Unterscheidung zu ziehen: In Pergamon *ließ* eine schwache Führung
 verderbliche Lehre zu. In Thyatira *ist* die Verderbnis die Führung. Das ist kein Versäumnis,
 eine Linie zu halten; es ist die Linie selbst, die von genau der Person, der anvertraut wurde, sie
 zu ziehen, an der falschen Stelle gezogen wird.

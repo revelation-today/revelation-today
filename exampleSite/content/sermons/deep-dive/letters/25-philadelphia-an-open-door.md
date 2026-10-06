@@ -27,7 +27,7 @@ Into a congregation that is financially struggling and facing opposition, Jesus 
 
 ## A note on citation
 
-One supporting citation in the source article (Proverbs 7:5, paired with James 1:27) doesn't actually connect to this argument — Proverbs 7:5 is Hebrew wisdom literature about avoiding seduction and shares only an English-translation overlap in wording, not any real exegetical link. James 1:27 ("keep oneself unstained from the world") is the citation that genuinely supports the "protected within, not removed from" reading, and stands well on its own.
+The verse that carries this is James 1:27, "keep oneself unstained from the world" — protected within the world, not removed from it. Proverbs 7:5 is sometimes quoted alongside it, but that is Hebrew wisdom literature about avoiding seduction; the overlap is in the English wording, not in the argument. James 1:27 stands well enough on its own.
 
 ## A live question worth naming
 

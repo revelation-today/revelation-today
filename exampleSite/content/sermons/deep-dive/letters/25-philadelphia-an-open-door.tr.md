@@ -59,12 +59,10 @@ tahliye edileceği gelecekteki bir dönem değil.
 
 ## Alıntı Üzerine Bir Not
 
-Kaynak makaledeki destekleyici bir alıntı (Yakup 1:27 ile eşleştirilmiş Süleyman'ın Özdeyişleri
-7:5), bu argümanla gerçekten bağlantılı değil — Süleyman'ın Özdeyişleri 7:5, baştan çıkarılmaktan
-kaçınma üzerine İbrani bilgelik edebiyatıdır ve yalnızca İngilizce çeviride ifade örtüşmesi
-paylaşır, gerçek bir yorumbilimsel bağlantı taşımaz. Yakup 1:27 ("kendini dünyanın lekesinden
-korumak") "içeride korunma, dışarı alınma değil" okumasını gerçekten destekleyen alıntıdır ve
-kendi başına iyi durur.
+Bunu taşıyan ayet Yakup 1:27'dir: "kendini dünyanın lekesinden korumak" — dünyadan alınarak değil,
+dünyanın içinde korunarak. Süleyman'ın Özdeyişleri 7:5 bazen yanına konur, ama o, baştan
+çıkarılmaktan kaçınma üzerine İbrani bilgelik edebiyatıdır; örtüşme çeviridedir, argümanda değil.
+Yakup 1:27 kendi başına yeterince iyi durur.
 
 ## Üzerinde Durulmaya Değer Canlı Bir Soru
 

@@ -40,7 +40,7 @@ Bu, Roma'ya sormaktan çok daha zor bir soru kendimize sormak için. Üzerinde d
 - **İman olarak ulusal kimlik.** "Ülkemi büyük yapan şey" ile "imanımın gerektirdiği şey" yeterince sıkı bir şekilde kaynaştığında, gerçekte hangisine hizmet ettiğimizi ayırt etmek gerçekten zorlaşır.
 - **Rahat taahhütsüzlük.** Eski üçüncü yol hâlâ mevcuttur: Pazar günü Hristiyan, haftanın geri kalanında hâkim kültürden ayırt edilemez, bunun bir uzlaşma mı yoksa sadece "modern dünyada yaşamak" mı olduğunu hiç incelemeden.
 
-Bunların hiçbiri konforun, güvenliğin ya da sivil katılımın kendi başına kötü olduğu iddiası değil — kaynak metin bunu iddia etmiyor, biz de etmiyoruz. Soru hiçbir zaman "bu iyi mi?" olmadı. "Gerçekte kime güveniyorsun ve bu güven sana kabul etmesi ne kadara mal oluyor?" sorusu.
+Bunların hiçbiri konforun, güvenliğin ya da sivil katılımın kendi başına kötü olduğu iddiası değil. Vahiy bunu iddia etmiyor, biz de etmiyoruz. Soru hiçbir zaman "bu iyi mi?" olmadı. "Gerçekte kime güveniyorsun ve bu güven sana kabul etmesi ne kadara mal oluyor?" sorusu.
 
 ## Ilık suda kurbağa
 

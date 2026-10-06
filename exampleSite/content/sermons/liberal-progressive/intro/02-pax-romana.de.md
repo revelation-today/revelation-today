@@ -31,7 +31,7 @@ Johannes selbst schreibt aus dem Exil auf Patmos, "euer Bruder und Mitgenosse in
 
 ## Wo das für uns landet — jenseits des leichten Ziels
 
-Dieses Publikum neigt dazu, schnell und zu Recht, dieses Material nach außen anzuwenden: um ungerechte Systeme, Nationalismus, Imperium, die Maschinerie der Macht zu kritisieren, die Wohlstand für manche auf Kosten anderer produziert. Dieser Instinkt ist gut, und er zeigt genau in die Richtung, auf die das Ausgangsmaterial selbst weist. Aber das eigentliche Ziel der Offenbarung war nie bloß "das System da draußen" — es war die eigene Loyalität des einzelnen Christen, geprüft in gewöhnlichen alltäglichen Entscheidungen. Die eigentliche Frage unter der ganzen Pax-Romana-Passage lautet nicht nur "welche ungerechten Systeme siehst du?" Sie lautet: "Wem schreibst du das gute Leben, das du genießt, tatsächlich zu, und was verlangt diese Zuschreibung still von dir?"
+Dieses Publikum neigt dazu, schnell und zu Recht, dieses Material nach außen anzuwenden: um ungerechte Systeme, Nationalismus, Imperium, die Maschinerie der Macht zu kritisieren, die Wohlstand für manche auf Kosten anderer produziert. Dieser Instinkt ist gut, und er zeigt genau in die Richtung, auf die der Text selbst weist. Aber das eigentliche Ziel der Offenbarung war nie bloß "das System da draußen" — es war die eigene Loyalität des einzelnen Christen, geprüft in gewöhnlichen alltäglichen Entscheidungen. Die eigentliche Frage unter der ganzen Pax-Romana-Passage lautet nicht nur "welche ungerechten Systeme siehst du?" Sie lautet: "Wem schreibst du das gute Leben, das du genießt, tatsächlich zu, und was verlangt diese Zuschreibung still von dir?"
 
 Das ist eine schwerere Frage, an uns selbst zu stellen, als an Rom. Ein paar zeitgenössische Versionen, bei denen es sich zu verweilen lohnt:
 
@@ -40,7 +40,7 @@ Das ist eine schwerere Frage, an uns selbst zu stellen, als an Rom. Ein paar zei
 - **Nationale Identität als Glaube.** Wenn "was mein Land großartig macht" eng genug mit "was mein Glaube verlangt" verschmilzt, wird es tatsächlich schwer zu unterscheiden, wem wir eigentlich dienen.
 - **Bequemes Sich-nicht-Festlegen.** Der alte dritte Weg steht noch offen: sonntags Christ, unter der Woche ununterscheidbar von der vorherrschenden Kultur, ohne je genau zu prüfen, ob das ein Kompromiss ist oder nur "Leben in der modernen Welt".
 
-Nichts davon behauptet, dass Bequemlichkeit, Sicherheit oder bürgerliche Teilhabe an sich böse wären — das Ausgangsmaterial argumentiert das nicht, und wir tun es auch nicht. Die Frage war nie "ist es gut?" Sie ist: "Wem vertraust du tatsächlich, und was kostet es dich, das zuzugeben?"
+Nichts davon behauptet, dass Bequemlichkeit, Sicherheit oder bürgerliche Teilhabe an sich böse wären. Die Offenbarung argumentiert das nicht, und wir tun es auch nicht. Die Frage war nie "ist es gut?" Sie ist: "Wem vertraust du tatsächlich, und was kostet es dich, das zuzugeben?"
 
 ## Der Frosch im warmen Wasser
 

@@ -58,9 +58,9 @@ Zweck erinnert, Gottes Botschaft zu tragen; und es signalisiert, dass die Gemein
 nicht aus eigener Kraft leisten kann — sie braucht die Hilfe des Heiligen Geistes, dieselben
 „sieben Geister vor dem Thron" aus Kapitel 1.
 
-**Eine lebendige Frage, die es wert ist, benannt zu werden.** Eines der stützenden Argumente im
-Quellmaterial — dass „Engel" „ohne den bestimmten Artikel erscheint, was für jüdische oder
-frühchristliche Literatur ungewöhnlich sei" — erweist sich als schwächer, als es klingt. Im
+**Ein schwaches Argument, dem ihr begegnen könntet.** Gelegentlich hört man, „Engel" erscheine
+hier „ohne den bestimmten Artikel, was für jüdische oder
+frühchristliche Literatur ungewöhnlich sei". Dieses Argument ist schwächer, als es klingt. Im
 Koine-Griechisch ist das Weglassen des Artikels nach Präpositionen in Anredeformeln wie dieser
 üblich und für sich genommen nicht offensichtlich bedeutsam. Das zerstört die Gesamtargumentation
 nicht (die anderen vier oben genannten Beobachtungen tragen echtes Gewicht), aber es lohnt sich,

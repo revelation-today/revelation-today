@@ -27,7 +27,7 @@ Life sustained by reputation, momentum, or history — without ongoing dependenc
 
 ## A note on historical background
 
-The source article dates the earthquake that devastated Sardis to "17 BC." The historical event in view — recorded by the Roman historian Tacitus — actually occurred in **AD 17**, under Emperor Tiberius, not 17 BC. Tiberius funded the city's rebuilding and granted major tax relief, and Sardis later petitioned to honor him with a temple. The point about imperial patronage still stands; only the date needs correcting (BC to AD).
+The earthquake that devastated Sardis struck in **AD 17**, under Emperor Tiberius — the Roman historian Tacitus records it, and the date is easy to see written as 17 BC by mistake. Tiberius funded the city's rebuilding and granted major tax relief, and Sardis later petitioned to honour him with a temple. That is the imperial patronage behind the letter: a city that owed its second life to Caesar.
 
 ## Discussion questions
 

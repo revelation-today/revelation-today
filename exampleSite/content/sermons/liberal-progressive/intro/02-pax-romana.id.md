@@ -31,7 +31,7 @@ Yohanes sendiri menulis dari pembuangan di Patmos, "saudara dan sekutumu dalam k
 
 ## Ke mana ini bermuara bagi kita — melampaui sasaran yang mudah
 
-Audiens ini cenderung cepat, dan itu wajar, untuk menerapkan materi ini ke luar: untuk mengkritik sistem-sistem yang tidak adil, nasionalisme, kekaisaran, mesin kekuasaan yang menghasilkan kemakmuran bagi sebagian orang dengan mengorbankan orang lain. Naluri itu baik dan justru arah yang ditunjuk oleh materi sumbernya sendiri. Tetapi sasaran sejati Kitab Wahyu tidak pernah sekadar "sistem di luar sana" — melainkan kesetiaan orang Kristen itu sendiri, yang diuji dalam pilihan-pilihan sehari-hari yang biasa. Pertanyaan tajam di balik seluruh bagian Pax Romana bukan hanya "sistem tidak adil apa yang Anda lihat?" Melainkan "kepada siapa sebenarnya Anda memberikan pujian atas hidup baik yang Anda nikmati, dan apa yang diam-diam dituntut oleh pujian itu dari Anda?"
+Audiens ini cenderung cepat, dan itu wajar, untuk menerapkan materi ini ke luar: untuk mengkritik sistem-sistem yang tidak adil, nasionalisme, kekaisaran, mesin kekuasaan yang menghasilkan kemakmuran bagi sebagian orang dengan mengorbankan orang lain. Naluri itu baik dan justru arah yang ditunjuk oleh teksnya sendiri. Tetapi sasaran sejati Kitab Wahyu tidak pernah sekadar "sistem di luar sana" — melainkan kesetiaan orang Kristen itu sendiri, yang diuji dalam pilihan-pilihan sehari-hari yang biasa. Pertanyaan tajam di balik seluruh bagian Pax Romana bukan hanya "sistem tidak adil apa yang Anda lihat?" Melainkan "kepada siapa sebenarnya Anda memberikan pujian atas hidup baik yang Anda nikmati, dan apa yang diam-diam dituntut oleh pujian itu dari Anda?"
 
 Itu pertanyaan yang lebih sulit ditujukan kepada diri kita sendiri daripada kepada Roma. Beberapa versi kontemporer yang layak direnungkan:
 
@@ -40,7 +40,7 @@ Itu pertanyaan yang lebih sulit ditujukan kepada diri kita sendiri daripada kepa
 - **Identitas nasional sebagai iman.** Ketika "apa yang membuat negara saya hebat" menyatu terlalu erat dengan "apa yang dituntut iman saya," menjadi sungguh sulit membedakan mana yang sebenarnya sedang kita layani.
 - **Ketidakberkomitmenan yang nyaman.** Jalan ketiga yang lama itu masih tersedia: Kristen pada hari Minggu, tak terbedakan dari budaya yang dominan pada hari-hari lainnya, tidak pernah benar-benar memeriksa apakah itu kompromi atau sekadar "hidup di dunia modern."
 
-Tidak satu pun dari ini adalah klaim bahwa kenyamanan, keamanan, atau partisipasi kemasyarakatan itu sendiri jahat — materi sumbernya tidak berargumen demikian, dan kita pun tidak. Pertanyaannya tidak pernah "apakah itu baik?" Melainkan "kepada siapa sebenarnya Anda percaya, dan berapa harga yang harus dibayar kepercayaan itu untuk Anda akui?"
+Tidak satu pun dari ini adalah klaim bahwa kenyamanan, keamanan, atau partisipasi kemasyarakatan itu sendiri jahat. Kitab Wahyu tidak berargumen demikian, dan kita pun tidak. Pertanyaannya tidak pernah "apakah itu baik?" Melainkan "kepada siapa sebenarnya Anda percaya, dan berapa harga yang harus dibayar kepercayaan itu untuk Anda akui?"
 
 ## Katak dalam air hangat
 

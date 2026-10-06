@@ -75,22 +75,22 @@ kalıp: tırmanan uyarı otomatik olarak tövbe üretmez.
 **Yedinci borudan önce ne olur.** Zorluğun tek başına asla yürekleri değiştirmemesi nedeniyle,
 Tanrı 11. bölümde kategorik olarak farklı bir şey dener: başka bir bela değil, felaket yerine
 tapınmaya dayanan iki tanığın tanıklığı (11:1-12) — bu serinin ilerideki bir oturumunun konusu.
-Onların tanıklığı, kendi ölümleri aracılığıyla bile, dokuz bela borusunun hiç başaramadığı bir
+Onların tanıklığı, kendi ölümleri aracılığıyla bile, altı bela borusunun hiç başaramadığı bir
 şeyi başarır: Tanrı'ya gerçek bir dönüş.
 
 ## Üzerinde durulmaya değer canlı bir soru
 
-Kaynak materyal, kalabalığın iki tanığın hak edilmesine verdiği "dehşete düşmüş" tepkisinin
+Kalabalığın iki tanığın hak edilmesine verdiği "dehşete düşmüş" tepkisi
 (11:13), aynı Yunanca sözcüğün başka yerlerdeki kullanımına dayanarak (boş mezardaki kadınlar,
-dirilmiş Mesih'i gören öğrenciler, Kornelius, ve Romalı yetkili Feliks) gerçek korkudan çok
-"kendinden geçme" olarak okunması gerektiğini savunur. Bu, kaynak materyalin sunduğundan biraz
-daha gevşek tutulmaya değer — bu karşılaştırma metinlerinin her birinde, gerçek korku hâlâ
+dirilmiş Mesih'i gören öğrenciler, Kornelius, ve Romalı yetkili Feliks) bazen gerçek korkudan çok
+"kendinden geçme" olarak okunur. Bunu biraz
+daha gevşek tutmakta fayda var — bu karşılaştırma metinlerinin her birinde, gerçek korku hâlâ
 mevcuttur, ve özellikle Feliks korkuya kapılıp tövbe etmek yerine Pavlus'u reddeder, ki bu
 "dehşete düşmüş"ün doğrudan bağlılığa yol açtığı savı için muhtemelen en zayıf örnektir. Noktayı
 belirtmenin daha dikkatli bir yolu: sözcük, boş mezardaki aynı huşulu telaşı bulan, ezici,
 şaşkınlık verici bir korkuyu tanımlar — ve bu tür bir korku, olumlu bir tepkiyi engellemek yerine,
 Kutsal Kitap'ta başka yerlerde genellikle tapınmadan hemen önce gelen şeydir. İki tanığın sadık
-tanıklığının dokuz beladan daha fazlasını başardığı gözlemi hâlâ geçerlidir; sadece "dehşete
+tanıklığının altı beladan daha fazlasını başardığı gözlemi hâlâ geçerlidir; sadece "dehşete
 düşmüş"ü "gerçekte korkmamış" olarak yeniden tanımlamayı gerektirmez.
 
 ## Tartışma soruları
@@ -100,10 +100,10 @@ düşmüş"ü "gerçekte korkmamış" olarak yeniden tanımlamayı gerektirmez.
 2. Borular, sistematik olarak gıdayı, suyu, ticareti, hatta ışığın ve karanlığın kendisini —
    günlük hayatın temel güvencelerini — soyup çıkarır. İnsanların Tanrı yerine güvendiği, kendi
    hayatınızda soyulması gerekebilecek modern eşdeğerler nelerdir?
-3. Tırmanan dokuz belaya rağmen, insanlar "yine de tövbe etmedi." Sizce yalnızca tırmanan yargının
+3. Tırmanan altı belaya rağmen, insanlar "yine de tövbe etmedi." Sizce yalnızca tırmanan yargının
    neden nadiren gerçek tövbe ürettiğini düşünüyorsunuz — ve bu, Tanrı'nın insanlara ulaşmayı
    bunun yerine nasıl seçtiğine dair ne ima ediyor?
-4. İki tanığın tanıklığı (ölüm aracılığıyla bile) dokuz boru belasının toplamından daha fazlasını
+4. İki tanığın tanıklığı (ölüm aracılığıyla bile) altı boru belasının toplamından daha fazlasını
    başardı. Bu, sadık tanıklığın çarpıcı yargıya karşı göreceli gücü hakkında ne ima ediyor?
 5. Beşinci borunun iblisel çekirgeleri bile açık ilahi sınırlar altında çalışır, tıpkı Şeytan'ın
    Eyüp'e dokunmadan önce izin alması gerektiği gibi. Bu, kötülüğün gerçekte ne kadar kontrole

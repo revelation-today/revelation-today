@@ -58,11 +58,12 @@ keras; Smirna, yang miskin dan dianiaya, tidak menerima teguran sama sekali.
 
 ## Catatan tentang Latar Belakang Sejarah
 
-Materi sumber menanggalkan bait kekaisaran Smirna pada tahun 20 M. Tanggal yang lebih terdokumentasi
-dengan baik adalah tahun 26 M — tahun ketika Smirna memenangkan kompetisi di antara sebelas kota di
-Asia untuk hak membangun bait bagi Tiberius, ibunya Livia, dan Senat Romawi (dicatat oleh sejarawan
-Tacitus). Pembangunannya menyusul setelah itu. Poinnya tetap berlaku (Smirna adalah pusat
-penyembahan kaisar yang sesungguhnya), hanya tanggalnya yang perlu dikoreksi.
+Bait kekaisaran Smirna berasal dari tahun 26 M, tahun ketika Smirna memenangkan kompetisi di antara
+sebelas kota di
+Asia untuk hak membangun bait bagi Tiberius, ibunya Livia, dan Senat Romawi; sejarawan
+Tacitus mencatat perlombaan itu, dan pembangunannya menyusul. Smirna adalah pusat
+penyembahan kaisar yang sesungguhnya, dan justru karena itu "iblis akan memasukkan beberapa orang
+dari antaramu ke dalam penjara" bukanlah kiasan di sana.
 
 ## Sebuah Pertanyaan Hidup yang Layak Disebutkan
 

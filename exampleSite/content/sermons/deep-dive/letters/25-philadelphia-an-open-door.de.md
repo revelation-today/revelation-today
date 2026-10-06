@@ -67,12 +67,11 @@ zukünftige Periode, aus der Gläubige herausgeflogen werden, bevor sie beginnt.
 
 ## Ein Hinweis zur Zitierung
 
-Ein stützendes Zitat im Quellartikel (Sprüche 7,5, gepaart mit Jakobus 1,27) verbindet sich
-tatsächlich nicht mit diesem Argument — Sprüche 7,5 ist hebräische Weisheitsliteratur über die
-Vermeidung von Verführung und teilt nur eine Überschneidung in der deutschen Übersetzung, keine
-echte exegetische Verbindung. Jakobus 1,27 („sich von der Welt unbefleckt halten") ist das Zitat,
-das die Lesart „geschützt innerhalb, nicht entfernt von" tatsächlich stützt, und steht gut für
-sich allein.
+Der Vers, der das trägt, ist Jakobus 1,27: „sich von der Welt unbefleckt halten" — geschützt
+innerhalb der Welt, nicht aus ihr entfernt. Sprüche 7,5 wird manchmal daneben zitiert, aber das
+ist hebräische Weisheitsliteratur über die
+Vermeidung von Verführung; die Überschneidung liegt in der Übersetzung, nicht im Argument.
+Jakobus 1,27 steht gut genug für sich allein.
 
 ## Eine lebendige Frage, die es wert ist, benannt zu werden
 

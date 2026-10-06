@@ -59,9 +59,9 @@ gözyaşı silinir.
 
 ## Üzerinde durulmaya değer canlı bir soru
 
-Kaynak materyal, 7. bölümün 144.000/büyük kalabalığını, 6:9-11'in şehit olmuş canlarıyla basitçe
-"aynı grup" olarak ele alır. Bu, gerçek, savunulabilir bir bağlantıdır (ortak beyaz kaftanlar,
-acıdan sonra teselli ortak teması), ama bazen sunulduğundan daha zayıf bir savdır — Vahiy
+7. bölümün 144.000'i ve büyük kalabalığı, çoğu zaman doğrudan 6:9-11'in şehit olmuş canlarıyla
+aynı sayılır. Bu, gerçek, savunulabilir bir bağlantıdır (ortak beyaz kaftanlar,
+acıdan sonra teselli ortak teması), ama genelde kulağa geldiğinden daha zayıftır — Vahiy
 6:9-11 özellikle öldürülenleri tanımlarken, 7:9'daki "kimsenin sayamayacağı büyük kalabalık"
 daha doğal biçimde *tüm* kurtulmuşlar olarak okunur, yalnızca şehitler değil. En güçlü metinsel
 bağlantı aslında 7:14'ün bu kalabalığın "büyük sıkıntıdan" geldiğine dair açık ifadesidir — bu,

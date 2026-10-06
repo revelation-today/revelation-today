@@ -31,7 +31,7 @@ Look, too, at how the "kings of the earth" and "merchants of the earth" respond 
 
 It's worth being honest about how naturally this reading lands with this audience's existing instincts: identifying "Babel" with unjust systems of empire, extraction, and economic exploitation is not a stretch we're imposing on the text — it's what the text itself, read in its first-century context, is doing. The temptation, though, is to stop there, satisfied with a purely structural critique aimed safely outward at "the system," without ever letting the passage's other, harder question land closer to home.
 
-## The question the source material insists on
+## The question the passage insists on
 
 Because here's what the passage will not let us avoid: Babel is never described with perfectly sharp, fixed edges, identifiable once and filed away. That vagueness looks like a weakness in the text until you notice it's deliberate — precisely so that every reader, in every generation, is forced to keep asking the same uncomfortable question about themselves rather than settling the matter once, safely, about someone else. Could the church itself become part of Babel? Not simply "could an external, unjust system out there resemble Babel" — but could our own congregations, our own economic choices, our own comfortable arrangements, have quietly moved inside her?
 

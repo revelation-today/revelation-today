@@ -37,7 +37,7 @@ ediyor — inananlara "zina etmeyi ve putlara sunulan kurbanlardan yemeyi" öğr
 "Şeytan'ın sözde derin sırları" hakkında özel bir kavrayışı olduğunu iddia ediyor (2:24).
 
 **Bu, Bergama'dan neden farklı.** İlk bakışta Tiyatira, Bergama'nın sorununun bir tekrarı gibi
-görünüyor — uzlaşmacı öğretinin kök salması. Ama kaynak makale daha keskin bir ayrım çiziyor:
+görünüyor — uzlaşmacı öğretinin kök salması. Ama çizilmesi gereken daha keskin bir ayrım var:
 Bergama'da zayıf liderlik, bozucu öğretinin *girmesine izin verdi*. Tiyatira'da bozukluğun kendisi
 liderliğin ta kendisi. Bu, bir çizgiyi tutma başarısızlığı değil; çizgiyi çizmekle görevlendirilen
 kişinin bizzat onu yanlış yere çizmesi.

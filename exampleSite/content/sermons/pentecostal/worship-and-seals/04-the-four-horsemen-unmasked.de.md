@@ -50,7 +50,7 @@ Aber das Argument auf der anderen Seite ist ebenso stark, und letztlich überzeu
 - Die vier Reiter funktionieren, wie die vier Pferde und Wagen bei Sacharja, die hinter diesem
   Bild stehen, als eine einzige Einheit. Und innerhalb der Offenbarung selbst bilden auch die
   ersten vier Posaunen und die ersten vier Schalen zusammengehörige Gruppen. Wenn der vierte Reiter
-  (der Tod) böse ist und die vier so gelesen werden sollen, wie es das Ausgangsmaterial bei
+  (der Tod) böse ist und die vier so gelesen werden sollen, wie es die eigene Vision bei
   Sacharja eindeutig beabsichtigt, dann sind es die ersten drei mit ziemlicher Sicherheit auch.
 - Jesu eigene Endzeitlehre in Matthäus 24, Markus 13 und Lukas 21 beginnt jedes Mal mit derselben
   Warnung, in derselben Reihenfolge: Hütet euch vor Verführung, dann Krieg, dann Hungersnot – genau
