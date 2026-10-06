@@ -98,7 +98,7 @@ Ada satu kiasmus menarik lagi yang tersembunyi di baris terakhir itu. "Yang pent
 Ia melakukan ini dengan dua cara:
 
 - Dengan kekerasan dan intimidasi ({{% bible val="mengalahkan orang-orang kudus" link="rev:13,7" lang="ind" %}}, {{% bible val="membunuh setiap perlawanan" link="rev:13,10" lang="ind" %}}, atau {{% bible val="orang-orang yang tidak mau mengikuti" link="rev:13,15" lang="ind" %}}).
-- Dengan tipu daya, yang sedikit lebih sulit dipahami, tetapi akan dijelaskan. Tipu daya itu punya dua wajah: binatang pertama menjanjikan kuasa dan kendali, binatang kedua kekayaan dan keamanan.
+- Dengan tipu daya, yang sedikit lebih sulit dipahami, tetapi akan dijelaskan. Tipu daya itu punya dua wajah. Binatang pertama menawarkan kuasa dan kendali, dan menopang tawaran itu dengan kekerasan: "Siapakah yang sama seperti binatang ini? Dan siapakah yang dapat berperang melawan dia?" (13:4). Binatang kedua menawarkan kekayaan dan keamanan: ia bekerja melalui tanda-tanda dan mukjizat, dan melalui pasar yang hanya terbuka bagi mereka yang menerima tandanya (13:13–17).
 
 Mulailah dengan beberapa pengamatan yang mengarah ke sana:
 
@@ -194,14 +194,10 @@ Iblis ditampilkan untuk ketiga kalinya {{% bible val="sebagai sebuah trinitas pa
 
 Ketiga penampakan ini saling berkaitan, masing-masing menambahkan gambaran tentang cara kerja Iblis.
 
-## Trinitas Palsu
+## Pola yang Sama pada Para Penunggang Kuda dan Pelacur Itu
 
 <a name="ae7b"></a>
-Untuk lebih memahami cara Iblis digambarkan, kita perlu mencermati {{% bible val="kisah kedua tentang sang naga dan kedua binatang" link="rev:13" lang="ind" %}}.
-
-Ia {{% int_link val="membangun sebuah trinitas jahat" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e" %}} untuk menipu jemaat, tetapi {{% int_link val="sia-sia" link="/expl/content/beasts/666-the-number-of-the-beast#497d" %}}.
-
-{{% int_link val="Sang naga dan kedua binatang itu digambarkan bekerja sama untuk mencapai tujuan mereka" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e" %}}, tetapi menyesatkan dengan cara berbeda. Binatang pertama menawarkan kuasa dan kendali, dan menopang tawaran itu dengan kekerasan: "Siapakah yang sama seperti binatang ini? Dan siapakah yang dapat berperang melawan dia?" (13:4). Binatang kedua menawarkan kekayaan dan keamanan: ia bekerja melalui tanda-tanda dan mukjizat, dan melalui pasar yang hanya terbuka bagi mereka yang menerima tandanya (13:13–17) — {{% int_link val="lihat juga dalam konteks historisnya" link="/expl/content/beasts/666-the-number-of-the-beast" %}}.
+Trinitas jahat dalam pasal 13 bukan satu-satunya. Pola yang sama muncul sebelum dan sesudahnya dalam kitab ini.
 
 Jika kita memperhatikan {{% int_link val="keempat penunggang kuda, kita menemukan pola yang sama" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}:
 

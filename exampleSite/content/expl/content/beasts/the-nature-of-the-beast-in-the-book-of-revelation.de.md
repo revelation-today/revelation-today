@@ -102,7 +102,7 @@ In dieser letzten Zeile verbirgt sich noch ein interessanter Chiasmus. „Hier i
 Das geschieht auf zweierlei Weise:
 
 - durch Gewalt und Einschüchterung ({{% bible val="die Heiligen besiegen" link="rev:13,7" lang="de" %}}, {{% bible val="jeden Widerstand vernichten" link="rev:13,10" lang="de" %}} oder {{% bible val="Menschen, die nicht folgen wollen" link="rev:13,15" lang="de" %}}),
-- durch Täuschung, was etwas schwerer zu verstehen ist, aber ich werde es erklären. Sie hat zwei Gesichter: Das erste Tier verspricht Macht und Kontrolle, das zweite Wohlstand und Sicherheit.
+- durch Täuschung, was etwas schwerer zu verstehen ist, aber ich werde es erklären. Sie hat zwei Gesichter. Das erste Tier bietet Macht und Kontrolle und stützt dieses Angebot mit Gewalt: „Wer ist dem Tier gleich, und wer kann mit ihm kämpfen?“ (13,4). Das zweite bietet Wohlstand und Sicherheit: Es wirkt durch Zeichen und Wunder und durch einen Markt, der nur denen offensteht, die sein Malzeichen annehmen (13,13–17).
 
 Beginnen wir mit ein paar Beobachtungen, die in diese Richtung weisen:
 
@@ -199,14 +199,10 @@ Ein drittes Mal wird der Teufel gezeigt, {{% bible val="als Dreifaltigkeit bei d
 
 Diese drei Blickwinkel hängen zusammen und ergänzen sich gegenseitig zu einem Gesamtbild vom Wirken des Teufels.
 
-## Die falsche Dreifaltigkeit
+## Dasselbe Muster bei den Reitern und der Hure
 
 <a name="ae7b"></a>
-Um besser zu verstehen, wie der Teufel beschrieben wird, müssen wir uns die {{% bible val="zweite Geschichte vom Drachen und den beiden Tieren" link="rev:13" lang="de" %}} ansehen.
-
-Er {{% int_link val="errichtet eine böse Dreifaltigkeit" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e" %}}, um die Gemeinde zu täuschen, aber {{% int_link val="ohne Erfolg" link="/expl/content/beasts/666-the-number-of-the-beast#497d" %}}.
-
-Der {{% int_link val="Drache und die Tiere arbeiten zusammen, um ihr Ziel zu erreichen" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e" %}}, täuschen dabei aber auf unterschiedliche Weise. Das erste Tier bietet Macht und Kontrolle und stützt dieses Angebot mit Gewalt: „Wer ist dem Tier gleich, und wer kann mit ihm kämpfen?“ (13,4). Das zweite bietet Wohlstand und Sicherheit: Es wirkt durch Zeichen und Wunder und durch einen Markt, der nur denen offensteht, die sein Malzeichen annehmen (13,13–17) — {{% int_link val="siehe auch im historischen Kontext" link="/expl/content/beasts/666-the-number-of-the-beast" %}}.
+Die böse Dreifaltigkeit von Kapitel 13 ist nicht die einzige. Dasselbe Muster steht im Buch davor und danach.
 
 Betrachten wir nun {{% int_link val="die vier Reiter, finden wir dasselbe Muster" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}:
 

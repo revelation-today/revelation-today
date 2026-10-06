@@ -102,7 +102,7 @@ Bu son satırda gizlenmiş bir başka ilginç kiazma daha var. "İşte ... sabı
 Şeytan bunu iki şekilde yapar:
 
 - Güç ve gözdağıyla ({{% bible val="kutsalları fetheder" link="rev:13,7" lang="tr" %}}, {{% bible val="her türlü direnişi" link="rev:13,10" lang="tr" %}} ya da {{% bible val="izlemek istemeyenleri öldürür" link="rev:13,15" lang="tr" %}}).
-- Aldatmayla — bunu anlamak biraz daha zor, ama açıklayacağım. Bunun iki yüzü vardır: ilk canavar güç ve denetim vaat eder, ikincisi zenginlik ve güvenlik.
+- Aldatmayla — bunu anlamak biraz daha zor, ama açıklayacağım. Bunun iki yüzü vardır. İlk canavar güç ve denetim sunar ve bu teklifi şiddetle destekler: "Bu canavar gibisi var mı? Onunla kim savaşabilir?" (13:4). İkincisi zenginlik ve güvenlik sunar: belirtiler ve harikalarla ve yalnızca işaretini alanlara açık bir pazarla çalışır (13:13–17).
 
 Bu yöne işaret eden birkaç gözlemle başlayalım:
 
@@ -198,14 +198,10 @@ Tanrı'nın kendisi üç olduğu için Şeytan da her zaman bir üçlü biçimin
 
 Bu üç görünüm birbiriyle bağlantılıdır; her biri Şeytan'ın faaliyetinin resmine bir şey daha katar.
 
-## Sahte üçlü
+## Atlılarda ve fahişede aynı örüntü
 
 <a name="1e70"></a>
-Şeytan'ın nasıl betimlendiğini daha iyi anlamak için, {{% bible val="ejderha ve iki canavarın ikinci öyküsüne" link="rev:13" lang="tr" %}} bakmamız gerekir.
-
-Kiliseyi aldatmak için {{% int_link val="kötü bir üçlü kurar" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999" %}}, ama {{% int_link val="bunda başarılı olamaz" link="/expl/content/beasts/666-the-number-of-the-beast#c1c9" %}}.
-
-{{% int_link val="Ejderha ve canavarlar, amaçlarına ulaşmak için birlikte çalışacak şekilde betimlenir" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999" %}}, ama farklı biçimlerde aldatırlar. İlk canavar güç ve denetim sunar ve bu teklifi şiddetle destekler: "Bu canavar gibisi var mı? Onunla kim savaşabilir?" (13:4). İkincisi zenginlik ve güvenlik sunar: belirtiler ve harikalarla ve yalnızca işaretini alanlara açık bir pazarla çalışır (13:13–17) — {{% int_link val="tarihsel bağlamda da bunu görebilirsiniz" link="/expl/content/beasts/666-the-number-of-the-beast" %}}.
+13. bölümdeki kötü üçlü tek değildir. Aynı örüntü kitapta ondan önce de sonra da yer alır.
 
 Şimdi {{% int_link val="dört atlıya baktığımızda da aynı örüntüyü görürüz" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}:
 

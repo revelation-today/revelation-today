@@ -102,7 +102,7 @@ There's another interesting chiasmus hidden in that last row. "Here is ... patie
 He does this in two ways:
 
 - By force and intimidation ({{% bible val="conquering the saints" link="rev:13,7" lang="en" %}}, {{% bible val="killing any resistance" link="rev:13,10" lang="en" %}} or {{% bible val="people who don’t want to follow" link="rev:13,15" lang="en" %}}).
-- By deception, which is a little harder to understand, but I will explain. It has two faces: the first beast promises power and control, the second wealth and security.
+- By deception, which is a little harder to understand, but I will explain. It has two faces. The first beast offers power and control, and backs the offer with violence: "Who is like the beast, and who can fight against it?" (13:4). The second offers wealth and security: it works through signs and wonders, and through a market that is open only to those who take its mark (13:13–17).
 
 Start with a few observations that point that way:
 
@@ -198,14 +198,10 @@ The devil is shown a third time {{% bible val="as a trinity in the sixth bowl" l
 
 These three views are interrelated, each adding to the picture of the devil's activity.
 
-## The false trinity
+## The same pattern in the horsemen and the harlot
 
 <a name="45d1"></a>
-To better understand how the devil is described, we need to look at the {{% bible val="second story of the dragon and the two beasts" link="rev:13" lang="en" %}}.
-
-He sets {{% int_link val="up an evil trinity" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}} to deceive the church, but {{% int_link val="to no avail" link="/expl/content/beasts/666-the-number-of-the-beast#69b0" %}}.
-
-The {{% int_link val="dragon and the beasts are described as working together to accomplish their goal" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, but they deceive differently. The first beast offers power and control, and backs the offer with violence: "Who is like the beast, and who can fight against it?" (13:4). The second offers wealth and security: it works through signs and wonders, and through a market that is open only to those who take its mark (13:13–17) — {{% int_link val="see also in the historical context" link="/expl/content/beasts/666-the-number-of-the-beast" %}}.
+The evil trinity of chapter 13 is not the only one. The same pattern stands before it and after it in the book.
 
 If we now look {{% int_link val="at the four horsemen, we find the same pattern" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}} (developed in more detail there):
 
