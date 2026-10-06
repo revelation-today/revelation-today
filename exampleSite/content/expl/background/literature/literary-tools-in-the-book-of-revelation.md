@@ -6,7 +6,7 @@ sources:
       ref: dorsey
     - pages: 7–11
       ref: walsh
-    - pages: 1–3, 9–14
+    - pages: 1–3, 9–14, 394
       ref: bauckham_climax
     - pages: 116–124
       ref: beale_rev
@@ -83,8 +83,8 @@ A unit should also function as an independent, self-contained, complete package,
 - uniqueness in time, place, participants, theme, genre, or speed of action,
 - easy accessibility to the audience,
 - internal compatibility of content,
-- a consistent package size — typically 15–20 pages of Hebrew text (large), a Bible chapter (medium), or a single sentence to a few paragraphs (small),
-- a typical count of 7 or 13–14 units, though 3 or 5 are also possible.
+- a consistent package size — typically 15–20 pages of Hebrew text for a large unit, which is the length of Genesis 1–11 and about half an hour to read aloud; a Bible chapter for a medium one; a single sentence to a few paragraphs for a small one,
+- a typical count of seven units. Sevenfold arrangement is much the commonest, and its two usual variations are thirteen parts, with the seventh at the centre (Lamentations, Esther, the Abraham, Isaac and Jacob stories), and fourteen, which is seven twice over (the Joseph story, the exodus account, Joshua 1–12). Three and five parts occur as well (Judges; Haggai, Psalms).
 
 ## The arrangement of units
 
@@ -262,9 +262,10 @@ Every tool above is at work in Revelation itself, and the explanations on this s
 - **The same story from another angle** (second perspective). Revelation often retells rather than moves on: the seals, trumpets and bowls cover the same ground with rising intensity, and chapter 20 tells again the defeat of Satan already told in chapter 12. Whether the visions run in sequence or recapitulate is one of the oldest questions about the book (Beale, pp. 116–124), and much of the millennium debate depends on it. → {{% int_link val="The thousand-year kingdom" link="/expl/content/1000y/the-thousand-year-kingdom" %}}
 - **Contrast.** The harlot Babel and the bride, the New Jerusalem, are introduced with almost the same words — {{% bible val="one of the seven angels who had the seven bowls came and said to me, 'Come, I will show you…'" link="rev:17,1" lang="en" %}} ({{% bible val="compare 21:9" link="rev:21,9" lang="en" %}}) — so that the reader sets the two cities side by side. → {{% int_link val="Who is the harlot Babel?" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}, {{% int_link val="The New Jerusalem" link="/expl/content/paradise/the-new-jerusalem" %}}
 - **Resolution.** The promises to the seven churches are answered at the end: the tree of life ({{% bible val="2:7" link="rev:2,7" lang="en" %}} → {{% bible val="22:2" link="rev:22,2" lang="en" %}}), God's name on the forehead ({{% bible val="3:12" link="rev:3,12" lang="en" %}} → {{% bible val="22:4" link="rev:22,4" lang="en" %}}), the morning star ({{% bible val="2:28" link="rev:2,28" lang="en" %}} → {{% bible val="22:16" link="rev:22,16" lang="en" %}}), a share in Christ's throne ({{% bible val="3:21" link="rev:3,21" lang="en" %}} → {{% bible val="22:5" link="rev:22,5" lang="en" %}}).
-- **Chiasmus in small.** Even single sayings are built crosswise: "Here is the patience and faith of the saints" answers "whoever has ears, let them hear" ({{% bible val="13:9–10" link="rev:13,9-10" lang="en" %}}), and "here is wisdom" answers "let the one who has insight calculate" ({{% bible val="13:18" link="rev:13,18" lang="en" %}}). → {{% int_link val="The nature of the beast" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}, {{% int_link val="The two witnesses" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **The same call, said twice** (emphasis). Two exhortations frame the beast's portrait and mean the same thing. "Whoever has ears, let them hear" is followed by "here is the patience and faith of the saints" ({{% bible val="13:9–10" link="rev:13,9-10" lang="en" %}}); then comes "here is wisdom: let the one who has insight calculate the number" ({{% bible val="13:18" link="rev:13,18" lang="en" %}}). The second is not a riddle for clever readers but the same summons to see through the beast, with the mind standing in for the ear. John says it once more, almost word for word, where the beast's seven heads are explained ({{% bible val="17:9" link="rev:17,9" lang="en" %}}).[^pair] → {{% int_link val="The nature of the beast" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}, {{% int_link val="The two witnesses" link="/expl/content/witnesses/the-two-witnesses" %}}
 
 [^ring]: Beale, pp. 226–227, following Kiddle.
 [^bowls]: The structure follows Bauckham, *Climax*, pp. 9–14. He reads the missing interlude more strictly: "the time for repentance is past" (p. 14).
 [^greek]: Beale, pp. 100–103.
 [^ear]: Bauckham, *Climax*, pp. 1–3.
+[^pair]: Beale, p. 24: the exhortation of 13:18 "has the identical meaning" as the one in 13:9, with the metaphor of a calculating intellect in place of the ear — "not some riddle to be solved by the intellectually superior but an exhortation to discern spiritual danger." On the formula shared by 13:18 and 17:9, Bauckham, *Climax*, p. 394. The two sayings run parallel; they are not laid out crosswise, so this is a pairing rather than a chiasm.

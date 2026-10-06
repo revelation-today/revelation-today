@@ -23,7 +23,7 @@ Dieser Instinkt ist fast 2000 Jahre alt. Die ersten Menschen, die je das Buch de
 
 ## Was der "Römische Frieden" wirklich kostete
 
-Von 27 v. Chr. bis etwa 192 n. Chr. genoss das Römische Reich etwas wirklich Bemerkenswertes: relativen Frieden, echten Wohlstand (zumindest für eine ganze Menge Menschen) und eine blühende Kunst- und Kulturszene. Rom nannte das die Pax Romana — den "Römischen Frieden" — und das war nicht nur eine Beschreibung der Zeit. Es war ein ganzes Weltbild.
+Von 27 v. Chr. bis etwa 180 n. Chr. genoss das Römische Reich etwas wirklich Bemerkenswertes: relativen Frieden, echten Wohlstand (zumindest für eine ganze Menge Menschen) und eine blühende Kunst- und Kulturszene. Rom nannte das die Pax Romana — den "Römischen Frieden" — und das war nicht nur eine Beschreibung der Zeit. Es war ein ganzes Weltbild.
 
 Die Botschaft, überall wiederholt — in Gedichten wie denen von Vergil, in offiziellen Geschichtsschreibungen, auf Münzen mit dem Gesicht des Kaisers, auf Monumenten wie der Ara Pacis ("Altar des Friedens"), die zu seiner Feier errichtet wurde — lautete ungefähr so: Die Götter haben Rom auserwählt. Der Kaiser ist ihr Vertreter auf Erden. Alles Gute in deinem Leben — Sicherheit, Essen auf dem Tisch, eine funktionierende Welt — fließt daraus, dass du dich Rom und seinem Kaiser als der wahren Quelle des Segens unterwirfst. Deshalb verdient der Kaiser deine Anbetung und deine Loyalität, Punkt.
 

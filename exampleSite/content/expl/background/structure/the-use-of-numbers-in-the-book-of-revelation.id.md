@@ -18,7 +18,7 @@ appl: /appl/background/structure
 
 Kitab ini penuh dengan angka-angka, tetapi apa sebenarnya makna angka-angka itu? Apakah harfiah, seperti 1.260 hari itu, atau apakah dimaksudkan untuk dibaca dengan cara lain? Untuk menjawabnya, akan membantu jika kita terlebih dahulu bertanya bagaimana angka-angka berfungsi dalam Alkitab secara lebih luas.
 
-Angka-angka sering digunakan dalam Kitab Suci untuk menunjuk kembali pada sebuah kisah sebelumnya. Yesus memilih 12 rasul karena Israel sendiri terdiri dari 12 suku. Israel mengembara di padang gurun selama 40 tahun setelah menghabiskan 40 hari menyelidiki Tanah Perjanjian dengan ketidakpercayaan — 40 hari yang kedua menjawab, dan membatalkan, yang pertama.
+Angka-angka sering digunakan dalam Kitab Suci untuk menunjuk kembali pada sebuah kisah sebelumnya. Yesus memilih 12 rasul karena Israel sendiri terdiri dari 12 suku. Israel mengembara di padang gurun selama 40 tahun setelah menghabiskan 40 hari menyelidiki Tanah Perjanjian dengan ketidakpercayaan — {{% bible val="satu tahun untuk setiap hari" link="num:14,34" lang="ind" %}}, seperti yang Allah sendiri katakan ketika Ia menjatuhkan hukuman itu.
 
 ## Angka 7
 

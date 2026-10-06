@@ -8,6 +8,8 @@ docType: expl
 sources:
     - pages: 22, 25, 30
       ref: brueggemann_gen
+    - pages: "vol. 4: 68–73"
+      ref: tdot
     - pages: "vol. 11: 16"
       ref: tdot
     - pages: "vol. 13: 59"
@@ -50,7 +52,7 @@ Die Schlange wendet sich an die Frau, nicht an den Mann, und stellt sie wegen de
 
 Genau dieses zusätzliche Gebot nutzt der Teufel aus, und es bietet keinen wirklichen Schutz: Die Frucht ist verlockend anzusehen, und sie isst davon.
 
-Dann gibt sie sie dem Mann — und er muss nicht erst gesucht werden, denn er ist die ganze Zeit dabei gewesen, schweigend. Dieses Schweigen ist bezeichnend, denn das hebräische Wort für „Mann“ trägt den Sinn „sich erinnern“ in sich. Wenn es eine Sache gibt, in der er gut sein sollte, dann ist es, sich zu erinnern, was Gott gesagt hat und wer er ist. Stattdessen versagen beide. Die Folge ist Scham, und die Scham treibt sie dazu, sich vor Gott zu verstecken und sich gegenseitig die Schuld zu geben — sie zerbricht jede Beziehung, die sie berührt.
+Dann gibt sie sie dem Mann — und er muss nicht erst gesucht werden, denn er ist die ganze Zeit dabei gewesen, schweigend. Dieses Schweigen ist bezeichnend: Er ist derjenige, der {{% bible val="das Gebot aus erster Hand gehört hat" link="gen:2,16-17" lang="de" %}}, sich zu erinnern, was Gott gesagt hatte, war also seine Aufgabe. Im Hebräischen gibt es hier sogar ein Spiel mit dem Klang, denn „Mann“ und „sich erinnern“ heißen beide *zakar* — es sind allerdings zwei verschiedene Wörter, und 1. Mose macht diesen Punkt selbst nie.[^zakar] Stattdessen versagen beide. Die Folge ist Scham, und die Scham treibt sie dazu, sich vor Gott zu verstecken und sich gegenseitig die Schuld zu geben — sie zerbricht jede Beziehung, die sie berührt.
 
 ## Gottes Rettungsplan
 
@@ -76,7 +78,7 @@ Sie müssen den Garten verlassen, aber zuvor wird ihre Scham bedeckt — mit Tie
 ## Ein neuer Anfang
 
 <a name="ce2a"></a>
-Nachdem sie den Garten verlassen haben, wird Eva schwanger und macht eine bemerkenswerte Aussage: „Ich habe mit der Hilfe des Herrn ein Kind bekommen.“ Es war offensichtlich Adams Kind, aber der Name, den sie ihm gibt — Kain, was wie das hebräische „ich habe erworben“ klingt — zeigt, was sie wirklich denkt.[^cain] Vielleicht hofft sie, dass Kain ihr Ticket zurück in den Garten ist, der verheißene Retter, der die Schlange vernichten wird. Diese Hoffnung wird noch deutlicher, als sie ihren zweiten Sohn Abel nennt — was „nichts“ oder „Hauch“ bedeutet.
+Nachdem sie den Garten verlassen haben, wird Eva schwanger und macht eine bemerkenswerte Aussage. Die meisten Bibeln lesen sie als „Ich habe mit der Hilfe des Herrn ein Kind bekommen“, aber der hebräische Text ist berühmt schwierig: Das kleine Wort *'et* kann „mit der Hilfe von“ heißen oder „wie, so wie der Herr“, oder es markiert einfach das Folgende als Objekt — so hat Luther es gelesen, sodass Eva sagt: „Ich habe einen Mann bekommen, den Herrn.“[^eve] In dieser Lesart hofft sie, dass Kain ihr Ticket zurück in den Garten ist, der verheißene Retter, der die Schlange vernichten wird. Der Name, den sie ihm gibt, weist in dieselbe Richtung — Kain, was wie das hebräische „ich habe erworben“ klingt[^cain] — und ebenso der Name ihres zweiten Sohnes, Abel, der „nichts“ oder „Hauch“ bedeutet.
 
 ## Die Explosion
 
@@ -108,6 +110,8 @@ Die Geschichte bricht mit Lamechs Prahlerei ab, und nichts in 1. Mose 4 antworte
 
 **Die Stadt.** Aus dem Garten vertrieben, suchen die Menschen nicht den Weg zurück. Sie wählen stattdessen die Stadt. {{% bible val="Kain baut die erste" link="gen:4,16-17" lang="de" %}}, fern von Gottes Gegenwart, und in Babel bauen sie eine, {{% bible val="um sich einen Namen zu machen" link="gen:11,4" lang="de" %}}. Die Stadt ist ihre eigene Antwort auf den verlorenen Garten: Sicherheit und ein Name ohne Gott. Auch die Offenbarung endet mit einer Stadt. Aber diese wird nicht von unten gebaut. {{% bible val="Sie kommt von Gott herab, und er wohnt in ihr" link="rev:21,2-3" lang="de" %}}. Und in ihrer Mitte sind {{% bible val="der Strom und der Baum des Lebens" link="rev:22,1-2" lang="de" %}}: Der Garten wird in der Stadt zurückgegeben.[^city]
 
+[^zakar]: TDOT, Bd. 4, behandelt „sich erinnern“ (*zākar*, S. 68ff.) und „männlich“ (*zākār*, S. 73) als verschiedene Wörter; es leitet das eine nicht vom anderen ab.
+[^eve]: Luther las *'et* als Objektmarker: „Ich habe einen Mann, den Herrn.“ Die beiden üblichen Alternativen nehmen es als „mit der Hilfe von“ (so die meisten modernen Übersetzungen) oder als „wie, so wie der Herr“. Der hebräische Text erlaubt alle drei.
 [^cain]: TDOT, Bd. 13, S. 59.
 [^tree]: Beale, S. 234–235, 1106.
 [^sign]: Beale, S. 414, mit dem palästinischen Targum zu 1. Mose 4,15: Der Herr versiegelte auf Kains Gesicht das Zeichen des großen und ehrwürdigen Namens.

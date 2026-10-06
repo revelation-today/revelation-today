@@ -23,7 +23,7 @@ Bu içgüdü neredeyse 2.000 yaşında. Vahiy kitabını ilk okuyanlar, bunun ö
 
 ## "Roma Barışı"nın gerçek bedeli
 
-MÖ 27'den MS 192 civarına kadar, Roma İmparatorluğu gerçekten dikkat çekici bir şey yaşadı: göreceli bir barış, gerçek bir refah (en azından hatırı sayılır bir kesim için) ve gelişen bir sanat ve kültür. Roma buna Pax Romana — "Roma Barışı" — dedi ve bu sadece dönemin bir tanımı değildi. Tam bir dünya görüşüydü.
+MÖ 27'den MS 180 civarına kadar, Roma İmparatorluğu gerçekten dikkat çekici bir şey yaşadı: göreceli bir barış, gerçek bir refah (en azından hatırı sayılır bir kesim için) ve gelişen bir sanat ve kültür. Roma buna Pax Romana — "Roma Barışı" — dedi ve bu sadece dönemin bir tanımı değildi. Tam bir dünya görüşüydü.
 
 Her yerde tekrarlanan mesaj — Vergilius gibi şairlerin dizelerinde, resmi tarih kitaplarında, imparatorun yüzünün basıldığı paralarda, bunu kutlamak için inşa edilen Ara Pacis ("Barış Sunağı") gibi anıtlarda — şuna benziyordu: tanrılar Roma'yı seçti. İmparator onların yeryüzündeki temsilcisi. Hayatındaki her iyi şey — güvenlik, sofrandaki yemek, işleyen bir dünya — Roma'ya ve imparatoruna, gerçek bereket kaynağı olarak boyun eğmekten akıyor. Bu yüzden imparator senin tapınmanı ve sadakatini hak ediyor, nokta.
 

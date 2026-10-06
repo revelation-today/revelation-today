@@ -52,7 +52,7 @@ Tanrı'nın gazabını etik ve teolojik açıdan zor bir konu bulabilirsiniz —
 - Kimsenin umursamadığı için herkesi öldüren bir savaş ya da salgın yaşamadınız.
 - Hayatınızda gerçek bir bakış açısına ve seçeneklere bile sahip olabilirsiniz.
 
-Tarih boyunca çoğu insan bunlardan en az biriyle tanışıktır. [Örneğin kölelik geçmişe ait bir olgu değildir, aksine artmaktadır](https://50forfreedom.org/modern-slavery/), ve bu kötülüğün arkasında, doğrudan ya da dolaylı olarak buna neden olan insanlar vardır — soyut güçler değil.
+Tarih boyunca çoğu insan bunlardan en az biriyle tanışıktır. Örneğin kölelik geçmişe ait bir olgu değildir: 2021'de herhangi bir günde yaklaşık 50 milyon insan modern kölelik içinde yaşıyordu, 2016'dan on milyon fazla.[^slavery] Bunun arkasında, doğrudan ya da dolaylı olarak buna neden olan insanlar vardır — soyut güçler değil.
 
 Yani Tanrı acı çekenler adına harekete geçtiğinde, bu eylem haklıdır.
 
@@ -63,3 +63,4 @@ Başkalarına yaşattığımız acıdan sorumluyuz, ve kötülüğümüzün sonu
 [^hide]: Sahnenin ardında Hoşea 10:8 ve Yaratılış 3:8–9 durur: Beale, s. 400.
 
 [^hanson]: A. T. Hanson'ın *The Wrath of the Lamb* (Londra: SPCK, 1957) kitabındaki savı budur.
+[^slavery]: [*Global Estimates of Modern Slavery*](https://www.walkfree.org/global-slavery-index/), Uluslararası Çalışma Örgütü, Walk Free ve Uluslararası Göç Örgütü'nün ortak tahmini (2022): "2021'de herhangi bir günde tahmini 50 milyon insan modern kölelik içinde yaşıyordu; bu, 2016'dan bu yana 10 milyon kişilik bir artış."

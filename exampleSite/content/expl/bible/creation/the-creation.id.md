@@ -8,6 +8,8 @@ docType: expl
 sources:
     - pages: 22, 25, 30
       ref: brueggemann_gen
+    - pages: "vol. 4: 68–73"
+      ref: tdot
     - pages: "vol. 11: 16"
       ref: tdot
     - pages: "vol. 13: 59"
@@ -50,7 +52,7 @@ Ular itu mendekati perempuan itu, bukan laki-laki itu, dan menantangnya tentang 
 
 Perintah tambahan itulah yang justru dimanfaatkan oleh iblis, dan perintah itu tidak memberikan perlindungan yang sesungguhnya: buah itu tampak menarik untuk dilihat, dan ia pun memakannya.
 
-Kemudian ia memberikannya kepada laki-laki itu — dan laki-laki itu tidak perlu dicari, sebab ia telah berada di sana sepanjang waktu, berdiam diri. Keheningan itu bermakna, sebab kata Ibrani untuk "laki-laki" mengandung makna "mengingat." Jika ada satu hal yang seharusnya ia kuasai, itu adalah mengingat apa yang telah dikatakan Allah dan siapa diri-Nya. Sebaliknya, mereka berdua gagal. Akibatnya adalah rasa malu, dan rasa malu itu mendorong mereka bersembunyi dari Allah serta saling menyalahkan — rasa malu itu merusak setiap relasi yang disentuhnya.
+Kemudian ia memberikannya kepada laki-laki itu — dan laki-laki itu tidak perlu dicari, sebab ia telah berada di sana sepanjang waktu, berdiam diri. Keheningan itu bermakna: dialah yang {{% bible val="mendengar perintah itu langsung dari Allah" link="gen:2,16-17" lang="ind" %}}, jadi mengingat apa yang telah dikatakan Allah adalah bagiannya. Dalam bahasa Ibrani bahkan ada permainan bunyi di sini, sebab "laki-laki" dan "mengingat" sama-sama *zakar* — meskipun keduanya kata yang berbeda, dan Kejadian sendiri tidak pernah menyebutkan kaitan itu.[^zakar] Sebaliknya, mereka berdua gagal. Akibatnya adalah rasa malu, dan rasa malu itu mendorong mereka bersembunyi dari Allah serta saling menyalahkan — rasa malu itu merusak setiap relasi yang disentuhnya.
 
 ## Rencana Pemulihan Allah
 
@@ -76,7 +78,7 @@ Mereka harus meninggalkan taman itu, tetapi terlebih dahulu rasa malu mereka dit
 ## Sebuah Permulaan Baru
 
 <a name="ce2a"></a>
-Setelah mereka meninggalkan taman itu, Hawa mengandung dan membuat sebuah pernyataan yang mencolok: "Aku telah mendapat seorang anak laki-laki dengan pertolongan TUHAN." Anak itu jelas adalah anak Adam, tetapi nama yang ia berikan kepadanya — Kain, yang bunyinya mirip kata Ibrani untuk "aku telah mendapat" — menunjukkan apa yang sesungguhnya ia pikirkan.[^cain] Barangkali ia berharap Kain adalah tiketnya kembali ke taman itu, sang penyelamat yang dijanjikan yang akan menghancurkan ular itu. Harapan itu menjadi semakin jelas ketika ia menamai putra keduanya Habel — yang berarti "kesia-siaan" atau "uap."
+Setelah mereka meninggalkan taman itu, Hawa mengandung dan membuat sebuah pernyataan yang mencolok. Sebagian besar Alkitab membacanya "Aku telah mendapat seorang anak laki-laki dengan pertolongan TUHAN", tetapi teks Ibraninya terkenal sulit: kata kecil *'et* dapat berarti "dengan pertolongan", atau "seperti, sebagaimana TUHAN", atau sekadar menandai kata berikutnya sebagai objek — begitulah Luther membacanya, sehingga Hawa berkata, "Aku telah mendapat seorang laki-laki, yaitu TUHAN."[^eve] Menurut bacaan itu ia berharap Kain adalah tiketnya kembali ke taman itu, sang penyelamat yang dijanjikan yang akan menghancurkan ular itu. Nama yang ia berikan kepadanya menunjuk ke arah yang sama — Kain, yang bunyinya mirip kata Ibrani untuk "aku telah mendapat"[^cain] — demikian pula nama putra keduanya, Habel, yang berarti "kesia-siaan" atau "uap."
 
 ## Ledakan Itu
 
@@ -108,6 +110,8 @@ Kisah ini terhenti pada kesombongan Lamekh, dan tidak ada apa pun dalam Kejadian
 
 **Kota itu.** Setelah diusir dari taman, manusia tidak mencari jalan kembali. Mereka malah memilih kota. {{% bible val="Kain membangun kota yang pertama" link="gen:4,16-17" lang="ind" %}}, jauh dari hadirat Allah, dan di Babel mereka membangun kota {{% bible val="untuk mencari nama bagi diri mereka" link="gen:11,4" lang="ind" %}}. Kota adalah jawaban mereka sendiri atas taman yang hilang: rasa aman dan nama tanpa Allah. Kitab Wahyu juga berakhir dengan sebuah kota. Tetapi kota ini tidak dibangun dari bawah. {{% bible val="Kota itu turun dari Allah, dan Ia tinggal di dalamnya" link="rev:21,2-3" lang="ind" %}}. Dan di tengah-tengahnya ada {{% bible val="sungai dan pohon kehidupan" link="rev:22,1-2" lang="ind" %}}: taman itu dikembalikan di dalam kota.[^city]
 
+[^zakar]: TDOT, jld. 4, membahas "mengingat" (*zākar*, hlm. 68 dst.) dan "laki-laki" (*zākār*, hlm. 73) sebagai dua kata yang berbeda; kamus itu tidak menurunkan yang satu dari yang lain.
+[^eve]: Luther membaca *'et* sebagai penanda objek: "Aku telah mendapat seorang laki-laki, yaitu TUHAN." Dua alternatif yang lazim membacanya sebagai "dengan pertolongan" (demikian sebagian besar terjemahan modern) atau sebagai "seperti, sebagaimana TUHAN". Teks Ibrani memungkinkan ketiganya.
 [^cain]: TDOT, jld. 13, hlm. 59.
 [^tree]: Beale, hlm. 234–235, 1106.
 [^sign]: Beale, hlm. 414, dengan Targum Palestina atas Kej 4:15: Tuhan memeteraikan pada wajah Kain tanda nama yang agung dan mulia.

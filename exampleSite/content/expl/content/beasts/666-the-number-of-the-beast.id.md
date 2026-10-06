@@ -131,7 +131,7 @@ Kaisar yang paling jelas memperlihatkan hal ini adalah Trajanus, yang:
 
 - memerintah dari tahun 98–117, jelas masih dalam satu generasi sejak penulisan surat ini,
 - menetapkan bahwa orang Kristen tidak boleh diburu, tetapi harus dihukum jika mereka diadukan dan menolak mempersembahkan korban,[^pliny] namun
-- dianggap sebagai salah satu dari [lima kaisar yang baik](https://de.wikipedia.org/wiki/Trajan#Der_%E2%80%9Ebeste_Kaiser%E2%80%9C): pada masa pemerintahannya Kekaisaran Romawi mencapai wilayah terluasnya, ia mendirikan sebuah program kesejahteraan yang besar, menjalankan proyek-proyek pembangunan besar, dan berinvestasi besar-besaran dalam pertandingan-pertandingan publik — semuanya mewujudkan Perdamaian Romawi (Pax Romana).
+- dianggap sebagai salah satu dari [lima kaisar yang baik](https://en.wikipedia.org/wiki/Nerva%E2%80%93Antonine_dynasty#Five_Good_Emperors): pada masa pemerintahannya Kekaisaran Romawi mencapai wilayah terluasnya, ia mendirikan sebuah program kesejahteraan yang besar, menjalankan proyek-proyek pembangunan besar, dan berinvestasi besar-besaran dalam pertandingan-pertandingan publik — semuanya mewujudkan Perdamaian Romawi (Pax Romana).
 
 ## Sahabat-Sahabat Daniel dalam Dapur Api
 

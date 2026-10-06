@@ -6,7 +6,7 @@ sources:
       ref: dorsey
     - pages: 7–11
       ref: walsh
-    - pages: 1–3, 9–14
+    - pages: 1–3, 9–14, 394
       ref: bauckham_climax
     - pages: 116–124
       ref: beale_rev
@@ -83,8 +83,8 @@ Sebuah satuan juga harus berfungsi sebagai sebuah kesatuan yang mandiri, utuh da
 - keunikan dalam hal waktu, tempat, pelaku, tema, genre, atau kecepatan tindakan,
 - mudah diakses oleh audiens,
 - keserasian internal isinya,
-- ukuran yang konsisten — biasanya 15–20 halaman teks Ibrani (besar), satu pasal Alkitab (sedang), atau satu kalimat hingga beberapa paragraf (kecil),
-- jumlah yang lazim yaitu 7 atau 13–14 satuan, meskipun 3 atau 5 juga mungkin.
+- ukuran yang konsisten — biasanya 15–20 halaman teks Ibrani untuk satuan besar, sepanjang Kejadian 1–11 dan kira-kira setengah jam untuk dibacakan; satu pasal Alkitab untuk satuan sedang; satu kalimat hingga beberapa paragraf untuk satuan kecil,
+- jumlah yang lazim yaitu tujuh satuan. Susunan bertujuh jauh lebih sering dipakai daripada yang lain, dan dua variasinya yang biasa adalah tiga belas bagian, dengan bagian ketujuh di tengah (Ratapan, Ester, kisah Abraham, Ishak dan Yakub), serta empat belas, yaitu tujuh dua kali (kisah Yusuf, kisah keluaran, Yosua 1–12). Tiga dan lima bagian juga muncul (Hakim-hakim; Hagai, Mazmur).
 
 ## Susunan Satuan-Satuan
 
@@ -262,9 +262,10 @@ Setiap alat di atas bekerja dalam Kitab Wahyu sendiri, dan penjelasan-penjelasan
 - **Kisah yang sama dari sudut lain** (perspektif kedua). Kitab Wahyu sering menceritakan ulang alih-alih melanjutkan: meterai, sangkakala, dan cawan melintasi wilayah yang sama dengan intensitas yang meningkat, dan pasal 20 menceritakan lagi kekalahan Iblis yang sudah diceritakan dalam pasal 12. Apakah penglihatan-penglihatan itu berurutan atau berulang adalah salah satu pertanyaan tertua tentang kitab ini (Beale, hlm. 116–124), dan sebagian besar perdebatan tentang kerajaan seribu tahun bergantung padanya. → {{% int_link val="Kerajaan seribu tahun" link="/expl/content/1000y/the-thousand-year-kingdom" %}}
 - **Kontras.** Pelacur Babel dan pengantin perempuan, Yerusalem Baru, diperkenalkan dengan kata-kata yang hampir sama — {{% bible val="seorang dari ketujuh malaikat yang membawa ketujuh cawan itu datang dan berkata kepadaku: Mari ke sini, akan kutunjukkan kepadamu …" link="rev:17,1" lang="ind" %}} ({{% bible val="bandingkan 21:9" link="rev:21,9" lang="ind" %}}) — supaya pembaca menjajarkan kedua kota itu. → {{% int_link val="Siapakah pelacur Babel?" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}, {{% int_link val="Yerusalem Baru" link="/expl/content/paradise/the-new-jerusalem" %}}
 - **Penyelesaian.** Janji-janji kepada ketujuh jemaat dijawab pada akhirnya: pohon kehidupan ({{% bible val="2:7" link="rev:2,7" lang="ind" %}} → {{% bible val="22:2" link="rev:22,2" lang="ind" %}}), nama Allah di dahi ({{% bible val="3:12" link="rev:3,12" lang="ind" %}} → {{% bible val="22:4" link="rev:22,4" lang="ind" %}}), bintang timur ({{% bible val="2:28" link="rev:2,28" lang="ind" %}} → {{% bible val="22:16" link="rev:22,16" lang="ind" %}}), tempat di takhta Kristus ({{% bible val="3:21" link="rev:3,21" lang="ind" %}} → {{% bible val="22:5" link="rev:22,5" lang="ind" %}}).
-- **Khiasme dalam skala kecil.** Bahkan kalimat-kalimat tunggal disusun bersilang: "Yang penting di sini ialah ketabahan dan iman orang-orang kudus" menjawab "barangsiapa bertelinga, hendaklah ia mendengar" ({{% bible val="13:9–10" link="rev:13,9-10" lang="ind" %}}), dan "yang penting di sini ialah hikmat" menjawab "barangsiapa yang bijaksana, baiklah ia menghitung" ({{% bible val="13:18" link="rev:13,18" lang="ind" %}}). → {{% int_link val="Hakikat binatang itu" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}, {{% int_link val="Kedua saksi" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **Seruan yang sama, diucapkan dua kali** (penegasan). Dua seruan mengapit gambaran binatang itu dan menyatakan hal yang sama. "Barangsiapa bertelinga, hendaklah ia mendengar" disusul "yang penting di sini ialah ketabahan dan iman orang-orang kudus" ({{% bible val="13:9–10" link="rev:13,9-10" lang="ind" %}}); lalu datang "yang penting di sini ialah hikmat: barangsiapa yang bijaksana, baiklah ia menghitung bilangan itu" ({{% bible val="13:18" link="rev:13,18" lang="ind" %}}). Yang kedua bukan teka-teki bagi pembaca yang cerdas, melainkan seruan yang sama untuk menembus kedok binatang itu — hanya saja pikiran menggantikan telinga. Yohanes mengatakannya sekali lagi, hampir kata demi kata, di tempat ketujuh kepala binatang itu dijelaskan ({{% bible val="17:9" link="rev:17,9" lang="ind" %}}).[^pair] → {{% int_link val="Hakikat binatang itu" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}, {{% int_link val="Kedua saksi" link="/expl/content/witnesses/the-two-witnesses" %}}
 
 [^ring]: Beale, hlm. 226–227, mengikuti Kiddle.
 [^bowls]: Strukturnya mengikuti Bauckham, *Climax*, hlm. 9–14. Ia membaca ketiadaan selingan itu dengan lebih tegas: "waktu untuk bertobat sudah lewat" (hlm. 14).
 [^greek]: Beale, hlm. 100–103.
 [^ear]: Bauckham, *Climax*, hlm. 1–3.
+[^pair]: Beale, hlm. 24: seruan dalam 13:18 "memiliki makna yang sama" dengan seruan dalam 13:9, hanya dengan gambaran pikiran yang menghitung menggantikan telinga — "bukan teka-teki yang harus dipecahkan oleh mereka yang lebih unggul secara intelektual, melainkan seruan untuk mengenali bahaya rohani." Tentang rumusan yang sama pada 13:18 dan 17:9: Bauckham, *Climax*, hlm. 394. Kedua kalimat itu sejajar; keduanya tidak disusun bersilang, jadi ini sebuah pasangan dan bukan khiasme.

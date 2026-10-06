@@ -23,7 +23,7 @@ That instinct is nearly 2,000 years old. The first people who ever read the book
 
 ## What the "Roman Peace" actually cost
 
-From 27 BC to around 192 AD, the Roman Empire enjoyed something genuinely remarkable: relative peace, real prosperity (at least for a good number of people), and flourishing art and culture. Rome called this the Pax Romana — the "Roman Peace" — and it wasn't just a description of the times. It was a whole worldview.
+From 27 BC to around 180 AD, the Roman Empire enjoyed something genuinely remarkable: relative peace, real prosperity (at least for a good number of people), and flourishing art and culture. Rome called this the Pax Romana — the "Roman Peace" — and it wasn't just a description of the times. It was a whole worldview.
 
 The message, repeated everywhere — in poetry like Virgil's, in official histories, on coins stamped with the emperor's face, on monuments like the Ara Pacis ("Altar of Peace") built to celebrate it — went something like this: the gods have chosen Rome. The emperor is their agent on earth. Everything good in your life — security, food on the table, a functioning world — flows from submitting to Rome and its emperor as the true source of blessing. Therefore, the emperor deserves your worship and your loyalty, full stop.
 

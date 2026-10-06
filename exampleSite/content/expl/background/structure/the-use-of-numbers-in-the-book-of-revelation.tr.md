@@ -18,7 +18,7 @@ appl: /appl/background/structure
 
 Kitap sayılarla doludur, ama bunlar gerçekte ne anlama gelir? 1260 gün gibi harfiyen mi alınmalıdır, yoksa başka bir şekilde mi okunmalıdır? Bu soruyu yanıtlamak için önce sayıların Kutsal Kitap'ta genel olarak nasıl işlediğini sormak yararlı olur.
 
-Sayılar, Kutsal Kitap'ta sıklıkla daha önceki bir öyküye geri işaret etmek için kullanılır. İsa 12 havari seçti, çünkü İsrail'in kendisi 12 kabileden oluşuyordu. İsrail, vaat edilen toprağı imansızlık içinde 40 gün inceledikten sonra çölde 40 yıl dolaştı — ikinci 40, ilkine karşılık verip onu tersine çevirdi.
+Sayılar, Kutsal Kitap'ta sıklıkla daha önceki bir öyküye geri işaret etmek için kullanılır. İsa 12 havari seçti, çünkü İsrail'in kendisi 12 kabileden oluşuyordu. İsrail, vaat edilen toprağı imansızlık içinde 40 gün inceledikten sonra çölde 40 yıl dolaştı — Tanrı hükümü verirken söylediği gibi, {{% bible val="her gün için bir yıl" link="num:14,34" lang="tr" %}}.
 
 ## 7 sayısı
 

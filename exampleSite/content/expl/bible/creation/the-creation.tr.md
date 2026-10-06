@@ -8,6 +8,8 @@ docType: expl
 sources:
     - pages: 22, 25, 30
       ref: brueggemann_gen
+    - pages: "vol. 4: 68–73"
+      ref: tdot
     - pages: "vol. 11: 16"
       ref: tdot
     - pages: "vol. 13: 59"
@@ -50,7 +52,7 @@ Yılan, adama değil kadına yaklaşır ve onu iyiyle kötüyü bilme ağacı ko
 
 Şeytanın tam olarak istismar ettiği şey bu ek buyruktur ve bu, gerçek bir koruma sağlamaz: meyve göze hoş görünür ve kadın onu yer.
 
-Sonra onu adama verir — ve adamın bulunmasına gerek yoktur, çünkü zaten baştan beri oradadır, sessizce. Bu sessizlik anlamlıdır, çünkü İbranicede "erkek" sözcüğü "hatırlamak" anlamını da taşır. Eğer onun iyi olması gereken bir şey varsa, o da Tanrı'nın ne dediğini ve kendisinin kim olduğunu hatırlamaktır. Bunun yerine, ikisi de başarısız olur. Sonuç utançtır ve utanç onları Tanrı'dan saklanmaya ve birbirlerini suçlamaya iter — dokunduğu her ilişkiyi kırar.
+Sonra onu adama verir — ve adamın bulunmasına gerek yoktur, çünkü zaten baştan beri orada, sessizce durmaktadır. Bu sessizlik anlamlıdır: {{% bible val="Buyruğu ilk elden duyan" link="gen:2,16-17" lang="tr" %}} odur, dolayısıyla Tanrı'nın ne dediğini hatırlamak onun payına düşüyordu. İbranicede burada bir ses oyunu bile vardır, çünkü "erkek" ve "hatırlamak" sözcükleri ikisi de *zakar*'dır — ne var ki bunlar iki ayrı sözcüktür ve Yaratılış bu bağlantıyı kendisi hiç kurmaz.[^zakar] Bunun yerine, ikisi de başarısız olur. Sonuç utançtır ve utanç onları Tanrı'dan saklanmaya ve birbirlerini suçlamaya iter — dokunduğu her ilişkiyi kırar.
 
 ## Tanrı'nın kurtarma planı
 
@@ -76,7 +78,7 @@ Bahçeyi terk etmeleri gerekir, ama önce utançları örtülür — hayvan post
 ## Yeni bir başlangıç
 
 <a name="e861"></a>
-Bahçeden ayrıldıktan sonra Havva hamile kalır ve çarpıcı bir açıklama yapar: "Rab'bin yardımıyla bir çocuk edindim." Bu açıkça Adem'in çocuğuydu, ama ona verdiği isim — İbranice "edindim" sözüne benzeyen Kabil — asıl ne düşündüğünü gösterir.[^cain] Belki de Kabil'in, bahçeye dönüş bileti, yılanı yok edecek vaat edilen kurtarıcı olacağını umuyordu. Bu umut, ikinci oğluna "hiçlik" ya da "buhar" anlamına gelen Habil adını verdiğinde daha da netleşir.
+Bahçeden ayrıldıktan sonra Havva hamile kalır ve çarpıcı bir açıklama yapar. Çoğu Kutsal Kitap çevirisi bunu "Rab'bin yardımıyla bir çocuk edindim" diye okur, ama İbranice metin ünlü biçimde zordur: küçük *'et* sözcüğü "yardımıyla" anlamına gelebilir, "Rab gibi, Rab'bin yaptığı gibi" anlamına gelebilir ya da yalnızca ardından geleni nesne olarak işaretler — Luther böyle okumuştur, öyle ki Havva "Bir adam edindim, Rab'bi" demiş olur.[^eve] Bu okuyuşa göre Kabil'in, bahçeye dönüş bileti, yılanı yok edecek vaat edilen kurtarıcı olacağını umuyordu. Ona verdiği isim de aynı yöne işaret eder — İbranice "edindim" sözüne benzeyen Kabil[^cain] — ikinci oğluna verdiği ad da öyle: "hiçlik" ya da "buhar" anlamına gelen Habil.
 
 ## Patlama
 
@@ -108,6 +110,8 @@ Ve yine de, kendi tarzında bir gülünç durumdadır da. Bu böbürlenmeyi dün
 
 **Şehir.** Bahçeden kovulan insanlar geri dönüş yolunu aramaz. Onun yerine şehri seçerler. {{% bible val="İlk şehri Kayin kurar" link="gen:4,16-17" lang="tr" %}}, Tanrı'nın huzurundan uzakta; Babil'de ise {{% bible val="kendilerine ün salmak için" link="gen:11,4" lang="tr" %}} bir şehir kurarlar. Şehir, yitirilen bahçeye onların kendi yanıtıdır: Tanrı'sız güvenlik ve ün. Vahiy de bir şehirle biter. Ama bu şehir aşağıdan kurulmaz. {{% bible val="Tanrı'dan iner ve Tanrı onun içinde yaşar" link="rev:21,2-3" lang="tr" %}}. Ortasında da {{% bible val="ırmak ve yaşam ağacı" link="rev:22,1-2" lang="tr" %}} vardır: bahçe, şehrin içinde geri verilir.[^city]
 
+[^zakar]: TDOT, c. 4, "hatırlamak" (*zākar*, s. 68 vd.) ile "erkek" (*zākār*, s. 73) sözcüklerini ayrı maddeler olarak ele alır; birini diğerinden türetmez.
+[^eve]: Luther *'et*'i nesne işaretleyicisi olarak okudu: "Bir adam edindim, Rab'bi." Alışılmış iki seçenek bunu "yardımıyla" (çoğu modern çeviride böyle) ya da "Rab gibi, Rab'bin yaptığı gibi" olarak alır. İbranice metin üçüne de izin verir.
 [^cain]: TDOT, c. 13, s. 59.
 [^tree]: Beale, s. 234–235, 1106.
 [^sign]: Beale, s. 414, Yar 4:15 üzerine Filistin Targumu'yla: Rab, Kayin'in yüzüne büyük ve yüce adın işaretini mühürledi.

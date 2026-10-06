@@ -18,7 +18,7 @@ appl: /appl/background/structure
 
 The book is full of numbers, but what do they actually mean? Are they literal, like the 1,260 days, or are they meant to be read some other way? To answer that, it helps to first ask how numbers function in the Bible more broadly.
 
-Numbers are often used in Scripture to point back to an earlier story. Jesus chose 12 apostles because Israel itself was made up of 12 tribes. Israel wandered the desert for 40 years after spending 40 days examining the Promised Land in unbelief — the second 40 answering, and undoing, the first.
+Numbers are often used in Scripture to point back to an earlier story. Jesus chose 12 apostles because Israel itself was made up of 12 tribes. Israel wandered the desert for 40 years after spending 40 days examining the Promised Land in unbelief — {{% bible val="a year for each day" link="num:14,34" lang="en" %}}, as God says when he passes the sentence.
 
 ## The number 7
 

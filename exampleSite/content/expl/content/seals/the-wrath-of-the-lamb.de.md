@@ -52,7 +52,7 @@ Der Zorn Gottes mag als ethisch und theologisch schwieriges Thema erscheinen —
 - Man hat nie einen Krieg oder eine Epidemie durchlebt, die alle dahinraffte, weil sich niemand darum kümmerte.
 - Man hat womöglich sogar echte Perspektiven und Möglichkeiten im Leben.
 
-In der gesamten Geschichte kannte die überwiegende Mehrheit der Menschen mindestens eines dieser Dinge aus eigener Erfahrung. [Sklaverei zum Beispiel ist kein Phänomen der Vergangenheit, sondern nimmt zu](https://www.ilo.org/berlin/presseinformationen/WCMS_855152/lang--de/index.htm), und hinter dieser bösen Praxis stehen — direkt oder indirekt — Menschen, keine abstrakten Mächte.
+In der gesamten Geschichte kannte die überwiegende Mehrheit der Menschen mindestens eines dieser Dinge aus eigener Erfahrung. Sklaverei zum Beispiel ist kein Phänomen der Vergangenheit: An einem beliebigen Tag im Jahr 2021 lebten rund 50 Millionen Menschen in moderner Sklaverei, zehn Millionen mehr als 2016.[^slavery] Dahinter stehen — direkt oder indirekt — Menschen, keine abstrakten Mächte.
 
 Wenn Gott also zugunsten der Leidenden handelt, ist dieses Handeln gerechtfertigt.
 
@@ -63,3 +63,4 @@ Wir sind verantwortlich für das Leid, das wir anderen zufügen, und die Folgen 
 [^hide]: Hosea 10,8 und 1. Mose 3,8–9 stehen hinter der Szene: Beale, S. 400.
 
 [^hanson]: So argumentiert A. T. Hanson in *The Wrath of the Lamb* (London: SPCK, 1957).
+[^slavery]: [*Global Estimates of Modern Slavery*](https://www.walkfree.org/global-slavery-index/), die gemeinsame Schätzung der Internationalen Arbeitsorganisation, von Walk Free und der Internationalen Organisation für Migration (2022): „An einem beliebigen Tag im Jahr 2021 lebten schätzungsweise 50 Millionen Menschen in moderner Sklaverei, 10 Millionen mehr als 2016.“

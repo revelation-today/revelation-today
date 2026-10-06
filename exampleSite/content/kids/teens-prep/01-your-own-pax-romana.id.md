@@ -23,7 +23,7 @@ Insting itu sudah berumur hampir 2.000 tahun. Orang-orang pertama yang pernah me
 
 ## Apa yang sebenarnya dikorbankan "Perdamaian Romawi"
 
-Dari tahun 27 SM hingga sekitar 192 M, Kekaisaran Romawi menikmati sesuatu yang benar-benar luar biasa: kedamaian yang relatif, kemakmuran nyata (setidaknya bagi sejumlah besar orang), dan seni serta budaya yang berkembang pesat. Roma menyebut ini Pax Romana — "Perdamaian Romawi" — dan itu bukan sekadar deskripsi tentang zaman itu. Itu adalah seluruh pandangan hidup.
+Dari tahun 27 SM hingga sekitar 180 M, Kekaisaran Romawi menikmati sesuatu yang benar-benar luar biasa: kedamaian yang relatif, kemakmuran nyata (setidaknya bagi sejumlah besar orang), dan seni serta budaya yang berkembang pesat. Roma menyebut ini Pax Romana — "Perdamaian Romawi" — dan itu bukan sekadar deskripsi tentang zaman itu. Itu adalah seluruh pandangan hidup.
 
 Pesannya, diulang-ulang di mana-mana — dalam puisi seperti karya Virgil, dalam sejarah resmi, di koin-koin yang dicap wajah kaisar, di monumen-monumen seperti Ara Pacis ("Altar Perdamaian") yang dibangun untuk merayakannya — kira-kira begini: para dewa telah memilih Roma. Kaisar adalah wakil mereka di bumi. Segala hal baik dalam hidupmu — keamanan, makanan di meja, dunia yang berfungsi — mengalir dari ketundukan kepada Roma dan kaisarnya sebagai sumber berkat yang sesungguhnya. Karena itu, kaisar layak mendapatkan penyembahan dan kesetiaanmu, titik.
 

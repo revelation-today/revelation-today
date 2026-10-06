@@ -52,7 +52,7 @@ You may find the wrath of God an ethically and theologically difficult topic —
 - You have never lived through a war or an epidemic that killed everyone because no one cared.
 - You may even have real perspective and options in your life.
 
-Throughout history, most people have been familiar with at least one of these things. [Slavery, for instance, is not a phenomenon of the past but is on the rise](https://50forfreedom.org/modern-slavery/), and behind this evil practice are people — not abstract powers — who cause it, directly or indirectly.
+Throughout history, most people have been familiar with at least one of these things. Slavery, for instance, is not a thing of the past: about 50 million people were living in modern slavery on any given day in 2021, ten million more than in 2016.[^slavery] Behind that are people — not abstract powers — who cause it, directly or indirectly.
 
 So when God acts on behalf of the suffering, that action is justified.
 
@@ -63,3 +63,4 @@ We are responsible for the suffering we cause others, and the consequences of ou
 [^hide]: Hosea 10:8 and Genesis 3:8–9 stand behind the scene: Beale, p. 400.
 
 [^hanson]: This is A. T. Hanson's case in *The Wrath of the Lamb* (London: SPCK, 1957).
+[^slavery]: [*Global Estimates of Modern Slavery*](https://www.walkfree.org/global-slavery-index/), the joint estimate of the International Labour Organization, Walk Free and the International Organization for Migration (2022): "An estimated 50 million people were living in modern slavery on any given day in 2021, an increase of 10 million people since 2016."

@@ -6,7 +6,7 @@ sources:
       ref: dorsey
     - pages: 7–11
       ref: walsh
-    - pages: 1–3, 9–14
+    - pages: 1–3, 9–14, 394
       ref: bauckham_climax
     - pages: 116–124
       ref: beale_rev
@@ -83,8 +83,8 @@ Bir birim aynı zamanda bağımsız, kendi içinde tamamlanmış, eksiksiz bir p
 - zaman, yer, katılımcılar, tema, tür ya da eylem hızı bakımından benzersizlik,
 - izleyici için kolay erişilebilirlik,
 - içeriğin iç tutarlılığı,
-- tutarlı bir paket boyutu — genellikle 15–20 sayfa İbranice metin (büyük), bir Kutsal Kitap bölümü (orta) ya da tek bir cümleden birkaç paragrafa kadar (küçük),
-- tipik olarak 7 ya da 13–14 birim, ama 3 ya da 5 de mümkündür.
+- tutarlı bir paket boyutu — büyük bir birim için genellikle 15–20 sayfa İbranice metin, yani Yaratılış 1–11 uzunluğunda ve sesli okuması yaklaşık yarım saat; orta bir birim için bir Kutsal Kitap bölümü; küçük bir birim için tek bir cümleden birkaç paragrafa kadar,
+- tipik olarak yedi birim. Yedili düzen diğerlerinden çok daha yaygındır; alışılmış iki çeşitlemesi, yedincisi ortada duran on üç parça (Ağıtlar, Ester, İbrahim, İshak ve Yakup öyküleri) ve iki kez yedi olan on dört parçadır (Yusuf öyküsü, Çıkış anlatısı, Yeşu 1–12). Üç ve beş parça da görülür (Hakimler; Hagay, Mezmurlar).
 
 ## Birimlerin düzenlenmesi
 
@@ -262,9 +262,10 @@ Yukarıdaki araçların her biri Vahiy'in kendisinde iş başındadır ve bu sit
 - **Aynı öykü başka bir açıdan** (ikinci bakış açısı). Vahiy çoğu zaman ilerlemek yerine yeniden anlatır: mühürler, borazanlar ve kâseler artan bir şiddetle aynı alanı kat eder ve 20. bölüm, 12. bölümde zaten anlatılan Şeytan'ın yenilgisini yeniden anlatır. Görümlerin sırayla mı ilerlediği yoksa kendini mi yinelediği, bu kitap hakkındaki en eski sorulardan biridir (Beale, s. 116–124) ve bin yıl tartışmasının büyük kısmı buna bağlıdır. → {{% int_link val="Bin yıllık krallık" link="/expl/content/1000y/the-thousand-year-kingdom" %}}
 - **Zıtlık.** Fahişe Babil ve gelin, Yeni Yeruşalim, neredeyse aynı sözlerle tanıtılır — {{% bible val="yedi tası taşıyan yedi melekten biri gelip bana, 'Gel, sana göstereyim …' dedi" link="rev:17,1" lang="tr" %}} ({{% bible val="karşılaştırın 21:9" link="rev:21,9" lang="tr" %}}) — böylece okur iki kenti yan yana koyar. → {{% int_link val="Fahişe Babil kimdir?" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}, {{% int_link val="Yeni Yeruşalim" link="/expl/content/paradise/the-new-jerusalem" %}}
 - **Çözüm.** Yedi kiliseye verilen vaatler sonda yanıt bulur: yaşam ağacı ({{% bible val="2:7" link="rev:2,7" lang="tr" %}} → {{% bible val="22:2" link="rev:22,2" lang="tr" %}}), alında Tanrı'nın adı ({{% bible val="3:12" link="rev:3,12" lang="tr" %}} → {{% bible val="22:4" link="rev:22,4" lang="tr" %}}), sabah yıldızı ({{% bible val="2:28" link="rev:2,28" lang="tr" %}} → {{% bible val="22:16" link="rev:22,16" lang="tr" %}}), Mesih'in tahtında bir yer ({{% bible val="3:21" link="rev:3,21" lang="tr" %}} → {{% bible val="22:5" link="rev:22,5" lang="tr" %}}).
-- **Küçük ölçekte kiazma.** Tek tek sözler bile çapraz kurulur: "Kutsalların dayanma gücü ve imanı bunu gerektirir" sözü "kulağı olan işitsin" sözünü yanıtlar ({{% bible val="13:9–10" link="rev:13,9-10" lang="tr" %}}), "bilgelik bunu gerektirir" sözü de "anlayışı olan hesaplasın" sözünü ({{% bible val="13:18" link="rev:13,18" lang="tr" %}}). → {{% int_link val="Canavarın doğası" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}, {{% int_link val="İki Tanık" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **Aynı çağrı, iki kez** (vurgu). İki çağrı canavarın portresini çerçeveler ve aynı şeyi söyler. "Kulağı olan işitsin" sözünün ardından "kutsalların dayanma gücü ve imanı bunu gerektirir" gelir ({{% bible val="13:9–10" link="rev:13,9-10" lang="tr" %}}); sonra da "bilgelik bunu gerektirir: anlayışı olan sayıyı hesaplasın" ({{% bible val="13:18" link="rev:13,18" lang="tr" %}}). İkincisi zeki okurlar için bir bilmece değil, canavarı görebilmek için aynı çağrıdır — yalnızca kulak yerine zihin geçmiştir. Yuhanna bunu, canavarın yedi başının açıklandığı yerde neredeyse aynı sözcüklerle bir kez daha söyler ({{% bible val="17:9" link="rev:17,9" lang="tr" %}}).[^pair] → {{% int_link val="Canavarın doğası" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}, {{% int_link val="İki Tanık" link="/expl/content/witnesses/the-two-witnesses" %}}
 
 [^ring]: Beale, s. 226–227, Kiddle'ı izleyerek.
 [^bowls]: Yapı Bauckham'ı izler, *Climax*, s. 9–14. O, ara bölümün yokluğunu daha kesin okur: "tövbe zamanı geçmiştir" (s. 14).
 [^greek]: Beale, s. 100–103.
 [^ear]: Bauckham, *Climax*, s. 1–3.
+[^pair]: Beale, s. 24: 13:18'deki çağrı, 13:9'daki çağrıyla "aynı anlama sahiptir"; yalnızca kulak yerine hesap yapan zihin imgesi kullanılır — "zihinsel olarak üstün olanların çözeceği bir bilmece değil, ruhsal tehlikeyi seçebilmeye yönelik bir çağrı." 13:18 ile 17:9'un paylaştığı kalıp için: Bauckham, *Climax*, s. 394. İki söz paralel ilerler; çapraz dizilmemiştir, dolayısıyla bu bir eşleme, kiazma değil.

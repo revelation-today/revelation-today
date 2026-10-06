@@ -18,7 +18,7 @@ appl: /appl/background/structure
 
 Das Buch ist voller Zahlen — aber was bedeuten sie eigentlich? Sind sie wörtlich gemeint, wie die 1260 Tage, oder wollen sie anders gelesen werden? Um das zu beantworten, lohnt es sich, zunächst zu fragen, wie Zahlen in der Bibel allgemein funktionieren.
 
-Zahlen werden in der Schrift oft benutzt, um auf eine frühere Geschichte zurückzuverweisen. Jesus erwählte 12 Apostel, weil Israel selbst aus 12 Stämmen bestand. Israel zog 40 Jahre durch die Wüste, nachdem es zuvor 40 Tage lang das verheißene Land im Unglauben erkundet hatte — die zweiten 40 als Antwort auf die ersten 40, die sie rückgängig machten.
+Zahlen werden in der Schrift oft benutzt, um auf eine frühere Geschichte zurückzuverweisen. Jesus erwählte 12 Apostel, weil Israel selbst aus 12 Stämmen bestand. Israel zog 40 Jahre durch die Wüste, nachdem es zuvor 40 Tage lang das verheißene Land im Unglauben erkundet hatte — {{% bible val="ein Jahr für jeden Tag" link="num:14,34" lang="de" %}}, wie Gott es sagt, als er das Urteil spricht.
 
 ## Die Zahl 7
 

@@ -6,7 +6,7 @@ sources:
       ref: dorsey
     - pages: 7–11
       ref: walsh
-    - pages: 1–3, 9–14
+    - pages: 1–3, 9–14, 394
       ref: bauckham_climax
     - pages: 116–124
       ref: beale_rev
@@ -83,8 +83,8 @@ Eine Einheit sollte außerdem als eigenständiges, in sich geschlossenes, vollst
 - Einzigartigkeit in Bezug auf Zeit, Ort, Beteiligte, Thema, Gattung oder Erzähltempo,
 - leichter Zugänglichkeit für das Publikum,
 - innerer Stimmigkeit des Inhalts,
-- einem einheitlichen Umfang — typischerweise 15–20 Seiten hebräischer Text (groß), ein Bibelkapitel (mittel) oder ein einzelner Satz bis wenige Absätze (klein),
-- einer typischen Anzahl von 7 oder 13–14 Einheiten, wobei auch 3 oder 5 möglich sind.
+- einem einheitlichen Umfang — typischerweise 15–20 Seiten hebräischer Text für eine große Einheit, so lang wie 1. Mose 1–11 und etwa eine halbe Stunde zum Vorlesen; ein Bibelkapitel für eine mittlere; ein einzelner Satz bis wenige Absätze für eine kleine,
+- einer typischen Anzahl von sieben Einheiten. Die Siebengliedrigkeit ist weitaus die häufigste, und ihre beiden üblichen Abwandlungen sind dreizehn Teile mit dem siebten in der Mitte (Klagelieder, Ester, die Geschichten von Abraham, Isaak und Jakob) und vierzehn, also zweimal sieben (die Josefsgeschichte, der Auszug aus Ägypten, Josua 1–12). Auch drei und fünf Teile kommen vor (Richter; Haggai, Psalmen).
 
 ## Die Anordnung der Einheiten
 
@@ -262,9 +262,10 @@ Jedes der oben beschriebenen Werkzeuge ist in der Offenbarung selbst am Werk, un
 - **Dieselbe Geschichte aus einem anderen Blickwinkel** (zweite Perspektive). Die Offenbarung erzählt oft neu, statt weiterzuerzählen: Siegel, Posaunen und Schalen gehen mit steigender Wucht über dasselbe Gelände, und Kapitel 20 erzählt noch einmal die Niederlage Satans, die schon Kapitel 12 erzählt. Ob die Visionen nacheinander ablaufen oder sich wiederholen, ist eine der ältesten Fragen an dieses Buch (Beale, S. 116–124), und ein großer Teil der Debatte um das Tausendjährige Reich hängt daran. → {{% int_link val="Das Tausendjährige Reich" link="/expl/content/1000y/the-thousand-year-kingdom" %}}
 - **Kontrast.** Die Hure Babel und die Braut, das Neue Jerusalem, werden mit fast denselben Worten eingeführt — {{% bible val="einer von den sieben Engeln, welche die sieben Schalen hatten, kam und sprach zu mir: Komm, ich will dir zeigen …" link="rev:17,1" lang="de" %}} ({{% bible val="vergleiche 21,9" link="rev:21,9" lang="de" %}}) —, damit der Leser die beiden Städte nebeneinanderstellt. → {{% int_link val="Wer ist die Hure Babel?" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}, {{% int_link val="Das Neue Jerusalem" link="/expl/content/paradise/the-new-jerusalem" %}}
 - **Auflösung.** Die Verheißungen an die sieben Gemeinden finden am Ende ihre Antwort: der Baum des Lebens ({{% bible val="2,7" link="rev:2,7" lang="de" %}} → {{% bible val="22,2" link="rev:22,2" lang="de" %}}), Gottes Name auf der Stirn ({{% bible val="3,12" link="rev:3,12" lang="de" %}} → {{% bible val="22,4" link="rev:22,4" lang="de" %}}), der Morgenstern ({{% bible val="2,28" link="rev:2,28" lang="de" %}} → {{% bible val="22,16" link="rev:22,16" lang="de" %}}), ein Platz auf Christi Thron ({{% bible val="3,21" link="rev:3,21" lang="de" %}} → {{% bible val="22,5" link="rev:22,5" lang="de" %}}).
-- **Chiasmus im Kleinen.** Selbst einzelne Sätze sind über Kreuz gebaut: „Hier ist das standhafte Ausharren und der Glaube der Heiligen“ antwortet auf „wenn jemand ein Ohr hat, der höre“ ({{% bible val="13,9–10" link="rev:13,9-10" lang="de" %}}), und „hier ist die Weisheit“ auf „wer Verständnis hat, der berechne“ ({{% bible val="13,18" link="rev:13,18" lang="de" %}}). → {{% int_link val="Das Wesen des Tieres" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}, {{% int_link val="Die beiden Zeugen" link="/expl/content/witnesses/the-two-witnesses" %}}
+- **Derselbe Ruf, zweimal gesagt** (Betonung). Zwei Aufrufe rahmen das Bild des Tieres ein und sagen dasselbe. Auf „wenn jemand ein Ohr hat, der höre“ folgt „hier ist das standhafte Ausharren und der Glaube der Heiligen“ ({{% bible val="13,9–10" link="rev:13,9-10" lang="de" %}}); dann kommt „hier ist die Weisheit: wer Verständnis hat, der berechne die Zahl“ ({{% bible val="13,18" link="rev:13,18" lang="de" %}}). Das Zweite ist kein Rätsel für kluge Leser, sondern derselbe Ruf, das Tier zu durchschauen — nur steht der Verstand an der Stelle des Ohrs. Johannes sagt es noch einmal, fast wörtlich, dort, wo die sieben Köpfe des Tieres erklärt werden ({{% bible val="17,9" link="rev:17,9" lang="de" %}}).[^pair] → {{% int_link val="Das Wesen des Tieres" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}, {{% int_link val="Die beiden Zeugen" link="/expl/content/witnesses/the-two-witnesses" %}}
 
 [^ring]: Beale, S. 226–227, nach Kiddle.
 [^bowls]: Der Aufbau folgt Bauckham, *Climax*, S. 9–14. Er liest das fehlende Zwischenstück strenger: „Die Zeit zur Umkehr ist vorbei“ (S. 14).
 [^greek]: Beale, S. 100–103.
 [^ear]: Bauckham, *Climax*, S. 1–3.
+[^pair]: Beale, S. 24: Der Aufruf in 13,18 hat „dieselbe Bedeutung“ wie der in 13,9, nur mit dem Bild des rechnenden Verstandes anstelle des Ohrs — „kein Rätsel, das die intellektuell Überlegenen lösen sollen, sondern ein Aufruf, geistliche Gefahr zu erkennen“. Zur Formel, die 13,18 und 17,9 teilen: Bauckham, *Climax*, S. 394. Die beiden Sätze laufen parallel; sie sind nicht über Kreuz gestellt, es ist also eine Paarung und kein Chiasmus.

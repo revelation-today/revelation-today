@@ -8,6 +8,8 @@ docType: expl
 sources:
     - pages: 22, 25, 30
       ref: brueggemann_gen
+    - pages: "vol. 4: 68–73"
+      ref: tdot
     - pages: "vol. 11: 16"
       ref: tdot
     - pages: "vol. 13: 59"
@@ -50,7 +52,7 @@ The serpent approaches the woman, not the man, and challenges her about the tree
 
 That extra commandment is exactly what the devil exploits, and it offers no real protection: the fruit is appealing to look at, and she eats it.
 
-Then she gives it to the man — and he doesn't need to be found, because he has been right there the whole time, silent. That silence is telling, since the Hebrew word for "male" carries the sense "to remember." If there is one thing he is supposed to be good at, it's remembering what God said and who he is. Instead, both of them fail. The result is shame, and shame drives them to hide from God and to blame each other — it breaks every relationship it touches.
+Then she gives it to the man — and he doesn't need to be found, because he has been right there the whole time, silent. That silence is telling: he is the one who {{% bible val="heard the command first-hand" link="gen:2,16-17" lang="en" %}}, so remembering what God had said was his part to play. In Hebrew there is even a play on sound here, since "male" and "remember" are both *zakar* — though they are two separate words, and Genesis never makes the point itself.[^zakar] Instead, both of them fail. The result is shame, and shame drives them to hide from God and to blame each other — it breaks every relationship it touches.
 
 ## God's recovery plan
 
@@ -76,7 +78,7 @@ They have to leave the garden, but first their shame is covered — with animal 
 ## A new beginning
 
 <a name="e861"></a>
-After they leave the garden, Eve becomes pregnant and makes a striking statement: "I have gotten a child with the help of the Lord." It was obviously Adam's child, but the name she gives him — Cain, which sounds like the Hebrew for "I have gotten" — shows what she's really thinking.[^cain] Perhaps she hopes Cain is her ticket back into the garden, the promised savior who will destroy the serpent. That hope becomes even clearer when she names her second son Abel — meaning "nothing" or "vapor."
+After they leave the garden, Eve becomes pregnant and makes a striking statement. Most English Bibles read it "I have gotten a child with the help of the Lord", but the Hebrew is famously hard: the small word *'et* can mean "with the help of", or "like, as the Lord does", or it can simply mark what follows as the object — which is how Luther read it, so that Eve says "I have gotten a man, the Lord".[^eve] On that reading she hopes Cain is her ticket back into the garden, the promised savior who will destroy the serpent. The name she gives him points the same way — Cain, which sounds like the Hebrew for "I have gotten"[^cain] — and so does the name of her second son, Abel, meaning "nothing" or "vapor."
 
 ## The explosion
 
@@ -108,6 +110,8 @@ The story breaks off with Lamech's boast, and nothing in Genesis 4 answers it. T
 
 **The city.** Driven out of the garden, people do not look for the way back. They choose the city instead. {{% bible val="Cain builds the first one" link="gen:4,16-17" lang="en" %}}, away from God's presence, and at Babel they build one {{% bible val="to make a name for themselves" link="gen:11,4" lang="en" %}}. The city is their own answer to the lost garden: safety and a name without God. Revelation ends with a city too. But this one is not built from below. {{% bible val="It comes down from God, and he lives in it" link="rev:21,2-3" lang="en" %}}. And in the middle of it are {{% bible val="the river and the tree of life" link="rev:22,1-2" lang="en" %}}: the garden is given back inside the city.[^city]
 
+[^zakar]: TDOT, vol. 4, treats "remember" (*zākar*, pp. 68ff.) and "male" (*zākār*, p. 73) as separate words; it does not derive the one from the other.
+[^eve]: Luther read *'et* as the object marker: "I have gotten a man, the Lord." The two usual alternatives take it as "with the help of" (so most modern translations) or as "like, as the Lord does". The Hebrew allows all three.
 [^cain]: TDOT, vol. 13, p. 59.
 [^tree]: Beale, pp. 234–235, 1106.
 [^sign]: Beale, p. 414, with the Palestinian Targum on Gen 4:15: "the Lord sealed on the face of Cain the mark of the great and honorable name".

@@ -52,7 +52,7 @@ Kamu mungkin menganggap murka Allah sebagai topik yang sulit secara etis maupun 
 - Kamu belum pernah mengalami perang atau wabah yang membunuh semua orang karena tidak ada yang peduli.
 - Kamu bahkan mungkin memiliki perspektif dan pilihan yang nyata dalam hidupmu.
 
-Sepanjang sejarah, sebagian besar manusia mengenal setidaknya satu dari hal-hal ini. [Perbudakan, misalnya, bukanlah fenomena masa lalu, melainkan justru sedang meningkat](https://50forfreedom.org/modern-slavery/), dan di balik praktik jahat ini ada manusia - bukan kekuatan abstrak - yang menyebabkannya, baik secara langsung maupun tidak langsung.
+Sepanjang sejarah, sebagian besar manusia mengenal setidaknya satu dari hal-hal ini. Perbudakan, misalnya, bukanlah fenomena masa lalu: pada hari mana pun di tahun 2021 ada sekitar 50 juta orang yang hidup dalam perbudakan modern, sepuluh juta lebih banyak daripada tahun 2016.[^slavery] Di baliknya ada manusia — bukan kekuatan abstrak — yang menyebabkannya, baik secara langsung maupun tidak langsung.
 
 Jadi ketika Allah bertindak demi mereka yang menderita, tindakan itu adalah tindakan yang benar.
 
@@ -63,3 +63,4 @@ Kita bertanggung jawab atas penderitaan yang kita timbulkan bagi orang lain, dan
 [^hide]: Hosea 10:8 dan Kejadian 3:8–9 melatarbelakangi adegan ini: Beale, hlm. 400.
 
 [^hanson]: Inilah argumen A. T. Hanson dalam *The Wrath of the Lamb* (London: SPCK, 1957).
+[^slavery]: [*Global Estimates of Modern Slavery*](https://www.walkfree.org/global-slavery-index/), perkiraan bersama Organisasi Buruh Internasional, Walk Free, dan Organisasi Internasional untuk Migrasi (2022): "Diperkirakan 50 juta orang hidup dalam perbudakan modern pada hari mana pun di tahun 2021, meningkat 10 juta orang sejak 2016."
