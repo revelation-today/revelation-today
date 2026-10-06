@@ -79,13 +79,13 @@ Siapakah orang-orang yang selamat ini? Mereka adalah sisa yang setia di Israel s
 
 "{{% bible val="Dan mereka akan membawa semua saudaramu dari segala bangsa sebagai persembahan kepada TUHAN, dengan menunggang kuda, dengan kereta dan tandu, dengan bagal dan unta cepat, ke gunung-Ku yang kudus, ke Yerusalem, firman TUHAN, seperti orang Israel membawa korban sajian dalam bejana yang tahir ke rumah TUHAN." link="isa:66,20" lang="ind" %}}"
 
-Sekali lagi, merekalah orang-orang percaya di Israel yang membawa persembahan itu — tetapi siapakah yang mereka bawa? Dalam bahasa Ibrani mereka disebut "semua saudaramu". Mereka tidak mungkin orang Israel lainnya, sebab seluruh konteks di sini berbicara tentang bangsa-bangsa lain, dan di tempat lain mana pun orang Israel tidak memulihkan orang Israel lainnya kecuali melalui Hamba Allah sendiri. Jadi "saudara-saudara" ini pastilah bangsa-bangsa lain yang telah datang kepada Tuhan, yang kini digambarkan dengan istilah yang sama seperti "anak-anak Israel yang membawa korban sajian mereka ke bait TUHAN".
+Sekali lagi, merekalah orang-orang percaya di Israel yang membawa persembahan itu — tetapi siapakah yang mereka bawa? Dalam bahasa Ibrani mereka disebut "semua saudaramu". Kebanyakan penafsir membaca saudara-saudara ini sebagai orang Israel yang terserak, yang dibawa pulang oleh bangsa-bangsa — bangsa-bangsalah yang membawa persembahan itu. Saya membacanya sebaliknya: "saudara-saudara" ini pastilah bangsa-bangsa lain yang telah datang kepada Tuhan, yang kini digambarkan dengan istilah yang sama seperti "anak-anak Israel yang membawa korban sajian mereka ke bait TUHAN".
 
 {{% bible val="Paulus kemungkinan besar memahami ungkapan ini sebagai alasan mengapa ia menjadi pelayan bagi bangsa-bangsa lain" link="rom:15,15-16" lang="ind" %}}.
 
 "{{% bible val="Dan Aku juga akan mengambil sebagian dari mereka menjadi imam dan orang Lewi, firman TUHAN." link="isa:66,21" lang="ind" %}}"
 
-Ini pun pastilah merujuk kepada bangsa-bangsa lain, sebab orang Israel sudah menjadi imam dan orang Lewi — dan bahkan pada akhir zaman, tidak masuk akal jika orang Yahudi di luar suku Lewi tiba-tiba menjadi imam.
+Ini pun saya baca tentang bangsa-bangsa lain. Keberatannya — bahwa orang Yahudi di luar suku Lewi tidak bisa begitu saja menjadi imam — memang nyata, tetapi keberatan itu bermata dua: dengan pembacaan mana pun janji itu menerobos aturan lama, dan justru itulah intinya.
 
 Zakharia menawarkan satu bagian lagi di mana bangsa-bangsa lain disebut "umat-Ku":
 

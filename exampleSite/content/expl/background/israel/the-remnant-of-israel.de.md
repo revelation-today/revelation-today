@@ -79,13 +79,13 @@ Wer sind diese Überlebenden? Es ist der treue Überrest in Israel nach Gottes G
 
 „{{% bible val="‚Und sie werden alle eure Brüder aus allen Nationen zu meinem heiligen Berg nach Jerusalem bringen, als Opfergabe für den Herrn — auf Pferden, in Wagen und Karren und auf Maultieren und Kamelen‘, spricht der Herr. ‚Sie werden sie bringen, wie die Israeliten ihre Speisopfer in zeremoniell reinen Gefäßen zum Tempel des Herrn bringen.‘" link="isa:66,20" lang="de" %}}“
 
-Auch hier sind es wieder die Gläubigen in Israel, die die Opfergabe bringen — aber wen bringen sie? Im Hebräischen heißen sie „alle eure Brüder“. Es können keine anderen Israeliten sein, denn der ganze Zusammenhang hier handelt von den Nationen, und nirgendwo sonst stellen Israeliten andere Israeliten wieder her, außer durch den Knecht Gottes selbst. Diese „Brüder“ müssen also die Nationen sein, die zum Herrn gekommen sind und nun mit denselben Worten beschrieben werden wie „Söhne Israels, die ihre Speisopfer zum Tempel des Herrn bringen“.
+Auch hier sind es wieder die Gläubigen in Israel, die die Opfergabe bringen — aber wen bringen sie? Im Hebräischen heißen sie „alle eure Brüder“. Die meisten lesen diese Brüder als die zerstreuten Israeliten, die die Nationen heimbringen — die Nationen als die, welche die Gabe bringen. Ich lese es andersherum: Die Brüder sind die Nationen, die zum Herrn gekommen sind und nun mit denselben Worten beschrieben werden wie „Söhne Israels, die ihre Speisopfer zum Tempel des Herrn bringen“.
 
 {{% bible val="Paulus verstand diesen Ausdruck höchstwahrscheinlich so, dass er ein Diener für die Nationen war" link="rom:15,16" lang="de" %}}.
 
 „{{% bible val="‚Und ich werde einige von ihnen auch zu Priestern und Leviten machen‘, spricht der Herr." link="isa:66,21" lang="de" %}}“
 
-Auch das muss sich auf die Nationen beziehen, denn die Israeliten sind bereits Priester und Leviten — und selbst in der Endzeit würde es keinen Sinn ergeben, dass Juden außerhalb des Stammes Levi plötzlich Priester würden.
+Auch das lese ich von den Nationen. Der Einwand — dass Juden außerhalb des Stammes Levi nicht einfach Priester werden könnten — ist berechtigt, schneidet aber nach beiden Seiten: Wie man es auch liest, die Verheißung durchbricht die alte Ordnung, und genau darum geht es.
 
 Sacharja bietet eine weitere Passage, in der die Nationen „mein Volk“ genannt werden:
 

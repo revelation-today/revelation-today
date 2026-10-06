@@ -80,11 +80,11 @@ Bu hayatta kalanlar kimdir? Bunlar, Tanrı'nın yargısından sonra ulusların a
 
 “{{% bible val="İsrailoğulları tahıl sunularını pak kaplar içinde RAB’bin Tapınağı’na nasıl getiriyorsa, onlar da bütün kardeşlerinizi uluslardan atlarla, savaş arabalarıyla, at arabalarıyla, katırlarla, develerle kutsal dağıma, Yeruşalim’e, RAB’be sunu olarak getirecekler.›› Böyle diyor RAB." link="isa:66,20" lang="tr" %}}”
 
-Yine sunuyu getirenler İsrail'deki imanlılardır — peki kimi getiriyorlar? İbranicede onlara "bütün kardeşleriniz" denir. Bunlar diğer İsrailliler olamaz, çünkü buradaki bağlamın tamamı Yahudi olmayanlarla ilgilidir ve Tanrı'nın Hizmetkârı dışında hiçbir yerde İsrailliler diğer İsraillileri geri getirmez. Öyleyse bu "kardeşler", Rab'be gelmiş ve şimdi "tahıl sunularını Rab'bin tapınağına getiren İsrail oğulları" ile aynı terimlerle tanımlanan Yahudi olmayanlar olmalıdır.
+Yine sunuyu getirenler İsrail'deki imanlılardır — peki kimi getiriyorlar? İbranicede onlara "bütün kardeşleriniz" denir. Çoğu yorumcu bu kardeşleri, ulusların yurtlarına geri taşıdığı dağılmış İsrailliler olarak okur — sunuyu getirenler uluslardır. Ben tersine okuyorum: bu "kardeşler", Rab'be gelmiş ve şimdi "tahıl sunularını Rab'bin tapınağına getiren İsrail oğulları" ile aynı terimlerle tanımlanan Yahudi olmayanlar olmalıdır.
 
 {{% bible val="Pavlus büyük olasılıkla bu ifadeyi, kendisinin Yahudi olmayanlara hizmetkâr olduğu anlamında anlamıştır." link="rom:15,16" lang="tr" %}}
 
-“{{% bible val="‹‹Onların arasından kimilerini kâhin ve Levili olarak seçeceğim›› diyor RAB." link="isa:66,21" lang="tr" %}}”
+“{{% bible val="‹‹Onların arasından kimilerini kâhin ve Levili olarak seçeceğim›› diyor RAB." link="isa:66,21" lang="tr" %}}” Bunu da uluslar hakkında okuyorum. İtiraz — Levi oymağı dışındaki Yahudilerin öylece kâhin olamayacağı — yerinde bir itirazdır, ama iki yöne de keser: hangi okumaya göre olursa olsun vaat eski kuralı kırar, ve asıl mesele de budur.
 
 Bu da Yahudi olmayanlara atıfta bulunuyor olmalıdır, çünkü İsrailliler zaten kâhin ve Levili'dir — ahir zamanda bile Levi oymağı dışındaki Yahudilerin birdenbire kâhin olması mantıklı olmaz.
 

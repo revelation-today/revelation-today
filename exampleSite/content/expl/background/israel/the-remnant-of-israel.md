@@ -79,13 +79,13 @@ Who are these survivors? They are the faithful remnant in Israel after God's jud
 
 “{{% bible val="And they will bring all your people, from all the nations, to my holy mountain in Jerusalem as an offering to the Lord — on horses, in chariots and wagons, and on mules and camels,’ says the Lord. ‘They will bring them, as the Israelites bring their grain offerings, to the temple of the Lord in ceremonially clean vessels." link="isa:66,20" lang="en" %}}”
 
-Once again, these are the believers in Israel bringing the offering — but whom do they bring? In the Hebrew they are called "all your brothers". They can't be other Israelites, since the whole context here is about the Gentiles, and nowhere else do Israelites restore other Israelites except through the Servant of God himself. So these "brothers" must be the Gentiles who have come to the Lord, now described in the same terms as "sons of Israel who bring their grain offerings to the temple of the Lord."
+Once again, these are the believers in Israel bringing the offering — but whom do they bring? In the Hebrew they are called "all your brothers". Most read these brothers as the scattered Israelites whom the nations carry home — the nations as the ones bringing the offering. I read them the other way round: the brothers are the Gentiles who have come to the Lord, now described in the same terms as "sons of Israel who bring their grain offerings to the temple of the Lord."
 
 {{% bible val="Paul most likely understood this phrase to mean that he was a servant to the Gentiles" link="rom:15,16" lang="en" %}}.
 
 “{{% bible val="And I will select some of them also to be priests and Levites,’ says the Lord." link="isa:66,21" lang="en" %}}”
 
-This, too, must refer to Gentiles, since the Israelites are already priests and Levites — and even in the end times, it wouldn't make sense for Jews outside the tribe of Levi to suddenly become priests.
+I read this of the Gentiles too. The objection — that Jews outside the tribe of Levi could not simply become priests — is a real one, but it cuts both ways: on any reading the promise breaks the old rule, and that is the point of it.
 
 Zechariah offers another passage where the Gentiles are called "my people":
 
