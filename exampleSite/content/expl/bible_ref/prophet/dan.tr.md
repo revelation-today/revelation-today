@@ -32,7 +32,7 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Daniel:3" link="dan:3,-1" lang="tr" %}} | ["İsa'nın görüşü": Daniel'in arkadaşlarının ateşli fırındaki öyküsünü](/expl/content/letters/the-letter-to-the-church-in-thyatira#5c6b) |
 | {{% bible val="Daniel:3,1" link="dan:3,1" lang="tr" %}} | ["Daniel'in fırındaki arkadaşları": heykelin ölçüleridir](/expl/content/beasts/666-the-number-of-the-beast#1a8b) |
 | {{% bible val="Daniel:3,1" link="dan:3,1" lang="tr" %}} | ["Referanslarla dolu bir çanta": Dan.3'te](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#042c) |
-| {{% bible val="Daniel:3,4-12" link="dan:3,4-12" lang="tr" %}} | ["İkinci canavar": Daniel kitabında](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#929e) |
+| {{% bible val="Daniel:3,4-12" link="dan:3,4-12" lang="tr" %}} | ["İkinci canavar": Daniel kitabında](/expl/content/beasts/666-the-number-of-the-beast#929e) |
 | {{% bible val="Daniel:3,16-18" link="dan:3,16-18" lang="tr" %}} | ["Daniel'in fırındaki arkadaşları": heykele boyun eğmedikleri için](/expl/content/beasts/666-the-number-of-the-beast#1a8b) |
 | {{% bible val="Daniel:3,25" link="dan:3,25" lang="tr" %}} | ["İsa'nın görüşü": ilahların oğluna benzeyen biri](/expl/content/letters/the-letter-to-the-church-in-thyatira#5c6b) |
 | {{% bible val="Daniel:3,28-30" link="dan:3,28-30" lang="tr" %}} | ["Referanslarla dolu bir çanta": kralın Tanrı'yı tanıyıp övmesi, ardından arkadaşları yükseltmesiyle](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#042c) |

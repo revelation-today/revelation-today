@@ -70,7 +70,7 @@ Revelation draws the same connection: the kings {{% bible val="prostitute themse
 
 Could Babylon simply be a picture of the church gone astray? Not quite — but the church is always at risk of becoming part of Babylon. Babylon is the counterpart to the Bride and the New Jerusalem, and it's a system in its own right. Together with the beast it sits on, it {{% int_link val="represents the evil trinity to deceive the world" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
-The beast underneath the harlot represents political and military power ({{% int_link val="embodied by the emperor" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}), while the harlot herself represents the supporting system around it — the
+The beast underneath the harlot represents political and military power ({{% int_link val="embodied by the emperor" link="/expl/content/beasts/666-the-number-of-the-beast" %}}), while the harlot herself represents the supporting system around it — the
 
 - economy ({{% bible val="giving wealth or making poor" link="rev:13,16-17" lang="en" %}}),
 - culture, seen in {{% bible val="impressive temple worship" link="rev:13,13-15" lang="en" %}},

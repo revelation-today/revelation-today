@@ -25,4 +25,4 @@ docType: expl
 | {{% bible val="Ephesians:5,25-27" link="eph:5,25-27" lang="en" %}} | ["Bride of God": marriage to Christ is compared to the marriage between a man and a woman](/expl/background/israel/the-church-is-part-of-israel#9c2e) |
 | {{% bible val="Ephesians:5,25-27" link="eph:5,25-27" lang="en" %}} | ["The Core Teaching": Ephesians 5:25-27](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#the-core-teaching) |
 | {{% bible val="Ephesians:6,2-3" link="eph:6,2-3" lang="en" %}} | ["Crux 4: how much of the promise lands inside history?": long life on the earth](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
-| {{% bible val="Ephesians:6,12" link="eph:6,12" lang="en" %}} | ["The dragon": we are not fighting against flesh and blood](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#bb06) |
+| {{% bible val="Ephesians:6,12" link="eph:6,12" lang="en" %}} | ["The dragon": we are not fighting against flesh and blood](/expl/content/beasts/666-the-number-of-the-beast#bb06) |

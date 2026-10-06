@@ -30,7 +30,7 @@ Bu kitapta kullanılan 30 Kutsal Kitap pasajı vardır
 | {{% bible val="Mezmur:96,3" link="psa:96,3" lang="tr" %}} | ["İlk üç melek": ulusları ve halkları](/expl/content/harvest/gods-army-and-the-seven-angels#040b) |
 | {{% bible val="Mezmur:96,7-10" link="psa:96,7-10" lang="tr" %}} | ["İlk üç melek": haberin içeriği kısa mezmurun geri kalanında da](/expl/content/harvest/gods-army-and-the-seven-angels#040b) |
 | {{% bible val="Mezmur:98,1-2" link="psa:98,1-2" lang="tr" %}} | ["Musa'nın şarkısı": 98](/expl/content/harvest/gods-army-and-the-seven-angels#e8d4) |
-| {{% bible val="Mezmur:104,26" link="psa:104,26" lang="tr" %}} | ["İlk okuyucuların bağlamı": Tanrı için bir oyuncaktan farksızdır](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#b8d0) |
+| {{% bible val="Mezmur:104,26" link="psa:104,26" lang="tr" %}} | ["İlk okuyucuların bağlamı": Tanrı için bir oyuncaktan farksızdır](/expl/content/beasts/666-the-number-of-the-beast#b8d0) |
 | {{% bible val="Mezmur:104,26" link="psa:104,26" lang="tr" %}} | ["Referanslarla dolu bir çanta": Mez.104](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#042c) |
 | {{% bible val="Mezmur:105,1" link="psa:105,1" lang="tr" %}} | ["Musa'nın şarkısı": iki ilahi](/expl/content/harvest/gods-army-and-the-seven-angels#e8d4) |
 | {{% bible val="Mezmur:106,36-38" link="psa:106,36-38" lang="tr" %}} | ["İkinci ölüme hazır olanlar": çocuklarını kurban etmesinde](/expl/content/paradise/the-new-jerusalem#d33d) |

@@ -4,7 +4,7 @@ weight: 51
 docType: sermon
 audience_group: "deep-dive-guide"
 audience_track: "deep-dive"
-expl: /expl/content/beasts/the-nature-of-the-beast
+expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /sermons/deep-dive/ending/50-the-new-jerusalem-our-eternal-home
 next: /sermons/deep-dive/ending/52-the-rapture-judgment-and-left-behind-theology
 ---
@@ -15,7 +15,7 @@ Grubunuza şunu söyleyin: dolandırıcılar genellikle aynı birkaç senaryoyu,
 
 ## Üç sahne, bir düşman
 
-Vahiy, şeytanın faaliyetini kitap boyunca üç ayrı kez gösterir ve bu tekrarın kendisinin neden önemli olduğunu görmekte fayda var (bkz. [Canavarın doğası]({{< relref "expl/content/beasts/the-nature-of-the-beast" >}})). Her sahne, İsa'nın kendi zaferinin ilan edilmesinin hemen ardından gelir:
+Vahiy, şeytanın faaliyetini kitap boyunca üç ayrı kez gösterir ve bu tekrarın kendisinin neden önemli olduğunu görmekte fayda var (bkz. [Canavarın doğası]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}})). Her sahne, İsa'nın kendi zaferinin ilan edilmesinin hemen ardından gelir:
 
 - İsa 5. bölümde tomarı açmaya layık tek kişi olarak tahta oturtulduktan sonra, şeytan dört atlı olarak görünür (6:1-8).
 - 12. bölümde İsa'nın doğumu ve yüceltilmesi anlatıldıktan sonra, şeytan ejderha olarak iki canavarını toplarken görünür (12-13. bölümler).

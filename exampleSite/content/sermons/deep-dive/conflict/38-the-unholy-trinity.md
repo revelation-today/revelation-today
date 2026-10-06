@@ -4,7 +4,7 @@ weight: 38
 docType: sermon
 audience_group: "deep-dive-guide"
 audience_track: "deep-dive"
-expl: /expl/content/beasts/the-nature-of-the-beast
+expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /sermons/deep-dive/conflict/37-a-different-christmas-story
 next: /sermons/deep-dive/conflict/39-the-beast-in-its-own-day-history-and-caricature
 ---
@@ -15,7 +15,7 @@ Ask your group this: has anyone ever offered you a shortcut to something you gen
 
 ## Three appearances of the devil, one pattern
 
-Revelation shows Satan operating as a kind of dark trinity three separate times across the book: as the fourth horseman summarizing the other three (Revelation 6:1-8), here in chapter 13 as dragon-plus-two-beasts, and again in the sixth bowl as "three unclean spirits like frogs" (16:13), later judged in chapters 19 and 20. Each appearance adds detail to the same picture: he offers total victory and delivers only destruction. (Fuller argument in [The nature of the beast]({{< relref "expl/content/beasts/the-nature-of-the-beast" >}}) and [The nature of the beast in the book of revelation]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}).)
+Revelation shows Satan operating as a kind of dark trinity three separate times across the book: as the fourth horseman summarizing the other three (Revelation 6:1-8), here in chapter 13 as dragon-plus-two-beasts, and again in the sixth bowl as "three unclean spirits like frogs" (16:13), later judged in chapters 19 and 20. Each appearance adds detail to the same picture: he offers total victory and delivers only destruction. (Fuller argument in [The nature of the beast]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}) and [The nature of the beast in the book of revelation]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}).)
 
 ## The dragon in chapter 13 — hiding in plain sight, or fully visible?
 

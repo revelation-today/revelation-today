@@ -72,7 +72,7 @@ Kitab Wahyu menarik hubungan yang sama: para raja {{% bible val="berzina dengan 
 <a name="738a"></a>
 Bisakah Babel sekadar menjadi gambaran gereja yang telah menyimpang? Tidak juga — tetapi gereja selalu berada dalam bahaya untuk menjadi bagian dari Babel. Babel adalah lawan dari sang mempelai perempuan dan Yerusalem Baru, dan ia adalah sebuah sistem tersendiri. Bersama dengan binatang yang ditungganginya, {{% int_link val="ia merepresentasikan trinitas jahat untuk menipu dunia" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
-Binatang di bawah sang pelacur mewakili kekuasaan politik dan militer ({{% int_link val="yang diwujudkan oleh sang kaisar" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}), sementara sang pelacur sendiri mewakili sistem pendukung di sekelilingnya — yaitu
+Binatang di bawah sang pelacur mewakili kekuasaan politik dan militer ({{% int_link val="yang diwujudkan oleh sang kaisar" link="/expl/content/beasts/666-the-number-of-the-beast" %}}), sementara sang pelacur sendiri mewakili sistem pendukung di sekelilingnya — yaitu
 
 - ekonomi ({{% bible val="memberi kekayaan atau membuat miskin" link="rev:13,16-17" lang="ind" %}}),
 - budaya, yang terlihat dalam {{% bible val="ibadah bait suci yang mengesankan" link="rev:13,13-15" lang="ind" %}},

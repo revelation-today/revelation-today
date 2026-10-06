@@ -4,7 +4,7 @@ weight: 8
 docType: sermon
 audience_group: "liberal-progressive"
 audience_track: "adult"
-expl: /expl/content/beasts/the-nature-of-the-beast
+expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /sermons/liberal-progressive/conflict/07-a-different-christmas-story
 next: /sermons/liberal-progressive/conflict/09-who-is-the-harlot-babylon
 ---

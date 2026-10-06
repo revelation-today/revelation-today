@@ -4,7 +4,7 @@ weight: 38
 docType: sermon
 audience_group: "deep-dive-guide"
 audience_track: "deep-dive"
-expl: /expl/content/beasts/the-nature-of-the-beast
+expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /sermons/deep-dive/conflict/37-a-different-christmas-story
 next: /sermons/deep-dive/conflict/39-the-beast-in-its-own-day-history-and-caricature
 ---
@@ -26,7 +26,7 @@ kitab ini: sebagai penunggang kuda keempat yang merangkum ketiga yang lain (Wahy
 dalam pasal 13 sebagai naga-ditambah-dua-binatang, dan lagi dalam cawan keenam sebagai "tiga roh
 najis seperti katak" (16:13), yang kemudian dihakimi dalam pasal 19 dan 20. Setiap kemunculan
 menambahkan detail pada gambaran yang sama: ia menawarkan kemenangan total dan hanya
-menyampaikan kehancuran. (Argumen lengkap dalam [Binatang-Binatang dalam Kitab Wahyu]({{< relref "expl/content/beasts/the-nature-of-the-beast" >}})
+menyampaikan kehancuran. (Argumen lengkap dalam [Binatang-Binatang dalam Kitab Wahyu]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}})
 dan [Kedua Binatang dalam Kitab Wahyu]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}).)
 
 ## Naga dalam pasal 13 — bersembunyi terang-terangan, atau sepenuhnya tampak?

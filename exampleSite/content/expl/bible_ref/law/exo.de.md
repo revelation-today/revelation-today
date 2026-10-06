@@ -84,7 +84,7 @@ docType: expl
 | {{% bible val="2.Mose:12,48" link="exo:12,48" lang="de" %}} | ["Knotenpunkt 4: wie viel von der Verheißung landet innerhalb der Geschichte?": wie ein Einheimischer des Landes sein soll](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="2.Mose:12,48-51" link="exo:12,48-51" lang="de" %}} | ["Die Nationen werden Teil von Israel": dieselben Rechte](/expl/background/israel/the-remnant-of-israel#1c50) |
 | {{% bible val="2.Mose:13,8-9" link="exo:13,8-9" lang="de" %}} | ["Der Tod der Erstgeburt": Zeichen an Hand und Stirn](/expl/bible/exodus/the-plagues-in-egypt#4f21) |
-| {{% bible val="2.Mose:13,16" link="exo:13,16" lang="de" %}} | ["Das zweite Tier": Bild der Erinnerung an die Macht Gottes](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
+| {{% bible val="2.Mose:13,16" link="exo:13,16" lang="de" %}} | ["Das zweite Tier": Bild der Erinnerung an die Macht Gottes](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="2.Mose:15,1-19" link="exo:15,1-19" lang="de" %}} | ["Das Lied des Mose": Das ursprüngliche Lied des Mose beschreibt das Lob, das dem Wunder am Roten Meer folgte](/expl/content/harvest/gods-army-and-the-seven-angels#6689) |
 | {{% bible val="2.Mose:15,8" link="exo:15,8" lang="de" %}} | ["Der Thronsaal": Israels Durchzug durch das Rote Meer beim Auszug](/expl/content/worship/worship-in-the-throne-room#0938) |
 | {{% bible val="2.Mose:19,5" link="exo:19,5" lang="de" %}} | ["Gottes besonderes Eigentum": ganz eigenes, besonderes Eigentum](/expl/background/israel/the-church-is-part-of-israel#9d55) |

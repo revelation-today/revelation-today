@@ -25,4 +25,4 @@ Bu kitapta kullanılan 18 Kutsal Kitap pasajı vardır
 | {{% bible val="Efesliler:5,25-27" link="eph:5,25-27" lang="tr" %}} | ["Tanrı'nın gelini": Mesih'le olan evlilik, bir erkekle bir kadın arasındaki evlilikle karşılaştırılır](/expl/background/israel/the-church-is-part-of-israel#ed97) |
 | {{% bible val="Efesliler:5,25-27" link="eph:5,25-27" lang="tr" %}} | ["Ana Öğreti": Efesliler 5:25-27](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#ana-öğreti) |
 | {{% bible val="Efesliler:6,2-3" link="eph:6,2-3" lang="tr" %}} | ["Düğüm 4: vaadin ne kadarı tarihin içine iniyor?": yeryüzünde uzun ömürlü olursun](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
-| {{% bible val="Efesliler:6,12" link="eph:6,12" lang="tr" %}} | ["Ejderha": savaştığımız et ve kan değildir](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#744e) |
+| {{% bible val="Efesliler:6,12" link="eph:6,12" lang="tr" %}} | ["Ejderha": savaştığımız et ve kan değildir](/expl/content/beasts/666-the-number-of-the-beast#744e) |

@@ -84,7 +84,7 @@ docType: expl
 | {{% bible val="Exodus:12,48" link="exo:12,48" lang="en" %}} | ["Crux 4: how much of the promise lands inside history?": shall be as the native of the land](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Exodus:12,48-51" link="exo:12,48-51" lang="en" %}} | ["The Gentiles become part of Israel": same rights](/expl/background/israel/the-remnant-of-israel#0f15) |
 | {{% bible val="Exodus:13,8-9" link="exo:13,8-9" lang="en" %}} | ["The death of the firstborn": sign on the hand and forehead](/expl/bible/exodus/the-plagues-in-egypt#e181) |
-| {{% bible val="Exodus:13,16" link="exo:13,16" lang="en" %}} | ["The second beast": picture of the remembrance of the power of God](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#2f0d) |
+| {{% bible val="Exodus:13,16" link="exo:13,16" lang="en" %}} | ["The second beast": picture of the remembrance of the power of God](/expl/content/beasts/666-the-number-of-the-beast#2f0d) |
 | {{% bible val="Exodus:15,1-19" link="exo:15,1-19" lang="en" %}} | ["The song of Moses": The original song of Moses describes the praise that followed the miracle at the Red Sea](/expl/content/harvest/gods-army-and-the-seven-angels#5102) |
 | {{% bible val="Exodus:15,8" link="exo:15,8" lang="en" %}} | ["The throne room": Israel's crossing of the Red Sea during the Exodus](/expl/content/worship/worship-in-the-throne-room#2a89) |
 | {{% bible val="Exodus:19,5" link="exo:19,5" lang="en" %}} | ["Treasured possession of God": very own treasured possession](/expl/background/israel/the-church-is-part-of-israel#123e) |

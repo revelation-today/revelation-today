@@ -30,7 +30,7 @@ docType: expl
 | {{% bible val="Psalm:96,3" link="psa:96,3" lang="de" %}} | ["Die ersten drei Engel": Nationen und Völkern](/expl/content/harvest/gods-army-and-the-seven-angels#ad85) |
 | {{% bible val="Psalm:96,7-10" link="psa:96,7-10" lang="de" %}} | ["Die ersten drei Engel": Botschaft zieht sich auch durch den Rest dieses kurzen Psalms](/expl/content/harvest/gods-army-and-the-seven-angels#ad85) |
 | {{% bible val="Psalm:98,1-2" link="psa:98,1-2" lang="de" %}} | ["Das Lied des Mose": 98](/expl/content/harvest/gods-army-and-the-seven-angels#6689) |
-| {{% bible val="Psalm:104,26" link="psa:104,26" lang="de" %}} | ["Der Kontext der ersten Leser": nur ein Spielzeug für Gott](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#a261) |
+| {{% bible val="Psalm:104,26" link="psa:104,26" lang="de" %}} | ["Der Kontext der ersten Leser": nur ein Spielzeug für Gott](/expl/content/beasts/666-the-number-of-the-beast#a261) |
 | {{% bible val="Psalm:104,26" link="psa:104,26" lang="de" %}} | ["Ein Sack voller Referenzen": Ps.104](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Psalm:105,1" link="psa:105,1" lang="de" %}} | ["Das Lied des Mose": Psalm 105](/expl/content/harvest/gods-army-and-the-seven-angels#6689) |
 | {{% bible val="Psalm:106,36-38" link="psa:106,36-38" lang="de" %}} | ["Bereit für den zweiten Tod": Kinder opfern](/expl/content/paradise/the-new-jerusalem#e855) |

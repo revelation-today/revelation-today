@@ -4,7 +4,7 @@ weight: 51
 docType: sermon
 audience_group: "deep-dive-guide"
 audience_track: "deep-dive"
-expl: /expl/content/beasts/the-nature-of-the-beast
+expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /sermons/deep-dive/ending/50-the-new-jerusalem-our-eternal-home
 next: /sermons/deep-dive/ending/52-the-rapture-judgment-and-left-behind-theology
 ---
@@ -15,7 +15,7 @@ Tell your group: con artists tend to reuse the same handful of scripts, just wit
 
 ## Three scenes, one adversary
 
-Revelation shows us the devil's activity three distinct times across the book, and it's worth seeing why this repetition itself matters (see [The nature of the beast]({{< relref "expl/content/beasts/the-nature-of-the-beast" >}})). Each scene arrives right on the heels of Jesus's own victory being declared:
+Revelation shows us the devil's activity three distinct times across the book, and it's worth seeing why this repetition itself matters (see [The nature of the beast]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}})). Each scene arrives right on the heels of Jesus's own victory being declared:
 
 - After Jesus is enthroned as the only one worthy to open the scroll in chapter 5, Satan appears as the four horsemen (6:1-8).
 - After Jesus's birth and exaltation are described in chapter 12, Satan appears as the dragon assembling his two beasts (chapters 12-13).

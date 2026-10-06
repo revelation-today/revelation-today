@@ -84,7 +84,7 @@ Bu kitapta kullanılan 109 Kutsal Kitap pasajı vardır
 | {{% bible val="Mısırdan Çıkış:12,48" link="exo:12,48" lang="tr" %}} | ["Düğüm 4: vaadin ne kadarı tarihin içine iniyor?": ülkede doğmuş biri gibi sayılacağını](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Mısırdan Çıkış:12,48-51" link="exo:12,48-51" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": aynı haklara](/expl/background/israel/the-remnant-of-israel#6f36) |
 | {{% bible val="Mısırdan Çıkış:13,8-9" link="exo:13,8-9" lang="tr" %}} | ["İlk doğanın ölümü": el ve alın üzerindeki işaret](/expl/bible/exodus/the-plagues-in-egypt#d9b7) |
-| {{% bible val="Mısırdan Çıkış:13,16" link="exo:13,16" lang="tr" %}} | ["İkinci canavar": Tanrı'nın gücünün anımsanmasının bir resmiydi](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#929e) |
+| {{% bible val="Mısırdan Çıkış:13,16" link="exo:13,16" lang="tr" %}} | ["İkinci canavar": Tanrı'nın gücünün anımsanmasının bir resmiydi](/expl/content/beasts/666-the-number-of-the-beast#929e) |
 | {{% bible val="Mısırdan Çıkış:15,1-19" link="exo:15,1-19" lang="tr" %}} | ["Musa'nın şarkısı": Musa'nın asıl şarkısı, Kızıldeniz'deki mucizenin ardından söylenen övgüyü anlatır](/expl/content/harvest/gods-army-and-the-seven-angels#e8d4) |
 | {{% bible val="Mısırdan Çıkış:15,8" link="exo:15,8" lang="tr" %}} | ["Taht odası": İsrail'in Mısır'dan Çıkış sırasında Kızıldeniz'i geçişi](/expl/content/worship/worship-in-the-throne-room#54a4) |
 | {{% bible val="Mısırdan Çıkış:19,5" link="exo:19,5" lang="tr" %}} | ["Tanrı'nın değerli mülkü": öz değerli mülkü olarak adlandırır](/expl/background/israel/the-church-is-part-of-israel#5369) |

@@ -1,23 +1,31 @@
 ---
-title: "Die beiden Tiere in der Offenbarung"
+title: "Der Drache und die zwei Tiere"
 weight: 1
 base: /quick/content/beasts
 story: /story/general/tour
 story_anchor: beasts
 prev: /expl/content/jesus/a-different-christmas-story
-next: /expl/content/beasts/the-beasts-and-the-666-in-historical-context
+next: /expl/content/beasts/666-the-number-of-the-beast
 docType: expl
 appl: /appl/content/beasts
 deeper:
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
-    - name: Die Tiere im historischen Kontext
-      link:  /expl/content/beasts/the-beasts-and-the-666-in-historical-context
     - name: Die Zahl 666
       link:  /expl/content/beasts/666-the-number-of-the-beast
     - name: Die 3,5, Jahre
       link:  /expl/bible/daniel/the-secret-of-the-3-5-years
 sources: 
+    - pages: 729
+      ref: beale_rev
+    - pages: 20
+      ref: bauckham_climax
+    - pages: 89, 91, 124
+      ref: bauckham_rev
+    - pages: 148, 262, 623, 812, 894
+      ref: beale_rev
+    - pages: 729, 1028
+      ref: beale_rev
     - pages: 681–730
       ref: beale_rev
     - pages: 88   
@@ -31,6 +39,8 @@ sources:
 readBefore:
     - name: "Pax Romana — Ein Schlüssel zum Verständnis der Offenbarung"
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
+aliases:
+    - /de/expl/content/beasts/the-nature-of-the-beast
 ---
 
 Eines der ersten Dinge, die einem beim Buch der Offenbarung in den Sinn kommen, sind der Drache und die beiden Tiere mit der Zahl 666, die Menschen an Hand und Stirn zeichnen. Es gibt reichlich Spekulation darüber, was das bedeuten könnte — schauen wir uns also den Text selbst genau an.
@@ -70,7 +80,6 @@ Dabei entspricht die Erscheinung des ersten Tieres keinem einzelnen der {{% bibl
 | {{% bible val="Das Horn spricht große Dinge" link="dan:7,8" lang="de" %}} </br> {{% bible val="spricht gegen den Höchsten" link="dan:7,25" lang="de" %}} | {{% bible val="Tier lästert Gott" link="rev:13,6" lang="de" %}} |
 | {{% bible val="Die 10 Hörner sind 10 Könige" link="dan:7,24" lang="de" %}} | {{% bible val="10 Kronen" link="rev:13,1" lang="de" %}} |
 
-
 ## Der zweifache Angriff
 
 <a name="a89e"></a>
@@ -78,15 +87,15 @@ Diese Passage folgt auf Satans gescheiterten Versuch, Jesus und Israel zu vernic
 
 Schauen wir uns diese beiden Tiere genauer an. Sie wirken zusammen und stützen sich gegenseitig, und der Text beschreibt sie in einem bewusst parallelen Muster, das unten dargestellt ist.
 
-| Thema | Erstes Tier | Zweites Tier |
-|-------|-------------|--------------|
-| Ursprung | {{% bible val="Aus dem Meer" link="rev:13,1" lang="de" %}} | {{% bible val="Aus der Erde" link="rev:13,11" lang="de" %}} |
-| Identität (mit Daniel) | {{% bible val="Tier mit sieben Hörnern" link="rev:13,1" lang="de" %}} -> Fortbestand und Macht der Reiche | {{% bible val="Tier mit zwei Hörnern wie Lamm/Menschensohn" link="rev:13,11" lang="de" %}} |
-| Macht | {{% bible val="Drache gibt Macht und Thron" link="rev:13,2" lang="de" %}} | {{% bible val="herrscht in der Macht des ersten Tieres" link="rev:13,12" lang="de" %}} |
-| Zeichen und Anbetung | {{% bible val="Tödliche Wunde ist geheilt" link="rev:13,3" lang="de" %}} </br> {{% bible val="Die ganze Erde ist erstaunt" link="rev:13,3" lang="de" %}} </br> {{% bible val="Beten Drachen an, der Tier die Macht gab" link="rev:13,4" lang="de" %}} | {{% bible val="Zwingt alle, das erste Tier anzubeten, dessen Wunde geheilt wurde" link="rev:13,12" lang="de" %}}. </br> {{% bible val="Tut große Zeichen, lässt Feuer vom Himmel fallen, täuscht durch Zeichen" link="rev:13,13-14" lang="de" %}} </br> {{% bible val="Erhält die Macht des ersten Tieres" link="rev:13,14" lang="de" %}}. |
-| Prahlerei | {{% bible val="Wer ist wie das Tier (stark wie es)" link="rev:13,4" lang="de" %}} </br> {{% bible val="große Lästerungen gegen Gott und sein Volk" link="rev:13,5-6" lang="de" %}}. | {{% bible val="Machtbild des Tieres" link="rev:13,14" lang="de" %}} (der Mensch ist nach dem Bilde Gottes geschaffen -&gt; der Mensch ist Stellvertreter Gottes)</br> {{% bible val="Kann Leben geben, damit das Tier sprechen kann" link="rev:13,14-15" lang="de" %}} aber nur Gott kann Leben geben.  |
-| Überwindet Heilige | {{% bible val="Kämpft gegen Heilige und besiegt sie" link="rev:13,7" lang="de" %}}. </br> {{% bible val="Hat Macht über Stämme, Sprachen und Nationen" link="rev:13,7" lang="de" %}} </br> {{% bible val="Alle auf Erden beten das Tier an, die nicht im Buch des Lebens geschrieben stehen" link="rev:13,8" lang="de" %}}.| {{% bible val="Tötet alle, die das Bild nicht anbeten" link="rev:13,15" lang="de" %}}.</br> {{% bible val="Macht Zeichen für alle " link="rev:13,16" lang="de" %}} </br> {{% bible val="Niemand kann kaufen oder verkaufen, es sei denn, er hat das Zeichen des Tieres" link="rev:13,17" lang="de" %}}. |
-| Vorsicht | {{% bible val="Wer Ohren hat, der höre!" link="rev:13,9" lang="de" %}} </br> {{% bible val="Hier ist die Geduld und der Glaube der Heiligen" link="rev:13,10" lang="de" %}}. | {{% bible val="Hier ist Weisheit" link="rev:13,18" lang="de" %}}</br> {{% bible val="Wenn jemand Verstand hat: Zählt" link="rev:13,18" lang="de" %}} |
+| | Erstes Tier | Zweites Tier |
+|---|---|---|
+| Kommt aus | dem Meer ({{% bible val="13,1" link="rev:13,1" lang="de" %}}) | der Erde ({{% bible val="13,11" link="rev:13,11" lang="de" %}}) |
+| Sieht aus wie | sieben Köpfe, zehn Hörner: die Reiche aus Daniel 7 in einem ({{% bible val="13,1" link="rev:13,1" lang="de" %}}) | zwei Hörner wie ein Lamm, redet wie ein Drache ({{% bible val="13,11" link="rev:13,11" lang="de" %}}) |
+| Macht | vom Drachen ({{% bible val="13,2" link="rev:13,2" lang="de" %}}) | handelt mit der Vollmacht des ersten Tieres ({{% bible val="13,12" link="rev:13,12" lang="de" %}}) |
+| Gewinnt Menschen durch | eine geheilte Wunde; die ganze Erde staunt ({{% bible val="13,3–4" link="rev:13,3-4" lang="de" %}}) | Zeichen, Feuer vom Himmel, ein sprechendes Bild ({{% bible val="13,13–15" link="rev:13,13-15" lang="de" %}}) |
+| Anspruch | „Wer ist dem Tier gleich?“; lästert Gott ({{% bible val="13,4–6" link="rev:13,4-6" lang="de" %}}) | bringt alle dazu, das erste Tier anzubeten ({{% bible val="13,12–14" link="rev:13,12-14" lang="de" %}}) |
+| Gegen Gottes Volk | führt Krieg gegen die Heiligen und besiegt sie ({{% bible val="13,7" link="rev:13,7" lang="de" %}}) | tötet, wer sich weigert; kein Kaufen und Verkaufen ohne das Malzeichen ({{% bible val="13,15–17" link="rev:13,15-17" lang="de" %}}) |
+| Ruf an den Leser | Wer Ohren hat, der höre; hier ist Ausharren und Glaube ({{% bible val="13,9–10" link="rev:13,9-10" lang="de" %}}) | Hier ist Weisheit; wer Verstand hat, der rechne ({{% bible val="13,18" link="rev:13,18" lang="de" %}}) |
 
 In dieser letzten Zeile verbirgt sich noch ein interessanter Chiasmus. „Hier ist ... Geduld und Glaube“ korrespondiert mit „wer Ohren hat, der höre“, und „hier ist Weisheit“ korrespondiert mit „wenn jemand Verstand hat, der berechne“ — das stellt eine Gleichung auf: Hören (was im hebräischen Denken Gehorchen bedeutet) verhält sich zu Geduld und Glaube wie Verstand zu Weisheit. Mit anderen Worten: Wissen ist nur der erste Schritt; es soll zu Taten führen.
 
@@ -164,3 +173,93 @@ Wir sollten dabei aber nicht „das Kind mit dem Bade ausschütten”. Nach alld
 Beides trifft nicht zu. Der Teufel würde einen sehr schlechten Job machen, Gott nachzuahmen, wenn an der Fälschung alles anders wäre als am Original. Auch Gott und die Gemeinde sind siegreich — nur auf andere Weise —, und Gott tut auch heute noch Wunder. Was der Teufel nicht kopieren kann oder will, ist Gottes Markenzeichen: die Liebe.
 
 Der Teufel wirbt für den Sieg, egal wie hoch der Blutzoll ist. Gott kommt in Liebe und sorgt sich um Menschen, selbst wenn das überhaupt nicht siegreich aussieht.
+
+## Der Charakter des Teufels
+
+<a name="f243"></a>
+Der Teufel wird als aggressiv beschrieben, was für Gläubige schwer auszuhalten ist — aber immerhin weiß man dann, womit man es zu tun hat. Er ist aber auch ein Verführer, und das ist noch gefährlicher: Man kann des Kampfes müde werden und meinen, es gäbe einen einfachen Ausweg — und landet am Ende in der Gefolgschaft des Teufels, ohne es je ganz zu merken. Deshalb stellt das Buch Gott und Satan nebeneinander, damit man sowohl die Unterschiede als auch die trügerischen Ähnlichkeiten erkennt.
+
+## Die Beschreibung des Teufels
+
+<a name="7b88"></a>
+Der Teufel tritt immer in Gestalt einer Dreifaltigkeit auf, denn auch Gott selbst ist dreieinig.
+
+Das erste Mal geschieht das gleich nach der {{% bible val="Inthronisation Christi" link="rev:5" lang="de" %}}, als er allein für würdig befunden wird, die Schriftrolle zu öffnen — und der Teufel tritt {{% bible val="als vier apokalyptische Reiter" link="rev:6,1-8" lang="de" %}} auf, wobei der vierte die anderen drei zusammenfasst. Sein Auftreten wird hier in gerade einmal acht Versen beschrieben, ein scharfer Kontrast zu den zwei vollen Kapiteln ewiger Anbetung Gottes, die vorausgehen.
+
+Der erste Reiter erscheint als der große Sieger, aber nur wenige Verse später hinterlässt er eine Szene völliger Zerstörung: Der Teufel kann seine Versprechen nicht einlösen.
+
+Das zweite Mal tritt er auf, als {{% bible val="Jesus erneut als Sieger erklärt wird" link="rev:12" lang="de" %}}, geboren von der Frau. Hier wird Satan als der endgültige Verlierer dargestellt:
+
+- {{% bible val="Er versucht, das Kind zu vernichten — und scheitert" link="rev:12,1-6" lang="de" %}}.
+- {{% bible val="Er kämpft gegen Michael — und wird aus dem Himmel geworfen" link="rev:12,7-12" lang="de" %}}.
+- {{% bible val="Er versucht, die Frau zu vernichten — und scheitert" link="rev:12,13-17" lang="de" %}}.
+- {{% bible val="Er versucht, die übrigen Nachkommen der Frau, die Gemeinde, zu vernichten, und scheitert auch dabei" link="rev:13" lang="de" %}}, wie man an {{% int_link val="der Zahl 666" link="/expl/content/beasts/666-the-number-of-the-beast#497d" %}} sehen kann.
+
+Ein drittes Mal wird der Teufel gezeigt, {{% bible val="als Dreifaltigkeit bei der sechsten Schale" link="rev:16,13" lang="de" %}}, die dann in den Kapiteln {{% bible val="19" link="rev:19,20" lang="de" %}} und {{% bible val="20" link="rev:20,10" lang="de" %}} gerichtet wird. Diese Passagen rahmen die Geschichte der Hure ein, wo das Tier und die Hure gemeinsam auftreten.
+
+Diese drei Blickwinkel hängen zusammen und ergänzen sich gegenseitig zu einem Gesamtbild vom Wirken des Teufels.
+
+## Die falsche Dreifaltigkeit
+
+<a name="ae7b"></a>
+Um besser zu verstehen, wie der Teufel beschrieben wird, müssen wir uns die {{% bible val="zweite Geschichte vom Drachen und den beiden Tieren" link="rev:13" lang="de" %}} ansehen.
+
+Er {{% int_link val="errichtet eine böse Dreifaltigkeit" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e" %}}, um die Gemeinde zu täuschen, aber {{% int_link val="ohne Erfolg" link="/expl/content/beasts/666-the-number-of-the-beast#497d" %}}.
+
+Der {{% int_link val="Drache und die Tiere arbeiten zusammen, um ihr Ziel zu erreichen" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e" %}}, täuschen dabei aber auf unterschiedliche Weise. Das erste Tier bietet Macht und Kontrolle und stützt dieses Angebot mit Gewalt: „Wer ist dem Tier gleich, und wer kann mit ihm kämpfen?“ (13,4). Das zweite bietet Wohlstand und Sicherheit: Es wirkt durch Zeichen und Wunder und durch einen Markt, der nur denen offensteht, die sein Malzeichen annehmen (13,13–17) — {{% int_link val="siehe auch im historischen Kontext" link="/expl/content/beasts/666-the-number-of-the-beast" %}}.
+
+Betrachten wir nun {{% int_link val="die vier Reiter, finden wir dasselbe Muster" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}:
+
+- zuerst kommt der Täuscher,
+- gefolgt von dem, der Gewalt anwendet und Krieg bringt,
+- gefolgt von dem, der Hunger bringt und Preise, die niemand zahlen kann.
+
+Der vierte Reiter fasst alle drei zusammen — ein weiteres Beispiel für dasselbe Dreifaltigkeitsmuster.
+
+Schließlich gibt es noch die Geschichte der Hure, in der dieselben Mächte am Werk sind. Zwei Beobachtungen zeigen das.
+
+Erstens gibt es eine starke Parallele zwischen dem Tier in Kapitel 17 und dem ersten Tier in Kapitel 13.
+
+| Das erste Tier aus Offenbarung 13 | Das Tier auf Offenbarung 17 |
+|-----------------------------------|-----------------------------|
+| {{% bible val="Hat 7 Köpfe und 10 Hörner" link="rev:13,1" lang="de" %}} | {{% bible val="Hat 7 Köpfe und 10 Hörner" link="rev:17,3" lang="de" %}} |
+| {{% bible val="Kopf wie geschlachtet, wächst nach" link="rev:13,3" lang="de" %}} | {{% bible val="5 Könige gefallen, einer ist da, einer kommt noch" link="rev:17,10" lang="de" %}} (beides verweist auf die geheimnisvolle Kontinuität und Rückkehr des Tieres, vgl. {{% bible val="das Tier, das war und nicht ist und wiederkommen wird" link="rev:17,8" lang="de" %}}) |
+| {{% bible val="Wer kann gegen das Tier kämpfen" link="rev:13,4" lang="de" %}} | {{% bible val="Tier macht Krieg gegen König der Könige" link="rev:17,14" lang="de" %}} |
+| {{% bible val="Gotteslästerliche Reden" link="rev:13,5-6" lang="de" %}} | {{% bible val="Gotteslästerliche Name" link="rev:17,3" lang="de" %}} |
+| {{% bible val="Kämpft gegen Heilige und besiegt sie" link="rev:13,7" lang="de" %}} | {{% bible val="Kämpft gegen Lamm und wird überwunden" link="rev:17,14" lang="de" %}} </br> {{% bible val="Kämpft gegen Hure und vernichtet sie" link="rev:17,16" lang="de" %}} |
+| {{% bible val="Alle, die nicht im Buch des Lebens geschrieben sind beten das Tier an" link="rev:13,8" lang="de" %}} | {{% bible val="Alle, die nicht im Buch des Lebens geschrieben sind sind überwältigt" link="rev:17,8" lang="de" %}} |
+
+Zweitens wirkt die Hure Seite an Seite mit dem zweiten Tier. Sie ist nicht das zweite Tier und nimmt auch nicht dessen Platz unter den dreien ein: Die Offenbarung hält ihre Feinde auseinander — den Drachen, das Tier, den falschen Propheten und Babylon —, und sie fallen einer nach dem anderen, in umgekehrter Reihenfolge.[^apart] Aber die Hure tut in Handel und Kultur, was das zweite Tier in der Religion tut.[^alike]
+
+## Die Hure und das zweite Tier
+
+| Das zweite Tier aus Offenbarung 13 | Die Hure |
+|------------------------------------|----------|
+| {{% bible val="Verführt die Bewohner der Erde" link="rev:13,14" lang="de" %}} | {{% bible val="Alle Völker wurden durch ihre Zauberei verführt" link="rev:18,23" lang="de" %}} |
+| {{% bible val="Handelt in der Macht des ersten Tieres" link="rev:13,12" lang="de" %}} | {{% bible val="Sitzt auf dem Tier" link="rev:17,3" lang="de" %}} |
+| {{% bible val="Alle, die nicht anbeten, werden getötet" link="rev:13,15" lang="de" %}} | {{% bible val="Trunken vom Blut der Heiligen" link="rev:17,6" lang="de" %}} |
+| {{% bible val="Niemand kann kaufen oder verkaufen ohne das Malzeichen" link="rev:13,17" lang="de" %}} | {{% bible val="Die Kaufleute der Erde wurden an ihr reich" link="rev:18,3" lang="de" %}} |
+| {{% bible val="Setzt ein Malzeichen auf die Stirn" link="rev:13,16" lang="de" %}} | {{% bible val="Trägt einen Namen auf der eigenen Stirn" link="rev:17,5" lang="de" %}} |
+
+Die letzte Zeile enthält eine Umkehrung. Das zweite Tier zeichnet die Stirnen anderer; die Hure trägt einen Namen auf ihrer eigenen, als wäre sie selbst jemandes Eigentum und für das Gericht gezeichnet.[^own]
+
+Wo bleibt also das dritte Mitglied der Dreifaltigkeit in dieser Szene? Er hält sich im Hintergrund, genau wie in Kapitel 13 und bei der Beschreibung der Reiter — aber man sieht ihn bei {{% bible val="der sechsten Schale" link="rev:16,13" lang="de" %}} und in Kapitel {{% bible val="20" link="rev:20,10" lang="de" %}}.
+
+{{% int_link val="Das war auch im historischen Kontext so" link="/expl/content/beasts/666-the-number-of-the-beast" %}}: Man sieht die beiden Tiere, aber nicht den Teufel direkt.
+
+## Die Entwicklung des Bildes
+
+<a name="02d8"></a>
+Verfolgt man die Entwicklung dieses Bildes durch das Buch, begegnet man Satan zuerst in den vier Reitern. Diese Szene folgt unmittelbar darauf, dass Jesus als der Einzige erklärt wird, der würdig ist, die Schriftrolle zu öffnen und {{% int_link val="der Welt das Heil zu bringen" link="/expl/content/worship/the-book-with-the-seven-seals" %}} — und Satan wird sofort danach entlarvt, denn ein Sieg ohne bleibenden Bestand ist genau das, was er im ersten Reiter verspricht.
+
+Er scheint der Sieger zu sein, doch am Ende hinterlässt er überall Zerstörung und Tod. Er wird als das genaue Gegenteil dessen entlarvt, was Jesus bringt. Aber was genau bringt Jesus, das der Teufel nicht kann?
+
+Das ist das Thema, das in der Geschichte vom Drachen und den beiden Tieren entfaltet wird. Dort hat {{% int_link val="Satan tatsächlich einiges wirklich Verlockendes anzubieten" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e" %}}. Doch der Text stellt dem eine klare Alternative gegenüber: {{% int_link val="die beiden Zeugen, die einen Lebensstil der Anbetung führen und in ihrem Zeugnis treu bleiben bis in den Tod" link="/expl/content/witnesses/the-two-witnesses" %}}.
+
+Dieser Kontrast entfaltet sich schließlich vollständig in der letzten Vision, wo Babylon ausführlich als das dunkle Gegenstück zum Neuen Jerusalem beschrieben wird.
+
+[^apart]: Bauckham, *Climax*, S. 20, und *Theology*, S. 89; Beale, S. 148, 623, 812.
+
+[^alike]: Zur gemeinsamen Sprache der Verführung: Bauckham, *Theology*, S. 91, 124; Beale, S. 262. Dieselben unreinen Geister begegnen bei beiden (16,13–14; 18,2): Beale, S. 894.
+
+[^own]: Diese Beobachtung stammt von dieser Seite selbst.

@@ -1,23 +1,31 @@
 ---
-title: "Vahiy kitabındaki canavarın doğası"
+title: "Ejderha ve iki canavar"
 weight: 1
 base: /quick/content/beasts
 story: /story/general/tour
 story_anchor: beasts
 prev: /expl/content/jesus/a-different-christmas-story
-next: /expl/content/beasts/the-beasts-and-the-666-in-historical-context
+next: /expl/content/beasts/666-the-number-of-the-beast
 docType: expl
 appl: /appl/content/beasts
 deeper:
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
-    - name: Tarihsel bağlamda canavarlar
-      link:  /expl/content/beasts/the-beasts-and-the-666-in-historical-context
     - name: 666 sayısı
       link:  /expl/content/beasts/666-the-number-of-the-beast
     - name: 3,5 yıl
       link:  /expl/bible/daniel/the-secret-of-the-3-5-years
 sources: 
+    - pages: 729
+      ref: beale_rev
+    - pages: 20
+      ref: bauckham_climax
+    - pages: 89, 91, 124
+      ref: bauckham_rev
+    - pages: 148, 262, 623, 812, 894
+      ref: beale_rev
+    - pages: 729, 1028
+      ref: beale_rev
     - pages: 681–730
       ref: beale_rev
     - pages: 88–94
@@ -31,6 +39,8 @@ sources:
 readBefore:
     - name: "Pax Romana — vahiy kitabını anlamak için anahtar"
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
+aliases:
+    - /tr/expl/content/beasts/the-nature-of-the-beast
 ---
 
 Vahiy kitabını düşününce akla gelen ilk şeylerden biri, ejderha ve 666 sayısıyla insanların ellerine ve alınlarına işaret koyan iki canavardır. Bunun ne anlama gelebileceğine dair spekülasyon hiç eksik olmuyor; öyleyse metnin kendisine dikkatle bakalım.
@@ -77,15 +87,15 @@ Bu pasaj, Şeytan'ın İsa'yı ve İsrail'i yok etme girişiminin başarısızl�
 
 Bu iki canavara daha yakından bakalım. Birlikte hareket eder ve birbirlerini desteklerler; metin onları bilinçli olarak paralel bir düzende betimler, aşağıda görüldüğü gibi.
 
-| Konu | Birinci hayvan | İkinci hayvan |
-|-------|--------------|---------------|
-| kökeni | {{% bible val="Denizden" link="rev:13,1" lang="tr" %}} | {{% bible val="Yeryüzünden" link="rev:13,11" lang="tr" %}} |
-| kimlik (Daniel ile) | {{% bible val="Yedi boynuzlu hayvan" link="rev:13,1" lang="tr" %}} -> krallıkların devamı ve gücü | {{% bible val="Kuzu/insanoğlu gibi iki boynuzlu hayvan" link="rev:13,11" lang="tr" %}} |
-| güç | {{% bible val="Ejderha güç ve taht verir" link="rev:13,2" lang="tr" %}} | {{% bible val="İlk canavarın gücüyle hükmeder" link="rev:13,12" lang="tr" %}} |
-| belirtiler ve tapınma | {{% bible val="Ölümcül yara iyileşir" link="rev:13,3" lang="tr" %}} </br> {{% bible val="Bütün dünya şaşkına döner" link="rev:13,3" lang="tr" %}} </br> Canavara **{{% bible val="güç veren ejderhaya tapınırlar" link="rev:13,4" lang="tr" %}}** | {{% bible val="Herkesi, yarası iyileşen ilk canavara tapmaya zorlar" link="rev:13,12" lang="tr" %}}. </br> {{% bible val="Büyük belirtiler yapar, gökten ateş yağdırır, belirtilerle saptırır" link="rev:13,13-14" lang="tr" %}} </br> {{% bible val="İlk canavarın gücünü alır" link="rev:13,14" lang="tr" %}}. |
-| övünme | {{% bible val="Canavar gibisi var mı (onun kadar güçlü)" link="rev:13,4" lang="tr" %}} </br> {{% bible val="Tanrı'ya ve halkına karşı büyük küfürler" link="rev:13,5-6" lang="tr" %}}. | {{% bible val="Canavarın heykeline güç verir" link="rev:13,14" lang="tr" %}} (insan Tanrı'nın suretinde yaratılmıştır -&gt; insan Tanrı'nın temsilcisidir) </br> {{% bible val="Heykel konuşabilsin diye ona yaşam soluğu verebilir" link="rev:13,14-15" lang="tr" %}}, *ama yaşam yalnızca Tanrı'nın vergisidir*. |
-| kutsalların üstesinden gelir | {{% bible val="Kutsallarla savaşıp onları yener" link="rev:13,7" lang="tr" %}}. </br> {{% bible val="Her boy, dil ve ulus üzerinde yetkisi vardır" link="rev:13,7" lang="tr" %}} </br> {{% bible val="Yaşam kitabında adı yazılı olmayan herkes canavara tapar" link="rev:13,8" lang="tr" %}}. | {{% bible val="Heykele tapmayan herkesi öldürür" link="rev:13,15" lang="tr" %}}. </br> {{% bible val="Herkese işaret vurdurur" link="rev:13,16" lang="tr" %}} </br> {{% bible val="Canavarın işaretine sahip olmayan hiç kimse alım satım yapamaz" link="rev:13,17" lang="tr" %}}. |
-| uyarı | {{% bible val="Kulağı olan işitsin!" link="rev:13,9" lang="tr" %}} </br> {{% bible val="İşte kutsalların sabrı ve imanı budur" link="rev:13,10" lang="tr" %}}. | {{% bible val="İşte bilgelik burada gerekir" link="rev:13,18" lang="tr" %}} </br> {{% bible val="Anlayanı varsa: hesaplasın" link="rev:13,18" lang="tr" %}} |
+| | Birinci canavar | İkinci canavar |
+|---|---|---|
+| Nereden gelir | denizden ({{% bible val="13:1" link="rev:13,1" lang="tr" %}}) | yerden ({{% bible val="13:11" link="rev:13,11" lang="tr" %}}) |
+| Görünüşü | yedi baş, on boynuz: Daniel 7'deki imparatorlukların hepsi bir arada ({{% bible val="13:1" link="rev:13,1" lang="tr" %}}) | kuzu gibi iki boynuz, ejderha gibi konuşur ({{% bible val="13:11" link="rev:13,11" lang="tr" %}}) |
+| Gücü | ejderhadan ({{% bible val="13:2" link="rev:13,2" lang="tr" %}}) | birinci canavarın yetkisiyle davranır ({{% bible val="13:12" link="rev:13,12" lang="tr" %}}) |
+| İnsanları neyle kazanır | iyileşen bir yara; bütün dünya hayran kalır ({{% bible val="13:3–4" link="rev:13,3-4" lang="tr" %}}) | belirtiler, gökten ateş, konuşan bir heykel ({{% bible val="13:13–15" link="rev:13,13-15" lang="tr" %}}) |
+| İddiası | "Canavar gibisi var mı?"; Tanrı'ya küfreder ({{% bible val="13:4–6" link="rev:13,4-6" lang="tr" %}}) | herkesi birinci canavara taptırır ({{% bible val="13:12–14" link="rev:13,12-14" lang="tr" %}}) |
+| Tanrı'nın halkına karşı | kutsallarla savaşır ve onları yener ({{% bible val="13:7" link="rev:13,7" lang="tr" %}}) | reddedenleri öldürür; işaret olmadan alışveriş yok ({{% bible val="13:15–17" link="rev:13,15-17" lang="tr" %}}) |
+| Okura çağrı | kulağı olan işitsin; sabır ve iman burada ({{% bible val="13:9–10" link="rev:13,9-10" lang="tr" %}}) | bilgelik burada; anlayışı olan hesaplasın ({{% bible val="13:18" link="rev:13,18" lang="tr" %}}) |
 
 Bu son satırda gizlenmiş bir başka ilginç kiazma daha var. "İşte ... sabır ve iman" ifadesi "kulağı olan işitsin" ifadesiyle eşleşir, "işte bilgelik" ifadesi de "anlayanı varsa hesaplasın" ifadesiyle eşleşir — bu da bir denklik kurar: İbranice düşüncede işitmek itaat etmek anlamına geldiği için, işitmenin sabır ve imana oranı neyse, anlayışın bilgeliğe oranı da odur. Başka bir deyişle, bilgi yalnızca ilk adımdır; asıl amacı eyleme yol açmaktır.
 
@@ -162,3 +172,93 @@ Yine de "kirli suyla birlikte bebeği de atmamalıyız". Bütün bunları okuduk
 İkisi de doğru değil. Eğer sahtekârlığın her yönü orijinalden tamamen farklı olsaydı, şeytan Tanrı'yı taklit etmekte çok kötü bir iş çıkarmış olurdu. Tanrı ve kilise de zafer kazanır — sadece farklı bir şekilde — ve Tanrı bugün hâlâ mucizeler yaratıyor. Şeytanın kopyalayamadığı ya da kopyalamak istemediği şey, Tanrı'nın imza hareketidir: sevgi.
 
 Şeytan, ölü sayısı ne olursa olsun zaferi ilan eder. Tanrı ise sevgiyle gelir ve insanlarla ilgilenir, bu hiç de muzafferane görünmese bile.
+
+## Şeytanın karakteri
+
+<a name="904a"></a>
+Şeytan saldırgan biri olarak betimlenir; bu, bir imanlı için başa çıkması zor bir şeydir — ama en azından neyle karşı karşıya olduğunuzu bilirsiniz. Ne var ki o aynı zamanda bir aldatıcıdır ve bu çok daha tehlikelidir: mücadeleden yorulup kolay bir çıkış yolu olduğunu düşünebilir, sonunda bunun farkına bile varmadan şeytana sadık kalabilirsiniz. Kitabın Tanrı'yı ve Şeytan'ı yan yana betimlemesinin nedeni de budur; böylece hem aralarındaki farkları hem de aldatıcı benzerlikleri görebilirsiniz.
+
+## Şeytanın tanımı
+
+<a name="a7a0"></a>
+Tanrı'nın kendisi üç olduğu için Şeytan da her zaman bir üçlü biçiminde ortaya çıkar.
+
+İlk kez {{% bible val="Mesih tahta çıktıktan hemen sonra" link="rev:5" lang="tr" %}} görülür; Mesih tomarı açmaya layık bulunan tek kişidir ve Şeytan {{% bible val="dört atlı olarak" link="rev:6,1-8" lang="tr" %}} ortaya çıkar — dördüncüsü diğer üçünü özetler. Buradaki eylemi yalnızca sekiz ayette anlatılır; bu, öncesindeki Tanrı'ya sonsuz tapınmayı betimleyen iki tam bölümle keskin bir tezat oluşturur.
+
+İlk atlı büyük bir galip olarak görünür, ama yalnızca birkaç ayet sonra geride tam bir yıkım sahnesi bırakır: Şeytan verdiği sözleri yerine getiremez.
+
+İkinci kez, kadından doğan {{% bible val="İsa'nın yeniden muzaffer ilan edildiği" link="rev:12" lang="tr" %}} sahnede ortaya çıkar. Burada Şeytan nihai kaybeden olarak gösterilir:
+
+- {{% bible val="Çocuğu yok etmeye çalışır — ve başarısız olur" link="rev:12,1-6" lang="tr" %}}.
+- {{% bible val="Mikail'e karşı savaşır — ve gökten kovulur" link="rev:12,7-12" lang="tr" %}}.
+- {{% bible val="Kadını yok etmeye çalışır — ve başarısız olur" link="rev:12,13-17" lang="tr" %}}.
+- {{% bible val="Kadının soyundan geri kalanları, yani Kilise'yi yok etmeye çalışır" link="rev:13" lang="tr" %}} ve bu da başarısız olur; bunu {{% int_link val="666 sayısında" link="/expl/content/beasts/666-the-number-of-the-beast#c1c9" %}} göreceğiz.
+
+Şeytan üçüncü kez {{% bible val="altıncı kâsede bir üçlü olarak" link="rev:16,13" lang="tr" %}} gösterilir; bu da daha sonra {{% bible val="19." link="rev:19,20" lang="tr" %}} ve {{% bible val="20." link="rev:20,10" lang="tr" %}} bölümlerde yargılanır. Bu pasajlar, canavarla fahişenin birlikte göründüğü fahişe öyküsünü çerçeveler.
+
+Bu üç görünüm birbiriyle bağlantılıdır; her biri Şeytan'ın faaliyetinin resmine bir şey daha katar.
+
+## Sahte üçlü
+
+<a name="1e70"></a>
+Şeytan'ın nasıl betimlendiğini daha iyi anlamak için, {{% bible val="ejderha ve iki canavarın ikinci öyküsüne" link="rev:13" lang="tr" %}} bakmamız gerekir.
+
+Kiliseyi aldatmak için {{% int_link val="kötü bir üçlü kurar" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999" %}}, ama {{% int_link val="bunda başarılı olamaz" link="/expl/content/beasts/666-the-number-of-the-beast#c1c9" %}}.
+
+{{% int_link val="Ejderha ve canavarlar, amaçlarına ulaşmak için birlikte çalışacak şekilde betimlenir" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999" %}}, ama farklı biçimlerde aldatırlar. İlk canavar güç ve denetim sunar ve bu teklifi şiddetle destekler: "Bu canavar gibisi var mı? Onunla kim savaşabilir?" (13:4). İkincisi zenginlik ve güvenlik sunar: belirtiler ve harikalarla ve yalnızca işaretini alanlara açık bir pazarla çalışır (13:13–17) — {{% int_link val="tarihsel bağlamda da bunu görebilirsiniz" link="/expl/content/beasts/666-the-number-of-the-beast" %}}.
+
+Şimdi {{% int_link val="dört atlıya baktığımızda da aynı örüntüyü görürüz" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}:
+
+- önce aldatıcı gelir,
+- ardından şiddet kullanıp savaş getiren gelir,
+- ardından açlık ve kimsenin ödeyemeyeceği fiyatlar getiren gelir.
+
+Dördüncü atlı üçünü birden özetler — aynı üçlü örüntünün bir başka örneği daha.
+
+Son olarak, aynı güçlerin iş başında olduğu fahişenin öyküsü var. İki gözlem bunu gösterir.
+
+İlk olarak, 17. bölümdeki canavarla 13. bölümdeki ilk canavar arasında güçlü bir paralellik vardır.
+
+| Vahiy 13'teki ilk canavar | Vahiy 17'deki canavar |
+|----------------------------------|----------------------------|
+| {{% bible val="7 başı ve 10 boynuzu vardır" link="rev:13,1" lang="tr" %}} | {{% bible val="7 başı ve 10 boynuzu vardır" link="rev:17,3" lang="tr" %}} |
+| {{% bible val="Başı boğazlanmış gibidir, yeniden büyür" link="rev:13,3" lang="tr" %}} | {{% bible val="5 kral düşmüştür, biri duruyor, biri henüz gelmedi" link="rev:17,10" lang="tr" %}} (ikisi de canavarın gizemli sürekliliğine ve geri dönüşüne işaret eder, krş. {{% bible val="var olan, şimdi olmayan ve yeniden gelecek olan canavar" link="rev:17,8" lang="tr" %}}) |
+| {{% bible val="Canavara karşı kim savaşabilir" link="rev:13,4" lang="tr" %}} | {{% bible val="Canavar Kralların Kralı'na karşı savaş açar" link="rev:17,14" lang="tr" %}} |
+| {{% bible val="Küfür dolu konuşma" link="rev:13,5-6" lang="tr" %}} | {{% bible val="Küfür dolu ad" link="rev:17,3" lang="tr" %}} |
+| {{% bible val="Kutsallarla savaşır ve onları yener" link="rev:13,7" lang="tr" %}} | {{% bible val="Kuzu'yla savaşır ve yenilir" link="rev:17,14" lang="tr" %}} </br> {{% bible val="Fahişeyle savaşır ve onu yok eder" link="rev:17,16" lang="tr" %}}. |
+| {{% bible val="Yaşam kitabında adı yazılı olmayan herkes canavara tapar" link="rev:13,8" lang="tr" %}} | {{% bible val="Yaşam kitabında adı yazılı olmayan herkes şaşkınlığa uğrar" link="rev:17,8" lang="tr" %}} |
+
+İkincisi, fahişe ikinci canavarla yan yana çalışır. O, ikinci canavar değildir ve üçlünün içinde onun yerini almaz: Vahiy düşmanlarını ayrı tutar — ejderha, canavar, sahte peygamber ve Babil — ve bunlar birbiri ardına, ters sırayla düşer.[^apart] Ama fahişe, ikinci canavarın dinde yaptığını ticarette ve kültürde yapar.[^alike]
+
+## Fahişe ve ikinci canavar
+
+| Vahiy 13'teki ikinci canavar | Fahişe |
+|-----------------------------------|------------|
+| {{% bible val="Yeryüzünde yaşayanları aldatır" link="rev:13,14" lang="tr" %}} | {{% bible val="Bütün uluslar onun büyüsüyle aldandı" link="rev:18,23" lang="tr" %}} |
+| {{% bible val="İlk canavarın yetkisiyle davranır" link="rev:13,12" lang="tr" %}} | {{% bible val="Canavarın üzerinde oturur" link="rev:17,3" lang="tr" %}} |
+| {{% bible val="Tapınmayanların hepsi öldürülür" link="rev:13,15" lang="tr" %}} | {{% bible val="Kutsalların kanıyla sarhoş" link="rev:17,6" lang="tr" %}} |
+| {{% bible val="İşareti olmayan kimse alıp satamaz" link="rev:13,17" lang="tr" %}} | {{% bible val="Yeryüzü tüccarları onun sayesinde zenginleşti" link="rev:18,3" lang="tr" %}} |
+| {{% bible val="Alınlara işaret koyar" link="rev:13,16" lang="tr" %}} | {{% bible val="Kendi alnında bir ad taşır" link="rev:17,5" lang="tr" %}} |
+
+Son satır bir tersine çevirme içerir. İkinci canavar başkalarının alnını işaretler; fahişe ise kendi alnında bir ad taşır; sanki kendisi birinin malıymış ve yargı için işaretlenmiş gibi.[^own]
+
+Peki bu sahnede üçlünün üçüncü üyesi nerede? 13. bölümde ve atlıların betimlenişinde olduğu gibi, o da arka planda kalır — ama onu {{% bible val="altıncı kâsede" link="rev:16,13" lang="tr" %}} ve {{% bible val="20." link="rev:20,10" lang="tr" %}} bölümde görürsünüz.
+
+{{% int_link val="Tarihsel bağlamda da durum aynıydı" link="/expl/content/beasts/666-the-number-of-the-beast" %}}: iki canavarı görürsünüz, ama Şeytan'ı doğrudan görmezsiniz.
+
+## Resmin gelişimi
+
+<a name="5eae"></a>
+Bu imgenin kitap boyunca nasıl geliştiğini izlersek, önce Şeytan'la dört atlı içinde karşılaşırız. Bu sahne, İsa'nın {{% int_link val="dünyaya kurtuluş getiren" link="/expl/content/worship/the-book-with-the-seven-seals" %}} tomarı açmaya layık kişi olarak tanıtılmasının hemen ardından gelir — ve Şeytan hemen ardından açığa çıkar, çünkü kalıcı bir öze sahip olmayan zafer, tam olarak ilk atlıda vaat ettiği şeydir.
+
+Muzaffer görünen odur, ama sonunda her yerde yıkım ve ölüm bırakır. İsa'nın getirdiğinin tam tersini getirdiği ortaya çıkar. Ama İsa'nın getirdiği ve Şeytan'ın getiremediği şey tam olarak nedir?
+
+Bu, ejderha ve iki canavarın öyküsünde işlenen temadır. Orada {{% int_link val="Şeytan'ın gerçekten çekici bazı şeyler sunduğu doğrudur" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#b8ad" %}}. Yine de metin, bunun yanına açık bir alternatif koyar: {{% int_link val="tapınma dolu bir yaşam süren ve tanıklıklarında ölüme dek sadık kalan iki tanık" link="/expl/content/witnesses/the-two-witnesses" %}}.
+
+Bu karşıtlık, sonunda Babil'in Yeni Yeruşalim'in karanlık karşılığı olarak ayrıntılarıyla betimlendiği son görümde tam olarak açığa çıkar.
+
+[^apart]: Bauckham, *Climax*, s. 20 ve *Theology*, s. 89; Beale, s. 148, 623, 812.
+
+[^alike]: Ortak aldatma dili için: Bauckham, *Theology*, s. 91, 124; Beale, s. 262. Aynı kirli ruhlar ikisinde de görülür (16:13–14; 18:2): Beale, s. 894.
+
+[^own]: Bu gözlem sitenin kendisine aittir.

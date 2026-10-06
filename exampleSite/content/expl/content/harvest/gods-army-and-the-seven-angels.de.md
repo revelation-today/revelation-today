@@ -4,7 +4,7 @@ weight: 2
 base: /quick/content/harvest
 story: /story/general/tour
 story_anchor: harvest
-prev: /expl/content/beasts/the-nature-of-the-beast
+prev: /expl/content/beasts/666-the-number-of-the-beast
 next: /expl/content/bowls/the-bowls-of-wrath
 docType: expl
 appl: /appl/content/harvest

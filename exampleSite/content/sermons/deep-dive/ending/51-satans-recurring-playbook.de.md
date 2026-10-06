@@ -4,7 +4,7 @@ weight: 51
 docType: sermon
 audience_group: "deep-dive-guide"
 audience_track: "deep-dive"
-expl: /expl/content/beasts/the-nature-of-the-beast
+expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /sermons/deep-dive/ending/50-the-new-jerusalem-our-eternal-home
 next: /sermons/deep-dive/ending/52-the-rapture-judgment-and-left-behind-theology
 ---
@@ -15,7 +15,7 @@ Sagt eurer Gruppe: Trickbetrüger neigen dazu, dieselbe Handvoll Drehbücher wie
 
 ## Drei Szenen, ein Widersacher
 
-Die Offenbarung zeigt uns die Aktivität des Teufels an drei verschiedenen Stellen im Buch, und es lohnt sich zu sehen, warum diese Wiederholung selbst wichtig ist (siehe [Die Tiere in der Offenbarung]({{< relref "expl/content/beasts/the-nature-of-the-beast" >}})). Jede Szene erscheint unmittelbar, nachdem Jesu eigener Sieg verkündet wurde:
+Die Offenbarung zeigt uns die Aktivität des Teufels an drei verschiedenen Stellen im Buch, und es lohnt sich zu sehen, warum diese Wiederholung selbst wichtig ist (siehe [Die Tiere in der Offenbarung]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}})). Jede Szene erscheint unmittelbar, nachdem Jesu eigener Sieg verkündet wurde:
 
 - Nachdem Jesus in Kapitel 5 als der einzig Würdige eingesetzt wird, die Schriftrolle zu öffnen, erscheint Satan als die vier Reiter (6,1-8).
 - Nachdem Jesu Geburt und Erhöhung in Kapitel 12 beschrieben werden, erscheint Satan als der Drache, der seine zwei Tiere versammelt (Kapitel 12-13).

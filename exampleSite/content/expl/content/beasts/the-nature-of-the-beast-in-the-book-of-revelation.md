@@ -1,23 +1,31 @@
 ---
-title: "The nature of the beast in the book of revelation"
+title: "The dragon and the two beasts"
 weight: 1
 base: /quick/content/beasts
 story: /story/general/tour
 story_anchor: beasts
 prev: /expl/content/jesus/a-different-christmas-story
-next: /expl/content/beasts/the-beasts-and-the-666-in-historical-context
+next: /expl/content/beasts/666-the-number-of-the-beast
 docType: expl
 appl: /appl/content/beasts
 deeper:
     - name: Literary tools
       link:  /expl/background/literature/literary-tools-in-the-book-of-revelation
-    - name: The beasts in historical context
-      link:  /expl/content/beasts/the-beasts-and-the-666-in-historical-context
     - name: The number 666
       link:  /expl/content/beasts/666-the-number-of-the-beast
     - name: The 3,5 years
       link:  /expl/bible/daniel/the-secret-of-the-3-5-years
 sources: 
+    - pages: 729
+      ref: beale_rev
+    - pages: 20
+      ref: bauckham_climax
+    - pages: 89, 91, 124
+      ref: bauckham_rev
+    - pages: 148, 262, 623, 812, 894
+      ref: beale_rev
+    - pages: 729, 1028
+      ref: beale_rev
     - pages: 681–730
       ref: beale_rev
     - pages: 88–94
@@ -31,6 +39,8 @@ sources:
 readBefore:
     - name: "Pax Romana — the key to understanding Revelation"
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
+aliases:
+    - /expl/content/beasts/the-nature-of-the-beast
 ---
 
 One of the first things that comes to mind when you think about the book of Revelation is the dragon and the two beasts with the number 666, marking people's hands and foreheads. There is no shortage of speculation about what this might mean, so let's take a careful look at the text itself.
@@ -63,11 +73,11 @@ That said, the first beast's appearance doesn't map onto any single one of the {
 | Daniel 7 | Revelation 13 |
 |----------|---------------|
 | {{% bible val="The first beast is like a lion" link="dan:7,4" lang="en" %}} | {{% bible val="Mouth of a lion" link="rev:13,2" lang="en" %}} |
-| {{% bible val="The second animal is like a bear" link="dan:7,5" lang="en" %}} | {{% bible val="Feet like bear" link="rev:13,2" lang="en" %}} |
-| {{% bible val="The third animal is like a leopard" link="dan:7,6" lang="en" %}} | {{% bible val="Animal like a leopard" link="rev:13,2" lang="en" %}} |
-| {{% bible val="The fourth animal has 10 horns" link="dan:7,7" lang="en" %}} | {{% bible val="It has 10 horns" link="rev:13,1" lang="en" %}} |
-| {{% bible val="The third animal has 4 heads, the other one each" link="dan:7,6" lang="en" %}} | {{% bible val="Has 7 heads" link="rev:13,1" lang="en" %}} |
-| {{% bible val="The horn speaks great things" link="dan:7,8" lang="en" %}} </br> {{% bible val="speaks against the Most High" link="dan:7,25" lang="en" %}} | {{% bible val="Animal blasphemes God" link="rev:13,6" lang="en" %}} |
+| {{% bible val="The second beast is like a bear" link="dan:7,5" lang="en" %}} | {{% bible val="Feet like a bear" link="rev:13,2" lang="en" %}} |
+| {{% bible val="The third beast is like a leopard" link="dan:7,6" lang="en" %}} | {{% bible val="Body like a leopard" link="rev:13,2" lang="en" %}} |
+| {{% bible val="The fourth beast has 10 horns" link="dan:7,7" lang="en" %}} | {{% bible val="It has 10 horns" link="rev:13,1" lang="en" %}} |
+| {{% bible val="The third beast has 4 heads, the others one each" link="dan:7,6" lang="en" %}} | {{% bible val="Has 7 heads" link="rev:13,1" lang="en" %}} |
+| {{% bible val="The horn speaks great things" link="dan:7,8" lang="en" %}} </br> {{% bible val="speaks against the Most High" link="dan:7,25" lang="en" %}} | {{% bible val="The beast blasphemes God" link="rev:13,6" lang="en" %}} |
 | {{% bible val="The 10 horns are 10 kings" link="dan:7,24" lang="en" %}} | {{% bible val="10 crowns" link="rev:13,1" lang="en" %}} |
 
 ## The twofold attack
@@ -77,16 +87,15 @@ This passage follows Satan's failed attempt to destroy Jesus and Israel. Furious
 
 Let's take a closer look at these two beasts. They act together and support each other, and the text describes them in a deliberately parallel pattern, laid out below.
 
-| Topic | First animal | Second animal |
-|-------|--------------|---------------|
-| origin | {{% bible val="From the sea" link="rev:13,1" lang="en" %}} | {{% bible val="From the Earth" link="rev:13,11" lang="en" %}} |
-| Identity (with Daniel) | {{% bible val="Animal with seven heads" link="rev:13,1" lang="en" %}} -> continuation and power of the realms | {{% bible val="Animal with two horns like lamb/son of man" link="rev:13,11" lang="en" %}} |
-| power | {{% bible val="Dragon gives power and throne" link="rev:13,2" lang="en" %}} | {{% bible val="Rules in power of the first beast" link="rev:13,12" lang="en" %}} |
-| Signs and worship | {{% bible val="Deadly wound is healed" link="rev:13,3" lang="en" %}} </br> {{% bible val="The whole earth is amazed" link="rev:13,3" lang="en" %}}
-{{% bible val="Worship dragon who gave power" link="rev:13,4" lang="en" %}} to beast  | {{% bible val="Forces all to worship the first beast whose wound was healed" link="rev:13,12" lang="en" %}}. </br> {{% bible val="Does great signs, makes fire fall from heaven, deceives by signs" link="rev:13,13-14" lang="en" %}} </br> {{% bible val="Gets power of the first beast" link="rev:13,14" lang="en" %}}. |
-| Bragging | {{% bible val="Who is like the beast(strong like it)" link="rev:13,4" lang="en" %}} </br> {{% bible val="great blasphemies against God and His people" link="rev:13,5-6" lang="en" %}}. | {{% bible val="Power image of the beast" link="rev:13,14" lang="en" %}} (man is made in the image of God -&gt; man is representative of God)</br> {{% bible val="Can give life so animal can speak" link="rev:13,14-15" lang="en" %}} but only God can give life.  |
-| Overcome saints | {{% bible val="Fight saints and defeat them" link="rev:13,7" lang="en" %}}. </br> {{% bible val="Has power over tribes, languages, and nations" link="rev:13,7" lang="en" %}} </br> {{% bible val="All on earth worship the beast who are not written in the book of life" link="rev:13,8" lang="en" %}}.| {{% bible val="Kill all who do not worship image" link="rev:13,15" lang="en" %}}.</br> {{% bible val="Make marks to all " link="rev:13,16" lang="en" %}} </br> {{% bible val="No one can buy or sell, unless they have the mark of the beast" link="rev:13,17" lang="en" %}}. |
-| caution | {{% bible val="If anyone has ears, listen!" link="rev:13,9" lang="en" %}} </br> {{% bible val="Here is patience and faith of the saints" link="rev:13,10" lang="en" %}}. | {{% bible val="Here is wisdom" link="rev:13,18" lang="en" %}}</br> {{% bible val="If anyone has understanding: Count" link="rev:13,18" lang="en" %}} |
+| | First beast | Second beast |
+|---|---|---|
+| Comes from | the sea ({{% bible val="13:1" link="rev:13,1" lang="en" %}}) | the earth ({{% bible val="13:11" link="rev:13,11" lang="en" %}}) |
+| Looks like | seven heads, ten horns: the empires of Daniel 7 in one ({{% bible val="13:1" link="rev:13,1" lang="en" %}}) | two horns like a lamb, speaks like a dragon ({{% bible val="13:11" link="rev:13,11" lang="en" %}}) |
+| Power | from the dragon ({{% bible val="13:2" link="rev:13,2" lang="en" %}}) | acts with the first beast's authority ({{% bible val="13:12" link="rev:13,12" lang="en" %}}) |
+| Wins people by | a healed wound; the whole earth marvels ({{% bible val="13:3–4" link="rev:13,3-4" lang="en" %}}) | signs, fire from heaven, a speaking image ({{% bible val="13:13–15" link="rev:13,13-15" lang="en" %}}) |
+| Claims | "Who is like the beast?"; blasphemes God ({{% bible val="13:4–6" link="rev:13,4-6" lang="en" %}}) | makes all worship the first beast ({{% bible val="13:12–14" link="rev:13,12-14" lang="en" %}}) |
+| Against God's people | makes war on the saints and conquers them ({{% bible val="13:7" link="rev:13,7" lang="en" %}}) | kills those who refuse; no buying or selling without the mark ({{% bible val="13:15–17" link="rev:13,15-17" lang="en" %}}) |
+| Call to the reader | whoever has ears, let him hear; here is endurance and faith ({{% bible val="13:9–10" link="rev:13,9-10" lang="en" %}}) | here is wisdom; whoever has understanding, let him count ({{% bible val="13:18" link="rev:13,18" lang="en" %}}) |
 
 There's another interesting chiasmus hidden in that last row. "Here is ... patience and faith" pairs with "he who has ears, let him hear," and "here is wisdom" pairs with "if anyone has understanding, let him calculate" — which sets up an equivalence: hearing (which in Hebrew thought means obeying) is to patience and faith what understanding is to wisdom. In other words, knowledge is only the first step; it's meant to lead to action.
 
@@ -163,3 +172,93 @@ We shouldn't "throw out the baby with the bathwater," though. After reading all 
 Neither follows. The devil would be doing a very poor job of imitating God if everything about the counterfeit were different from the original. God and the Church are victorious too — just in a different way — and God is still doing miracles today. What the devil can't, or won't, copy is God's signature move: love.
 
 The devil advertises victory, no matter the death toll. God comes in love and cares for people, even when that doesn't look victorious at all.
+
+## The character of the devil
+
+<a name="537c"></a>
+The devil is described as aggressive, which is hard to deal with as a believer — but at least you know what you're dealing with. He's also a deceiver, though, and that's even more dangerous: you may grow tired of the fighting and think there's an easy way out, only to end up loyal to the devil without ever fully realizing it. That's why the book describes God and Satan side by side, so you can see both the differences and the deceptive similarities.
+
+## The description of the devil
+
+<a name="4281"></a>
+The devil always appears in the form of a trinity, since God himself is three.
+
+The first time is right {{% bible val="after the enthronement of Christ" link="rev:5" lang="en" %}}, when he alone is found worthy to open the scroll, and the devil shows up {{% bible val="as four horsemen" link="rev:6,1-8" lang="en" %}} — the fourth summarizing the other three. His action here is described in a mere eight verses, in sharp contrast to the two full chapters of eternal worship of God that precede it.
+
+The first horseman appears as the great victor, but only a few verses later he leaves a scene of total destruction: the devil cannot fulfill his promises.
+
+The second time he appears is when {{% bible val="Jesus is declared victorious again" link="rev:12" lang="en" %}}, born of the woman. Here Satan is shown as the ultimate loser:
+
+- {{% bible val="He tries to destroy the child — and fails" link="rev:12,1-6" lang="en" %}}.
+- {{% bible val="He fights against Michael — and is cast out of heaven" link="rev:12,7-12" lang="en" %}}.
+- {{% bible val="He tries to destroy the woman — and fails" link="rev:12,13-17" lang="en" %}}.
+- {{% bible val="He tries to destroy the rest of the woman's offspring, the Church, and also fails" link="rev:13" lang="en" %}}, as we see in {{% int_link val="the number 666" link="/expl/content/beasts/666-the-number-of-the-beast#69b0" %}}.
+
+The devil is shown a third time {{% bible val="as a trinity in the sixth bowl" link="rev:16,13" lang="en" %}}, which is then judged in chapters {{% bible val="19" link="rev:19,20" lang="en" %}} and {{% bible val="20" link="rev:20,10" lang="en" %}}. These passages frame the story of the harlot, where the beast and the harlot appear together.
+
+These three views are interrelated, each adding to the picture of the devil's activity.
+
+## The false trinity
+
+<a name="45d1"></a>
+To better understand how the devil is described, we need to look at the {{% bible val="second story of the dragon and the two beasts" link="rev:13" lang="en" %}}.
+
+He sets {{% int_link val="up an evil trinity" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}} to deceive the church, but {{% int_link val="to no avail" link="/expl/content/beasts/666-the-number-of-the-beast#69b0" %}}.
+
+The {{% int_link val="dragon and the beasts are described as working together to accomplish their goal" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}, but they deceive differently. The first beast offers power and control, and backs the offer with violence: "Who is like the beast, and who can fight against it?" (13:4). The second offers wealth and security: it works through signs and wonders, and through a market that is open only to those who take its mark (13:13–17) — {{% int_link val="see also in the historical context" link="/expl/content/beasts/666-the-number-of-the-beast" %}}.
+
+If we now look {{% int_link val="at the four horsemen, we find the same pattern" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}} (developed in more detail there):
+
+- first comes the deceiver,
+- followed by the one who uses violence and brings war,
+- followed by the one who brings hunger and prices no one can pay.
+
+The fourth horseman summarizes all three — another instance of the same trinity pattern.
+
+Finally, there's the story of the harlot, where the same powers are at work. Two observations show it.
+
+First, there is a strong parallel between the beast in chapter 17 and the first beast in chapter 13.
+
+| The first beast of Revelation 13 | The beast on Revelation 17 |
+|----------------------------------|----------------------------|
+| {{% bible val="Has 7 heads and 10 horns" link="rev:13,1" lang="en" %}} | {{% bible val="Has 7 heads and 10 horns" link="rev:17,3" lang="en" %}} |
+| {{% bible val="Head as if slaughtered, grows back" link="rev:13,3" lang="en" %}} | {{% bible val="5 kings fallen, one is, one yet to come" link="rev:17,10" lang="en" %}} (both point to the beast's mysterious continuity and return, cf. {{% bible val="the beast that was, and is not, and is to come" link="rev:17,8" lang="en" %}}) |
+| {{% bible val="Who can fight against the beast" link="rev:13,4" lang="en" %}} | {{% bible val="Beast makes war on King of Kings" link="rev:17,14" lang="en" %}} |
+| {{% bible val="Speech of blasphemy" link="rev:13,5-6" lang="en" %}} | {{% bible val="Blasphemous name" link="rev:17,3" lang="en" %}} |
+| {{% bible val="Fight against saints and defeat them" link="rev:13,7" lang="en" %}} | {{% bible val="Fights against Lamb and is overcome" link="rev:17,14" lang="en" %}} </br> {{% bible val="Fight against Harlot and destroys it" link="rev:17,16" lang="en" %}}. |
+| {{% bible val="All who are not written in the book of life worship the beast" link="rev:13,8" lang="en" %}} | {{% bible val="All who are not written in the book of life are overwhelmed" link="rev:17,8" lang="en" %}} |
+
+Second, the harlot works alongside the second beast. She is not the second beast, and she does not take its place among the three: Revelation keeps its enemies apart — the dragon, the beast, the false prophet and Babylon — and they fall one after another, in reverse order.[^apart] But the harlot does in trade and culture what the second beast does in religion.[^alike]
+
+## The harlot and the second beast
+
+| The Second Beast of Revelation 13 | The Harlot |
+|-----------------------------------|------------|
+| {{% bible val="Deceives those who live on the earth" link="rev:13,14" lang="en" %}} | {{% bible val="All the nations were deceived by her sorcery" link="rev:18,23" lang="en" %}} |
+| {{% bible val="Acts in the power of the first beast" link="rev:13,12" lang="en" %}} | {{% bible val="Sits on the beast" link="rev:17,3" lang="en" %}} |
+| {{% bible val="All who do not worship are killed" link="rev:13,15" lang="en" %}} | {{% bible val="Drunk with the blood of the saints" link="rev:17,6" lang="en" %}} |
+| {{% bible val="No one can buy or sell without the mark" link="rev:13,17" lang="en" %}} | {{% bible val="The merchants of the earth grew rich from her" link="rev:18,3" lang="en" %}} |
+| {{% bible val="Puts a mark on the forehead" link="rev:13,16" lang="en" %}} | {{% bible val="Bears a name on her own forehead" link="rev:17,5" lang="en" %}} |
+
+The last row holds a reversal. The second beast marks other people's foreheads; the harlot carries a name on her own, as if she herself were owned, and marked out for judgment.[^own]
+
+So where is the third member of the trinity in this scene? He stays in the background, just as he does in chapter 13 and in the description of the horsemen — but you do see him in {{% bible val="the sixth bowl" link="rev:16,13" lang="en" %}} and in chapter {{% bible val="20" link="rev:20,10" lang="en" %}}.
+
+{{% int_link val="This was also the case in the historical context" link="/expl/content/beasts/666-the-number-of-the-beast" %}}: you see the two beasts, but not the devil directly.
+
+## The development of the picture
+
+<a name="6ef8"></a>
+Tracing the development of this image across the book, we first meet Satan in the four horsemen. That scene comes right after Jesus is identified as the one worthy to open the scroll {{% int_link val="that brings salvation to the world" link="/expl/content/worship/the-book-with-the-seven-seals" %}} — and Satan is exposed immediately afterward, because victory without lasting substance is exactly what he claims to offer in the first horseman.
+
+He appears to be the victorious one, but he ends up leaving destruction and death everywhere. He is exposed for bringing the very opposite of what Jesus brings. But what, exactly, does Jesus bring that the devil can't?
+
+That's the theme developed in the story of the dragon and the two beasts. There, {{% int_link val="Satan does have some genuinely appealing things to offer" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#896a" %}}. Yet the text sets a clear alternative alongside it: {{% int_link val="the two witnesses, who live a lifestyle of worship and stay faithful in their testimony even to death" link="/expl/content/witnesses/the-two-witnesses" %}}.
+
+This contrast finally unfolds in full in the last vision, where Babylon is described in detail as the dark counterpart of the New Jerusalem.
+
+[^apart]: Bauckham, *Climax*, p. 20, and *Theology*, p. 89; Beale, pp. 148, 623, 812.
+
+[^alike]: On the shared language of deception: Bauckham, *Theology*, pp. 91, 124; Beale, p. 262. The same unclean spirits appear with both (16:13–14; 18:2): Beale, p. 894.
+
+[^own]: This observation is the site's own.

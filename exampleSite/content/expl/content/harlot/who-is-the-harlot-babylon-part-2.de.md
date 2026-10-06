@@ -72,7 +72,7 @@ Die Offenbarung zieht dieselbe Verbindung: Die Könige {{% bible val="treiben Hu
 <a name="738a"></a>
 Könnte Babylon einfach ein Bild der abgefallenen Gemeinde sein? Nicht ganz — aber die Gemeinde läuft immer Gefahr, Teil Babylons zu werden. Babylon ist das Gegenstück zur Braut und dem Neuen Jerusalem, und ist selbst ein eigenständiges System. Zusammen mit dem Tier, auf dem es sitzt, {{% int_link val="stellt es die böse Dreieinigkeit dar, die die Welt täuscht" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
-Das Tier unter der Hure stellt politische und militärische Macht dar ({{% int_link val="verkörpert durch den Kaiser" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}), während die Hure selbst das unterstützende System darum herum darstellt — die
+Das Tier unter der Hure stellt politische und militärische Macht dar ({{% int_link val="verkörpert durch den Kaiser" link="/expl/content/beasts/666-the-number-of-the-beast" %}}), während die Hure selbst das unterstützende System darum herum darstellt — die
 
 - Wirtschaft ({{% bible val="gibt Reichtum oder macht arm" link="rev:13,16-17" lang="de" %}}),
 - Kultur, sichtbar in {{% bible val="beeindruckendem Tempeldienst" link="rev:13,13-15" lang="de" %}},

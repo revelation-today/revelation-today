@@ -30,7 +30,7 @@ docType: expl
 | {{% bible val="Mazmur:96,3" link="psa:96,3" lang="ind" %}} | ["Ketiga Malaikat Pertama": bangsa dan suku bangsa](/expl/content/harvest/gods-army-and-the-seven-angels#ad85) |
 | {{% bible val="Mazmur:96,7-10" link="psa:96,7-10" lang="ind" %}} | ["Ketiga Malaikat Pertama": isi berita itu berlaku sepanjang mazmur pendek ini](/expl/content/harvest/gods-army-and-the-seven-angels#ad85) |
 | {{% bible val="Mazmur:98,1-2" link="psa:98,1-2" lang="ind" %}} | ["Nyanyian Musa": 98](/expl/content/harvest/gods-army-and-the-seven-angels#6689) |
-| {{% bible val="Mazmur:104,26" link="psa:104,26" lang="ind" %}} | ["Konteks bagi Para Pembaca Pertama": tidak lebih dari sebuah mainan bagi Allah](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#a261) |
+| {{% bible val="Mazmur:104,26" link="psa:104,26" lang="ind" %}} | ["Konteks bagi Para Pembaca Pertama": tidak lebih dari sebuah mainan bagi Allah](/expl/content/beasts/666-the-number-of-the-beast#a261) |
 | {{% bible val="Mazmur:104,26" link="psa:104,26" lang="ind" %}} | ["Sekarung Penuh Rujukan": Mzm.104](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Mazmur:105,1" link="psa:105,1" lang="ind" %}} | ["Nyanyian Musa": Mazmur 105](/expl/content/harvest/gods-army-and-the-seven-angels#6689) |
 | {{% bible val="Mazmur:106,36-38" link="psa:106,36-38" lang="ind" %}} | ["Siap untuk kematian kedua": mengorbankan anak-anak](/expl/content/paradise/the-new-jerusalem#e855) |

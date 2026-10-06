@@ -4,7 +4,7 @@ weight: 51
 docType: sermon
 audience_group: "deep-dive-guide"
 audience_track: "deep-dive"
-expl: /expl/content/beasts/the-nature-of-the-beast
+expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /sermons/deep-dive/ending/50-the-new-jerusalem-our-eternal-home
 next: /sermons/deep-dive/ending/52-the-rapture-judgment-and-left-behind-theology
 ---
@@ -15,7 +15,7 @@ Katakan kepada kelompok Anda: penipu cenderung memakai ulang naskah yang sama, h
 
 ## Tiga adegan, satu musuh
 
-Wahyu menunjukkan kepada kita aktivitas iblis tiga kali berbeda sepanjang kitab ini, dan layak dilihat mengapa pengulangan ini sendiri penting (lihat [Binatang-Binatang dalam Kitab Wahyu]({{< relref "expl/content/beasts/the-nature-of-the-beast" >}})). Setiap adegan muncul tepat setelah kemenangan Yesus sendiri dinyatakan:
+Wahyu menunjukkan kepada kita aktivitas iblis tiga kali berbeda sepanjang kitab ini, dan layak dilihat mengapa pengulangan ini sendiri penting (lihat [Binatang-Binatang dalam Kitab Wahyu]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}})). Setiap adegan muncul tepat setelah kemenangan Yesus sendiri dinyatakan:
 
 - Setelah Yesus dinobatkan sebagai satu-satunya yang layak membuka gulungan kitab di pasal 5, Iblis muncul sebagai keempat penunggang kuda (6:1-8).
 - Setelah kelahiran dan pengangkatan Yesus digambarkan di pasal 12, Iblis muncul sebagai sang naga yang menyusun kedua binatangnya (pasal 12-13).

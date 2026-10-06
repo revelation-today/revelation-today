@@ -186,7 +186,7 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:4,6-10" link="rev:4,6-10" lang="tr" %}} | ["Arka plan ve bağlam": 4 canlı yaratık](/expl/content/worship/worship-in-the-throne-room#3e33) |
 | {{% bible val="Vahiy:4,7" link="rev:4,7" lang="tr" %}} | ["Arka plan": dört canlı yaratıktan (yaratılışı temsil eden) biri](/expl/content/bowls/the-bowls-of-wrath#08a9) |
 | {{% bible val="Vahiy:4,7" link="rev:4,7" lang="tr" %}} | ["İbadet": dört yaratığın](/expl/content/worship/worship-in-the-throne-room#e932) |
-| {{% bible val="Vahiy:5" link="rev:5,-1" lang="tr" %}} | ["Şeytanın tanımı": Mesih tahta çıktıktan hemen sonra](/expl/content/beasts/the-nature-of-the-beast#a7a0) |
+| {{% bible val="Vahiy:5" link="rev:5,-1" lang="tr" %}} | ["Şeytanın tanımı": Mesih tahta çıktıktan hemen sonra](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a7a0) |
 | {{% bible val="Vahiy:5" link="rev:5,-1" lang="tr" %}} | ["Çözüm": bir önceki bölümde İsa, tomarı açmaya layık olan tek kişi olarak ortaya çıkmıştı](/expl/content/seals/the-mystery-of-the-four-horse-men#12b0) |
 | {{% bible val="Vahiy:5" link="rev:5,-1" lang="tr" %}} | [""İbadet (Böl. 4-5)"": 5](/kids/content/worship) |
 | {{% bible val="Vahiy:5" link="rev:5,-1" lang="tr" %}} | [""Tapınma (Böl. 4-5)"": 5](/quick/content/worship) |
@@ -232,7 +232,7 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:6" link="rev:6,-1" lang="tr" %}} | ["Vahiy 6": Vahiy 6](/kids/elementary/05-the-seals#vahiy-6) |
 | {{% bible val="Vahiy:6" link="rev:6,-1" lang="tr" %}} | [""Vahiy 6: Dört Atlı ve Kuzu'nun Gazabı"": Vahiy 6](/kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb) |
 | {{% bible val="Vahiy:6" link="rev:6,-1" lang="tr" %}} | [""Mühürler (Böl. 6)"": Bölüm 6](/quick/content/seals) |
-| {{% bible val="Vahiy:6,1-8" link="rev:6,1-8" lang="tr" %}} | ["Şeytanın tanımı": dört atlı olarak](/expl/content/beasts/the-nature-of-the-beast#a7a0) |
+| {{% bible val="Vahiy:6,1-8" link="rev:6,1-8" lang="tr" %}} | ["Şeytanın tanımı": dört atlı olarak](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a7a0) |
 | {{% bible val="Vahiy:6,1-8" link="rev:6,1-8" lang="tr" %}} | ["Metin": Va.6/1–8](/expl/content/seals/the-mystery-of-the-four-horse-men#879f) |
 | {{% bible val="Vahiy:6,2" link="rev:6,2" lang="tr" %}} | ["Buraya ait görünmeyen bir atlı": 'Baktım, önümde beyaz bir at duruyordu! Binicisinin elinde bir yay vardı, ona bir taç verildi ve fethetmek üzere fetheden biri olarak yola çıktı.'](/sermons/prosperity-gospel-module/worship-and-seals/01-the-first-horsemans-fake-gospel#buraya-ait-görünmeyen-bir-atlı) |
 | {{% bible val="Vahiy:6,5-6" link="rev:6,5-6" lang="tr" %}} | ["Büyük sıkıntı": üçüncü atlıda olduğu gibi](/expl/content/army/the-end-time-and-the-great-tribulation#ef13) |
@@ -394,7 +394,7 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:11,15-19" link="rev:11,15-19" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.11/15-19](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:11,19" link="rev:11,19" lang="tr" %}} | ["4 sayısı": borazanların kapanışı](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#062b) |
 | {{% bible val="Vahiy:12" link="rev:12,-1" lang="tr" %}} | ["Şeytan'ın bağlanması": 12. bölümle](/expl/content/1000y/the-thousand-year-kingdom#1f30) |
-| {{% bible val="Vahiy:12" link="rev:12,-1" lang="tr" %}} | ["Şeytanın tanımı": İsa'nın yeniden muzaffer ilan edildiği](/expl/content/beasts/the-nature-of-the-beast#a7a0) |
+| {{% bible val="Vahiy:12" link="rev:12,-1" lang="tr" %}} | ["Şeytanın tanımı": İsa'nın yeniden muzaffer ilan edildiği](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a7a0) |
 | {{% bible val="Vahiy:12" link="rev:12,-1" lang="tr" %}} | ["Fahişe": Peşine düşülen anne](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:12" link="rev:12,-1" lang="tr" %}} | ["Fahişe": Kurtarılan anne](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:12" link="rev:12,-1" lang="tr" %}} | ["Tanıklar ve canavarlar": kalıcı kaybeden](/expl/content/witnesses/the-two-witnesses#30fe) |
@@ -407,7 +407,7 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:12,1" link="rev:12,1" lang="tr" %}} | ["Şeytan'ın bağlanması": 12.](/expl/content/1000y/the-thousand-year-kingdom#1f30) |
 | {{% bible val="Vahiy:12,1" link="rev:12,1" lang="tr" %}} | ["Fahişe": Güvenliği gökte](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:12,1-6" link="rev:12,1-6" lang="tr" %}} | ["Sayfaları okumak": örnek](/help#sayfaları-okumak) |
-| {{% bible val="Vahiy:12,1-6" link="rev:12,1-6" lang="tr" %}} | ["Şeytanın tanımı": Çocuğu yok etmeye çalışır — ve başarısız olur](/expl/content/beasts/the-nature-of-the-beast#a7a0) |
+| {{% bible val="Vahiy:12,1-6" link="rev:12,1-6" lang="tr" %}} | ["Şeytanın tanımı": Çocuğu yok etmeye çalışır — ve başarısız olur](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a7a0) |
 | {{% bible val="Vahiy:12,1-6" link="rev:12,1-6" lang="tr" %}} | ["144.000": Çocuğu yok etmeyi başaramaz](/expl/content/harvest/gods-army-and-the-seven-angels#181d) |
 | {{% bible val="Vahiy:12,1-12" link="rev:12,1-12" lang="tr" %}} | ["Tanıklar ve canavarlar": üstün gelen İsa'yı](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:12,4" link="rev:12,4" lang="tr" %}} | ["Beşinci ve altıncı borazan": iblisler](/expl/content/trumpets/the-trumpets-in-revelation#9bbb) |
@@ -420,7 +420,7 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:12,6" link="rev:12,6" lang="tr" %}} | ["Bölüm 2: 3,5 Yıl": 12:6](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bölüm-2-35-yıl) |
 | {{% bible val="Vahiy:12,7" link="rev:12,7" lang="tr" %}} | ["Büyük sıkıntı": Mikail ejderhayla](/expl/content/army/the-end-time-and-the-great-tribulation#ef13) |
 | {{% bible val="Vahiy:12,7-8" link="rev:12,7-8" lang="tr" %}} | ["Şeytan'ın bağlanması": meleklerin Şeytan'a ve suç ortaklarına karşı bir savaşı](/expl/content/1000y/the-thousand-year-kingdom#1f30) |
-| {{% bible val="Vahiy:12,7-12" link="rev:12,7-12" lang="tr" %}} | ["Şeytanın tanımı": Mikail'e karşı savaşır — ve gökten kovulur](/expl/content/beasts/the-nature-of-the-beast#a7a0) |
+| {{% bible val="Vahiy:12,7-12" link="rev:12,7-12" lang="tr" %}} | ["Şeytanın tanımı": Mikail'e karşı savaşır — ve gökten kovulur](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a7a0) |
 | {{% bible val="Vahiy:12,7-12" link="rev:12,7-12" lang="tr" %}} | ["144.000": Gökteki yerini kaybeder](/expl/content/harvest/gods-army-and-the-seven-angels#181d) |
 | {{% bible val="Vahiy:12,9" link="rev:12,9" lang="tr" %}} | ["Şeytan'ın bağlanması": yeryüzüne](/expl/content/1000y/the-thousand-year-kingdom#1f30) |
 | {{% bible val="Vahiy:12,9" link="rev:12,9" lang="tr" %}} | ["Şeytan'ın bağlanması": şeytan ya da Şeytan denilen o eski yılan](/expl/content/1000y/the-thousand-year-kingdom#1f30) |
@@ -435,7 +435,7 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:12,12" link="rev:12,12" lang="tr" %}} | ["Tanıklar ve canavarlar": zaman kısa olduğu için panik içinde hareket ederken](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:12,12" link="rev:12,12" lang="tr" %}} | ["Sıkıntı neden yoğunlaşıyor?": Vahiy 12:12](/quick/content/jesus#sıkıntı-neden-yoğunlaşıyor) |
 | {{% bible val="Vahiy:12,13-17" link="rev:12,13-17" lang="tr" %}} | ["Büyük sıkıntı": önce İsrail'e karşı](/expl/content/army/the-end-time-and-the-great-tribulation#ef13) |
-| {{% bible val="Vahiy:12,13-17" link="rev:12,13-17" lang="tr" %}} | ["Şeytanın tanımı": Kadını yok etmeye çalışır — ve başarısız olur](/expl/content/beasts/the-nature-of-the-beast#a7a0) |
+| {{% bible val="Vahiy:12,13-17" link="rev:12,13-17" lang="tr" %}} | ["Şeytanın tanımı": Kadını yok etmeye çalışır — ve başarısız olur](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a7a0) |
 | {{% bible val="Vahiy:12,13-17" link="rev:12,13-17" lang="tr" %}} | ["144.000": Kadını yok etmeyi başaramaz](/expl/content/harvest/gods-army-and-the-seven-angels#181d) |
 | {{% bible val="Vahiy:12,14" link="rev:12,14" lang="tr" %}} | ["Biraz matematik": Kadın çölde korunur](/expl/bible/daniel/the-secret-of-the-3-5-years#05a6) |
 | {{% bible val="Vahiy:12,14" link="rev:12,14" lang="tr" %}} | ["Vahiy'deki 3,5 yıl nedir": çölde beslenir](/expl/bible/daniel/the-secret-of-the-3-5-years#b4e3) |
@@ -446,10 +446,10 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:13" link="rev:13,-1" lang="tr" %}} | ["Şeytan'ın bağlanması": Şeytan 12. bölümde dışarı atıldıktan sonra aldatmanın arttığı](/expl/content/1000y/the-thousand-year-kingdom#1f30) |
 | {{% bible val="Vahiy:13" link="rev:13,-1" lang="tr" %}} | ["Büyük sıkıntı": kiliseye karşı](/expl/content/army/the-end-time-and-the-great-tribulation#ef13) |
 | {{% bible val="Vahiy:13" link="rev:13,-1" lang="tr" %}} | ["6–6–6: Kötü üçlünün başarısızlığı": Va.13](/expl/content/beasts/666-the-number-of-the-beast#c1c9) |
-| {{% bible val="Vahiy:13" link="rev:13,-1" lang="tr" %}} | ["İlk okuyucuların bağlamı": Vahiy'deki iki canavarın](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#b8d0) |
+| {{% bible val="Vahiy:13" link="rev:13,-1" lang="tr" %}} | ["İlk okuyucuların bağlamı": Vahiy'deki iki canavarın](/expl/content/beasts/666-the-number-of-the-beast#b8d0) |
 | {{% bible val="Vahiy:13" link="rev:13,-1" lang="tr" %}} | ["Metin": Va.12/17–13–18](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#d757) |
-| {{% bible val="Vahiy:13" link="rev:13,-1" lang="tr" %}} | ["Şeytanın tanımı": İsa'nın soyundan gelenleri, yani Kilise'yi yok etmeye çalışır](/expl/content/beasts/the-nature-of-the-beast#a7a0) |
-| {{% bible val="Vahiy:13" link="rev:13,-1" lang="tr" %}} | ["Sahte üçlü": ejderha ve iki canavarın ikinci öyküsüne](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:13" link="rev:13,-1" lang="tr" %}} | ["Şeytanın tanımı": İsa'nın soyundan gelenleri, yani Kilise'yi yok etmeye çalışır](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a7a0) |
+| {{% bible val="Vahiy:13" link="rev:13,-1" lang="tr" %}} | ["Sahte üçlü": ejderha ve iki canavarın ikinci öyküsüne](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:13" link="rev:13,-1" lang="tr" %}} | ["Fahişenin karakteri": 13. bölümün ilk canavarı](/expl/content/harlot/the-character-and-destiny-of-the-harlot#4c52) |
 | {{% bible val="Vahiy:13" link="rev:13,-1" lang="tr" %}} | ["144.000": İki canavar aracılığıyla yürüttüğü zulüm ve baskı](/expl/content/harvest/gods-army-and-the-seven-angels#181d) |
 | {{% bible val="Vahiy:13" link="rev:13,-1" lang="tr" %}} | ["Çözüm": 13. bölümde](/expl/content/seals/the-mystery-of-the-four-horse-men#12b0) |
@@ -467,7 +467,7 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:13,1" link="rev:13,1" lang="tr" %}} | ["İki yönlü saldırı": Denizden](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,1" link="rev:13,1" lang="tr" %}} | ["İki yönlü saldırı": Yedi boynuzlu hayvan](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,1" link="rev:13,1" lang="tr" %}} | ["İki yönlü saldırı": Bu dünyanın krallıklarını temsil eder](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
-| {{% bible val="Vahiy:13,1" link="rev:13,1" lang="tr" %}} | ["Sahte üçlü": 7 başı ve 10 boynuzu vardır](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:13,1" link="rev:13,1" lang="tr" %}} | ["Sahte üçlü": 7 başı ve 10 boynuzu vardır](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:13,1" link="rev:13,1" lang="tr" %}} | ["Kızıl canavar": Vah.13/1](/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy:13,1" link="rev:13,1" lang="tr" %}} | ["Artık deniz yok": Vahiy'in kendisinde](/expl/content/paradise/the-new-jerusalem#65aa) |
 | {{% bible val="Vahiy:13,1" link="rev:13,1" lang="tr" %}} | ["Tanıklar ve canavarlar": Denizden](/expl/content/witnesses/the-two-witnesses#30fe) |
@@ -491,12 +491,12 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:13,3" link="rev:13,3" lang="tr" %}} | ["İki yönlü saldırı": Bütün dünya şaşkına döner](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,3" link="rev:13,3" lang="tr" %}} | ["İki yönlü saldırı": İlk canavar öldürülmüş ve ölümden dirilmiş gibi görünür](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,3" link="rev:13,3" lang="tr" %}} | ["İki yönlü saldırı": Başlarından biri ölümcül şekilde yaralanmıştır](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
-| {{% bible val="Vahiy:13,3" link="rev:13,3" lang="tr" %}} | ["Sahte üçlü": Başı boğazlanmış gibidir, yeniden büyür](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:13,3" link="rev:13,3" lang="tr" %}} | ["Sahte üçlü": Başı boğazlanmış gibidir, yeniden büyür](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:13,3" link="rev:13,3" lang="tr" %}} | ["Kızıl canavar": Kesilmiş gibi görünen başı yeniden büyür](/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy:13,3" link="rev:13,3" lang="tr" %}} | ["Tanıklar ve canavarlar": Ölümcül yara iyileşir](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,3" link="rev:13,3" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.13/3](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,3" link="rev:13,3" lang="tr" %}} | ["Tanıklar ve canavarlar": birinci](/expl/content/witnesses/the-two-witnesses#30fe) |
-| {{% bible val="Vahiy:13,3-4" link="rev:13,3-4" lang="tr" %}} | ["İlk canavar": Her yeni imparatorla birlikte yeniden dirilir. Roma yenilmezdir.](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#f803) |
+| {{% bible val="Vahiy:13,3-4" link="rev:13,3-4" lang="tr" %}} | ["İlk canavar": Her yeni imparatorla birlikte yeniden dirilir. Roma yenilmezdir.](/expl/content/beasts/666-the-number-of-the-beast#f803) |
 | {{% bible val="Vahiy:13,3-4" link="rev:13,3-4" lang="tr" %}} | ["İki yönlü saldırı": Dirilişi korku yaratır (Onunla kim savaşabilir?)](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,3-4" link="rev:13,3-4" lang="tr" %}} | ["Altıncı kase": tam da burada diriltilen canavar yenilmez olduğunu iddia eder](/expl/content/bowls/the-bowls-of-wrath#33de) |
 | {{% bible val="Vahiy:13,3-4" link="rev:13,3-4" lang="tr" %}} | ["Yedi tepe ve yedi kral": 13. bölümde](/expl/content/harlot/who-is-the-harlot-babylon-part-1#9b63) |
@@ -504,7 +504,7 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:13,4" link="rev:13,4" lang="tr" %}} | ["İki yönlü saldırı": güç veren ejderhaya tapınırlar](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,4" link="rev:13,4" lang="tr" %}} | ["İki yönlü saldırı": Canavar gibisi var mı (onun kadar güçlü)](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,4" link="rev:13,4" lang="tr" %}} | ["Karanlık taraf": canavarın gücünü gördüklerinde şaşkına dönerler](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#b8ad) |
-| {{% bible val="Vahiy:13,4" link="rev:13,4" lang="tr" %}} | ["Sahte üçlü": Canavara karşı kim savaşabilir](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:13,4" link="rev:13,4" lang="tr" %}} | ["Sahte üçlü": Canavara karşı kim savaşabilir](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:13,4" link="rev:13,4" lang="tr" %}} | ["Kızıl canavar": Canavar rakipsiz görünür](/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy:13,4" link="rev:13,4" lang="tr" %}} | ["Babil mürted kilise mi?": güvenlik](/expl/content/harlot/who-is-the-harlot-babylon-part-2#2815) |
 | {{% bible val="Vahiy:13,4" link="rev:13,4" lang="tr" %}} | ["Beşinci ve altıncı borazan": insanların Yaratıcıları yerine ejderhaya ve canavara taptığı](/expl/content/trumpets/the-trumpets-in-revelation#9bbb) |
@@ -512,7 +512,7 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:13,4" link="rev:13,4" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.13/4](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,4" link="rev:13,4" lang="tr" %}} | ["Tanıklar ve canavarlar": boyun eğmeyi](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,4" link="rev:13,4" lang="tr" %}} | ["Tanıklar ve canavarlar": hiçbir zaman bir zayıflık belirtisine izin vermez](/expl/content/witnesses/the-two-witnesses#30fe) |
-| {{% bible val="Vahiy:13,4-6" link="rev:13,4-6" lang="tr" %}} | ["İlk canavar": Roma Tanrı'ya küfreder](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#f803) |
+| {{% bible val="Vahiy:13,4-6" link="rev:13,4-6" lang="tr" %}} | ["İlk canavar": Roma Tanrı'ya küfreder](/expl/content/beasts/666-the-number-of-the-beast#f803) |
 | {{% bible val="Vahiy:13,4-6" link="rev:13,4-6" lang="tr" %}} | ["Tanıklar ve canavarlar": birinci](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,5" link="rev:13,5" lang="tr" %}} | ["Aritmetik": canavarın faaliyetinin 42 ayıyla](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#bc16) |
 | {{% bible val="Vahiy:13,5" link="rev:13,5" lang="tr" %}} | ["Biraz matematik": İlk canavar küfreder](/expl/bible/daniel/the-secret-of-the-3-5-years#05a6) |
@@ -520,7 +520,7 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:13,5" link="rev:13,5" lang="tr" %}} | ["İki yönlü saldırı": Yalnızca 42 ay boyunca gücü vardır](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,5" link="rev:13,5" lang="tr" %}} | ["Bölüm 2: 3,5 Yıl": 13:5](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bölüm-2-35-yıl) |
 | {{% bible val="Vahiy:13,5-6" link="rev:13,5-6" lang="tr" %}} | ["İki yönlü saldırı": Tanrı'ya ve halkına karşı büyük küfürler](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
-| {{% bible val="Vahiy:13,5-6" link="rev:13,5-6" lang="tr" %}} | ["Sahte üçlü": Küfür dolu konuşma](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:13,5-6" link="rev:13,5-6" lang="tr" %}} | ["Sahte üçlü": Küfür dolu konuşma](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:13,5-6" link="rev:13,5-6" lang="tr" %}} | ["Kızıl canavar": Vah.13/5-6](/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy:13,5-6" link="rev:13,5-6" lang="tr" %}} | ["Tanıklar ve canavarlar": Tanrı'ya ve halkına karşı büyük küfürler](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,6" link="rev:13,6" lang="tr" %}} | ["Referanslarla dolu bir çanta": Hayvan Tanrı'ya küfrediyor](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#042c) |
@@ -528,7 +528,7 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:13,7" link="rev:13,7" lang="tr" %}} | ["İki yönlü saldırı": Kutsallarla savaşıp onları yener](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,7" link="rev:13,7" lang="tr" %}} | ["İki yönlü saldırı": Her boy, dil ve ulus üzerinde yetkisi vardır](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,7" link="rev:13,7" lang="tr" %}} | ["İki yönlü saldırı": kutsalları fetheder](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
-| {{% bible val="Vahiy:13,7" link="rev:13,7" lang="tr" %}} | ["Sahte üçlü": Kutsallarla savaşır ve onları yener](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:13,7" link="rev:13,7" lang="tr" %}} | ["Sahte üçlü": Kutsallarla savaşır ve onları yener](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:13,7" link="rev:13,7" lang="tr" %}} | ["Kızıl canavar": Vah.13/7](/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy:13,7" link="rev:13,7" lang="tr" %}} | ["Babil mürted kilise mi?": savaş](/expl/content/harlot/who-is-the-harlot-babylon-part-2#2815) |
 | {{% bible val="Vahiy:13,7" link="rev:13,7" lang="tr" %}} | ["İlk atlının gizemi": canavarın](/expl/content/seals/the-mystery-of-the-four-horse-men#dba7) |
@@ -538,44 +538,44 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:13,7" link="rev:13,7" lang="tr" %}} | [""Pretribülasyonist, midtribülasyonist, gazap-öncesi, yoksa posttribülasyonist mi?"": canavarın kutsallara karşı savaşına](/expl/topics/others/pre-mid-prewrath-or-post-tribulational) |
 | {{% bible val="Vahiy:13,7" link="rev:13,7" lang="tr" %}} | ["Pretribülasyonist": kutsallar](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pt1a) |
 | {{% bible val="Vahiy:13,7" link="rev:13,7" lang="tr" %}} | ["Gazap-öncesi (Pre-wrath)": canavarın kutsallara karşı savaşı](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pw3c) |
-| {{% bible val="Vahiy:13,7-8" link="rev:13,7-8" lang="tr" %}} | ["İlk canavar": Tanrı'nın halkına karşı zulümler başlatır ve bunda başarılı olur](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#f803) |
-| {{% bible val="Vahiy:13,8" link="rev:13,8" lang="tr" %}} | ["Ne yapmalı?": bunun yerine canavara taparlar](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#93e3) |
+| {{% bible val="Vahiy:13,7-8" link="rev:13,7-8" lang="tr" %}} | ["İlk canavar": Tanrı'nın halkına karşı zulümler başlatır ve bunda başarılı olur](/expl/content/beasts/666-the-number-of-the-beast#f803) |
+| {{% bible val="Vahiy:13,8" link="rev:13,8" lang="tr" %}} | ["Ne yapmalı?": bunun yerine canavara taparlar](/expl/content/beasts/666-the-number-of-the-beast#93e3) |
 | {{% bible val="Vahiy:13,8" link="rev:13,8" lang="tr" %}} | ["İki yönlü saldırı": Yaşam kitabında adı yazılı olmayan herkes canavara tapar](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,8" link="rev:13,8" lang="tr" %}} | ["İki yönlü saldırı": Yeryüzünde yaşayan herkes ilk canavara tapar](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,8" link="rev:13,8" lang="tr" %}} | ["İki yönlü saldırı": Herkes ilk canavara tapar](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,8" link="rev:13,8" lang="tr" %}} | ["Karanlık taraf": bütün dünyanın hiçbir direnç göstermeden kendisine tapmasını](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#b8ad) |
-| {{% bible val="Vahiy:13,8" link="rev:13,8" lang="tr" %}} | ["Sahte üçlü": Yaşam kitabında adı yazılı olmayan herkes canavara tapar](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:13,8" link="rev:13,8" lang="tr" %}} | ["Sahte üçlü": Yaşam kitabında adı yazılı olmayan herkes canavara tapar](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:13,8" link="rev:13,8" lang="tr" %}} | ["Kızıl canavar": Vah.13/8](/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy:13,8" link="rev:13,8" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.13/8](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,8" link="rev:13,8" lang="tr" %}} | ["Tanıklar ve canavarlar": birinci](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,9" link="rev:13,9" lang="tr" %}} | ["İki yönlü saldırı": Kulağı olan işitsin!](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,9" link="rev:13,9" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.13/9](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,9-10" link="rev:13,9-10" lang="tr" %}} | ["Tanıklar ve canavarlar": birinci](/expl/content/witnesses/the-two-witnesses#30fe) |
-| {{% bible val="Vahiy:13,10" link="rev:13,10" lang="tr" %}} | ["İlk canavar": gücü elinde tutan odur ve kutsallar yalnızca dayanabilir](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#f803) |
-| {{% bible val="Vahiy:13,10" link="rev:13,10" lang="tr" %}} | ["Ne yapmalı?": sebat](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#93e3) |
+| {{% bible val="Vahiy:13,10" link="rev:13,10" lang="tr" %}} | ["İlk canavar": gücü elinde tutan odur ve kutsallar yalnızca dayanabilir](/expl/content/beasts/666-the-number-of-the-beast#f803) |
+| {{% bible val="Vahiy:13,10" link="rev:13,10" lang="tr" %}} | ["Ne yapmalı?": sebat](/expl/content/beasts/666-the-number-of-the-beast#93e3) |
 | {{% bible val="Vahiy:13,10" link="rev:13,10" lang="tr" %}} | ["İki yönlü saldırı": İşte kutsalların sabrı ve imanı budur](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,10" link="rev:13,10" lang="tr" %}} | ["İki yönlü saldırı": her türlü direnişi](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,10" link="rev:13,10" lang="tr" %}} | ["Babil mürted kilise mi?": zulüm](/expl/content/harlot/who-is-the-harlot-babylon-part-2#2815) |
 | {{% bible val="Vahiy:13,10" link="rev:13,10" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.13/10](/expl/content/witnesses/the-two-witnesses#30fe) |
-| {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | ["İkinci canavar": bu ikinci canavarın ortaya çıktığı, kuzu gibi zararsız göründüğü](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#929e) |
+| {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | ["İkinci canavar": bu ikinci canavarın ortaya çıktığı, kuzu gibi zararsız göründüğü](/expl/content/beasts/666-the-number-of-the-beast#929e) |
 | {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | ["İki yönlü saldırı": Yeryüzünden](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | ["İki yönlü saldırı": Kuzu/insanoğlu gibi iki boynuzlu hayvan](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | ["İki yönlü saldırı": İkinci canavarın iki boynuzu vardır](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | ["İki yönlü saldırı": İkinci canavar ejderha gibi konuşur](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | ["İkinci canavarın gizemi": Bundan sonra topraktan çıkan başka bir canavar gördüm. Kuzu gibi iki boynuzu vardı, ama ejderha gibi konuşuyordu.](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#9960) |
-| {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | ["Fahişe ve ikinci canavar": Yeryüzünden gelir](/expl/content/beasts/the-nature-of-the-beast#1e70) |
-| {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | ["Fahişe ve ikinci canavar": Kuzu gibi iki boynuzu vardır](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | ["Fahişe ve ikinci canavar": Yeryüzünden gelir](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
+| {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | ["Fahişe ve ikinci canavar": Kuzu gibi iki boynuzu vardır](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | ["Fahişe ve ikinci canavar": Yeryüzünden gelir](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | ["Fahişe ve ikinci canavar": Kuzu gibi iki boynuzu vardır](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | ["Tanıklar ve canavarlar": Topraktan](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.13/11](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | ["Tanıklar ve canavarlar": topraktan](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,11" link="rev:13,11" lang="tr" %}} | [""Ejderha ve iki canavar (Böl. 13)"": Vahiy 13:11](/quick/content/beasts) |
-| {{% bible val="Vahiy:13,12" link="rev:13,12" lang="tr" %}} | ["İkinci canavar": Bütün dünyanın ilk canavara tapmasını sağlarlar](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#929e) |
+| {{% bible val="Vahiy:13,12" link="rev:13,12" lang="tr" %}} | ["İkinci canavar": Bütün dünyanın ilk canavara tapmasını sağlarlar](/expl/content/beasts/666-the-number-of-the-beast#929e) |
 | {{% bible val="Vahiy:13,12" link="rev:13,12" lang="tr" %}} | ["İki yönlü saldırı": İlk canavarın gücüyle hükmeder](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,12" link="rev:13,12" lang="tr" %}} | ["İki yönlü saldırı": Herkesi, yarası iyileşen ilk canavara tapmaya zorlar](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,12" link="rev:13,12" lang="tr" %}} | ["İki yönlü saldırı": İkinci canavar ilk canavarın yetkisiyle konuşur](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
-| {{% bible val="Vahiy:13,12" link="rev:13,12" lang="tr" %}} | ["Fahişe ve ikinci canavar": (İlk) canavarın gücüyle hareket eder](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:13,12" link="rev:13,12" lang="tr" %}} | ["Fahişe ve ikinci canavar": (İlk) canavarın gücüyle hareket eder](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:13,12" link="rev:13,12" lang="tr" %}} | ["Fahişe ve ikinci canavar": (İlk) canavarın gücüyle hareket eder](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:13,12" link="rev:13,12" lang="tr" %}} | ["Babil mürted kilise mi?": ideoloji](/expl/content/harlot/who-is-the-harlot-babylon-part-2#2815) |
 | {{% bible val="Vahiy:13,12" link="rev:13,12" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.13/12](/expl/content/witnesses/the-two-witnesses#30fe) |
@@ -583,11 +583,11 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:13,12-14" link="rev:13,12-14" lang="tr" %}} | ["Tanıklar ve canavarlar": ikinci canavar](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,13" link="rev:13,13" lang="tr" %}} | ["İlyas ve kuraklık (1. Krallar 16/29–18/35)": ikinci canavarın da yaptığı](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="Vahiy:13,13" link="rev:13,13" lang="tr" %}} | ["İki yönlü saldırı": Herkesin önünde gökten ateş yağdırabilir](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
-| {{% bible val="Vahiy:13,13" link="rev:13,13" lang="tr" %}} | ["Fahişe ve ikinci canavar": Gökten ateş yağdırabilir](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:13,13" link="rev:13,13" lang="tr" %}} | ["Fahişe ve ikinci canavar": Gökten ateş yağdırabilir](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:13,13" link="rev:13,13" lang="tr" %}} | ["Fahişe ve ikinci canavar": Vah.13/13](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:13,13" link="rev:13,13" lang="tr" %}} | ["Tanıklar ve canavarlar": ikinci](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,13" link="rev:13,13" lang="tr" %}} | ["Bölüm 2: 3,5 Yıl": gökten ateş çağırma](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bölüm-2-35-yıl) |
-| {{% bible val="Vahiy:13,13-14" link="rev:13,13-14" lang="tr" %}} | ["İkinci canavar": büyük işaretlere ve harikalara layık biri](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#929e) |
+| {{% bible val="Vahiy:13,13-14" link="rev:13,13-14" lang="tr" %}} | ["İkinci canavar": büyük işaretlere ve harikalara layık biri](/expl/content/beasts/666-the-number-of-the-beast#929e) |
 | {{% bible val="Vahiy:13,13-14" link="rev:13,13-14" lang="tr" %}} | ["İki yönlü saldırı": Büyük belirtiler yapar, gökten ateş yağdırır, belirtilerle saptırır](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,13-14" link="rev:13,13-14" lang="tr" %}} | ["İki yönlü saldırı": İnsanların önünde büyük işler yapar](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,13-14" link="rev:13,13-14" lang="tr" %}} | ["Babil mürted kilise mi?": bir üstünlük duygusu](/expl/content/harlot/who-is-the-harlot-babylon-part-2#2815) |
@@ -595,7 +595,7 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:13,13-15" link="rev:13,13-15" lang="tr" %}} | ["Babil mürted kilise mi?": etkileyici tapınak ibadetinde](/expl/content/harlot/who-is-the-harlot-babylon-part-2#2815) |
 | {{% bible val="Vahiy:13,14" link="rev:13,14" lang="tr" %}} | ["Düğüm 1: iki kez dirilmek, tek bir fiil": kılıç yarası iyileşip yaşama dönen](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Vahiy:13,14" link="rev:13,14" lang="tr" %}} | ["Temayı asıl taşıyan ne": yaşama döndü](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
-| {{% bible val="Vahiy:13,14" link="rev:13,14" lang="tr" %}} | ["İlk okuyucuların bağlamı": Vahiy'de de kılıçla yaralanır](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#b8d0) |
+| {{% bible val="Vahiy:13,14" link="rev:13,14" lang="tr" %}} | ["İlk okuyucuların bağlamı": Vahiy'de de kılıçla yaralanır](/expl/content/beasts/666-the-number-of-the-beast#b8d0) |
 | {{% bible val="Vahiy:13,14" link="rev:13,14" lang="tr" %}} | ["İki yönlü saldırı": İlk canavarın gücünü alır](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,14" link="rev:13,14" lang="tr" %}} | ["İki yönlü saldırı": Canavarın heykeline güç verir](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,14" link="rev:13,14" lang="tr" %}} | ["Karanlık taraf": daha fazla belirti ve mucize görmek](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#b8ad) |
@@ -603,38 +603,38 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:13,14" link="rev:13,14" lang="tr" %}} | ["Tanıklar ve canavarlar": canavarın heykeline](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,14-15" link="rev:13,14-15" lang="tr" %}} | ["İki yönlü saldırı": Heykel konuşabilsin diye ona yaşam soluğu verebilir](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,14-15" link="rev:13,14-15" lang="tr" %}} | ["Tanıklar ve canavarlar": Heykel konuşabilsin diye ona can verebilir](/expl/content/witnesses/the-two-witnesses#30fe) |
-| {{% bible val="Vahiy:13,15" link="rev:13,15" lang="tr" %}} | ["İkinci canavar": put, gücünü onu destekleyen insanlardan alır](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#929e) |
+| {{% bible val="Vahiy:13,15" link="rev:13,15" lang="tr" %}} | ["İkinci canavar": put, gücünü onu destekleyen insanlardan alır](/expl/content/beasts/666-the-number-of-the-beast#929e) |
 | {{% bible val="Vahiy:13,15" link="rev:13,15" lang="tr" %}} | ["İki yönlü saldırı": Heykele tapmayan herkesi öldürür](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,15" link="rev:13,15" lang="tr" %}} | ["İki yönlü saldırı": izlemek istemeyenleri öldürür](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,15" link="rev:13,15" lang="tr" %}} | ["İki yönlü saldırı": Bir heykeli canlandırabilir](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,15" link="rev:13,15" lang="tr" %}} | ["İki yönlü saldırı": Kendisine tapmayan herkesi öldürür](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,15" link="rev:13,15" lang="tr" %}} | ["Karanlık taraf": itaati zorla dayatan ve direnci doğrudan yok eden bir Tanrı](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#b8ad) |
-| {{% bible val="Vahiy:13,15" link="rev:13,15" lang="tr" %}} | ["Fahişe ve ikinci canavar": Kendisine tapmayan herkes öldürülür](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:13,15" link="rev:13,15" lang="tr" %}} | ["Fahişe ve ikinci canavar": Kendisine tapmayan herkes öldürülür](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:13,15" link="rev:13,15" lang="tr" %}} | ["Fahişe ve ikinci canavar": Ona tapmayan herkes öldürülür](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:13,15" link="rev:13,15" lang="tr" %}} | ["İkinci ölüme hazır olanlar": inanlıları öldürmesinde](/expl/content/paradise/the-new-jerusalem#d33d) |
 | {{% bible val="Vahiy:13,15" link="rev:13,15" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.13/15](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,15" link="rev:13,15" lang="tr" %}} | ["Tanıklar ve canavarlar": ikinci](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,15-17" link="rev:13,15-17" lang="tr" %}} | ["Kafamız kesilecek mi?": ekonomik ya da sosyal baskı](/expl/content/1000y/the-thousand-year-kingdom#c576) |
 | {{% bible val="Vahiy:13,16" link="rev:13,16" lang="tr" %}} | ["İki yönlü saldırı": Herkese işaret vurdurur](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
-| {{% bible val="Vahiy:13,16" link="rev:13,16" lang="tr" %}} | ["Fahişe ve ikinci canavar": Alına ve ele bir işaret vurdurur](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:13,16" link="rev:13,16" lang="tr" %}} | ["Fahişe ve ikinci canavar": Alına ve ele bir işaret vurdurur](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:13,16" link="rev:13,16" lang="tr" %}} | ["Fahişe ve ikinci canavar": Vah.13/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:13,16" link="rev:13,16" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.13/16](/expl/content/witnesses/the-two-witnesses#30fe) |
-| {{% bible val="Vahiy:13,16-17" link="rev:13,16-17" lang="tr" %}} | ["İkinci canavar": maddi olarak mahvolursunuz](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#929e) |
+| {{% bible val="Vahiy:13,16-17" link="rev:13,16-17" lang="tr" %}} | ["İkinci canavar": maddi olarak mahvolursunuz](/expl/content/beasts/666-the-number-of-the-beast#929e) |
 | {{% bible val="Vahiy:13,16-17" link="rev:13,16-17" lang="tr" %}} | ["Karanlık taraf": herkesin bizim değer sistemimize boyun eğmesini](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#b8ad) |
 | {{% bible val="Vahiy:13,16-17" link="rev:13,16-17" lang="tr" %}} | ["Babil mürted kilise mi?": zenginlik verir ya da yoksullaştırır](/expl/content/harlot/who-is-the-harlot-babylon-part-2#2815) |
 | {{% bible val="Vahiy:13,16-17" link="rev:13,16-17" lang="tr" %}} | ["Babil mürted kilise mi?": uyum sağlamayan herkesin dışlanması](/expl/content/harlot/who-is-the-harlot-babylon-part-2#2815) |
 | {{% bible val="Vahiy:13,16-17" link="rev:13,16-17" lang="tr" %}} | ["Tanıklar ve canavarlar": ikinci](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,17" link="rev:13,17" lang="tr" %}} | ["İki yönlü saldırı": Canavarın işaretine sahip olmayan hiç kimse alım satım yapamaz](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
-| {{% bible val="Vahiy:13,17" link="rev:13,17" lang="tr" %}} | ["Fahişe ve ikinci canavar": İşaret olmadan alım satım yapılamaz](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:13,17" link="rev:13,17" lang="tr" %}} | ["Fahişe ve ikinci canavar": İşaret olmadan alım satım yapılamaz](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:13,17" link="rev:13,17" lang="tr" %}} | ["Fahişe ve ikinci canavar": İşaret olmadan alım satım yapılamaz](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:13,17" link="rev:13,17" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.13/17](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,18" link="rev:13,18" lang="tr" %}} | ["Aritmetik": canavarın gizemi olan](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#bc16) |
 | {{% bible val="Vahiy:13,18" link="rev:13,18" lang="tr" %}} | [""666: Canavarın numarası"": Canavarın sihirli sayısı](/expl/content/beasts/666-the-number-of-the-beast) |
 | {{% bible val="Vahiy:13,18" link="rev:13,18" lang="tr" %}} | ["Bağlam içinde 666": insan sayısı](/expl/content/beasts/666-the-number-of-the-beast#68bc) |
-| {{% bible val="Vahiy:13,18" link="rev:13,18" lang="tr" %}} | ["Ne yapmalı?": neyin Tanrı'dan, neyin olmadığını ayırt edecek bilgelik](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#93e3) |
+| {{% bible val="Vahiy:13,18" link="rev:13,18" lang="tr" %}} | ["Ne yapmalı?": neyin Tanrı'dan, neyin olmadığını ayırt edecek bilgelik](/expl/content/beasts/666-the-number-of-the-beast#93e3) |
 | {{% bible val="Vahiy:13,18" link="rev:13,18" lang="tr" %}} | ["İki yönlü saldırı": İşte bilgelik burada gerekir](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy:13,18" link="rev:13,18" lang="tr" %}} | ["İki yönlü saldırı": Anlayanı varsa: hesaplasın](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
-| {{% bible val="Vahiy:13,18" link="rev:13,18" lang="tr" %}} | ["Fahişe ve ikinci canavar": Bilgelik gerektirir](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:13,18" link="rev:13,18" lang="tr" %}} | ["Fahişe ve ikinci canavar": Bilgelik gerektirir](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:13,18" link="rev:13,18" lang="tr" %}} | ["Fahişe ve ikinci canavar": Bilgelik gerektirir](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:13,18" link="rev:13,18" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.13/18](/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy:13,18" link="rev:13,18" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.13/18](/expl/content/witnesses/the-two-witnesses#30fe) |
@@ -650,7 +650,7 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:14,1" link="rev:14,1" lang="tr" %}} | ["Bağlam içinde 666": 144.000'den söz edilmesinden](/expl/content/beasts/666-the-number-of-the-beast#68bc) |
 | {{% bible val="Vahiy:14,1-5" link="rev:14,1-5" lang="tr" %}} | ["Kafamız kesilecek mi?": İsa'ya sadık kalanlar](/expl/content/1000y/the-thousand-year-kingdom#c576) |
 | {{% bible val="Vahiy:14,1-5" link="rev:14,1-5" lang="tr" %}} | ["Savaş silahları": Vahiy'in gerçekte gösterdiği şey değildir](/expl/topics/others/dispensionalism-and-its-critic#6f89) |
-| {{% bible val="Vahiy:14,4" link="rev:14,4" lang="tr" %}} | ["Ne yapmalı?": bakire olmalarıyla](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#93e3) |
+| {{% bible val="Vahiy:14,4" link="rev:14,4" lang="tr" %}} | ["Ne yapmalı?": bakire olmalarıyla](/expl/content/beasts/666-the-number-of-the-beast#93e3) |
 | {{% bible val="Vahiy:14,4-5" link="rev:14,4-5" lang="tr" %}} | ["144.000": Kendilerini kadınlarla lekelememiş olanlar bunlardır. Pak kişilerdir. Kuzu nereye giderse ardısıra giderler. Tanrı'ya ve Kuzu'ya ait olacakların ilk bölümü olmak üzere insanlar arasından satın alınmışlardır. Ağızlarından hiç yalan çıkmamıştır. Kusursuzdurlar.](/expl/content/harvest/gods-army-and-the-seven-angels#181d) |
 | {{% bible val="Vahiy:14,6-7" link="rev:14,6-7" lang="tr" %}} | ["İlk üç melek": onun, yeryüzünde yaşayanlara -her ulusa, her oymağa, her dile, her halka- iletmek üzere sonsuza dek kalıcı olan Müjde'si vardı. Yüksek sesle şöyle diyordu: ‹‹Tanrı'dan korkun! O'nu yüceltin! Çünkü O'nun yargılama saati geldi. Göğü, yeri, denizi, su pınarlarını yaratana tapının!](/expl/content/harvest/gods-army-and-the-seven-angels#040b) |
 | {{% bible val="Vahiy:14,6-13" link="rev:14,6-13" lang="tr" %}} | ["Örüntü: zayıflık içinde galip gelmek": kendilerine güvenen herkesi de beraberinde sürükleyerek felakete uğrayacak olan](/expl/content/jesus/a-different-christmas-story#c879) |
@@ -686,8 +686,8 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:16,12-16" link="rev:16,12-16" lang="tr" %}} | ["Armagedon": Vahiy 16:12-16](/quick/content/bowls#armagedon) |
 | {{% bible val="Vahiy:16,12-21" link="rev:16,12-21" lang="tr" %}} | ["Kaseler": Altıncı ve yedinci kaseler](/expl/content/bowls/the-bowls-of-wrath#557c) |
 | {{% bible val="Vahiy:16,13" link="rev:16,13" lang="tr" %}} | ["Bağlam içinde 666": altıncı kâsede](/expl/content/beasts/666-the-number-of-the-beast#68bc) |
-| {{% bible val="Vahiy:16,13" link="rev:16,13" lang="tr" %}} | ["Şeytanın tanımı": altıncı kâsede bir üçlü olarak](/expl/content/beasts/the-nature-of-the-beast#a7a0) |
-| {{% bible val="Vahiy:16,13" link="rev:16,13" lang="tr" %}} | ["Fahişe ve ikinci canavar": altıncı kâsede](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:16,13" link="rev:16,13" lang="tr" %}} | ["Şeytanın tanımı": altıncı kâsede bir üçlü olarak](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a7a0) |
+| {{% bible val="Vahiy:16,13" link="rev:16,13" lang="tr" %}} | ["Fahişe ve ikinci canavar": altıncı kâsede](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:16,13" link="rev:16,13" lang="tr" %}} | ["Altıncı kase": Ejderhanın ve yandaşlarının ağzından çıkan üç kurbağa](/expl/content/bowls/the-bowls-of-wrath#33de) |
 | {{% bible val="Vahiy:16,13" link="rev:16,13" lang="tr" %}} | ["Yedi tepe ve yedi kral": 16. bölümde](/expl/content/harlot/who-is-the-harlot-babylon-part-1#9b63) |
 | {{% bible val="Vahiy:16,13-16" link="rev:16,13-16" lang="tr" %}} | ["Kaseler": kirli ruhlar, geri dönmelerine izin vermek yerine dünyanın krallarını savaşa toplar](/expl/content/bowls/the-bowls-of-wrath#557c) |
@@ -719,24 +719,24 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:17,2" link="rev:17,2" lang="tr" %}} | ["Fahişe": halkı kandırır](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:17,2" link="rev:17,2" lang="tr" %}} | ["Ekonomik boyut": Babil'in yeryüzünün krallarıyla yaptığı zinaya](/expl/content/harlot/who-is-the-harlot-babylon-part-2#fb4b) |
 | {{% bible val="Vahiy:17,3" link="rev:17,3" lang="tr" %}} | ["Bakanlık": (Vah.17/3)](/expl/background/israel/the-church-is-part-of-israel#d3e5) |
-| {{% bible val="Vahiy:17,3" link="rev:17,3" lang="tr" %}} | ["Sahte üçlü": 7 başı ve 10 boynuzu vardır](/expl/content/beasts/the-nature-of-the-beast#1e70) |
-| {{% bible val="Vahiy:17,3" link="rev:17,3" lang="tr" %}} | ["Sahte üçlü": Küfür dolu ad](/expl/content/beasts/the-nature-of-the-beast#1e70) |
-| {{% bible val="Vahiy:17,3" link="rev:17,3" lang="tr" %}} | ["Fahişe ve ikinci canavar": Çölde oturur](/expl/content/beasts/the-nature-of-the-beast#1e70) |
-| {{% bible val="Vahiy:17,3" link="rev:17,3" lang="tr" %}} | ["Fahişe ve ikinci canavar": (İlk) canavarın üzerinde oturur](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:17,3" link="rev:17,3" lang="tr" %}} | ["Sahte üçlü": 7 başı ve 10 boynuzu vardır](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
+| {{% bible val="Vahiy:17,3" link="rev:17,3" lang="tr" %}} | ["Sahte üçlü": Küfür dolu ad](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
+| {{% bible val="Vahiy:17,3" link="rev:17,3" lang="tr" %}} | ["Fahişe ve ikinci canavar": Çölde oturur](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
+| {{% bible val="Vahiy:17,3" link="rev:17,3" lang="tr" %}} | ["Fahişe ve ikinci canavar": (İlk) canavarın üzerinde oturur](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:17,3" link="rev:17,3" lang="tr" %}} | ["Onun düşüşünün gizemi": Canavarın üzerinde oturur](/expl/content/harlot/the-character-and-destiny-of-the-harlot#ca14) |
 | {{% bible val="Vahiy:17,3" link="rev:17,3" lang="tr" %}} | ["Kızıl canavar": Vah.17/3](/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy:17,3" link="rev:17,3" lang="tr" %}} | ["Kızıl canavar": Vah.17/3](/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy:17,3" link="rev:17,3" lang="tr" %}} | ["Fahişe": Vah.17/3](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:17,3" link="rev:17,3" lang="tr" %}} | ["Fahişe ve ikinci canavar": Çölde oturur](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:17,3" link="rev:17,3" lang="tr" %}} | ["Fahişe ve ikinci canavar": (İlk) canavarın üzerinde oturur](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
-| {{% bible val="Vahiy:17,4" link="rev:17,4" lang="tr" %}} | ["Fahişe ve ikinci canavar": Zengin biçimde giyinmiş ve süslenmiştir](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:17,4" link="rev:17,4" lang="tr" %}} | ["Fahişe ve ikinci canavar": Zengin biçimde giyinmiş ve süslenmiştir](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:17,4" link="rev:17,4" lang="tr" %}} | ["Fahişe": Tuval giymiş](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:17,4" link="rev:17,4" lang="tr" %}} | ["Fahişe": Vah.17/4](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:17,4" link="rev:17,4" lang="tr" %}} | ["Fahişe ve ikinci canavar": Kuzu'nun gelini gibi giyinmiştir](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:17,4" link="rev:17,4" lang="tr" %}} | ["Dini yönü": 17](/expl/content/harlot/who-is-the-harlot-babylon-part-2#bc8e) |
 | {{% bible val="Vahiy:17,4" link="rev:17,4" lang="tr" %}} | ["Kitaptaki en gösterişli süslenmiş figür": 'Kadın mor ve kırmızıya bürünmüştü, altın, değerli taşlar ve incilerle süslenmişti. Elinde iğrenç şeylerle ve zinasının kirleriyle dolu altın bir kâse tutuyordu.'](/sermons/prosperity-gospel-module/conflict/03-the-harlot-as-glamorized-empire#kitaptaki-en-gösterişli-süslenmiş-figür) |
 | {{% bible val="Vahiy:17,5" link="rev:17,5" lang="tr" %}} | ["Daniel çerçevesi": canavarın](/expl/background/literature/literally-or-symbolic#6075) |
-| {{% bible val="Vahiy:17,5" link="rev:17,5" lang="tr" %}} | ["Fahişe ve ikinci canavar": Alnında bir işaret vardır: Babil](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:17,5" link="rev:17,5" lang="tr" %}} | ["Fahişe ve ikinci canavar": Alnında bir işaret vardır: Babil](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:17,5" link="rev:17,5" lang="tr" %}} | ["Fahişe": Vah.17/5](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:17,5" link="rev:17,5" lang="tr" %}} | ["Fahişe": Zulüm gören anne](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:17,5" link="rev:17,5" lang="tr" %}} | ["Fahişe": Vah.17/5](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
@@ -745,22 +745,22 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:17,5" link="rev:17,5" lang="tr" %}} | ["Ana Öğreti": canavar](/sermons/deep-dive/intro/03-symbol-or-literal#ana-öğreti) |
 | {{% bible val="Vahiy:17,5" link="rev:17,5" lang="tr" %}} | ["Ana Öğreti": fahişe](/sermons/deep-dive/intro/06-the-three-mysteries#ana-öğreti) |
 | {{% bible val="Vahiy:17,5" link="rev:17,5" lang="tr" %}} | ["Ana Öğreti": Vahiy 17:5](/sermons/deep-dive/intro/06-the-three-mysteries#ana-öğreti) |
-| {{% bible val="Vahiy:17,6" link="rev:17,6" lang="tr" %}} | ["Fahişe ve ikinci canavar": Kutsalların kanını içer](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:17,6" link="rev:17,6" lang="tr" %}} | ["Fahişe ve ikinci canavar": Kutsalların kanını içer](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:17,6" link="rev:17,6" lang="tr" %}} | ["Fahişe": Kutsallara zulmeder ve onları öldürür](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:17,6" link="rev:17,6" lang="tr" %}} | ["Fahişe ve ikinci canavar": Kutsalların kanını içer](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:17,6" link="rev:17,6" lang="tr" %}} | ["Babil mürted kilise mi?": rahatsız edici seslerin susturulması](/expl/content/harlot/who-is-the-harlot-babylon-part-2#2815) |
 | {{% bible val="Vahiy:17,7" link="rev:17,7" lang="tr" %}} | ["Ekphrasis": şaşkın bir anlatıcıdır](/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#585e) |
-| {{% bible val="Vahiy:17,8" link="rev:17,8" lang="tr" %}} | ["Sahte üçlü": var olan, şimdi olmayan ve yeniden gelecek olan canavar](/expl/content/beasts/the-nature-of-the-beast#1e70) |
-| {{% bible val="Vahiy:17,8" link="rev:17,8" lang="tr" %}} | ["Sahte üçlü": Yaşam kitabında adı yazılı olmayan herkes şaşkınlığa uğrar](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:17,8" link="rev:17,8" lang="tr" %}} | ["Sahte üçlü": var olan, şimdi olmayan ve yeniden gelecek olan canavar](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
+| {{% bible val="Vahiy:17,8" link="rev:17,8" lang="tr" %}} | ["Sahte üçlü": Yaşam kitabında adı yazılı olmayan herkes şaşkınlığa uğrar](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:17,8" link="rev:17,8" lang="tr" %}} | ["Kızıl canavar": Vah.17/8](/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy:17,8" link="rev:17,8" lang="tr" %}} | ["Kızıl canavar": bir zamanlar vardı, şimdi yok, ama Uçurum'dan çıkıp yıkımına gidecek](/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy:17,8" link="rev:17,8" lang="tr" %}} | ["Kızıl canavar": bir zamanlar vardı, şimdi yok, ama gelecek](/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
-| {{% bible val="Vahiy:17,9" link="rev:17,9" lang="tr" %}} | ["Fahişe ve ikinci canavar": Bilgelik gerektirir](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:17,9" link="rev:17,9" lang="tr" %}} | ["Fahişe ve ikinci canavar": Bilgelik gerektirir](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:17,9" link="rev:17,9" lang="tr" %}} | ["Yedi tepe ve yedi kral": yedi tepedir](/expl/content/harlot/who-is-the-harlot-babylon-part-1#9b63) |
 | {{% bible val="Vahiy:17,9" link="rev:17,9" lang="tr" %}} | ["Fahişe ve ikinci canavar": Bilgelik gerektirir](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:17,9-11" link="rev:17,9-11" lang="tr" %}} | ["Preterist": Yedi kralın](/expl/background/literature/preterist-historicist-futurist-or-idealist#p1a1) |
 | {{% bible val="Vahiy:17,9-11" link="rev:17,9-11" lang="tr" %}} | ["Ne zaman yazıldı": beşi düşmüş, biri var olan, biri de henüz gelecek olan kralların sayımına](/expl/topics/others/who-wrote-revelation-and-when#c4e7) |
-| {{% bible val="Vahiy:17,10" link="rev:17,10" lang="tr" %}} | ["Sahte üçlü": 5 kral düşmüştür, yedincisi henüz gelmedi](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:17,10" link="rev:17,10" lang="tr" %}} | ["Sahte üçlü": 5 kral düşmüştür, yedincisi henüz gelmedi](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:17,10" link="rev:17,10" lang="tr" %}} | ["Kızıl canavar": 5 kral düştü, yedincisi henüz gelmedi](/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy:17,11" link="rev:17,11" lang="tr" %}} | ["Bağlam içinde 666": yedi baştan (kraldan) biri, ama aynı zamanda sekizinci kral olarak da betimlenen](/expl/content/beasts/666-the-number-of-the-beast#68bc) |
 | {{% bible val="Vahiy:17,11" link="rev:17,11" lang="tr" %}} | ["Kızıl canavar": bir zamanlar vardı, şimdi yok, ... yıkımına gidiyor](/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
@@ -768,15 +768,15 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:17,12" link="rev:17,12" lang="tr" %}} | ["Referanslarla dolu bir çanta": Va.17'deki](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#042c) |
 | {{% bible val="Vahiy:17,12-13" link="rev:17,12-13" lang="tr" %}} | ["On kral": Gördüğün on boynuz, henüz bir krallık almamış ama canavarla birlikte bir saatliğine krallar olarak yetki alacak on kraldır](/expl/content/harlot/who-is-the-harlot-babylon-part-1#cabf) |
 | {{% bible val="Vahiy:17,14" link="rev:17,14" lang="tr" %}} | ["Markos'taki Çıkış": yargı ya da vaat, yalnızca meyve verirse](/expl/background/israel/the-second-exodus#098c) |
-| {{% bible val="Vahiy:17,14" link="rev:17,14" lang="tr" %}} | ["Sahte üçlü": Canavar Kralların Kralı'na karşı savaş açar](/expl/content/beasts/the-nature-of-the-beast#1e70) |
-| {{% bible val="Vahiy:17,14" link="rev:17,14" lang="tr" %}} | ["Sahte üçlü": Kuzu'yla savaşır ve yenilir](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:17,14" link="rev:17,14" lang="tr" %}} | ["Sahte üçlü": Canavar Kralların Kralı'na karşı savaş açar](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
+| {{% bible val="Vahiy:17,14" link="rev:17,14" lang="tr" %}} | ["Sahte üçlü": Kuzu'yla savaşır ve yenilir](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:17,14" link="rev:17,14" lang="tr" %}} | ["Kızıl canavar": Canavar Kralların Kralı'na karşı savaş açar](/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy:17,14" link="rev:17,14" lang="tr" %}} | ["Kızıl canavar": Vah.17/14](/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy:17,14" link="rev:17,14" lang="tr" %}} | ["Fahişe": Bir kalıntı direnir](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:17,15" link="rev:17,15" lang="tr" %}} | ["Fahişe": Güvenliği uluslarda ve krallarda](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:17,16" link="rev:17,16" lang="tr" %}} | ["Büyük sonuçları olan küçük bir kelime": önceki bölümde zaten anlatılmış olan](/expl/content/1000y/the-thousand-year-kingdom#f451) |
-| {{% bible val="Vahiy:17,16" link="rev:17,16" lang="tr" %}} | ["Sahte üçlü": Fahişeyle savaşır ve onu yok eder](/expl/content/beasts/the-nature-of-the-beast#1e70) |
-| {{% bible val="Vahiy:17,16" link="rev:17,16" lang="tr" %}} | ["Fahişe ve ikinci canavar": Ateşle yok edilecektir](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:17,16" link="rev:17,16" lang="tr" %}} | ["Sahte üçlü": Fahişeyle savaşır ve onu yok eder](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
+| {{% bible val="Vahiy:17,16" link="rev:17,16" lang="tr" %}} | ["Fahişe ve ikinci canavar": Ateşle yok edilecektir](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:17,16" link="rev:17,16" lang="tr" %}} | ["Onun düşüşünün gizemi": onu yok edenler tam olarak onlardır](/expl/content/harlot/the-character-and-destiny-of-the-harlot#ca14) |
 | {{% bible val="Vahiy:17,16" link="rev:17,16" lang="tr" %}} | ["Kızıl canavar": Vah.17/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy:17,16" link="rev:17,16" lang="tr" %}} | ["Fahişe": Vah.17/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
@@ -799,7 +799,7 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:18,7" link="rev:18,7" lang="tr" %}} | ["Fahişenin karakteri": Kendini dokunulmaz görür](/expl/content/harlot/the-character-and-destiny-of-the-harlot#4c52) |
 | {{% bible val="Vahiy:18,7" link="rev:18,7" lang="tr" %}} | ["Fahişe": Vah.18/7](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:18,8" link="rev:18,8" lang="tr" %}} | ["Dini yönü": Babil'in başına gelen yargı tam olarak budur](/expl/content/harlot/who-is-the-harlot-babylon-part-2#bc8e) |
-| {{% bible val="Vahiy:18,9" link="rev:18,9" lang="tr" %}} | ["Fahişe ve ikinci canavar": Va.18/9](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:18,9" link="rev:18,9" lang="tr" %}} | ["Fahişe ve ikinci canavar": Va.18/9](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:18,9" link="rev:18,9" lang="tr" %}} | ["Onun düşüşünün gizemi": ardından onun için ağlarlar](/expl/content/harlot/the-character-and-destiny-of-the-harlot#ca14) |
 | {{% bible val="Vahiy:18,9" link="rev:18,9" lang="tr" %}} | ["Fahişe ve ikinci canavar": Vah.18/9](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:18,9" link="rev:18,9" lang="tr" %}} | ["Ekonomik boyut": bunun sonucunda zenginleşirler](/expl/content/harlot/who-is-the-harlot-babylon-part-2#fb4b) |
@@ -808,9 +808,9 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:18,10" link="rev:18,10" lang="tr" %}} | ["Fahişe": Mahkeme çabuk gelir](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:18,10" link="rev:18,10" lang="tr" %}} | ["Yenilgiden zafere": büyük kent Babil](/expl/content/witnesses/the-two-witnesses#bdb3) |
 | {{% bible val="Vahiy:18,11" link="rev:18,11" lang="tr" %}} | ["Bağlam içinde 666": fahişenin üzerinde oturduğu canavarın betimlenişinde](/expl/content/beasts/666-the-number-of-the-beast#68bc) |
-| {{% bible val="Vahiy:18,11" link="rev:18,11" lang="tr" %}} | ["Fahişe ve ikinci canavar": Onunla ticaret yapan tüccarlar, o düştüğüne göre artık hiçbir şey alıp satamaz](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:18,11" link="rev:18,11" lang="tr" %}} | ["Fahişe ve ikinci canavar": Onunla ticaret yapan tüccarlar, o düştüğüne göre artık hiçbir şey alıp satamaz](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:18,11-13" link="rev:18,11-13" lang="tr" %}} | ["4x7 kombinasyonu": Babil'deki tüccarların mal listesi](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#4df9) |
-| {{% bible val="Vahiy:18,11-17" link="rev:18,11-17" lang="tr" %}} | ["Fahişe ve ikinci canavar": Va.18/11-17](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:18,11-17" link="rev:18,11-17" lang="tr" %}} | ["Fahişe ve ikinci canavar": Va.18/11-17](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:18,11-17" link="rev:18,11-17" lang="tr" %}} | ["Fahişe ve ikinci canavar": Vah.18/11-17](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:18,11-19" link="rev:18,11-19" lang="tr" %}} | ["Fahişe": Ekonomik zenginliğe bağımlıdır](/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy:18,12-13" link="rev:18,12-13" lang="tr" %}} | ["Fahişenin karakteri": Onun mal listesine](/expl/content/harlot/the-character-and-destiny-of-the-harlot#4c52) |
@@ -848,7 +848,7 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:19,17-21" link="rev:19,17-21" lang="tr" %}} | ["Bir savaş için daha fazla argüman": 19. bölümde](/expl/content/1000y/the-thousand-year-kingdom#a205) |
 | {{% bible val="Vahiy:19,19" link="rev:19,19" lang="tr" %}} | ["Son iki savaş mı?": insan ordularını](/expl/content/1000y/the-thousand-year-kingdom#ba47) |
 | {{% bible val="Vahiy:19,20" link="rev:19,20" lang="tr" %}} | ["Büyük sonuçları olan küçük bir kelime": canavar ve sahte peygamber, savaş kaybedildikten hemen sonra ele geçirildi](/expl/content/1000y/the-thousand-year-kingdom#f451) |
-| {{% bible val="Vahiy:19,20" link="rev:19,20" lang="tr" %}} | ["Şeytanın tanımı": 19.](/expl/content/beasts/the-nature-of-the-beast#a7a0) |
+| {{% bible val="Vahiy:19,20" link="rev:19,20" lang="tr" %}} | ["Şeytanın tanımı": 19.](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a7a0) |
 | {{% bible val="Vahiy:19,21" link="rev:19,21" lang="tr" %}} | ["Savaş silahları": İsa savaşa tek başına gider, tek silahı ağzının kılıcıdır](/expl/topics/others/dispensionalism-and-its-critic#6f89) |
 | {{% bible val="Vahiy:20" link="rev:20,-1" lang="tr" %}} | [""Bin Yıllık Krallık (Böl. 20)"": Bölüm 20](/kids/content/1000y) |
 | {{% bible val="Vahiy:20" link="rev:20,-1" lang="tr" %}} | ["İsa'nın Bin Yıl Boyunca Kral Olması": Vahiy 20](/kids/early-childhood/14-a-thousand-years-of-jesus-being-king) |
@@ -888,8 +888,8 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:20,8" link="rev:20,8" lang="tr" %}} | ["Son iki savaş mı?": şeytani orduları](/expl/content/1000y/the-thousand-year-kingdom#ba47) |
 | {{% bible val="Vahiy:20,8" link="rev:20,8" lang="tr" %}} | ["Gerçekçi anlayış": Gog ve Magog](/expl/topics/others/dispensionalism-and-its-critic#16f7) |
 | {{% bible val="Vahiy:20,9" link="rev:20,9" lang="tr" %}} | ["Son iki savaş mı?": ateşle](/expl/content/1000y/the-thousand-year-kingdom#ba47) |
-| {{% bible val="Vahiy:20,10" link="rev:20,10" lang="tr" %}} | ["Şeytanın tanımı": 20.](/expl/content/beasts/the-nature-of-the-beast#a7a0) |
-| {{% bible val="Vahiy:20,10" link="rev:20,10" lang="tr" %}} | ["Fahişe ve ikinci canavar": 20.](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:20,10" link="rev:20,10" lang="tr" %}} | ["Şeytanın tanımı": 20.](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a7a0) |
+| {{% bible val="Vahiy:20,10" link="rev:20,10" lang="tr" %}} | ["Fahişe ve ikinci canavar": 20.](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:20,11-15" link="rev:20,11-15" lang="tr" %}} | ["Preterist": büyük beyaz taht önündeki son yargı](/expl/background/literature/preterist-historicist-futurist-or-idealist#p1a1) |
 | {{% bible val="Vahiy:20,12" link="rev:20,12" lang="tr" %}} | ["Temayı asıl taşıyan ne": tahtın önünde durur](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Vahiy:20,13" link="rev:20,13" lang="tr" %}} | ["Artık deniz yok": ölülerin bulunduğu yerdir](/expl/content/paradise/the-new-jerusalem#65aa) |
@@ -927,7 +927,7 @@ Bu kitapta kullanılan 995 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy:21,7-8" link="rev:21,7-8" lang="tr" %}} | ["Galip gelen": ikinci ölümden muaf tutulma](/expl/content/paradise/the-new-jerusalem#07a3) |
 | {{% bible val="Vahiy:21,8" link="rev:21,8" lang="tr" %}} | ["Cehennem ne hakkında?": kükürtle yanan ateş gölüne, ikinci ölüme teslim edilirler](/expl/content/paradise/heaven-and-hell#5170) |
 | {{% bible val="Vahiy:21,8" link="rev:21,8" lang="tr" %}} | ["İkinci ölüme hazır olanlar": Ama korkak, imansız, iğrenç, adam öldüren, fuhuş yapan, büyücü, putperest ve bütün yalancılara gelince, onların yeri, kükürtle yanan ateş gölüdür. İkinci ölüm budur.'](/expl/content/paradise/the-new-jerusalem#d33d) |
-| {{% bible val="Vahiy:21,9" link="rev:21,9" lang="tr" %}} | ["Fahişe ve ikinci canavar": Kuzu'nun gelini](/expl/content/beasts/the-nature-of-the-beast#1e70) |
+| {{% bible val="Vahiy:21,9" link="rev:21,9" lang="tr" %}} | ["Fahişe ve ikinci canavar": Kuzu'nun gelini](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy:21,9" link="rev:21,9" lang="tr" %}} | ["Cennet ve Yeni Yeruşalim": Yeni Yeruşalim'in Kuzu'nun Gelini olarak tanımlandığını](/expl/content/paradise/heaven-and-hell#1d44) |
 | {{% bible val="Vahiy:21,9" link="rev:21,9" lang="tr" %}} | ["Bölümün yapısı": Kuzu'nun gelini hakkında bir şey işitir](/expl/content/paradise/the-new-jerusalem#3207) |
 | {{% bible val="Vahiy:21,9-10" link="rev:21,9-10" lang="tr" %}} | ["Tanrı'nın gelini": Mesih'in gelini kilisedir](/expl/background/israel/the-church-is-part-of-israel#ed97) |

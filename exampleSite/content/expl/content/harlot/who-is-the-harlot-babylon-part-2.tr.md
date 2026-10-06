@@ -74,7 +74,7 @@ Vahiy aynı bağlantıyı kurar: krallar {{% bible val="Babil'le fuhuş yapar" l
 <a name="2815"></a>
 Babil sadece yoldan sapmış kilisenin bir resmi mi? Tam olarak değil — ama kilise her zaman Babil'in bir parçası hâline gelme tehlikesiyle karşı karşıyadır. Babil, Gelin'in ve Yeni Yeruşalim'in karşıtıdır ve kendi başına bir sistemdir. Üzerinde oturduğu canavarla birlikte {{% int_link val="dünyayı aldatan şeytani üçlüyü temsil eder" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
 
-Fahişenin altındaki canavar siyasi ve askeri gücü temsil eder ({{% int_link val="imparator tarafından somutlaştırılır" link="/expl/content/beasts/the-beasts-and-the-666-in-historical-context" %}}), fahişenin kendisi ise onu çevreleyen destekleyici sistemi temsil eder —
+Fahişenin altındaki canavar siyasi ve askeri gücü temsil eder ({{% int_link val="imparator tarafından somutlaştırılır" link="/expl/content/beasts/666-the-number-of-the-beast" %}}), fahişenin kendisi ise onu çevreleyen destekleyici sistemi temsil eder —
 
 - ekonomi ({{% bible val="zenginlik verir ya da yoksullaştırır" link="rev:13,16-17" lang="tr" %}}),
 - {{% bible val="etkileyici tapınak ibadetinde" link="rev:13,13-15" lang="tr" %}} görülen kültür,

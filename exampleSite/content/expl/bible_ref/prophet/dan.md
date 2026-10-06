@@ -32,7 +32,7 @@ docType: expl
 | {{% bible val="Daniel:3" link="dan:3,-1" lang="en" %}} | ["Jesus' view": the story of Daniel's friends in the fiery furnace](/expl/content/letters/the-letter-to-the-church-in-thyatira#b87c) |
 | {{% bible val="Daniel:3,1" link="dan:3,1" lang="en" %}} | ["Daniel's friends in the furnace": dimensions of the statue](/expl/content/beasts/666-the-number-of-the-beast#9bcc) |
 | {{% bible val="Daniel:3,1" link="dan:3,1" lang="en" %}} | ["A bag full of references": Dan.3](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a878) |
-| {{% bible val="Daniel:3,4-12" link="dan:3,4-12" lang="en" %}} | ["The second beast": the book of Daniel](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#2f0d) |
+| {{% bible val="Daniel:3,4-12" link="dan:3,4-12" lang="en" %}} | ["The second beast": the book of Daniel](/expl/content/beasts/666-the-number-of-the-beast#2f0d) |
 | {{% bible val="Daniel:3,16-18" link="dan:3,16-18" lang="en" %}} | ["Daniel's friends in the furnace": not bowing to the statue](/expl/content/beasts/666-the-number-of-the-beast#9bcc) |
 | {{% bible val="Daniel:3,25" link="dan:3,25" lang="en" %}} | ["Jesus' view": like a son of the gods](/expl/content/letters/the-letter-to-the-church-in-thyatira#b87c) |
 | {{% bible val="Daniel:3,28-30" link="dan:3,28-30" lang="en" %}} | ["A bag full of references": the king acknowledging and praising God, then promoting the friends](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a878) |

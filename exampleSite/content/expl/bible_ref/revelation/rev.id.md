@@ -186,7 +186,7 @@ docType: expl
 | {{% bible val="Wahyu:4,6-10" link="rev:4,6-10" lang="ind" %}} | ["Latar Belakang dan Konteks": 4 makhluk hidup](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Wahyu:4,7" link="rev:4,7" lang="ind" %}} | ["Latar Belakang": empat makhluk hidup (yang mewakili ciptaan)](/expl/content/bowls/the-bowls-of-wrath#3526) |
 | {{% bible val="Wahyu:4,7" link="rev:4,7" lang="ind" %}} | ["Penyembahan": keempat makhluk hidup](/expl/content/worship/worship-in-the-throne-room#e545) |
-| {{% bible val="Wahyu:5" link="rev:5,-1" lang="ind" %}} | ["Penggambaran Iblis": setelah penobatan Kristus](/expl/content/beasts/the-nature-of-the-beast#7b88) |
+| {{% bible val="Wahyu:5" link="rev:5,-1" lang="ind" %}} | ["Penggambaran Iblis": setelah penobatan Kristus](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
 | {{% bible val="Wahyu:5" link="rev:5,-1" lang="ind" %}} | ["Penyelesaiannya": pada pasal sebelumnya Yesus dinyatakan sebagai satu-satunya yang layak membuka gulungan kitab itu](/expl/content/seals/the-mystery-of-the-four-horse-men#8d71) |
 | {{% bible val="Wahyu:5" link="rev:5,-1" lang="ind" %}} | [""Penyembahan (Pasal 4-5)"": 5](/kids/content/worship) |
 | {{% bible val="Wahyu:5" link="rev:5,-1" lang="ind" %}} | [""Penyembahan (Pasal 4-5)"": 5](/quick/content/worship) |
@@ -232,7 +232,7 @@ docType: expl
 | {{% bible val="Wahyu:6" link="rev:6,-1" lang="ind" %}} | ["Wahyu 6": Wahyu 6](/kids/elementary/05-the-seals#wahyu-6) |
 | {{% bible val="Wahyu:6" link="rev:6,-1" lang="ind" %}} | [""Wahyu 6: Empat Penunggang Kuda dan Murka Sang Anak Domba"": Wahyu 6](/kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb) |
 | {{% bible val="Wahyu:6" link="rev:6,-1" lang="ind" %}} | [""Meterai-meterai (Pasal 6)"": Pasal 6](/quick/content/seals) |
-| {{% bible val="Wahyu:6,1-8" link="rev:6,1-8" lang="ind" %}} | ["Penggambaran Iblis": sebagai empat penunggang kuda](/expl/content/beasts/the-nature-of-the-beast#7b88) |
+| {{% bible val="Wahyu:6,1-8" link="rev:6,1-8" lang="ind" %}} | ["Penggambaran Iblis": sebagai empat penunggang kuda](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
 | {{% bible val="Wahyu:6,1-8" link="rev:6,1-8" lang="ind" %}} | ["Teksnya": Wahyu 6:1–8](/expl/content/seals/the-mystery-of-the-four-horse-men#19b5) |
 | {{% bible val="Wahyu:6,2" link="rev:6,2" lang="ind" %}} | ["Penunggang kuda yang sepertinya tidak cocok di sana": 'Dan aku melihat: sesungguhnya, ada seekor kuda putih dan orang yang menungganginya memegang sebuah panah, dan kepadanya dikaruniakan sebuah mahkota, dan ia maju sebagai pemenang untuk merebut kemenangan.'](/sermons/prosperity-gospel-module/worship-and-seals/01-the-first-horsemans-fake-gospel#penunggang-kuda-yang-sepertinya-tidak-cocok-di-sana) |
 | {{% bible val="Wahyu:6,5-6" link="rev:6,5-6" lang="ind" %}} | ["Kesengsaraan Besar": melalui penunggang kuda ketiga](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
@@ -394,7 +394,7 @@ docType: expl
 | {{% bible val="Wahyu:11,15-19" link="rev:11,15-19" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.11/15-19](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:11,19" link="rev:11,19" lang="ind" %}} | ["Angka 4": penutup sangkakala-sangkakala](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#0f0d) |
 | {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | ["Pengikatan Iblis": pasal 12](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
-| {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | ["Penggambaran Iblis": Yesus kembali dinyatakan sebagai pemenang](/expl/content/beasts/the-nature-of-the-beast#7b88) |
+| {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | ["Penggambaran Iblis": Yesus kembali dinyatakan sebagai pemenang](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
 | {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | ["Sang pelacur": Ibu yang dikejar](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | ["Sang pelacur": Ibu yang diselamatkan](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:12" link="rev:12,-1" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": pihak yang selalu kalah](/expl/content/witnesses/the-two-witnesses#3cd4) |
@@ -408,7 +408,7 @@ docType: expl
 | {{% bible val="Wahyu:12,1" link="rev:12,1" lang="ind" %}} | ["Sang pelacur": Memiliki keamanan di surga](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:12,1-5" link="rev:12,1-5" lang="ind" %}} | ["Kisahnya": Maka tampaklah suatu tanda besar di langit: Seorang perempuan berselubungkan matahari, dengan bulan di bawah kakinya dan sebuah mahkota dari dua belas bintang di atas kepalanya. 2 Ia sedang mengandung dan dalam keluhan kesakitannya menjelang bersalin ia berteriak kesakitan. 3 Maka tampaklah suatu tanda yang lain di langit: Lihatlah, seekor naga merah padam yang besar berkepala tujuh dan bertanduk sepuluh, dan di atas kepalanya ada tujuh mahkota. 4 Dan ekornya menyeret sepertiga dari bintang-bintang di langit dan melemparkannya ke atas bumi. Dan naga itu berdiri di hadapan perempuan yang hendak melahirkan itu, untuk menelan anaknya, apabila anak itu lahir. 5 Maka ia melahirkan seorang anak laki-laki, yang akan menggembalakan semua bangsa dengan gada besi; tetapi anaknya itu dikangkat ke hadapan Allah dan ke hadapan takhta-Nya.](/expl/content/jesus/a-different-christmas-story#a0eb) |
 | {{% bible val="Wahyu:12,1-6" link="rev:12,1-6" lang="ind" %}} | ["Membaca halaman": contoh](/help#membaca-halaman) |
-| {{% bible val="Wahyu:12,1-6" link="rev:12,1-6" lang="ind" %}} | ["Penggambaran Iblis": Ia berusaha membinasakan sang anak — dan gagal](/expl/content/beasts/the-nature-of-the-beast#7b88) |
+| {{% bible val="Wahyu:12,1-6" link="rev:12,1-6" lang="ind" %}} | ["Penggambaran Iblis": Ia berusaha membinasakan sang anak — dan gagal](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
 | {{% bible val="Wahyu:12,1-6" link="rev:12,1-6" lang="ind" %}} | ["144.000 Orang": Ia gagal membinasakan sang anak](/expl/content/harvest/gods-army-and-the-seven-angels#67e8) |
 | {{% bible val="Wahyu:12,1-12" link="rev:12,1-12" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Yesus sang pemenang](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:12,4" link="rev:12,4" lang="ind" %}} | ["Sangkakala Kelima dan Keenam": roh-roh jahat](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
@@ -421,7 +421,7 @@ docType: expl
 | {{% bible val="Wahyu:12,6" link="rev:12,6" lang="ind" %}} | ["Bagian 2: 3,5 Tahun": 12:6](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bagian-2-35-tahun) |
 | {{% bible val="Wahyu:12,7" link="rev:12,7" lang="ind" %}} | ["Kesengsaraan Besar": Mikhael berperang melawan sang naga](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Wahyu:12,7-8" link="rev:12,7-8" lang="ind" %}} | ["Pengikatan Iblis": pertempuran para malaikat melawan Iblis dan antek-anteknya](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
-| {{% bible val="Wahyu:12,7-12" link="rev:12,7-12" lang="ind" %}} | ["Penggambaran Iblis": Ia berperang melawan Mikhael — dan dilemparkan keluar dari sorga](/expl/content/beasts/the-nature-of-the-beast#7b88) |
+| {{% bible val="Wahyu:12,7-12" link="rev:12,7-12" lang="ind" %}} | ["Penggambaran Iblis": Ia berperang melawan Mikhael — dan dilemparkan keluar dari sorga](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
 | {{% bible val="Wahyu:12,7-12" link="rev:12,7-12" lang="ind" %}} | ["144.000 Orang": Ia kehilangan kedudukannya di surga](/expl/content/harvest/gods-army-and-the-seven-angels#67e8) |
 | {{% bible val="Wahyu:12,9" link="rev:12,9" lang="ind" %}} | ["Pengikatan Iblis": bumi](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
 | {{% bible val="Wahyu:12,9" link="rev:12,9" lang="ind" %}} | ["Pengikatan Iblis": ular tua itu, yang disebut Iblis atau Satan](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
@@ -436,7 +436,7 @@ docType: expl
 | {{% bible val="Wahyu:12,12" link="rev:12,12" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": kepanikan karena waktunya singkat](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:12,12" link="rev:12,12" lang="ind" %}} | ["Mengapa kesusahan itu semakin hebat": Wahyu 12:12](/quick/content/jesus#mengapa-kesusahan-itu-semakin-hebat) |
 | {{% bible val="Wahyu:12,13-17" link="rev:12,13-17" lang="ind" %}} | ["Kesengsaraan Besar": pertama-tama terhadap Israel](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
-| {{% bible val="Wahyu:12,13-17" link="rev:12,13-17" lang="ind" %}} | ["Penggambaran Iblis": Ia berusaha membinasakan sang perempuan — dan gagal](/expl/content/beasts/the-nature-of-the-beast#7b88) |
+| {{% bible val="Wahyu:12,13-17" link="rev:12,13-17" lang="ind" %}} | ["Penggambaran Iblis": Ia berusaha membinasakan sang perempuan — dan gagal](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
 | {{% bible val="Wahyu:12,13-17" link="rev:12,13-17" lang="ind" %}} | ["144.000 Orang": Ia gagal membinasakan sang perempuan](/expl/content/harvest/gods-army-and-the-seven-angels#67e8) |
 | {{% bible val="Wahyu:12,14" link="rev:12,14" lang="ind" %}} | ["Sedikit Matematika": perempuan itu dipelihara di padang gurun](/expl/bible/daniel/the-secret-of-the-3-5-years#472b) |
 | {{% bible val="Wahyu:12,14" link="rev:12,14" lang="ind" %}} | ["Apakah Tiga Setengah Tahun dalam Kitab Wahyu": dipelihara di padang gurun](/expl/bible/daniel/the-secret-of-the-3-5-years#1f16) |
@@ -447,10 +447,10 @@ docType: expl
 | {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Pengikatan Iblis": penyesatan meningkat setelah Iblis dicampakkan di pasal 12](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
 | {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Kesengsaraan Besar": terhadap jemaat](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["6–6–6: Kegagalan Trinitas Jahat": Wahyu 13](/expl/content/beasts/666-the-number-of-the-beast#497d) |
-| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Konteks bagi Para Pembaca Pertama": kedua binatang dalam Kitab Wahyu](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#a261) |
+| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Konteks bagi Para Pembaca Pertama": kedua binatang dalam Kitab Wahyu](/expl/content/beasts/666-the-number-of-the-beast#a261) |
 | {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Teksnya": Maka sangat murkalah naga itu terhadap perempuan itu, lalu pergi memerangi keturunannya yang lain, yang menuruti hukum-hukum Allah dan memiliki kesaksian Yesus. 18 Dan aku berdiri di atas pasir di tepi laut. 1 Dan aku melihat seekor binatang keluar dari dalam laut, bertanduk sepuluh dan berkepala tujuh; di atas tanduk-tanduknya terdapat sepuluh mahkota dan pada kepala-kepalanya tertulis nama-nama hujat. 2 Dan binatang yang kulihat itu, serupa dengan macan tutul, dan kakinya seperti kaki beruang dan mulutnya seperti mulut singa. Dan naga itu memberikan kepadanya kekuatannya, dan takhtanya, dan kekuasaannya yang besar. 3 Maka salah satu dari kepala-kepalanya nampak seperti kena luka yang membawa maut, tetapi luka yang membawa maut itu sembuh; lalu seluruh bumi heran dan mengikut binatang itu. 4 Dan mereka menyembah naga itu, karena ia telah memberikan kekuasaan kepada binatang itu, dan mereka menyembah binatang itu juga, katanya: 'Siapakah yang sama seperti binatang ini? Dan siapakah yang dapat berperang melawan dia?' 5 Kepadanya diberikan mulut, yang penuh kesombongan dan hujat, kepadanya diberikan juga kuasa untuk melakukannya empat puluh dua bulan lamanya. 6 Lalu ia membuka mulutnya untuk menghujat Allah, menghujat nama-Nya dan kemah kediaman-Nya dan semua mereka yang diam di sorga. 7 Dan ia diperkenankan untuk berperang melawan orang-orang kudus dan untuk mengalahkan mereka; kepadanya diberikan kuasa atas setiap suku dan umat dan bahasa dan bangsa. 8 Dan semua orang yang diam di atas bumi, yaitu mereka yang namanya tidak tertulis sejak dunia dijadikan di dalam kitab kehidupan Anak Domba, yang telah disembelih, akan menyembah dia. 9 Siapa bertelinga, hendaklah ia mendengar! 10 Barangsiapa ditentukan untuk ditawan, ia akan ditawan. Jikalau seorang akan dibunuh dengan pedang, ia harus dibunuh dengan pedang. Yang penting di sini ialah ketabahan dan iman orang-orang kudus. 11 Dan aku melihat seekor binatang lain keluar dari dalam bumi dan bertanduk dua sama seperti anak domba dan ia berbicara seperti seekor naga. 12 Dan segala kuasa binatang yang pertama itu dijalankannya di depan matanya. Ia menyebabkan bumi dan orang-orangnya yang diam di atasnya menyembah binatang yang pertama, yang luka parahnya telah sembuh itu. 13 Ia mengadakan tanda-tanda yang dahsyat, bahkan juga menyebabkan api turun dari langit ke bumi di depan mata orang. 14 Ia menyesatkan mereka yang diam di bumi dengan tanda-tanda yang diberikan kepadanya untuk dilakukannya di depan mata binatang itu. Ia mengatakan kepada mereka yang diam di atas bumi, supaya mereka mendirikan gambar bagi binatang yang mendapat luka parah oleh pedang itu, tetapi yang tetap hidup. 15 Dan ia diperkenankan untuk memberikan nafas hidup kepada patung binatang itu, sehingga patung binatang itu berbicara juga, dan bertindak, supaya semua orang yang tidak menyembah patung binatang itu, dibunuh. 16 Dan ia menyebabkan, sehingga kepada semua orang, kecil atau besar, kaya atau miskin, merdeka atau hamba, diberi tanda pada tangan kanannya atau pada dahinya, 17 dan tidak seorangpun yang dapat membeli atau menjual selain dari pada mereka yang memakai tanda itu, yaitu nama binatang itu atau bilangan namanya. 18 Yang penting di sini ialah hikmat: barangsiapa yang bijaksana, baiklah ia menghitung bilangan binatang itu, karena bilangan itu adalah bilangan seorang manusia, dan bilangannya ialah enam ratus enam puluh enam.](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a679) |
-| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Penggambaran Iblis": Ia berusaha membinasakan keturunan Yesus, yaitu jemaat, dan juga gagal](/expl/content/beasts/the-nature-of-the-beast#7b88) |
-| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Trinitas Palsu": kisah kedua tentang sang naga dan kedua binatang](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Penggambaran Iblis": Ia berusaha membinasakan keturunan Yesus, yaitu jemaat, dan juga gagal](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
+| {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Trinitas Palsu": kisah kedua tentang sang naga dan kedua binatang](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Karakter sang pelacur": binatang pertama dari pasal 13](/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
 | {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["144.000 Orang": Penganiayaan dan penindasannya melalui kedua binatang buas](/expl/content/harvest/gods-army-and-the-seven-angels#67e8) |
 | {{% bible val="Wahyu:13" link="rev:13,-1" lang="ind" %}} | ["Penyelesaiannya": pasal 13](/expl/content/seals/the-mystery-of-the-four-horse-men#8d71) |
@@ -468,7 +468,7 @@ docType: expl
 | {{% bible val="Wahyu:13,1" link="rev:13,1" lang="ind" %}} | ["Serangan Ganda": Dari laut](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,1" link="rev:13,1" lang="ind" %}} | ["Serangan Ganda": Binatang dengan tujuh tanduk](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,1" link="rev:13,1" lang="ind" %}} | ["Serangan Ganda": Mewakili kerajaan-kerajaan dunia ini](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Wahyu:13,1" link="rev:13,1" lang="ind" %}} | ["Trinitas Palsu": Memiliki 7 kepala dan 10 tanduk](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:13,1" link="rev:13,1" lang="ind" %}} | ["Trinitas Palsu": Memiliki 7 kepala dan 10 tanduk](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:13,1" link="rev:13,1" lang="ind" %}} | ["Binatang berwarna merah kirmizi": Why.13/1](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Wahyu:13,1" link="rev:13,1" lang="ind" %}} | ["Tidak ada laut lagi": Kitab Wahyu](/expl/content/paradise/the-new-jerusalem#eee1) |
 | {{% bible val="Wahyu:13,1" link="rev:13,1" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Dari laut](/expl/content/witnesses/the-two-witnesses#3cd4) |
@@ -492,12 +492,12 @@ docType: expl
 | {{% bible val="Wahyu:13,3" link="rev:13,3" lang="ind" %}} | ["Serangan Ganda": Seluruh bumi tercengang](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,3" link="rev:13,3" lang="ind" %}} | ["Serangan Ganda": Binatang pertama tampak dibunuh dan bangkit dari kematian](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,3" link="rev:13,3" lang="ind" %}} | ["Serangan Ganda": Salah satu kepalanya mendapat luka yang mematikan](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Wahyu:13,3" link="rev:13,3" lang="ind" %}} | ["Trinitas Palsu": Kepala seperti disembelih, tumbuh kembali](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:13,3" link="rev:13,3" lang="ind" %}} | ["Trinitas Palsu": Kepala seperti disembelih, tumbuh kembali](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:13,3" link="rev:13,3" lang="ind" %}} | ["Binatang berwarna merah kirmizi": Kepala seperti tersembelih, tumbuh kembali](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Wahyu:13,3" link="rev:13,3" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Luka yang mematikan telah sembuh](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,3" link="rev:13,3" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/3](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,3" link="rev:13,3" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": binatang pertama](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Wahyu:13,3-4" link="rev:13,3-4" lang="ind" %}} | ["Binatang Pertama": Dengan setiap kaisar baru, ia bangkit kembali. Roma tak terkalahkan.](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#e132) |
+| {{% bible val="Wahyu:13,3-4" link="rev:13,3-4" lang="ind" %}} | ["Binatang Pertama": Dengan setiap kaisar baru, ia bangkit kembali. Roma tak terkalahkan.](/expl/content/beasts/666-the-number-of-the-beast#e132) |
 | {{% bible val="Wahyu:13,3-4" link="rev:13,3-4" lang="ind" %}} | ["Serangan Ganda": Kebangkitannya menimbulkan ketakutan (Siapa yang dapat berperang melawannya?)](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,3-4" link="rev:13,3-4" lang="ind" %}} | ["Cawan Keenam": di sinilah tepatnya binatang yang telah bangkit itu mengklaim dirinya tak terkalahkan](/expl/content/bowls/the-bowls-of-wrath#9ced) |
 | {{% bible val="Wahyu:13,3-4" link="rev:13,3-4" lang="ind" %}} | ["Ketujuh bukit dan ketujuh raja": pada pasal 13](/expl/content/harlot/who-is-the-harlot-babylon-part-1#09b7) |
@@ -505,7 +505,7 @@ docType: expl
 | {{% bible val="Wahyu:13,4" link="rev:13,4" lang="ind" %}} | ["Serangan Ganda": Menyembah sang naga yang memberikan kuasa](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,4" link="rev:13,4" lang="ind" %}} | ["Serangan Ganda": Siapakah yang seperti binatang itu (sekuat itu)](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,4" link="rev:13,4" lang="ind" %}} | ["Sisi Gelapnya": tercengang melihat kekuatan binatang itu](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
-| {{% bible val="Wahyu:13,4" link="rev:13,4" lang="ind" %}} | ["Trinitas Palsu": Siapa yang dapat berperang melawan binatang itu](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:13,4" link="rev:13,4" lang="ind" %}} | ["Trinitas Palsu": Siapa yang dapat berperang melawan binatang itu](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:13,4" link="rev:13,4" lang="ind" %}} | ["Binatang berwarna merah kirmizi": Binatang itu tampak tak tertandingi](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Wahyu:13,4" link="rev:13,4" lang="ind" %}} | ["Apakah Babel adalah gereja yang murtad?": keamanan](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Wahyu:13,4" link="rev:13,4" lang="ind" %}} | ["Sangkakala Kelima dan Keenam": orang-orang menyembah sang naga dan binatang itu](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
@@ -513,7 +513,7 @@ docType: expl
 | {{% bible val="Wahyu:13,4" link="rev:13,4" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/4](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,4" link="rev:13,4" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": ketundukan](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,4" link="rev:13,4" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": tidak pernah membiarkan tanda kelemahan apa pun](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Wahyu:13,4-6" link="rev:13,4-6" lang="ind" %}} | ["Binatang Pertama": Roma menghujat Allah](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#e132) |
+| {{% bible val="Wahyu:13,4-6" link="rev:13,4-6" lang="ind" %}} | ["Binatang Pertama": Roma menghujat Allah](/expl/content/beasts/666-the-number-of-the-beast#e132) |
 | {{% bible val="Wahyu:13,4-6" link="rev:13,4-6" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Binatang pertama](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,5" link="rev:13,5" lang="ind" %}} | ["Pertimbangan Aritmetika": 42 bulan masa aktivitas binatang itu](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#f042) |
 | {{% bible val="Wahyu:13,5" link="rev:13,5" lang="ind" %}} | ["Sedikit Matematika": binatang pertama itu menghujat](/expl/bible/daniel/the-secret-of-the-3-5-years#472b) |
@@ -521,7 +521,7 @@ docType: expl
 | {{% bible val="Wahyu:13,5" link="rev:13,5" lang="ind" %}} | ["Serangan Ganda": Kuasa itu hanya untuk 42 bulan](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,5" link="rev:13,5" lang="ind" %}} | ["Bagian 2: 3,5 Tahun": 13:5](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bagian-2-35-tahun) |
 | {{% bible val="Wahyu:13,5-6" link="rev:13,5-6" lang="ind" %}} | ["Serangan Ganda": hujatan-hujatan besar melawan Allah dan umat-Nya](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Wahyu:13,5-6" link="rev:13,5-6" lang="ind" %}} | ["Trinitas Palsu": Perkataan yang menghujat Allah](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:13,5-6" link="rev:13,5-6" lang="ind" %}} | ["Trinitas Palsu": Perkataan yang menghujat Allah](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:13,5-6" link="rev:13,5-6" lang="ind" %}} | ["Binatang berwarna merah kirmizi": Why.13/5-6](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Wahyu:13,5-6" link="rev:13,5-6" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": hujatan besar terhadap Allah dan umat-Nya](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,6" link="rev:13,6" lang="ind" %}} | ["Sekarung Penuh Rujukan": Binatang itu menghujat Allah](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
@@ -529,7 +529,7 @@ docType: expl
 | {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | ["Serangan Ganda": Berperang melawan orang-orang kudus dan mengalahkan mereka](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | ["Serangan Ganda": Memiliki kuasa atas suku-suku, bahasa-bahasa, dan bangsa-bangsa](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | ["Serangan Ganda": mengalahkan orang-orang kudus](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | ["Trinitas Palsu": Berperang melawan orang-orang kudus dan mengalahkan mereka](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | ["Trinitas Palsu": Berperang melawan orang-orang kudus dan mengalahkan mereka](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | ["Binatang berwarna merah kirmizi": Why.13/7](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | ["Apakah Babel adalah gereja yang murtad?": perang](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | ["Rahasia Penunggang Kuda Pertama": merujuk pada binatang itu](/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
@@ -539,44 +539,44 @@ docType: expl
 | {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | [""Pratribulasi, pertengahan tribulasi, pra-murka, atau pascatribulasi?"": peperangan binatang itu melawan orang-orang kudus](/expl/topics/others/pre-mid-prewrath-or-post-tribulational) |
 | {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | ["Pratribulasi": orang-orang kudus](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pt1a) |
 | {{% bible val="Wahyu:13,7" link="rev:13,7" lang="ind" %}} | ["Pra-murka": peperangan binatang itu melawan orang-orang kudus](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pw3c) |
-| {{% bible val="Wahyu:13,7-8" link="rev:13,7-8" lang="ind" %}} | ["Binatang Pertama": ia memulai penganiayaan terhadap umat Allah dan berhasil melakukannya](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#e132) |
-| {{% bible val="Wahyu:13,8" link="rev:13,8" lang="ind" %}} | ["Apa yang Dapat Dilakukan?": menyembah binatang itu sebagai gantinya](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#6293) |
+| {{% bible val="Wahyu:13,7-8" link="rev:13,7-8" lang="ind" %}} | ["Binatang Pertama": ia memulai penganiayaan terhadap umat Allah dan berhasil melakukannya](/expl/content/beasts/666-the-number-of-the-beast#e132) |
+| {{% bible val="Wahyu:13,8" link="rev:13,8" lang="ind" %}} | ["Apa yang Dapat Dilakukan?": menyembah binatang itu sebagai gantinya](/expl/content/beasts/666-the-number-of-the-beast#6293) |
 | {{% bible val="Wahyu:13,8" link="rev:13,8" lang="ind" %}} | ["Serangan Ganda": Semua orang di bumi yang namanya tidak tertulis dalam kitab kehidupan menyembah binatang itu](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,8" link="rev:13,8" lang="ind" %}} | ["Serangan Ganda": Semua yang diam di bumi menyembah binatang pertama](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,8" link="rev:13,8" lang="ind" %}} | ["Serangan Ganda": Semua orang menyembah binatang pertama](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,8" link="rev:13,8" lang="ind" %}} | ["Sisi Gelapnya": seluruh dunia menyembahnya tanpa perlawanan](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
-| {{% bible val="Wahyu:13,8" link="rev:13,8" lang="ind" %}} | ["Trinitas Palsu": Semua orang yang tidak tertulis dalam kitab kehidupan menyembah binatang itu](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:13,8" link="rev:13,8" lang="ind" %}} | ["Trinitas Palsu": Semua orang yang tidak tertulis dalam kitab kehidupan menyembah binatang itu](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:13,8" link="rev:13,8" lang="ind" %}} | ["Binatang berwarna merah kirmizi": Why.13/8](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Wahyu:13,8" link="rev:13,8" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/8](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,8" link="rev:13,8" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": binatang pertama](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,9" link="rev:13,9" lang="ind" %}} | ["Serangan Ganda": Siapa bertelinga, hendaklah ia mendengar!](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,9" link="rev:13,9" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/9](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,9-10" link="rev:13,9-10" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Binatang pertama](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Wahyu:13,10" link="rev:13,10" lang="ind" %}} | ["Binatang Pertama": ia memiliki kuasa dan orang-orang kudus hanya bisa bertahan](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#e132) |
-| {{% bible val="Wahyu:13,10" link="rev:13,10" lang="ind" %}} | ["Apa yang Dapat Dilakukan?": ketekunan](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#6293) |
+| {{% bible val="Wahyu:13,10" link="rev:13,10" lang="ind" %}} | ["Binatang Pertama": ia memiliki kuasa dan orang-orang kudus hanya bisa bertahan](/expl/content/beasts/666-the-number-of-the-beast#e132) |
+| {{% bible val="Wahyu:13,10" link="rev:13,10" lang="ind" %}} | ["Apa yang Dapat Dilakukan?": ketekunan](/expl/content/beasts/666-the-number-of-the-beast#6293) |
 | {{% bible val="Wahyu:13,10" link="rev:13,10" lang="ind" %}} | ["Serangan Ganda": Yang penting di sini ialah kesabaran dan iman orang-orang kudus](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,10" link="rev:13,10" lang="ind" %}} | ["Serangan Ganda": membunuh setiap perlawanan](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,10" link="rev:13,10" lang="ind" %}} | ["Apakah Babel adalah gereja yang murtad?": penganiayaan](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Wahyu:13,10" link="rev:13,10" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/10](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Binatang Kedua": binatang kedua ini muncul, tampak tidak berbahaya, seperti anak domba](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
+| {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Binatang Kedua": binatang kedua ini muncul, tampak tidak berbahaya, seperti anak domba](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Serangan Ganda": Dari bumi](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Serangan Ganda": Binatang dengan dua tanduk seperti anak domba/anak manusia](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Serangan Ganda": Binatang kedua memiliki dua tanduk](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Serangan Ganda": Binatang kedua berbicara seperti seekor naga](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Misteri Binatang Kedua": Dan aku melihat seekor binatang lain keluar dari dalam bumi. Ia bertanduk dua sama seperti anak domba, tetapi ia berbicara seperti seekor naga.](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#d1a7) |
-| {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Datang dari bumi](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
-| {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Memiliki dua tanduk seperti anak domba](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Datang dari bumi](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
+| {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Memiliki dua tanduk seperti anak domba](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Muncul dari bumi](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Memiliki dua tanduk seperti anak domba](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Dari bumi](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/11](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": dari bumi](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,11" link="rev:13,11" lang="ind" %}} | [""Sang Naga dan Kedua Binatang (Pasal 13)"": Wahyu 13:11](/quick/content/beasts) |
-| {{% bible val="Wahyu:13,12" link="rev:13,12" lang="ind" %}} | ["Binatang Kedua": memastikan bahwa seluruh bumi menyembah binatang pertama](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
+| {{% bible val="Wahyu:13,12" link="rev:13,12" lang="ind" %}} | ["Binatang Kedua": memastikan bahwa seluruh bumi menyembah binatang pertama](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="Wahyu:13,12" link="rev:13,12" lang="ind" %}} | ["Serangan Ganda": Memerintah dengan kuasa binatang pertama](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,12" link="rev:13,12" lang="ind" %}} | ["Serangan Ganda": Memaksa semua orang menyembah binatang pertama, yang lukanya telah sembuh](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,12" link="rev:13,12" lang="ind" %}} | ["Serangan Ganda": Binatang kedua berbicara dengan otoritas binatang pertama](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Wahyu:13,12" link="rev:13,12" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Bertindak dengan kuasa binatang (pertama)](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:13,12" link="rev:13,12" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Bertindak dengan kuasa binatang (pertama)](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:13,12" link="rev:13,12" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Bertindak dengan kuasa binatang (pertama)](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:13,12" link="rev:13,12" lang="ind" %}} | ["Apakah Babel adalah gereja yang murtad?": ideologi](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Wahyu:13,12" link="rev:13,12" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/12](/expl/content/witnesses/the-two-witnesses#3cd4) |
@@ -584,11 +584,11 @@ docType: expl
 | {{% bible val="Wahyu:13,12-14" link="rev:13,12-14" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": binatang kedua](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,13" link="rev:13,13" lang="ind" %}} | ["Elia dan Kekeringan (1 Raja-raja 16/29–18/35)": mukjizat yang sama juga dilakukan oleh binatang kedua](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="Wahyu:13,13" link="rev:13,13" lang="ind" %}} | ["Serangan Ganda": Ia dapat membuat api turun dari langit di depan semua orang](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Wahyu:13,13" link="rev:13,13" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Dapat membuat api turun dari langit](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:13,13" link="rev:13,13" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Dapat membuat api turun dari langit](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:13,13" link="rev:13,13" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Why.13/13](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:13,13" link="rev:13,13" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": binatang kedua](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,13" link="rev:13,13" lang="ind" %}} | ["Bagian 2: 3,5 Tahun": menurunkan api](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bagian-2-35-tahun) |
-| {{% bible val="Wahyu:13,13-14" link="rev:13,13-14" lang="ind" %}} | ["Binatang Kedua": layak menerima tanda-tanda dan mukjizat-mukjizat besar](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
+| {{% bible val="Wahyu:13,13-14" link="rev:13,13-14" lang="ind" %}} | ["Binatang Kedua": layak menerima tanda-tanda dan mukjizat-mukjizat besar](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="Wahyu:13,13-14" link="rev:13,13-14" lang="ind" %}} | ["Serangan Ganda": Mengadakan tanda-tanda besar, menjatuhkan api dari langit, menipu dengan tanda-tanda](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,13-14" link="rev:13,13-14" lang="ind" %}} | ["Serangan Ganda": Melakukan hal-hal besar di depan orang banyak](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,13-14" link="rev:13,13-14" lang="ind" %}} | ["Apakah Babel adalah gereja yang murtad?": rasa superioritas](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
@@ -596,7 +596,7 @@ docType: expl
 | {{% bible val="Wahyu:13,13-15" link="rev:13,13-15" lang="ind" %}} | ["Apakah Babel adalah gereja yang murtad?": ibadah bait suci yang mengesankan](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Wahyu:13,14" link="rev:13,14" lang="ind" %}} | ["Simpul 1: dua kali menjadi hidup, satu kata kerja": yang luka pedangnya sembuh dan ia hidup kembali](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Wahyu:13,14" link="rev:13,14" lang="ind" %}} | ["Apa yang sebenarnya membawa tema ini": ia hidup kembali](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
-| {{% bible val="Wahyu:13,14" link="rev:13,14" lang="ind" %}} | ["Konteks bagi Para Pembaca Pertama": dilukai dengan pedang dalam Kitab Wahyu](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#a261) |
+| {{% bible val="Wahyu:13,14" link="rev:13,14" lang="ind" %}} | ["Konteks bagi Para Pembaca Pertama": dilukai dengan pedang dalam Kitab Wahyu](/expl/content/beasts/666-the-number-of-the-beast#a261) |
 | {{% bible val="Wahyu:13,14" link="rev:13,14" lang="ind" %}} | ["Serangan Ganda": Menerima kuasa dari binatang pertama](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,14" link="rev:13,14" lang="ind" %}} | ["Serangan Ganda": Gambar kuasa dari binatang itu](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,14" link="rev:13,14" lang="ind" %}} | ["Sisi Gelapnya": melihat lebih banyak tanda dan mukjizat](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
@@ -604,38 +604,38 @@ docType: expl
 | {{% bible val="Wahyu:13,14" link="rev:13,14" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Membuat patung binatang itu](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,14-15" link="rev:13,14-15" lang="ind" %}} | ["Serangan Ganda": Dapat memberi kehidupan agar binatang itu dapat berbicara](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,14-15" link="rev:13,14-15" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Dapat memberi hidup sehingga patung itu dapat berbicara](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Wahyu:13,15" link="rev:13,15" lang="ind" %}} | ["Binatang Kedua": berhala itu mendapatkan kuasanya dari orang-orang yang mendukungnya](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
+| {{% bible val="Wahyu:13,15" link="rev:13,15" lang="ind" %}} | ["Binatang Kedua": berhala itu mendapatkan kuasanya dari orang-orang yang mendukungnya](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="Wahyu:13,15" link="rev:13,15" lang="ind" %}} | ["Serangan Ganda": Membunuh semua orang yang tidak menyembah patung itu](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,15" link="rev:13,15" lang="ind" %}} | ["Serangan Ganda": orang-orang yang tidak mau mengikuti](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,15" link="rev:13,15" lang="ind" %}} | ["Serangan Ganda": Ia dapat membuat sebuah patung menjadi hidup](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,15" link="rev:13,15" lang="ind" %}} | ["Serangan Ganda": Membunuh semua orang yang tidak menyembahnya](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,15" link="rev:13,15" lang="ind" %}} | ["Sisi Gelapnya": Allah yang memaksakan ketundukan dan langsung membinasakan perlawanan](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
-| {{% bible val="Wahyu:13,15" link="rev:13,15" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Semua yang tidak menyembahnya dibunuh](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:13,15" link="rev:13,15" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Semua yang tidak menyembahnya dibunuh](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:13,15" link="rev:13,15" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Semua yang tidak menyembahnya akan dibunuh](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:13,15" link="rev:13,15" lang="ind" %}} | ["Siap untuk kematian kedua": membunuh orang-orang percaya](/expl/content/paradise/the-new-jerusalem#e855) |
 | {{% bible val="Wahyu:13,15" link="rev:13,15" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/15](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,15" link="rev:13,15" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": binatang kedua](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,15-17" link="rev:13,15-17" lang="ind" %}} | ["Apakah kita akan dipenggal kepala?": tekanan ekonomi atau sosial](/expl/content/1000y/the-thousand-year-kingdom#c7a1) |
 | {{% bible val="Wahyu:13,16" link="rev:13,16" lang="ind" %}} | ["Serangan Ganda": Membuat tanda bagi semua orang](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Wahyu:13,16" link="rev:13,16" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Membuat tanda pada dahi dan tangan semua orang](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:13,16" link="rev:13,16" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Membuat tanda pada dahi dan tangan semua orang](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:13,16" link="rev:13,16" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Why.13/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:13,16" link="rev:13,16" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/16](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Wahyu:13,16-17" link="rev:13,16-17" lang="ind" %}} | ["Binatang Kedua": engkau akan dihancurkan secara finansial](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
+| {{% bible val="Wahyu:13,16-17" link="rev:13,16-17" lang="ind" %}} | ["Binatang Kedua": engkau akan dihancurkan secara finansial](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="Wahyu:13,16-17" link="rev:13,16-17" lang="ind" %}} | ["Sisi Gelapnya": semua orang tunduk pada sistem nilai kita](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
 | {{% bible val="Wahyu:13,16-17" link="rev:13,16-17" lang="ind" %}} | ["Apakah Babel adalah gereja yang murtad?": memberi kekayaan atau membuat miskin](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Wahyu:13,16-17" link="rev:13,16-17" lang="ind" %}} | ["Apakah Babel adalah gereja yang murtad?": pengucilan terhadap siapa pun yang tidak mau tunduk](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Wahyu:13,16-17" link="rev:13,16-17" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": binatang kedua](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,17" link="rev:13,17" lang="ind" %}} | ["Serangan Ganda": Tidak seorang pun dapat membeli atau menjual, kecuali ia memiliki tanda binatang itu](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Wahyu:13,17" link="rev:13,17" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Tidak dapat membeli atau menjual tanpa tanda](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:13,17" link="rev:13,17" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Tidak dapat membeli atau menjual tanpa tanda](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:13,17" link="rev:13,17" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Tidak dapat membeli atau menjual tanpa tanda](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:13,17" link="rev:13,17" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/17](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Pertimbangan Aritmetika": yaitu rahasia binatang itu](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#f042) |
 | {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | [""Angka Binatang Itu"": Angka ajaib dari binatang itu](/expl/content/beasts/666-the-number-of-the-beast) |
 | {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["666 dalam Konteksnya": angka seorang manusia](/expl/content/beasts/666-the-number-of-the-beast#c413) |
-| {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Apa yang Dapat Dilakukan?": hikmat untuk membedakan apa yang berasal dari Allah dan apa yang bukan](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#6293) |
+| {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Apa yang Dapat Dilakukan?": hikmat untuk membedakan apa yang berasal dari Allah dan apa yang bukan](/expl/content/beasts/666-the-number-of-the-beast#6293) |
 | {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Serangan Ganda": Yang penting di sini ialah hikmat](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Serangan Ganda": Barangsiapa yang bijaksana: hitunglah](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Membutuhkan hikmat](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Membutuhkan hikmat](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Membutuhkan hikmat](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/18](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Wahyu:13,18" link="rev:13,18" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Why.13/18](/expl/content/witnesses/the-two-witnesses#3cd4) |
@@ -651,7 +651,7 @@ docType: expl
 | {{% bible val="Wahyu:14,1" link="rev:14,1" lang="ind" %}} | ["666 dalam Konteksnya": penyebutan 144.000](/expl/content/beasts/666-the-number-of-the-beast#c413) |
 | {{% bible val="Wahyu:14,1-5" link="rev:14,1-5" lang="ind" %}} | ["Apakah kita akan dipenggal kepala?": setia kepada Yesus](/expl/content/1000y/the-thousand-year-kingdom#c7a1) |
 | {{% bible val="Wahyu:14,1-5" link="rev:14,1-5" lang="ind" %}} | ["Senjata Peperangan yang Dibayangkannya": bukanlah apa yang sesungguhnya ditunjukkan Kitab Wahyu](/expl/topics/others/dispensionalism-and-its-critic#7b85) |
-| {{% bible val="Wahyu:14,4" link="rev:14,4" lang="ind" %}} | ["Apa yang Dapat Dilakukan?": karena mereka adalah perawan-perawan](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#6293) |
+| {{% bible val="Wahyu:14,4" link="rev:14,4" lang="ind" %}} | ["Apa yang Dapat Dilakukan?": karena mereka adalah perawan-perawan](/expl/content/beasts/666-the-number-of-the-beast#6293) |
 | {{% bible val="Wahyu:14,4-5" link="rev:14,4-5" lang="ind" %}} | ["144.000 Orang": Mereka adalah orang-orang yang tidak mencemarkan dirinya dengan perempuan-perempuan, karena mereka murni sama seperti perawan. Mereka adalah pengikut-pengikut Anak Domba ke mana saja Ia pergi. Mereka ini ditebus dari antara manusia sebagai korban sulung bagi Allah dan bagi Anak Domba, dan tidak ada dusta yang terdapat dalam mulut mereka: mereka tidak bercacat cela.](/expl/content/harvest/gods-army-and-the-seven-angels#67e8) |
 | {{% bible val="Wahyu:14,6-7" link="rev:14,6-7" lang="ind" %}} | ["Ketiga Malaikat Pertama": ia mempunyai Injil yang kekal untuk diberitakannya kepada mereka yang diam di atas bumi, dan kepada semua bangsa dan suku dan bahasa dan kaum, dan ia berseru dengan suara nyaring: 'Takutlah akan Allah dan muliakanlah Dia, karena telah tiba saat penghakiman-Nya. Sembahlah Dia yang telah menjadikan langit dan bumi dan laut dan semua mata air.'](/expl/content/harvest/gods-army-and-the-seven-angels#ad85) |
 | {{% bible val="Wahyu:14,6-13" link="rev:14,6-13" lang="ind" %}} | ["Pola: menang melalui kelemahan": akan menuju kehancuran, membawa serta semua orang yang mempercayai mereka](/expl/content/jesus/a-different-christmas-story#fb36) |
@@ -688,8 +688,8 @@ docType: expl
 | {{% bible val="Wahyu:16,12-16" link="rev:16,12-16" lang="ind" %}} | ["Harmagedon": Wahyu 16:12-16](/quick/content/bowls#harmagedon) |
 | {{% bible val="Wahyu:16,12-21" link="rev:16,12-21" lang="ind" %}} | ["Cawan-Cawan Itu": Cawan keenam dan ketujuh](/expl/content/bowls/the-bowls-of-wrath#9855) |
 | {{% bible val="Wahyu:16,13" link="rev:16,13" lang="ind" %}} | ["666 dalam Konteksnya": cawan keenam](/expl/content/beasts/666-the-number-of-the-beast#c413) |
-| {{% bible val="Wahyu:16,13" link="rev:16,13" lang="ind" %}} | ["Penggambaran Iblis": sebagai sebuah trinitas pada cawan keenam](/expl/content/beasts/the-nature-of-the-beast#7b88) |
-| {{% bible val="Wahyu:16,13" link="rev:16,13" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": cawan keenam](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:16,13" link="rev:16,13" lang="ind" %}} | ["Penggambaran Iblis": sebagai sebuah trinitas pada cawan keenam](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
+| {{% bible val="Wahyu:16,13" link="rev:16,13" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": cawan keenam](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:16,13" link="rev:16,13" lang="ind" %}} | ["Cawan Keenam": Ketiga ekor katak yang keluar dari mulut sang naga dan para sekutunya](/expl/content/bowls/the-bowls-of-wrath#9ced) |
 | {{% bible val="Wahyu:16,13" link="rev:16,13" lang="ind" %}} | ["Ketujuh bukit dan ketujuh raja": pasal 16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#09b7) |
 | {{% bible val="Wahyu:16,13-16" link="rev:16,13-16" lang="ind" %}} | ["Cawan-Cawan Itu": roh-roh najis mengumpulkan raja-raja di bumi untuk berperang, alih-alih membiarkan mereka berbalik](/expl/content/bowls/the-bowls-of-wrath#9855) |
@@ -721,24 +721,24 @@ docType: expl
 | {{% bible val="Wahyu:17,2" link="rev:17,2" lang="ind" %}} | ["Sang pelacur": Menipu manusia](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,2" link="rev:17,2" lang="ind" %}} | ["Aspek ekonomi": perzinaan Babel dengan raja-raja bumi](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
 | {{% bible val="Wahyu:17,3" link="rev:17,3" lang="ind" %}} | ["Pelayanan Itu": (Why.17/3)](/expl/background/israel/the-church-is-part-of-israel#121f) |
-| {{% bible val="Wahyu:17,3" link="rev:17,3" lang="ind" %}} | ["Trinitas Palsu": Memiliki 7 kepala dan 10 tanduk](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
-| {{% bible val="Wahyu:17,3" link="rev:17,3" lang="ind" %}} | ["Trinitas Palsu": Nama yang menghujat Allah](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
-| {{% bible val="Wahyu:17,3" link="rev:17,3" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Duduk di padang gurun](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
-| {{% bible val="Wahyu:17,3" link="rev:17,3" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Duduk di atas binatang (pertama)](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:17,3" link="rev:17,3" lang="ind" %}} | ["Trinitas Palsu": Memiliki 7 kepala dan 10 tanduk](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
+| {{% bible val="Wahyu:17,3" link="rev:17,3" lang="ind" %}} | ["Trinitas Palsu": Nama yang menghujat Allah](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
+| {{% bible val="Wahyu:17,3" link="rev:17,3" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Duduk di padang gurun](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
+| {{% bible val="Wahyu:17,3" link="rev:17,3" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Duduk di atas binatang (pertama)](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:17,3" link="rev:17,3" lang="ind" %}} | ["Rahasia kejatuhannya": duduk di atas binatang itu](/expl/content/harlot/the-character-and-destiny-of-the-harlot#a995) |
 | {{% bible val="Wahyu:17,3" link="rev:17,3" lang="ind" %}} | ["Binatang berwarna merah kirmizi": Why.17/3](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Wahyu:17,3" link="rev:17,3" lang="ind" %}} | ["Binatang berwarna merah kirmizi": Why.17/3](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Wahyu:17,3" link="rev:17,3" lang="ind" %}} | ["Sang pelacur": Why.17/3](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,3" link="rev:17,3" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Duduk di padang gurun](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,3" link="rev:17,3" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Duduk di atas binatang (pertama)](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Wahyu:17,4" link="rev:17,4" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Berpakaian mewah dan berhias](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:17,4" link="rev:17,4" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Berpakaian mewah dan berhias](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:17,4" link="rev:17,4" lang="ind" %}} | ["Sang pelacur": Berpakaian kain kasar](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,4" link="rev:17,4" lang="ind" %}} | ["Sang pelacur": Why.17/4](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,4" link="rev:17,4" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Berpakaian seperti mempelai perempuan Anak Domba](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,4" link="rev:17,4" lang="ind" %}} | ["Aspek keagamaan": 17](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Wahyu:17,4" link="rev:17,4" lang="ind" %}} | ["Sosok paling berdandan dalam seluruh kitab ini": 'Perempuan itu memakai kain ungu dan kain kirmizi, dihiasi dengan emas, permata, dan mutiara, dan di tangannya ada suatu cawan emas penuh dengan segala kekejian dan kenajisan percabulannya.'](/sermons/prosperity-gospel-module/conflict/03-the-harlot-as-glamorized-empire#sosok-paling-berdandan-dalam-seluruh-kitab-ini) |
 | {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Rahasia Itu": binatang itu](/expl/background/literature/literally-or-symbolic#8b2d) |
-| {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Memiliki tanda pada dahinya: Babel](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Memiliki tanda pada dahinya: Babel](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Sang pelacur": Why.17/5](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Sang pelacur": Ibu yang dianiaya](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Sang pelacur": Why.17/5](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
@@ -747,22 +747,22 @@ docType: expl
 | {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Pengajaran Inti": binatang itu](/sermons/deep-dive/intro/03-symbol-or-literal#pengajaran-inti) |
 | {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Pengajaran Inti": sundal itu](/sermons/deep-dive/intro/06-the-three-mysteries#pengajaran-inti) |
 | {{% bible val="Wahyu:17,5" link="rev:17,5" lang="ind" %}} | ["Pengajaran Inti": Wahyu 17:5](/sermons/deep-dive/intro/06-the-three-mysteries#pengajaran-inti) |
-| {{% bible val="Wahyu:17,6" link="rev:17,6" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Meminum darah orang-orang kudus](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:17,6" link="rev:17,6" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Meminum darah orang-orang kudus](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:17,6" link="rev:17,6" lang="ind" %}} | ["Sang pelacur": Menganiaya dan membunuh orang-orang kudus](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,6" link="rev:17,6" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Meminum darah orang-orang kudus](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,6" link="rev:17,6" lang="ind" %}} | ["Apakah Babel adalah gereja yang murtad?": pembungkaman suara-suara yang tidak menyenangkan](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Wahyu:17,7" link="rev:17,7" lang="ind" %}} | ["Ekfrasis": seorang penutur yang kebingungan](/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#d4d3) |
-| {{% bible val="Wahyu:17,8" link="rev:17,8" lang="ind" %}} | ["Trinitas Palsu": binatang yang telah ada dan sekarang tidak ada dan akan datang](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
-| {{% bible val="Wahyu:17,8" link="rev:17,8" lang="ind" %}} | ["Trinitas Palsu": Semua orang yang tidak tertulis dalam kitab kehidupan tercengang](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:17,8" link="rev:17,8" lang="ind" %}} | ["Trinitas Palsu": binatang yang telah ada dan sekarang tidak ada dan akan datang](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
+| {{% bible val="Wahyu:17,8" link="rev:17,8" lang="ind" %}} | ["Trinitas Palsu": Semua orang yang tidak tertulis dalam kitab kehidupan tercengang](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:17,8" link="rev:17,8" lang="ind" %}} | ["Binatang berwarna merah kirmizi": Why.17/8](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Wahyu:17,8" link="rev:17,8" lang="ind" %}} | ["Binatang berwarna merah kirmizi": dahulu ada, sekarang tidak ada, dan akan muncul dari jurang maut lalu menuju kebinasaannya](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Wahyu:17,8" link="rev:17,8" lang="ind" %}} | ["Binatang berwarna merah kirmizi": dahulu ada, sekarang tidak ada, dan akan datang](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
-| {{% bible val="Wahyu:17,9" link="rev:17,9" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Membutuhkan hikmat](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:17,9" link="rev:17,9" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Membutuhkan hikmat](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:17,9" link="rev:17,9" lang="ind" %}} | ["Ketujuh bukit dan ketujuh raja": tujuh bukit](/expl/content/harlot/who-is-the-harlot-babylon-part-1#09b7) |
 | {{% bible val="Wahyu:17,9" link="rev:17,9" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Membutuhkan hikmat](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,9-11" link="rev:17,9-11" lang="ind" %}} | ["Preterisme": tujuh raja](/expl/background/literature/preterist-historicist-futurist-or-idealist#p1a1) |
 | {{% bible val="Wahyu:17,9-11" link="rev:17,9-11" lang="ind" %}} | ["Kapan kitab ini ditulis": hitungan raja-raja, yang lima di antaranya telah jatuh, satu masih ada, dan satu lagi belum datang](/expl/topics/others/who-wrote-revelation-and-when#c4e7) |
-| {{% bible val="Wahyu:17,10" link="rev:17,10" lang="ind" %}} | ["Trinitas Palsu": 5 raja telah jatuh, yang ketujuh belum datang](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:17,10" link="rev:17,10" lang="ind" %}} | ["Trinitas Palsu": 5 raja telah jatuh, yang ketujuh belum datang](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:17,10" link="rev:17,10" lang="ind" %}} | ["Binatang berwarna merah kirmizi": 5 raja telah jatuh, yang ketujuh belum datang](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Wahyu:17,11" link="rev:17,11" lang="ind" %}} | ["666 dalam Konteksnya": digambarkan sebagai salah satu dari tujuh kepala (para raja), tetapi juga sebagai raja yang kedelapan](/expl/content/beasts/666-the-number-of-the-beast#c413) |
 | {{% bible val="Wahyu:17,11" link="rev:17,11" lang="ind" %}} | ["Binatang berwarna merah kirmizi": dahulu ada, dan sekarang tidak ada, ... sedang menuju kebinasaannya](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
@@ -770,15 +770,15 @@ docType: expl
 | {{% bible val="Wahyu:17,12" link="rev:17,12" lang="ind" %}} | ["Sekarung Penuh Rujukan": Wahyu 17](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Wahyu:17,12-13" link="rev:17,12-13" lang="ind" %}} | ["Kesepuluh raja": Kesepuluh tanduk yang engkau lihat adalah kesepuluh raja yang belum menerima kerajaan, tetapi yang akan menerima kuasa sebagai raja bersama-sama dengan binatang itu untuk waktu satu jam saja](/expl/content/harlot/who-is-the-harlot-babylon-part-1#cc5d) |
 | {{% bible val="Wahyu:17,14" link="rev:17,14" lang="ind" %}} | ["Eksodus dalam Injil Markus": penghakiman atau janji, hanya jika ia berbuah](/expl/background/israel/the-second-exodus#f526) |
-| {{% bible val="Wahyu:17,14" link="rev:17,14" lang="ind" %}} | ["Trinitas Palsu": Binatang itu berperang melawan Raja segala raja](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
-| {{% bible val="Wahyu:17,14" link="rev:17,14" lang="ind" %}} | ["Trinitas Palsu": Berperang melawan Anak Domba dan dikalahkan](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:17,14" link="rev:17,14" lang="ind" %}} | ["Trinitas Palsu": Binatang itu berperang melawan Raja segala raja](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
+| {{% bible val="Wahyu:17,14" link="rev:17,14" lang="ind" %}} | ["Trinitas Palsu": Berperang melawan Anak Domba dan dikalahkan](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:17,14" link="rev:17,14" lang="ind" %}} | ["Binatang berwarna merah kirmizi": Binatang itu berperang melawan Raja segala raja](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Wahyu:17,14" link="rev:17,14" lang="ind" %}} | ["Binatang berwarna merah kirmizi": Why.17/14](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Wahyu:17,14" link="rev:17,14" lang="ind" %}} | ["Sang pelacur": Sisa umat melawan](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,15" link="rev:17,15" lang="ind" %}} | ["Sang pelacur": Memiliki keamanan pada bangsa-bangsa dan raja-raja](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:17,16" link="rev:17,16" lang="ind" %}} | ["Sebuah kata kecil dengan konsekuensi besar": sudah digambarkan dalam pasal sebelumnya](/expl/content/1000y/the-thousand-year-kingdom#b25f) |
-| {{% bible val="Wahyu:17,16" link="rev:17,16" lang="ind" %}} | ["Trinitas Palsu": Berperang melawan sang perempuan sundal dan membinasakannya](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
-| {{% bible val="Wahyu:17,16" link="rev:17,16" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Akan dibinasakan dengan api](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:17,16" link="rev:17,16" lang="ind" %}} | ["Trinitas Palsu": Berperang melawan sang perempuan sundal dan membinasakannya](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
+| {{% bible val="Wahyu:17,16" link="rev:17,16" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Akan dibinasakan dengan api](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:17,16" link="rev:17,16" lang="ind" %}} | ["Rahasia kejatuhannya": merekalah yang membinasakannya](/expl/content/harlot/the-character-and-destiny-of-the-harlot#a995) |
 | {{% bible val="Wahyu:17,16" link="rev:17,16" lang="ind" %}} | ["Binatang berwarna merah kirmizi": Why.17/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Wahyu:17,16" link="rev:17,16" lang="ind" %}} | ["Sang pelacur": Why.17/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
@@ -801,7 +801,7 @@ docType: expl
 | {{% bible val="Wahyu:18,7" link="rev:18,7" lang="ind" %}} | ["Karakter sang pelacur": Ia memandang dirinya sendiri tak tersentuh](/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
 | {{% bible val="Wahyu:18,7" link="rev:18,7" lang="ind" %}} | ["Sang pelacur": Why.18/7](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:18,8" link="rev:18,8" lang="ind" %}} | ["Aspek keagamaan": tepatnya penghakiman yang menimpa Babel](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
-| {{% bible val="Wahyu:18,9" link="rev:18,9" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Why.18/9](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:18,9" link="rev:18,9" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Why.18/9](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:18,9" link="rev:18,9" lang="ind" %}} | ["Rahasia kejatuhannya": meratapinya sesudahnya](/expl/content/harlot/the-character-and-destiny-of-the-harlot#a995) |
 | {{% bible val="Wahyu:18,9" link="rev:18,9" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Why.18/9](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:18,9" link="rev:18,9" lang="ind" %}} | ["Aspek ekonomi": menjadi kaya karenanya](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
@@ -810,9 +810,9 @@ docType: expl
 | {{% bible val="Wahyu:18,10" link="rev:18,10" lang="ind" %}} | ["Sang pelacur": Penghakiman datang dengan cepat](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:18,10" link="rev:18,10" lang="ind" %}} | ["Kekalahan yang berubah menjadi kemenangan": Babel, kota besar itu](/expl/content/witnesses/the-two-witnesses#5f50) |
 | {{% bible val="Wahyu:18,11" link="rev:18,11" lang="ind" %}} | ["666 dalam Konteksnya": penggambaran binatang yang didudukinya oleh sang perempuan sundal](/expl/content/beasts/666-the-number-of-the-beast#c413) |
-| {{% bible val="Wahyu:18,11" link="rev:18,11" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Para pedagang yang berdagang dengannya tidak dapat lagi membeli atau menjual apa pun, sekarang setelah ia jatuh](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:18,11" link="rev:18,11" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Para pedagang yang berdagang dengannya tidak dapat lagi membeli atau menjual apa pun, sekarang setelah ia jatuh](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:18,11-13" link="rev:18,11-13" lang="ind" %}} | ["Kombinasi 4x7": Daftar barang dagangan Babel](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#1ee7) |
-| {{% bible val="Wahyu:18,11-17" link="rev:18,11-17" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Why.18/11-17](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:18,11-17" link="rev:18,11-17" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": Why.18/11-17](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:18,11-17" link="rev:18,11-17" lang="ind" %}} | ["Sang pelacur dan binatang kedua": Why.18/11-17](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:18,11-19" link="rev:18,11-19" lang="ind" %}} | ["Sang pelacur": Kecanduan kekayaan ekonomi](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Wahyu:18,12-13" link="rev:18,12-13" lang="ind" %}} | ["Karakter sang pelacur": daftar barang dagangannya](/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
@@ -850,7 +850,7 @@ docType: expl
 | {{% bible val="Wahyu:19,17-21" link="rev:19,17-21" lang="ind" %}} | ["Argumen lebih lanjut untuk satu pertempuran": pasal 19](/expl/content/1000y/the-thousand-year-kingdom#6a0c) |
 | {{% bible val="Wahyu:19,19" link="rev:19,19" lang="ind" %}} | ["Dua pertempuran terakhir?": pasukan-pasukan manusia](/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Wahyu:19,20" link="rev:19,20" lang="ind" %}} | ["Sebuah kata kecil dengan konsekuensi besar": binatang dan nabi palsu itu ditangkap tepat setelah pertempuran itu kalah](/expl/content/1000y/the-thousand-year-kingdom#b25f) |
-| {{% bible val="Wahyu:19,20" link="rev:19,20" lang="ind" %}} | ["Penggambaran Iblis": 19](/expl/content/beasts/the-nature-of-the-beast#7b88) |
+| {{% bible val="Wahyu:19,20" link="rev:19,20" lang="ind" %}} | ["Penggambaran Iblis": 19](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
 | {{% bible val="Wahyu:19,21" link="rev:19,21" lang="ind" %}} | ["Senjata Peperangan yang Dibayangkannya": Yesus berperang seorang diri, hanya bersenjatakan pedang dari mulut-Nya](/expl/topics/others/dispensionalism-and-its-critic#7b85) |
 | {{% bible val="Wahyu:20" link="rev:20,-1" lang="ind" %}} | [""Kerajaan Seribu Tahun (Pasal 20)"": Pasal 20](/kids/content/1000y) |
 | {{% bible val="Wahyu:20" link="rev:20,-1" lang="ind" %}} | ["Seribu Tahun Yesus Menjadi Raja": Wahyu 20](/kids/early-childhood/14-a-thousand-years-of-jesus-being-king) |
@@ -890,8 +890,8 @@ docType: expl
 | {{% bible val="Wahyu:20,8" link="rev:20,8" lang="ind" %}} | ["Dua pertempuran terakhir?": pasukan-pasukan setan](/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Wahyu:20,8" link="rev:20,8" lang="ind" %}} | ["Pembacaan Harfiah yang Tidak Konsisten": Gog dan Magog](/expl/topics/others/dispensionalism-and-its-critic#7102) |
 | {{% bible val="Wahyu:20,9" link="rev:20,9" lang="ind" %}} | ["Dua pertempuran terakhir?": api](/expl/content/1000y/the-thousand-year-kingdom#4257) |
-| {{% bible val="Wahyu:20,10" link="rev:20,10" lang="ind" %}} | ["Penggambaran Iblis": 20](/expl/content/beasts/the-nature-of-the-beast#7b88) |
-| {{% bible val="Wahyu:20,10" link="rev:20,10" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": 20](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:20,10" link="rev:20,10" lang="ind" %}} | ["Penggambaran Iblis": 20](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
+| {{% bible val="Wahyu:20,10" link="rev:20,10" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": 20](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:20,11-15" link="rev:20,11-15" lang="ind" %}} | ["Preterisme": penghakiman terakhir di hadapan takhta putih yang besar](/expl/background/literature/preterist-historicist-futurist-or-idealist#p1a1) |
 | {{% bible val="Wahyu:20,12" link="rev:20,12" lang="ind" %}} | ["Apa yang sebenarnya membawa tema ini": berdiri di depan takhta](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Wahyu:20,13" link="rev:20,13" lang="ind" %}} | ["Tidak ada laut lagi": tempat orang mati](/expl/content/paradise/the-new-jerusalem#eee1) |
@@ -929,7 +929,7 @@ docType: expl
 | {{% bible val="Wahyu:21,7-8" link="rev:21,7-8" lang="ind" %}} | ["Sang pemenang": dikecualikan dari kematian kedua](/expl/content/paradise/the-new-jerusalem#eb5e) |
 | {{% bible val="Wahyu:21,8" link="rev:21,8" lang="ind" %}} | ["Apa itu sebenarnya neraka?": dimasukkan ke dalam lautan api yang menyala-nyala oleh belerang, yaitu kematian yang kedua](/expl/content/paradise/heaven-and-hell#2be6) |
 | {{% bible val="Wahyu:21,8" link="rev:21,8" lang="ind" %}} | ["Siap untuk kematian kedua": Tetapi orang-orang penakut, orang-orang yang tidak percaya, orang-orang keji, orang-orang pembunuh, orang-orang sundal, tukang-tukang sihir, penyembah-penyembah berhala dan semua pendusta, mereka akan mendapat bagian mereka di dalam lautan yang menyala-nyala oleh api dan belerang; inilah kematian yang kedua.](/expl/content/paradise/the-new-jerusalem#e855) |
-| {{% bible val="Wahyu:21,9" link="rev:21,9" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": pengantin perempuan Anak Domba](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Wahyu:21,9" link="rev:21,9" lang="ind" %}} | ["Sang Perempuan Sundal dan Binatang Kedua": pengantin perempuan Anak Domba](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Wahyu:21,9" link="rev:21,9" lang="ind" %}} | ["Surga dan Yerusalem Baru": Yerusalem Baru digambarkan sebagai mempelai perempuan Anak Domba](/expl/content/paradise/heaven-and-hell#2f63) |
 | {{% bible val="Wahyu:21,9" link="rev:21,9" lang="ind" %}} | ["Susunan pasal ini": mendengar tentang mempelai perempuan Anak Domba](/expl/content/paradise/the-new-jerusalem#8c47) |
 | {{% bible val="Wahyu:21,9-10" link="rev:21,9-10" lang="ind" %}} | ["Mempelai Allah": mempelai Kristus adalah gereja](/expl/background/israel/the-church-is-part-of-israel#67c0) |

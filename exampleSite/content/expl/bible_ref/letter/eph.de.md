@@ -25,4 +25,4 @@ docType: expl
 | {{% bible val="Epheser:5,25-27" link="eph:5,25-27" lang="de" %}} | ["Braut Gottes": Heirat mit Christus wird mit der Heirat zwischen Mann und Frau verglichen](/expl/background/israel/the-church-is-part-of-israel#67c0) |
 | {{% bible val="Epheser:5,25-27" link="eph:5,25-27" lang="de" %}} | ["Die Kernlehre": Epheser 5,25-27](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#die-kernlehre) |
 | {{% bible val="Epheser:6,2-3" link="eph:6,2-3" lang="de" %}} | ["Knotenpunkt 4: wie viel von der Verheißung landet innerhalb der Geschichte?": lange leben auf der Erde](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
-| {{% bible val="Epheser:6,12" link="eph:6,12" lang="de" %}} | ["Der Drache": wir kämpfen nicht gegen Fleisch und Blut](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#0a83) |
+| {{% bible val="Epheser:6,12" link="eph:6,12" lang="de" %}} | ["Der Drache": wir kämpfen nicht gegen Fleisch und Blut](/expl/content/beasts/666-the-number-of-the-beast#0a83) |

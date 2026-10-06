@@ -30,4 +30,4 @@ As for the number 666: rather than a code naming one specific future individual,
 
 - **The image of the beast** - the statue of the emperor that everyone was expected to honour: loyalty made visible, and refusing it made you a traitor.
 
-[Read the fuller explanation →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}}) · [The beasts in their historical setting →]({{< relref "expl/content/beasts/the-beasts-and-the-666-in-historical-context" >}})
+[Read the fuller explanation →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}}) · [The beasts in their historical setting →]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}})

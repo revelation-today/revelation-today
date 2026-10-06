@@ -25,4 +25,4 @@ docType: expl
 | {{% bible val="Efesus:5,25-27" link="eph:5,25-27" lang="ind" %}} | ["Mempelai Allah": pernikahan dengan Kristus dibandingkan dengan pernikahan antara seorang suami dan istri](/expl/background/israel/the-church-is-part-of-israel#67c0) |
 | {{% bible val="Efesus:5,25-27" link="eph:5,25-27" lang="ind" %}} | ["Pengajaran Inti": Efesus 5:25-27](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#pengajaran-inti) |
 | {{% bible val="Efesus:6,2-3" link="eph:6,2-3" lang="ind" %}} | ["Simpul 4: seberapa banyak janji itu mendarat di dalam sejarah?": panjang umurmu di bumi](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
-| {{% bible val="Efesus:6,12" link="eph:6,12" lang="ind" %}} | ["Sang Naga": kita tidak berjuang melawan darah dan daging](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#0a83) |
+| {{% bible val="Efesus:6,12" link="eph:6,12" lang="ind" %}} | ["Sang Naga": kita tidak berjuang melawan darah dan daging](/expl/content/beasts/666-the-number-of-the-beast#0a83) |

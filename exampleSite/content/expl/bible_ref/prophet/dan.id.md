@@ -32,7 +32,7 @@ docType: expl
 | {{% bible val="Daniel:3" link="dan:3,-1" lang="ind" %}} | ["Pandangan Yesus": kisah sahabat-sahabat Daniel di dalam dapur api](/expl/content/letters/the-letter-to-the-church-in-thyatira#f2ed) |
 | {{% bible val="Daniel:3,1" link="dan:3,1" lang="ind" %}} | ["Sahabat-Sahabat Daniel dalam Dapur Api": ukuran patung itu](/expl/content/beasts/666-the-number-of-the-beast#92ea) |
 | {{% bible val="Daniel:3,1" link="dan:3,1" lang="ind" %}} | ["Sekarung Penuh Rujukan": Daniel 3](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
-| {{% bible val="Daniel:3,4-12" link="dan:3,4-12" lang="ind" %}} | ["Binatang Kedua": kitab Daniel](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
+| {{% bible val="Daniel:3,4-12" link="dan:3,4-12" lang="ind" %}} | ["Binatang Kedua": kitab Daniel](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="Daniel:3,16-18" link="dan:3,16-18" lang="ind" %}} | ["Sahabat-Sahabat Daniel dalam Dapur Api": tidak sujud menyembah patung itu](/expl/content/beasts/666-the-number-of-the-beast#92ea) |
 | {{% bible val="Daniel:3,25" link="dan:3,25" lang="ind" %}} | ["Pandangan Yesus": seperti anak dewa-dewa](/expl/content/letters/the-letter-to-the-church-in-thyatira#f2ed) |
 | {{% bible val="Daniel:3,28-30" link="dan:3,28-30" lang="ind" %}} | ["Sekarung Penuh Rujukan": sang raja mengakui serta memuji Allah, lalu mengangkat derajat sahabat-sahabat itu](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |

@@ -4,7 +4,7 @@ weight: 8
 docType: kids
 audience_group: "liberal-progressive"
 audience_track: "kids"
-expl: /expl/content/beasts/the-nature-of-the-beast
+expl: /expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation
 prev: /kids/lessons/liberal-progressive/conflict/07-a-different-christmas-story
 next: /kids/lessons/liberal-progressive/conflict/09-who-is-the-harlot-babylon
 draft: true

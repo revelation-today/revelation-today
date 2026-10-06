@@ -187,7 +187,7 @@ docType: expl
 | {{% bible val="Offenbarung:4,6-10" link="rev:4,6-10" lang="de" %}} | ["Der Hintergrund und Kontext": 4 Lebewesen](/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Offenbarung:4,7" link="rev:4,7" lang="de" %}} | ["Der Hintergrund": vier lebendigen Wesen (die die Schöpfung repräsentieren)](/expl/content/bowls/the-bowls-of-wrath#a84e) |
 | {{% bible val="Offenbarung:4,7" link="rev:4,7" lang="de" %}} | ["Die Anbetung": vier Lebewesen](/expl/content/worship/worship-in-the-throne-room#e545) |
-| {{% bible val="Offenbarung:5" link="rev:5,-1" lang="de" %}} | ["Die Beschreibung des Teufels": Inthronisation Christi](/expl/content/beasts/the-nature-of-the-beast#7b88) |
+| {{% bible val="Offenbarung:5" link="rev:5,-1" lang="de" %}} | ["Die Beschreibung des Teufels": Inthronisation Christi](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
 | {{% bible val="Offenbarung:5" link="rev:5,-1" lang="de" %}} | ["Die Auflösung": Im vorherigen Kapitel wurde Jesus als der Einzige offenbart, der würdig ist, die Schriftrolle zu öffnen](/expl/content/seals/the-mystery-of-the-four-horse-men#8d71) |
 | {{% bible val="Offenbarung:5" link="rev:5,-1" lang="de" %}} | [""Anbetung (Kap. 4-5)"": 5](/kids/content/worship) |
 | {{% bible val="Offenbarung:5" link="rev:5,-1" lang="de" %}} | [""Anbetung (Kap. 4-5)"": 5](/quick/content/worship) |
@@ -233,7 +233,7 @@ docType: expl
 | {{% bible val="Offenbarung:6" link="rev:6,-1" lang="de" %}} | ["Offenbarung 6": Offenbarung 6](/kids/elementary/05-the-seals#offenbarung-6) |
 | {{% bible val="Offenbarung:6" link="rev:6,-1" lang="de" %}} | [""Offb. 6: Die vier Reiter und der Zorn des Lammes"": Offenbarung 6](/kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb) |
 | {{% bible val="Offenbarung:6" link="rev:6,-1" lang="de" %}} | [""Die Siegel (Kap. 6)"": Kapitel 6](/quick/content/seals) |
-| {{% bible val="Offenbarung:6,1-8" link="rev:6,1-8" lang="de" %}} | ["Die Beschreibung des Teufels": als vier apokalyptische Reiter](/expl/content/beasts/the-nature-of-the-beast#7b88) |
+| {{% bible val="Offenbarung:6,1-8" link="rev:6,1-8" lang="de" %}} | ["Die Beschreibung des Teufels": als vier apokalyptische Reiter](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
 | {{% bible val="Offenbarung:6,1-8" link="rev:6,1-8" lang="de" %}} | ["Der Text": Offb.6/1–8](/expl/content/seals/the-mystery-of-the-four-horse-men#19b5) |
 | {{% bible val="Offenbarung:6,2" link="rev:6,2" lang="de" %}} | ["Ein Reiter, der nicht dazuzugehören scheint": 'Und ich sah, und siehe, ein weißes Pferd. Und der darauf saß, hatte einen Bogen, und ihm wurde eine Krone gegeben, und er zog aus als Sieger, um zu siegen.'](/sermons/prosperity-gospel-module/worship-and-seals/01-the-first-horsemans-fake-gospel#ein-reiter-der-nicht-dazuzugehören-scheint) |
 | {{% bible val="Offenbarung:6,5-6" link="rev:6,5-6" lang="de" %}} | ["Die Große Trübsal": beim dritten Reiter](/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
@@ -395,7 +395,7 @@ docType: expl
 | {{% bible val="Offenbarung:11,15-19" link="rev:11,15-19" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.11/15-19](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:11,19" link="rev:11,19" lang="de" %}} | ["Die Zahl 4": Abschluss der Posaunen](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#0f0d) |
 | {{% bible val="Offenbarung:12" link="rev:12,-1" lang="de" %}} | ["Das Binden Satans": Kapitel 12](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
-| {{% bible val="Offenbarung:12" link="rev:12,-1" lang="de" %}} | ["Die Beschreibung des Teufels": Jesus erneut als Sieger erklärt wird](/expl/content/beasts/the-nature-of-the-beast#7b88) |
+| {{% bible val="Offenbarung:12" link="rev:12,-1" lang="de" %}} | ["Die Beschreibung des Teufels": Jesus erneut als Sieger erklärt wird](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
 | {{% bible val="Offenbarung:12" link="rev:12,-1" lang="de" %}} | ["Die Hure": Verfolgte Mutter](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:12" link="rev:12,-1" lang="de" %}} | ["Die Hure": Gerettete Mutter](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:12" link="rev:12,-1" lang="de" %}} | ["Die Zeugen und die Tiere": ewige Verlierer ist](/expl/content/witnesses/the-two-witnesses#3cd4) |
@@ -408,7 +408,7 @@ docType: expl
 | {{% bible val="Offenbarung:12,1" link="rev:12,1" lang="de" %}} | ["Das Binden Satans": 12](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
 | {{% bible val="Offenbarung:12,1" link="rev:12,1" lang="de" %}} | ["Die Hure": Hat Sicherheit im Himmel](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:12,1-6" link="rev:12,1-6" lang="de" %}} | ["Die Seiten lesen": Beispiel](/help#die-seiten-lesen) |
-| {{% bible val="Offenbarung:12,1-6" link="rev:12,1-6" lang="de" %}} | ["Die Beschreibung des Teufels": Er versucht, das Kind zu vernichten — und scheitert](/expl/content/beasts/the-nature-of-the-beast#7b88) |
+| {{% bible val="Offenbarung:12,1-6" link="rev:12,1-6" lang="de" %}} | ["Die Beschreibung des Teufels": Er versucht, das Kind zu vernichten — und scheitert](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
 | {{% bible val="Offenbarung:12,1-6" link="rev:12,1-6" lang="de" %}} | ["Die 144.000": Es gelingt ihm nicht, das Kind zu vernichten](/expl/content/harvest/gods-army-and-the-seven-angels#67e8) |
 | {{% bible val="Offenbarung:12,1-12" link="rev:12,1-12" lang="de" %}} | ["Die Zeugen und die Tiere": Jesus, den Überwinder, widerzuspiegeln](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:12,4" link="rev:12,4" lang="de" %}} | ["Die fünfte und sechste Posaune": Dämonen](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
@@ -421,7 +421,7 @@ docType: expl
 | {{% bible val="Offenbarung:12,6" link="rev:12,6" lang="de" %}} | ["Teil 2: Die 3,5 Jahre": 12,6](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#teil-2-die-35-jahre) |
 | {{% bible val="Offenbarung:12,7" link="rev:12,7" lang="de" %}} | ["Die Große Trübsal": Michael gegen den Drachen kämpft](/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
 | {{% bible val="Offenbarung:12,7-8" link="rev:12,7-8" lang="de" %}} | ["Das Binden Satans": Kampf der Engel gegen Satan und seine Helfershelfer](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
-| {{% bible val="Offenbarung:12,7-12" link="rev:12,7-12" lang="de" %}} | ["Die Beschreibung des Teufels": Er kämpft gegen Michael — und wird aus dem Himmel geworfen](/expl/content/beasts/the-nature-of-the-beast#7b88) |
+| {{% bible val="Offenbarung:12,7-12" link="rev:12,7-12" lang="de" %}} | ["Die Beschreibung des Teufels": Er kämpft gegen Michael — und wird aus dem Himmel geworfen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
 | {{% bible val="Offenbarung:12,7-12" link="rev:12,7-12" lang="de" %}} | ["Die 144.000": Er verliert seine Stellung im Himmel](/expl/content/harvest/gods-army-and-the-seven-angels#67e8) |
 | {{% bible val="Offenbarung:12,9" link="rev:12,9" lang="de" %}} | ["Das Binden Satans": Erde](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
 | {{% bible val="Offenbarung:12,9" link="rev:12,9" lang="de" %}} | ["Das Binden Satans": jene alte Schlange, genannt Teufel oder Satan](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
@@ -436,7 +436,7 @@ docType: expl
 | {{% bible val="Offenbarung:12,12" link="rev:12,12" lang="de" %}} | ["Die Zeugen und die Tiere": Panik, weil die Zeit knapp ist](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:12,12" link="rev:12,12" lang="de" %}} | ["Warum die Trübsal zunimmt": Offenbarung 12,12](/quick/content/jesus#warum-die-trübsal-zunimmt) |
 | {{% bible val="Offenbarung:12,13-17" link="rev:12,13-17" lang="de" %}} | ["Die Große Trübsal": zuerst gegen Israel](/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
-| {{% bible val="Offenbarung:12,13-17" link="rev:12,13-17" lang="de" %}} | ["Die Beschreibung des Teufels": Er versucht, die Frau zu vernichten — und scheitert](/expl/content/beasts/the-nature-of-the-beast#7b88) |
+| {{% bible val="Offenbarung:12,13-17" link="rev:12,13-17" lang="de" %}} | ["Die Beschreibung des Teufels": Er versucht, die Frau zu vernichten — und scheitert](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
 | {{% bible val="Offenbarung:12,13-17" link="rev:12,13-17" lang="de" %}} | ["Die 144.000": Es gelingt ihm nicht, die Frau zu vernichten](/expl/content/harvest/gods-army-and-the-seven-angels#67e8) |
 | {{% bible val="Offenbarung:12,14" link="rev:12,14" lang="de" %}} | ["Ein wenig Mathematik": Die Frau wird in der Wüste bewahrt](/expl/bible/daniel/the-secret-of-the-3-5-years#472b) |
 | {{% bible val="Offenbarung:12,14" link="rev:12,14" lang="de" %}} | ["Was sind die 3,5 Jahre in der Offenbarung": in der Wüste versorgt](/expl/bible/daniel/the-secret-of-the-3-5-years#1f16) |
@@ -447,10 +447,10 @@ docType: expl
 | {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["Gibt es nicht auch Unterschiede?": die Verführung zunimmt, nachdem Satan in Kapitel 12 hinausgeworfen wird](/expl/content/1000y/the-thousand-year-kingdom#4bba) |
 | {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["Die Große Trübsal": gegen die Gemeinde](/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
 | {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["6–6–6: Das Versagen der bösen Dreifaltigkeit": Offb. 13](/expl/content/beasts/666-the-number-of-the-beast#497d) |
-| {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["Der Kontext der ersten Leser": beiden Tiere in der Offenbarung](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#a261) |
+| {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["Der Kontext der ersten Leser": beiden Tiere in der Offenbarung](/expl/content/beasts/666-the-number-of-the-beast#a261) |
 | {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["Der Text": Offb.12/17–13–18](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a679) |
-| {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["Die Beschreibung des Teufels": Er versucht, die Nachkommen Jesu, die Gemeinde, zu vernichten, und scheitert auch dabei](/expl/content/beasts/the-nature-of-the-beast#7b88) |
-| {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["Die falsche Dreifaltigkeit": zweite Geschichte vom Drachen und den beiden Tieren](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["Die Beschreibung des Teufels": Er versucht, die Nachkommen Jesu, die Gemeinde, zu vernichten, und scheitert auch dabei](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
+| {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["Die falsche Dreifaltigkeit": zweite Geschichte vom Drachen und den beiden Tieren](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["Der Charakter der Hure": ersten Tier aus Kapitel 13](/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
 | {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["Die 144.000": Seine Verfolgung und Unterdrückung durch die beiden Tiere](/expl/content/harvest/gods-army-and-the-seven-angels#67e8) |
 | {{% bible val="Offenbarung:13" link="rev:13,-1" lang="de" %}} | ["Die Auflösung": Kapitel 13](/expl/content/seals/the-mystery-of-the-four-horse-men#8d71) |
@@ -467,7 +467,7 @@ docType: expl
 | {{% bible val="Offenbarung:13,1" link="rev:13,1" lang="de" %}} | ["Der zweifache Angriff": Aus dem Meer](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,1" link="rev:13,1" lang="de" %}} | ["Der zweifache Angriff": Tier mit sieben Hörnern](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,1" link="rev:13,1" lang="de" %}} | ["Der zweifache Angriff": Repräsentiert Königreiche dieser Welt](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Offenbarung:13,1" link="rev:13,1" lang="de" %}} | ["Die falsche Dreifaltigkeit": Hat 7 Köpfe und 10 Hörner](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:13,1" link="rev:13,1" lang="de" %}} | ["Die falsche Dreifaltigkeit": Hat 7 Köpfe und 10 Hörner](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13,1" link="rev:13,1" lang="de" %}} | ["Das scharlachrote Tier": Offb.13/1](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung:13,1" link="rev:13,1" lang="de" %}} | ["Kein Meer mehr": Offenbarung](/expl/content/paradise/the-new-jerusalem#eee1) |
 | {{% bible val="Offenbarung:13,1" link="rev:13,1" lang="de" %}} | ["Die Zeugen und die Tiere": Aus dem Meer](/expl/content/witnesses/the-two-witnesses#3cd4) |
@@ -492,12 +492,12 @@ docType: expl
 | {{% bible val="Offenbarung:13,3" link="rev:13,3" lang="de" %}} | ["Der zweifache Angriff": Die ganze Erde ist erstaunt](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,3" link="rev:13,3" lang="de" %}} | ["Der zweifache Angriff": erste Tier scheint getötet worden zu sein und steht wieder auf](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,3" link="rev:13,3" lang="de" %}} | ["Der zweifache Angriff": Eines seiner Köpfe hatte eine tödliche Wunde](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Offenbarung:13,3" link="rev:13,3" lang="de" %}} | ["Die falsche Dreifaltigkeit": Kopf wie geschlachtet, wächst nach](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:13,3" link="rev:13,3" lang="de" %}} | ["Die falsche Dreifaltigkeit": Kopf wie geschlachtet, wächst nach](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13,3" link="rev:13,3" lang="de" %}} | ["Das scharlachrote Tier": Kopf wie geschlachtet, wächst nach](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung:13,3" link="rev:13,3" lang="de" %}} | ["Die Zeugen und die Tiere": Die tödliche Wunde wird geheilt](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,3" link="rev:13,3" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/3](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,3" link="rev:13,3" lang="de" %}} | ["Die Zeugen und die Tiere": erste](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Offenbarung:13,3-4" link="rev:13,3-4" lang="de" %}} | ["Das erste Tier": Mit jedem neuen Kaiser erwacht es wieder zum Leben. Rom ist unbesiegbar.](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#e132) |
+| {{% bible val="Offenbarung:13,3-4" link="rev:13,3-4" lang="de" %}} | ["Das erste Tier": Mit jedem neuen Kaiser erwacht es wieder zum Leben. Rom ist unbesiegbar.](/expl/content/beasts/666-the-number-of-the-beast#e132) |
 | {{% bible val="Offenbarung:13,3-4" link="rev:13,3-4" lang="de" %}} | ["Der zweifache Angriff": Seine Auferstehung erzeugt Furcht (Wer kann mit ihm kämpfen?)](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,3-4" link="rev:13,3-4" lang="de" %}} | ["Die sechste Schale": genau hier erhebt das auferstandene Tier den Anspruch, unbesiegbar zu sein](/expl/content/bowls/the-bowls-of-wrath#9ced) |
 | {{% bible val="Offenbarung:13,3-4" link="rev:13,3-4" lang="de" %}} | ["Die sieben Hügel und die sieben Könige": in Kapitel 13](/expl/content/harlot/who-is-the-harlot-babylon-part-1#09b7) |
@@ -505,7 +505,7 @@ docType: expl
 | {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Der zweifache Angriff": Beten Drachen an, der Tier die Macht gab](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Der zweifache Angriff": Wer ist wie das Tier (stark wie es)](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Die dunkle Seite": erstaunt, wenn sie die Stärke des Tieres sehen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
-| {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Die falsche Dreifaltigkeit": Wer kann gegen das Tier kämpfen](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Die falsche Dreifaltigkeit": Wer kann gegen das Tier kämpfen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Das scharlachrote Tier": Tier scheint unangefochten](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": Sicherheit](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Die fünfte und sechste Posaune": Menschen den Drachen und das Tier anbeten](/expl/content/trumpets/the-trumpets-in-revelation#813b) |
@@ -513,7 +513,7 @@ docType: expl
 | {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/4](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Die Zeugen und die Tiere": Unterwerfung](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,4" link="rev:13,4" lang="de" %}} | ["Die Zeugen und die Tiere": niemals ein Zeichen von Schwäche zulassen](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Offenbarung:13,4-6" link="rev:13,4-6" lang="de" %}} | ["Das erste Tier": Rom lästert Gott](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#e132) |
+| {{% bible val="Offenbarung:13,4-6" link="rev:13,4-6" lang="de" %}} | ["Das erste Tier": Rom lästert Gott](/expl/content/beasts/666-the-number-of-the-beast#e132) |
 | {{% bible val="Offenbarung:13,4-6" link="rev:13,4-6" lang="de" %}} | ["Die Zeugen und die Tiere": Das erste](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,5" link="rev:13,5" lang="de" %}} | ["Arithmetische Betrachtungen": den 42 Monaten der Aktivität des Tieres](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#f042) |
 | {{% bible val="Offenbarung:13,5" link="rev:13,5" lang="de" %}} | ["Ein wenig Mathematik": Das erste Tier lästert](/expl/bible/daniel/the-secret-of-the-3-5-years#472b) |
@@ -521,7 +521,7 @@ docType: expl
 | {{% bible val="Offenbarung:13,5" link="rev:13,5" lang="de" %}} | ["Der zweifache Angriff": Macht ist nur für 42 Monate](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,5" link="rev:13,5" lang="de" %}} | ["Teil 2: Die 3,5 Jahre": 13,5](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#teil-2-die-35-jahre) |
 | {{% bible val="Offenbarung:13,5-6" link="rev:13,5-6" lang="de" %}} | ["Der zweifache Angriff": große Lästerungen gegen Gott und sein Volk](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Offenbarung:13,5-6" link="rev:13,5-6" lang="de" %}} | ["Die falsche Dreifaltigkeit": Gotteslästerliche Reden](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:13,5-6" link="rev:13,5-6" lang="de" %}} | ["Die falsche Dreifaltigkeit": Gotteslästerliche Reden](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13,5-6" link="rev:13,5-6" lang="de" %}} | ["Das scharlachrote Tier": Offb.13/5-6](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung:13,5-6" link="rev:13,5-6" lang="de" %}} | ["Die Zeugen und die Tiere": große Lästerungen gegen Gott und sein Volk](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,6" link="rev:13,6" lang="de" %}} | ["Ein Sack voller Referenzen": Tier lästert Gott](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
@@ -529,7 +529,7 @@ docType: expl
 | {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Der zweifache Angriff": Kämpft gegen Heilige und besiegt sie](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Der zweifache Angriff": Hat Macht über Stämme, Sprachen und Nationen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Der zweifache Angriff": die Heiligen besiegen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Die falsche Dreifaltigkeit": Kämpft gegen Heilige und besiegt sie](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Die falsche Dreifaltigkeit": Kämpft gegen Heilige und besiegt sie](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Das scharlachrote Tier": Offb.13/7](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": Krieg](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Das Geheimnis des ersten Reiters": das Tier](/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
@@ -539,44 +539,44 @@ docType: expl
 | {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | [""Prätribulational, midtribulational, vor dem Zorn, oder posttribulational?"": den Krieg des Tieres gegen die Heiligen](/expl/topics/others/pre-mid-prewrath-or-post-tribulational) |
 | {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Prätribulational": die Heiligen](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pt1a) |
 | {{% bible val="Offenbarung:13,7" link="rev:13,7" lang="de" %}} | ["Vor dem Zorn (Pre-wrath)": der Krieg des Tieres gegen die Heiligen](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pw3c) |
-| {{% bible val="Offenbarung:13,7-8" link="rev:13,7-8" lang="de" %}} | ["Das erste Tier": Er beginnt Verfolgungen gegen Gottes Volk und ist damit erfolgreich](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#e132) |
-| {{% bible val="Offenbarung:13,8" link="rev:13,8" lang="de" %}} | ["Was ist zu tun?": betet stattdessen das Tier an](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#6293) |
+| {{% bible val="Offenbarung:13,7-8" link="rev:13,7-8" lang="de" %}} | ["Das erste Tier": Er beginnt Verfolgungen gegen Gottes Volk und ist damit erfolgreich](/expl/content/beasts/666-the-number-of-the-beast#e132) |
+| {{% bible val="Offenbarung:13,8" link="rev:13,8" lang="de" %}} | ["Was ist zu tun?": betet stattdessen das Tier an](/expl/content/beasts/666-the-number-of-the-beast#6293) |
 | {{% bible val="Offenbarung:13,8" link="rev:13,8" lang="de" %}} | ["Der zweifache Angriff": Alle auf Erden beten das Tier an, die nicht im Buch des Lebens geschrieben stehen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,8" link="rev:13,8" lang="de" %}} | ["Der zweifache Angriff": Alle, die auf der Erde wohnen, beten das erste Tier an](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,8" link="rev:13,8" lang="de" %}} | ["Der zweifache Angriff": Alle beten das erste Tier an](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,8" link="rev:13,8" lang="de" %}} | ["Die dunkle Seite": die ganze Welt es ohne Widerstand anbetet](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
-| {{% bible val="Offenbarung:13,8" link="rev:13,8" lang="de" %}} | ["Die falsche Dreifaltigkeit": Alle, die nicht im Buch des Lebens geschrieben sind beten das Tier an](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:13,8" link="rev:13,8" lang="de" %}} | ["Die falsche Dreifaltigkeit": Alle, die nicht im Buch des Lebens geschrieben sind beten das Tier an](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13,8" link="rev:13,8" lang="de" %}} | ["Das scharlachrote Tier": Offb.13/8](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung:13,8" link="rev:13,8" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/8](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,8" link="rev:13,8" lang="de" %}} | ["Die Zeugen und die Tiere": ersten](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,9" link="rev:13,9" lang="de" %}} | ["Der zweifache Angriff": Wer Ohren hat, der höre!](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,9" link="rev:13,9" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/9](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,9-10" link="rev:13,9-10" lang="de" %}} | ["Die Zeugen und die Tiere": erste](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Offenbarung:13,10" link="rev:13,10" lang="de" %}} | ["Das erste Tier": er hat die Macht, und die Heiligen können nur ausharren](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#e132) |
-| {{% bible val="Offenbarung:13,10" link="rev:13,10" lang="de" %}} | ["Was ist zu tun?": Ausharren](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#6293) |
+| {{% bible val="Offenbarung:13,10" link="rev:13,10" lang="de" %}} | ["Das erste Tier": er hat die Macht, und die Heiligen können nur ausharren](/expl/content/beasts/666-the-number-of-the-beast#e132) |
+| {{% bible val="Offenbarung:13,10" link="rev:13,10" lang="de" %}} | ["Was ist zu tun?": Ausharren](/expl/content/beasts/666-the-number-of-the-beast#6293) |
 | {{% bible val="Offenbarung:13,10" link="rev:13,10" lang="de" %}} | ["Der zweifache Angriff": Hier ist die Geduld und der Glaube der Heiligen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,10" link="rev:13,10" lang="de" %}} | ["Der zweifache Angriff": jeden Widerstand vernichten](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,10" link="rev:13,10" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": Verfolgung](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:13,10" link="rev:13,10" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/10](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Das zweite Tier": dieses zweite Tier aufsteigt und harmlos aussieht, wie ein Lamm](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
+| {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Das zweite Tier": dieses zweite Tier aufsteigt und harmlos aussieht, wie ein Lamm](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Der zweifache Angriff": Aus der Erde](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Der zweifache Angriff": Tier mit zwei Hörnern wie Lamm/Menschensohn](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Der zweifache Angriff": Das zweite Tier hat zwei Hörner](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Der zweifache Angriff": Zweite Tier spricht wie ein Drache](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Das Geheimnis des zweiten Tieres": Dann sah ich ein anderes Tier aus der Erde aufsteigen. Es hatte zwei Hörner wie ein Lamm, aber es redete wie ein Drache.](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#d1a7) |
-| {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Die Hure und das zweite Tier": Kommt aus Erde](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
-| {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Die Hure und das zweite Tier": Hat zwei Hörner wie ein Lamm](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Die Hure und das zweite Tier": Kommt aus Erde](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
+| {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Die Hure und das zweite Tier": Hat zwei Hörner wie ein Lamm](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Die Hure und das zweite Tier": Kommt von der Erde](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Die Hure und das zweite Tier": Hat zwei Hörner wie ein Lamm](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Die Zeugen und die Tiere": Von der Erde](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/11](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | ["Die Zeugen und die Tiere": von der Erde](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,11" link="rev:13,11" lang="de" %}} | [""Der Drache und die zwei Tiere (Kap. 13)"": Offenbarung 13,11](/quick/content/beasts) |
-| {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Das zweite Tier": die ganze Erde das erste Tier anbetet](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
+| {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Das zweite Tier": die ganze Erde das erste Tier anbetet](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Der zweifache Angriff": herrscht in der Macht des ersten Tieres](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Der zweifache Angriff": Zwingt alle, das erste Tier anzubeten, dessen Wunde geheilt wurde](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Der zweifache Angriff": zweite Tier spricht in der Autorität des ersten Tieres](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Die Hure und das zweite Tier": Agiert in Macht des (ersten) Tieres](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Die Hure und das zweite Tier": Agiert in Macht des (ersten) Tieres](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Die Hure und das zweite Tier": Handelt in der Macht des (ersten) Tieres](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": Ideologie](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:13,12" link="rev:13,12" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/12](/expl/content/witnesses/the-two-witnesses#3cd4) |
@@ -584,11 +584,11 @@ docType: expl
 | {{% bible val="Offenbarung:13,12-14" link="rev:13,12-14" lang="de" %}} | ["Die Zeugen und die Tiere": zweite Tier](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,13" link="rev:13,13" lang="de" %}} | ["Elia und die Dürre (1. Könige 16/29–18/35)": dieselbe Leistung, die das zweite Tier vollbringt](/expl/bible/daniel/the-secret-of-the-3-5-years#2b28) |
 | {{% bible val="Offenbarung:13,13" link="rev:13,13" lang="de" %}} | ["Der zweifache Angriff": Es kann Feuer vom Himmel fallen lassen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Offenbarung:13,13" link="rev:13,13" lang="de" %}} | ["Die Hure und das zweite Tier": Kann Feuer vom Himmel fallen lassen](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:13,13" link="rev:13,13" lang="de" %}} | ["Die Hure und das zweite Tier": Kann Feuer vom Himmel fallen lassen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13,13" link="rev:13,13" lang="de" %}} | ["Die Hure und das zweite Tier": Offb.13/13](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:13,13" link="rev:13,13" lang="de" %}} | ["Die Zeugen und die Tiere": zweite](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,13" link="rev:13,13" lang="de" %}} | ["Teil 2: Die 3,5 Jahre": Feuer herabrufen](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#teil-2-die-35-jahre) |
-| {{% bible val="Offenbarung:13,13-14" link="rev:13,13-14" lang="de" %}} | ["Das zweite Tier": würdig großer Zeichen und Wunder](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
+| {{% bible val="Offenbarung:13,13-14" link="rev:13,13-14" lang="de" %}} | ["Das zweite Tier": würdig großer Zeichen und Wunder](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="Offenbarung:13,13-14" link="rev:13,13-14" lang="de" %}} | ["Der zweifache Angriff": Tut große Zeichen, lässt Feuer vom Himmel fallen, täuscht durch Zeichen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,13-14" link="rev:13,13-14" lang="de" %}} | ["Der zweifache Angriff": Tut große Dinge vor den Menschen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,13-14" link="rev:13,13-14" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": ein Gefühl der Überlegenheit](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
@@ -596,7 +596,7 @@ docType: expl
 | {{% bible val="Offenbarung:13,13-15" link="rev:13,13-15" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": beeindruckendem Tempeldienst](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:13,14" link="rev:13,14" lang="de" %}} | ["Knotenpunkt 1: zweimal lebendig werden, ein Verb": dessen Schwertwunde heilte und das lebendig wurde](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Offenbarung:13,14" link="rev:13,14" lang="de" %}} | ["Was das Thema wirklich trägt": es wurde lebendig](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
-| {{% bible val="Offenbarung:13,14" link="rev:13,14" lang="de" %}} | ["Der Kontext der ersten Leser": in der Offenbarung mit dem Schwert verwundet wird](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#a261) |
+| {{% bible val="Offenbarung:13,14" link="rev:13,14" lang="de" %}} | ["Der Kontext der ersten Leser": in der Offenbarung mit dem Schwert verwundet wird](/expl/content/beasts/666-the-number-of-the-beast#a261) |
 | {{% bible val="Offenbarung:13,14" link="rev:13,14" lang="de" %}} | ["Der zweifache Angriff": Erhält die Macht des ersten Tieres](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,14" link="rev:13,14" lang="de" %}} | ["Der zweifache Angriff": Machtbild des Tieres](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,14" link="rev:13,14" lang="de" %}} | ["Die dunkle Seite": mehr Zeichen und Wunder sehen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
@@ -604,38 +604,38 @@ docType: expl
 | {{% bible val="Offenbarung:13,14" link="rev:13,14" lang="de" %}} | ["Die Zeugen und die Tiere": mächtiges Bild des Tieres](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,14-15" link="rev:13,14-15" lang="de" %}} | ["Der zweifache Angriff": Kann Leben geben, damit das Tier sprechen kann](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,14-15" link="rev:13,14-15" lang="de" %}} | ["Die Zeugen und die Tiere": kann Leben geben, damit das Tier sprechen kann](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Offenbarung:13,15" link="rev:13,15" lang="de" %}} | ["Das zweite Tier": der Götze bekommt seine Macht von den Menschen, die ihn unterstützen](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
+| {{% bible val="Offenbarung:13,15" link="rev:13,15" lang="de" %}} | ["Das zweite Tier": der Götze bekommt seine Macht von den Menschen, die ihn unterstützen](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="Offenbarung:13,15" link="rev:13,15" lang="de" %}} | ["Der zweifache Angriff": Tötet alle, die das Bild nicht anbeten](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,15" link="rev:13,15" lang="de" %}} | ["Der zweifache Angriff": Menschen, die nicht folgen wollen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,15" link="rev:13,15" lang="de" %}} | ["Der zweifache Angriff": Es kann ein Standbild zum Leben erwecken](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,15" link="rev:13,15" lang="de" %}} | ["Der zweifache Angriff": Tötet alle, die ihn nicht anbeten](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,15" link="rev:13,15" lang="de" %}} | ["Die dunkle Seite": Gott, der Unterwerfung erzwingt und Widerstand direkt vernichtet](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
-| {{% bible val="Offenbarung:13,15" link="rev:13,15" lang="de" %}} | ["Die Hure und das zweite Tier": Alle, die es nicht anbeten werden getötet](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:13,15" link="rev:13,15" lang="de" %}} | ["Die Hure und das zweite Tier": Alle, die es nicht anbeten werden getötet](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13,15" link="rev:13,15" lang="de" %}} | ["Die Hure und das zweite Tier": Alle, die es nicht anbeten, werden getötet](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:13,15" link="rev:13,15" lang="de" %}} | ["Bereit für den zweiten Tod": Gläubige töten](/expl/content/paradise/the-new-jerusalem#e855) |
 | {{% bible val="Offenbarung:13,15" link="rev:13,15" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/15](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,15" link="rev:13,15" lang="de" %}} | ["Die Zeugen und die Tiere": zweite](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,15-17" link="rev:13,15-17" lang="de" %}} | ["Werden wir enthauptet?": wirtschaftlichen oder sozialen Druck](/expl/content/1000y/the-thousand-year-kingdom#c7a1) |
 | {{% bible val="Offenbarung:13,16" link="rev:13,16" lang="de" %}} | ["Der zweifache Angriff": Macht Zeichen für alle ](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Offenbarung:13,16" link="rev:13,16" lang="de" %}} | ["Die Hure und das zweite Tier": Macht allen ein Zeichen an Stirn und Hand](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:13,16" link="rev:13,16" lang="de" %}} | ["Die Hure und das zweite Tier": Macht allen ein Zeichen an Stirn und Hand](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13,16" link="rev:13,16" lang="de" %}} | ["Die Hure und das zweite Tier": Offb.13/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:13,16" link="rev:13,16" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/16](/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Offenbarung:13,16-17" link="rev:13,16-17" lang="de" %}} | ["Das zweite Tier": wird finanziell ruiniert](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
+| {{% bible val="Offenbarung:13,16-17" link="rev:13,16-17" lang="de" %}} | ["Das zweite Tier": wird finanziell ruiniert](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="Offenbarung:13,16-17" link="rev:13,16-17" lang="de" %}} | ["Die dunkle Seite": alle Menschen sich unserem Wertesystem unterwerfen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
 | {{% bible val="Offenbarung:13,16-17" link="rev:13,16-17" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": gibt Reichtum oder macht arm](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:13,16-17" link="rev:13,16-17" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": Ausgrenzung all derer, die nicht mitmachen](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:13,16-17" link="rev:13,16-17" lang="de" %}} | ["Die Zeugen und die Tiere": zweiten](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,17" link="rev:13,17" lang="de" %}} | ["Der zweifache Angriff": Niemand kann kaufen oder verkaufen, es sei denn, er hat das Zeichen des Tieres](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Offenbarung:13,17" link="rev:13,17" lang="de" %}} | ["Die Hure und das zweite Tier": Kann nicht kaufen oder verkaufen ohne Zeichen](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:13,17" link="rev:13,17" lang="de" %}} | ["Die Hure und das zweite Tier": Kann nicht kaufen oder verkaufen ohne Zeichen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13,17" link="rev:13,17" lang="de" %}} | ["Die Hure und das zweite Tier": Kann ohne das Malzeichen nicht kaufen oder verkaufen](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:13,17" link="rev:13,17" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/17](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,18" link="rev:13,18" lang="de" %}} | ["Arithmetische Betrachtungen": dem Geheimnis des Tieres](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#f042) |
 | {{% bible val="Offenbarung:13,18" link="rev:13,18" lang="de" %}} | [""Die Zahl des Tieres"": Die magische Zahl des Tieres](/expl/content/beasts/666-the-number-of-the-beast) |
 | {{% bible val="Offenbarung:13,18" link="rev:13,18" lang="de" %}} | ["Die 666 im Zusammenhang": Zahl eines Menschen](/expl/content/beasts/666-the-number-of-the-beast#c413) |
-| {{% bible val="Offenbarung:13,18" link="rev:13,18" lang="de" %}} | ["Was ist zu tun?": Weisheit, um zu unterscheiden, was von Gott ist und was nicht](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#6293) |
+| {{% bible val="Offenbarung:13,18" link="rev:13,18" lang="de" %}} | ["Was ist zu tun?": Weisheit, um zu unterscheiden, was von Gott ist und was nicht](/expl/content/beasts/666-the-number-of-the-beast#6293) |
 | {{% bible val="Offenbarung:13,18" link="rev:13,18" lang="de" %}} | ["Der zweifache Angriff": Hier ist Weisheit](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung:13,18" link="rev:13,18" lang="de" %}} | ["Der zweifache Angriff": Wenn jemand Verstand hat: Zählt](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
-| {{% bible val="Offenbarung:13,18" link="rev:13,18" lang="de" %}} | ["Die Hure und das zweite Tier": Benötigt Weisheit](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:13,18" link="rev:13,18" lang="de" %}} | ["Die Hure und das zweite Tier": Benötigt Weisheit](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:13,18" link="rev:13,18" lang="de" %}} | ["Die Hure und das zweite Tier": Erfordert Weisheit](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:13,18" link="rev:13,18" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/18](/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung:13,18" link="rev:13,18" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.13/18](/expl/content/witnesses/the-two-witnesses#3cd4) |
@@ -651,7 +651,7 @@ docType: expl
 | {{% bible val="Offenbarung:14,1" link="rev:14,1" lang="de" %}} | ["Die 666 im Zusammenhang": Erwähnung der 144.000](/expl/content/beasts/666-the-number-of-the-beast#c413) |
 | {{% bible val="Offenbarung:14,1-5" link="rev:14,1-5" lang="de" %}} | ["Werden wir enthauptet?": Jesus treu](/expl/content/1000y/the-thousand-year-kingdom#c7a1) |
 | {{% bible val="Offenbarung:14,1-5" link="rev:14,1-5" lang="de" %}} | ["Die Waffen der Kriegsführung, die sie sich vorstellt": nicht das, was die Offenbarung tatsächlich zeigt](/expl/topics/others/dispensionalism-and-its-critic#7b85) |
-| {{% bible val="Offenbarung:14,4" link="rev:14,4" lang="de" %}} | ["Was ist zu tun?": weil sie Jungfrauen sind](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#6293) |
+| {{% bible val="Offenbarung:14,4" link="rev:14,4" lang="de" %}} | ["Was ist zu tun?": weil sie Jungfrauen sind](/expl/content/beasts/666-the-number-of-the-beast#6293) |
 | {{% bible val="Offenbarung:14,4-5" link="rev:14,4-5" lang="de" %}} | ["Die 144.000": Diese sind es, die sich mit Frauen nicht befleckt haben; denn sie sind jungfräulich. Diese folgen dem Lamm nach, wohin es auch geht. Diese sind aus den Menschen erkauft worden als Erstlinge für Gott und das Lamm, und in ihrem Mund ist keine Lüge gefunden worden; sie sind untadelig.](/expl/content/harvest/gods-army-and-the-seven-angels#67e8) |
 | {{% bible val="Offenbarung:14,6-7" link="rev:14,6-7" lang="de" %}} | ["Die ersten drei Engel": er hatte das ewige Evangelium zu verkündigen denen, die auf der Erde wohnen – jeder Nation und jedem Stamm, jeder Sprache und jedem Volk. Er sprach mit lauter Stimme: 'Fürchtet Gott und gebt ihm die Ehre, denn die Stunde seines Gerichts ist gekommen. Betet den an, der den Himmel, die Erde, das Meer und die Wasserquellen gemacht hat.'](/expl/content/harvest/gods-army-and-the-seven-angels#ad85) |
 | {{% bible val="Offenbarung:14,6-13" link="rev:14,6-13" lang="de" %}} | ["Das Muster: Überwinden durch Schwachheit": ins Verderben gehen und alle mit sich reißen werden, die auf sie vertraut haben](/expl/content/jesus/a-different-christmas-story#fb36) |
@@ -687,8 +687,8 @@ docType: expl
 | {{% bible val="Offenbarung:16,12-16" link="rev:16,12-16" lang="de" %}} | ["Harmagedon": Offenbarung 16,12-16](/quick/content/bowls#harmagedon) |
 | {{% bible val="Offenbarung:16,12-21" link="rev:16,12-21" lang="de" %}} | ["Die Schalen": Die sechste und siebte Schale](/expl/content/bowls/the-bowls-of-wrath#9855) |
 | {{% bible val="Offenbarung:16,13" link="rev:16,13" lang="de" %}} | ["Die 666 im Zusammenhang": der sechsten Schale](/expl/content/beasts/666-the-number-of-the-beast#c413) |
-| {{% bible val="Offenbarung:16,13" link="rev:16,13" lang="de" %}} | ["Die Beschreibung des Teufels": als Dreifaltigkeit bei der sechsten Schale](/expl/content/beasts/the-nature-of-the-beast#7b88) |
-| {{% bible val="Offenbarung:16,13" link="rev:16,13" lang="de" %}} | ["Die Hure und das zweite Tier": der sechsten Schale](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:16,13" link="rev:16,13" lang="de" %}} | ["Die Beschreibung des Teufels": als Dreifaltigkeit bei der sechsten Schale](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
+| {{% bible val="Offenbarung:16,13" link="rev:16,13" lang="de" %}} | ["Die Hure und das zweite Tier": der sechsten Schale](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:16,13" link="rev:16,13" lang="de" %}} | ["Die sechste Schale": Die drei Frösche, die aus dem Maul des Drachens und seiner Gefährten kommen](/expl/content/bowls/the-bowls-of-wrath#9ced) |
 | {{% bible val="Offenbarung:16,13" link="rev:16,13" lang="de" %}} | ["Die sieben Hügel und die sieben Könige": Kapitel 16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#09b7) |
 | {{% bible val="Offenbarung:16,13-16" link="rev:16,13-16" lang="de" %}} | ["Die Schalen": versammeln unreine Geister die Könige der Erde zur Schlacht, statt sie umkehren zu lassen](/expl/content/bowls/the-bowls-of-wrath#9855) |
@@ -720,24 +720,24 @@ docType: expl
 | {{% bible val="Offenbarung:17,2" link="rev:17,2" lang="de" %}} | ["Die Hure": täuscht die Menschen](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,2" link="rev:17,2" lang="de" %}} | ["Der wirtschaftliche Aspekt": Babylons Hurerei mit den Königen der Erde](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
 | {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Der Dienst": (Offb.17/3)](/expl/background/israel/the-church-is-part-of-israel#05d4) |
-| {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Die falsche Dreifaltigkeit": Hat 7 Köpfe und 10 Hörner](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
-| {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Die falsche Dreifaltigkeit": Gotteslästerliche Name](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
-| {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Die Hure und das zweite Tier": Sitzt in Wüste](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
-| {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Die Hure und das zweite Tier": Sitzt auf dem (ersten) Tier](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Die falsche Dreifaltigkeit": Hat 7 Köpfe und 10 Hörner](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
+| {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Die falsche Dreifaltigkeit": Gotteslästerliche Name](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
+| {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Die Hure und das zweite Tier": Sitzt in Wüste](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
+| {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Die Hure und das zweite Tier": Sitzt auf dem (ersten) Tier](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Das Geheimnis ihres Falls": sitzt auf dem Tier](/expl/content/harlot/the-character-and-destiny-of-the-harlot#a995) |
 | {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Das scharlachrote Tier": Offb.17/3](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Das scharlachrote Tier": Offb.17/3](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Die Hure": Offb.17/3](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Die Hure und das zweite Tier": Sitzt in der Wüste](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,3" link="rev:17,3" lang="de" %}} | ["Die Hure und das zweite Tier": Sitzt auf dem (ersten) Tier](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Offenbarung:17,4" link="rev:17,4" lang="de" %}} | ["Die Hure und das zweite Tier": Ist reich gekleidet und geschmückt](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:17,4" link="rev:17,4" lang="de" %}} | ["Die Hure und das zweite Tier": Ist reich gekleidet und geschmückt](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:17,4" link="rev:17,4" lang="de" %}} | ["Die Hure": Bekleidet mit Leinwand](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,4" link="rev:17,4" lang="de" %}} | ["Die Hure": Offb.17/4](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,4" link="rev:17,4" lang="de" %}} | ["Die Hure und das zweite Tier": Ist gekleidet wie die Braut des Lammes](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,4" link="rev:17,4" lang="de" %}} | ["Der religiöse Aspekt": 17](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Offenbarung:17,4" link="rev:17,4" lang="de" %}} | ["Die am prächtigsten herausgeputzte Gestalt im ganzen Buch": 'Die Frau war mit Purpur und Scharlach bekleidet und funkelte von Gold, Edelsteinen und Perlen. Sie hielt einen goldenen Becher in der Hand, gefüllt mit Gräueln und dem Schmutz ihrer Unzucht.'](/sermons/prosperity-gospel-module/conflict/03-the-harlot-as-glamorized-empire#die-am-prächtigsten-herausgeputzte-gestalt-im-ganzen-buch) |
 | {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Der Bezugsrahmen von Daniel": Tieres](/expl/background/literature/literally-or-symbolic#8b2d) |
-| {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Die Hure und das zweite Tier": Hat Zeichen auf Stirn: Babel](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Die Hure und das zweite Tier": Hat Zeichen auf Stirn: Babel](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Die Hure": Offb.17/5](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Die Hure": Verfolgte Mutter](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Die Hure": Offb.17/5](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
@@ -746,22 +746,22 @@ docType: expl
 | {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Die Kernlehre": Tieres](/sermons/deep-dive/intro/03-symbol-or-literal#die-kernlehre) |
 | {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Die Kernlehre": Hure](/sermons/deep-dive/intro/06-the-three-mysteries#die-kernlehre) |
 | {{% bible val="Offenbarung:17,5" link="rev:17,5" lang="de" %}} | ["Die Kernlehre": Offenbarung 17,5](/sermons/deep-dive/intro/06-the-three-mysteries#die-kernlehre) |
-| {{% bible val="Offenbarung:17,6" link="rev:17,6" lang="de" %}} | ["Die Hure und das zweite Tier": Trinkt Blut der Heiligen](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:17,6" link="rev:17,6" lang="de" %}} | ["Die Hure und das zweite Tier": Trinkt Blut der Heiligen](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:17,6" link="rev:17,6" lang="de" %}} | ["Die Hure": Verfolgt und tötet Heilige](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,6" link="rev:17,6" lang="de" %}} | ["Die Hure und das zweite Tier": Trinkt das Blut der Heiligen](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,6" link="rev:17,6" lang="de" %}} | ["Ist Babylon die abgefallene Gemeinde?": das Zum-Schweigen-Bringen unbequemer Stimmen](/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung:17,7" link="rev:17,7" lang="de" %}} | ["Die Ekphrasis": verwirrter Erzähler](/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#d4d3) |
-| {{% bible val="Offenbarung:17,8" link="rev:17,8" lang="de" %}} | ["Die falsche Dreifaltigkeit": das Tier, das war und nicht ist und wiederkommen wird](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
-| {{% bible val="Offenbarung:17,8" link="rev:17,8" lang="de" %}} | ["Die falsche Dreifaltigkeit": Alle, die nicht im Buch des Lebens geschrieben sind sind überwältigt](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:17,8" link="rev:17,8" lang="de" %}} | ["Die falsche Dreifaltigkeit": das Tier, das war und nicht ist und wiederkommen wird](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
+| {{% bible val="Offenbarung:17,8" link="rev:17,8" lang="de" %}} | ["Die falsche Dreifaltigkeit": Alle, die nicht im Buch des Lebens geschrieben sind sind überwältigt](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:17,8" link="rev:17,8" lang="de" %}} | ["Das scharlachrote Tier": Offb.17/8](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung:17,8" link="rev:17,8" lang="de" %}} | ["Das scharlachrote Tier": war und nicht ist und aus dem Abgrund heraufsteigen und ins Verderben gehen wird](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung:17,8" link="rev:17,8" lang="de" %}} | ["Das scharlachrote Tier": war und nicht ist und doch kommen wird](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
-| {{% bible val="Offenbarung:17,9" link="rev:17,9" lang="de" %}} | ["Die Hure und das zweite Tier": Benötigt Weisheit](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:17,9" link="rev:17,9" lang="de" %}} | ["Die Hure und das zweite Tier": Benötigt Weisheit](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:17,9" link="rev:17,9" lang="de" %}} | ["Die sieben Hügel und die sieben Könige": sieben Hügel](/expl/content/harlot/who-is-the-harlot-babylon-part-1#09b7) |
 | {{% bible val="Offenbarung:17,9" link="rev:17,9" lang="de" %}} | ["Die Hure und das zweite Tier": Erfordert Weisheit](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,9-11" link="rev:17,9-11" lang="de" %}} | ["Präteristisch": sieben Könige](/expl/background/literature/preterist-historicist-futurist-or-idealist#p1a1) |
 | {{% bible val="Offenbarung:17,9-11" link="rev:17,9-11" lang="de" %}} | ["Wann sie geschrieben wurde": die Zählung der Könige, von denen fünf gefallen sind, einer ist, und einer noch kommen muss](/expl/topics/others/who-wrote-revelation-and-when#c4e7) |
-| {{% bible val="Offenbarung:17,10" link="rev:17,10" lang="de" %}} | ["Die falsche Dreifaltigkeit": 5 Könige gefallen, der siebente kommt noch](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:17,10" link="rev:17,10" lang="de" %}} | ["Die falsche Dreifaltigkeit": 5 Könige gefallen, der siebente kommt noch](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:17,10" link="rev:17,10" lang="de" %}} | ["Das scharlachrote Tier": 5 Könige gefallen, der siebte kommt noch](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung:17,11" link="rev:17,11" lang="de" %}} | ["Die 666 im Zusammenhang": als einer der sieben Köpfe (die Könige), aber auch als ein achter König beschrieben wird](/expl/content/beasts/666-the-number-of-the-beast#c413) |
 | {{% bible val="Offenbarung:17,11" link="rev:17,11" lang="de" %}} | ["Das scharlachrote Tier": war und jetzt nicht ist, … und ins Verderben geht](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
@@ -769,15 +769,15 @@ docType: expl
 | {{% bible val="Offenbarung:17,12" link="rev:17,12" lang="de" %}} | ["Ein Sack voller Referenzen": Offb.17](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Offenbarung:17,12-13" link="rev:17,12-13" lang="de" %}} | ["Die 10 Könige": Die zehn Hörner, die du gesehen hast, sind zehn Könige, die noch kein Königreich empfangen haben, aber für eine Stunde als Könige Macht empfangen werden, zusammen mit dem Tier](/expl/content/harlot/who-is-the-harlot-babylon-part-1#cc5d) |
 | {{% bible val="Offenbarung:17,14" link="rev:17,14" lang="de" %}} | ["Der Auszug bei Markus": Gericht oder Verheißung, nur wenn er Frucht bringt](/expl/background/israel/the-second-exodus#f526) |
-| {{% bible val="Offenbarung:17,14" link="rev:17,14" lang="de" %}} | ["Die falsche Dreifaltigkeit": Tier macht Krieg gegen König der Könige](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
-| {{% bible val="Offenbarung:17,14" link="rev:17,14" lang="de" %}} | ["Die falsche Dreifaltigkeit": Kämpft gegen Lamm und wird überwunden](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:17,14" link="rev:17,14" lang="de" %}} | ["Die falsche Dreifaltigkeit": Tier macht Krieg gegen König der Könige](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
+| {{% bible val="Offenbarung:17,14" link="rev:17,14" lang="de" %}} | ["Die falsche Dreifaltigkeit": Kämpft gegen Lamm und wird überwunden](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:17,14" link="rev:17,14" lang="de" %}} | ["Das scharlachrote Tier": Tier führt Krieg gegen den König der Könige](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung:17,14" link="rev:17,14" lang="de" %}} | ["Das scharlachrote Tier": Offb.17/14](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung:17,14" link="rev:17,14" lang="de" %}} | ["Die Hure": Ein Rest widersetzt sich](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,15" link="rev:17,15" lang="de" %}} | ["Die Hure": Hat Sicherheit bei Nationen und Königen](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:17,16" link="rev:17,16" lang="de" %}} | ["Ein kleines Wort mit großen Konsequenzen": im vorherigen Kapitel beschrieben wurde](/expl/content/1000y/the-thousand-year-kingdom#b25f) |
-| {{% bible val="Offenbarung:17,16" link="rev:17,16" lang="de" %}} | ["Die falsche Dreifaltigkeit": Kämpft gegen Hure und vernichtet sie](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
-| {{% bible val="Offenbarung:17,16" link="rev:17,16" lang="de" %}} | ["Die Hure und das zweite Tier": Wird durch Feuer vernichtet](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:17,16" link="rev:17,16" lang="de" %}} | ["Die falsche Dreifaltigkeit": Kämpft gegen Hure und vernichtet sie](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
+| {{% bible val="Offenbarung:17,16" link="rev:17,16" lang="de" %}} | ["Die Hure und das zweite Tier": Wird durch Feuer vernichtet](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:17,16" link="rev:17,16" lang="de" %}} | ["Das Geheimnis ihres Falls": sie es, die sie vernichten](/expl/content/harlot/the-character-and-destiny-of-the-harlot#a995) |
 | {{% bible val="Offenbarung:17,16" link="rev:17,16" lang="de" %}} | ["Das scharlachrote Tier": Offb.17/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung:17,16" link="rev:17,16" lang="de" %}} | ["Die Hure": Offb.17/16](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
@@ -800,7 +800,7 @@ docType: expl
 | {{% bible val="Offenbarung:18,7" link="rev:18,7" lang="de" %}} | ["Der Charakter der Hure": Sie sieht sich selbst als unantastbar](/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
 | {{% bible val="Offenbarung:18,7" link="rev:18,7" lang="de" %}} | ["Die Hure": Offb.18/7](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:18,8" link="rev:18,8" lang="de" %}} | ["Der religiöse Aspekt": das ist das Gericht, das über Babylon kommt](/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
-| {{% bible val="Offenbarung:18,9" link="rev:18,9" lang="de" %}} | ["Die Hure und das zweite Tier": Offb.18/9](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:18,9" link="rev:18,9" lang="de" %}} | ["Die Hure und das zweite Tier": Offb.18/9](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:18,9" link="rev:18,9" lang="de" %}} | ["Das Geheimnis ihres Falls": weinen anschließend über sie](/expl/content/harlot/the-character-and-destiny-of-the-harlot#a995) |
 | {{% bible val="Offenbarung:18,9" link="rev:18,9" lang="de" %}} | ["Die Hure und das zweite Tier": Offb.18/9](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:18,9" link="rev:18,9" lang="de" %}} | ["Der wirtschaftliche Aspekt": werden dadurch reich](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
@@ -809,9 +809,9 @@ docType: expl
 | {{% bible val="Offenbarung:18,10" link="rev:18,10" lang="de" %}} | ["Die Hure": Gericht kommt schnell](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:18,10" link="rev:18,10" lang="de" %}} | ["Niederlage wird zum Sieg": Babylon, die große Stadt](/expl/content/witnesses/the-two-witnesses#5f50) |
 | {{% bible val="Offenbarung:18,11" link="rev:18,11" lang="de" %}} | ["Die 666 im Zusammenhang": Beschreibung des Tieres, auf dem die Hure sitzt](/expl/content/beasts/666-the-number-of-the-beast#c413) |
-| {{% bible val="Offenbarung:18,11" link="rev:18,11" lang="de" %}} | ["Die Hure und das zweite Tier": Händler, die mit ihr Handel trieben, können nichts mehr kaufen oder verkaufen, jetzt da sie gefallen ist](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:18,11" link="rev:18,11" lang="de" %}} | ["Die Hure und das zweite Tier": Händler, die mit ihr Handel trieben, können nichts mehr kaufen oder verkaufen, jetzt da sie gefallen ist](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:18,11-13" link="rev:18,11-13" lang="de" %}} | ["Die Kombination 4x7": Liste der Handelsgüter Babels](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#1ee7) |
-| {{% bible val="Offenbarung:18,11-17" link="rev:18,11-17" lang="de" %}} | ["Die Hure und das zweite Tier": Offb.18/11-17](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:18,11-17" link="rev:18,11-17" lang="de" %}} | ["Die Hure und das zweite Tier": Offb.18/11-17](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:18,11-17" link="rev:18,11-17" lang="de" %}} | ["Die Hure und das zweite Tier": Offb.18/11-17](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:18,11-19" link="rev:18,11-19" lang="de" %}} | ["Die Hure": Sucht nach wirtschaftlichem Reichtum](/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung:18,12-13" link="rev:18,12-13" lang="de" %}} | ["Der Charakter der Hure": Liste ihrer Güter](/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
@@ -849,7 +849,7 @@ docType: expl
 | {{% bible val="Offenbarung:19,17-21" link="rev:19,17-21" lang="de" %}} | ["Weitere Argumente für eine Schlacht": Kapitel 19](/expl/content/1000y/the-thousand-year-kingdom#6a0c) |
 | {{% bible val="Offenbarung:19,19" link="rev:19,19" lang="de" %}} | ["Zwei letzte Schlachten?": menschliche Heere](/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Offenbarung:19,20" link="rev:19,20" lang="de" %}} | ["Ein kleines Wort mit großen Konsequenzen": das Tier und der falsche Prophet wurden gefangen genommen, direkt nachdem die Schlacht verloren war](/expl/content/1000y/the-thousand-year-kingdom#b25f) |
-| {{% bible val="Offenbarung:19,20" link="rev:19,20" lang="de" %}} | ["Die Beschreibung des Teufels": 19](/expl/content/beasts/the-nature-of-the-beast#7b88) |
+| {{% bible val="Offenbarung:19,20" link="rev:19,20" lang="de" %}} | ["Die Beschreibung des Teufels": 19](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
 | {{% bible val="Offenbarung:19,21" link="rev:19,21" lang="de" %}} | ["Die Waffen der Kriegsführung, die sie sich vorstellt": Jesus zieht allein in den Krieg, bewaffnet nur mit dem Schwert seines Mundes](/expl/topics/others/dispensionalism-and-its-critic#7b85) |
 | {{% bible val="Offenbarung:20" link="rev:20,-1" lang="de" %}} | [""Das tausendjährige Reich (Kap. 20)"": Kapitel 20](/kids/content/1000y) |
 | {{% bible val="Offenbarung:20" link="rev:20,-1" lang="de" %}} | ["Tausend Jahre, in denen Jesus König ist": Offenbarung 20](/kids/early-childhood/14-a-thousand-years-of-jesus-being-king) |
@@ -889,8 +889,8 @@ docType: expl
 | {{% bible val="Offenbarung:20,8" link="rev:20,8" lang="de" %}} | ["Zwei letzte Schlachten?": dämonische Heere](/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Offenbarung:20,8" link="rev:20,8" lang="de" %}} | ["Wörtlich, aber nicht konsequent wörtlich": Gog und Magog](/expl/topics/others/dispensionalism-and-its-critic#7102) |
 | {{% bible val="Offenbarung:20,9" link="rev:20,9" lang="de" %}} | ["Zwei letzte Schlachten?": Feuer](/expl/content/1000y/the-thousand-year-kingdom#4257) |
-| {{% bible val="Offenbarung:20,10" link="rev:20,10" lang="de" %}} | ["Die Beschreibung des Teufels": 20](/expl/content/beasts/the-nature-of-the-beast#7b88) |
-| {{% bible val="Offenbarung:20,10" link="rev:20,10" lang="de" %}} | ["Die Hure und das zweite Tier": 20](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:20,10" link="rev:20,10" lang="de" %}} | ["Die Beschreibung des Teufels": 20](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
+| {{% bible val="Offenbarung:20,10" link="rev:20,10" lang="de" %}} | ["Die Hure und das zweite Tier": 20](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:20,11-15" link="rev:20,11-15" lang="de" %}} | ["Präteristisch": das letzte Gericht vor dem großen weißen Thron](/expl/background/literature/preterist-historicist-futurist-or-idealist#p1a1) |
 | {{% bible val="Offenbarung:20,12" link="rev:20,12" lang="de" %}} | ["Was das Thema wirklich trägt": stehen die Toten vor dem Thron](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Offenbarung:20,13" link="rev:20,13" lang="de" %}} | ["Kein Meer mehr": der Ort der Toten](/expl/content/paradise/the-new-jerusalem#eee1) |
@@ -928,7 +928,7 @@ docType: expl
 | {{% bible val="Offenbarung:21,7-8" link="rev:21,7-8" lang="de" %}} | ["Die Überwinder": zweiten Tod ausgenommen zu sein](/expl/content/paradise/the-new-jerusalem#eb5e) |
 | {{% bible val="Offenbarung:21,8" link="rev:21,8" lang="de" %}} | ["Worum geht es bei der Hölle?": dem Feuersee ausgeliefert, der von Schwefel brennt, dem zweiten Tod](/expl/content/paradise/heaven-and-hell#2be6) |
 | {{% bible val="Offenbarung:21,8" link="rev:21,8" lang="de" %}} | ["Bereit für den zweiten Tod": Die Feiglinge aber und Ungläubigen und mit Gräueln Befleckten und Mörder und Unzüchtigen und Zauberer und Götzendiener und alle Lügner – ihr Teil wird in dem See sein, der von Feuer und Schwefel brennt; das ist der zweite Tod.](/expl/content/paradise/the-new-jerusalem#e855) |
-| {{% bible val="Offenbarung:21,9" link="rev:21,9" lang="de" %}} | ["Die Hure und das zweite Tier": die Braut des Lammes](/expl/content/beasts/the-nature-of-the-beast#ae7b) |
+| {{% bible val="Offenbarung:21,9" link="rev:21,9" lang="de" %}} | ["Die Hure und das zweite Tier": die Braut des Lammes](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung:21,9" link="rev:21,9" lang="de" %}} | ["Himmel und das Neue Jerusalem": Neue Jerusalem als die Braut des Lammes beschrieben wird](/expl/content/paradise/heaven-and-hell#2f63) |
 | {{% bible val="Offenbarung:21,9" link="rev:21,9" lang="de" %}} | ["Der Aufbau des Kapitels": hört Johannes von der Braut des Lammes](/expl/content/paradise/the-new-jerusalem#8c47) |
 | {{% bible val="Offenbarung:21,9-10" link="rev:21,9-10" lang="de" %}} | ["Braut Gottes": Braut Christi die Gemeinde](/expl/background/israel/the-church-is-part-of-israel#67c0) |

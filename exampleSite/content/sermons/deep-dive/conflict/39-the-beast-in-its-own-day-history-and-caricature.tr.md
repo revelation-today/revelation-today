@@ -4,7 +4,7 @@ weight: 39
 docType: sermon
 audience_group: "deep-dive-guide"
 audience_track: "deep-dive"
-expl: /expl/content/beasts/the-beasts-and-the-666-in-historical-context
+expl: /expl/content/beasts/666-the-number-of-the-beast
 prev: /sermons/deep-dive/conflict/38-the-unholy-trinity
 next: /sermons/deep-dive/conflict/40-666-cracking-the-number-of-the-beast
 ---
@@ -30,7 +30,7 @@ tarafından nihayet boyun eğdirilmesi beklenir. İlk canavar ayrıca Daniel'in 
 tümünden aynı anda özellikler ödünç alır — aslan ağzı, ayı ayakları, leopar gövdesi, on boynuz
 (Daniel 7:4-7 ile karşılaştırın) — bu da yalnızca bir değil, Tanrı'nın halkına şimdiye kadar karşı
 çıkmış her imparatorlukla süreklilik işaret eder. (Ayrıntı için bkz.
-[Tarihsel bağlamda canavarlar ve 666]({{< relref "expl/content/beasts/the-beasts-and-the-666-in-historical-context" >}}) ve
+[Tarihsel bağlamda canavarlar ve 666]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}}) ve
 [Vahiy kitabındaki canavarın doğası]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}).)
 
 Bu Eski Antlaşma temellendirmesi, bölümü nasıl okuduğumuz için önemlidir: Yuhanna'nın ilk hamlesi

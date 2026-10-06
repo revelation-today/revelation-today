@@ -49,7 +49,7 @@ Bu kitapta kullanılan 129 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya:23,17" link="isa:23,17" lang="tr" %}} | ["Ekonomik boyut": yeryüzünün bütün krallıklarıyla ticaret yapacaktır](/expl/content/harlot/who-is-the-harlot-babylon-part-2#fb4b) |
 | {{% bible val="Yeşaya:25,8" link="isa:25,8" lang="tr" %}} | ["Gözyaşlarını sil": Yeşaya'nın gözyaşının ve ölümün ortadan kalkacağına dair](/expl/content/paradise/the-new-jerusalem#5da1) |
 | {{% bible val="Yeşaya:27" link="isa:27,-1" lang="tr" %}} | ["Referanslarla dolu bir çanta": Yşa.27/1](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#042c) |
-| {{% bible val="Yeşaya:27,1" link="isa:27,1" lang="tr" %}} | ["İlk okuyucuların bağlamı": Yeşaya](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#b8d0) |
+| {{% bible val="Yeşaya:27,1" link="isa:27,1" lang="tr" %}} | ["İlk okuyucuların bağlamı": Yeşaya](/expl/content/beasts/666-the-number-of-the-beast#b8d0) |
 | {{% bible val="Yeşaya:28,16" link="isa:28,16" lang="tr" %}} | ["Krallıkların sonu": köşe taşını](/expl/bible/daniel/the-four-kingdoms-in-daniel#bcbd) |
 | {{% bible val="Yeşaya:32,15" link="isa:32,15" lang="tr" %}} | ["Ruh'un dökülmesi": (Yeş.32/15)](/expl/background/israel/the-church-is-part-of-israel#7a85) |
 | {{% bible val="Yeşaya:35,7" link="isa:35,7" lang="tr" %}} | ["Uluslar ve armağanları": su havuzları, kimin girip kimin giremeyeceğine dair aynı ifadeden hemen önce belirir](/expl/content/paradise/the-new-jerusalem#1c33) |

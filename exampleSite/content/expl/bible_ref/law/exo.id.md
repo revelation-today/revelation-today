@@ -84,7 +84,7 @@ docType: expl
 | {{% bible val="Keluaran:12,48" link="exo:12,48" lang="ind" %}} | ["Simpul 4: seberapa banyak janji itu mendarat di dalam sejarah?": akan menjadi seperti orang asli negeri itu](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Keluaran:12,48-51" link="exo:12,48-51" lang="ind" %}} | ["Bangsa-Bangsa Lain Menjadi Bagian dari Israel": hak yang sama](/expl/background/israel/the-remnant-of-israel#1c50) |
 | {{% bible val="Keluaran:13,8-9" link="exo:13,8-9" lang="ind" %}} | ["Kematian Anak Sulung": tanda pada tangan dan dahi](/expl/bible/exodus/the-plagues-in-egypt#4f21) |
-| {{% bible val="Keluaran:13,16" link="exo:13,16" lang="ind" %}} | ["Binatang Kedua": gambaran peringatan akan kuasa Allah](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
+| {{% bible val="Keluaran:13,16" link="exo:13,16" lang="ind" %}} | ["Binatang Kedua": gambaran peringatan akan kuasa Allah](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="Keluaran:15,1-19" link="exo:15,1-19" lang="ind" %}} | ["Nyanyian Musa": Nyanyian Musa yang asli menggambarkan pujian yang menyertai mukjizat di Laut Merah](/expl/content/harvest/gods-army-and-the-seven-angels#6689) |
 | {{% bible val="Keluaran:15,8" link="exo:15,8" lang="ind" %}} | ["Ruang Takhta": penyeberangan Laut Merah oleh bangsa Israel pada masa keluarnya mereka dari Mesir](/expl/content/worship/worship-in-the-throne-room#0938) |
 | {{% bible val="Keluaran:19,5" link="exo:19,5" lang="ind" %}} | ["Milik Kesayangan Allah": milik kesayangan-Nya sendiri](/expl/background/israel/the-church-is-part-of-israel#123e) |

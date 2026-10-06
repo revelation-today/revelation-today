@@ -32,7 +32,7 @@ docType: expl
 | {{% bible val="Daniel:3" link="dan:3,-1" lang="de" %}} | ["Jesu Sicht": die Geschichte von Daniels Freunden im Feuerofen](/expl/content/letters/the-letter-to-the-church-in-thyatira#f2ed) |
 | {{% bible val="Daniel:3,1" link="dan:3,1" lang="de" %}} | ["Daniels Freunde im Feuerofen": Maße der Statue](/expl/content/beasts/666-the-number-of-the-beast#92ea) |
 | {{% bible val="Daniel:3,1" link="dan:3,1" lang="de" %}} | ["Ein Sack voller Referenzen": Dan.3](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
-| {{% bible val="Daniel:3,4-12" link="dan:3,4-12" lang="de" %}} | ["Das zweite Tier": Buch Daniel](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#3622) |
+| {{% bible val="Daniel:3,4-12" link="dan:3,4-12" lang="de" %}} | ["Das zweite Tier": Buch Daniel](/expl/content/beasts/666-the-number-of-the-beast#3622) |
 | {{% bible val="Daniel:3,16-18" link="dan:3,16-18" lang="de" %}} | ["Daniels Freunde im Feuerofen": die Statue nicht angebetet zu haben](/expl/content/beasts/666-the-number-of-the-beast#92ea) |
 | {{% bible val="Daniel:3,25" link="dan:3,25" lang="de" %}} | ["Jesu Sicht": wie ein Sohn der Götter](/expl/content/letters/the-letter-to-the-church-in-thyatira#f2ed) |
 | {{% bible val="Daniel:3,28-30" link="dan:3,28-30" lang="de" %}} | ["Ein Sack voller Referenzen": der König Gott anerkennt und lobt und die Freunde daraufhin befördert](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |

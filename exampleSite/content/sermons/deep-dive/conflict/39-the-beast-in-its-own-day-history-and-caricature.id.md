@@ -4,7 +4,7 @@ weight: 39
 docType: sermon
 audience_group: "deep-dive-guide"
 audience_track: "deep-dive"
-expl: /expl/content/beasts/the-beasts-and-the-666-in-historical-context
+expl: /expl/content/beasts/666-the-number-of-the-beast
 prev: /sermons/deep-dive/conflict/38-the-unholy-trinity
 next: /sermons/deep-dive/conflict/40-666-cracking-the-number-of-the-beast
 ---
@@ -31,7 +31,7 @@ untuk akhirnya ditaklukkan Allah pada akhir zaman. Binatang pertama juga meminja
 keempat binatang Daniel sekaligus — mulut singa, kaki beruang, tubuh macan tutul, sepuluh tanduk
 (bandingkan Daniel 7:4-7) — menandakan kesinambungan dengan setiap kekaisaran yang pernah menentang
 umat Allah, bukan hanya satu. (Detail lengkap dalam
-[666 dalam Konteks Historis]({{< relref "expl/content/beasts/the-beasts-and-the-666-in-historical-context" >}}) dan
+[666 dalam Konteks Historis]({{< relref "expl/content/beasts/666-the-number-of-the-beast" >}}) dan
 [Kedua Binatang dalam Kitab Wahyu]({{< relref "expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" >}}).)
 
 Dasar Perjanjian Lama itu penting bagi cara kita membaca pasal ini: langkah pertama Yohanes bukan

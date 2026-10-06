@@ -49,7 +49,7 @@ docType: expl
 | {{% bible val="Isaiah:23,17" link="isa:23,17" lang="en" %}} | ["The economic aspect": will ply her trade with all the kingdoms of the earth](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Isaiah:25,8" link="isa:25,8" lang="en" %}} | ["Wipe away the tears": Isaiah, where tears and death flee](/expl/content/paradise/the-new-jerusalem#cbf4) |
 | {{% bible val="Isaiah:27" link="isa:27,-1" lang="en" %}} | ["A bag full of references": Isa.27/1](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a878) |
-| {{% bible val="Isaiah:27,1" link="isa:27,1" lang="en" %}} | ["The context of the first readers": Isaiah](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#2f6a) |
+| {{% bible val="Isaiah:27,1" link="isa:27,1" lang="en" %}} | ["The context of the first readers": Isaiah](/expl/content/beasts/666-the-number-of-the-beast#2f6a) |
 | {{% bible val="Isaiah:28,16" link="isa:28,16" lang="en" %}} | ["The end of the kingdoms": cornerstone](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
 | {{% bible val="Isaiah:32,15" link="isa:32,15" lang="en" %}} | ["Pouring out of the Spirit": Isa.32/15](/expl/background/israel/the-church-is-part-of-israel#a1c3) |
 | {{% bible val="Isaiah:35,7" link="isa:35,7" lang="en" %}} | ["The nations and their gifts": pools of water appear just before](/expl/content/paradise/the-new-jerusalem#bf9a) |

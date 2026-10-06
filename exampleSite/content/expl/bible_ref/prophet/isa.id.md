@@ -49,7 +49,7 @@ docType: expl
 | {{% bible val="Yesaya:23,17" link="isa:23,17" lang="ind" %}} | ["Aspek ekonomi": akan menjalankan perdagangannya dengan semua kerajaan bumi](/expl/content/harlot/who-is-the-harlot-babylon-part-2#f24d) |
 | {{% bible val="Yesaya:25,8" link="isa:25,8" lang="ind" %}} | ["Menghapus segala air mata": kitab Yesaya, di mana air mata dan maut lenyap](/expl/content/paradise/the-new-jerusalem#a74c) |
 | {{% bible val="Yesaya:27" link="isa:27,-1" lang="ind" %}} | ["Sekarung Penuh Rujukan": Yes.27/1](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
-| {{% bible val="Yesaya:27,1" link="isa:27,1" lang="ind" %}} | ["Konteks bagi Para Pembaca Pertama": Yesaya](/expl/content/beasts/the-beasts-and-the-666-in-historical-context#a261) |
+| {{% bible val="Yesaya:27,1" link="isa:27,1" lang="ind" %}} | ["Konteks bagi Para Pembaca Pertama": Yesaya](/expl/content/beasts/666-the-number-of-the-beast#a261) |
 | {{% bible val="Yesaya:28,16" link="isa:28,16" lang="ind" %}} | ["Akhir dari Kerajaan-Kerajaan Itu": batu penjuru](/expl/bible/daniel/the-four-kingdoms-in-daniel#415e) |
 | {{% bible val="Yesaya:32,15" link="isa:32,15" lang="ind" %}} | ["Pencurahan Roh": Yes.32/15](/expl/background/israel/the-church-is-part-of-israel#e989) |
 | {{% bible val="Yesaya:35,7" link="isa:35,7" lang="ind" %}} | ["Bangsa-bangsa dan persembahan mereka": genangan-genangan air muncul tepat sebelum](/expl/content/paradise/the-new-jerusalem#284a) |
