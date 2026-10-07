@@ -181,7 +181,7 @@ The devil is described as aggressive, which is hard to deal with as a believer �
 ## The description of the devil
 
 <a name="4281"></a>
-The devil always appears in the form of a trinity, since God himself is three.
+The devil keeps appearing as a counterfeit trinity, because imitation is what he does: God is three, so the parody is three.[^trinity]
 
 The first time is right {{% bible val="after the enthronement of Christ" link="rev:5" lang="en" %}}, when he alone is found worthy to open the scroll, and the devil shows up {{% bible val="as four horsemen" link="rev:6,1-8" lang="en" %}} — the fourth summarizing the other three. His action here is described in a mere eight verses, in sharp contrast to the two full chapters of eternal worship of God that precede it.
 
@@ -209,7 +209,7 @@ If we now look {{% int_link val="at the four horsemen, we find the same pattern"
 - followed by the one who uses violence and brings war,
 - followed by the one who brings hunger and prices no one can pay.
 
-The fourth horseman summarizes all three — another instance of the same trinity pattern.
+The fourth horseman, Death with Hades behind him, is not a fourth member of anything. He is what the other three add up to.
 
 Finally, there's the story of the harlot, where the same powers are at work. Two observations show it.
 
@@ -238,7 +238,7 @@ Second, the harlot works alongside the second beast. She is not the second beast
 
 The last row holds a reversal. The second beast marks other people's foreheads; the harlot carries a name on her own, as if she herself were owned, and marked out for judgment.[^own]
 
-So where is the third member of the trinity in this scene? He stays in the background, just as he does in chapter 13 and in the description of the horsemen — but you do see him in {{% bible val="the sixth bowl" link="rev:16,13" lang="en" %}} and in chapter {{% bible val="20" link="rev:20,10" lang="en" %}}.
+So where is the dragon in this scene? He is the one of the three who stays in the background here, just as he does in chapter 13 and in the description of the horsemen — but you do see him in {{% bible val="the sixth bowl" link="rev:16,13" lang="en" %}} and in chapter {{% bible val="20" link="rev:20,10" lang="en" %}}.
 
 {{% int_link val="This was also the case in the historical context" link="/expl/content/beasts/666-the-number-of-the-beast" %}}: you see the two beasts, but not the devil directly.
 
@@ -258,3 +258,5 @@ This contrast finally unfolds in full in the last vision, where Babel is describ
 [^alike]: On the shared language of deception: Bauckham, *Theology*, pp. 91, 124; Beale, p. 262. The same unclean spirits appear with both (16:13–14; 18:2): Beale, p. 894.
 
 [^own]: This observation is the site's own.
+
+[^trinity]: Beale, p. 729: the triple six falls short of the 777 of God and so parodies the Trinity; p. 1028 names "the Satanic trinity". The pattern is a parody, not a doctrine: it fits the places where the imitation is explicit, and the four horsemen are four.

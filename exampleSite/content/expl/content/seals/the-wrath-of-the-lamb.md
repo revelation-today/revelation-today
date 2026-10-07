@@ -43,16 +43,16 @@ This shouldn't leave us with the impression that God is like a social worker who
 ## The importance of wrath
 
 <a name="50ee"></a>
-You may find the wrath of God an ethically and theologically difficult topic — but that's likely because you, and even your parents, live in a historically unique situation:
+You may find the wrath of God an ethically and theologically difficult topic. Whether you do depends a great deal on where you are reading this from. For some readers of this site, none of the following has ever been part of life; for many others, all of it is familiar from the inside:
 
-- You are not subject to despotism or economic and political abuse.
-- You have no experience of human trafficking.
-- You have not been persecuted for your ethnic background or your religious or political beliefs.
-- You have not watched friends and family die of hunger around you because some rich people wanted to be richer.
-- You have never lived through a war or an epidemic that killed everyone because no one cared.
-- You may even have real perspective and options in your life.
+- living under a government that can do as it likes with you, or under economic and political abuse there is no way out of;
+- human trafficking;
+- being persecuted for your ethnic background, or for what you believe;
+- watching friends and family die of hunger while others grow richer;
+- a war, or an epidemic that nobody cared enough to stop;
+- having no real choices about your own life.
 
-Throughout history, most people have been familiar with at least one of these things. Slavery, for instance, is not a thing of the past: about 50 million people were living in modern slavery on any given day in 2021, ten million more than in 2016.[^slavery] Behind that are people — not abstract powers — who cause it, directly or indirectly.
+Through most of history most people have known at least one of these from the inside, and most people alive today still do. Slavery, for instance, is not a thing of the past: about 50 million people were living in modern slavery on any given day in 2021, ten million more than in 2016.[^slavery] Behind that are people — not abstract powers — who cause it, directly or indirectly.
 
 So when God acts on behalf of the suffering, that action is justified.
 

@@ -98,7 +98,7 @@ On the other hand, there are indications pointing to the exact opposite:
 
 This is confusing — why are there references pointing to both a good and an evil meaning? Let's look at the last two pieces of evidence more closely:
 
-- A bow is first used *as a weapon* in the Bible in the {{% bible val="story of Jacob's deception of his father, when Esau is sent to hunt with his bow" link="gen:27" lang="en" %}} — though the very first mention of a bow at all, the rainbow of Genesis 9:13, is a positive covenant sign, so this observation should be weighed as suggestive rather than decisive.
+- A bow in a human hand appears earlier than Esau's: {{% bible val="Ishmael grows up in the desert to be an archer" link="gen:21,20" lang="en" %}}, and his mother lays him down {{% bible val="about a bowshot away" link="gen:21,16" lang="en" %}} to wait for him to die. {{% bible val="Esau's hunting bow" link="gen:27" lang="en" %}} is the usual example, but neither story makes a bow evil in itself, and the very first bow in the Bible is the rainbow, a covenant sign ({{% bible val="Genesis 9:13" link="gen:9,13" lang="en" %}}). The weight of this argument rests on Ezekiel's Gog, not on Genesis.
 - The three speeches Jesus gives about the end times, in {{% bible val="Mark" link="mrk:13,5-9" lang="en" %}}, {{% bible val="Matthew" link="mat:24,4-8" lang="en" %}}, and {{% bible val="Luke" link="luk:21,8-11" lang="en" %}}, follow the same order found in Revelation: all three open with something like "Beware that you are not deceived, because many will come in my name." War always comes second, then famine, and in Luke this is followed by "pestilence" as well.
 
 ## The resolution

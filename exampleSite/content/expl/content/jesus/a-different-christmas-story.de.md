@@ -83,7 +83,7 @@ Was ist also die Geschichte von Offb.12/1–5? Israel, der Frau, wurde verheiße
 
 In diesen Druck hinein wurde Jesus geboren, und er wurde aus unmittelbarer Gefahr gerettet, als {{% bible val="König Herodes ihn töten wollte" link="mat:2" lang="de" %}}. Als Jesus seinen Dienst begann, versuchte {{% bible val="der Teufel, ihn zu versuchen" link="mat:4,1-11" lang="de" %}} – auch dieser Versuch scheiterte. Jesus hat gegen jede Art von Widerstand Erfolg, stirbt sogar am Kreuz, wird schließlich von den Toten auferweckt und fährt in den Himmel auf (Offb.12/5 überspringt alles zwischen Jesu Geburt und seiner Himmelfahrt).
 
-Das ist die Weihnachtsgeschichte, die wir bereits aus dem Neuen Testament kennen, und es ist eine Geschichte voller Emotionen: die Herrlichkeit der Frau neben ihrer Hilflosigkeit, die Angst um ihr Kind, der Zorn des Drachen und seine Entschlossenheit, und der überraschende Sieg über den Drachen am Ende.
+Das ist die Weihnachtsgeschichte, die wir bereits aus dem Neuen Testament kennen, und es ist eine Geschichte voller Emotionen: die Herrlichkeit der Frau neben ihrer Hilflosigkeit, die Angst um ihr Kind, der Zorn des Drachen und seine Entschlossenheit, und dann das Kind, das einfach aus seiner Reichweite gehoben wird. Der Drache wird in diesen Versen nicht besiegt. Das geschieht einige Verse später — und es geschieht im Himmel.
 
 ## Der Rest des Kapitels
 

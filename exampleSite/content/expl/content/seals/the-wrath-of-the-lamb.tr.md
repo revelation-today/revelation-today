@@ -43,16 +43,16 @@ Bu, Tanrı'nın yardım etmeye çalışıp sonra insanlar işbirliği yapmak ist
 ## Gazabın önemi
 
 <a name="6ade"></a>
-Tanrı'nın gazabını etik ve teolojik açıdan zor bir konu bulabilirsiniz — ama bunun nedeni muhtemelen sizin, hatta ebeveynlerinizin bile, tarihsel olarak eşi benzeri olmayan bir durumda yaşıyor olmanızdır:
+Tanrı'nın gazabını etik ve teolojik açıdan zor bir konu bulabilirsiniz. Bunun böyle olup olmaması, büyük ölçüde nereden okuduğunuza bağlıdır. Bu sitenin bazı okurları için aşağıdakilerin hiçbiri hayatın bir parçası olmamıştır; çok başkaları için hepsi içeriden bilinen şeylerdir:
 
-- Despotizme ya da ekonomik ve siyasi istismara maruz kalmadınız.
-- İnsan ticaretine dair bir deneyiminiz yok.
-- Etnik kökeniniz ya da dini veya siyasi inançlarınız yüzünden zulüm görmediniz.
-- Bazı zenginler daha da zengin olmak istediği için arkadaşlarınızın ve ailenizin etrafınızda açlıktan ölmesini izlemediniz.
-- Kimsenin umursamadığı için herkesi öldüren bir savaş ya da salgın yaşamadınız.
-- Hayatınızda gerçek bir bakış açısına ve seçeneklere bile sahip olabilirsiniz.
+- istediğini yapabilen bir yönetim altında yaşamak ya da çıkışı olmayan ekonomik ve siyasi bir istismar altında bulunmak;
+- insan ticareti;
+- etnik köken ya da inanılan şey yüzünden zulüm görmek;
+- başkaları zenginleşirken yakınların açlıktan ölmesini izlemek;
+- kimsenin durdurmaya değer bulmadığı bir savaş ya da salgın;
+- kendi hayatı üzerinde gerçek bir seçeneği olmamak.
 
-Tarih boyunca çoğu insan bunlardan en az biriyle tanışıktır. Örneğin kölelik geçmişe ait bir olgu değildir: 2021'de herhangi bir günde yaklaşık 50 milyon insan modern kölelik içinde yaşıyordu, 2016'dan on milyon fazla.[^slavery] Bunun arkasında, doğrudan ya da dolaylı olarak buna neden olan insanlar vardır — soyut güçler değil.
+Tarihin neredeyse tamamında çoğu insan bunlardan en az birini içeriden bilmiştir ve bugün yaşayanların çoğu da hâlâ bilir. Örneğin kölelik geçmişe ait bir olgu değildir: 2021'de herhangi bir günde yaklaşık 50 milyon insan modern kölelik içinde yaşıyordu, 2016'dan on milyon fazla.[^slavery] Bunun arkasında, doğrudan ya da dolaylı olarak buna neden olan insanlar vardır — soyut güçler değil.
 
 Yani Tanrı acı çekenler adına harekete geçtiğinde, bu eylem haklıdır.
 

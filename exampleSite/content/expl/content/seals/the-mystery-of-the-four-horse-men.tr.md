@@ -98,7 +98,7 @@ Bu atlıyı iyi olarak okumak için bazı makul argümanlar vardır:
 
 Bu kafa karıştırıcıdır — neden hem iyi hem de kötü bir anlama işaret eden göndermeler var? Son iki kanıta daha yakından bakalım:
 
-- Kutsal Kitap'ta bir yayın *silah olarak* ilk kullanımı, {{% bible val="Yakup'un babasını aldattığı, Esav'ın yayıyla ava gönderildiği öyküden" link="gen:27" lang="tr" %}} gelir — ancak bir yayın hiç söz edilen ilk hali, Yaratılış 9:13'teki gökkuşağı, olumlu bir antlaşma işaretidir, bu yüzden bu gözlem belirleyici değil, yalnızca ipucu niteliğinde değerlendirilmelidir.
+- İnsan elindeki bir yay, Esav'dan önce de görünür: {{% bible val="İsmail çölde büyüyüp okçu olur" link="gen:21,20" lang="tr" %}} ve annesi onu ölmeye bırakmak üzere {{% bible val="bir ok atımı uzaklığa" link="gen:21,16" lang="tr" %}} yatırır. {{% bible val="Esav'ın av yayı" link="gen:27" lang="tr" %}} alışılmış örnektir, ama bu öykülerin hiçbiri yayı kendiliğinden kötü yapmaz ve Kutsal Kitap'taki ilk yay, bir antlaşma işareti olan gökkuşağıdır ({{% bible val="Yaratılış 9:13" link="gen:9,13" lang="tr" %}}). Bu savin ağırlığı Yaratılış'ta değil, Hezekiel'in Gog'undadır.
 - İsa'nın {{% bible val="Markos'ta" link="mrk:13,5-9" lang="tr" %}}, {{% bible val="Matta'da" link="mat:24,4-8" lang="tr" %}} ve {{% bible val="Luka'da" link="luk:21,8-11" lang="tr" %}} verdiği son zamanlarla ilgili üç konuşma, Vahiy'de bulunanla aynı sırayı izler: üçü de "Sakın kimse sizi saptırmasın, çünkü benim adımla birçokları gelecek" gibi bir ifadeyle açılır. Savaş her zaman ikinci sırada gelir, ardından kıtlık, ve Luka'da bunu "salgın hastalık" da izler.
 
 ## Çözüm

@@ -48,7 +48,7 @@ Olayların sırasına yakından bakın. 2. ayette melekler borazanlarını çokt
 
 Bir an durup düşünün: borazanları çaldıran şey bizim dualarımızdır.
 
-Bu, metnin sizin için çözmediği iki zor soru bırakır geriye. Birincisi: eğer kutsalların duaları bu ölçekte bir şeyi tetikleyecek kadar ağırlık taşıyorsa — metnin bu ağırlığı çarmıhın ve Tanrı'nın krallığının gelişindeki kendi adaletinin yanına koyduğu bir ağırlık — bu, kendi duanızı ne kadar ciddiye aldığınızı değiştirmelidir. İkincisi, ve üzerinde durması daha zor olanı: dualarınızın burada yanıtlandığı şekilde gerçekten yanıtlanmasını istiyor musunuz?
+Bu, metnin sizin için çözmediği iki zor soru bırakır geriye. Birincisi: bu bölümün duayı hangi şeylerin yanına koyduğuna bakın. Krallık, Kuzu'nun çarmıhta yaptığı nedeniyle ve Tanrı adil olduğu için gelir — ve burada, kutsallar dua ettiği için. Dua böyle bir ağırlık taşıyorsa, bu, kendi duanızı ne kadar ciddiye aldığınızı değiştirmelidir. İkincisi, ve üzerinde durması daha zor olanı: dualarınızın burada yanıtlandığı şekilde gerçekten yanıtlanmasını istiyor musunuz?
 
 ## Neden Mısır'daki belalar?
 

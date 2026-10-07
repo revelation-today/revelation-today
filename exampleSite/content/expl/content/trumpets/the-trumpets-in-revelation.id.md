@@ -48,7 +48,7 @@ Perhatikan baik-baik urutan peristiwanya. Pada ayat 2, para malaikat sudah memeg
 
 Renungkan itu sejenak: doa kitalah yang membuat sangkakala-sangkakala itu mulai ditiup.
 
-Ini menyisakan dua pertanyaan sulit yang tidak dijawab tuntas oleh teks ini. Pertama, jika doa-doa orang kudus membawa bobot yang cukup besar untuk memicu sesuatu sebesar ini - bobot yang oleh teks ini disandingkan dengan salib dan keadilan Allah sendiri dalam kedatangan Kerajaan-Nya - itu seharusnya mengubah seberapa serius kamu memandang doamu sendiri. Kedua, dan lebih sulit untuk direnungkan: apakah kamu benar-benar ingin doamu dijawab dengan cara seperti yang terjadi di sini?
+Ini menyisakan dua pertanyaan sulit yang tidak dijawab tuntas oleh teks ini. Pertama, perhatikan dalam kebersamaan apa pasal ini menempatkan doa. Kerajaan itu datang karena apa yang Anak Domba lakukan di kayu salib, dan karena Allah itu adil - dan di sini, karena orang-orang kudus berdoa. Jika doa membawa bobot sebesar itu, hal itu seharusnya mengubah seberapa serius kamu memandang doamu sendiri. Kedua, dan lebih sulit untuk direnungkan: apakah kamu benar-benar ingin doamu dijawab dengan cara seperti yang terjadi di sini?
 
 ## Mengapa Tulah-Tulah di Mesir?
 

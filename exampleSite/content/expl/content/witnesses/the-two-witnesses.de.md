@@ -63,6 +63,8 @@ Bestätigt wird diese Deutung durch die {{% bible val="dreieinhalb Jahre" link="
 
 Dennoch gibt es viele Möglichkeiten, die Zeugen mit bestimmten Gestalten in Verbindung zu bringen, und die beste Übereinstimmung bieten Mose und Elia: Ihre Wunder stimmen genau überein. {{% bible val="Feuer vom Himmel auf ihre Feinde fallen zu lassen" link="rev:11,5" lang="de" %}} ist sehr typisch für {{% bible val="Elia, der Feuer vom Himmel herabrief" link="2ki:1,9-12" lang="de" %}}, ebenso wie {{% bible val="den Regen zu stoppen" link="rev:11,6" lang="de" %}}, was {{% bible val="Elias Wirken widerspiegelt" link="jas:5,17" lang="de" %}}, während die Verwandlung von {{% bible val="Wasser zu Blut" link="rev:11,6" lang="de" %}} {{% bible val="die erste Plage unter Mose widerspiegelt" link="exo:7,14-24" lang="de" %}}.
 
+Die Paarung hat eine Vorgeschichte, die man kennen sollte. Es gibt keinen Hinweis auf eine jüdische Erwartung, Mose und Elia würden gemeinsam zurückkehren. Was die Quellen hier und dort zeigen, ist die Erwartung, dass **Henoch** und Elia zurückkommen würden, um die Täuschungen des Antichristen aufzudecken — zwei Männer, die in der Bibel nicht sterben: {{% bible val="Henoch wurde von Gott hinweggenommen" link="gen:5,24" lang="de" %}}, und {{% bible val="Elia fuhr im Wirbelwind auf" link="2ki:2,11" lang="de" %}}. Die späteren Erzählungen, in denen diese beiden zurückkehren, predigen und getötet werden, zeigen alle den Einfluss von Offenbarung 11 — sie stehen nicht dahinter. Die Übereinstimmung mit Mose und Elia ruht also auf den Wundern im Text, nicht auf einer Tradition, die Johannes übernommen hat.[^tradition]
+
 Bemerkenswert ist jedoch, dass die beiden Zeugen nicht als ein Mose und ein Elia dargestellt werden, die nebeneinander wirken, sondern als zwei Gestalten, die wie eine einzige handeln. Welche einzelne Wirklichkeit spiegeln sie also gemeinsam wider? Die Gemeinde – denn nur die Gemeinde erstreckt sich über eine so lange Lebenszeit, wie hier beschrieben. Die Paarung lässt sich auf verschiedene Weise deuten. Eine Möglichkeit ist:
 
 - Mose, der gegenüber Ägypten und dem Pharao Zeugnis ablegt, als Zeuge gegenüber der Welt, und
@@ -71,7 +73,7 @@ Bemerkenswert ist jedoch, dass die beiden Zeugen nicht als ein Mose und ein Elia
 Eine andere Möglichkeit ist:
 
 - Mose als Zeuge gegenüber Israel unter dem Alten Bund, und
-- Elia – {{% bible val="der als Johannes wiederkommt" link="mat:11,13-14" lang="de" %}} – als Zeuge gegenüber der Gemeinde, nachdem der Alte Bund erfüllt ist.
+- Elia — der Prophet, von dem Jesus sagt, er sei schon gekommen, in {{% bible val="Johannes dem Täufer" link="mat:11,13-14" lang="de" %}} — steht an der Nahtstelle zwischen den Bünden: der letzte der Propheten, der auf den weist, mit dem der neue beginnt.
 
 So oder so bleibt der Kern gleich: Es ist eine Gemeinde, ob von außen oder von innen betrachtet, ob als Israel oder als das erweiterte Israel angesprochen, das die Gemeinde jetzt ist.
 
@@ -136,3 +138,5 @@ Beide versuchen auf ihre eigene Weise, {{% bible val="Jesus, den Überwinder, wi
 Wenn du also auf dein eigenes Leben als Gläubiger schaust: In welche Kategorie fällst du? Bist du eher wie die Tiere oder eher wie die Zeugen – und was würde es tatsächlich bedeuten oder kosten, wie die Zeugen zu sein?
 
 [^convert]: Bauckham, *Climax*, S. 282–283, und *Theology*, S. 87. Beale liest den Vers als Anerkennung von Gottes Macht ohne rettenden Glauben (S. 603–604).
+
+[^tradition]: Bauckham, *Climax*, S. 276: „es gibt keinen Hinweis auf eine Tradition von der gemeinsamen Rückkehr Elias und Moses“, während die Rückkehr Henochs und Elias „als Propheten, die in den letzten Tagen die Täuschungen des Antichristen aufdecken würden, gelegentlich erwartet wurde“; die späteren Martyriumserzählungen „zeigen alle den Einfluss von Offenbarung 11,3–13“. Hebräer 9,27, dass es jedem bestimmt ist, einmal zu sterben, wird manchmal gegen Henoch ins Feld geführt, aber das ist ein Argument aus einer allgemeinen Regel, nicht aus einer Tradition.

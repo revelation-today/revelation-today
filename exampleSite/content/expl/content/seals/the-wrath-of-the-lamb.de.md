@@ -43,16 +43,16 @@ Das sollte nicht den Eindruck erwecken, Gott sei wie ein Sozialarbeiter, der zu 
 ## Die Wichtigkeit von Zorn
 
 <a name="3c07"></a>
-Der Zorn Gottes mag als ethisch und theologisch schwieriges Thema erscheinen — doch das liegt wahrscheinlich daran, dass die heutige Generation, ja selbst die Elterngeneration, in einer historisch einzigartigen Situation lebt:
+Der Zorn Gottes mag als ethisch und theologisch schwieriges Thema erscheinen. Ob er das ist, hängt stark davon ab, von wo aus man liest. Für manche Leser dieser Seite war nichts von dem Folgenden je Teil des Lebens; für viele andere ist alles davon von innen bekannt:
 
-- Man ist keiner Willkürherrschaft und keiner wirtschaftlichen oder politischen Ausbeutung unterworfen.
-- Man hat keine Erfahrung mit Menschenhandel.
-- Man wurde nicht wegen seiner ethnischen Herkunft oder seiner religiösen oder politischen Überzeugungen verfolgt.
-- Man musste nicht mit ansehen, wie Freunde und Familie verhungern, weil manche Reiche noch reicher werden wollten.
-- Man hat nie einen Krieg oder eine Epidemie durchlebt, die alle dahinraffte, weil sich niemand darum kümmerte.
-- Man hat womöglich sogar echte Perspektiven und Möglichkeiten im Leben.
+- unter einer Regierung leben, die mit einem machen kann, was sie will, oder unter wirtschaftlicher und politischer Ausbeutung, aus der es keinen Weg hinaus gibt;
+- Menschenhandel;
+- verfolgt werden wegen der ethnischen Herkunft oder wegen des Glaubens;
+- mit ansehen, wie Freunde und Familie verhungern, während andere reicher werden;
+- ein Krieg oder eine Epidemie, die niemandem wichtig genug war, um sie zu stoppen;
+- keine wirklichen Wahlmöglichkeiten im eigenen Leben haben.
 
-In der gesamten Geschichte kannte die überwiegende Mehrheit der Menschen mindestens eines dieser Dinge aus eigener Erfahrung. Sklaverei zum Beispiel ist kein Phänomen der Vergangenheit: An einem beliebigen Tag im Jahr 2021 lebten rund 50 Millionen Menschen in moderner Sklaverei, zehn Millionen mehr als 2016.[^slavery] Dahinter stehen — direkt oder indirekt — Menschen, keine abstrakten Mächte.
+Durch fast die ganze Geschichte hindurch kannten die meisten Menschen mindestens eines dieser Dinge von innen, und die meisten Menschen, die heute leben, kennen es noch. Sklaverei zum Beispiel ist kein Phänomen der Vergangenheit: An einem beliebigen Tag im Jahr 2021 lebten rund 50 Millionen Menschen in moderner Sklaverei, zehn Millionen mehr als 2016.[^slavery] Dahinter stehen — direkt oder indirekt — Menschen, keine abstrakten Mächte.
 
 Wenn Gott also zugunsten der Leidenden handelt, ist dieses Handeln gerechtfertigt.
 

@@ -48,7 +48,7 @@ Achte genau auf die Reihenfolge der Ereignisse. In Vers 2 halten die Engel berei
 
 Lass das einen Moment wirken: Es ist unser Gebet, das die Posaunen zum Klingen bringt.
 
-Damit bleiben zwei schwierige Fragen offen, die der Text nicht auflöst. Erstens: Wenn die Gebete der Heiligen genug Gewicht tragen, um etwas dieser Größenordnung auszulösen — ein Gewicht, das der Text neben das Kreuz und Gottes eigene Gerechtigkeit beim Kommen seines Reiches stellt —, dann sollte das verändern, wie ernst du dein eigenes Beten nimmst. Zweitens, und schwerer zu ertragen: Willst du wirklich, dass deine Gebete so beantwortet werden, wie sie es hier werden?
+Damit bleiben zwei schwierige Fragen offen, die der Text nicht auflöst. Erstens: Schau, in welche Gesellschaft dieses Kapitel das Gebet stellt. Das Reich kommt, weil das Lamm am Kreuz gehandelt hat, und weil Gott gerecht ist — und hier, weil die Heiligen gebetet haben. Wenn Gebet so viel Gewicht trägt, sollte das verändern, wie ernst du dein eigenes nimmst. Zweitens, und schwerer zu ertragen: Willst du wirklich, dass deine Gebete so beantwortet werden, wie sie es hier werden?
 
 ## Warum die Plagen Ägyptens?
 

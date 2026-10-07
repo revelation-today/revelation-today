@@ -16,8 +16,10 @@ deeper:
 sources: 
     - pages: 520–555
       ref: beale_rev
-    - pages: 243–257
+    - pages: 7, 31, 243–257, 261–263
       ref: bauckham_climax
+    - pages: 84
+      ref: bauckham_rev
 ---
 
 Pasal 10 berpusat pada sebuah kitab kecil yang harus dimakan oleh Yohanes, dan pada rahasia ketujuh guntur, yang dimeteraikan tepat pada saat mereka berbicara. Apa makna kedua hal yang aneh ini?
@@ -40,7 +42,9 @@ Hubungan antara keduanya adalah soal skala: Yesus telah mengalahkan Iblis di kay
 
 Malaikat itu menegaskan bahwa jemaat tidak perlu takut menghadapi tugas ini dengan cara menaruh satu kaki di laut dan satu kaki di darat — tanah yang sama yang kelak, di pasal 13, akan melahirkan kedua binatang itu. Berdiri di atas keduanya adalah cara untuk menegaskan otoritas atas keduanya.
 
-Kemudian muncullah ketujuh guntur. Apa pun yang mereka katakan begitu menggoda rasa ingin tahu kita justru karena kita tidak pernah diberi tahu: Yohanes diperintahkan untuk memeteraikan perkataan mereka, bukan menuliskannya. Berbeda dengan Daniel, yang diperintahkan untuk memeteraikan kitabnya sampai "waktu akhir zaman" (Dan 12:4, 9), Yohanes kemudian justru diperintahkan untuk tidak memeteraikan sisa nubuatannya, sebab waktunya sudah dekat (Why 22:10) — kecuali di sini. Ketujuh guntur inilah satu-satunya hal yang tetap dimeteraikan untuk selama-lamanya, tanpa ada janji akan disingkapkan di kemudian hari.
+Kemudian muncullah ketujuh guntur. Apa pun yang mereka katakan begitu menggoda rasa ingin tahu kita justru karena kita tidak pernah diberi tahu: Yohanes diperintahkan untuk memeteraikan perkataan mereka, bukan menuliskannya. Berbeda dengan Daniel, yang diperintahkan untuk memeteraikan kitabnya sampai "waktu akhir zaman" (Dan 12:4, 9), Yohanes kemudian justru diperintahkan untuk tidak memeteraikan sisa nubuatannya, sebab waktunya sudah dekat (Why 22:10) — kecuali di sini. Ketujuh guntur inilah satu-satunya hal yang tetap dimeteraikan untuk selama-lamanya, tanpa ada janji akan disingkapkan di kemudian hari. Jadi apa arti kebisuan itu? Jawaban yang diberikan sebagian besar penafsir, dan yang diikuti situs ini, adalah bahwa guntur-guntur itu merupakan rangkaian penghakiman yang dibatalkan. Seharusnya ada rangkaian tujuh yang keempat - satu perangkat penghakiman yang lengkap atas seluruh dunia adalah empat kali tujuh - dan rangkaian itu ditarik kembali sebelum dimulai. Beale mengatakan hal yang sama dari sisi lain: pemeteraian itu berarti Allah tidak akan lagi memakai penghakiman sebagai peringatan untuk membawa orang kepada pertobatan. Dengan cara mana pun, yang ditahan di sini bukanlah keterangan bagi pembaca, melainkan penghakiman bagi dunia.[^thunders]
+
+Berikutnya datang sumpah malaikat itu, dan sumpah itu membawa pernyataan terbesar dalam pasal ini: ketika sangkakala ketujuh berbunyi, {{% bible val="rahasia Allah akan digenapi, seperti yang telah Ia beritakan kepada hamba-hamba-Nya, para nabi" link="rev:10,7" lang="ind" %}}. Sebuah rahasia dalam kitab ini bukanlah teka-teki, melainkan sesuatu yang Allah tahan dan sekarang Ia keluarkan. Yang keluar di sini adalah bagaimana Kerajaan itu sungguh-sungguh datang: bukan dengan jemaat dibebaskan dari penderitaan, melainkan melalui kesaksian yang dibawanya dan melalui harga yang dituntut kesaksian itu. Itulah sebabnya kitab kecil itu berpindah tangan dalam pasal ini, dan sebabnya kedua saksi menyusul dalam pasal berikutnya.[^mystery]
 
 ## Memakan Kitab Kecil Itu
 
@@ -54,3 +58,7 @@ Jadi, apa sebenarnya kitab kecil ini? {{% bible val="Setelah memakan kitab itu, 
 [^angel]: Beale, hlm. 522. Yang lain membacanya sebagai malaikat yang mulia, karena ia bersumpah demi Allah dan bukan demi dirinya sendiri (10:6, menggemakan Daniel 12:7).
 
 [^scroll]: Beale, hlm. 530–532. Bauckham berpendapat bahwa kedua kitab itu sama (*Climax*, hlm. 243–257).
+
+[^thunders]: Bauckham, *Climax*, hlm. 7, 31: ketujuh guntur itu adalah "rangkaian penghakiman yang dibatalkan", dan tanpa pembatalan itu akan ada empat rangkaian tujuh - "satu perangkat penghakiman yang lengkap atas seluruh dunia". Beale, hlm. 531: pemeteraian itu "menunjukkan bahwa Allah tidak akan lagi memakai penghakiman sebagai peringatan sebagai strategi untuk pertobatan".
+
+[^mystery]: Bauckham, *Climax*, hlm. 261–263, dan *Theology*, hlm. 84: rahasia dalam 10:7 adalah maksud Allah yang mencapai tujuannya melalui kesaksian jemaat. Beale, hlm. 541, membacanya sebagai ketetapan Allah bahwa orang-orang kudus harus menderita, yang berujung pada penghakiman atas para penindas mereka - gerak yang sama dilihat dari sisi yang lain.

@@ -43,16 +43,16 @@ Ini semestinya tidak memberi kita kesan bahwa Allah seperti seorang pekerja sosi
 ## Pentingnya Murka
 
 <a name="3c07"></a>
-Kamu mungkin menganggap murka Allah sebagai topik yang sulit secara etis maupun teologis - tetapi itu mungkin karena kamu, bahkan orang tuamu, hidup dalam situasi yang secara historis unik:
+Kamu mungkin menganggap murka Allah sebagai topik yang sulit secara etis maupun teologis. Apakah demikian, sangat bergantung pada dari mana kamu membacanya. Bagi sebagian pembaca situs ini, tidak satu pun dari hal-hal berikut pernah menjadi bagian dari hidup mereka; bagi banyak yang lain, semuanya dikenal dari dalam:
 
-- Kamu tidak berada di bawah kekuasaan lalim atau penyalahgunaan ekonomi dan politik.
-- Kamu tidak memiliki pengalaman tentang perdagangan manusia.
-- Kamu tidak pernah dianiaya karena latar belakang etnismu atau keyakinan agama maupun politikmu.
-- Kamu tidak pernah menyaksikan teman dan keluargamu mati kelaparan di sekelilingmu karena sebagian orang kaya ingin menjadi lebih kaya lagi.
-- Kamu belum pernah mengalami perang atau wabah yang membunuh semua orang karena tidak ada yang peduli.
-- Kamu bahkan mungkin memiliki perspektif dan pilihan yang nyata dalam hidupmu.
+- hidup di bawah pemerintahan yang boleh melakukan apa saja terhadapmu, atau di bawah penyalahgunaan ekonomi dan politik yang tidak ada jalan keluarnya;
+- perdagangan manusia;
+- dianiaya karena latar belakang etnismu, atau karena apa yang kamu percayai;
+- menyaksikan teman dan keluarga mati kelaparan sementara orang lain menjadi semakin kaya;
+- sebuah perang, atau wabah yang tidak cukup dipedulikan siapa pun untuk dihentikan;
+- tidak memiliki pilihan nyata atas hidupmu sendiri.
 
-Sepanjang sejarah, sebagian besar manusia mengenal setidaknya satu dari hal-hal ini. Perbudakan, misalnya, bukanlah fenomena masa lalu: pada hari mana pun di tahun 2021 ada sekitar 50 juta orang yang hidup dalam perbudakan modern, sepuluh juta lebih banyak daripada tahun 2016.[^slavery] Di baliknya ada manusia — bukan kekuatan abstrak — yang menyebabkannya, baik secara langsung maupun tidak langsung.
+Sepanjang hampir seluruh sejarah, sebagian besar manusia mengenal setidaknya satu dari hal-hal ini dari dalam, dan sebagian besar orang yang hidup hari ini pun masih begitu. Perbudakan, misalnya, bukanlah fenomena masa lalu: pada hari mana pun di tahun 2021 ada sekitar 50 juta orang yang hidup dalam perbudakan modern, sepuluh juta lebih banyak daripada tahun 2016.[^slavery] Di baliknya ada manusia — bukan kekuatan abstrak — yang menyebabkannya, baik secara langsung maupun tidak langsung.
 
 Jadi ketika Allah bertindak demi mereka yang menderita, tindakan itu adalah tindakan yang benar.
 

@@ -16,8 +16,10 @@ deeper:
 sources: 
     - pages: 520–555
       ref: beale_rev
-    - pages: 243–257
+    - pages: 7, 31, 243–257, 261–263
       ref: bauckham_climax
+    - pages: 84
+      ref: bauckham_rev
 ---
 
 Chapter 10 centers on a small scroll that John is told to eat, and on the mystery of the seven thunders — sealed up the moment they speak. What do these two strange details mean?
@@ -40,7 +42,9 @@ The link between the two is one of scale: Jesus defeated Satan on the cross, and
 
 The angel underlines that the church has nothing to fear from this task by planting one foot on the sea and one on the land — the very ground that, in chapter 13, will produce the two beasts. Standing over both is a way of asserting authority over both.
 
-Then come the seven thunders. Whatever they say is tantalizing precisely because we're never told: John is ordered to seal up their words rather than write them down. Unlike Daniel, who was told to seal his scroll until "the time of the end" (Dan 12:4, 9), John is later told not to seal up the rest of his prophecy, because the time is near (Rev 22:10) — except here. The seven thunders are the one thing left permanently sealed, with no promise of future disclosure.
+Then come the seven thunders. Whatever they say is tantalizing precisely because we're never told: John is ordered to seal up their words rather than write them down. Unlike Daniel, who was told to seal his scroll until "the time of the end" (Dan 12:4, 9), John is later told not to seal up the rest of his prophecy, because the time is near (Rev 22:10) — except here. The seven thunders are the one thing left permanently sealed, with no promise of future disclosure. So what does the silence mean? The answer most commentators give, and the one this site follows, is that the thunders are a series of judgments that is called off. There should have been a fourth set of seven — a complete set of judgments on the whole world would be four times seven — and it is rescinded before it begins. Beale puts the same thing the other way round: the sealing means God will no longer use warning judgments to bring people to repentance. Either way, what is withheld here is not information from the reader; it is a judgment from the world.[^thunders]
+
+The angel's oath comes next, and it carries the chapter's largest claim: when the seventh trumpet sounds, {{% bible val="the mystery of God will be finished, as he announced to his servants the prophets" link="rev:10,7" lang="en" %}}. A mystery in this book is not a puzzle but something God has held back and now lets out. What comes out here is how the kingdom actually arrives: not by the church being spared, but through the testimony it carries and through what that testimony costs. That is why the scroll changes hands in this chapter, and why the two witnesses follow in the next.[^mystery]
 
 ## Eating the scroll
 
@@ -54,3 +58,7 @@ So what is this scroll, in the end? {{% bible val="After eating the scroll, John
 [^angel]: Beale, p. 522. Others read him as an exalted angel, because he swears by God rather than by himself (10:6, echoing Daniel 12:7).
 
 [^scroll]: Beale, pp. 530–532. Bauckham argues that the two scrolls are the same (*Climax*, pp. 243–257).
+
+[^thunders]: Bauckham, *Climax*, pp. 7, 31: the seven thunders are "a cancelled series of judgments", and without the cancellation there would have been four series of seven — "a complete set of judgments on the whole world". Beale, p. 531: the sealing "indicates that God will no longer use warning judgments as a strategy for repentance".
+
+[^mystery]: Bauckham, *Climax*, pp. 261–263, and *Theology*, p. 84: the mystery of 10:7 is God's purpose reaching its goal through the church's witness. Beale, p. 541, reads it as God's decree that the saints must suffer, which leads to the judgment of their persecutors — the same movement seen from the other side.

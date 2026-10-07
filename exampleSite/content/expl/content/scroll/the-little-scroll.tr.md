@@ -16,8 +16,10 @@ deeper:
 sources: 
     - pages: 520–555
       ref: beale_rev
-    - pages: 243–257
+    - pages: 7, 31, 243–257, 261–263
       ref: bauckham_climax
+    - pages: 84
+      ref: bauckham_rev
 ---
 
 10. bölümün merkezinde Yuhanna'nın yemesi istenen küçük bir tomar ve söyler söylemez mühürlenen yedi gök gürlemesinin gizemi yer alır. Bu iki tuhaf ayrıntı ne anlama gelir?
@@ -40,7 +42,9 @@ Bu, aynı tomar değildir, ama onunla ilişkilidir.[^scroll] 5. bölümdeki toma
 
 Melek, bir ayağını denize bir ayağını karaya basarak — 13. bölümde iki canavarın çıkacağı toprağın ta kendisine — kilisenin bu görevden korkacak bir şeyi olmadığını vurgular. Her ikisinin üzerinde durmak, ikisi üzerindeki yetkiyi ilan etmenin bir yoludur.
 
-Ardından yedi gök gürlemesi gelir. Ne söyledikleri tam da bize hiç anlatılmadığı için merak uyandırır: Yuhanna'ya sözlerini yazmak yerine mühürlemesi emredilir. Tomarını "son zamana kadar" mühürlemesi söylenen Daniel'in aksine (Dan 12:4, 9), Yuhanna'ya sonradan peygamberliğinin geri kalanını mühürlememesi söylenir, çünkü zaman yakındır (Vahiy 22:10) — burası hariç. Yedi gök gürlemesi, gelecekte açıklanacağına dair hiçbir vaat olmaksızın, kalıcı olarak mühürlü kalan tek şeydir.
+Ardından yedi gök gürlemesi gelir. Ne söyledikleri tam da bize hiç anlatılmadığı için merak uyandırır: Yuhanna'ya sözlerini yazmak yerine mühürlemesi emredilir. Tomarını "son zamana kadar" mühürlemesi söylenen Daniel'in aksine (Dan 12:4, 9), Yuhanna'ya sonradan peygamberliğinin geri kalanını mühürlememesi söylenir, çünkü zaman yakındır (Vahiy 22:10) — burası hariç. Yedi gök gürlemesi, gelecekte açıklanacağına dair hiçbir vaat olmaksızın, kalıcı olarak mühürlü kalan tek şeydir. Öyleyse bu suskunluk ne anlama gelir? Çoğu yorumcunun verdiği ve bu sitenin de izlediği yanıt, gök gürlemelerinin iptal edilen bir yargı dizisi olduğudur. Dördüncü bir yedili dizi olması gerekirdi — bütün dünya üzerine tam bir yargı kümesi dört kez yedi olurdu — ve bu dizi başlamadan geri alınır. Beale aynı şeyi öbür yönden söyler: mühürlenme, Tanrı'nın insanları tövbeye getirmek için artık uyarı yargıları kullanmayacağı anlamına gelir. Her iki durumda da burada esirgenen şey okurdan bir bilgi değil, dünyadan bir yargıdır.[^thunders]
+
+Ardından meleğin yemini gelir ve bölümün en büyük iddiasını taşır: yedinci borazan çaldığında, {{% bible val="Tanrı'nın sırrı, kulları peygamberlere bildirdiği gibi tamamlanacaktır" link="rev:10,7" lang="tr" %}}. Bu kitapta sır, bir bilmece değil, Tanrı'nın alıkoyduğu ve şimdi dışa verdiği bir şeydir. Burada dışa verilen şey, krallığın gerçekte nasıl geldiğidir: kilisenin acıdan esirgenmesiyle değil, taşıdığı tanıklık aracılığıyla ve bu tanıklığın bedeli aracılığıyla. Tomarın bu bölümde el değiştirmesinin ve iki tanığın bir sonraki bölümde gelmesinin nedeni budur.[^mystery]
 
 ## Tomarı yemek
 
@@ -54,3 +58,7 @@ Peki bu tomar sonuçta nedir? {{% bible val="Tomarı yedikten sonra Yuhanna'ya y
 [^angel]: Beale, s. 522. Başkaları onu yüce bir melek olarak okur, çünkü kendisi adına değil Tanrı adına yemin eder (10:6; Daniel 12:7'yi yankılar).
 
 [^scroll]: Beale, s. 530–532. Bauckham iki tomarın aynı olduğunu savunur (*Climax*, s. 243–257).
+
+[^thunders]: Bauckham, *Climax*, s. 7, 31: yedi gök gürlemesi "iptal edilmiş bir yargı dizisidir" ve bu iptal olmasaydı dört yedili dizi olurdu — "bütün dünya üzerine tam bir yargı kümesi". Beale, s. 531: mühürlenme "Tanrı'nın tövbe için bir strateji olarak artık uyarı yargıları kullanmayacağını gösterir".
+
+[^mystery]: Bauckham, *Climax*, s. 261–263 ve *Theology*, s. 84: 10:7'deki sır, Tanrı'nın amacının kilisenin tanıklığı aracılığıyla hedefine ulaşmasıdır. Beale, s. 541, bunu kutsalların acı çekmesi gerektiğine dair Tanrı buyruğu olarak okur; bu da onlara zulmedenlerin yargılanmasına götürür — aynı hareket, öbür taraftan görülmüş hali.

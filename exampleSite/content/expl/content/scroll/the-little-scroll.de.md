@@ -16,8 +16,10 @@ deeper:
 sources: 
     - pages: 520–555
       ref: beale_rev
-    - pages: 243–257
+    - pages: 7, 31, 243–257, 261–263
       ref: bauckham_climax
+    - pages: 84
+      ref: bauckham_rev
 ---
 
 Kapitel 10 dreht sich um ein kleines Büchlein, das Johannes essen soll, und um das Geheimnis der sieben Donner, die in dem Moment versiegelt werden, in dem sie sprechen. Was bedeuten diese beiden seltsamen Details?
@@ -40,7 +42,9 @@ Die Verbindung zwischen beiden ist eine Frage des Ausmaßes: Jesus hat Satan am 
 
 Der Engel macht deutlich, dass die Gemeinde bei dieser Aufgabe nichts zu befürchten hat, indem er einen Fuß auf das Meer und einen auf das Land setzt – genau den Boden, aus dem in Kapitel 13 die beiden Tiere hervorgehen werden. Über beiden zu stehen bedeutet, Autorität über beide zu beanspruchen.
 
-Dann kommen die sieben Donner. Was auch immer sie sagen, es bleibt gerade deshalb reizvoll, weil wir es nie erfahren: Johannes wird befohlen, ihre Worte zu versiegeln, statt sie aufzuschreiben. Anders als Daniel, dem befohlen wurde, seine Schriftrolle bis „zur Zeit des Endes" zu versiegeln (Dan 12,4.9), wird Johannes später gesagt, er solle den Rest seiner Prophetie gerade nicht versiegeln, weil die Zeit nahe ist (Offb 22,10) – außer hier. Die sieben Donner sind das einzige, was für immer versiegelt bleibt, ohne jede Verheißung einer künftigen Enthüllung.
+Dann kommen die sieben Donner. Was auch immer sie sagen, es bleibt gerade deshalb reizvoll, weil wir es nie erfahren: Johannes wird befohlen, ihre Worte zu versiegeln, statt sie aufzuschreiben. Anders als Daniel, dem befohlen wurde, seine Schriftrolle bis „zur Zeit des Endes" zu versiegeln (Dan 12,4.9), wird Johannes später gesagt, er solle den Rest seiner Prophetie gerade nicht versiegeln, weil die Zeit nahe ist (Offb 22,10) – außer hier. Die sieben Donner sind das einzige, was für immer versiegelt bleibt, ohne jede Verheißung einer künftigen Enthüllung. Was bedeutet dieses Schweigen also? Die Antwort, die die meisten Ausleger geben und der diese Seite folgt: Die Donner sind eine Gerichtsreihe, die abgeblasen wird. Es hätte eine vierte Siebenerreihe geben müssen — ein vollständiges Gericht über die ganze Welt wäre viermal sieben —, und sie wird zurückgenommen, bevor sie beginnt. Beale sagt dasselbe von der anderen Seite: Die Versiegelung bedeutet, dass Gott Warngerichte nicht mehr einsetzt, um Menschen zur Umkehr zu bringen. In beiden Fällen wird hier nicht dem Leser eine Information vorenthalten, sondern der Welt ein Gericht.[^thunders]
+
+Danach kommt der Schwur des Engels, und er enthält die größte Aussage des Kapitels: Wenn die siebte Posaune ertönt, {{% bible val="wird das Geheimnis Gottes vollendet sein, wie er es seinen Knechten, den Propheten, angekündigt hat" link="rev:10,7" lang="de" %}}. Ein Geheimnis ist in diesem Buch kein Rätsel, sondern etwas, das Gott zurückgehalten hat und nun herausgibt. Was hier herauskommt, ist, wie das Reich tatsächlich ankommt: nicht dadurch, dass die Gemeinde verschont wird, sondern durch das Zeugnis, das sie trägt, und durch den Preis dieses Zeugnisses. Darum wechselt das Büchlein in diesem Kapitel den Besitzer, und darum folgen im nächsten die beiden Zeugen.[^mystery]
 
 ## Das Essen des Büchleins
 
@@ -54,3 +58,7 @@ Was also ist dieses Büchlein am Ende? {{% bible val="Nachdem Johannes das Büch
 [^angel]: Beale, S. 522. Andere sehen in ihm einen erhabenen Engel, weil er bei Gott und nicht bei sich selbst schwört (10,6, in Anlehnung an Daniel 12,7).
 
 [^scroll]: Beale, S. 530–532. Bauckham hält die beiden Schriftrollen für dieselbe (*Climax*, S. 243–257).
+
+[^thunders]: Bauckham, *Climax*, S. 7, 31: Die sieben Donner sind „eine abgebrochene Reihe von Gerichten“, und ohne diesen Abbruch hätte es vier Siebenerreihen gegeben — „ein vollständiges Gericht über die ganze Welt“. Beale, S. 531: Die Versiegelung „zeigt an, dass Gott Warngerichte nicht mehr als Strategie zur Umkehr einsetzt“.
+
+[^mystery]: Bauckham, *Climax*, S. 261–263, und *Theology*, S. 84: Das Geheimnis von 10,7 ist Gottes Absicht, die durch das Zeugnis der Gemeinde ihr Ziel erreicht. Beale, S. 541, liest es als Gottes Beschluss, dass die Heiligen leiden müssen, was zum Gericht über ihre Verfolger führt — dieselbe Bewegung von der anderen Seite gesehen.

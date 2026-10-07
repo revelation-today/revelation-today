@@ -164,7 +164,7 @@ These parallels give the Church a vision of their own spiritual reality, and a m
 </tbody>
 </table>
 
-Although the parallels are extensive, you can easily see that the order of events differs between the two passages. (The saints' shared reign, promised here already, is often connected to the thousand-year reign of Revelation 20 — how the two relate is a separate, debated question; see {{% int_link val="premillennialism, postmillennialism, and amillennialism compared" link="/expl/content/1000y/pre-post-and-amillennialism" %}}.)
+Although the parallels are extensive, the order is not the same. In Daniel the court sits, the books are opened and judgment is given, and only then does the one like a son of man approach to receive the kingdom. In Revelation it is the other way round: the Lamb comes to the throne and takes the scroll first, and the judgments follow from his opening of it. (The saints' shared reign, promised here already, is often connected to the thousand-year reign of Revelation 20 — how the two relate is a separate, debated question; see {{% int_link val="premillennialism, postmillennialism, and amillennialism compared" link="/expl/content/1000y/pre-post-and-amillennialism" %}}.)
 
 This scene also recalls the image of the angelic council, as in
 
@@ -193,16 +193,16 @@ For all of them, worship is the answer:
 <a name="2a89"></a>
 John's first impression is the glory of God — so potent that it's impossible to see God directly. {{% bible val="When Moses asked to see God's glory, he could not — but God let his goodness pass by and proclaimed his name: merciful and gracious, yet one who will not leave the guilty unpunished. God's glory holds mercy and justice together" link="exo:34,5-7" lang="en" %}}. So we should read the judgments that follow from the viewpoint of this same glory: real mercy, held together with real justice.
 
-The second detail worth noting is the {{% bible val="rainbow" link="rev:4,3" lang="en" %}}. {{% bible val="This is a reminder of the covenant with Noah: God promises never again to destroy all life by flood, sealed with the rainbow — following his earlier pledge that seedtime and harvest, cold and heat, would never cease. There are no demands placed on Noah in the flood covenant itself" link="gen:9,8-11" lang="en" %}}. This detail casts its own light on the nature of the plagues that come out of the throne room: there are judgments, but they are limited.
+The second detail worth noting is the {{% bible val="rainbow" link="rev:4,3" lang="en" %}}. It recalls the covenant with Noah: God promises never again to destroy all life by flood and seals the promise with the bow in the cloud. Commands are given to Noah in that chapter — be fruitful, and do not shed blood ({{% bible val="Genesis 9:1–7" link="gen:9,1-7" lang="en" %}}) — but {{% bible val="the covenant itself" link="gen:9,8-17" lang="en" %}} asks nothing in return: God binds himself, and no one else. That is why the bow belongs over this throne. The plagues that come out of the throne room are real, and they are bounded by a promise God made about himself: never everything, never the end of life on earth.
 
 The last detail is the {{% bible val="sea of glass" link="rev:4,6" lang="en" %}}, which carries three associations:
 - {{% bible val="God's glory in heaven" link="ezk:1,22" lang="en" %}} and {{% bible val="on earth during the Exodus" link="exo:24,10" lang="en" %}},
 - {{% bible val="Israel's crossing of the Red Sea during the Exodus" link="exo:15,8" lang="en" %}},
 - the bronze sea in Solomon's temple ({{% bible val="its construction" link="1ki:7,23-26" lang="en" %}}).
 
-The sea is also the {{% bible val="place of evil" link="psa:74,10-17" lang="en" %}} and is linked with {{% bible val="evil people" link="isa:57,20" lang="en" %}} — so the sea of glass is a picture of congealed evil.
+The sea is also the {{% bible val="place of evil" link="psa:74,10-17" lang="en" %}} and is linked with {{% bible val="evil people" link="isa:57,20" lang="en" %}} — so a sea turned to glass is evil held still. That is the step the picture makes: in front of God's throne the chaotic sea is not raging but set solid.[^sea]
 
-Taken together, the sea of glass signals that God is close to his people and protects them. The saints will still be present during the plagues, but God will be with them and shield them through it.
+Taken together, the sea of glass signals that God is close to his people and protects them. The saints will still be present during the plagues, but God will be with them and shield them through it — and when they are seen standing at this same sea again, in {{% bible val="15:2–4" link="rev:15,2-4" lang="en" %}}, they are the ones who have conquered the beast.
 
 That's the theme running through this whole scene: every series of plagues, every announcement, originates in the throne room. This is the central place in the book, which is why it matters so much to understand it.
 
@@ -226,3 +226,4 @@ But Ezekiel's own parallel vision explicitly names this class of being as cherub
 They are joined by the {{% bible val="24 elders" link="rev:4,4" lang="en" %}}, echoing the {{% bible val="24 divisions of priests" link="1ch:24,3-19" lang="en" %}}, the {{% bible val="24 Levitical gatekeepers" link="1ch:26,17-19" lang="en" %}}, and the {{% bible val="24 permanent worshipers" link="1ch:25" lang="en" %}} that David established — but also evoking the 12 tribes of Israel and the 12 apostles as the foundation of the Church. They are probably angels who represent the whole people of God, both together.[^elders] Israel and the Church, in other words, should be seen as one entity despite all their conflicts. The Church, at its core, is defined as a church of worship.
 
 [^elders]: Beale, pp. 322, 324. Bauckham takes them as the angelic council around God's throne (*Theology*, p. 34).
+[^sea]: Beale, pp. 327–328. The sea of glass may be the laver of the heavenly temple, God's holy separateness, or the heavenly counterpart of the Red Sea — "these are not incompatible options" — and there is "a hint that John sees the chaotic powers of the sea as calmed by divine sovereignty", stilled by Christ's death and resurrection. For "congealed", compare the rabbinic comment on Genesis 1:8 that heaven "was liquid and on the second day it congealed" (same page).

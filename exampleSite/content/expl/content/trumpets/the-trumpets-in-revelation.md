@@ -48,7 +48,7 @@ Look closely at the order of events. In verse 2, the angels already hold their t
 
 Sit with that for a moment: it's our prayers that set the trumpets blowing.
 
-That leaves two hard questions the text doesn't resolve for you. First, if the prayers of the saints carry enough weight to trigger something on this scale — weight the text puts alongside the cross and God's own justice in the arrival of his kingdom — that should change how seriously you take your own praying. Second, and harder to sit with: do you actually want your prayers answered the way they're answered here?
+That leaves two hard questions the text doesn't resolve for you. First, look at the company this chapter puts prayer in. The kingdom comes because of what the Lamb did on the cross, and because God is just — and here, because the saints prayed. If prayer carries that kind of weight, it should change how seriously you take your own. Second, and harder to sit with: do you actually want your prayers answered the way they're answered here?
 
 ## Why the plagues of Egypt?
 

@@ -181,7 +181,7 @@ Yine de "kirli suyla birlikte bebeği de atmamalıyız". Bütün bunları okuduk
 ## Şeytanın tanımı
 
 <a name="a7a0"></a>
-Tanrı'nın kendisi üç olduğu için Şeytan da her zaman bir üçlü biçiminde ortaya çıkar.
+Şeytan hep taklit bir üçlü olarak ortaya çıkar, çünkü onun işi taklittir: Tanrı üçtür, dolayısıyla parodisi de üçtür.[^trinity]
 
 İlk kez {{% bible val="Mesih tahta çıktıktan hemen sonra" link="rev:5" lang="tr" %}} görülür; Mesih tomarı açmaya layık bulunan tek kişidir ve Şeytan {{% bible val="dört atlı olarak" link="rev:6,1-8" lang="tr" %}} ortaya çıkar — dördüncüsü diğer üçünü özetler. Buradaki eylemi yalnızca sekiz ayette anlatılır; bu, öncesindeki Tanrı'ya sonsuz tapınmayı betimleyen iki tam bölümle keskin bir tezat oluşturur.
 
@@ -209,7 +209,7 @@ Bu üç görünüm birbiriyle bağlantılıdır; her biri Şeytan'ın faaliyetin
 - ardından şiddet kullanıp savaş getiren gelir,
 - ardından açlık ve kimsenin ödeyemeyeceği fiyatlar getiren gelir.
 
-Dördüncü atlı üçünü birden özetler — aynı üçlü örüntünün bir başka örneği daha.
+Dördüncü atlı, ardında ölüler diyarıyla Ölüm, hiçbir şeyin dördüncü üyesi değildir. O, öbür üçünün toplamıdır.
 
 Son olarak, aynı güçlerin iş başında olduğu fahişenin öyküsü var. İki gözlem bunu gösterir.
 
@@ -238,7 +238,7 @@ Son olarak, aynı güçlerin iş başında olduğu fahişenin öyküsü var. İk
 
 Son satır bir tersine çevirme içerir. İkinci canavar başkalarının alnını işaretler; fahişe ise kendi alnında bir ad taşır; sanki kendisi birinin malıymış ve yargı için işaretlenmiş gibi.[^own]
 
-Peki bu sahnede üçlünün üçüncü üyesi nerede? 13. bölümde ve atlıların betimlenişinde olduğu gibi, o da arka planda kalır — ama onu {{% bible val="altıncı kâsede" link="rev:16,13" lang="tr" %}} ve {{% bible val="20." link="rev:20,10" lang="tr" %}} bölümde görürsünüz.
+Peki bu sahnede ejderha nerede? Üçünden arka planda kalan odur: 13. bölümde ve atlıların betimlenişinde olduğu gibi, o da arka planda kalır — ama onu {{% bible val="altıncı kâsede" link="rev:16,13" lang="tr" %}} ve {{% bible val="20." link="rev:20,10" lang="tr" %}} bölümde görürsünüz.
 
 {{% int_link val="Tarihsel bağlamda da durum aynıydı" link="/expl/content/beasts/666-the-number-of-the-beast" %}}: iki canavarı görürsünüz, ama Şeytan'ı doğrudan görmezsiniz.
 
@@ -258,3 +258,5 @@ Bu karşıtlık, sonunda Babil'in Yeni Yeruşalim'in karanlık karşılığı ol
 [^alike]: Ortak aldatma dili için: Bauckham, *Theology*, s. 91, 124; Beale, s. 262. Aynı kirli ruhlar ikisinde de görülür (16:13–14; 18:2): Beale, s. 894.
 
 [^own]: Bu gözlem sitenin kendisine aittir.
+
+[^trinity]: Beale, s. 729: üç kez altı, Tanrı'nın 777'sinin gerisinde kalır ve böylece Üçlübirliği parodileştirir; s. 1028 "Şeytani üçlü" der. Örüntü bir parodidir, bir öğreti değil: taklidin açıkça görüldüğü yerlere uyar — dört atlı ise dörttür.

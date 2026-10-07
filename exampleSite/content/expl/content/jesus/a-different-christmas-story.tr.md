@@ -79,7 +79,7 @@ Peki Vahiy 12/1-5'in hikâyesi nedir? İsrail'e, yani kadına, Mesih'i, yani ço
 
 İsa işte bu baskının ortasında doğdu ve {{% bible val="Kral Hirodes onu öldürmek üzereyken" link="mat:2" lang="tr" %}} yakın bir tehlikeden kurtarıldı. İsa hizmetine başladığında {{% bible val="şeytan onu ayartmaya çalıştı" link="mat:4,1-11" lang="tr" %}} — bu girişim de başarısız oldu. İsa, her türlü karşı koymaya rağmen, hatta çarmıhta ölse bile başarılı olur ve sonunda ölümden diriltilip göğe yükseltilir (Vahiy 12/5, İsa'nın doğumu ile göğe yükselişi arasındaki her şeyi atlayıp doğrudan geçer).
 
-Bu, Yeni Antlaşma'dan zaten bildiğimiz Noel hikâyesidir ve duygu doludur: kadının çaresizliğiyle iç içe geçen görkemi, çocuğu için duyduğu korku, ejderhanın öfkesi ve kararlılığı ve sonunda ejderhanın şaşırtıcı biçimde yenilgiye uğraması.
+Bu, Yeni Antlaşma'dan zaten bildiğimiz Noel hikâyesidir ve duygu doludur: kadının çaresizliğiyle iç içe geçen görkemi, çocuğu için duyduğu korku, ejderhanın öfkesi ve kararlılığı ve ardından çocuğun onun erişiminin dışına çıkarılması. Ejderha bu ayetlerde yenilmez. Bu, birkaç ayet sonra olur — ve gökte olur.
 
 ## Bölümün devamı
 

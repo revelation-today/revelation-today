@@ -164,7 +164,7 @@ Bu paralellikler kiliseye kendi ruhsal gerçekliğine dair bir görüm ve Mesih'
 </tbody>
 </table>
 
-Paralellikler çok kapsamlı olsa da, iki pasaj arasında olayların sırasının farklı olduğunu kolayca görebilirsiniz. (Burada zaten vaat edilen kutsalların ortak egemenliği, genellikle Vahiy 20'deki bin yıllık egemenlikle ilişkilendirilir - ikisinin nasıl ilişkili olduğu ayrı, tartışmalı bir sorudur; bkz. {{% int_link val="premilenyalizm, postmilenyalizm ve amilenyalizm karşılaştırması" link="/expl/content/1000y/pre-post-and-amillennialism" %}}.)
+Paralellikler çok kapsamlı olsa da sıra aynı değildir. Daniel'de mahkeme kurulur, kitaplar açılır, hüküm verilir ve ancak ondan sonra İnsanoğlu'na benzer biri krallığı almak üzere yaklaşır. Vahiy'de tersidir: Kuzu önce tahta gelip tomarı alır, yargılar da onu açmasından çıkar. (Burada zaten vaat edilen kutsalların ortak egemenliği, genellikle Vahiy 20'deki bin yıllık egemenlikle ilişkilendirilir - ikisinin nasıl ilişkili olduğu ayrı, tartışmalı bir sorudur; bkz. {{% int_link val="premilenyalizm, postmilenyalizm ve amilenyalizm karşılaştırması" link="/expl/content/1000y/pre-post-and-amillennialism" %}}.)
 
 Bu sahne aynı zamanda melek meclisi imgesini de hatırlatır, örneğin:
 
@@ -193,16 +193,16 @@ Bunların hepsi için cevap ibadettir:
 <a name="54a4"></a>
 Yuhanna'nın ilk izlenimi Tanrı'nın yüceliğidir — o kadar güçlüdür ki Tanrı'yı doğrudan görmek imkânsızdır. {{% bible val="Musa Tanrı'nın yüceliğini görmek istediğinde göremedi — ama Tanrı iyiliğini önünden geçirdi ve adını ilan etti: merhametli ve lütufkâr, ama suçluyu cezasız bırakmayan biri. Tanrı'nın yüceliği merhametle adaleti bir arada tutar" link="exo:34,5-7" lang="tr" %}}. Bu yüzden sonrasında gelen yargıları, bu aynı yücelik açısından okumalıyız: gerçek merhamet, gerçek adaletle bir arada tutulmuş halde.
 
-Dikkat edilmesi gereken ikinci ayrıntı {{% bible val="gökkuşağıdır" link="rev:4,3" lang="tr" %}}. {{% bible val="Bu, Tanrı'nın yeryüzünü bir daha asla tufanla kaplamayacağına ve mevsimleri koruyacağına dair verdiği söz olarak gökkuşağını yarattığı Nuh'la yapılan antlaşmanın bir hatırlatıcısıdır. Bu antlaşmada Nuh'tan hiçbir talep yoktur" link="gen:9,8-11" lang="tr" %}}. Bu ayrıntı, taht odasından çıkan belaların doğasına kendi ışığını tutar: yargılar vardır, ama sınırlıdırlar.
+Dikkat edilmesi gereken ikinci ayrıntı {{% bible val="gökkuşağıdır" link="rev:4,3" lang="tr" %}}. Nuh'la yapılan antlaşmayı hatırlatır: Tanrı, bütün yaşamı bir daha tufanla yok etmeyeceğine söz verir ve bu sözü buluttaki yayla mühürler. O bölümde Nuh'a buyruklar da verilir — verimli olun, kan dökmeyin ({{% bible val="Yaratılış 9:1-7" link="gen:9,1-7" lang="tr" %}}) — ama {{% bible val="antlaşmanın kendisi" link="gen:9,8-17" lang="tr" %}} karşılığında hiçbir şey istemez: Tanrı kendini bağlar, başka kimseyi değil. Yayın bu tahtin üzerinde durmasının nedeni budur. Taht odasından çıkan belalar gerçektir ve Tanrı'nın kendisi hakkında verdiği bir sözle sınırlanmıştır: asla her şey değil, asla yeryüzündeki yaşamın sonu değil.
 
 Son ayrıntı ise üç çağrışımı olan {{% bible val="camdan denizdir" link="rev:4,6" lang="tr" %}}:
 - {{% bible val="gökteki Tanrı'nın yüceliği" link="ezk:1,22" lang="tr" %}} ve {{% bible val="Mısır'dan Çıkış sırasında yeryüzündeki yüceliği" link="exo:24,10" lang="tr" %}},
 - {{% bible val="İsrail'in Mısır'dan Çıkış sırasında Kızıldeniz'i geçişi" link="exo:15,8" lang="tr" %}},
 - Süleyman'ın tapınağındaki tunç deniz ({{% bible val="yapımı" link="1ki:7,23-26" lang="tr" %}}).
 
-Deniz aynı zamanda {{% bible val="kötülüğün yeridir" link="psa:74,10-17" lang="tr" %}} ve {{% bible val="kötü insanlarla" link="isa:57,20" lang="tr" %}} ilişkilendirilir — dolayısıyla camdan deniz, katılaşmış kötülüğün bir tasviridir.
+Deniz aynı zamanda {{% bible val="kötülüğün yeridir" link="psa:74,10-17" lang="tr" %}} ve {{% bible val="kötü insanlarla" link="isa:57,20" lang="tr" %}} ilişkilendirilir — dolayısıyla cama dönmüş bir deniz, dize getirilmiş kötülüktür. Tasvirin attığı adım budur: Tanrı'nın tahtının önünde kaotik deniz coşmaz, katılaşmıştır.[^sea]
 
-Bir araya getirildiğinde, camdan deniz Tanrı'nın halkına yakın olduğunu ve onları koruduğunu gösterir. Kutsallar belalar sırasında hâlâ orada olacaklar, ama Tanrı onlarla birlikte olacak ve onları bu süreçte koruyacaktır.
+Bir araya getirildiğinde, camdan deniz Tanrı'nın halkına yakın olduğunu ve onları koruduğunu gösterir. Kutsallar belalar sırasında hâlâ orada olacaklar, ama Tanrı onlarla birlikte olacak ve onları bu süreçte koruyacaktır — ve aynı denizin kıyısında yeniden görüldüklerinde, {{% bible val="15:2-4" link="rev:15,2-4" lang="tr" %}}, canavarı yenmiş olanlar onlardır.
 
 İşte bu sahne boyunca işleyen tema budur: her bela dizisi, her duyuru, taht odasında başlar. Burası kitaptaki merkezi yerdir, bu yüzden burayı anlamak bu kadar önemlidir.
 
@@ -227,3 +227,4 @@ Ancak Hezekiel'in kendi paralel görümü bu yaratık sınıfını açıkça ker
 Onlara, Davut'un kurduğu {{% bible val="24 kâhin bölümünü" link="1ch:24,3-19" lang="tr" %}}, {{% bible val="24 Levili kapı bekçisini" link="1ch:26,17-19" lang="tr" %}} ve {{% bible val="24 daimi tapınmacıyı" link="1ch:25" lang="tr" %}} yankılayan, ama aynı zamanda İsrail'in 12 oymağını ve Kilise'nin temeli olan 12 havariyi de çağrıştıran {{% bible val="24 ihtiyar" link="rev:4,4" lang="tr" %}} katılır. Büyük olasılıkla onlar, Tanrı'nın bütün halkını, İsrail'i ve Kilise'yi birlikte temsil eden meleklerdir.[^elders] Bir başka deyişle, İsrail ve Kilise, tüm çatışmalarına rağmen tek bir bütün olarak görülmelidir. Kilise, özünde, bir ibadet kilisesi olarak tanımlanır.
 
 [^elders]: Beale, s. 322, 324. Bauckham onları Tanrı'nın tahtı çevresindeki melekler meclisi olarak görür (*Theology*, s. 34).
+[^sea]: Beale, s. 327–328. Camdan deniz, göksel tapınağın yıkama kazanı, Tanrı'nın kutsal ayrılığı ya da Kızıldeniz'in göksel karşılığı olabilir — "bunlar birbiriyle bağdaşmaz seçenekler değildir" — ve "Yuhanna'nın denizin kaotik güçlerini ilahi egemenlikle sakinleştirilmiş olarak gördüğüne dair bir ima" vardır; bu sakinliği sağlayan Mesih'in ölümü ve dirilişidir. "Katılaşmış" için, Yaratılış 1:8 üzerine, göğün "sıvı olduğu ve ikinci gün katılaştığı" yorumuna bakın (aynı sayfa).

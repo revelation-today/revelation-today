@@ -73,7 +73,7 @@ So what is the story of Rev 12:1–5? Israel, the woman, was promised to give bi
 
 It was into this pressure that Jesus was born, and he was rescued from imminent danger when {{% bible val="king Herod was about to kill him" link="mat:2" lang="en" %}}. As Jesus began his ministry, the {{% bible val="devil tried to tempt him" link="mat:4,1-11" lang="en" %}} — and that attempt failed too. Jesus succeeds in spite of opposition of every kind, even dying on the cross, and is finally raised from death and ascended to heaven (Rev 12:5 skips straight over everything between Jesus' birth and his ascension).
 
-This is the Christmas story we already know from the New Testament, and it's a story full of emotion: the glory of the woman alongside her helplessness, the fear for her child, the anger of the dragon and his determination, and the surprising conquest of the dragon in the end.
+This is the Christmas story we already know from the New Testament, and it's a story full of emotion: the glory of the woman alongside her helplessness, the fear for her child, the anger of the dragon and his determination, and then the child simply lifted out of his reach. The dragon is not beaten in these verses. That comes a few verses further on, and it happens in heaven.
 
 ## The rest of the chapter
 

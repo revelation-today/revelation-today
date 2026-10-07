@@ -63,6 +63,8 @@ Bu okuma, {{% int_link val="İsa'nın birinci ve ikinci gelişi arasındaki tüm
 
 Yine de tanıkları belirli figürlerle ilişkilendirmenin birçok yolu vardır ve en iyi eşleşme Musa ile İlyas'tır: mucizeleri yakından örtüşür. {{% bible val="Düşmanlarının üzerine gökten ateş yağdırmak" link="rev:11,5" lang="tr" %}} tam olarak {{% bible val="gökten ateş yağdıran İlyas'a" link="2ki:1,9-12" lang="tr" %}} özgüdür; {{% bible val="yağmuru durdurmak" link="rev:11,6" lang="tr" %}} da öyle, çünkü bu {{% bible val="İlyas'ın hizmetini yansıtır" link="jas:5,17" lang="tr" %}}; {{% bible val="suyu kana çevirmek" link="rev:11,6" lang="tr" %}} ise {{% bible val="Musa döneminde gerçekleşen ilk vebayı" link="exo:7,14-24" lang="tr" %}} yansıtır.
 
+Bu eşleştirmenin bilinmeye değer bir geçmişi var. Musa ile İlyas'ın birlikte geri döneceğine dair bir Yahudi beklentisinin kanıtı yoktur. Kaynakların yer yer gösterdiği şey, **Hanok** ile İlyas'ın Deccal'in aldatmacalarını açığa çıkarmak üzere geri döneceği beklentisidir — Kutsal Kitap'ta ölmeyen iki adam: {{% bible val="Hanok Tanrı tarafından alındı" link="gen:5,24" lang="tr" %}} ve {{% bible val="İlyas kasırgayla yükseldi" link="2ki:2,11" lang="tr" %}}. Bu ikisinin dönüp vaaz ettiği ve öldürüldüğü daha sonraki anlatıların hepsi, Vahiy 11'in arkasında durmak yerine onun etkisini taşır. Dolayısıyla Musa ve İlyas eşleşmesi, Yuhanna'nın devraldığı bir geleneğe değil, metindeki mucizelere dayanır.[^tradition]
+
 Ancak dikkat edin: iki tanık, yan yana çalışan bir Musa ve bir İlyas olarak değil, tek bir varlık gibi hareket eden iki figür olarak betimlenir. Peki birlikte hangi tek gerçekliği yansıtıyorlar? Kiliseyi -çünkü tarif edilen kadar uzun bir ömre sahip olan tek şey kilisedir. Bu eşleşme birkaç şekilde okunabilir. Bir seçenek şudur:
 
 - Musa, Mısır'a ve Firavun'a tanıklık ederek dünyaya bir tanık olur, ve
@@ -71,7 +73,7 @@ Ancak dikkat edin: iki tanık, yan yana çalışan bir Musa ve bir İlyas olarak
 Başka bir seçenek ise şudur:
 
 - Musa, Eski Antlaşma altında İsrail'e tanıklık eder, ve
-- {{% bible val="Yahya olarak yeniden gelen" link="mat:11,13-14" lang="tr" %}} İlyas, Eski Antlaşma yerine geldikten sonra kiliseye tanıklık eder.
+- İlyas — İsa'nın, {{% bible val="Vaftizci Yahya" link="mat:11,13-14" lang="tr" %}} olarak zaten geldiğini söylediği peygamber — iki antlaşmanın ekleminde durur: peygamberlerin son halkası, yeniyi başlatana işaret eder.
 
 Her iki durumda da anlam aynıdır: ister dışarıdan ister içeriden bakılsın, ister İsrail ister kilisenin şimdi oluşturduğu genişletilmiş İsrail olarak adlandırılsın, söz konusu olan tek bir kilisedir.
 
@@ -137,3 +139,5 @@ Her ikisi de kendi yollarınca {{% bible val="üstün gelen İsa'yı" link="rev:
 Öyleyse bir imanlı olarak kendi yaşamınıza baktığınızda, hangi kategoriye giriyorsunuz? Canavarlara mı, yoksa tanıklara mı daha çok benziyorsunuz -ve tanıklar gibi olmak gerçekte ne anlama gelir, ya da neye mal olur?
 
 [^convert]: Bauckham, *Climax*, s. 282–283 ve *Theology*, s. 87. Beale bu ayeti, kurtarıcı iman olmaksızın Tanrı'nın gücünün kabulü olarak okur (s. 603–604).
+
+[^tradition]: Bauckham, *Climax*, s. 276: "İlyas ile Musa'nın birlikte dönüşüne dair bir geleneğin kanıtı yoktur", oysa Hanok ile İlyas'ın "son günlerde Deccal'in aldatmacalarını açığa çıkaracak peygamberler olarak dönüşü zaman zaman beklenmiştir"; daha sonraki şehitlik anlatıları "hepsi Vahiy 11:3-13'ün etkisini gösterir". İbraniler 9:27, herkesin bir kez ölmesinin kararlaştırılmış olduğu, zaman zaman Hanok'a karşı öne sürülür, ama bu bir gelenekten değil, genel bir kuraldan çıkarılan bir savdır.

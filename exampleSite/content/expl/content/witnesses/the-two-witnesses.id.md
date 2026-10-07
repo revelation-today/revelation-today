@@ -63,6 +63,8 @@ Pembacaan ini semakin dikuatkan oleh {{% bible val="3,5 tahun" link="rev:11,3" l
 
 Meski begitu, ada banyak cara untuk mengaitkan kedua saksi ini dengan tokoh-tokoh tertentu, dan yang paling cocok adalah Musa dan Elia: mukjizat mereka sangat sesuai. {{% bible val="Menurunkan api dari langit atas musuh-musuh mereka" link="rev:11,5" lang="ind" %}} sangat khas {{% bible val="Elia yang menurunkan api dari langit" link="2ki:1,9-12" lang="ind" %}}, begitu pula {{% bible val="menghentikan hujan" link="rev:11,6" lang="ind" %}}, yang {{% bible val="mencerminkan pelayanan Elia" link="jas:5,17" lang="ind" %}}, sementara mengubah {{% bible val="air menjadi darah" link="rev:11,6" lang="ind" %}} mencerminkan {{% bible val="tulah pertama pada zaman Musa" link="exo:7,14-24" lang="ind" %}}.
 
+Pasangan ini memiliki latar belakang yang layak diketahui. Tidak ada bukti adanya harapan Yahudi bahwa Musa dan Elia akan datang kembali bersama-sama. Yang memang ditunjukkan sumber-sumber itu, di sini dan di sana, adalah harapan bahwa **Henokh** dan Elia akan datang kembali untuk menyingkapkan tipu daya Antikristus - dua orang yang, dalam Alkitab, tidak mati: {{% bible val="Henokh diangkat oleh Allah" link="gen:5,24" lang="ind" %}}, dan {{% bible val="Elia naik dalam angin badai" link="2ki:2,11" lang="ind" %}}. Kisah-kisah yang lebih kemudian, di mana keduanya kembali, berkhotbah dan dibunuh, semuanya menunjukkan pengaruh Wahyu 11, bukan melatarbelakanginya. Jadi kecocokan dengan Musa dan Elia bersandar pada mukjizat-mukjizat dalam teks itu, bukan pada tradisi yang diwarisi Yohanes.[^tradition]
+
 Namun perhatikan bahwa kedua saksi ini tidak digambarkan sebagai seorang Musa dan seorang Elia yang bekerja berdampingan, melainkan sebagai dua sosok yang bertindak sebagai satu pribadi. Jadi, realitas tunggal apa yang mereka wakili bersama-sama? Jemaat — sebab hanya jemaatlah yang membentang sepanjang masa hidup selama itu. Pasangan ini dapat dipahami dengan beberapa cara. Salah satu kemungkinannya adalah:
 
 - Musa, yang bersaksi kepada Mesir dan Firaun, sebagai saksi bagi dunia, dan
@@ -71,7 +73,7 @@ Namun perhatikan bahwa kedua saksi ini tidak digambarkan sebagai seorang Musa da
 Kemungkinan lainnya adalah:
 
 - Musa bersaksi kepada Israel di bawah Perjanjian Lama, dan
-- Elia — {{% bible val="yang datang kembali sebagai Yohanes" link="mat:11,13-14" lang="ind" %}} — bersaksi kepada jemaat setelah Perjanjian Lama digenapi.
+- Elia — nabi yang menurut Yesus sudah datang, dalam diri {{% bible val="Yohanes Pembaptis" link="mat:11,13-14" lang="ind" %}} — berdiri pada sambungan antara kedua perjanjian: nabi yang terakhir, yang menunjuk ke depan kepada Dia yang memulai yang baru.
 
 Bagaimanapun caranya, intinya tetap sama: yang dimaksud adalah satu jemaat, baik dilihat dari luar maupun dari dalam, entah disebut sebagai Israel atau sebagai Israel yang diperluas, yaitu jemaat yang sekarang ini.
 
@@ -136,3 +138,5 @@ Keduanya, dengan caranya masing-masing, berusaha mencerminkan {{% bible val="Yes
 Jadi, ketika Anda memandang hidup Anda sendiri sebagai orang percaya, Anda termasuk kategori yang mana? Apakah Anda lebih mirip binatang itu, atau lebih mirip kedua saksi itu — dan apa sebenarnya arti, atau harga, untuk menjadi seperti kedua saksi itu?
 
 [^convert]: Bauckham, *Climax*, hlm. 282–283, dan *Theology*, hlm. 87. Beale membaca ayat ini sebagai pengakuan atas kuasa Allah tanpa iman yang menyelamatkan (hlm. 603–604).
+
+[^tradition]: Bauckham, *Climax*, hlm. 276: "tidak ada bukti adanya tradisi tentang kembalinya Elia dan Musa bersama-sama", sementara kembalinya Henokh dan Elia "sebagai nabi-nabi yang akan menyingkapkan tipu daya Antikristus pada hari-hari terakhir, kadang-kadang diharapkan"; kisah-kisah kemartiran yang lebih kemudian "semuanya menunjukkan pengaruh Wahyu 11:3-13". Ibrani 9:27, bahwa manusia ditetapkan mati satu kali saja, kadang dipakai untuk menolak Henokh, tetapi itu adalah argumen dari sebuah aturan umum, bukan dari sebuah tradisi.

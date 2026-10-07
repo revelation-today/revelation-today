@@ -84,7 +84,7 @@ Jadi, apa sebenarnya kisah dari Wahyu 12/1–5 ini? Israel, sang perempuan, dija
 
 Ke dalam tekanan seperti itulah Yesus dilahirkan, dan Ia diselamatkan dari bahaya yang mengancam secara langsung ketika {{% bible val="raja Herodes hendak membunuh-Nya" link="mat:2" lang="ind" %}}. Ketika Yesus memulai pelayanan-Nya, {{% bible val="Iblis mencoba mencobai-Nya" link="mat:4,1-11" lang="ind" %}} — dan usaha itu pun gagal. Yesus berhasil mengatasi segala macam perlawanan, bahkan sampai mati di kayu salib, dan akhirnya dibangkitkan dari kematian dan naik ke surga (Wahyu 12/5 langsung melompati segala sesuatu antara kelahiran Yesus dan kenaikan-Nya).
 
-Inilah kisah Natal yang sudah kita kenal dari Perjanjian Baru, dan ini adalah kisah yang penuh emosi: kemuliaan sang perempuan berdampingan dengan ketidakberdayaannya, kekhawatiran akan keselamatan anaknya, murka sang naga dan kegigihannya, serta kemenangan yang mengejutkan atas sang naga pada akhirnya.
+Inilah kisah Natal yang sudah kita kenal dari Perjanjian Baru, dan ini adalah kisah yang penuh emosi: kemuliaan sang perempuan berdampingan dengan ketidakberdayaannya, kekhawatiran akan keselamatan anaknya, murka sang naga dan kegigihannya, lalu sang anak yang begitu saja diangkat ke luar jangkauannya. Sang naga tidak dikalahkan dalam ayat-ayat ini. Hal itu terjadi beberapa ayat kemudian - dan terjadinya di surga.
 
 ## Lanjutan pasal ini
 

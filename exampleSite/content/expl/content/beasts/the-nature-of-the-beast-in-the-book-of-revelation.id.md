@@ -177,7 +177,7 @@ Iblis digambarkan agresif, yang sulit dihadapi sebagai orang percaya — tetapi 
 ## Penggambaran Iblis
 
 <a name="7b88"></a>
-Iblis selalu muncul dalam bentuk sebuah trinitas, karena Allah sendiri adalah Allah Tritunggal.
+Iblis muncul berulang kali sebagai trinitas tiruan, sebab meniru itulah pekerjaannya: Allah adalah tiga, jadi parodinya pun tiga.[^trinity]
 
 Kemunculan pertamanya tepat {{% bible val="setelah penobatan Kristus" link="rev:5" lang="ind" %}}, ketika hanya Dialah yang layak membuka gulungan kitab itu, dan Iblis muncul {{% bible val="sebagai empat penunggang kuda" link="rev:6,1-8" lang="ind" %}} — yang keempat merupakan ringkasan dari ketiga sebelumnya. Tindakannya di sini digambarkan hanya dalam delapan ayat, sangat kontras dengan dua pasal penuh penyembahan kekal kepada Allah yang mendahuluinya.
 
@@ -205,7 +205,7 @@ Jika kita memperhatikan {{% int_link val="keempat penunggang kuda, kita menemuka
 - diikuti oleh yang memakai kekerasan dan membawa peperangan,
 - diikuti oleh yang membawa kelaparan dan harga yang tak terjangkau.
 
-Penunggang kuda keempat meringkas ketiganya — sebuah contoh lain dari pola trinitas yang sama.
+Penunggang kuda keempat, yaitu Maut dengan Alam Maut di belakangnya, bukanlah anggota keempat dari apa pun. Dialah hasil penjumlahan ketiga yang lain.
 
 Terakhir, ada kisah sang perempuan sundal, di mana kuasa-kuasa yang sama sedang bekerja. Dua pengamatan menunjukkannya.
 
@@ -234,7 +234,7 @@ Kedua, sang perempuan sundal bekerja berdampingan dengan binatang kedua. Ia buka
 
 Baris terakhir memuat sebuah pembalikan. Binatang kedua menandai dahi orang lain; sang perempuan sundal membawa sebuah nama pada dahinya sendiri, seolah-olah ia sendiri dimiliki dan ditandai untuk penghakiman.[^own]
 
-Jadi di manakah anggota ketiga dari trinitas ini dalam adegan ini? Ia tetap berada di latar belakang, sama seperti dalam pasal 13 dan dalam penggambaran para penunggang kuda — tetapi engkau melihatnya dalam {{% bible val="cawan keenam" link="rev:16,13" lang="ind" %}} dan dalam pasal {{% bible val="20" link="rev:20,10" lang="ind" %}}.
+Jadi di manakah sang naga dalam adegan ini? Dialah yang di antara ketiganya tetap berada di latar belakang di sini, sama seperti dalam pasal 13 dan dalam penggambaran para penunggang kuda — tetapi engkau melihatnya dalam {{% bible val="cawan keenam" link="rev:16,13" lang="ind" %}} dan dalam pasal {{% bible val="20" link="rev:20,10" lang="ind" %}}.
 
 {{% int_link val="Hal ini juga terlihat dalam konteks historisnya" link="/expl/content/beasts/666-the-number-of-the-beast" %}}: engkau melihat kedua binatang itu, tetapi tidak Iblis secara langsung.
 
@@ -254,3 +254,5 @@ Kontras ini akhirnya terungkap sepenuhnya dalam penglihatan terakhir, ketika Bab
 [^alike]: Tentang bahasa penyesatan yang sama: Bauckham, *Theology*, hlm. 91, 124; Beale, hlm. 262. Roh-roh najis yang sama muncul pada keduanya (16:13–14; 18:2): Beale, hlm. 894.
 
 [^own]: Pengamatan ini berasal dari situs ini sendiri.
+
+[^trinity]: Beale, hlm. 729: tiga kali enam itu kurang dari 777 milik Allah dan karena itu memparodikan Tritunggal; hlm. 1028 menyebut "trinitas setan". Pola ini adalah sebuah parodi, bukan sebuah doktrin: pola itu cocok di tempat-tempat di mana peniruan itu tersurat - dan keempat penunggang kuda itu berjumlah empat.

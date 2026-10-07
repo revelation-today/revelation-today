@@ -182,7 +182,7 @@ Der Teufel wird als aggressiv beschrieben, was für Gläubige schwer auszuhalten
 ## Die Beschreibung des Teufels
 
 <a name="7b88"></a>
-Der Teufel tritt immer in Gestalt einer Dreifaltigkeit auf, denn auch Gott selbst ist dreieinig.
+Der Teufel tritt immer wieder als nachgemachte Dreiheit auf, denn Nachahmung ist sein Geschäft: Gott ist drei, also ist die Parodie drei.[^trinity]
 
 Das erste Mal geschieht das gleich nach der {{% bible val="Inthronisation Christi" link="rev:5" lang="de" %}}, als er allein für würdig befunden wird, die Schriftrolle zu öffnen — und der Teufel tritt {{% bible val="als vier apokalyptische Reiter" link="rev:6,1-8" lang="de" %}} auf, wobei der vierte die anderen drei zusammenfasst. Sein Auftreten wird hier in gerade einmal acht Versen beschrieben, ein scharfer Kontrast zu den zwei vollen Kapiteln ewiger Anbetung Gottes, die vorausgehen.
 
@@ -210,7 +210,7 @@ Betrachten wir nun {{% int_link val="die vier Reiter, finden wir dasselbe Muster
 - gefolgt von dem, der Gewalt anwendet und Krieg bringt,
 - gefolgt von dem, der Hunger bringt und Preise, die niemand zahlen kann.
 
-Der vierte Reiter fasst alle drei zusammen — ein weiteres Beispiel für dasselbe Dreifaltigkeitsmuster.
+Der vierte Reiter, der Tod mit dem Hades hinter sich, ist kein viertes Mitglied von irgendetwas. Er ist das, was die anderen drei zusammen ergeben.
 
 Schließlich gibt es noch die Geschichte der Hure, in der dieselben Mächte am Werk sind. Zwei Beobachtungen zeigen das.
 
@@ -239,7 +239,7 @@ Zweitens wirkt die Hure Seite an Seite mit dem zweiten Tier. Sie ist nicht das z
 
 Die letzte Zeile enthält eine Umkehrung. Das zweite Tier zeichnet die Stirnen anderer; die Hure trägt einen Namen auf ihrer eigenen, als wäre sie selbst jemandes Eigentum und für das Gericht gezeichnet.[^own]
 
-Wo bleibt also das dritte Mitglied der Dreifaltigkeit in dieser Szene? Er hält sich im Hintergrund, genau wie in Kapitel 13 und bei der Beschreibung der Reiter — aber man sieht ihn bei {{% bible val="der sechsten Schale" link="rev:16,13" lang="de" %}} und in Kapitel {{% bible val="20" link="rev:20,10" lang="de" %}}.
+Wo bleibt also der Drache in dieser Szene? Er ist der von den drei, der sich hier im Hintergrund hält, genau wie in Kapitel 13 und bei der Beschreibung der Reiter — aber man sieht ihn bei {{% bible val="der sechsten Schale" link="rev:16,13" lang="de" %}} und in Kapitel {{% bible val="20" link="rev:20,10" lang="de" %}}.
 
 {{% int_link val="Das war auch im historischen Kontext so" link="/expl/content/beasts/666-the-number-of-the-beast" %}}: Man sieht die beiden Tiere, aber nicht den Teufel direkt.
 
@@ -259,3 +259,5 @@ Dieser Kontrast entfaltet sich schließlich vollständig in der letzten Vision, 
 [^alike]: Zur gemeinsamen Sprache der Verführung: Bauckham, *Theology*, S. 91, 124; Beale, S. 262. Dieselben unreinen Geister begegnen bei beiden (16,13–14; 18,2): Beale, S. 894.
 
 [^own]: Diese Beobachtung stammt von dieser Seite selbst.
+
+[^trinity]: Beale, S. 729: Die dreifache Sechs bleibt hinter der 777 Gottes zurück und parodiert so die Dreieinigkeit; S. 1028 spricht von der „satanischen Dreiheit“. Das Muster ist eine Parodie, keine Lehre: Es passt dort, wo die Nachahmung ausdrücklich ist — und die vier Reiter sind vier.
