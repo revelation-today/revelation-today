@@ -4,7 +4,7 @@ weight: 0
 docType: expl
 ---
 
-68 bible verses have been used in this book.
+73 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -13,6 +13,7 @@ docType: expl
 | {{% bible val="Genesis 2:8-15" link="gen:2,8-15" lang="en" %}} | ["The Core Teaching": giving them a garden to tend](/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#the-core-teaching) |
 | {{% bible val="Genesis 2:9-14" link="gen:2,9-14" lang="en" %}} | ["The new heaven and new earth (Ch. 21-22)": Genesis 2:9-14](/quick/content/paradise) |
 | {{% bible val="Genesis 2:10-12" link="gen:2,10-12" lang="en" %}} | ["Symbols of God's presence": creation story, where the rivers are likewise associated with precious stones](/expl/content/paradise/the-new-jerusalem#38e5) |
+| {{% bible val="Genesis 2:16-17" link="gen:2,16-17" lang="en" %}} | ["The tipping stone": heard the command first-hand](/expl/bible/creation/the-creation#3f85) |
 | {{% bible val="Genesis 3:8" link="gen:3,8" lang="en" %}} | ["The Wrath of the Lamb": the fall of man, when Adam and Eve tried to hide from God after they sinned](/expl/content/seals/the-wrath-of-the-lamb#ddd6) |
 | {{% bible val="Genesis 3:8-9" link="gen:3,8-9" lang="en" %}} | ["The garden of Eden as a place of fellowship with God": meeting with them there regularly](/expl/bible/creation/the-temple-and-the-presence-of-god#the-garden-of-eden-as-a-place-of-fellowship-with-god) |
 | {{% bible val="Genesis 3:8-9" link="gen:3,8-9" lang="en" %}} | ["The Core Teaching": meeting with them there regularly](/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#the-core-teaching) |
@@ -29,8 +30,10 @@ docType: expl
 | {{% bible val="Genesis 4:16-17" link="gen:4,16-17" lang="en" %}} | ["The new heaven and new earth (Ch. 21-22)": Genesis 4:16-17](/quick/content/paradise) |
 | {{% bible val="Genesis 4:22-24" link="gen:4,22-24" lang="en" %}} | ["The garden of Eden as a place of fellowship with God": who mocks the protection God gave Cain](/expl/bible/creation/the-temple-and-the-presence-of-god#the-garden-of-eden-as-a-place-of-fellowship-with-god) |
 | {{% bible val="Genesis 4:25-26" link="gen:4,25-26" lang="en" %}} | ["The garden of Eden as a place of fellowship with God": from that point on, people begin again to call on the name of the Lord](/expl/bible/creation/the-temple-and-the-presence-of-god#the-garden-of-eden-as-a-place-of-fellowship-with-god) |
-| {{% bible val="Genesis 5:24" link="gen:5,24" lang="en" %}} | ["The identity of the two witnesses": Enoch did not experience death but was taken by God](/expl/content/witnesses/the-two-witnesses#3181) |
-| {{% bible val="Genesis 9:8-11" link="gen:9,8-11" lang="en" %}} | ["The throne room": This is a reminder of the covenant with Noah: God promises never again to destroy all life by flood, sealed with the rainbow — following his earlier pledge that seedtime and harvest, cold and heat, would never cease. There are no demands placed on Noah in the flood covenant itself](/expl/content/worship/worship-in-the-throne-room#2a89) |
+| {{% bible val="Genesis 5:24" link="gen:5,24" lang="en" %}} | ["The identity of the two witnesses": Enoch was taken by God](/expl/content/witnesses/the-two-witnesses#3181) |
+| {{% bible val="Genesis 9:1-7" link="gen:9,1-7" lang="en" %}} | ["The throne room": Genesis 9:1–7](/expl/content/worship/worship-in-the-throne-room#2a89) |
+| {{% bible val="Genesis 9:8-17" link="gen:9,8-17" lang="en" %}} | ["The throne room": the covenant itself](/expl/content/worship/worship-in-the-throne-room#2a89) |
+| {{% bible val="Genesis 9:13" link="gen:9,13" lang="en" %}} | ["The mystery of the first horseman": Genesis 9:13](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
 | {{% bible val="Genesis 10" link="gen:10" lang="en" %}} | ["Pouring out of the Spirit": smaller version of the scattered list from the Tower of Babel](/expl/background/israel/the-church-is-part-of-israel#a1c3) |
 | {{% bible val="Genesis 10:8-12" link="gen:10,8-12" lang="en" %}} | ["The garden of Eden as a place of fellowship with God": city remains a significant feature](/expl/bible/creation/the-temple-and-the-presence-of-god#the-garden-of-eden-as-a-place-of-fellowship-with-god) |
 | {{% bible val="Genesis 11:1-9" link="gen:11,1-9" lang="en" %}} | ["The garden of Eden as a place of fellowship with God": the tower of Babel](/expl/bible/creation/the-temple-and-the-presence-of-god#the-garden-of-eden-as-a-place-of-fellowship-with-god) |
@@ -58,11 +61,13 @@ docType: expl
 | {{% bible val="Genesis 17:20-21" link="gen:17,20-21" lang="en" %}} | ["Crux 4: how much of the promise lands inside history?": but my covenant I will establish with Isaac](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Genesis 18:20-33" link="gen:18,20-33" lang="en" %}} | ["Background": God's plan is affected by our prayers](/expl/content/bowls/the-bowls-of-wrath#a84e) |
 | {{% bible val="Genesis 19:30-37" link="gen:19,30-37" lang="en" %}} | ["The well-known story": are descended from Lot](/expl/bible/keyword/the-story-of-balaam#c389) |
+| {{% bible val="Genesis 21:16" link="gen:21,16" lang="en" %}} | ["The mystery of the first horseman": about a bowshot away](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
+| {{% bible val="Genesis 21:20" link="gen:21,20" lang="en" %}} | ["The mystery of the first horseman": Ishmael grows up in the desert to be an archer](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
 | {{% bible val="Genesis 21:22-32" link="gen:21,22-32" lang="en" %}} | ["Historical covenants": Abraham and Abimelech](/expl/background/israel/gods-covenant#0c36) |
 | {{% bible val="Genesis 25:1-2" link="gen:25,1-2" lang="en" %}} | ["The well-known story": Midianites are themselves descendants of Abraham](/expl/bible/keyword/the-story-of-balaam#c389) |
 | {{% bible val="Genesis 25:25-26" link="gen:25,25-26" lang="en" %}} | ["The inheritance": Jacob](/expl/background/israel/the-role-of-family-in-the-bible#4395) |
 | {{% bible val="Genesis 26:12-33" link="gen:26,12-33" lang="en" %}} | ["Historical covenants": Isaac and the Philistines](/expl/background/israel/gods-covenant#0c36) |
-| {{% bible val="Genesis 27" link="gen:27" lang="en" %}} | ["The mystery of the first horseman": story of Jacob's deception of his father, when Esau is sent to hunt with his bow](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
+| {{% bible val="Genesis 27" link="gen:27" lang="en" %}} | ["The mystery of the first horseman": Esau's hunting bow](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
 | {{% bible val="Genesis 31:22-54" link="gen:31,22-54" lang="en" %}} | ["Historical covenants": Jacob and Laban](/expl/background/israel/gods-covenant#0c36) |
 | {{% bible val="Genesis 37:9-10" link="gen:37,9-10" lang="en" %}} | ["The child": Joseph's second dream](/expl/content/jesus/a-different-christmas-story#the-child) |
 | {{% bible val="Genesis 37:21-30" link="gen:37,21-30" lang="en" %}} | ["The inheritance": very troubled when Joseph got lost](/expl/background/israel/the-role-of-family-in-the-bible#4395) |

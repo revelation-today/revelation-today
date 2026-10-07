@@ -131,7 +131,9 @@ Symbolic language sharpens this dual reality rather than obscuring it — it isn
 
 The closest modern comparison to an apocalypse might be a political cartoon.
 
-![](/images/20200620_WWD000.avif) <!-- https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon" -->
+![A newspaper cartoon of a crowd reading the news through very different lenses](/images/20200620_WWD000.avif)
+
+*KAL's cartoon, [The Economist](https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon), 18 June 2020.*
 
 Looking at a cartoon like this, we get the message instantly, without assuming that dragons practice yoga or even exist at all. Revelation works the same way, and we can see the same elements at work in it:
 

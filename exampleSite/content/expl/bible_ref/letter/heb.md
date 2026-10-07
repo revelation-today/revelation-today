@@ -4,10 +4,11 @@ weight: 57
 docType: expl
 ---
 
-15 bible verses have been used in this book.
+16 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
+| {{% bible val="Hebrews 1:2" link="heb:1,2" lang="en" %}} | ["What is the end time?": in these last days he has spoken to us by his Son](/expl/content/army/the-end-time-and-the-great-tribulation#d1d8) |
 | {{% bible val="Hebrews 1:8" link="heb:1,8" lang="en" %}} | ["The mystery of the first horseman": interpreted as a messianic reference to Jesus](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
 | {{% bible val="Hebrews 2:11" link="heb:2,11" lang="en" %}} | ["God's son": all His brothers](/expl/background/israel/the-church-is-part-of-israel#639c) |
 | {{% bible val="Hebrews 2:11" link="heb:2,11" lang="en" %}} | ["The Core Teaching": Hebrews 2:11](/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#the-core-teaching) |

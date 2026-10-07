@@ -19,7 +19,7 @@ docType: expl
 | {{% bible val="1 Raja-raja 10:14-29" link="1ki:10,14-29" lang="ind" %}} | ["Kekayaan Salomo": ringkasan kehidupan Raja Salomo](/id/expl/content/beasts/666-the-number-of-the-beast#e63a) |
 | {{% bible val="1 Raja-raja 11:1-13" link="1ki:11,1-13" lang="ind" %}} | ["Kekayaan Salomo": penggambaran kejatuhannya yang menghancurkan](/id/expl/content/beasts/666-the-number-of-the-beast#e63a) |
 | {{% bible val="1 Raja-raja 11:1-13" link="1ki:11,1-13" lang="ind" %}} | ["Kekayaan Salomo": menjadi kejatuhannya](/id/expl/content/beasts/666-the-number-of-the-beast#e63a) |
-| {{% bible val="1 Raja-raja 16:31" link="1ki:16,31" lang="ind" %}} | ["Sang pelacur": 1Raj.16/31](/id/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="1 Raja-raja 16:31" link="1ki:16,31" lang="ind" %}} | ["Sang pelacur": 1Raj 16:31](/id/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="1 Raja-raja 16:31-18" link="1ki:16,31-18" lang="ind" %}} | ["Masalahnya": ratu yang memperkenalkan penyembahan berhala kepada Israel](/id/expl/content/letters/the-letter-to-the-church-in-thyatira#2981) |
 | {{% bible val="1 Raja-raja 17:1" link="1ki:17,1" lang="ind" %}} | ["Elia dan Kekeringan (1 Raja-raja 16/29–18/35)": hujan yang cukup](/id/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1 Raja-raja 17:1" link="1ki:17,1" lang="ind" %}} | ["Elia dan Kekeringan (1 Raja-raja 16/29–18/35)": mengutus Elia untuk memaklumkan kekeringan](/id/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
@@ -33,10 +33,10 @@ docType: expl
 | {{% bible val="1 Raja-raja 18:38" link="1ki:18,38" lang="ind" %}} | ["Serangan Ganda": tanda Elia tentang Allah yang sejati](/id/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="1 Raja-raja 18:40" link="1ki:18,40" lang="ind" %}} | ["Sang pelacur": Allah menghakimi para penerusnya](/id/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="1 Raja-raja 19" link="1ki:19" lang="ind" %}} | ["Elia": Sang ratu murka dan ingin membunuhnya; Elia sendiri menyerah dan ingin mati, tetapi Allah memanggilnya kembali untuk mengurapi Elisa dan Yehu](/id/expl/content/bowls/the-key-to-armageddon#5f7a) |
-| {{% bible val="1 Raja-raja 19:2" link="1ki:19,2" lang="ind" %}} | ["Sang pelacur": 1Raj.19/2](/id/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="1 Raja-raja 19:2" link="1ki:19,2" lang="ind" %}} | ["Sang pelacur": 1Raj 19:2](/id/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="1 Raja-raja 19:10" link="1ki:19,10" lang="ind" %}} | ["Elia": memburu para nabi Allah hingga tampaknya hanya tersisa satu: Elia](/id/expl/content/bowls/the-key-to-armageddon#5f7a) |
 | {{% bible val="1 Raja-raja 19:18" link="1ki:19,18" lang="ind" %}} | ["Sisa dalam Kitab Wahyu": 1 Raja-raja 19:18](/id/expl/background/israel/the-remnant-of-israel#r4m1) |
-| {{% bible val="1 Raja-raja 19:18" link="1ki:19,18" lang="ind" %}} | ["Sang pelacur": 1Raj.19/18](/id/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="1 Raja-raja 19:18" link="1ki:19,18" lang="ind" %}} | ["Sang pelacur": 1Raj 19:18](/id/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="1 Raja-raja 20:1-34" link="1ki:20,1-34" lang="ind" %}} | ["Perjanjian-Perjanjian dalam Sejarah": Ahab](/id/expl/background/israel/gods-covenant#ae45) |
 | {{% bible val="1 Raja-raja 20:31-32" link="1ki:20,31-32" lang="ind" %}} | ["Sifat kedua saksi": belas kasihan dari raja yang menaklukkan](/id/expl/content/witnesses/the-two-witnesses#5f50) |
 | {{% bible val="1 Raja-raja 21" link="1ki:21" lang="ind" %}} | ["Sang pelacur": Mencari keuntungan ekonomi](/id/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |

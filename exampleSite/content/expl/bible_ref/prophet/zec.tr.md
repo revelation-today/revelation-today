@@ -4,7 +4,7 @@ weight: 37
 docType: expl
 ---
 
-Bu kitapta kullanılan 20 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 21 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -27,4 +27,5 @@ Bu kitapta kullanılan 20 Kutsal Kitap pasajı vardır
 | {{% bible val="Zekeriya 6:1-8" link="zec:6,1-8" lang="tr" %}} | ["İlk gözlemler": farklı renklerde dört arabanın yeryüzünün rüzgârlarını yansıttığını](/tr/expl/content/seals/the-mystery-of-the-four-horse-men#df58) |
 | {{% bible val="Zekeriya 12" link="zec:12" lang="tr" %}} | ["Son iki savaş mı?": Zekeriya](/tr/expl/content/1000y/the-thousand-year-kingdom#ba47) |
 | {{% bible val="Zekeriya 12:10-11" link="zec:12,10-11" lang="tr" %}} | ["Bulutlarla birlikte geliyor": Davut soyu ve Yeruşalim’de yaşayanların üzerine lütuf ve yakarış ruhunu dökeceğim. Deştikleri kişiye, yani bana bakacaklar; biricik oğlu için yas tutan biri gibi ardımdan yas tutacak, ilk oğlu için acı çeken biri gibi acı çekecekler. O gün Yeruşalim’de tutulan yas, Megiddo Ovası’ndaki Hadat-Rimmon yasından büyük olacak.](/tr/expl/content/vision/setting-the-foundation#4542) |
+| {{% bible val="Zekeriya 14:1-9" link="zec:14,1-9" lang="tr" %}} | ["Rab'bin Günü'nün kökeni": Zekeriya 14:1-9](/tr/expl/background/israel/the-day-of-the-lord#45df) |
 | {{% bible val="Zekeriya 14:8" link="zec:14,8" lang="tr" %}} | ["Tanrı'nın varlığının sembolleri": Yeruşalim yeniden inşa edildiğinde akan ırmak](/tr/expl/content/paradise/the-new-jerusalem#4997) |

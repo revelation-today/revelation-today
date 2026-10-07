@@ -4,7 +4,7 @@ weight: 1
 docType: expl
 ---
 
-124 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+125 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -81,6 +81,7 @@ docType: expl
 | {{% bible val="Keluaran 12:12" link="exo:12,12" lang="ind" %}} | ["Mengapa Tulah-Tulah di Mesir?": semua allah di Mesir](/id/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
 | {{% bible val="Keluaran 12:12" link="exo:12,12" lang="ind" %}} | ["Inti Pengajaran": Keluaran 12:12](/id/sermons/deep-dive/intro/15-the-exodus-pattern-moses-pharaoh-and-the-plagues#inti-pengajaran) |
 | {{% bible val="Keluaran 12:14-20" link="exo:12,14-20" lang="ind" %}} | ["Kematian Anak Sulung": Hari Raya Roti Tidak Beragi diperkenalkan](/id/expl/bible/exodus/the-plagues-in-egypt#4f21) |
+| {{% bible val="Keluaran 12:15" link="exo:12,15" lang="ind" %}} | ["Ajaran-Ajaran Yesus": Keluaran 12:15](/id/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Keluaran 12:35-36" link="exo:12,35-36" lang="ind" %}} | ["Melawan Hyksos Kedua": dipenuhi kekayaan](/id/expl/bible/exodus/the-birth-of-moses#4472) |
 | {{% bible val="Keluaran 12:37" link="exo:12,37" lang="ind" %}} | ["Jangan Sampai Terulang": orang Israel akhirnya berangkat keluar](/id/expl/bible/exodus/the-story-before-the-exodus#1933) |
 | {{% bible val="Keluaran 12:38" link="exo:12,38" lang="ind" %}} | ["Asal Mula Hari Tuhan": membawa serta banyak orang lain yang kemudian menjadi bagian dari Israel](/id/expl/background/israel/the-day-of-the-lord#4fec) |
@@ -130,5 +131,5 @@ docType: expl
 | {{% bible val="Keluaran 28:36-38" link="exo:28,36-38" lang="ind" %}} | ["Simbol-simbol kehadiran Allah": dikenakan di dahi imam](/id/expl/content/paradise/the-new-jerusalem#126e) |
 | {{% bible val="Keluaran 30:7" link="exo:30,7" lang="ind" %}} | ["Penglihatan Itu": tanggung jawab-Nya untuk merawat kaki-kaki dian](/id/expl/content/vision/the-vision#7855) |
 | {{% bible val="Keluaran 34:5-7" link="exo:34,5-7" lang="ind" %}} | ["Yerusalem, Kota Kudus": kemuliaan Allah adalah kebaikan-Nya, penuh belas kasihan dan adil](/id/expl/content/paradise/the-new-jerusalem#a373) |
-| {{% bible val="Keluaran 34:5-7" link="exo:34,5-7" lang="ind" %}} | ["Ruang Takhta": Ketika Musa meminta untuk melihat kemuliaan Allah, ia tidak diperkenankan - namun Allah membiarkan kebaikan-Nya lewat di hadapannya dan menyerukan nama-Nya: penuh belas kasihan dan kasih karunia, namun juga Dia yang tidak akan membiarkan yang bersalah tidak dihukum. Kemuliaan Allah menyatukan belas kasihan dan keadilan](/id/expl/content/worship/worship-in-the-throne-room#0938) |
+| {{% bible val="Keluaran 34:5-7" link="exo:34,5-7" lang="ind" %}} | ["Ruang Takhta": menyerukan nama-Nya sendiri](/id/expl/content/worship/worship-in-the-throne-room#0938) |
 | {{% bible val="Keluaran 34:28" link="exo:34,28" lang="ind" %}} | ["Beberapa Dasar": Musa berpuasa 40 hari ketika menerima hukum Taurat di Gunung Sinai](/id/expl/content/beasts/666-the-number-of-the-beast#74d6) |

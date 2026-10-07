@@ -4,7 +4,7 @@ weight: 39
 docType: expl
 ---
 
-77 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+78 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -36,7 +36,7 @@ docType: expl
 | {{% bible val="Matius 9:30" link="mat:9,30" lang="ind" %}} | ["Serangan Ganda": Yesus sering bekerja secara tersembunyi](/id/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Matius 10:8" link="mat:10,8" lang="ind" %}} | ["Air kehidupan": Matius](/id/expl/content/paradise/the-new-jerusalem#8a3f) |
 | {{% bible val="Matius 11:12" link="mat:11,12" lang="ind" %}} | ["Kata Kunci yang Terlewatkan": merenggut Kerajaan Surga dengan paksa](/id/expl/topics/others/the-rapture#0f61) |
-| {{% bible val="Matius 11:13-14" link="mat:11,13-14" lang="ind" %}} | ["Identitas kedua saksi": yang datang kembali sebagai Yohanes](/id/expl/content/witnesses/the-two-witnesses#55fa) |
+| {{% bible val="Matius 11:13-14" link="mat:11,13-14" lang="ind" %}} | ["Identitas kedua saksi": Yohanes Pembaptis](/id/expl/content/witnesses/the-two-witnesses#55fa) |
 | {{% bible val="Matius 11:20-24" link="mat:11,20-24" lang="ind" %}} | ["Sudah dan Belum": tidak seorang pun dapat bertahan](/id/expl/background/israel/jesus-and-the-covenant#5788) |
 | {{% bible val="Matius 11:20-24" link="mat:11,20-24" lang="ind" %}} | ["Pengajaran Inti": Matius 11:20-24](/id/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#pengajaran-inti) |
 | {{% bible val="Matius 12:6" link="mat:12,6" lang="ind" %}} | ["Janji Itu": lebih besar daripada bait Allah](/id/expl/bible/daniel/the-70-year-weeks#1bc2) |
@@ -59,6 +59,7 @@ docType: expl
 | {{% bible val="Matius 15:24" link="mat:15,24" lang="ind" %}} | ["Solusinya": Panggilan-Nya adalah memulihkan Israel dan memanggil sebanyak mungkin dari mereka kepada diri-Nya](/id/expl/bible/daniel/the-son-of-man-and-the-remnant#bcd4) |
 | {{% bible val="Matius 16:5-12" link="mat:16,5-12" lang="ind" %}} | ["Pengajaran Inti": Matius 16:5-12](/id/sermons/deep-dive/intro/03-symbol-or-literal#pengajaran-inti) |
 | {{% bible val="Matius 16:18" link="mat:16,18" lang="ind" %}} | ["Kekalahan yang berubah menjadi kemenangan": jemaat tidak akan dikalahkan](/id/expl/content/witnesses/the-two-witnesses#5f50) |
+| {{% bible val="Matius 17:2" link="mat:17,2" lang="ind" %}} | ["Penglihatan Itu": Yesus dimuliakan](/id/expl/content/vision/the-vision#7855) |
 | {{% bible val="Matius 18" link="mat:18" lang="ind" %}} | ["Secara harfiah atau simbolis": mengampuni 7 kali 70, yaitu 490 kali](/id/quick/background/literature/) |
 | {{% bible val="Matius 18" link="mat:18" lang="ind" %}} | ["Secara harfiah atau simbolis": cungkillah mata kita jika ia menyebabkan kita berbuat dosa](/id/quick/background/literature/) |
 | {{% bible val="Matius 20:20-28" link="mat:20,20-28" lang="ind" %}} | ["Kerajaan Seribu Tahun": Pemerintahan](/id/expl/content/1000y/the-thousand-year-kingdom) |

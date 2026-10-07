@@ -12,7 +12,7 @@ docType: expl
 | {{% bible val="Imamat 19:18" link="lev:19,18" lang="ind" %}} | ["Sebuah Nubuat": mengasihi sesama](/id/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Imamat 21:9" link="lev:21,9" lang="ind" %}} | ["Aspek keagamaan": anak perempuan seorang imam yang menjadi pelacur harus dibakar dengan api](/id/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Imamat 23:9-14" link="lev:23,9-14" lang="ind" %}} | ["Kedua Tuaian": biasanya diambil dari hasil gandum](/id/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |
-| {{% bible val="Imamat 23:22" link="lev:23,22" lang="ind" %}} | ["Sebuah Nubuat": Im.23/22](/id/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Imamat 23:22" link="lev:23,22" lang="ind" %}} | ["Sebuah Nubuat": Im 23:22](/id/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Imamat 25:1-7" link="lev:25,1-7" lang="ind" %}} | ["Apa Itu Minggu Tahun": setiap tahun ketujuh, tanah itu harus beristirahat](/id/expl/bible/daniel/the-70-year-weeks#f6e6) |
 | {{% bible val="Imamat 25:1-7" link="lev:25,1-7" lang="ind" %}} | ["Bagian 1: 70 Kali Tujuh Masa": Imamat 25:1-7](/id/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bagian-1-70-kali-tujuh-masa) |
 | {{% bible val="Imamat 25:10" link="lev:25,10" lang="ind" %}} | ["Tanah": tanah itu dikembalikan](/id/expl/background/israel/the-role-of-family-in-the-bible#5938) |

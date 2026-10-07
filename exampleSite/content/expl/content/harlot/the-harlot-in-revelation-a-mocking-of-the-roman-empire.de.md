@@ -20,7 +20,9 @@ Die Geschichte der Hure Babel in der Offenbarung ist eine der vielschichtigsten 
 <a name="12e6"></a>
 Beginnen wir mit einer Münze, die zu jener Zeit gängige Währung gewesen wäre.
 
-![](/images/coin.png) <!-- https://www.britishmuseum.org/collection/object/C_1872-0709-477" -->
+![Ein römischer Sesterz: auf der einen Seite der Kopf des Kaisers, auf der anderen die Göttin Roma, auf den sieben Hügeln sitzend, das Schwert über dem Knie](/images/coin.png)
+
+*Sesterz Vespasians. [British Museum, 1872,0709.477](https://www.britishmuseum.org/collection/object/C_1872-0709-477).*
 
 Auf der Vorderseite ist Kaiser Vespasian (regierte 69–79) mit der Inschrift „Imp Caesar Vespasianus Aug P M TR P P P COS III" abgebildet — „Kaiser Caesar Vespasian Augustus, Pontifex Maximus (Oberster Priester), Tribunicia Potestas (Tribunengewalt), Pater Patriae (Vater des Vaterlandes), Consul zum dritten Mal." Kurz gesagt, ein Lebenslauf der Macht und Errungenschaften des Kaisers.
 
@@ -32,7 +34,7 @@ Die Rückseite der Münze ist also eine unverhohlene Feier der Macht und Bestän
 
 - Im Lateinischen war *lupa*, „Wölfin", auch ein Wort für eine Prostituierte; die Wölfin auf der Münze lud also wohl zu dem Spott ein — und der geheime Name Amor verschärft ihn nur noch.[^lupa]
 - Die Göttin Roms wird hier zur Hure umgedeutet — nicht irgendeiner Hure, sondern der Mutter aller Huren.
-- Die Hügel Roms, statt sie zu stützen, werden zum Tier und den Königen, die sie vernichten: Roma endet als Opfer genau der Stadt, die sie schützen sollte.
+- Auf der Münze tragen die sieben Hügel Roma. In der Offenbarung sind die sieben Köpfe dieselben Hügel, und sie gehören dem Tier — das sich mit den zehn Königen {{% bible val="gegen die Hure wendet und sie vernichtet" link="rev:17,16" lang="de" %}}. Was sie trug, ist das, was sie zerreisst.
 - Und statt sich mit ihrem Schwert vor Feinden zu schützen, ist sie mit dem Blut der Heiligen bedeckt.
 
 Die Feier der {{% int_link val="Pax Romana" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} auf der Münze wird Punkt für Punkt in ein Bild der Verachtung und des Abscheus verkehrt — eine Erinnerung an jeden Gläubigen, der diese Münze im Alltag in der Hand hielt, dass man Rom nicht trauen konnte. Es ist bemerkenswert wirksame Gegenpropaganda.
@@ -57,7 +59,7 @@ Diese Tabula könnte durchaus eine Quelle hinter Offenbarung 17 sein. Sie beschr
 
 Eine weitere mögliche Parallele sind die [Oden Salomos](https://de.wikipedia.org/wiki/Oden_Salomos) 38,9–14, wo sich Irrtum und Unwissenheit bei einer Hochzeit als Braut und Bräutigam verkleiden, und der Wein dort die Gäste ihr eigenes Verständnis erbrechen lässt.
 
-Beide Parallelen weisen auf denselben Zweck hinter der Ekphrasis in Offenbarung 17 hin: Diese Täuschung zu verstehen ist der erste Schritt zum Reich Gottes. Wenn Rom dich getäuscht hat, bleibt dir kaum noch Hoffnung — und doch ist die Täuschung so unverhohlen, dass sie eigentlich kaum zu übersehen sein sollte.
+Beide Parallelen weisen auf denselben Zweck hinter der Ekphrasis in Offenbarung 17 hin: Diese Täuschung zu verstehen ist der erste Schritt zum Reich Gottes. Getäuscht zu sein ist nicht das Ende des Weges: Das nächste Kapitel ruft genau diesen Menschen zu, {{% bible val="geht hinaus aus ihr, mein Volk" link="rev:18,4" lang="de" %}}. Aber die Täuschung muss gesehen werden, bevor jemand aus ihr hinausgehen kann — und dieses Bild ist so unverhohlen gemalt, dass es kaum zu übersehen sein soll.
 
 [^amor]: Den geheimen Namen Amor überliefern Johannes Lydos (*Über die Monate* 4,73) und Aelius Aristides; er findet sich auch in einem Graffito in Pompeji; siehe Aune, S. 925–926.
 

@@ -26,7 +26,7 @@ Bu kitapta kullanılan 30 Kutsal Kitap pasajı vardır
 | {{% bible val="Markos 4:11-13" link="mrk:4,11-13" lang="tr" %}} | ["Markos'taki Çıkış": yüreklerin katılaşmasıyla](/tr/expl/background/israel/the-second-exodus#098c) |
 | {{% bible val="Markos 4:26-29" link="mrk:4,26-29" lang="tr" %}} | ["İsa'nın öğretileri": tohumun büyümesinde](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
 | {{% bible val="Markos 4:30-32" link="mrk:4,30-32" lang="tr" %}} | ["İsa'nın öğretileri": hardal tohumu benzetmesinde](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
-| {{% bible val="Markos 5:43" link="mrk:5,43" lang="tr" %}} | ["İki yönlü saldırı": Mr.5/43](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
+| {{% bible val="Markos 5:43" link="mrk:5,43" lang="tr" %}} | ["İki yönlü saldırı": Mr 5:43](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Markos 10:29-30" link="mrk:10,29-30" lang="tr" %}} | ["İsrail’in hikayesi": Markos](/tr/appl/topics/hero/who-rules-the-world#3370) |
 | {{% bible val="Markos 10:42-45" link="mrk:10,42-45" lang="tr" %}} | ["Yeni bir düşünce": aranızda büyük olmak isteyen, hizmetkârınız olsun](/tr/expl/background/israel/jesus-and-the-covenant#177b) |
 | {{% bible val="Markos 11:12-14" link="mrk:11,12-14" lang="tr" %}} | ["Ana Öğreti": Markos 11:12-14, 20-21](/tr/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#ana-öğreti) |

@@ -4,7 +4,7 @@ weight: 39
 docType: expl
 ---
 
-77 Bibelstellen wurden in diesem Buch verwendet.
+78 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -36,7 +36,7 @@ docType: expl
 | {{% bible val="Matthäus 9,30" link="mat:9,30" lang="de" %}} | ["Der zweifache Angriff": Jesus wirkt oft im Verborgenen](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Matthäus 10,8" link="mat:10,8" lang="de" %}} | ["Lebendiges Wasser": Matthäus](/de/expl/content/paradise/the-new-jerusalem#8a3f) |
 | {{% bible val="Matthäus 11,12" link="mat:11,12" lang="de" %}} | ["Fehlende Schlüsselwörter": das Himmelreich an sich reißen](/de/expl/topics/others/the-rapture#0f61) |
-| {{% bible val="Matthäus 11,13-14" link="mat:11,13-14" lang="de" %}} | ["Die Identität der beiden Zeugen": der als Johannes wiederkommt](/de/expl/content/witnesses/the-two-witnesses#55fa) |
+| {{% bible val="Matthäus 11,13-14" link="mat:11,13-14" lang="de" %}} | ["Die Identität der beiden Zeugen": Johannes dem Täufer](/de/expl/content/witnesses/the-two-witnesses#55fa) |
 | {{% bible val="Matthäus 11,20-24" link="mat:11,20-24" lang="de" %}} | ["Bereits und noch nicht": hätte niemand bestehen können](/de/expl/background/israel/jesus-and-the-covenant#5788) |
 | {{% bible val="Matthäus 11,20-24" link="mat:11,20-24" lang="de" %}} | ["Die Kernlehre": Matthäus 11,20-24](/de/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#die-kernlehre) |
 | {{% bible val="Matthäus 12,6" link="mat:12,6" lang="de" %}} | ["Die Verheißung": größer ist als der Tempel](/de/expl/bible/daniel/the-70-year-weeks#1bc2) |
@@ -59,6 +59,7 @@ docType: expl
 | {{% bible val="Matthäus 15,24" link="mat:15,24" lang="de" %}} | ["Die Lösung": Seine Berufung war es, Israel wiederherzustellen und so viele von ihnen wie möglich zu sich zu rufen](/de/expl/bible/daniel/the-son-of-man-and-the-remnant#bcd4) |
 | {{% bible val="Matthäus 16,5-12" link="mat:16,5-12" lang="de" %}} | ["Die Kernlehre": Matthäus 16,5-12](/de/sermons/deep-dive/intro/03-symbol-or-literal#die-kernlehre) |
 | {{% bible val="Matthäus 16,18" link="mat:16,18" lang="de" %}} | ["Niederlage wird zum Sieg": die Gemeinde werde nicht überwältigt werden](/de/expl/content/witnesses/the-two-witnesses#5f50) |
+| {{% bible val="Matthäus 17,2" link="mat:17,2" lang="de" %}} | ["Die Vision": Jesus verklärt wurde](/de/expl/content/vision/the-vision#7855) |
 | {{% bible val="Matthäus 18,9" link="mat:18,9" lang="de" %}} | ["Wörtlich oder symbolisch": unsere Augen ausreißen, wenn sie uns zur Sünde verleiten](/de/quick/background/literature/) |
 | {{% bible val="Matthäus 18,21-25" link="mat:18,21-25" lang="de" %}} | ["Wörtlich oder symbolisch": 7 mal 70, also 490 mal vergeben](/de/quick/background/literature/) |
 | {{% bible val="Matthäus 20,20-28" link="mat:20,20-28" lang="de" %}} | ["Das 1000-jährige Reich": Art von Herrschaft](/de/expl/content/1000y/the-thousand-year-kingdom) |

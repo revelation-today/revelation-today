@@ -19,7 +19,7 @@ Bu kitapta kullanılan 35 Kutsal Kitap pasajı vardır
 | {{% bible val="1.Krallar 10:14-29" link="1ki:10,14-29" lang="tr" %}} | ["Süleyman'ın zenginliği": Kral Süleyman'ın yaşamının özetinde](/tr/expl/content/beasts/666-the-number-of-the-beast#d311) |
 | {{% bible val="1.Krallar 11:1-13" link="1ki:11,1-13" lang="tr" %}} | ["Süleyman'ın zenginliği": onun feci başarısızlığının anlatılmasından](/tr/expl/content/beasts/666-the-number-of-the-beast#d311) |
 | {{% bible val="1.Krallar 11:1-13" link="1ki:11,1-13" lang="tr" %}} | ["Süleyman'ın zenginliği": bu onun çöküşü oldu](/tr/expl/content/beasts/666-the-number-of-the-beast#d311) |
-| {{% bible val="1.Krallar 16:31" link="1ki:16,31" lang="tr" %}} | ["Fahişe": 1.Kr.16/31](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="1.Krallar 16:31" link="1ki:16,31" lang="tr" %}} | ["Fahişe": 1.Kr 16:31](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="1.Krallar 16:31-18" link="1ki:16,31-18" lang="tr" %}} | ["Sorun": İsrail'e putperestliği getiren kraliçeydi](/tr/expl/content/letters/the-letter-to-the-church-in-thyatira#94db) |
 | {{% bible val="1.Krallar 17:1" link="1ki:17,1" lang="tr" %}} | ["İlyas ve kuraklık (1. Krallar 16/29–18/35)": yeterli yağmura](/tr/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1.Krallar 17:1" link="1ki:17,1" lang="tr" %}} | ["İlyas ve kuraklık (1. Krallar 16/29–18/35)": İlyas'ı gönderir](/tr/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
@@ -33,10 +33,10 @@ Bu kitapta kullanılan 35 Kutsal Kitap pasajı vardır
 | {{% bible val="1.Krallar 18:38" link="1ki:18,38" lang="tr" %}} | ["İki yönlü saldırı": İlyas'ın gerçek Tanrı'yı gösteren belirtisini](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="1.Krallar 18:40" link="1ki:18,40" lang="tr" %}} | ["Fahişe": Tanrı halefleri yargılar](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="1.Krallar 19" link="1ki:19" lang="tr" %}} | ["İlyas": Kraliçe öfkelenir ve onun ölmesini ister; İlyas ise pes eder ve ölmek ister, ama Tanrı onu geri çağırır ve Elişa ile Yehu'yu meshetmesini ister.](/tr/expl/content/bowls/the-key-to-armageddon#5c76) |
-| {{% bible val="1.Krallar 19:2" link="1ki:19,2" lang="tr" %}} | ["Fahişe": 1.Kr.19/2](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="1.Krallar 19:2" link="1ki:19,2" lang="tr" %}} | ["Fahişe": 1.Kr 19:2](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="1.Krallar 19:10" link="1ki:19,10" lang="tr" %}} | ["İlyas": geriye yalnızca bir tanesi kalana dek Tanrı'nın peygamberlerinin peşine düşer: İlyas](/tr/expl/content/bowls/the-key-to-armageddon#5c76) |
 | {{% bible val="1.Krallar 19:18" link="1ki:19,18" lang="tr" %}} | ["Vahiy'de kalıntı": 1 Krallar 19:18](/tr/expl/background/israel/the-remnant-of-israel#r4m1) |
-| {{% bible val="1.Krallar 19:18" link="1ki:19,18" lang="tr" %}} | ["Fahişe": 1.Kr.19/18](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="1.Krallar 19:18" link="1ki:19,18" lang="tr" %}} | ["Fahişe": 1.Kr 19:18](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="1.Krallar 20:1-34" link="1ki:20,1-34" lang="tr" %}} | ["Tarihi antlaşmalar": Ahab](/tr/expl/background/israel/gods-covenant#909f) |
 | {{% bible val="1.Krallar 20:31-32" link="1ki:20,31-32" lang="tr" %}} | ["İki tanığın karakteri": galip bir kraldan merhamet dilemenin](/tr/expl/content/witnesses/the-two-witnesses#bdb3) |
 | {{% bible val="1.Krallar 21" link="1ki:21" lang="tr" %}} | ["Fahişe": Ekonomik çıkar peşindedir](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |

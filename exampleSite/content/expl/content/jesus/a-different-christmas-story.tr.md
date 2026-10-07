@@ -44,7 +44,9 @@ Bu hikâye Noel'in bir yönünü gösterir ve onu o kadar çok kez duyduk ki art
 
 İlk bakışta muhtemelen aklınıza şöyle bir şey gelir:
 
-![](/images/Dragon-and-woman-revelation-luther-bibel.jpg) <!-- https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg" -->
+![Luther İncili'nden bir gravür: yukarıda güneşe sarınmış kadın, aşağıda bekleyen yedi başlı ejderha](/images/Dragon-and-woman-revelation-luther-bibel.jpg)
+
+*Luther İncili'nden gravür. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg), kamu malı.*
 
 Bu sahnede pek çok gizemli figür var, ama kimin kim olduğunu çözmeye çalışmadan önce sahneyi doğru bir perspektife oturtalım. Elimizde, bazı göksel niteliklere rağmen her şeyden önce tek bir şey olan bir kadın var: hamile ve doğum yapmak üzere — en hafif tabirle, büyük bir savaşa hiç hazır olmayan bir durumda. Karşısında ise tek bir amacı olan kocaman, öfkeli, kızıl bir ejderha var: çocuğu doğar doğmaz yutmak.
 

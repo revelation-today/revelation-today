@@ -32,7 +32,7 @@ Even so, in AD 92 another emperor, Domitian, issued a decree ordering vineyards 
 ## Jesus' view
 
 <a name="294f"></a>
-Jesus offers this church no rebuke at all. He speaks as the one who holds David's key, who opens what no one can close and closes what no one can open — a {{% bible val="reference to Shebna and Eliakim" link="isa:22,15-25" lang="en" %}}, in which {{% bible val="Shebna, the king's steward, used his high office for self-glory and was removed in disgrace; the position was given instead to Eliakim, who would be a father to the people of Jerusalem" link="isa:22,15-22" lang="en" %}}.
+Jesus offers this church no rebuke at all. He speaks as the one who holds David's key, who opens what no one can close and closes what no one can open — a reference to {{% bible val="Shebna and Eliakim" link="isa:22,15-25" lang="en" %}}. Shebna, the king's steward, had used his high office for self-glory and was removed in disgrace; the office went instead to Eliakim, who would be a father to the people of Jerusalem.
 
 The congregation in Philadelphia has little strength or standing in the city, yet they remain faithful to the God who supplies their needs. Their other challenge comes from Jewish opponents who oppress the church, just as they oppress the church in {{% bible val="Smyrna" link="rev:2,9" lang="en" %}}. Jesus promises the Philadelphians that these very opponents will one day bow down before them and acknowledge that God has loved this church — vindication that many read as pointing toward eventual reconciliation, though the text itself promises the acknowledgment rather than spelling out conversion.
 

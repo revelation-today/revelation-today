@@ -4,7 +4,7 @@ weight: 3
 docType: expl
 ---
 
-Bu kitapta kullanılan 36 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 37 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -14,6 +14,7 @@ Bu kitapta kullanılan 36 Kutsal Kitap pasajı vardır
 | {{% bible val="Çölde Sayım 12" link="num:12" lang="tr" %}} | ["Musa’nın diğer öyküsü": zor durumlarda bile sakin ve şefkatli kalabilen](/tr/expl/bible/exodus/the-birth-of-moses#3d63) |
 | {{% bible val="Çölde Sayım 12:3" link="num:12,3" lang="tr" %}} | ["Musa’nın diğer öyküsü": alçakgönüllü insan](/tr/expl/bible/exodus/the-birth-of-moses#3d63) |
 | {{% bible val="Çölde Sayım 13:25" link="num:13,25" lang="tr" %}} | ["Bazı temel bilgiler": halk yeni toprağı 40 gün boyunca gözetledi](/tr/expl/content/beasts/666-the-number-of-the-beast#bdd5) |
+| {{% bible val="Çölde Sayım 14:34" link="num:14,34" lang="tr" %}} | ["Vahiy Kitabı’nda sayıların kullanımı": her gün için bir yıl](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation) |
 | {{% bible val="Çölde Sayım 14:34" link="num:14,34" lang="tr" %}} | ["Bazı temel bilgiler": imansızlıkları yüzünden 40 yıl çölde dolaşmak zorunda kaldılar](/tr/expl/content/beasts/666-the-number-of-the-beast#bdd5) |
 | {{% bible val="Çölde Sayım 21" link="num:21" lang="tr" %}} | ["İyi bilinen öykü": yol boyunca bütün Amorlular’ı ve Kenanlılar’ı fethettiği](/tr/expl/bible/keyword/the-story-of-balaam#81bf) |
 | {{% bible val="Çölde Sayım 22:1-4" link="num:22,1-4" lang="tr" %}} | ["İyi bilinen öykü": Moavlılar’ı öyle korkutur ki Midyanlılar’dan yardım istemeye başlarlar](/tr/expl/bible/keyword/the-story-of-balaam#81bf) |

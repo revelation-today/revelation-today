@@ -44,7 +44,9 @@ Kisah itu menunjukkan satu sisi Natal, dan kita sudah begitu sering mendengarnya
 
 Sekilas, engkau mungkin membayangkan sesuatu seperti ini:
 
-![](/images/Dragon-and-woman-revelation-luther-bibel.jpg) <!-- https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg" -->
+![Sebuah ukiran kayu dari Alkitab Luther: di atas perempuan yang berselubungkan matahari, di bawah naga berkepala tujuh yang menanti](/images/Dragon-and-woman-revelation-luther-bibel.jpg)
+
+*Ukiran kayu dari Alkitab Luther. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg), domain publik.*
 
 Ada banyak tokoh misterius dalam adegan ini, tetapi sebelum kita mencoba mengurai siapa yang mewakili siapa, mari kita lihat dahulu adegan ini secara keseluruhan. Ada seorang perempuan yang, meskipun memiliki beberapa atribut surgawi, pertama-tama adalah satu hal: sedang mengandung dan hendak melahirkan — sama sekali tidak dalam kondisi, boleh dikatakan, untuk menghadapi pertempuran besar. Berhadapan dengannya ada seekor naga besar yang murka dan merah menyala, dengan satu-satunya tujuan: membinasakan anak itu tepat pada saat ia lahir.
 

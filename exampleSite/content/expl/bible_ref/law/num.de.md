@@ -4,7 +4,7 @@ weight: 3
 docType: expl
 ---
 
-36 Bibelstellen wurden in diesem Buch verwendet.
+37 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -14,6 +14,7 @@ docType: expl
 | {{% bible val="4.Mose 12" link="num:12" lang="de" %}} | ["Die weitere Geschichte des Mose": in schwierigen Situationen ruhig und mitfühlend zu bleiben](/de/expl/bible/exodus/the-birth-of-moses#371c) |
 | {{% bible val="4.Mose 12,3" link="num:12,3" lang="de" %}} | ["Die weitere Geschichte des Mose": demütigsten Menschen auf Erden](/de/expl/bible/exodus/the-birth-of-moses#371c) |
 | {{% bible val="4.Mose 13,25" link="num:13,25" lang="de" %}} | ["Einige Grundlagen": das Volk erkundete 40 Tage lang das neue Land](/de/expl/content/beasts/666-the-number-of-the-beast#74d6) |
+| {{% bible val="4.Mose 14,34" link="num:14,34" lang="de" %}} | ["Die Benutzung von Zahlen in der Offenbarung": ein Jahr für jeden Tag](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation) |
 | {{% bible val="4.Mose 14,34" link="num:14,34" lang="de" %}} | ["Einige Grundlagen": wegen ihres Unglaubens mussten sie 40 Jahre in der Wüste umherwandern](/de/expl/content/beasts/666-the-number-of-the-beast#74d6) |
 | {{% bible val="4.Mose 21" link="num:21" lang="de" %}} | ["Die bekannte Geschichte": alle Amoriter und Kanaaniter auf ihrem Weg besiegen](/de/expl/bible/keyword/the-story-of-balaam#dabb) |
 | {{% bible val="4.Mose 22,1-4" link="num:22,1-4" lang="de" %}} | ["Die bekannte Geschichte": Moabiter so sehr in Angst versetzt, dass sie die Midianiter um Hilfe bitten](/de/expl/bible/keyword/the-story-of-balaam#dabb) |

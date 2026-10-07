@@ -32,7 +32,7 @@ Yine de MS 92'de İmparator Domitianus, görünüşte tahıl yetiştirmek için 
 ## İsa'nın görüşü
 
 <a name="afbc"></a>
-İsa bu kiliseye hiçbir azar yöneltmez. O, Davut'un anahtarını elinde tutan olarak konuşur — kimsenin kapatamayacağını açan, kimsenin açamayacağını kapatan — bu, {{% bible val="Şebna ve Elyakim'e" link="isa:22,15-25" lang="tr" %}} bir göndermedir; bu olayda {{% bible val="kralın kâhyası Şebna, yüksek makamını kendini yüceltmek için kötüye kullanmış ve utanç içinde görevden alınmıştı; görev bunun yerine, Yeruşalim halkına bir baba olacak olan Elyakim'e verilmişti" link="isa:22,15-22" lang="tr" %}}.
+İsa bu kiliseye hiçbir azar yöneltmez. O, Davut'un anahtarını elinde tutan olarak konuşur — kimsenin kapatamayacağını açan, kimsenin açamayacağını kapatan — ve bu, {{% bible val="Şebna ile Elyakim'e" link="isa:22,15-25" lang="tr" %}} bir göndermedir. Kralın kâhyası Şebna, yüksek makamını kendini yüceltmek için kötüye kullanmış ve utanç içinde görevden alınmıştı; görev bunun yerine, Yeruşalim halkına bir baba olacak olan Elyakim'e verilmişti.
 
 Filadelfiya'daki cemaatin şehirde gücü ve etkisi azdır, yine de ihtiyaçlarını karşılayan Tanrı'ya sadık kalmaya devam eder. Diğer zorlukları, tıpkı {{% bible val="İzmir'deki" link="rev:2,9" lang="tr" %}} kiliseye baskı yaptıkları gibi, onlara da baskı yapan Yahudi muhaliflerden gelir. İsa Filadelfiyalılara, bu muhaliflerin bir gün önlerinde eğilip Tanrı'nın bu kiliseyi sevdiğini kabul edecekleri vaadinde bulunur — pek çok kişinin sonraki bir barışmaya işaret ettiğini düşündüğü bir aklanma, gerçi metnin kendisi yalnızca bu kabulü vaat eder, bir din değiştirmeyi açıkça belirtmeden.
 

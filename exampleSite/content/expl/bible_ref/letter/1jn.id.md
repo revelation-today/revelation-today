@@ -4,11 +4,12 @@ weight: 58
 docType: expl
 ---
 
-6 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+7 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
 | {{% bible val="1 Yohanes 2:4" link="1jn:2,4" lang="ind" %}} | ["Siap untuk kematian kedua": tidak taat pada firman Yesus](/id/expl/content/paradise/the-new-jerusalem#e855) |
+| {{% bible val="1 Yohanes 2:18" link="1jn:2,18" lang="ind" %}} | ["Apa itu akhir zaman": sekarang telah tiba waktu yang terakhir](/id/expl/content/army/the-end-time-and-the-great-tribulation#ce8d) |
 | {{% bible val="1 Yohanes 2:22" link="1jn:2,22" lang="ind" %}} | ["Siap untuk kematian kedua": menyangkal bahwa Yesus adalah Tuhan](/id/expl/content/paradise/the-new-jerusalem#e855) |
 | {{% bible val="1 Yohanes 3:2" link="1jn:3,2" lang="ind" %}} | ["Simbol-simbol kehadiran Allah": karakter Allah sendiri, yang dahulu terpatri pada imam, kini terpatri pada kita](/id/expl/content/paradise/the-new-jerusalem#126e) |
 | {{% bible val="1 Yohanes 4:20" link="1jn:4,20" lang="ind" %}} | ["Siap untuk kematian kedua": membenci saudara atau saudari mereka](/id/expl/content/paradise/the-new-jerusalem#e855) |

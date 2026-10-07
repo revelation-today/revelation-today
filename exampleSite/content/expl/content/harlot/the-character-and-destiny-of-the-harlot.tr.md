@@ -15,7 +15,7 @@ sources:
       ref: bauckham_climax
 ---
 
-Fahişenin kim olduğunu öğrendikten sonra geriye birkaç açık soru kalıyor ve Kutsal Kitap onları da yanıtlıyor: Onun davranışı, "taktiği" nedir? Buna nasıl karşılık vermeliyiz? Ve onun düşüşüne asıl neden olan nedir?
+Son iki yazı, onun kim olduğunu metnin izin verdiği kadar izledi — ve bu, bilinçli olarak, sonuna kadar değil. Yanıtlanabilen sorular şunlar ve Kutsal Kitap onları yanıtlıyor: onun davranışı, "taktiği" nedir? Buna nasıl karşılık vermeliyiz? Ve onun düşüşüne asıl neden olan nedir?
 
 ## Önce okumakta fayda var
 

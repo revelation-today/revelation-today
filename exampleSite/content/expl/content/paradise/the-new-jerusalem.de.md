@@ -201,7 +201,7 @@ Die zwölf Steine spiegeln das {{% bible val="Brustschild des Hohepriesters" lin
 
 Eine Anmerkung zur Übersetzung ist hier wichtig: Unsere deutschen Übersetzungen lesen meist „das erste Fundament war mit Jaspis geschmückt", aber [eine bessere Übersetzung lautet „das erste Fundament *ist* Jaspis"](https://biblehub.com/interlinear/revelation/21-19.htm) – das Fundament ist nicht nur mit dem Stein verziert, es besteht aus ihm.
 
-Die Erwähnung der {{% bible val="Straße im Neuen Jerusalem" link="rev:21,21" lang="de" %}} erinnert an {{% bible val="die beiden Zeugen, deren Leichen einst auf einer Straße zur Schau gestellt wurden" link="rev:11,8" lang="de" %}} – nur dass dieselbe Straße nun zu ihren Ehren dasteht. Unsere frühere Schande wird durch ewige Herrlichkeit ersetzt werden.
+Die Erwähnung der {{% bible val="Straße im Neuen Jerusalem" link="rev:21,21" lang="de" %}} erinnert an {{% bible val="die beiden Zeugen, deren Leichen einst auf einer Straße zur Schau gestellt wurden" link="rev:11,8" lang="de" %}} – nur dass dieselbe Straße nun zu ihren Ehren dasteht. Das ist eine Überlegung, die der Text selbst nicht anstellt; Johannes sagt nur, dass die Straße aus Gold ist. Unsere frühere Schande wird durch ewige Herrlichkeit ersetzt werden.
 
 ## {{% bible val="Die internen Features" link="rev:21,22-27" lang="de" %}}
 

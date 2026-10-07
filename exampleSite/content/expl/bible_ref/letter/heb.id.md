@@ -4,15 +4,16 @@ weight: 57
 docType: expl
 ---
 
-15 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+16 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
+| {{% bible val="Ibrani 1:2" link="heb:1,2" lang="ind" %}} | ["Apa itu akhir zaman": pada zaman akhir ini Ia telah berbicara kepada kita melalui Anak-Nya](/id/expl/content/army/the-end-time-and-the-great-tribulation#ce8d) |
 | {{% bible val="Ibrani 1:8" link="heb:1,8" lang="ind" %}} | ["Rahasia Penunggang Kuda Pertama": ditafsirkan sebagai rujukan mesianis kepada Yesus](/id/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="Ibrani 2:11" link="heb:2,11" lang="ind" %}} | ["Anak Allah": semua saudara-Nya](/id/expl/background/israel/the-church-is-part-of-israel#db2c) |
 | {{% bible val="Ibrani 2:11" link="heb:2,11" lang="ind" %}} | ["Pengajaran Inti": Ibrani 2:11](/id/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#pengajaran-inti) |
 | {{% bible val="Ibrani 6:5" link="heb:6,5" lang="ind" %}} | ["Sejarah Israel": kuasa zaman yang akan datang sudah hadir sekarang](/id/appl/topics/hero/who-rules-the-world#e6be) |
-| {{% bible val="Ibrani 6:20" link="heb:6,20" lang="ind" %}} | ["Serangan Ganda": Ibr.6/20](/id/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
+| {{% bible val="Ibrani 6:20" link="heb:6,20" lang="ind" %}} | ["Serangan Ganda": Ibr 6:20](/id/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Ibrani 7:11-28" link="heb:7,11-28" lang="ind" %}} | ["Penglihatan Itu": Yesus juga memegang peran sebagai imam](/id/expl/content/vision/the-vision#7855) |
 | {{% bible val="Ibrani 8:1-2" link="heb:8,1-2" lang="ind" %}} | ["Sekilas Perjalanan Sejarah": penahiran tempat kudus surgawi](/id/expl/topics/others/dispensionalism-a-little-history#0f48) |
 | {{% bible val="Ibrani 8:6" link="heb:8,6" lang="ind" %}} | ["Ketujuh Puluh Tahun Itu": perjanjian baru Yesus](/id/expl/bible/daniel/the-70-year-weeks#d777) |

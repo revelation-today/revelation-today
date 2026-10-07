@@ -20,7 +20,9 @@ Vahiy'deki fahişe Babil'in hikâyesi kitaptaki en katmanlı hikâyelerden birid
 <a name="cbea"></a>
 O dönemde yaygın olarak kullanılan bir madeni parayla başlayalım.
 
-![](/images/coin.png) <!-- https://www.britishmuseum.org/collection/object/C_1872-0709-477" -->
+![Bir Roma sestertiüsü: bir yüzünde imparatorun başı, öbür yüzünde yedi tepenin üzerinde oturan, dizinde kılıç duran tanrıça Roma](/images/coin.png)
+
+*Vespasianus sestertiüsü. [British Museum, 1872,0709.477](https://www.britishmuseum.org/collection/object/C_1872-0709-477).*
 
 Ön yüzde, "Imp Caesar Vespasianus Aug P M TR P P P COS III" — yani "İmparator Sezar Vespasianus Augustus, Pontifex Maximus (En Büyük Rahip), Tribunicia Potestas (Halk Temsilciliği Yetkisi), Pater Patriae (Anavatanın Babası), Üçüncü Kez Konsül" yazısıyla birlikte İmparator Vespasianus (hüküm sürdüğü yıllar 69–79) yer alır. Kısacası, imparatorun gücünün ve başarılarının bir özeti.
 
@@ -32,7 +34,7 @@ Yani madalyonun arka yüzü, Roma'nın gücünün ve kalıcılığının açık 
 
 - Latincede *lupa*, "dişi kurt", aynı zamanda fahişe için kullanılan bir kelimeydi; bu yüzden sikkedeki dişi kurt büyük olasılıkla bu alaya davetiye çıkarıyordu — gizli ad Amor da onu daha da keskinleştirir.[^lupa]
 - Roma'nın tanrıçası burada bir fahişe olarak yeniden çizilir — hem de sıradan bir fahişe değil, tüm fahişelerin anası olarak.
-- Roma'nın tepeleri, onu desteklemek yerine, onu yok eden canavar ve krallar hâline gelir: Roma, korumak için var olduğu şehrin kurbanı olur.
+- Sikkede yedi tepe Roma'yı taşır. Vahiy'de yedi baş aynı tepelerdir ve bu başlar canavara aittir — canavar da on kralla birlikte {{% bible val="fahişeye döner ve onu yok eder" link="rev:17,16" lang="tr" %}}. Onu taşıyan şey, onu parçalayan şeydir.
 - Ve kendini düşmanlardan kılıcıyla korumak yerine, azizlerin kanıyla örtülür.
 
 Madalyonun {{% int_link val="Pax Romana'yı" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} kutlaması, adım adım, tiksinti ve hor görü dolu bir imgeye dönüştürülür — bu parayı günlük hayatında elinde tutan her mümine, Roma'ya güvenilemeyeceğini hatırlatan bir uyarı. Bu, olağanüstü etkili bir karşı propagandadır.
@@ -57,7 +59,7 @@ O tabula, Vahiy 17'nin arkasındaki bir kaynak olabilir. Bir tapınaktaki adak l
 
 Bir başka olası paralellik de, Hata ve Bilgisizlik'in bir düğünde gelin ve damat kılığına girdiği ve oradaki şarabın konuklara kendi anlayışlarını kusturduğu [Süleyman'ın Kasideleri](https://en.wikipedia.org/wiki/Odes_of_Solomon) 38:9–14'tür.
 
-Her iki paralellik de Vahiy 17'deki ekphrasis'in aynı amacına işaret eder: bu aldatmacayı anlamak, Tanrı'nın krallığına doğru atılan ilk adımdır. Eğer Roma seni aldattıysa, geriye pek az umut kalır — yine de bu aldatmaca, gözden kaçırılması neredeyse imkânsız olacak kadar arsızdır.
+Her iki paralellik de Vahiy 17'deki ekphrasis'in aynı amacına işaret eder: bu aldatmacayı anlamak, Tanrı'nın krallığına doğru atılan ilk adımdır. Aldatılmış olmak yolun sonu değildir: bir sonraki bölüm tam da bu insanlara seslenir, {{% bible val="ondan çıkın, ey halkım" link="rev:18,4" lang="tr" %}}. Ama aldatmacanın, ondan çıkabilmek için önce görülmesi gerekir — yine de bu aldatmaca, gözden kaçırılması neredeyse imkânsız olacak kadar arsızdır.
 
 [^amor]: Gizli ad Amor'u Yohannes Lydos (*Aylar Üzerine* 4.73) ve Aelius Aristides aktarır; Pompeii'deki bir duvar yazısında da geçer; bkz. Aune, s. 925–926.
 

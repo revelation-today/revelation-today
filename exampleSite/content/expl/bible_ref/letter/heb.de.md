@@ -4,15 +4,16 @@ weight: 57
 docType: expl
 ---
 
-15 Bibelstellen wurden in diesem Buch verwendet.
+16 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
+| {{% bible val="Hebräer 1,2" link="heb:1,2" lang="de" %}} | ["Was ist die Endzeit": in diesen letzten Tagen hat er zu uns geredet durch den Sohn](/de/expl/content/army/the-end-time-and-the-great-tribulation#ce8d) |
 | {{% bible val="Hebräer 1,8" link="heb:1,8" lang="de" %}} | ["Das Geheimnis des ersten Reiters": als messianischer Hinweis auf Jesus gedeutet wird](/de/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="Hebräer 2,11" link="heb:2,11" lang="de" %}} | ["Gottes Sohn": alle seine Brüder](/de/expl/background/israel/the-church-is-part-of-israel#db2c) |
 | {{% bible val="Hebräer 2,11" link="heb:2,11" lang="de" %}} | ["Die Kernlehre": Hebräer 2,11](/de/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#die-kernlehre) |
 | {{% bible val="Hebräer 6,5" link="heb:6,5" lang="de" %}} | ["Die Geschichte Israels": Kraft des kommenden Zeitalters ist schon da](/de/appl/topics/hero/who-rules-the-world#e6be) |
-| {{% bible val="Hebräer 6,20" link="heb:6,20" lang="de" %}} | ["Der zweifache Angriff": Hebr.6/20](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
+| {{% bible val="Hebräer 6,20" link="heb:6,20" lang="de" %}} | ["Der zweifache Angriff": Hebr 6,20](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Hebräer 7,11-28" link="heb:7,11-28" lang="de" %}} | ["Die Vision": Jesus auch die Rolle eines Priesters innehat](/de/expl/content/vision/the-vision#7855) |
 | {{% bible val="Hebräer 8,1-2" link="heb:8,1-2" lang="de" %}} | ["Ein kurzer Streifzug durch die Geschichte": Reinigung des himmlischen Heiligtums](/de/expl/topics/others/dispensionalism-a-little-history#0f48) |
 | {{% bible val="Hebräer 8,6" link="heb:8,6" lang="de" %}} | ["Die 70 Jahrwochen": neuen Bund Jesu](/de/expl/bible/daniel/the-70-year-weeks#d777) |

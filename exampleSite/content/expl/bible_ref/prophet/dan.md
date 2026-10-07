@@ -4,7 +4,7 @@ weight: 26
 docType: expl
 ---
 
-138 bible verses have been used in this book.
+139 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -63,6 +63,7 @@ docType: expl
 | {{% bible val="Daniel 7:7" link="dan:7,7" lang="en" %}} | ["A bag full of references": The fourth beast has 10 horns](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a878) |
 | {{% bible val="Daniel 7:7" link="dan:7,7" lang="en" %}} | ["The witnesses and the beasts": Daniel](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Daniel 7:8" link="dan:7,8" lang="en" %}} | ["A bag full of references": The horn speaks great things](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a878) |
+| {{% bible val="Daniel 7:9" link="dan:7,9" lang="en" %}} | ["The vision": Ancient of Days](/expl/content/vision/the-vision#7487) |
 | {{% bible val="Daniel 7:9" link="dan:7,9" lang="en" %}} | ["The background and context": Daniel](/expl/content/worship/worship-in-the-throne-room#3c72) |
 | {{% bible val="Daniel 7:9" link="dan:7,9" lang="en" %}} | ["The background and context": Daniel](/expl/content/worship/worship-in-the-throne-room#3c72) |
 | {{% bible val="Daniel 7:9" link="dan:7,9" lang="en" %}} | ["The background and context": Daniel](/expl/content/worship/worship-in-the-throne-room#3c72) |
@@ -71,7 +72,7 @@ docType: expl
 | {{% bible val="Daniel 7:9-11" link="dan:7,9-11" lang="en" %}} | ["Two final battles?": 9–11](/expl/content/1000y/the-thousand-year-kingdom#1767) |
 | {{% bible val="Daniel 7:9-12" link="dan:7,9-12" lang="en" %}} | ["The end of the kingdoms": the Ancient of Days and the Son of Man overcome the kingdoms](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
 | {{% bible val="Daniel 7:9-14" link="dan:7,9-14" lang="en" %}} | ["The Core Teaching": overcome the kingdoms and establish an eternal one](/sermons/deep-dive/intro/11-daniel-a-story-of-faithfulness-under-pagan-power#the-core-teaching) |
-| {{% bible val="Daniel 7:10" link="dan:7,10" lang="en" %}} | ["Two final battles?": opening of the book](/expl/content/1000y/the-thousand-year-kingdom#1767) |
+| {{% bible val="Daniel 7:10" link="dan:7,10" lang="en" %}} | ["Two final battles?": books being opened](/expl/content/1000y/the-thousand-year-kingdom#1767) |
 | {{% bible val="Daniel 7:10" link="dan:7,10" lang="en" %}} | ["The background and context": Daniel](/expl/content/worship/worship-in-the-throne-room#3c72) |
 | {{% bible val="Daniel 7:10" link="dan:7,10" lang="en" %}} | ["The background and context": Daniel](/expl/content/worship/worship-in-the-throne-room#3c72) |
 | {{% bible val="Daniel 7:10" link="dan:7,10" lang="en" %}} | ["The background and context": Daniel](/expl/content/worship/worship-in-the-throne-room#3c72) |

@@ -16,7 +16,7 @@ deeper:
     - name: Babel als Spottlied auf das Römische Reich
       link:  /expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire
 sources: 
-    - pages: 847–890
+    - pages: 27, 847–890
       ref: beale_rev
     - pages: 886
       ref: beale_rev
@@ -47,7 +47,7 @@ Die Platte des Hohepriesters, {{% bible val="beschriftet mit 'Heilig dem Herrn'"
 
 Die Parallele setzt sich im Gericht fort: {{% bible val="Die Priestertochter, die zur Hure wurde, sollte mit Feuer verbrannt werden" link="lev:21,9" lang="de" %}}, und genau {{% bible val="das ist das Gericht, das über Babel kommt" link="rev:18,8" lang="de" %}}.
 
-Hesekiel zeigt dasselbe Bild aus einem anderen Blickwinkel: Dort konfrontiert Gott Jerusalem damit, {{% bible val="wie eine Hure zu handeln, bekleidet mit denselben priesterlichen Gewändern" link="ezk:16,13-26" lang="de" %}}. In all diesen Texten wird die Hure als Gottes eigener Priester und Geliebte dargestellt, die untreu geworden ist.
+Hesekiel zeigt dasselbe Bild aus einem anderen Blickwinkel: Dort konfrontiert Gott Jerusalem damit, {{% bible val="wie eine Hure zu handeln, bekleidet mit denselben priesterlichen Gewändern" link="ezk:16,13-26" lang="de" %}}. In all diesen Texten wird die Hure als Gottes eigener Priester und Geliebte dargestellt, die untreu geworden ist. Dieselben Beobachtungen haben manche Leser zu einem anderen Schluss geführt als diese Seite: dass Babel das abgefallene Jerusalem sei.[^jerusalem]
 
 Das ist auch kein einmaliges Bild — mehrere Städte des Alten Testaments werden auf dieselbe Weise beschrieben:
 - Tyrus {{% bible val="schloss ein politisches Abkommen mit Salomo" link="1ki:5,12" lang="de" %}}, das beim Bau des Tempels half, wurde aber {{% bible val="zum Gericht gerufen, weil sie Juden in die Gefangenschaft verkaufte" link="amo:1,9" lang="de" %}}, und wurde {{% bible val="eine Hure genannt" link="isa:23,15-18" lang="de" %}}.
@@ -70,7 +70,7 @@ Die Offenbarung zieht dieselbe Verbindung: Die Könige {{% bible val="treiben Hu
 ## Ist Babel die abgefallene Gemeinde?
 
 <a name="738a"></a>
-Könnte Babel einfach ein Bild der abgefallenen Gemeinde sein? Nicht ganz — aber die Gemeinde läuft immer Gefahr, Teil Babels zu werden. Babel ist das Gegenstück zur Braut und dem Neuen Jerusalem, und ist selbst ein eigenständiges System. Zusammen mit dem Tier, auf dem es sitzt, {{% int_link val="stellt es die böse Dreieinigkeit dar, die die Welt täuscht" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
+Könnte Babel einfach ein Bild der abgefallenen Gemeinde sein? Nicht ganz — aber die Gemeinde läuft immer Gefahr, Teil Babels zu werden. Babel ist das Gegenstück zur Braut und dem Neuen Jerusalem, und ist selbst ein eigenständiges System. Sie ist kein Glied der {{% int_link val="nachgemachten Dreiheit" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} — das sind der Drache und seine beiden Tiere —, aber sie reitet auf dem ersten von ihnen und tut an der Welt dasselbe Werk: Sie macht sie mit dem einverstanden, was das Tier ist.
 
 Das Tier unter der Hure stellt politische und militärische Macht dar ({{% int_link val="verkörpert durch den Kaiser" link="/expl/content/beasts/666-the-number-of-the-beast" %}}), während die Hure selbst das unterstützende System darum herum darstellt — die
 
@@ -89,3 +89,5 @@ Durch all das bietet sie ein rivalisierendes Evangelium zu Jesus an und verspric
 Da Babel {{% int_link val="viele Parallelen zu Isebel" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}} aufweist, mag dies eine besondere Warnung insbesondere für Gemeindeleiter bedeuten. Aber der Aufruf zur Achtsamkeit und Selbstprüfung gilt für alle. Vielleicht ist genau das der Grund, warum Babel nicht mit schärferen Konturen gezeichnet wird — {{% bible val="damit du gezwungen bist, immer weiter zu reflektieren und Tag für Tag aus ihr herauszutreten" link="rev:18,4" lang="de" %}}. Denn Babel ist überall.
 
 Genau das macht sie so verführerisch: Für eine Gemeinde unter Verfolgung, oder eine, die in Armut lebt und nach einem Weg zu mehr Reichtum und menschlicher Anerkennung Ausschau hält, kann sie sehr attraktiv wirken.
+
+[^jerusalem]: Die preteristische Lesart, die Babel als das abgefallene Jerusalem versteht. Beale, S. 27, hält dieselbe Balance wie diese Seite: Die Anspielung auf die hohepriesterliche Kleidung sei „möglich und wahrscheinlich bis zu einem gewissen Grad mitgemeint“, doch dieselbe Kleidung gehört dem König von Tyrus und hinter ihm Adam in Eden; und „es gibt kein einziges Beispiel dafür, dass 'Babylon' je ein symbolischer Name für Israel gewesen wäre, weder vor noch nach 70 n. Chr. … die Beweislast liegt bei denen, die die Gleichung Babylon = Jerusalem vertreten.“

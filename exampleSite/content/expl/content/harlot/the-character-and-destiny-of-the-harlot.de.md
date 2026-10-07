@@ -15,7 +15,7 @@ sources:
       ref: bauckham_climax
 ---
 
-Sobald wir wissen, wer die Hure ist, bleiben noch ein paar offene Fragen, und die Bibel beantwortet auch sie: Was ist ihr Verhalten, ihre „Taktik"? Wie sollen wir reagieren? Und was bringt sie letztlich zu Fall?
+Die letzten beiden Artikel haben so weit verfolgt, wer sie ist, wie der Text es zulässt — und das ist mit Absicht nicht ganz. Die Fragen, die sich beantworten lassen, sind diese, und die Bibel beantwortet sie: Was ist ihr Verhalten, ihre „Taktik“? Wie sollen wir reagieren? Und was bringt sie letztlich zu Fall?
 
 ## Hilfreich, vorher zu lesen
 

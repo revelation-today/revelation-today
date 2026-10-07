@@ -20,7 +20,9 @@ Kisah sang pelacur Babel dalam kitab Wahyu adalah salah satu kisah paling berlap
 <a name="12e6"></a>
 Mari kita mulai dengan sebuah koin yang pada masa itu merupakan mata uang yang umum beredar.
 
-![](/images/coin.png) <!-- https://www.britishmuseum.org/collection/object/C_1872-0709-477" -->
+![Sebuah sestertius Romawi: di satu sisi kepala kaisar, di sisi lain dewi Roma duduk di atas tujuh bukit dengan pedang di atas lututnya](/images/coin.png)
+
+*Sestertius Vespasianus. [British Museum, 1872,0709.477](https://www.britishmuseum.org/collection/object/C_1872-0709-477).*
 
 Pada bagian depan tampak Kaisar Vespasianus (memerintah tahun 69–79) dengan tulisan "Imp Caesar Vespasianus Aug P M TR P P P COS III" — "Kaisar Caesar Vespasianus Augustus, Pontifex Maximus (Imam Agung), Tribunicia Potestas (Kekuasaan Tribun), Pater Patriae (Bapak Tanah Air), Konsul untuk ketiga kalinya." Singkatnya, sebuah ringkasan kekuasaan dan pencapaian sang kaisar.
 
@@ -32,7 +34,7 @@ Jadi bagian belakang koin ini adalah sebuah perayaan langsung atas kekuasaan dan
 
 - Dalam bahasa Latin, *lupa*, "serigala betina", juga merupakan sebutan bagi pelacur, sehingga serigala betina pada koin itu kemungkinan besar mengundang ejekan itu — dan nama rahasia Amor hanya mempertajamnya.[^lupa]
 - Dewi pelindung Roma di sini digambarkan ulang sebagai seorang pelacur — bukan sekadar pelacur biasa, melainkan ibu dari segala pelacur.
-- Bukit-bukit Roma, alih-alih mendukungnya, justru menjadi binatang dan para raja yang membinasakannya: Roma akhirnya menjadi korban dari kota yang seharusnya ia lindungi.
+- Pada koin itu ketujuh bukit menopang Roma. Dalam Kitab Wahyu ketujuh kepala adalah bukit-bukit yang sama itu, dan bukit-bukit itu milik binatang - yang, bersama kesepuluh raja, {{% bible val="berbalik melawan sang pelacur dan membinasakannya" link="rev:17,16" lang="ind" %}}. Yang menopangnya adalah juga yang mencabik-cabiknya.
 - Dan alih-alih melindungi dirinya dari musuh dengan pedangnya, ia justru berlumuran darah orang-orang kudus.
 
 Perayaan koin itu atas {{% int_link val="Pax Romana" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} dibalikkan, titik demi titik, menjadi gambaran kehinaan dan kejijikan — sebuah pengingat bagi setiap orang percaya yang memegang koin itu dalam kehidupan sehari-hari bahwa Roma tidak dapat dipercaya. Ini adalah kontra-propaganda yang sungguh efektif.
@@ -57,7 +59,7 @@ Tabula itu kemungkinan besar menjadi salah satu sumber di balik Wahyu 17. Tabula
 
 Kesejajaran lain yang mungkin ada pada [Ode Salomo](https://en.wikipedia.org/wiki/Odes_of_Solomon) 38:9–14, di mana Kesesatan dan Ketidaktahuan menyamar sebagai mempelai perempuan dan mempelai laki-laki dalam sebuah pesta pernikahan, dan anggur di sana membuat para tamu memuntahkan pemahaman mereka sendiri.
 
-Kedua kesejajaran ini menunjuk pada satu tujuan yang sama di balik ekfrasis dalam Wahyu 17: memahami tipu daya ini adalah langkah pertama menuju Kerajaan Allah. Jika Roma telah menipumu, hanya tersisa sedikit harapan bagimu — namun tipu daya itu begitu terang-terangan sehingga sesungguhnya dimaksudkan agar sulit untuk diabaikan.
+Kedua kesejajaran ini menunjuk pada satu tujuan yang sama di balik ekfrasis dalam Wahyu 17: memahami tipu daya ini adalah langkah pertama menuju Kerajaan Allah. Tertipu bukanlah akhir dari segalanya: pasal berikutnya justru memanggil orang-orang itu, {{% bible val="keluarlah dari dia, hai umat-Ku" link="rev:18,4" lang="ind" %}}. Tetapi tipu daya itu harus dilihat lebih dahulu sebelum seseorang dapat keluar darinya — namun tipu daya itu begitu terang-terangan sehingga sesungguhnya dimaksudkan agar sulit untuk diabaikan.
 
 [^amor]: Nama rahasia Amor dilaporkan oleh Yohanes Lydus (*Tentang Bulan-bulan* 4.73) dan Aelius Aristides, dan muncul dalam sebuah grafiti di Pompeii; lihat Aune, hlm. 925–926.
 

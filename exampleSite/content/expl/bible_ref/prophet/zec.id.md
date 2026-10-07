@@ -4,7 +4,7 @@ weight: 37
 docType: expl
 ---
 
-20 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+21 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -27,4 +27,5 @@ docType: expl
 | {{% bible val="Zakharia 6:1-8" link="zec:6,1-8" lang="ind" %}} | ["Pengamatan-Pengamatan Awal": empat kereta perang dengan warna berbeda mencerminkan angin-angin di bumi](/id/expl/content/seals/the-mystery-of-the-four-horse-men#2795) |
 | {{% bible val="Zakharia 12" link="zec:12" lang="ind" %}} | ["Dua pertempuran terakhir?": Zakharia](/id/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Zakharia 12:10-11" link="zec:12,10-11" lang="ind" %}} | ["Ia Datang bersama Awan-Awan": Aku akan mencurahkan roh pengasihan dan roh permohonan atas keturunan Daud dan atas penduduk Yerusalem, dan mereka akan memandang kepada dia yang telah mereka tikam, dan akan meratapi dia seperti orang meratapi anak tunggal, dan akan menangisi dia dengan pedih seperti orang menangisi anak sulung. Pada waktu itu akan ada ratapan yang besar di Yerusalem, seperti ratapan di Hadad-Rimon di dataran Megido.](/id/expl/content/vision/setting-the-foundation#aaf2) |
+| {{% bible val="Zakharia 14:1-9" link="zec:14,1-9" lang="ind" %}} | ["Asal Mula Hari Tuhan": Zakharia 14:1-9](/id/expl/background/israel/the-day-of-the-lord#4fec) |
 | {{% bible val="Zakharia 14:8" link="zec:14,8" lang="ind" %}} | ["Simbol-simbol kehadiran Allah": sungai yang mengalir ketika Yerusalem dibangun kembali](/id/expl/content/paradise/the-new-jerusalem#126e) |

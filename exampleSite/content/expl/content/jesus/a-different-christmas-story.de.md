@@ -44,7 +44,9 @@ Diese Geschichte zeigt einen Aspekt von Weihnachten, und wir haben sie schon so 
 
 Auf den ersten Blick denkst du wahrscheinlich an so etwas:
 
-![](/images/Dragon-and-woman-revelation-luther-bibel.jpg) <!-- https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg" -->
+![Ein Holzschnitt aus der Lutherbibel: oben die mit der Sonne bekleidete Frau, unten der siebenköpfige Drache, der wartet](/images/Dragon-and-woman-revelation-luther-bibel.jpg)
+
+*Holzschnitt aus der Lutherbibel. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg), gemeinfrei.*
 
 In dieser Szene gibt es viele geheimnisvolle Gestalten, aber bevor wir versuchen herauszufinden, wer wer ist, wollen wir die Szene erst einmal einordnen. Da ist eine Frau, die trotz einiger himmlischer Merkmale vor allem eines ist: schwanger und im Begriff zu gebären – gelinde gesagt in denkbar schlechter Verfassung für einen großen Kampf. Ihr gegenüber steht ein riesiger, zorniger, roter Drache mit nur einem Ziel: das Kind zu verschlingen, sobald es geboren ist.
 

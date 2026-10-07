@@ -4,7 +4,7 @@ weight: 39
 docType: expl
 ---
 
-77 bible verses have been used in this book.
+78 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -36,7 +36,7 @@ docType: expl
 | {{% bible val="Matthew 9:30" link="mat:9,30" lang="en" %}} | ["The twofold attack": Jesus acts often in the hidden](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Matthew 10:8" link="mat:10,8" lang="en" %}} | ["Living water": Matthew](/expl/content/paradise/the-new-jerusalem#bac3) |
 | {{% bible val="Matthew 11:12" link="mat:11,12" lang="en" %}} | ["Missing key words": snatch the kingdom of heaven](/expl/topics/others/the-rapture#7612) |
-| {{% bible val="Matthew 11:13-14" link="mat:11,13-14" lang="en" %}} | ["The identity of the two witnesses": who comes again as John](/expl/content/witnesses/the-two-witnesses#3181) |
+| {{% bible val="Matthew 11:13-14" link="mat:11,13-14" lang="en" %}} | ["The identity of the two witnesses": John the Baptist](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Matthew 11:20-24" link="mat:11,20-24" lang="en" %}} | ["Already but not yet": no one could have stood](/expl/background/israel/jesus-and-the-covenant#already) |
 | {{% bible val="Matthew 11:20-24" link="mat:11,20-24" lang="en" %}} | ["The Core Teaching": Matthew 11:20-24](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#the-core-teaching) |
 | {{% bible val="Matthew 12:6" link="mat:12,6" lang="en" %}} | ["The promise": greater than the temple](/expl/bible/daniel/the-70-year-weeks#2d32) |
@@ -59,6 +59,7 @@ docType: expl
 | {{% bible val="Matthew 15:24" link="mat:15,24" lang="en" %}} | ["The solution": His calling was to restore Israel and call as many of them to himself as possible](/expl/bible/daniel/the-son-of-man-and-the-remnant#77b0) |
 | {{% bible val="Matthew 16:5-12" link="mat:16,5-12" lang="en" %}} | ["The Core Teaching": Matthew 16:5-12](/sermons/deep-dive/intro/03-symbol-or-literal#the-core-teaching) |
 | {{% bible val="Matthew 16:18" link="mat:16,18" lang="en" %}} | ["Defeat turned into victory": Church would not be overcome](/expl/content/witnesses/the-two-witnesses#3181) |
+| {{% bible val="Matthew 17:2" link="mat:17,2" lang="en" %}} | ["The vision": Jesus was transfigured](/expl/content/vision/the-vision#7487) |
 | {{% bible val="Matthew 18" link="mat:18" lang="en" %}} | ["Literally or symbolically": forgive 7 times 70, that is 490 times](/quick/background/literature/) |
 | {{% bible val="Matthew 18" link="mat:18" lang="en" %}} | ["Literally or symbolically": pluck out our eyes if they cause us to sin](/quick/background/literature/) |
 | {{% bible val="Matthew 20:20-28" link="mat:20,20-28" lang="en" %}} | ["The thousand year kingdom": reigning](/expl/content/1000y/the-thousand-year-kingdom) |

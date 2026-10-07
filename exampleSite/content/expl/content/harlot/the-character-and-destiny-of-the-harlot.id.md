@@ -15,7 +15,7 @@ sources:
       ref: bauckham_climax
 ---
 
-Setelah kita mengetahui siapa sang pelacur itu, masih tersisa beberapa pertanyaan terbuka, dan Alkitab juga menjawabnya: Bagaimana perilakunya, "taktiknya"? Bagaimana seharusnya kita meresponsnya? Dan apa yang pada akhirnya menyebabkan kejatuhannya?
+Dua artikel terakhir menelusuri siapa dia sejauh yang diizinkan teksnya, dan itu dengan sengaja tidak sampai tuntas. Pertanyaan-pertanyaan yang bisa dijawab adalah ini, dan Alkitab memang menjawabnya: bagaimana perilakunya, "taktiknya"? Bagaimana seharusnya kita meresponsnya? Dan apa yang pada akhirnya menyebabkan kejatuhannya?
 
 ## Baik untuk dibaca sebelumnya
 

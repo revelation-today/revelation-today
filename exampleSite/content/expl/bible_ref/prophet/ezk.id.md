@@ -11,7 +11,7 @@ docType: expl
 | {{% bible val="Yehezkiel 1:5-21" link="ezk:1,5-21" lang="ind" %}} | ["Penyembahan": oleh Yehezkiel](/id/expl/content/worship/worship-in-the-throne-room#e545) |
 | {{% bible val="Yehezkiel 1:22" link="ezk:1,22" lang="ind" %}} | ["Ruang Takhta": kemuliaan Allah di surga](/id/expl/content/worship/worship-in-the-throne-room#0938) |
 | {{% bible val="Yehezkiel 4:6" link="ezk:4,6" lang="ind" %}} | ["Sekilas Perjalanan Sejarah": Kitab Yehezkiel](/id/expl/topics/others/dispensionalism-a-little-history#0f48) |
-| {{% bible val="Yehezkiel 9" link="ezk:9" lang="ind" %}} | ["Penyegelan": Ini mengingatkan kita pada penyegelan orang-orang benar pada zaman nabi Yehezkiel, di mana malaikat itu diperintahkan untuk menandai semua orang yang berdukacita atas kejahatan yang telah terjadi. Setelah mereka semua dimeteraikan, datanglah malaikat lain yang membunuh semua orang yang tidak memiliki meterai, dimulai dari Bait Allah.](/id/expl/content/army/the-144000#e426) |
+| {{% bible val="Yehezkiel 9" link="ezk:9" lang="ind" %}} | ["Penyegelan": penyegelan dalam Yehezkiel](/id/expl/content/army/the-144000#e426) |
 | {{% bible val="Yehezkiel 10:18-19" link="ezk:10,18-19" lang="ind" %}} | ["Allah Datang ke Kota": kehadiran-Nya meninggalkan bait itu](/id/expl/bible/creation/the-temple-and-the-presence-of-god#5add) |
 | {{% bible val="Yehezkiel 10:18-19" link="ezk:10,18-19" lang="ind" %}} | ["Inti Pengajaran": hadirat-Nya meninggalkan bait suci](/id/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#inti-pengajaran) |
 | {{% bible val="Yehezkiel 11:22-24" link="ezk:11,22-24" lang="ind" %}} | ["Asal Mula Hari Tuhan": Allah meninggalkan Israel](/id/expl/background/israel/the-day-of-the-lord#4fec) |
@@ -40,9 +40,9 @@ docType: expl
 | {{% bible val="Yehezkiel 36:27" link="ezk:36,27" lang="ind" %}} | ["Pencurahan Roh": Israel](/id/expl/background/israel/the-church-is-part-of-israel#e989) |
 | {{% bible val="Yehezkiel 37" link="ezk:37" lang="ind" %}} | ["Serangan Ganda": karya Roh Kudus dalam kitab Yehezkiel](/id/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Yehezkiel 37" link="ezk:37" lang="ind" %}} | ["Masalahnya": penglihatan tentang lembah tulang-tulang kering dalam Kitab Yehezkiel, tempat Roh datang dan meniupkan hidup baru ke dalam apa yang telah mati](/id/expl/content/letters/the-letter-to-the-church-in-sardis#c0b1) |
-| {{% bible val="Yehezkiel 37:1-14" link="ezk:37,1-14" lang="ind" %}} | ["Apa alur ceritanya?": 37/1–14](/id/expl/content/1000y/the-thousand-year-kingdom#008e) |
+| {{% bible val="Yehezkiel 37:1-14" link="ezk:37,1-14" lang="ind" %}} | ["Apa alur ceritanya?": 37:1–14](/id/expl/content/1000y/the-thousand-year-kingdom#008e) |
 | {{% bible val="Yehezkiel 37:10" link="ezk:37,10" lang="ind" %}} | ["Simpul 1: dua kali menjadi hidup, satu kata kerja": Yehezkiel 37:10](/id/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
-| {{% bible val="Yehezkiel 37:15-28" link="ezk:37,15-28" lang="ind" %}} | ["Apa alur ceritanya?": 37/15–28](/id/expl/content/1000y/the-thousand-year-kingdom#008e) |
+| {{% bible val="Yehezkiel 37:15-28" link="ezk:37,15-28" lang="ind" %}} | ["Apa alur ceritanya?": 37:15–28](/id/expl/content/1000y/the-thousand-year-kingdom#008e) |
 | {{% bible val="Yehezkiel 37:27" link="ezk:37,27" lang="ind" %}} | ["Allah tinggal bersama umat-Nya": Yehezkiel](/id/expl/content/paradise/the-new-jerusalem#f42c) |
 | {{% bible val="Yehezkiel 38" link="ezk:38" lang="ind" %}} | ["Simpul 3: apakah pasal 20 mengikuti pasal 19?": satu pertempuran terakhir dalam Yehezkiel 38](/id/expl/content/1000y/pre-post-and-amillennialism#47e1) |
 | {{% bible val="Yehezkiel 38" link="ezk:38" lang="ind" %}} | ["Dua pertempuran terakhir?": 38](/id/expl/content/1000y/the-thousand-year-kingdom#4257) |

@@ -203,7 +203,7 @@ The twelve stones reflect the {{% bible val="breastpiece of the high priest" lin
 
 One translation note matters here: our English versions typically read "the first foundation was decorated with jasper," but a [better translation is "the first foundation *is* jasper"](https://biblehub.com/interlinear/revelation/21-19.htm) — the foundation isn't merely ornamented with the stone, it is made of it.
 
-The mention of the {{% bible val="street in the New Jerusalem" link="rev:21,21" lang="en" %}} recalls {{% bible val="the two witnesses, whose dead bodies were once exposed" link="rev:11,8" lang="en" %}} in a street — except now that same street stands in their honor. Our former shame will be replaced by eternal glory.
+The mention of the {{% bible val="street in the New Jerusalem" link="rev:21,21" lang="en" %}} recalls {{% bible val="the two witnesses, whose dead bodies were once exposed" link="rev:11,8" lang="en" %}} in a street — except now that same street stands in their honour. That is a reflection the text does not make itself; John says only that the street is of gold. Our former shame will be replaced by eternal glory.
 
 ### {{% bible val="The internal features" link="rev:21,22-27" lang="en" %}}
 

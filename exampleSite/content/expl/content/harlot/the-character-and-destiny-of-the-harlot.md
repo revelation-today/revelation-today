@@ -15,7 +15,7 @@ sources:
       ref: bauckham_climax
 ---
 
-Once we know who the harlot is, a few open questions remain, and the Bible answers them too: What is her behavior, her "tactic"? How should we respond? And what ultimately causes her to fall?
+The last two articles traced who she is as far as the text allows, which is deliberately not all the way. The questions that can be answered are these, and the Bible does answer them: what is her behaviour, her "tactic"? How should we respond? And what finally brings her down?
 
 ## Helpful to read before
 

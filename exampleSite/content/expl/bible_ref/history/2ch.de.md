@@ -4,12 +4,13 @@ weight: 13
 docType: expl
 ---
 
-10 Bibelstellen wurden in diesem Buch verwendet.
+11 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
 | {{% bible val="2.Chronik 2,13-14" link="2ch:2,13-14" lang="de" %}} | ["Der religiöse Aspekt": aber auch im Tempel](/de/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
-| {{% bible val="2.Chronik 21,13" link="2ch:21,13" lang="de" %}} | ["Die Hure": 2.Chr.21/13](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="2.Chronik 21,13" link="2ch:21,13" lang="de" %}} | ["Die Hure": 2.Chr 21,13](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="2.Chronik 35,20-24" link="2ch:35,20-24" lang="de" %}} | ["Armageddon und Karkemisch": die Chronik sagt, er zog aus, obwohl Nechos Worte aus dem Mund Gottes kamen, und er wollte nicht hören](/de/expl/content/bowls/armageddon-and-the-battle-of-karkemish#b3c1) |
 | {{% bible val="2.Chronik 35,20-24" link="2ch:35,20-24" lang="de" %}} | ["Harmagedon": 2. Chronik 35,20-24](/de/quick/content/bowls#harmagedon) |
 | {{% bible val="2.Chronik 35,20-25" link="2ch:35,20-25" lang="de" %}} | ["Die Geschichte vor Karkemisch": fand in der Nähe von Megiddo eine Schlacht statt, in der Josia, König von Juda, gegen Necho, den Pharao Ägyptens, kämpfte](/de/expl/content/bowls/armageddon-and-the-battle-of-karkemish#dd2e) |
 | {{% bible val="2.Chronik 35,22-25" link="2ch:35,22-25" lang="de" %}} | ["Er kommt mit den Wolken": Trauer um ihren König Josia](/de/expl/content/vision/setting-the-foundation#aaf2) |

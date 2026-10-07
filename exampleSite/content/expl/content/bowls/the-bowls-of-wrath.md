@@ -33,9 +33,9 @@ The bowls of wrath in the book of Revelation can give the impression of a God wh
 <a name="a84e"></a>
 Like the other two series, the bowls of wrath originate {{% bible val="in the throne room of God" link="rev:15,1-5" lang="en" %}}. Seven angels appear, and one of the {{% bible val="four living creatures (representing the creation)" link="rev:4,7" lang="en" %}} hands {{% bible val="them the bowls of wrath" link="rev:15,6-7" lang="en" %}} — an interesting detail, since it raises the question of whether this is {{% bible val="creation itself asking God" link="rom:8,19-22" lang="en" %}} to {{% bible val="put an end to this" link="rev:15,1" lang="en" %}}.
 
-These bowls complete the wrath of God. So what is the wrath of God, exactly? It's both his refusal to let evil have the last word and [his compassionate ambition to solve the world's problem](https://moodyaudio.com/products/good-and-beautiful-god-part-6) — justice and restoration together, not one instead of the other, as {{% bible val="the altar's own verdict makes clear: 'true and just are your judgments'" link="rev:16,5-7" lang="en" %}}.
+These bowls complete the wrath of God. So what is the wrath of God, exactly? It's both his refusal to let evil have the last word and his compassionate ambition to solve the world's problem[^wrathdef] — justice and restoration together, not one instead of the other, as {{% bible val="the altar's own verdict makes clear: 'true and just are your judgments'" link="rev:16,5-7" lang="en" %}}.
 
-You may have already noticed that the seven bowls have a great deal in common with the {{% int_link val="seven trumpets" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}, and that both cycles are closely tied to the {{% int_link val="plagues in Egypt" link="/expl/bible/exodus/the-plagues-in-egypt" %}}. What ties the bowls together, though, is this: the wrath of God is connected to the prayers of the saints. What a thought — {{% bible val="God's plan is affected by our prayers" link="gen:18,20-33" lang="en" %}}.
+You may have already noticed that the seven bowls have a great deal in common with the {{% int_link val="seven trumpets" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}, and that both cycles are closely tied to the {{% int_link val="plagues in Egypt" link="/expl/bible/exodus/the-plagues-in-egypt" %}}. What ties the bowls together, though, is this: the wrath of God is connected to the prayers of the saints. The book has shown this twice already: the elders hold {{% bible val="bowls of incense, which are the prayers of the saints" link="rev:5,8" lang="en" %}}, and before the trumpets an angel takes that same incense up and then {{% bible val="throws the fire of the altar down on the earth" link="rev:8,3-5" lang="en" %}}. Now the bowls are poured out, and it is the altar itself that answers: {{% bible val="true and just are your judgments" link="rev:16,7" lang="en" %}}.[^prayers] What a thought — {{% bible val="God's plan is affected by our prayers" link="gen:18,20-33" lang="en" %}}.
 
 ## The bowls
 
@@ -60,3 +60,7 @@ The sixth bowl deserves a closer look on its own.
 One more irony closes out the scene. The gathering of the armies at Armageddon is mirrored later by the gathering of the birds in chapter 19, and that parallel makes Satan's defeat even more pointed: his assembled armies are cut down by a single word, the sword from the rider's mouth, and all that is left of them is a meal for the birds (19:21).
 
 [^frogs]: Beale, pp. 832–833.
+
+[^wrathdef]: The phrase is James Bryan Smith's, *The Good and Beautiful God* (IVP, 2009): God's wrath is not rage but a settled commitment to love, peace and justice.
+
+[^prayers]: Beale, p. 147, on the saints' prayers and the judgments that answer them.

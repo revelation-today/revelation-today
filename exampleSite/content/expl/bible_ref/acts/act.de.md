@@ -4,13 +4,14 @@ weight: 43
 docType: expl
 ---
 
-46 Bibelstellen wurden in diesem Buch verwendet.
+48 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
 | {{% bible val="Apostelgeschichte 2" link="act:2" lang="de" %}} | ["Der neue Auszug in der Apostelgeschichte": Kommen des Heiligen Geistes](/de/expl/background/israel/the-second-exodus#a809) |
 | {{% bible val="Apostelgeschichte 2,5" link="act:2,5" lang="de" %}} | ["Der neue Auszug in der Apostelgeschichte": Pfingsten, das Juden aus allen Nationen einschließt](/de/expl/background/israel/the-second-exodus#a809) |
 | {{% bible val="Apostelgeschichte 2,5-11" link="act:2,5-11" lang="de" %}} | ["Ausgießung des Geistes": an Pfingsten aufgezählten Nationen](/de/expl/background/israel/the-church-is-part-of-israel#e989) |
+| {{% bible val="Apostelgeschichte 2,16-17" link="act:2,16-17" lang="de" %}} | ["Was ist die Endzeit": letzten Tage](/de/expl/content/army/the-end-time-and-the-great-tribulation#ce8d) |
 | {{% bible val="Apostelgeschichte 2,16-21" link="act:2,16-21" lang="de" %}} | ["Ausgießung des Geistes": an Pfingsten erfüllt](/de/expl/background/israel/the-church-is-part-of-israel#e989) |
 | {{% bible val="Apostelgeschichte 2,17" link="act:2,17" lang="de" %}} | ["Ausgießung des Geistes": in den letzten Tagen](/de/expl/background/israel/the-church-is-part-of-israel#e989) |
 | {{% bible val="Apostelgeschichte 2,41-47" link="act:2,41-47" lang="de" %}} | ["Der neue Auszug in der Apostelgeschichte": Pfingsten](/de/expl/background/israel/the-second-exodus#a809) |
@@ -31,8 +32,9 @@ docType: expl
 | {{% bible val="Apostelgeschichte 12,20-23" link="act:12,20-23" lang="de" %}} | ["Der neue Auszug in der Apostelgeschichte": Herodes](/de/expl/background/israel/the-second-exodus#a809) |
 | {{% bible val="Apostelgeschichte 12,24" link="act:12,24" lang="de" %}} | ["Der neue Auszug in der Apostelgeschichte": nach dem Tod des Herodes](/de/expl/background/israel/the-second-exodus#a809) |
 | {{% bible val="Apostelgeschichte 13,10-11" link="act:13,10-11" lang="de" %}} | ["Der neue Auszug in der Apostelgeschichte": Elymas](/de/expl/background/israel/the-second-exodus#a809) |
-| {{% bible val="Apostelgeschichte 13,47" link="act:13,47" lang="de" %}} | ["Der Dienst": (Apg.13/47)](/de/expl/background/israel/the-church-is-part-of-israel#05d4) |
+| {{% bible val="Apostelgeschichte 13,47" link="act:13,47" lang="de" %}} | ["Der Dienst": (Apg 13,47)](/de/expl/background/israel/the-church-is-part-of-israel#05d4) |
 | {{% bible val="Apostelgeschichte 13,47" link="act:13,47" lang="de" %}} | ["Ausgießung des Geistes": Apostelgeschichte](/de/expl/background/israel/the-church-is-part-of-israel#e989) |
+| {{% bible val="Apostelgeschichte 13,47" link="act:13,47" lang="de" %}} | ["Die Nationen werden Teil von Israel": dieselbe Zeile](/de/expl/background/israel/the-remnant-of-israel#1c50) |
 | {{% bible val="Apostelgeschichte 14,22" link="act:14,22" lang="de" %}} | ["Die Große Trübsal": Mission des Paulus](/de/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
 | {{% bible val="Apostelgeschichte 15,13-18" link="act:15,13-18" lang="de" %}} | ["Der neue Auszug in der Apostelgeschichte": Wiederherstellung des Königreichs Davids](/de/expl/background/israel/the-second-exodus#a809) |
 | {{% bible val="Apostelgeschichte 17" link="act:17" lang="de" %}} | ["Der neue Auszug in der Apostelgeschichte": Apostelgeschichte 17](/de/expl/background/israel/the-second-exodus#a809) |
@@ -50,7 +52,7 @@ docType: expl
 | {{% bible val="Apostelgeschichte 24,25" link="act:24,25" lang="de" %}} | ["Die siebte Posaune, und was zuvor geschieht": Felix, als er hörte, was das Evangelium tatsächlich verlangte](/de/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Apostelgeschichte 25,27" link="act:25,27" lang="de" %}} | ["semaino": mitteilen](/de/expl/background/literature/literally-or-symbolic#09b2) |
 | {{% bible val="Apostelgeschichte 26,10" link="act:26,10" lang="de" %}} | ["Die Lösung": vor Gericht verwendet, wo mittels eines Steinchens abgestimmt wurde - weiß für Freispruch, schwarz für Verurteilung](/de/expl/content/letters/the-letter-to-the-church-in-pergamon#85d8) |
-| {{% bible val="Apostelgeschichte 26,18" link="act:26,18" lang="de" %}} | ["Der Dienst": (Apg.26/18)](/de/expl/background/israel/the-church-is-part-of-israel#05d4) |
-| {{% bible val="Apostelgeschichte 26,23" link="act:26,23" lang="de" %}} | ["Der Dienst": (Apg.26/23)](/de/expl/background/israel/the-church-is-part-of-israel#05d4) |
+| {{% bible val="Apostelgeschichte 26,18" link="act:26,18" lang="de" %}} | ["Der Dienst": (Apg 26,18)](/de/expl/background/israel/the-church-is-part-of-israel#05d4) |
+| {{% bible val="Apostelgeschichte 26,23" link="act:26,23" lang="de" %}} | ["Der Dienst": (Apg 26,23)](/de/expl/background/israel/the-church-is-part-of-israel#05d4) |
 | {{% bible val="Apostelgeschichte 28,15" link="act:28,15" lang="de" %}} | ["Fehlende Schlüsselwörter": beim Empfang, der Paulus in Rom bereitet wird](/de/expl/topics/others/the-rapture#0f61) |
 | {{% bible val="Apostelgeschichte 28,26-27" link="act:28,26-27" lang="de" %}} | ["Der neue Auszug in der Apostelgeschichte": Buch schließlich mit](/de/expl/background/israel/the-second-exodus#a809) |

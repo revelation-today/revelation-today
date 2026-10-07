@@ -26,7 +26,7 @@ docType: expl
 | {{% bible val="Markus 4,11-13" link="mrk:4,11-13" lang="de" %}} | ["Der Auszug bei Markus": zur Verhärtung der Herzen](/de/expl/background/israel/the-second-exodus#f526) |
 | {{% bible val="Markus 4,26-29" link="mrk:4,26-29" lang="de" %}} | ["Die Lehren Jesu": Aufwachsen der Saat](/de/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Markus 4,30-32" link="mrk:4,30-32" lang="de" %}} | ["Die Lehren Jesu": Gleichnis vom Senfkorn](/de/expl/background/israel/jesus-and-the-covenant#221c) |
-| {{% bible val="Markus 5,43" link="mrk:5,43" lang="de" %}} | ["Der zweifache Angriff": Mk.5/43](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
+| {{% bible val="Markus 5,43" link="mrk:5,43" lang="de" %}} | ["Der zweifache Angriff": Mk 5,43](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Markus 10,29-30" link="mrk:10,29-30" lang="de" %}} | ["Die Geschichte Israels": Markus](/de/appl/topics/hero/who-rules-the-world#e6be) |
 | {{% bible val="Markus 10,42-45" link="mrk:10,42-45" lang="de" %}} | ["Ein neues Denken": wer unter euch groß werden will, der soll euer Diener sein](/de/expl/background/israel/jesus-and-the-covenant#3cee) |
 | {{% bible val="Markus 11,12-14" link="mrk:11,12-14" lang="de" %}} | ["Die Kernlehre": Markus 11,12-14.20-21](/de/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#die-kernlehre) |

@@ -4,7 +4,7 @@ weight: 1
 docType: expl
 ---
 
-124 Bibelstellen wurden in diesem Buch verwendet.
+125 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -81,6 +81,7 @@ docType: expl
 | {{% bible val="2.Mose 12,12" link="exo:12,12" lang="de" %}} | ["Warum die Plagen Ägyptens?": die Götter Ägyptens](/de/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
 | {{% bible val="2.Mose 12,12" link="exo:12,12" lang="de" %}} | ["Die zentrale Lehre": 2. Mose 12,12](/de/sermons/deep-dive/intro/15-the-exodus-pattern-moses-pharaoh-and-the-plagues#die-zentrale-lehre) |
 | {{% bible val="2.Mose 12,14-20" link="exo:12,14-20" lang="de" %}} | ["Der Tod der Erstgeburt": Fest der ungesäuerten Brote eingeführt](/de/expl/bible/exodus/the-plagues-in-egypt#4f21) |
+| {{% bible val="2.Mose 12,15" link="exo:12,15" lang="de" %}} | ["Die Lehren Jesu": 2. Mose 12,15](/de/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="2.Mose 12,35-36" link="exo:12,35-36" lang="de" %}} | ["Der Kampf gegen ein zweites Hyksos": beim Auszug aus Ägypten](/de/expl/bible/exodus/the-birth-of-moses#f92d) |
 | {{% bible val="2.Mose 12,37" link="exo:12,37" lang="de" %}} | ["Nie wieder": aus der die Israeliten schließlich auszogen](/de/expl/bible/exodus/the-story-before-the-exodus#1933) |
 | {{% bible val="2.Mose 12,38" link="exo:12,38" lang="de" %}} | ["Der Ursprung des Tages des Herrn": nahm Israel viele andere Menschen mit, die Teil Israels wurden](/de/expl/background/israel/the-day-of-the-lord#4fec) |
@@ -130,5 +131,5 @@ docType: expl
 | {{% bible val="2.Mose 28,36-38" link="exo:28,36-38" lang="de" %}} | ["Symbole von Gottes Gegenwart": ursprünglich auf der Stirn des Priesters getragen](/de/expl/content/paradise/the-new-jerusalem#126e) |
 | {{% bible val="2.Mose 30,7" link="exo:30,7" lang="de" %}} | ["Die Vision": Aufgabe, sich um die Leuchter zu kümmern](/de/expl/content/vision/the-vision#7855) |
 | {{% bible val="2.Mose 34,5-7" link="exo:34,5-7" lang="de" %}} | ["Jerusalem, die Heilige Stadt": Gottes Herrlichkeit ist seine Güte, barmherzig und gerecht](/de/expl/content/paradise/the-new-jerusalem#a373) |
-| {{% bible val="2.Mose 34,5-7" link="exo:34,5-7" lang="de" %}} | ["Der Thronsaal": Als Mose bat, Gottes Herrlichkeit zu sehen, konnte er es nicht — doch Gott ließ seine Güte an ihm vorüberziehen und verkündete seinen Namen: barmherzig und gnädig, und doch einer, der den Schuldigen nicht ungestraft lässt. Gottes Herrlichkeit hält Barmherzigkeit und Gerechtigkeit zusammen](/de/expl/content/worship/worship-in-the-throne-room#0938) |
+| {{% bible val="2.Mose 34,5-7" link="exo:34,5-7" lang="de" %}} | ["Der Thronsaal": rief seinen eigenen Namen aus](/de/expl/content/worship/worship-in-the-throne-room#0938) |
 | {{% bible val="2.Mose 34,28" link="exo:34,28" lang="de" %}} | ["Einige Grundlagen": Mose fastete 40 Tage, als er das Gesetz am Berg Sinai empfing](/de/expl/content/beasts/666-the-number-of-the-beast#74d6) |

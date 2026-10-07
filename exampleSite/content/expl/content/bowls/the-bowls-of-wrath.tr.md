@@ -33,9 +33,9 @@ Vahiy Kitabı'ndaki gazap kaseleri, artık sabrı tükenmiş ve söz dinlemeyen 
 <a name="08a9"></a>
 Diğer iki seri gibi, gazap kaseleri de {{% bible val="Tanrı'nın taht odasından" link="rev:15,1-5" lang="tr" %}} çıkar. Yedi melek belirir ve {{% bible val="dört canlı yaratıktan (yaratılışı temsil eden) biri" link="rev:4,7" lang="tr" %}} {{% bible val="onlara gazap kaselerini verir" link="rev:15,6-7" lang="tr" %}} - ilginç bir ayrıntı, çünkü bunun {{% bible val="yaratılışın bizzat Tanrı'dan" link="rom:8,19-22" lang="tr" %}} {{% bible val="buna bir son vermesini istemesi" link="rev:15,1" lang="tr" %}} olup olmadığı sorusunu akla getirir.
 
-Bu kaseler Tanrı'nın gazabını tamamlar. Peki Tanrı'nın gazabı tam olarak nedir? Bu, hem kötülüğe son sözü söyletmemesi, hem de [dünyanın sorununu çözmeye yönelik şefkatli tutkusudur](https://moodyaudio.com/products/good-and-beautiful-god-part-6) - yani birinin diğerinin yerine değil, adalet ve restorasyonun birlikte işlemesidir; nitekim {{% bible val="sunağın kendi hükmü bunu açıkça ortaya koyar: 'Senin yargıların gerçek ve adildir'" link="rev:16,5-7" lang="tr" %}}.
+Bu kaseler Tanrı'nın gazabını tamamlar. Peki Tanrı'nın gazabı tam olarak nedir? Bu, hem kötülüğe son sözü söyletmemesi, hem de dünyanın sorununu çözmeye yönelik şefkatli tutkusudur[^wrathdef] - yani birinin diğerinin yerine değil, adalet ve restorasyonun birlikte işlemesidir; nitekim {{% bible val="sunağın kendi hükmü bunu açıkça ortaya koyar: 'Senin yargıların gerçek ve adildir'" link="rev:16,5-7" lang="tr" %}}.
 
-Yedi kasenin {{% int_link val="yedi borazanla" link="/expl/content/trumpets/the-trumpets-in-revelation" %}} pek çok ortak yönü olduğunu ve her iki döngünün de {{% int_link val="Mısır'daki belalarla" link="/expl/bible/exodus/the-plagues-in-egypt" %}} yakından bağlantılı olduğunu fark etmişsinizdir. Ancak kaseleri birbirine bağlayan şey şudur: Tanrı'nın gazabı, kutsalların dualarıyla bağlantılıdır. Ne düşündürücü bir şey - {{% bible val="Tanrı'nın planı dualarımızdan etkilenir" link="gen:18,20-33" lang="tr" %}}.
+Yedi kasenin {{% int_link val="yedi borazanla" link="/expl/content/trumpets/the-trumpets-in-revelation" %}} pek çok ortak yönü olduğunu ve her iki döngünün de {{% int_link val="Mısır'daki belalarla" link="/expl/bible/exodus/the-plagues-in-egypt" %}} yakından bağlantılı olduğunu fark etmişsinizdir. Ancak kaseleri birbirine bağlayan şey şudur: Tanrı'nın gazabı, kutsalların dualarıyla bağlantılıdır. Kitap bunu iki kez zaten gösterdi: ihtiyarların elinde {{% bible val="buhur tasları vardır ve bunlar kutsalların dualarıdır" link="rev:5,8" lang="tr" %}}; borazanlardan önce bir melek aynı buhuru yukarı taşır, sonra da {{% bible val="sunaktaki ateşi yere atar" link="rev:8,3-5" lang="tr" %}}. Şimdi kâseler dökülür ve yanıtı sunak kendisi verir: {{% bible val="senin yargıların gerçek ve adildir" link="rev:16,7" lang="tr" %}}.[^prayers] Ne düşündürücü bir şey - {{% bible val="Tanrı'nın planı dualarımızdan etkilenir" link="gen:18,20-33" lang="tr" %}}.
 
 ## Kaseler
 
@@ -60,3 +60,7 @@ Altıncı kase kendi başına daha yakından bir bakışı hak ediyor.
 Sahneyi bir ironi daha kapatır. Armagedon'da ordunun toplanması, daha sonra 19. bölümde kuşların toplanmasıyla yansıtılır ve bu paralellik Şeytan'ın yenilgisini daha da çarpıcı kılar: Toplanan devasa orduları tek bir sözle, Atlı'nın ağzından çıkan kılıçla yere serilir; onlardan geriye yalnızca kuşlara bir şölen kalır (19:21).
 
 [^frogs]: Beale, s. 832–833.
+
+[^wrathdef]: Bu ifade James Bryan Smith'e aittir, *The Good and Beautiful God* (IVP, 2009): Tanrı'nın gazabı öfke değil, sevgiye, barışa ve adalete yerleşmiş bir bağlılıktır.
+
+[^prayers]: Beale, s. 147, kutsalların duaları ve onlara yanıt veren yargılar üzerine.

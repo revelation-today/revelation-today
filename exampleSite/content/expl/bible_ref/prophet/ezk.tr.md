@@ -11,7 +11,7 @@ Bu kitapta kullanılan 64 Kutsal Kitap pasajı vardır
 | {{% bible val="Hezekiel 1:5-21" link="ezk:1,5-21" lang="tr" %}} | ["İbadet": Hezekiel'in](/tr/expl/content/worship/worship-in-the-throne-room#e932) |
 | {{% bible val="Hezekiel 1:22" link="ezk:1,22" lang="tr" %}} | ["Taht odası": gökteki Tanrı'nın yüceliği](/tr/expl/content/worship/worship-in-the-throne-room#54a4) |
 | {{% bible val="Hezekiel 4:6" link="ezk:4,6" lang="tr" %}} | ["Tarih boyunca birkaç adım": Hezekiel'de](/tr/expl/topics/others/dispensionalism-a-little-history#abac) |
-| {{% bible val="Hezekiel 9" link="ezk:9" lang="tr" %}} | ["Mühürleme": Bu, peygamber Hezekiel'deki doğruların mühürlenmesini hatırlatır; orada melek, işlenen haksızlıktan dolayı yas tutan herkesi işaretlemekle görevlendirilmişti. Hepsi mühürlendikten sonra, başka bir melek gelip Tanrı'nın tapınağından başlayarak mührü olmayanları vurmuştu.](/tr/expl/content/army/the-144000#8751) |
+| {{% bible val="Hezekiel 9" link="ezk:9" lang="tr" %}} | ["Mühürleme": Hezekiel'deki mühürlemeyi](/tr/expl/content/army/the-144000#8751) |
 | {{% bible val="Hezekiel 10:18-19" link="ezk:10,18-19" lang="tr" %}} | ["Tanrı kasabaya geliyor": O'nun varlığı tapınağı terk etti](/tr/expl/bible/creation/the-temple-and-the-presence-of-god#ca70) |
 | {{% bible val="Hezekiel 10:18-19" link="ezk:10,18-19" lang="tr" %}} | ["Ana Öğreti": O'nun huzuru tapınaktan ayrıldı](/tr/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#ana-öğreti) |
 | {{% bible val="Hezekiel 11:22-24" link="ezk:11,22-24" lang="tr" %}} | ["Rab'bin Günü'nün kökeni": Tanrı'nın İsrail'i terk etmesine](/tr/expl/background/israel/the-day-of-the-lord#45df) |
@@ -40,9 +40,9 @@ Bu kitapta kullanılan 64 Kutsal Kitap pasajı vardır
 | {{% bible val="Hezekiel 36:27" link="ezk:36,27" lang="tr" %}} | ["Ruh'un dökülmesi": İsrail'e](/tr/expl/background/israel/the-church-is-part-of-israel#7a85) |
 | {{% bible val="Hezekiel 37" link="ezk:37" lang="tr" %}} | ["İki yönlü saldırı": Hezekiel'deki Ruh'un işini](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Hezekiel 37" link="ezk:37" lang="tr" %}} | ["Sorun": Ruh'un gelip ölü olana yeni yaşam üflediği Hezekiel'deki kuru kemikler vadisi vizyonunu](/tr/expl/content/letters/the-letter-to-the-church-in-sardis#6a43) |
-| {{% bible val="Hezekiel 37:1-14" link="ezk:37,1-14" lang="tr" %}} | ["Hikayenin konusu nedir?": 37/1–14](/tr/expl/content/1000y/the-thousand-year-kingdom#41d8) |
+| {{% bible val="Hezekiel 37:1-14" link="ezk:37,1-14" lang="tr" %}} | ["Hikayenin konusu nedir?": 37:1–14](/tr/expl/content/1000y/the-thousand-year-kingdom#41d8) |
 | {{% bible val="Hezekiel 37:10" link="ezk:37,10" lang="tr" %}} | ["Düğüm 1: iki kez dirilmek, tek bir fiil": Hezekiel 37:10](/tr/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
-| {{% bible val="Hezekiel 37:15-28" link="ezk:37,15-28" lang="tr" %}} | ["Hikayenin konusu nedir?": 37/15–28](/tr/expl/content/1000y/the-thousand-year-kingdom#41d8) |
+| {{% bible val="Hezekiel 37:15-28" link="ezk:37,15-28" lang="tr" %}} | ["Hikayenin konusu nedir?": 37:15–28](/tr/expl/content/1000y/the-thousand-year-kingdom#41d8) |
 | {{% bible val="Hezekiel 37:27" link="ezk:37,27" lang="tr" %}} | ["Tanrı halkla birlikte yaşıyor": Hezekiel'de](/tr/expl/content/paradise/the-new-jerusalem#42ff) |
 | {{% bible val="Hezekiel 38" link="ezk:38" lang="tr" %}} | ["Düğüm 3: 20. bölüm 19'un ardından mı geliyor?": Hezekiel 38](/tr/expl/content/1000y/pre-post-and-amillennialism#47e1) |
 | {{% bible val="Hezekiel 38" link="ezk:38" lang="tr" %}} | ["Son iki savaş mı?": 38.](/tr/expl/content/1000y/the-thousand-year-kingdom#ba47) |

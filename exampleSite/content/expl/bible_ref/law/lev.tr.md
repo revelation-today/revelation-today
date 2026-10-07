@@ -12,7 +12,7 @@ Bu kitapta kullanılan 27 Kutsal Kitap pasajı vardır
 | {{% bible val="Levililer 19:18" link="lev:19,18" lang="tr" %}} | ["Bir kehanet": komşunu sevmektir](/tr/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Levililer 21:9" link="lev:21,9" lang="tr" %}} | ["Dini yönü": fuhuş yapan bir kâhinin kızı ateşte yakılırdı](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-2#bc8e) |
 | {{% bible val="Levililer 23:9-14" link="lev:23,9-14" lang="tr" %}} | ["İki hasat": normalde tahıldan alınırdı](/tr/expl/content/harvest/gods-army-and-the-seven-angels#c8c5) |
-| {{% bible val="Levililer 23:22" link="lev:23,22" lang="tr" %}} | ["Bir kehanet": Lev.23/22'de](/tr/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Levililer 23:22" link="lev:23,22" lang="tr" %}} | ["Bir kehanet": Lev 23:22'de](/tr/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Levililer 25:1-7" link="lev:25,1-7" lang="tr" %}} | ["Yıl haftası nedir": her yedinci yılda toprak dinlenmeliydi](/tr/expl/bible/daniel/the-70-year-weeks#7a7b) |
 | {{% bible val="Levililer 25:1-7" link="lev:25,1-7" lang="tr" %}} | ["Bölüm 1: 70 Hafta": Levililer 25:1-7](/tr/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bölüm-1-70-hafta) |
 | {{% bible val="Levililer 25:10" link="lev:25,10" lang="tr" %}} | ["Toprak": toprak, belirlenen zamanda geri verilir](/tr/expl/background/israel/the-role-of-family-in-the-bible#ba14) |

@@ -4,7 +4,7 @@ weight: 37
 docType: expl
 ---
 
-20 Bibelstellen wurden in diesem Buch verwendet.
+21 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -27,4 +27,5 @@ docType: expl
 | {{% bible val="Sacharja 6,1-8" link="zec:6,1-8" lang="de" %}} | ["Erste Beobachtungen": spiegeln vier Streitwagen in verschiedenen Farben die Winde der Erde wider](/de/expl/content/seals/the-mystery-of-the-four-horse-men#2795) |
 | {{% bible val="Sacharja 12" link="zec:12" lang="de" %}} | ["Zwei letzte Schlachten?": Sacharja](/de/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Sacharja 12,10-11" link="zec:12,10-11" lang="de" %}} | ["Er kommt mit den Wolken": Und ich will über das Haus David und über die Einwohner von Jerusalem den Geist der Gnade und des Gebets ausgießen. Sie werden auf mich sehen, den sie durchbohrt haben, und werden um ihn klagen, wie man klagt um ein einziges Kind, und werden bitterlich um ihn weinen, wie man bitterlich weint um den Erstgeborenen. An jenem Tag wird die Klage in Jerusalem so groß sein wie die Klage von Hadad-Rimmon in der Ebene von Megiddo.](/de/expl/content/vision/setting-the-foundation#aaf2) |
+| {{% bible val="Sacharja 14,1-9" link="zec:14,1-9" lang="de" %}} | ["Der Ursprung des Tages des Herrn": Sacharja 14,1-9](/de/expl/background/israel/the-day-of-the-lord#4fec) |
 | {{% bible val="Sacharja 14,8" link="zec:14,8" lang="de" %}} | ["Symbole von Gottes Gegenwart": Fluss, der fließt, wenn Jerusalem wiederaufgebaut wird](/de/expl/content/paradise/the-new-jerusalem#126e) |

@@ -4,7 +4,7 @@ weight: 3
 docType: expl
 ---
 
-36 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+37 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -14,6 +14,7 @@ docType: expl
 | {{% bible val="Bilangan 12" link="num:12" lang="ind" %}} | ["Kelanjutan Kisah Musa": tetap tenang dan berbelas kasih dalam situasi-situasi sulit](/id/expl/bible/exodus/the-birth-of-moses#6430) |
 | {{% bible val="Bilangan 12:3" link="num:12,3" lang="ind" %}} | ["Kelanjutan Kisah Musa": orang yang paling rendah hati di bumi](/id/expl/bible/exodus/the-birth-of-moses#6430) |
 | {{% bible val="Bilangan 13:25" link="num:13,25" lang="ind" %}} | ["Beberapa Dasar": umat Israel menghabiskan 40 hari untuk mengintai tanah yang baru](/id/expl/content/beasts/666-the-number-of-the-beast#74d6) |
+| {{% bible val="Bilangan 14:34" link="num:14,34" lang="ind" %}} | ["Penggunaan Angka dalam Kitab Wahyu": satu tahun untuk setiap hari](/id/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation) |
 | {{% bible val="Bilangan 14:34" link="num:14,34" lang="ind" %}} | ["Beberapa Dasar": karena ketidakpercayaan mereka, mereka harus mengembara di padang gurun selama 40 tahun](/id/expl/content/beasts/666-the-number-of-the-beast#74d6) |
 | {{% bible val="Bilangan 21" link="num:21" lang="ind" %}} | ["Kisah yang Sudah Dikenal": menaklukkan semua orang Amori dan Kanaan dalam perjalanan mereka](/id/expl/bible/keyword/the-story-of-balaam#dabb) |
 | {{% bible val="Bilangan 22:1-4" link="num:22,1-4" lang="ind" %}} | ["Kisah yang Sudah Dikenal": orang Moab begitu ketakutan sehingga meminta bantuan kepada orang Midian](/id/expl/bible/keyword/the-story-of-balaam#dabb) |

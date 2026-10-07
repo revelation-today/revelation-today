@@ -83,7 +83,7 @@ Ardından canavarın kendisi de {{% bible val="yedilerden biri olan sekizinci bi
 ## On kral
 
 <a name="cabf"></a>
-{{% bible val="Gördüğün on boynuz, henüz bir krallık almamış ama canavarla birlikte bir saatliğine krallar olarak yetki alacak on kraldır" link="rev:17,12-13" lang="tr" %}}. Aynı anda birlikte hareket ederler, güçlerini canavarın temsilcilerine devrederler, onlar da canavarın gündemine boyun eğer. Birlikte, o tarihsel anda canavarın —muhtemelen tüm— dünya üzerindeki gücünü temsil ederler. 10 sayısı yine sembolik olabilir; ilk okuyucular için muhtemelen Roma İmparatorluğu'nu destekleyen kralları işaret ediyordu.
+{{% bible val="Gördüğün on boynuz, henüz bir krallık almamış ama canavarla birlikte bir saatliğine krallar olarak yetki alacak on kraldır" link="rev:17,12-13" lang="tr" %}}. Aynı anda birlikte hareket ederler, güçlerini bir sonraki ayetin söylediği gibi kullanırlar: onu canavara verirler. Birlikte, o tarihsel anda canavarın —muhtemelen tüm— dünya üzerindeki gücünü temsil ederler. 10 sayısı yine sembolik olabilir; ilk okuyucular için muhtemelen Roma İmparatorluğu'nu destekleyen kralları işaret ediyordu.
 
 Belirtilen amaçları Kuzu'ya karşı savaş açmaktır. Göreceğimiz gibi işler oldukça farklı gelişir.
 

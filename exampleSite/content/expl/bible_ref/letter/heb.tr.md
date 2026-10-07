@@ -4,15 +4,16 @@ weight: 57
 docType: expl
 ---
 
-Bu kitapta kullanılan 15 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 16 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
+| {{% bible val="İbraniler 1:2" link="heb:1,2" lang="tr" %}} | ["Son zaman nedir?": bu son günlerde O, Oğlu aracılığıyla bize seslendi](/tr/expl/content/army/the-end-time-and-the-great-tribulation#6f73) |
 | {{% bible val="İbraniler 1:8" link="heb:1,8" lang="tr" %}} | ["İlk atlının gizemi": İsa'ya işaret eden Mesihsel bir referans olarak yorumlanır](/tr/expl/content/seals/the-mystery-of-the-four-horse-men#dba7) |
 | {{% bible val="İbraniler 2:11" link="heb:2,11" lang="tr" %}} | ["Tanrı’nın oğlu": hepimiz O'nun kardeşleriyiz](/tr/expl/background/israel/the-church-is-part-of-israel#bb1b) |
 | {{% bible val="İbraniler 2:11" link="heb:2,11" lang="tr" %}} | ["Ana Öğreti": İbraniler 2:11](/tr/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#ana-öğreti) |
 | {{% bible val="İbraniler 6:5" link="heb:6,5" lang="tr" %}} | ["İsrail’in hikayesi": Ancak gelecek çağın gücü zaten mevcuttur](/tr/appl/topics/hero/who-rules-the-world#3370) |
-| {{% bible val="İbraniler 6:20" link="heb:6,20" lang="tr" %}} | ["İki yönlü saldırı": İbr.6/20](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
+| {{% bible val="İbraniler 6:20" link="heb:6,20" lang="tr" %}} | ["İki yönlü saldırı": İbr 6:20](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="İbraniler 7:11-28" link="heb:7,11-28" lang="tr" %}} | ["Görüm": İsa aynı zamanda kâhinlik görevini de üstlendiği için](/tr/expl/content/vision/the-vision#727c) |
 | {{% bible val="İbraniler 8:1-2" link="heb:8,1-2" lang="tr" %}} | ["Tarih boyunca birkaç adım": göksel kutsal alanın temizlenmesine](/tr/expl/topics/others/dispensionalism-a-little-history#abac) |
 | {{% bible val="İbraniler 8:6" link="heb:8,6" lang="tr" %}} | ["70 yıl": İsa'nın yeni antlaşmasını](/tr/expl/bible/daniel/the-70-year-weeks#66c9) |

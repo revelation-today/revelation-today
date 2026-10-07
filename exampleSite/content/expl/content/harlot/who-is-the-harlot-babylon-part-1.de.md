@@ -83,7 +83,7 @@ Das Tier selbst {{% bible val="kommt dann als ein achter König, der zugleich ei
 ## Die 10 Könige
 
 <a name="cc5d"></a>
-{{% bible val="Die zehn Hörner, die du gesehen hast, sind zehn Könige, die noch kein Königreich empfangen haben, aber für eine Stunde als Könige Macht empfangen werden, zusammen mit dem Tier" link="rev:17,12-13" lang="de" %}}. Sie handeln gemeinsam, zur gleichen Zeit, und übergeben ihre Macht an die Vertreter des Tieres, die sich dann dessen Agenda unterordnen. Zusammen stellen sie die Macht des Tieres über die — potenziell gesamte — Welt zu jenem Zeitpunkt der Geschichte dar. Die Zahl 10 mag wieder symbolisch sein; für die ersten Leser verwies sie wahrscheinlich auf die unterstützenden Könige des Römischen Reiches.
+{{% bible val="Die zehn Hörner, die du gesehen hast, sind zehn Könige, die noch kein Königreich empfangen haben, aber für eine Stunde als Könige Macht empfangen werden, zusammen mit dem Tier" link="rev:17,12-13" lang="de" %}}. Sie handeln gemeinsam, zur gleichen Zeit, und der nächste Vers sagt, was sie mit ihrer Macht tun: Sie geben sie dem Tier. Zusammen stellen sie die Macht des Tieres über die — potenziell gesamte — Welt zu jenem Zeitpunkt der Geschichte dar. Die Zahl 10 mag wieder symbolisch sein; für die ersten Leser verwies sie wahrscheinlich auf die unterstützenden Könige des Römischen Reiches.
 
 Ihr erklärtes Ziel ist es, Krieg gegen das Lamm zu führen. Die Dinge entwickeln sich, wie wir sehen werden, ziemlich anders.
 

@@ -4,4 +4,4 @@ weight: 8
 docType: expl
 ---
 
-1143 ayat-ayat Alkitab telah dirujuk dalam kategori ini.
+1161 ayat-ayat Alkitab telah dirujuk dalam kategori ini.

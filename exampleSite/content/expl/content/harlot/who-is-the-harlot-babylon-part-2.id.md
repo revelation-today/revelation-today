@@ -16,7 +16,7 @@ deeper:
     - name: Babel sebagai nyanyian ejekan terhadap Kekaisaran Romawi
       link:  /expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire
 sources: 
-    - pages: 847–890
+    - pages: 27, 847–890
       ref: beale_rev
     - pages: 886
       ref: beale_rev
@@ -47,7 +47,7 @@ Tutup dada Imam Besar, {{% bible val="bertuliskan 'Kudus bagi TUHAN'" link="exo:
 
 Kesejajaran ini berlanjut hingga ke penghakiman: {{% bible val="anak perempuan seorang imam yang menjadi pelacur harus dibakar dengan api" link="lev:21,9" lang="ind" %}}, dan itulah {{% bible val="tepatnya penghakiman yang menimpa Babel" link="rev:18,8" lang="ind" %}}.
 
-Kitab Yehezkiel memberikan gambaran yang sama dari sudut lain, di mana Allah menghadapkan Yerusalem karena {{% bible val="bertindak seperti pelacur yang berpakaian dengan pakaian keimaman yang sama itu" link="ezk:16,13-26" lang="ind" %}}. Di seluruh bagian ini, sang pelacur digambarkan sebagai imam dan kekasih Allah sendiri, yang telah berbuat tidak setia.
+Kitab Yehezkiel memberikan gambaran yang sama dari sudut lain, di mana Allah menghadapkan Yerusalem karena {{% bible val="bertindak seperti pelacur yang berpakaian dengan pakaian keimaman yang sama itu" link="ezk:16,13-26" lang="ind" %}}. Di seluruh bagian ini, sang pelacur digambarkan sebagai imam dan kekasih Allah sendiri, yang telah berbuat tidak setia. Bukti yang sama itu membawa sebagian pembaca pada kesimpulan yang berbeda dari situs ini: bahwa Babel adalah Yerusalem yang telah murtad.[^jerusalem]
 
 Ini bukan gambaran yang berdiri sendiri — beberapa kota dalam Perjanjian Lama digambarkan dengan cara yang sama:
 - Tirus {{% bible val="membuat perjanjian politik dengan Salomo" link="1ki:5,12" lang="ind" %}} yang membantu pembangunan bait suci, namun kemudian {{% bible val="dipanggil untuk dihakimi karena menjual orang-orang Yahudi ke dalam perbudakan" link="amo:1,9" lang="ind" %}} dan {{% bible val="disebut sebagai pelacur" link="isa:23,15-18" lang="ind" %}}.
@@ -70,7 +70,7 @@ Kitab Wahyu menarik hubungan yang sama: para raja {{% bible val="berzina dengan 
 ## Apakah Babel adalah gereja yang murtad?
 
 <a name="738a"></a>
-Bisakah Babel sekadar menjadi gambaran gereja yang telah menyimpang? Tidak juga — tetapi gereja selalu berada dalam bahaya untuk menjadi bagian dari Babel. Babel adalah lawan dari sang mempelai perempuan dan Yerusalem Baru, dan ia adalah sebuah sistem tersendiri. Bersama dengan binatang yang ditungganginya, {{% int_link val="ia merepresentasikan trinitas jahat untuk menipu dunia" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
+Bisakah Babel sekadar menjadi gambaran gereja yang telah menyimpang? Tidak juga — tetapi gereja selalu berada dalam bahaya untuk menjadi bagian dari Babel. Babel adalah lawan dari sang mempelai perempuan dan Yerusalem Baru, dan ia adalah sebuah sistem tersendiri. Ia bukan salah satu anggota {{% int_link val="trinitas tiruan" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} - itu adalah sang naga dengan kedua binatangnya - tetapi ia menunggangi yang pertama dari keduanya, dan ia melakukan pekerjaan yang sama atas dunia: ia membuat dunia merasa nyaman dengan apa yang sesungguhnya binatang itu.
 
 Binatang di bawah sang pelacur mewakili kekuasaan politik dan militer ({{% int_link val="yang diwujudkan oleh sang kaisar" link="/expl/content/beasts/666-the-number-of-the-beast" %}}), sementara sang pelacur sendiri mewakili sistem pendukung di sekelilingnya — yaitu
 
@@ -89,3 +89,5 @@ Melalui semua ini, ia menawarkan sebuah injil tandingan bagi Yesus, menjanjikan
 Karena Babel memiliki {{% int_link val="banyak kesejajaran dengan Izebel" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}, ini mungkin membawa peringatan khusus terutama bagi para pemimpin gereja. Namun seruan untuk waspada dan memeriksa diri berlaku bagi semua orang. Mungkin itulah sebabnya Babel tidak digambarkan dengan garis yang lebih tegas — {{% bible val="agar engkau terpaksa terus merenung dan melangkah keluar darinya, hari demi hari" link="rev:18,4" lang="ind" %}}. Sebab Babel ada di mana-mana.
 
 Justru itulah yang membuatnya begitu memikat: bagi gereja yang sedang dianiaya, atau yang hidup dalam kemiskinan dan mengincar jalan menuju kekayaan dan pengakuan manusia yang lebih besar, ia bisa tampak sangat menarik.
+
+[^jerusalem]: Bacaan preteris, yang memahami Babel sebagai Yerusalem yang murtad. Beale, hlm. 27, memegang keseimbangan yang sama dengan situs ini: kiasan kepada pakaian imam besar itu "mungkin, dan kemungkinan tercakup sampai derajat tertentu", tetapi pakaian yang sama itu juga milik raja Tirus dan, di belakangnya, Adam di Eden; dan "tidak ada satu pun contoh 'Babel' pernah menjadi nama simbolis bagi Israel, baik sebelum maupun sesudah tahun 70 M … beban pembuktian ada pada mereka yang mempertahankan persamaan Babel = Yerusalem."

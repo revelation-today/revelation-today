@@ -4,7 +4,7 @@ weight: 0
 docType: expl
 ---
 
-67 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+73 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -13,6 +13,7 @@ docType: expl
 | {{% bible val="Kejadian 2:8-15" link="gen:2,8-15" lang="ind" %}} | ["Inti Pengajaran": memberi mereka taman untuk diusahakan](/id/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#inti-pengajaran) |
 | {{% bible val="Kejadian 2:9-14" link="gen:2,9-14" lang="ind" %}} | ["Langit Baru dan Bumi Baru (Pasal 21-22)": Kejadian 2:9-14](/id/quick/content/paradise) |
 | {{% bible val="Kejadian 2:10-12" link="gen:2,10-12" lang="ind" %}} | ["Simbol-simbol kehadiran Allah": kisah penciptaan, di mana sungai-sungai juga dikaitkan dengan batu-batu permata](/id/expl/content/paradise/the-new-jerusalem#126e) |
+| {{% bible val="Kejadian 2:16-17" link="gen:2,16-17" lang="ind" %}} | ["Dorongan Terakhir": mendengar perintah itu langsung dari Allah](/id/expl/bible/creation/the-creation#cba5) |
 | {{% bible val="Kejadian 3:8" link="gen:3,8" lang="ind" %}} | ["Murka Anak Domba": kejatuhan manusia, ketika Adam dan Hawa berusaha bersembunyi dari Allah setelah mereka berdosa](/id/expl/content/seals/the-wrath-of-the-lamb#435e) |
 | {{% bible val="Kejadian 3:8-9" link="gen:3,8-9" lang="ind" %}} | ["Taman Eden sebagai Tempat Persekutuan dengan Allah": bertemu dengan mereka di sana secara teratur](/id/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
 | {{% bible val="Kejadian 3:8-9" link="gen:3,8-9" lang="ind" %}} | ["Inti Pengajaran": berjumpa dengan mereka di sana secara teratur](/id/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#inti-pengajaran) |
@@ -29,7 +30,10 @@ docType: expl
 | {{% bible val="Kejadian 4:16-17" link="gen:4,16-17" lang="ind" %}} | ["Langit Baru dan Bumi Baru (Pasal 21-22)": Kejadian 4:16-17](/id/quick/content/paradise) |
 | {{% bible val="Kejadian 4:22-24" link="gen:4,22-24" lang="ind" %}} | ["Taman Eden sebagai Tempat Persekutuan dengan Allah": yang mengejek perlindungan yang telah diberikan Allah kepada Kain](/id/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
 | {{% bible val="Kejadian 4:25-26" link="gen:4,25-26" lang="ind" %}} | ["Taman Eden sebagai Tempat Persekutuan dengan Allah": sejak saat itu, manusia kembali mulai berseru kepada nama TUHAN](/id/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
-| {{% bible val="Kejadian 9:8-11" link="gen:9,8-11" lang="ind" %}} | ["Ruang Takhta": Ini mengingatkan pada perjanjian dengan Nuh, ketika Allah menciptakan pelangi sebagai janji-Nya untuk tidak pernah lagi membanjiri bumi dan untuk menjaga musim-musim tetap berjalan. Tidak ada tuntutan apa pun bagi Nuh dalam perjanjian ini](/id/expl/content/worship/worship-in-the-throne-room#0938) |
+| {{% bible val="Kejadian 5:24" link="gen:5,24" lang="ind" %}} | ["Identitas kedua saksi": Henokh diangkat oleh Allah](/id/expl/content/witnesses/the-two-witnesses#55fa) |
+| {{% bible val="Kejadian 9:1-7" link="gen:9,1-7" lang="ind" %}} | ["Ruang Takhta": Kejadian 9:1-7](/id/expl/content/worship/worship-in-the-throne-room#0938) |
+| {{% bible val="Kejadian 9:8-17" link="gen:9,8-17" lang="ind" %}} | ["Ruang Takhta": perjanjian itu sendiri](/id/expl/content/worship/worship-in-the-throne-room#0938) |
+| {{% bible val="Kejadian 9:13" link="gen:9,13" lang="ind" %}} | ["Rahasia Penunggang Kuda Pertama": Kejadian 9:13](/id/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="Kejadian 10" link="gen:10" lang="ind" %}} | ["Pencurahan Roh": versi yang lebih kecil dari daftar bangsa-bangsa yang tercerai-berai pada peristiwa Menara Babel](/id/expl/background/israel/the-church-is-part-of-israel#e989) |
 | {{% bible val="Kejadian 10:8-12" link="gen:10,8-12" lang="ind" %}} | ["Taman Eden sebagai Tempat Persekutuan dengan Allah": kota tetap menjadi unsur penting](/id/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
 | {{% bible val="Kejadian 11:1-9" link="gen:11,1-9" lang="ind" %}} | ["Taman Eden sebagai Tempat Persekutuan dengan Allah": menara Babel](/id/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
@@ -57,11 +61,13 @@ docType: expl
 | {{% bible val="Kejadian 17:20-21" link="gen:17,20-21" lang="ind" %}} | ["Simpul 4: seberapa banyak janji itu mendarat di dalam sejarah?": tetapi perjanjian-Ku akan Kuadakan dengan Ishak](/id/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Kejadian 18:20-33" link="gen:18,20-33" lang="ind" %}} | ["Latar Belakang": rencana Allah dipengaruhi oleh doa-doa kita](/id/expl/content/bowls/the-bowls-of-wrath#3526) |
 | {{% bible val="Kejadian 19:30-37" link="gen:19,30-37" lang="ind" %}} | ["Kisah yang Sudah Dikenal": adalah keturunan Lot](/id/expl/bible/keyword/the-story-of-balaam#dabb) |
+| {{% bible val="Kejadian 21:16" link="gen:21,16" lang="ind" %}} | ["Rahasia Penunggang Kuda Pertama": kira-kira sejauh satu tembakan panah](/id/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
+| {{% bible val="Kejadian 21:20" link="gen:21,20" lang="ind" %}} | ["Rahasia Penunggang Kuda Pertama": Ismael tumbuh di padang gurun menjadi seorang pemanah](/id/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="Kejadian 21:22-32" link="gen:21,22-32" lang="ind" %}} | ["Perjanjian-Perjanjian dalam Sejarah": Abraham dan Abimelekh](/id/expl/background/israel/gods-covenant#ae45) |
 | {{% bible val="Kejadian 25:1-2" link="gen:25,1-2" lang="ind" %}} | ["Kisah yang Sudah Dikenal": orang Midian sendiri adalah keturunan Abraham](/id/expl/bible/keyword/the-story-of-balaam#dabb) |
 | {{% bible val="Kejadian 25:25-26" link="gen:25,25-26" lang="ind" %}} | ["Warisan": Yakub](/id/expl/background/israel/the-role-of-family-in-the-bible#50b0) |
 | {{% bible val="Kejadian 26:12-33" link="gen:26,12-33" lang="ind" %}} | ["Perjanjian-Perjanjian dalam Sejarah": Ishak dan orang Filistin](/id/expl/background/israel/gods-covenant#ae45) |
-| {{% bible val="Kejadian 27" link="gen:27" lang="ind" %}} | ["Rahasia Penunggang Kuda Pertama": kisah tipu daya Yakub terhadap ayahnya, ketika Esau disuruh berburu dengan panahnya](/id/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
+| {{% bible val="Kejadian 27" link="gen:27" lang="ind" %}} | ["Rahasia Penunggang Kuda Pertama": Panah pemburu Esau](/id/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="Kejadian 31:22-54" link="gen:31,22-54" lang="ind" %}} | ["Perjanjian-Perjanjian dalam Sejarah": Yakub dan Laban](/id/expl/background/israel/gods-covenant#ae45) |
 | {{% bible val="Kejadian 37:9-10" link="gen:37,9-10" lang="ind" %}} | ["Sang Perempuan": mimpi kedua Yusuf](/id/expl/content/jesus/a-different-christmas-story#5a05) |
 | {{% bible val="Kejadian 37:21-30" link="gen:37,21-30" lang="ind" %}} | ["Warisan": sangat gelisah ketika Yusuf hilang](/id/expl/background/israel/the-role-of-family-in-the-bible#50b0) |

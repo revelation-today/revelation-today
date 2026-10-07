@@ -131,7 +131,9 @@ Die symbolische Sprache schärft diese doppelte Realität, statt sie zu verschle
 
 Der modernen Welt am nächsten kommt eine Apokalypse vielleicht als politische Karikatur.
 
-![](/images/20200620_WWD000.avif) <!-- https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon" -->
+![Eine Zeitungskarikatur: eine Menge, die dieselbe Nachricht durch sehr verschiedene Brillen liest](/images/20200620_WWD000.avif)
+
+*KALs Karikatur, [The Economist](https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon), 18. Juni 2020.*
 
 Betrachten wir eine solche Karikatur, verstehen wir die Botschaft sofort, ohne anzunehmen, dass Drachen Yoga praktizieren oder überhaupt existieren. Die Offenbarung funktioniert genauso, und wir können dieselben Elemente in ihr am Werk sehen:
 

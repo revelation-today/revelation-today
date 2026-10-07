@@ -20,7 +20,9 @@ The story of the harlot Babel in Revelation is one of the most layered in the bo
 <a name="55d4"></a>
 Start with a coin that would have been common currency at the time.
 
-![](/images/coin.png) <!-- https://www.britishmuseum.org/collection/object/C_1872-0709-477" -->
+![A Roman sestertius: on one side the emperor's head, on the other the goddess Roma seated on the seven hills with a sword across her knee](/images/coin.png)
+
+*Sestertius of Vespasian. [British Museum, 1872,0709.477](https://www.britishmuseum.org/collection/object/C_1872-0709-477).*
 
 On the obverse is Emperor Vespasian (reigned 69–79) with the inscription "Imp Caesar Vespasianus Aug P M TR P P P COS III" — "Emperor Caesar Vespasian Augustus, Pontifex Maximus (Greatest Priest), Tribunicia Potestas (Tribunal Power), Pater Patriae (Father of the Fatherland), Consul for the third time." In short, a résumé of the emperor's power and achievements.
 
@@ -32,7 +34,7 @@ So the reverse of the coin is a straightforward celebration of Rome's power and 
 
 - In Latin, *lupa*, "she-wolf", was also a word for a prostitute, so the she-wolf on the coin may well have invited the joke — and the secret name Amor only sharpens it.[^lupa]
 - The goddess of Rome is recast here as a harlot — not just any harlot, but the mother of all harlots.
-- The hills of Rome, rather than supporting her, become the beast and the kings who destroy her: Roma ends up the victim of the very city she was meant to protect.
+- On the coin the seven hills hold Roma up. In Revelation the seven heads are those same hills, and they belong to the beast — which, with the ten kings, {{% bible val="turns on the harlot and destroys her" link="rev:17,16" lang="en" %}}. The thing that carried her is the thing that tears her apart.
 - And instead of protecting herself from enemies with her sword, she is covered in the blood of the saints.
 
 The coin's celebration of the {{% int_link val="Pax Romana" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} is turned, point by point, into an image of contempt and disgust — a reminder to every believer who handled that coin in daily life that Rome could not be trusted. It's remarkably effective counter-propaganda.
@@ -57,7 +59,7 @@ That tabula may well be a source behind Revelation 17. It describes a crowd look
 
 Another possible parallel is the [Odes of Solomon](https://en.wikipedia.org/wiki/Odes_of_Solomon) 38:9–14, where Error and Lack of Knowledge disguise themselves as the bride and groom at a wedding, and the wine there makes the guests vomit up their own understanding.
 
-Both parallels point to the same purpose behind the ekphrasis in Revelation 17: understanding this deception is the first step toward God's kingdom. If Rome has deceived you, there's little hope left for you — and yet the deception is so brazen that it's meant to be hard to miss.
+Both parallels point to the same purpose behind the ekphrasis in Revelation 17: understanding this deception is the first step toward God's kingdom. Being taken in is not the end of the road: the next chapter calls to exactly those people, {{% bible val="come out of her, my people" link="rev:18,4" lang="en" %}}. But the deception has to be seen before anyone can walk out of it, and this picture is painted so brazenly that it is meant to be hard to miss.
 
 [^amor]: The secret name Amor is reported by John Lydus (*On the Months* 4.73) and Aelius Aristides, and appears in a graffito at Pompeii; see Aune, pp. 925–926.
 

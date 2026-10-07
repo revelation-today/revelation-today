@@ -4,7 +4,7 @@ weight: 26
 docType: expl
 ---
 
-138 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+139 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -63,6 +63,7 @@ docType: expl
 | {{% bible val="Daniel 7:7" link="dan:7,7" lang="ind" %}} | ["Sekarung Penuh Rujukan": Binatang keempat memiliki 10 tanduk](/id/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Daniel 7:7" link="dan:7,7" lang="ind" %}} | ["Kedua saksi dan kedua binatang buas": Daniel](/id/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Daniel 7:8" link="dan:7,8" lang="ind" %}} | ["Sekarung Penuh Rujukan": Tanduk itu mengucapkan kata-kata besar](/id/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Daniel 7:9" link="dan:7,9" lang="ind" %}} | ["Penglihatan Itu": Yang Lanjut Usianya](/id/expl/content/vision/the-vision#7855) |
 | {{% bible val="Daniel 7:9" link="dan:7,9" lang="ind" %}} | ["Latar Belakang dan Konteks": Daniel](/id/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Daniel 7:9" link="dan:7,9" lang="ind" %}} | ["Latar Belakang dan Konteks": Daniel](/id/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Daniel 7:9" link="dan:7,9" lang="ind" %}} | ["Latar Belakang dan Konteks": Daniel](/id/expl/content/worship/worship-in-the-throne-room#e638) |
@@ -134,12 +135,12 @@ docType: expl
 | {{% bible val="Daniel 10:5-6" link="dan:10,5-6" lang="ind" %}} | ["Penglihatan Itu": ciri-ciri dari Daniel pasal 10](/id/expl/content/vision/the-vision#7855) |
 | {{% bible val="Daniel 10:8-19" link="dan:10,8-19" lang="ind" %}} | ["Reaksi Itu": penglihatan-penglihatan Daniel](/id/expl/content/vision/the-vision#0131) |
 | {{% bible val="Daniel 10:20" link="dan:10,20" lang="ind" %}} | ["Penglihatan Itu": sosok yang dikenali sebagai malaikat pejuang](/id/expl/content/vision/the-vision#7855) |
-| {{% bible val="Daniel 11:1-35" link="dan:11,1-35" lang="ind" %}} | ["Tinjauan Berlanjut": Dan.11/1–35](/id/expl/bible/daniel/the-book-of-daniel#5b61) |
+| {{% bible val="Daniel 11:1-35" link="dan:11,1-35" lang="ind" %}} | ["Tinjauan Berlanjut": Dan 11:1–35](/id/expl/bible/daniel/the-book-of-daniel#5b61) |
 | {{% bible val="Daniel 11:30-39" link="dan:11,30-39" lang="ind" %}} | ["Kesengsaraan Besar": Antiokhus Epifanes dan seterusnya](/id/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Daniel 11:32" link="dan:11,32" lang="ind" %}} | ["Janji Itu": pasal 11](/id/expl/bible/daniel/the-70-year-weeks#1bc2) |
 | {{% bible val="Daniel 11:32-34" link="dan:11,32-34" lang="ind" %}} | ["Kesengsaraan Besar": umat Allah akan disesatkan dan berpaling dari Allah](/id/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Daniel 11:36" link="dan:11,36" lang="ind" %}} | ["Pengikatan Iblis": Daniel](/id/expl/content/1000y/the-thousand-year-kingdom#4bba) |
-| {{% bible val="Daniel 11:36-45" link="dan:11,36-45" lang="ind" %}} | ["Tinjauan Berlanjut": Dan.11/36–45](/id/expl/bible/daniel/the-book-of-daniel#5b61) |
+| {{% bible val="Daniel 11:36-45" link="dan:11,36-45" lang="ind" %}} | ["Tinjauan Berlanjut": Dan 11:36–45](/id/expl/bible/daniel/the-book-of-daniel#5b61) |
 | {{% bible val="Daniel 12" link="dan:12" lang="ind" %}} | ["Tinjauan Berlanjut": Dan.12](/id/expl/bible/daniel/the-book-of-daniel#5b61) |
 | {{% bible val="Daniel 12:1" link="dan:12,1" lang="ind" %}} | ["Kesengsaraan Besar": Pada waktu itu Mikhael akan bangkit, dia pemimpin besar itu, yang mendampingi anak-anak bangsamu; dan itu akan menjadi suatu waktu kesesakan yang besar, seperti yang belum pernah terjadi sejak ada bangsa-bangsa sampai pada waktu itu. Tetapi pada waktu itu bangsamu akan diluputkan, yakni barangsiapa yang didapati namanya tertulis dalam Kitab itu.](/id/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Daniel 12:1" link="dan:12,1" lang="ind" %}} | ["Pratribulasi": peran Mikhael sendiri yang menahan](/id/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pt1a) |

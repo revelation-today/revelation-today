@@ -4,12 +4,13 @@ weight: 13
 docType: expl
 ---
 
-10 bible verses have been used in this book.
+11 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
 | {{% bible val="2.Chronicles 2:13-14" link="2ch:2,13-14" lang="en" %}} | ["The religious aspect": but also in the temple](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="2.Chronicles 21:13" link="2ch:21,13" lang="en" %}} | ["The Harlot": 2 Chr 21:13](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
+| {{% bible val="2.Chronicles 35:20-24" link="2ch:35,20-24" lang="en" %}} | ["Armageddon and Carchemish": Chronicles says he went out although Necho's words came from the mouth of God, and he would not listen](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#3991) |
 | {{% bible val="2.Chronicles 35:20-24" link="2ch:35,20-24" lang="en" %}} | ["Armageddon": 2 Chronicles 35:20-24](/quick/content/bowls#armageddon) |
 | {{% bible val="2.Chronicles 35:20-25" link="2ch:35,20-25" lang="en" %}} | ["The story before Carchemish": there was a battle near Megiddo where Josiah, king of Judah, fought against Necho, Pharaoh of Egypt](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#9897) |
 | {{% bible val="2.Chronicles 35:22-25" link="2ch:35,22-25" lang="en" %}} | ["Coming with the clouds": mourning for their king Josiah](/expl/content/vision/setting-the-foundation#e267) |

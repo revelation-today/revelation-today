@@ -28,7 +28,7 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya 7:14-16" link="isa:7,14-16" lang="tr" %}} | ["Bölüm 1: 70 Hafta": Yeşaya 7:14-16](/tr/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bölüm-1-70-hafta) |
 | {{% bible val="Yeşaya 10:20" link="isa:10,20" lang="tr" %}} | ["Kalıntı": İsrail'in kalıntısı, İsrail'den sağ kalanlar olarak tanımlanır](/tr/expl/background/israel/the-remnant-of-israel#998f) |
 | {{% bible val="Yeşaya 10:21" link="isa:10,21" lang="tr" %}} | ["Kalıntı": sürgünden yalnızca kalıntı dönecektir](/tr/expl/background/israel/the-remnant-of-israel#998f) |
-| {{% bible val="Yeşaya 11:4" link="isa:11,4" lang="tr" %}} | ["Çocuk": Yeşaya 11/4](/tr/expl/content/jesus/a-different-christmas-story#8ae1) |
+| {{% bible val="Yeşaya 11:4" link="isa:11,4" lang="tr" %}} | ["Çocuk": Yeşaya 11:4](/tr/expl/content/jesus/a-different-christmas-story#8ae1) |
 | {{% bible val="Yeşaya 11:9" link="isa:11,9" lang="tr" %}} | ["Düğüm 4: vaadin ne kadarı tarihin içine iniyor?": sular denizi nasıl dolduruyorsa dünyanın da RAB bilgisiyle dolması](/tr/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Yeşaya 11:11" link="isa:11,11" lang="tr" %}} | ["Kalıntı": İsrail'den kalıntıyı aldıktan sonra, Tanrı halkını uluslardan toplamak için ikinci bir erişim gerçekleştirecektir](/tr/expl/background/israel/the-remnant-of-israel#998f) |
 | {{% bible val="Yeşaya 11:15-16" link="isa:11,15-16" lang="tr" %}} | ["Musa'nın şarkısı": Yeşaya'da](/tr/expl/content/harvest/gods-army-and-the-seven-angels#e8d4) |
@@ -40,9 +40,8 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya 19:17-18" link="isa:19,17-18" lang="tr" %}} | ["Uluslar ve armağanları": başka yerlerde de görülür](/tr/expl/content/paradise/the-new-jerusalem#1c33) |
 | {{% bible val="Yeşaya 19:18-25" link="isa:19,18-25" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": O gün Mısır’da Kenan dilini konuşan beş kent olacak. Bu kentler Her Şeye Egemen RAB’be bağlılık andı içecekler; içlerinden biri ‹Yıkım Kenti› diye adlandırılacak. O gün Mısır’ın ortasında RAB için bir sunak, sınırında da bir sütun dikilecek. Her Şeye Egemen RAB için Mısır’da bir belirti ve tanık olacak bu. Halk kendine baskı yapanlardan ötürü RAB’be yakarınca, RAB onları savunacak bir kurtarıcı gönderip özgür kılacak. RAB kendini Mısırlılar’a tanıtacak, onlar da o gün RAB’bi tanıyacak, kurbanlarla, sunularla O’na tapınacaklar. RAB’be adak adayacak ve adaklarını yerine getirecekler. RAB Mısırlılar’ı hastalıkla alabildiğine cezalandıracak, sonra iyileştirecek. RAB’be yönelip yakaracaklar. RAB de onları iyileştirecek. O gün Mısır’la Asur arasında bir yol olacak. Asurlu Mısır’a, Mısırlı Asur’a gidip gelecek. Mısırlılar’la Asurlular birlikte tapınacaklar. O gün Mısır ve Asur’un yanısıra İsrail üçüncü ülke olacak. Dünya bu üçü sayesinde kutsanacak. Her Şeye Egemen RAB, ‹‹Halkım Mısır, ellerimin işi Asur ve mirasım İsrail kutsansın›› diyerek dünyayı kutsayacak.](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
 | {{% bible val="Yeşaya 20:1-2" link="isa:20,1-2" lang="tr" %}} | ["İki tanığın karakteri": Yeşaya'nın onu giyip sonra peygamberlik işareti olarak çıkardığı gibi](/tr/expl/content/witnesses/the-two-witnesses#bdb3) |
-| {{% bible val="Yeşaya 22:15-22" link="isa:22,15-22" lang="tr" %}} | ["İsa'nın görüşü": kralın kâhyası Şebna, yüksek makamını kendini yüceltmek için kötüye kullanmış ve utanç içinde görevden alınmıştı; görev bunun yerine, Yeruşalim halkına bir baba olacak olan Elyakim'e verilmişti](/tr/expl/content/letters/the-letter-to-the-church-in-philadelphia#afbc) |
-| {{% bible val="Yeşaya 22:15-25" link="isa:22,15-25" lang="tr" %}} | ["İsa'nın görüşü": Şebna ve Elyakim'e](/tr/expl/content/letters/the-letter-to-the-church-in-philadelphia#afbc) |
-| {{% bible val="Yeşaya 22:22" link="isa:22,22" lang="tr" %}} | ["Simetrik örüntüler": İşa.22/22](/tr/expl/background/literature/literary-tools-in-the-book-of-revelation#f356) |
+| {{% bible val="Yeşaya 22:15-25" link="isa:22,15-25" lang="tr" %}} | ["İsa'nın görüşü": Şebna ile Elyakim'e](/tr/expl/content/letters/the-letter-to-the-church-in-philadelphia#afbc) |
+| {{% bible val="Yeşaya 22:22" link="isa:22,22" lang="tr" %}} | ["Simetrik örüntüler": İşa 22:22](/tr/expl/background/literature/literary-tools-in-the-book-of-revelation#f356) |
 | {{% bible val="Yeşaya 22:22" link="isa:22,22" lang="tr" %}} | ["Ana Öğreti": Yeşaya 22:22](/tr/sermons/deep-dive/intro/04-hidden-architecture#ana-öğreti) |
 | {{% bible val="Yeşaya 23:1-3" link="isa:23,1-3" lang="tr" %}} | ["Ekonomik boyut": dünyanın limanıydı; kendisi ürünle — bu durumda tahılla — ödeme alırken herkesi zengin ediyordu](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-2#fb4b) |
 | {{% bible val="Yeşaya 23:15-18" link="isa:23,15-18" lang="tr" %}} | ["Vahiy Eski Antlaşma'yı nasıl kullanır": Yeşaya 23](/tr/expl/background/literature/full-of-biblical-references#o1t2) |
@@ -51,10 +50,10 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya 23:16-18" link="isa:23,16-18" lang="tr" %}} | ["Ekonomik boyut": bölümün sonunda açıkça fahişe olarak adlandırılır; ulusların zenginliğinden elde ettiği kazanç 'fahişelik ücreti' olarak tanımlanır](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-2#fb4b) |
 | {{% bible val="Yeşaya 23:17" link="isa:23,17" lang="tr" %}} | ["Ekonomik boyut": yeryüzünün bütün krallıklarıyla ticaret yapacaktır](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-2#fb4b) |
 | {{% bible val="Yeşaya 25:8" link="isa:25,8" lang="tr" %}} | ["Gözyaşlarını sil": Yeşaya'nın gözyaşının ve ölümün ortadan kalkacağına dair](/tr/expl/content/paradise/the-new-jerusalem#5da1) |
-| {{% bible val="Yeşaya 27" link="isa:27" lang="tr" %}} | ["Referanslarla dolu bir çanta": Yşa.27/1](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#042c) |
+| {{% bible val="Yeşaya 27" link="isa:27" lang="tr" %}} | ["Referanslarla dolu bir çanta": Yşa 27:1](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#042c) |
 | {{% bible val="Yeşaya 27:1" link="isa:27,1" lang="tr" %}} | ["İlk okuyucuların bağlamı": Yeşaya](/tr/expl/content/beasts/666-the-number-of-the-beast#b8d0) |
 | {{% bible val="Yeşaya 28:16" link="isa:28,16" lang="tr" %}} | ["Krallıkların sonu": köşe taşını](/tr/expl/bible/daniel/the-four-kingdoms-in-daniel#bcbd) |
-| {{% bible val="Yeşaya 32:15" link="isa:32,15" lang="tr" %}} | ["Ruh'un dökülmesi": (Yeş.32/15)](/tr/expl/background/israel/the-church-is-part-of-israel#7a85) |
+| {{% bible val="Yeşaya 32:15" link="isa:32,15" lang="tr" %}} | ["Ruh'un dökülmesi": (Yeş 32:15)](/tr/expl/background/israel/the-church-is-part-of-israel#7a85) |
 | {{% bible val="Yeşaya 35:7" link="isa:35,7" lang="tr" %}} | ["Uluslar ve armağanları": su havuzları, kimin girip kimin giremeyeceğine dair aynı ifadeden hemen önce belirir](/tr/expl/content/paradise/the-new-jerusalem#1c33) |
 | {{% bible val="Yeşaya 35:8" link="isa:35,8" lang="tr" %}} | ["Uluslar ve armağanları": pasajında](/tr/expl/content/paradise/the-new-jerusalem#1c33) |
 | {{% bible val="Yeşaya 35:10" link="isa:35,10" lang="tr" %}} | ["Gözyaşlarını sil": ağlayışın](/tr/expl/content/paradise/the-new-jerusalem#5da1) |
@@ -70,10 +69,10 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya 40:31" link="isa:40,31" lang="tr" %}} | ["Şeytan'ın kesintisiz başarısızlık sicili": Yeşaya 40:31](/tr/quick/content/jesus#şeytanın-kesintisiz-başarısızlık-sicili) |
 | {{% bible val="Yeşaya 41:4-10" link="isa:41,4-10" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": O putlardan daha güvenilirdir](/tr/expl/background/israel/the-second-exodus#f704) |
 | {{% bible val="Yeşaya 42:1" link="isa:42,1" lang="tr" %}} | ["Ruh'un dökülmesi": hizmetkâra](/tr/expl/background/israel/the-church-is-part-of-israel#7a85) |
-| {{% bible val="Yeşaya 42:6-7" link="isa:42,6-7" lang="tr" %}} | ["Bakanlık": (Yeş.42/6-7)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
-| {{% bible val="Yeşaya 42:16" link="isa:42,16" lang="tr" %}} | ["Bakanlık": (Yeş.42/16)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
-| {{% bible val="Yeşaya 43:10" link="isa:43,10" lang="tr" %}} | ["Ruh'un dökülmesi": (Yeş.43/10)](/tr/expl/background/israel/the-church-is-part-of-israel#7a85) |
-| {{% bible val="Yeşaya 43:12" link="isa:43,12" lang="tr" %}} | ["Ruh'un dökülmesi": (Yeş.43/12)](/tr/expl/background/israel/the-church-is-part-of-israel#7a85) |
+| {{% bible val="Yeşaya 42:6-7" link="isa:42,6-7" lang="tr" %}} | ["Bakanlık": (Yeş 42:6-7)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
+| {{% bible val="Yeşaya 42:16" link="isa:42,16" lang="tr" %}} | ["Bakanlık": (Yeş 42:16)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
+| {{% bible val="Yeşaya 43:10" link="isa:43,10" lang="tr" %}} | ["Ruh'un dökülmesi": (Yeş 43:10)](/tr/expl/background/israel/the-church-is-part-of-israel#7a85) |
+| {{% bible val="Yeşaya 43:12" link="isa:43,12" lang="tr" %}} | ["Ruh'un dökülmesi": (Yeş 43:12)](/tr/expl/background/israel/the-church-is-part-of-israel#7a85) |
 | {{% bible val="Yeşaya 43:18" link="isa:43,18" lang="tr" %}} | ["Gözyaşlarını sil": geriye değil ileriye bakarak okumamız gerekir](/tr/expl/content/paradise/the-new-jerusalem#5da1) |
 | {{% bible val="Yeşaya 43:18-19" link="isa:43,18-19" lang="tr" %}} | ["Her şey yeni": Tanrı'nın her şeyi yenileyeceği vaadi](/tr/expl/content/paradise/the-new-jerusalem#7511) |
 | {{% bible val="Yeşaya 44:9-20" link="isa:44,9-20" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": putların boşluğu](/tr/expl/background/israel/the-second-exodus#f704) |
@@ -83,10 +82,10 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya 45:1" link="isa:45,1" lang="tr" %}} | ["Bölüm 1: 70 Hafta": Yeşaya 45:1](/tr/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bölüm-1-70-hafta) |
 | {{% bible val="Yeşaya 46:1-13" link="isa:46,1-13" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": Babil'in putları](/tr/expl/background/israel/the-second-exodus#f704) |
 | {{% bible val="Yeşaya 49" link="isa:49" lang="tr" %}} | ["Bakanlık": Yeşaya 49](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
-| {{% bible val="Yeşaya 49:3" link="isa:49,3" lang="tr" %}} | ["Bakanlık": (Yeş.49/3)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
+| {{% bible val="Yeşaya 49:3" link="isa:49,3" lang="tr" %}} | ["Bakanlık": (Yeş 49:3)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
 | {{% bible val="Yeşaya 49:3-6" link="isa:49,3-6" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": Bana, ‹‹Kulumsun, ey İsrail, Görkemimi senin aracılığınla göstereceğim›› dedi. Ama ben, ‹‹Boşuna emek verdim›› dedim, ‹‹Gücümü boş yere, bir hiç için tükettim. RAB yine de hakkımı savunur, Tanrım yaptıklarımın karşılığını verir.›› Kulu olmam için, Yakup soyunu kendisine geri getirmem, İsrail’i önünde toplamam için Rahimde beni biçimlendiren RAB şimdi şöyle diyor: -O’nun gözünde onurluyum, Tanrım bana güç kaynağı oldu.- ‹‹Yakup’un oymaklarını canlandırmak, Sağ kalan İsrailliler’i geri getirmek için Kulum olman yeterli değil. Seni uluslara ışık yapacağım. Öyle ki, kurtarışım yeryüzünün dört bucağına ulaşsın.››](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
-| {{% bible val="Yeşaya 49:5-6" link="isa:49,5-6" lang="tr" %}} | ["Bakanlık": (Yeş.49/5-6)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
-| {{% bible val="Yeşaya 49:6" link="isa:49,6" lang="tr" %}} | ["Ruh'un dökülmesi": (Yeş.49/6)](/tr/expl/background/israel/the-church-is-part-of-israel#7a85) |
+| {{% bible val="Yeşaya 49:5-6" link="isa:49,5-6" lang="tr" %}} | ["Bakanlık": (Yeş 49:5-6)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
+| {{% bible val="Yeşaya 49:6" link="isa:49,6" lang="tr" %}} | ["Ruh'un dökülmesi": (Yeş 49:6)](/tr/expl/background/israel/the-church-is-part-of-israel#7a85) |
 | {{% bible val="Yeşaya 49:6" link="isa:49,6" lang="tr" %}} | ["Ruh'un dökülmesi": Yeşaya'ya](/tr/expl/background/israel/the-church-is-part-of-israel#7a85) |
 | {{% bible val="Yeşaya 49:6" link="isa:49,6" lang="tr" %}} | ["Luka'daki yeni Çıkış": Yeşaya'da İsrail'in restorasyonuna ve Yahudi olmayanların dahil edilmesine atıfta bulunan](/tr/expl/background/israel/the-second-exodus#bfa6) |
 | {{% bible val="Yeşaya 49:10" link="isa:49,10" lang="tr" %}} | ["Diri su": Yeşaya'yı](/tr/expl/content/paradise/the-new-jerusalem#34a7) |
@@ -128,6 +127,7 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya 65:17" link="isa:65,17" lang="tr" %}} | ["Peki ya kehanetler?": İşte yeni gökler ve yeni yer yaratıyorum, geçmiştekiler anımsanmayacak, akla bile gelmeyecek.](/tr/expl/content/1000y/the-thousand-year-kingdom#9069) |
 | {{% bible val="Yeşaya 65:17" link="isa:65,17" lang="tr" %}} | ["Tarih boyunca birkaç adım": bu pasaj açıkça Yeni Gökler ve Yeni Yeryüzü'ndeki gerçekleşmeden söz etmektedir](/tr/expl/topics/others/dispensionalism-a-little-history#abac) |
 | {{% bible val="Yeşaya 65:17-20" link="isa:65,17-20" lang="tr" %}} | ["Gözyaşlarını sil": Eski düzen tüm yasıyla birlikte ortadan kalkacak](/tr/expl/content/paradise/the-new-jerusalem#5da1) |
+| {{% bible val="Yeşaya 65:17-25" link="isa:65,17-25" lang="tr" %}} | ["Rab'bin Günü'nün kökeni": Yeşaya 65:17-25](/tr/expl/background/israel/the-day-of-the-lord#45df) |
 | {{% bible val="Yeşaya 65:17-25" link="isa:65,17-25" lang="tr" %}} | ["Her şey yeni": Eski Ahit'in birçok vaadi yerine gelir](/tr/expl/content/paradise/the-new-jerusalem#2d32) |
 | {{% bible val="Yeşaya 65:17-25" link="isa:65,17-25" lang="tr" %}} | ["Tarih boyunca birkaç adım": yeryüzünde daha iyi bir yaşamdan ve doğada uyumdan söz eden kehanetinin](/tr/expl/topics/others/dispensionalism-a-little-history#abac) |
 | {{% bible val="Yeşaya 65:18-25" link="isa:65,18-25" lang="tr" %}} | ["Düğüm 4: vaadin ne kadarı tarihin içine iniyor?": Yeşaya 65](/tr/expl/content/1000y/pre-post-and-amillennialism#b3f5) |

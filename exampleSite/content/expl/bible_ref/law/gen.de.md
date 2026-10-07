@@ -4,7 +4,7 @@ weight: 0
 docType: expl
 ---
 
-67 Bibelstellen wurden in diesem Buch verwendet.
+73 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -13,6 +13,7 @@ docType: expl
 | {{% bible val="1.Mose 2,8-15" link="gen:2,8-15" lang="de" %}} | ["Die zentrale Lehre": gibt ihr einen Garten zur Pflege](/de/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#die-zentrale-lehre) |
 | {{% bible val="1.Mose 2,9-14" link="gen:2,9-14" lang="de" %}} | ["Der neue Himmel und die neue Erde (Kap. 21-22)": 1. Mose 2,9-14](/de/quick/content/paradise) |
 | {{% bible val="1.Mose 2,10-12" link="gen:2,10-12" lang="de" %}} | ["Symbole von Gottes Gegenwart": Schöpfungsgeschichte wider, in der die Flüsse ebenfalls mit Edelsteinen verbunden sind](/de/expl/content/paradise/the-new-jerusalem#126e) |
+| {{% bible val="1.Mose 2,16-17" link="gen:2,16-17" lang="de" %}} | ["Der Auslöser": das Gebot aus erster Hand gehört hat](/de/expl/bible/creation/the-creation#cba5) |
 | {{% bible val="1.Mose 3,8" link="gen:3,8" lang="de" %}} | ["Der Zorn des Lammes": den Sündenfall zurückgeht, als Adam und Eva versuchten, sich vor Gott zu verstecken, nachdem sie gesündigt hatten](/de/expl/content/seals/the-wrath-of-the-lamb#435e) |
 | {{% bible val="1.Mose 3,8-9" link="gen:3,8-9" lang="de" %}} | ["Der Garten Eden als Ort der Gemeinschaft mit Gott": trifft sich dort regelmäßig mit ihnen](/de/expl/bible/creation/the-temple-and-the-presence-of-god#f66f) |
 | {{% bible val="1.Mose 3,8-9" link="gen:3,8-9" lang="de" %}} | ["Die zentrale Lehre": trifft sich dort regelmäßig mit ihr](/de/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#die-zentrale-lehre) |
@@ -29,7 +30,10 @@ docType: expl
 | {{% bible val="1.Mose 4,16-17" link="gen:4,16-17" lang="de" %}} | ["Der neue Himmel und die neue Erde (Kap. 21-22)": 1. Mose 4,16-17](/de/quick/content/paradise) |
 | {{% bible val="1.Mose 4,22-24" link="gen:4,22-24" lang="de" %}} | ["Die Stadt als Zuflucht des Menschen": der den Schutz verspottet, den Gott Kain gegeben hatte](/de/expl/bible/creation/the-temple-and-the-presence-of-god#9299) |
 | {{% bible val="1.Mose 4,25-26" link="gen:4,25-26" lang="de" %}} | ["Die Stadt als Zuflucht des Menschen": von da an fangen die Menschen wieder an, den Namen des Herrn anzurufen](/de/expl/bible/creation/the-temple-and-the-presence-of-god#9299) |
-| {{% bible val="1.Mose 9,8-11" link="gen:9,8-11" lang="de" %}} | ["Der Thronsaal": Er erinnert an den Bund mit Noah, in dem Gott den Regenbogen als sein Versprechen setzte, die Erde nie wieder mit einer Flut zu vernichten und die Jahreszeiten zu erhalten. Diesem Bund war keine Bedingung an Noah geknüpft](/de/expl/content/worship/worship-in-the-throne-room#0938) |
+| {{% bible val="1.Mose 5,24" link="gen:5,24" lang="de" %}} | ["Die Identität der beiden Zeugen": Henoch wurde von Gott hinweggenommen](/de/expl/content/witnesses/the-two-witnesses#55fa) |
+| {{% bible val="1.Mose 9,1-7" link="gen:9,1-7" lang="de" %}} | ["Der Thronsaal": 1. Mose 9,1–7](/de/expl/content/worship/worship-in-the-throne-room#0938) |
+| {{% bible val="1.Mose 9,8-17" link="gen:9,8-17" lang="de" %}} | ["Der Thronsaal": der Bund selbst](/de/expl/content/worship/worship-in-the-throne-room#0938) |
+| {{% bible val="1.Mose 9,13" link="gen:9,13" lang="de" %}} | ["Das Geheimnis des ersten Reiters": 1. Mose 9,13](/de/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="1.Mose 10" link="gen:10" lang="de" %}} | ["Ausgießung des Geistes": verstreuten Liste vom Turmbau zu Babel](/de/expl/background/israel/the-church-is-part-of-israel#e989) |
 | {{% bible val="1.Mose 10,8-12" link="gen:10,8-12" lang="de" %}} | ["Die Stadt als Zuflucht des Menschen": Stadt bleibt ein bedeutendes Element](/de/expl/bible/creation/the-temple-and-the-presence-of-god#9299) |
 | {{% bible val="1.Mose 11,1-9" link="gen:11,1-9" lang="de" %}} | ["Die Stadt als Zuflucht des Menschen": Turm von Babel](/de/expl/bible/creation/the-temple-and-the-presence-of-god#9299) |
@@ -57,11 +61,13 @@ docType: expl
 | {{% bible val="1.Mose 17,20-21" link="gen:17,20-21" lang="de" %}} | ["Knotenpunkt 4: wie viel von der Verheißung landet innerhalb der Geschichte?": meinen Bund aber will ich mit Isaak aufrichten](/de/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="1.Mose 18,20-33" link="gen:18,20-33" lang="de" %}} | ["Der Hintergrund": Gottes Plan wird durch unsere Gebete beeinflusst](/de/expl/content/bowls/the-bowls-of-wrath#a84e) |
 | {{% bible val="1.Mose 19,30-37" link="gen:19,30-37" lang="de" %}} | ["Die bekannte Geschichte": von Lot abstammen](/de/expl/bible/keyword/the-story-of-balaam#dabb) |
+| {{% bible val="1.Mose 21,16" link="gen:21,16" lang="de" %}} | ["Das Geheimnis des ersten Reiters": einen Bogenschuss weit entfernt](/de/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
+| {{% bible val="1.Mose 21,20" link="gen:21,20" lang="de" %}} | ["Das Geheimnis des ersten Reiters": Ismael wächst in der Wüste zum Bogenschützen auf](/de/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="1.Mose 21,22-32" link="gen:21,22-32" lang="de" %}} | ["Geschichtliche Bünde": Abraham und Abimelech](/de/expl/background/israel/gods-covenant#ae45) |
 | {{% bible val="1.Mose 25,1-2" link="gen:25,1-2" lang="de" %}} | ["Die bekannte Geschichte": Midianiter selbst stammen von Abraham ab](/de/expl/bible/keyword/the-story-of-balaam#dabb) |
 | {{% bible val="1.Mose 25,25-26" link="gen:25,25-26" lang="de" %}} | ["Das Erbe": Jakob](/de/expl/background/israel/the-role-of-family-in-the-bible#50b0) |
 | {{% bible val="1.Mose 26,12-33" link="gen:26,12-33" lang="de" %}} | ["Geschichtliche Bünde": Isaak und die Philister](/de/expl/background/israel/gods-covenant#ae45) |
-| {{% bible val="1.Mose 27" link="gen:27" lang="de" %}} | ["Das Geheimnis des ersten Reiters": Geschichte von Jakobs Täuschung seines Vaters, als Esau zur Jagd mit seinem Bogen ausgeschickt wird](/de/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
+| {{% bible val="1.Mose 27" link="gen:27" lang="de" %}} | ["Das Geheimnis des ersten Reiters": Esaus Jagdbogen](/de/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="1.Mose 31,22-54" link="gen:31,22-54" lang="de" %}} | ["Geschichtliche Bünde": Jakob und Laban](/de/expl/background/israel/gods-covenant#ae45) |
 | {{% bible val="1.Mose 37,9-10" link="gen:37,9-10" lang="de" %}} | ["Die Frau": Josefs zweiter Traum](/de/expl/content/jesus/a-different-christmas-story#5a05) |
 | {{% bible val="1.Mose 37,21-30" link="gen:37,21-30" lang="de" %}} | ["Das Erbe": sehr beunruhigt, als Josef verloren ging](/de/expl/background/israel/the-role-of-family-in-the-bible#50b0) |

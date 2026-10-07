@@ -19,7 +19,7 @@ docType: expl
 | {{% bible val="1.Könige 10,14-29" link="1ki:10,14-29" lang="de" %}} | ["Salomos Reichtum": Zusammenfassung des Lebens von König Salomo](/de/expl/content/beasts/666-the-number-of-the-beast#e63a) |
 | {{% bible val="1.Könige 11,1-13" link="1ki:11,1-13" lang="de" %}} | ["Salomos Reichtum": der Beschreibung seines katastrophalen Scheiterns](/de/expl/content/beasts/666-the-number-of-the-beast#e63a) |
 | {{% bible val="1.Könige 11,1-13" link="1ki:11,1-13" lang="de" %}} | ["Salomos Reichtum": sein Untergang](/de/expl/content/beasts/666-the-number-of-the-beast#e63a) |
-| {{% bible val="1.Könige 16,31" link="1ki:16,31" lang="de" %}} | ["Die Hure": 1.Kön.16/31](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="1.Könige 16,31" link="1ki:16,31" lang="de" %}} | ["Die Hure": 1.Kön 16,31](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="1.Könige 16,31-18" link="1ki:16,31-18" lang="de" %}} | ["Das Problem": die Königin, die den Götzendienst in Israel einführte](/de/expl/content/letters/the-letter-to-the-church-in-thyatira#2981) |
 | {{% bible val="1.Könige 17,1" link="1ki:17,1" lang="de" %}} | ["Elia und die Dürre (1. Könige 16/29–18/35)": genug Regen](/de/expl/bible/daniel/the-secret-of-the-3-5-years#2b28) |
 | {{% bible val="1.Könige 17,1" link="1ki:17,1" lang="de" %}} | ["Elia und die Dürre (1. Könige 16/29–18/35)": sendet Gott Elia, um eine Dürre anzukündigen](/de/expl/bible/daniel/the-secret-of-the-3-5-years#2b28) |
@@ -33,10 +33,10 @@ docType: expl
 | {{% bible val="1.Könige 18,38" link="1ki:18,38" lang="de" %}} | ["Der zweifache Angriff": Elijas Zeichen für den wahren Gott](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="1.Könige 18,40" link="1ki:18,40" lang="de" %}} | ["Die Hure": Gott richtet die Nachfolger](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="1.Könige 19" link="1ki:19" lang="de" %}} | ["Elia": Die Königin ist wütend und will ihn tot sehen; Elia wiederum gibt auf und will sterben, doch Gott ruft ihn zurück, um Elisa und Jehu zu salben.](/de/expl/content/bowls/the-key-to-armageddon#5f7a) |
-| {{% bible val="1.Könige 19,2" link="1ki:19,2" lang="de" %}} | ["Die Hure": 1.Kön.19/2](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="1.Könige 19,2" link="1ki:19,2" lang="de" %}} | ["Die Hure": 1.Kön 19,2](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="1.Könige 19,10" link="1ki:19,10" lang="de" %}} | ["Elia": jagt die Propheten Gottes, bis scheinbar nur noch einer übrig ist: Elia](/de/expl/content/bowls/the-key-to-armageddon#5f7a) |
 | {{% bible val="1.Könige 19,18" link="1ki:19,18" lang="de" %}} | ["Der Überrest in der Offenbarung": 1. Könige 19,18](/de/expl/background/israel/the-remnant-of-israel#r4m1) |
-| {{% bible val="1.Könige 19,18" link="1ki:19,18" lang="de" %}} | ["Die Hure": 1.Kön.19/18](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="1.Könige 19,18" link="1ki:19,18" lang="de" %}} | ["Die Hure": 1.Kön 19,18](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="1.Könige 20,1-34" link="1ki:20,1-34" lang="de" %}} | ["Geschichtliche Bünde": Ahab](/de/expl/background/israel/gods-covenant#ae45) |
 | {{% bible val="1.Könige 20,31-32" link="1ki:20,31-32" lang="de" %}} | ["Der Charakter der beiden Zeugen": Gnade von einem siegreichen König](/de/expl/content/witnesses/the-two-witnesses#5f50) |
 | {{% bible val="1.Könige 21" link="1ki:21" lang="de" %}} | ["Die Hure": sucht wirtschaftlichen Vorteil](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |

@@ -4,11 +4,12 @@ weight: 27
 docType: expl
 ---
 
-Bu kitapta kullanılan 8 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 9 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
 | {{% bible val="Hoşea 1:2" link="hos:1,2" lang="tr" %}} | ["Tanrı'nın gelini": Hoşea'ya sadakatsiz bir kadınla evlenerek göstermesini sağladığı](/tr/expl/background/israel/the-church-is-part-of-israel#ed97) |
+| {{% bible val="Hoşea 1:4" link="hos:1,4" lang="tr" %}} | ["Sonuç": Hoşea daha sonra onun Yizreel'de döktüğü kanı suç olarak anar](/tr/expl/content/bowls/the-key-to-armageddon#733b) |
 | {{% bible val="Hoşea 1:10" link="hos:1,10" lang="tr" %}} | ["Tanrı’nın oğlu": İsrail'e Tanrı'nın yetişkin çocukları olarak bir gelecek vaat edildiğinde](/tr/expl/background/israel/the-church-is-part-of-israel#bb1b) |
 | {{% bible val="Hoşea 2:23" link="hos:2,23" lang="tr" %}} | ["Rab'bin sevgilisi": Hoşea'nın İsrail'i Tanrı'nın sevgilisi olarak adlandırışına](/tr/expl/background/israel/the-church-is-part-of-israel#2baf) |
 | {{% bible val="Hoşea 9:1-6" link="hos:9,1-6" lang="tr" %}} | ["Melekler = Kiliseler": 9. bölümde](/tr/expl/content/letters/the-angel-of-the-churches#1220) |

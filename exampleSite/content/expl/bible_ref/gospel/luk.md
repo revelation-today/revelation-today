@@ -4,12 +4,13 @@ weight: 41
 docType: expl
 ---
 
-26 bible verses have been used in this book.
+27 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
 | {{% bible val="Luke 2" link="luk:2" lang="en" %}} | ["A different Christmas story": Luke](/expl/content/jesus/a-different-christmas-story) |
 | {{% bible val="Luke 2:32" link="luk:2,32" lang="en" %}} | ["The ministry": (Lk 2:32)](/expl/background/israel/the-church-is-part-of-israel#121f) |
+| {{% bible val="Luke 2:32" link="luk:2,32" lang="en" %}} | ["The Gentiles become part of Israel": a light for the Gentiles](/expl/background/israel/the-remnant-of-israel#0f15) |
 | {{% bible val="Luke 3:1" link="luk:3,1" lang="en" %}} | ["The story of Jesus": 27](/expl/bible/daniel/the-70-year-weeks#6576) |
 | {{% bible val="Luke 3:1" link="luk:3,1" lang="en" %}} | ["Part 1: The 70 Weeks": Luke 3:1](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#part-1-the-70-weeks) |
 | {{% bible val="Luke 3:4-6" link="luk:3,4-6" lang="en" %}} | ["The new Exodus in Luke": As it is written in the book of the words of the prophet Isaiah: ‘A voice of one calling in the wilderness, “Prepare the way for the Lord, make straight paths for him. Every valley shall be filled in, every mountain and hill made low. The crooked roads shall become straight, the rough ways smooth. And all people will see God’s salvation.” ’](/expl/background/israel/the-second-exodus#1f7d) |

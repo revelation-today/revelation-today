@@ -16,7 +16,7 @@ deeper:
     - name: İmparatorlukla alay eder gibi Babil
       link:  /expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire
 sources: 
-    - pages: 847–890
+    - pages: 27, 847–890
       ref: beale_rev
     - pages: 886
       ref: beale_rev
@@ -48,7 +48,7 @@ Başkâhinin üzerinde {{% bible val="'Rab'be adanmıştır' yazılı" link="exo
 
 Bu paralellik yargıya kadar sürer: {{% bible val="fuhuş yapan bir kâhinin kızı ateşte yakılırdı" link="lev:21,9" lang="tr" %}} ve {{% bible val="Babil'in başına gelen yargı tam olarak budur" link="rev:18,8" lang="tr" %}}.
 
-Hezekiel de aynı resmi başka bir açıdan verir: Tanrı, {{% bible val="aynı kâhin giysileriyle giyinmiş bir fahişe gibi davranan" link="ezk:16,13-26" lang="tr" %}} Yeruşalim'in karşısına çıkar. Bütün bu pasajlarda fahişe, Tanrı'nın kendi kâhini ve sevgilisi olup sadakatsizliğe dönen biri olarak resmedilir.
+Hezekiel de aynı resmi başka bir açıdan verir: Tanrı, {{% bible val="aynı kâhin giysileriyle giyinmiş bir fahişe gibi davranan" link="ezk:16,13-26" lang="tr" %}} Yeruşalim'in karşısına çıkar. Bütün bu pasajlarda fahişe, Tanrı'nın kendi kâhini ve sevgilisi olup sadakatsizliğe dönen biri olarak resmedilir. Aynı kanıtlar bazı okurları bu sitenin vardığından farklı bir sonuca götürmüştür: Babil, mürted Yeruşalim'dir.[^jerusalem]
 
 Bu, tek seferlik bir imge de değil — Eski Ahit'te birkaç şehir aynı şekilde tanımlanır:
 
@@ -72,7 +72,7 @@ Vahiy aynı bağlantıyı kurar: krallar {{% bible val="Babil'le fuhuş yapar" l
 ## Babil mürted kilise mi?
 
 <a name="2815"></a>
-Babil sadece yoldan sapmış kilisenin bir resmi mi? Tam olarak değil — ama kilise her zaman Babil'in bir parçası hâline gelme tehlikesiyle karşı karşıyadır. Babil, Gelin'in ve Yeni Yeruşalim'in karşıtıdır ve kendi başına bir sistemdir. Üzerinde oturduğu canavarla birlikte {{% int_link val="dünyayı aldatan şeytani üçlüyü temsil eder" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
+Babil sadece yoldan sapmış kilisenin bir resmi mi? Tam olarak değil — ama kilise her zaman Babil'in bir parçası hâline gelme tehlikesiyle karşı karşıyadır. Babil, Gelin'in ve Yeni Yeruşalim'in karşıtıdır ve kendi başına bir sistemdir. O, {{% int_link val="taklit üçlünün" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} bir üyesi değildir — o üçlü, ejderha ile iki canavarıdır — ama onların ilkine biner ve dünya üzerinde aynı işi yapar: dünyayı, canavarın ne olduğuyla rahatça yaşamaya alıştırır.
 
 Fahişenin altındaki canavar siyasi ve askeri gücü temsil eder ({{% int_link val="imparator tarafından somutlaştırılır" link="/expl/content/beasts/666-the-number-of-the-beast" %}}), fahişenin kendisi ise onu çevreleyen destekleyici sistemi temsil eder —
 
@@ -91,3 +91,5 @@ Bütün bunlar aracılığıyla fahişe, İsa'ya rakip bir müjde sunar ve şunl
 Babil'in {{% int_link val="İzebel'le pek çok paralelliği olduğundan" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}, bu özellikle kilise liderleri için özel bir uyarı taşıyor olabilir. Ama farkındalık ve öz-sorgulama çağrısı herkes içindir. Belki de Babil'in bu kadar keskin hatlarla çizilmemesinin nedeni tam olarak budur — {{% bible val="böylece gün be gün yeniden düşünmek ve ondan çıkmak zorunda kalırsın" link="rev:18,4" lang="tr" %}}. Çünkü Babil her yerdedir.
 
 Onu çekici kılan da tam olarak budur: zulüm altındaki ya da yoksulluk içinde yaşayıp daha fazla zenginlik ve insan onayına giden bir yol arayan bir kilise için o, gerçekten çok cazip görünebilir.
+
+[^jerusalem]: Babil'i mürted Yeruşalim olarak alan preterist okuma. Beale, s. 27, bu sitenin koruduğu dengeyi korur: başkâhin giysisine yapılan ima "mümkündür ve muhtemelen bir ölçüde kapsanır", ama aynı giysi Sur kralına, onun ardında da Aden'deki Adem'e aittir; ayrıca "'Babil'in İsrail için simgesel bir ad olarak kullanıldığına dair, MS 70'ten önce ya da sonra, tek bir örnek yoktur … kanıt yükü, Babil = Yeruşalim eşitlemesini savunanların üzerindedir."

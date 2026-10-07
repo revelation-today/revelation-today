@@ -4,13 +4,14 @@ weight: 43
 docType: expl
 ---
 
-46 bible verses have been used in this book.
+48 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
 | {{% bible val="Acts 2" link="act:2" lang="en" %}} | ["The new Exodus in Acts": coming of the Holy Spirit](/expl/background/israel/the-second-exodus#a809) |
 | {{% bible val="Acts 2:5" link="act:2,5" lang="en" %}} | ["The new Exodus in Acts": Pentecost including Jews from all nations](/expl/background/israel/the-second-exodus#a809) |
 | {{% bible val="Acts 2:5-11" link="act:2,5-11" lang="en" %}} | ["Pouring out of the Spirit": nations listed](/expl/background/israel/the-church-is-part-of-israel#a1c3) |
+| {{% bible val="Acts 2:16-17" link="act:2,16-17" lang="en" %}} | ["What is the end time?": the last days](/expl/content/army/the-end-time-and-the-great-tribulation#d1d8) |
 | {{% bible val="Acts 2:16-21" link="act:2,16-21" lang="en" %}} | ["Pouring out of the Spirit": fulfilled at Pentecost](/expl/background/israel/the-church-is-part-of-israel#a1c3) |
 | {{% bible val="Acts 2:17" link="act:2,17" lang="en" %}} | ["Pouring out of the Spirit": in the last days](/expl/background/israel/the-church-is-part-of-israel#a1c3) |
 | {{% bible val="Acts 2:41-47" link="act:2,41-47" lang="en" %}} | ["The new Exodus in Acts": Pentecost](/expl/background/israel/the-second-exodus#a809) |
@@ -33,6 +34,7 @@ docType: expl
 | {{% bible val="Acts 13:10-11" link="act:13,10-11" lang="en" %}} | ["The new Exodus in Acts": Elymas](/expl/background/israel/the-second-exodus#a809) |
 | {{% bible val="Acts 13:47" link="act:13,47" lang="en" %}} | ["The ministry": (Acts 13:47)](/expl/background/israel/the-church-is-part-of-israel#121f) |
 | {{% bible val="Acts 13:47" link="act:13,47" lang="en" %}} | ["Pouring out of the Spirit": Acts](/expl/background/israel/the-church-is-part-of-israel#a1c3) |
+| {{% bible val="Acts 13:47" link="act:13,47" lang="en" %}} | ["The Gentiles become part of Israel": the same line](/expl/background/israel/the-remnant-of-israel#0f15) |
 | {{% bible val="Acts 14:22" link="act:14,22" lang="en" %}} | ["The great tribulation": mission of Paul](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Acts 15:13-18" link="act:15,13-18" lang="en" %}} | ["The new Exodus in Acts": restoration of the kingdom of David](/expl/background/israel/the-second-exodus#a809) |
 | {{% bible val="Acts 17" link="act:17" lang="en" %}} | ["The new Exodus in Acts": Acts 17](/expl/background/israel/the-second-exodus#a809) |

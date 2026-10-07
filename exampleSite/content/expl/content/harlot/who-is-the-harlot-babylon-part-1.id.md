@@ -83,7 +83,7 @@ Binatang itu sendiri kemudian {{% bible val="datang sebagai raja kedelapan yang 
 ## Kesepuluh raja
 
 <a name="cc5d"></a>
-{{% bible val="Kesepuluh tanduk yang engkau lihat adalah kesepuluh raja yang belum menerima kerajaan, tetapi yang akan menerima kuasa sebagai raja bersama-sama dengan binatang itu untuk waktu satu jam saja" link="rev:17,12-13" lang="ind" %}}. Mereka bertindak bersama-sama, pada saat yang sama, menyerahkan kekuasaan mereka kepada agen-agen binatang itu, yang kemudian tunduk pada agenda binatang itu. Bersama-sama mereka mewakili kekuasaan binatang itu atas dunia — yang berpotensi seluruh dunia — pada momen sejarah itu. Angka 10 mungkin sekali lagi bersifat simbolis; bagi para pembaca pertama, angka ini kemungkinan besar menunjuk kepada raja-raja pendukung Kekaisaran Romawi.
+{{% bible val="Kesepuluh tanduk yang engkau lihat adalah kesepuluh raja yang belum menerima kerajaan, tetapi yang akan menerima kuasa sebagai raja bersama-sama dengan binatang itu untuk waktu satu jam saja" link="rev:17,12-13" lang="ind" %}}. Mereka bertindak bersama-sama, pada saat yang sama, dan ayat berikutnya mengatakan apa yang mereka lakukan dengan kekuasaan itu: mereka memberikannya kepada binatang itu. Bersama-sama mereka mewakili kekuasaan binatang itu atas dunia — yang berpotensi seluruh dunia — pada momen sejarah itu. Angka 10 mungkin sekali lagi bersifat simbolis; bagi para pembaca pertama, angka ini kemungkinan besar menunjuk kepada raja-raja pendukung Kekaisaran Romawi.
 
 Tujuan mereka yang dinyatakan adalah untuk berperang melawan Anak Domba. Namun keadaan berkembang secara agak berbeda, seperti yang akan kita lihat.
 

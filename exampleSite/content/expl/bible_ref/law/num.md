@@ -4,7 +4,7 @@ weight: 3
 docType: expl
 ---
 
-37 bible verses have been used in this book.
+38 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -15,6 +15,7 @@ docType: expl
 | {{% bible val="Numbers 12:3" link="num:12,3" lang="en" %}} | ["The further story of Moses": humble man on earth](/expl/bible/exodus/the-birth-of-moses#371c) |
 | {{% bible val="Numbers 13:25" link="num:13,25" lang="en" %}} | ["Some basics": the people spent 40 days scouting out the new land](/expl/content/beasts/666-the-number-of-the-beast#0630) |
 | {{% bible val="Numbers 14:34" link="num:14,34" lang="en" %}} | ["The challenge": one year for each of the 40 days the spies had spent in the land](/expl/background/israel/jesus-and-the-covenant#298a) |
+| {{% bible val="Numbers 14:34" link="num:14,34" lang="en" %}} | ["The use of numbers in the Book of Revelation": a year for each day](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation) |
 | {{% bible val="Numbers 14:34" link="num:14,34" lang="en" %}} | ["Some basics": because of their unbelief they had to wander in the desert for 40 years](/expl/content/beasts/666-the-number-of-the-beast#0630) |
 | {{% bible val="Numbers 21" link="num:21" lang="en" %}} | ["The well-known story": conquering all the Amorites and Canaanites along the way](/expl/bible/keyword/the-story-of-balaam#c389) |
 | {{% bible val="Numbers 22:1-4" link="num:22,1-4" lang="en" %}} | ["The well-known story": Moabites afraid enough to ask the Midianites for help](/expl/bible/keyword/the-story-of-balaam#c389) |

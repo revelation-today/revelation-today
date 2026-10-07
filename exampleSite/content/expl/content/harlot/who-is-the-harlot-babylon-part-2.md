@@ -16,7 +16,7 @@ deeper:
     - name: Babel as mocking on the empire
       link:  /expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire
 sources: 
-    - pages: 847–890
+    - pages: 27, 847–890
       ref: beale_rev
     - pages: 886
       ref: beale_rev
@@ -47,7 +47,7 @@ The high priest's plate, {{% bible val="inscribed 'Holy to the Lord'" link="exo:
 
 The parallel continues into judgment: {{% bible val="the priest's daughter who became a prostitute was to be burned with fire" link="lev:21,9" lang="en" %}}, and that is {{% bible val="exactly the judgment that falls on Babel" link="rev:18,8" lang="en" %}}.
 
-Ezekiel gives the same picture from another angle, where God confronts Jerusalem for {{% bible val="acting as a harlot dressed in the same luxury materials associated with the tabernacle and priesthood" link="ezk:16,13-26" lang="en" %}}. Across all these passages, the harlot is portrayed as God's own priest and lover, turned unfaithful.
+Ezekiel gives the same picture from another angle, where God confronts Jerusalem for {{% bible val="acting as a harlot dressed in the same luxury materials associated with the tabernacle and priesthood" link="ezk:16,13-26" lang="en" %}}. Across all these passages, the harlot is portrayed as God's own priest and lover, turned unfaithful. That same evidence has led some readers to a different conclusion from this site's: that Babel is apostate Jerusalem.[^jerusalem]
 
 This isn't a one-off image, either — several Old Testament cities are described the same way:
 - Tyre {{% bible val="entered a political treaty with Solomon that helped build the temple" link="1ki:5,12" lang="en" %}}, yet was {{% bible val="called to judgment for selling Jews into captivity" link="amo:1,9" lang="en" %}} and was {{% bible val="called a harlot" link="isa:23,15-18" lang="en" %}}.
@@ -68,7 +68,7 @@ Revelation draws the same connection: the kings {{% bible val="prostitute themse
 
 ## Is Babel the apostate church?
 
-Could Babel simply be a picture of the church gone astray? Not quite — but the church is always at risk of becoming part of Babel. Babel is the counterpart to the Bride and the New Jerusalem, and it's a system in its own right. Together with the beast it sits on, it {{% int_link val="represents the evil trinity to deceive the world" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}.
+Could Babel simply be a picture of the church gone astray? Not quite — but the church is always at risk of becoming part of Babel. Babel is the counterpart to the Bride and the New Jerusalem, and it's a system in its own right. She is not one of the {{% int_link val="counterfeit trinity" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}} — that is the dragon with his two beasts — but she rides the first of them, and she does the same work on the world: she makes it comfortable with what the beast is.
 
 The beast underneath the harlot represents political and military power ({{% int_link val="embodied by the emperor" link="/expl/content/beasts/666-the-number-of-the-beast" %}}), while the harlot herself represents the supporting system around it — the
 
@@ -87,3 +87,5 @@ Through all of this, she offers a rival gospel to Jesus, promising
 Since Babel has {{% int_link val="many parallels to Jezebel" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}, this may carry a special warning for church leaders in particular. But the call to awareness and self-examination is for everyone. Perhaps that's exactly why Babel isn't drawn with sharper edges — {{% bible val="so that you're forced to keep reflecting and stepping out of it, day after day" link="rev:18,4" lang="en" %}}. Because Babel is everywhere.
 
 That's precisely what makes her compelling: to a church under persecution, or living in poverty and eyeing a path toward more wealth and human approval, she can look very attractive indeed.
+
+[^jerusalem]: The preterist reading, which takes Babel as apostate Jerusalem. Beale, p. 27, holds the balance this site holds: the allusion to the high priest's attire is "possible, and likely included to some degree", but the same attire belongs to the king of Tyre and behind him to Adam in Eden; and "there is not one example of 'Babylon' ever being a symbolic name for Israel, either before or after 70 A.D. … the burden of proof rests on those maintaining the Babylon = Jerusalem identification."

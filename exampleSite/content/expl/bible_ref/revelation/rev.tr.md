@@ -4,7 +4,7 @@ weight: 65
 docType: expl
 ---
 
-Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 1160 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -31,7 +31,6 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 1:4" link="rev:1,4" lang="tr" %}} | ["4x7 kombinasyonu": 1:4](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#4df9) |
 | {{% bible val="Vahiy 1:4" link="rev:1,4" lang="tr" %}} | ["Taban": Yuhanna’dan Asya İli’ndeki yedi kiliseye selam! Var olan, var olmuş ve gelecek olandan, O’nun tahtının önündeki yedi ruhtan,](/tr/expl/content/vision/setting-the-foundation#8853) |
 | {{% bible val="Vahiy 1:4-5" link="rev:1,4-5" lang="tr" %}} | ["Taban": ve sadık tanık, ölüler arasından ilk doğan, dünya krallarının hükümdarı İsa Mesih’ten sizlere lütuf ve esenlik olsun. Bizi seven, kanıyla bizi günahlarımızdan özgür kılan,](/tr/expl/content/vision/setting-the-foundation#8853) |
-| {{% bible val="Vahiy 1:4-5" link="rev:1,4-5" lang="tr" %}} | ["Yorum": bölümün başında](/tr/expl/content/vision/the-vision#1a72) |
 | {{% bible val="Vahiy 1:4-5" link="rev:1,4-5" lang="tr" %}} | ["Yenilgiden zafere": İsa sadık tanıktır](/tr/expl/content/witnesses/the-two-witnesses#bdb3) |
 | {{% bible val="Vahiy 1:4-6" link="rev:1,4-6" lang="tr" %}} | ["Kâhinler krallığı": Vahiy'in](/tr/expl/background/israel/the-church-is-part-of-israel#6e15) |
 | {{% bible val="Vahiy 1:4-6" link="rev:1,4-6" lang="tr" %}} | ["Bir mektup": resmi giriş](/tr/expl/background/literature/the-book-of-revelation-how-to-read-it#letter) |
@@ -40,6 +39,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 1:4-6" link="rev:1,4-6" lang="tr" %}} | ["Taban": ve bizi bir krallık haline getirip Babası Tanrı’nın hizmetinde kâhinler kıldı. Yücelik ve güç sonsuzlara dek O’nun olsun! Amin.](/tr/expl/content/vision/setting-the-foundation#8853) |
 | {{% bible val="Vahiy 1:4-6" link="rev:1,4-6" lang="tr" %}} | ["Ana Öğreti": Va 1:4-6](/tr/sermons/deep-dive/intro/02-what-kind-of-book-is-this#ana-öğreti) |
 | {{% bible val="Vahiy 1:5" link="rev:1,5" lang="tr" %}} | ["Kutsal Kitapta ailenin rolü": ölüler arasından ilk doğan](/tr/expl/background/israel/the-role-of-family-in-the-bible) |
+| {{% bible val="Vahiy 1:5" link="rev:1,5" lang="tr" %}} | ["Yorum": mektubun başında](/tr/expl/content/vision/the-vision#1a72) |
 | {{% bible val="Vahiy 1:5-6" link="rev:1,5-6" lang="tr" %}} | ["Vahiy'de yeni Çıkış": kanıyla bizi günahlarımızdan kurtardı, bizi bir krallık, kâhinler yaptı](/tr/expl/background/israel/the-second-exodus#x0d1) |
 | {{% bible val="Vahiy 1:5-6" link="rev:1,5-6" lang="tr" %}} | ["Ana Öğreti": Va 1:5-6](/tr/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#ana-öğreti) |
 | {{% bible val="Vahiy 1:6" link="rev:1,6" lang="tr" %}} | ["Antrenman": krallar olarak](/tr/appl/topics/hero/who-rules-the-world#53e2) |
@@ -63,6 +63,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 1:12-13" link="rev:1,12-13" lang="tr" %}} | ["Parlamaya hazır mısın?": Vahiy 1:12–13](/tr/appl/content/vision) |
 | {{% bible val="Vahiy 1:12-20" link="rev:1,12-20" lang="tr" %}} | ["Peki kim, kimin üzerinde ve nerede egemenlik sürer?": yedi kilise, aralarında İsa'nın durduğu kandilliklerdir ve yıldızları O'nun elindedir](/tr/expl/content/1000y/the-thousand-year-kingdom#0495) |
 | {{% bible val="Vahiy 1:17" link="rev:1,17" lang="tr" %}} | ["Diğer düşünceler": 1:17](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#975c) |
+| {{% bible val="Vahiy 1:17-18" link="rev:1,17-18" lang="tr" %}} | ["Yorum": İlk ve Son, ölü olup sonsuza dek diri olan ve ölümün ve ölüler diyarının anahtarlarını elinde tutan Yaşayan](/tr/expl/content/vision/the-vision#1a72) |
 | {{% bible val="Vahiy 1:18" link="rev:1,18" lang="tr" %}} | ["İki yönlü saldırı": İsa sonsuza dek hüküm sürer](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy 1:19" link="rev:1,19" lang="tr" %}} | ["Daniel çerçevesi": kiliselere mektuplardan hemen önce](/tr/expl/background/literature/literally-or-symbolic#6075) |
 | {{% bible val="Vahiy 1:19" link="rev:1,19" lang="tr" %}} | ["Arka Plan: Rastgele Değil: Vahiy'in Gizli Tasarımı": Vahiy 1:19](/tr/kids/teens-prep/03-not-random-the-hidden-design-of-revelation) |
@@ -70,7 +71,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 1:20" link="rev:1,20" lang="tr" %}} | ["Daniel çerçevesi": yedi yıldızın ve kandilliğin](/tr/expl/background/literature/literally-or-symbolic#6075) |
 | {{% bible val="Vahiy 1:20" link="rev:1,20" lang="tr" %}} | ["Sonuç": Yedi kandillik yedi kilisedir](/tr/expl/background/literature/literally-or-symbolic#dbba) |
 | {{% bible val="Vahiy 1:20" link="rev:1,20" lang="tr" %}} | ["İsa'nın görüşü": 1. bölümde](/tr/expl/content/letters/the-letter-to-the-church-in-ephesus#e582) |
-| {{% bible val="Vahiy 1:20" link="rev:1,20" lang="tr" %}} | ["Taban": kiliseleri simgeleyen yedi kandillikle](/tr/expl/content/vision/setting-the-foundation#8853) |
+| {{% bible val="Vahiy 1:20" link="rev:1,20" lang="tr" %}} | ["Taban": onlar yedi kilisedir](/tr/expl/content/vision/setting-the-foundation#8853) |
 | {{% bible val="Vahiy 1:20" link="rev:1,20" lang="tr" %}} | ["Yorum": kandilliklerin ve yıldızların gizemi çözülür](/tr/expl/content/vision/the-vision#1a72) |
 | {{% bible val="Vahiy 1:20" link="rev:1,20" lang="tr" %}} | ["İki tanığın kimliği": kandilliklerle özdeşleştirilen yedi kiliseye de](/tr/expl/content/witnesses/the-two-witnesses#c357) |
 | {{% bible val="Vahiy 1:20" link="rev:1,20" lang="tr" %}} | ["Ana Öğreti": kilise](/tr/sermons/deep-dive/intro/03-symbol-or-literal#ana-öğreti) |
@@ -88,6 +89,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 2:2" link="rev:2,2" lang="tr" %}} | ["İkinci ölüme hazır olanlar": kendilerine elçi diyorlar](/tr/expl/content/paradise/the-new-jerusalem#d33d) |
 | {{% bible val="Vahiy 2:4" link="rev:2,4" lang="tr" %}} | ["Bir kehanet": sevginiz soğumasın](/tr/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Vahiy 2:5" link="rev:2,5" lang="tr" %}} | ["Gözlemler": Nasıl düştüğünü hatırla](/tr/expl/content/letters/the-angel-of-the-churches#22d1) |
+| {{% bible val="Vahiy 2:5" link="rev:2,5" lang="tr" %}} | ["Çözüm": ne kadar düştüğünü hatırla, tövbe et ve başlangiçtaki işleri yeniden yap](/tr/expl/content/letters/the-letter-to-the-church-in-ephesus#4d61) |
 | {{% bible val="Vahiy 2:6" link="rev:2,6" lang="tr" %}} | ["İsa'nın görüşü": Nikolasçıların](/tr/expl/content/letters/the-letter-to-the-church-in-ephesus#e582) |
 | {{% bible val="Vahiy 2:7" link="rev:2,7" lang="tr" %}} | ["Bu araçlar Vahiy'de": 2:7](/tr/expl/background/literature/literary-tools-in-the-book-of-revelation#r3v1) |
 | {{% bible val="Vahiy 2:7" link="rev:2,7" lang="tr" %}} | ["Vahiy'de": onu yeniden vaat eder](/tr/expl/bible/creation/the-creation#d090) |
@@ -122,22 +124,25 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 2:14-15" link="rev:2,14-15" lang="tr" %}} | ["Bir kehanet": sahte öğretiye hoşgörü göstermeyin](/tr/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Vahiy 2:14-15" link="rev:2,14-15" lang="tr" %}} | ["İsa'nın görüşü": Balam ve Nikolaycılar](/tr/expl/content/letters/the-letter-to-the-church-in-pergamon#fa05) |
 | {{% bible val="Vahiy 2:16" link="rev:2,16" lang="tr" %}} | ["Vahiy'de": ağzımdaki kılıçla](/tr/expl/bible/keyword/the-story-of-balaam#e4ea) |
+| {{% bible val="Vahiy 2:16" link="rev:2,16" lang="tr" %}} | ["İsa'nın görüşü": ağzındaki kılıçla ona karşı savaşır](/tr/expl/content/letters/the-letter-to-the-church-in-pergamon#fa05) |
 | {{% bible val="Vahiy 2:16" link="rev:2,16" lang="tr" %}} | ["Çözüm": reddederlerse, İsa onlara karşı savaşacaktır](/tr/expl/content/letters/the-letter-to-the-church-in-pergamon#eebd) |
+| {{% bible val="Vahiy 2:16" link="rev:2,16" lang="tr" %}} | ["Görüm": 2:16](/tr/expl/content/vision/the-vision#727c) |
 | {{% bible val="Vahiy 2:17" link="rev:2,17" lang="tr" %}} | ["Galip gelen": Bergama'ya](/tr/expl/content/paradise/the-new-jerusalem#07a3) |
-| {{% bible val="Vahiy 2:18-29" link="rev:2,18-29" lang="tr" %}} | ["Thyatira’daki kiliseye mektup": bu kiliseye yazılan mektup yedisinin en uzunudur](/tr/expl/content/letters/the-letter-to-the-church-in-thyatira) |
+| {{% bible val="Vahiy 2:18-29" link="rev:2,18-29" lang="tr" %}} | ["Thyatira’daki kiliseye mektup": mektubu hepsinin en uzunudur](/tr/expl/content/letters/the-letter-to-the-church-in-thyatira) |
 | {{% bible val="Vahiy 2:19" link="rev:2,19" lang="tr" %}} | ["İsa'nın görüşü": İşlerini, sevgilerini — tam olarak Efes'in zorlandığı noktada —, imanlarını, sebatlarını ve sürekli büyümelerini, ilk yaptıklarından şimdi daha fazlasını yaptıklarını](/tr/expl/content/letters/the-letter-to-the-church-in-thyatira#5c6b) |
 | {{% bible val="Vahiy 2:20" link="rev:2,20" lang="tr" %}} | ["Pax Romana ve Hristiyanlar": 20](/tr/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation#879e) |
 | {{% bible val="Vahiy 2:20" link="rev:2,20" lang="tr" %}} | ["İlk okuyucular": Sahte peygamberlere Eski Antlaşma'daki İzebel etiketinin](/tr/expl/background/literature/full-of-biblical-references#5d38) |
 | {{% bible val="Vahiy 2:20" link="rev:2,20" lang="tr" %}} | ["Diğer sayılar": 2:20](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#b417) |
 | {{% bible val="Vahiy 2:20" link="rev:2,20" lang="tr" %}} | ["Fahişe": Thyatira'da](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
-| {{% bible val="Vahiy 2:20" link="rev:2,20" lang="tr" %}} | ["Fahişe": Vah.2/20](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="Vahiy 2:20" link="rev:2,20" lang="tr" %}} | ["Fahişe": Vah 2:20](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 2:20" link="rev:2,20" lang="tr" %}} | ["Sorun": tek bir sorun vardır: İzebel](/tr/expl/content/letters/the-letter-to-the-church-in-thyatira#94db) |
 | {{% bible val="Vahiy 2:20-21" link="rev:2,20-21" lang="tr" %}} | ["İkinci ölüme hazır olanlar": Tiyatira'da](/tr/expl/content/paradise/the-new-jerusalem#d33d) |
-| {{% bible val="Vahiy 2:20-22" link="rev:2,20-22" lang="tr" %}} | ["Fahişe": Vah.2/20-22](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="Vahiy 2:20-22" link="rev:2,20-22" lang="tr" %}} | ["Fahişe": Vah 2:20-22](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 2:20-22" link="rev:2,20-22" lang="tr" %}} | ["Dini yönü": Thyatira'nın İzebel aracılığıyla](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-2#bc8e) |
 | {{% bible val="Vahiy 2:21-22" link="rev:2,21-22" lang="tr" %}} | ["Çözüm": İzebel'in bütün takipçileri, tövbe etmeye yönelmeleri umuduyla acı çekecektir](/tr/expl/content/letters/the-letter-to-the-church-in-thyatira#ac15) |
 | {{% bible val="Vahiy 2:22" link="rev:2,22" lang="tr" %}} | ["Büyük sıkıntı": Terimin kendisi, lideri İzebel olarak tanımlanan Tiyatira kilisesine yönelik bir uyarı ve onun hakkında bir yargı olarak yeniden ele alınır](/tr/expl/content/army/the-end-time-and-the-great-tribulation#ef13) |
-| {{% bible val="Vahiy 2:23" link="rev:2,23" lang="tr" %}} | ["Fahişe": Vah.2/23](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="Vahiy 2:23" link="rev:2,23" lang="tr" %}} | ["Fahişe": Vah 2:23](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="Vahiy 2:23" link="rev:2,23" lang="tr" %}} | ["Thyatira’daki kiliseye mektup": bütün kiliseler bilecek ki yürekleri ve düşünceleri araştıran benim](/tr/expl/content/letters/the-letter-to-the-church-in-thyatira) |
 | {{% bible val="Vahiy 2:23" link="rev:2,23" lang="tr" %}} | ["Çözüm": Bu acı çekiş, diğer bütün kiliseler için bir uyarı olarak hizmet edecektir](/tr/expl/content/letters/the-letter-to-the-church-in-thyatira#ac15) |
 | {{% bible val="Vahiy 2:24-25" link="rev:2,24-25" lang="tr" %}} | ["Çözüm": İsa'ya tutunmak ve sadık kalmaktır](/tr/expl/content/letters/the-letter-to-the-church-in-thyatira#ac15) |
 | {{% bible val="Vahiy 2:26-27" link="rev:2,26-27" lang="tr" %}} | ["Galip gelen": Tiyatira'ya](/tr/expl/content/paradise/the-new-jerusalem#07a3) |
@@ -167,6 +172,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 3:9" link="rev:3,9" lang="tr" %}} | ["Ana Öğreti": Va 3:9](/tr/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#ana-öğreti) |
 | {{% bible val="Vahiy 3:10" link="rev:3,10" lang="tr" %}} | ["Fütürist": Filadelfya'ya, bütün dünyanın üzerine gelecek olan sınanma saatinden korunma vaadi](/tr/expl/background/literature/preterist-historicist-futurist-or-idealist#f3c4) |
 | {{% bible val="Vahiy 3:10" link="rev:3,10" lang="tr" %}} | ["Diğer sayılar": 3:10](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#b417) |
+| {{% bible val="Vahiy 3:10" link="rev:3,10" lang="tr" %}} | ["Büyük sıkıntı": 3:10](/tr/expl/content/army/the-end-time-and-the-great-tribulation#ef13) |
 | {{% bible val="Vahiy 3:10" link="rev:3,10" lang="tr" %}} | ["İsa'nın görüşü": sabırla dayanıyorlar.](/tr/expl/content/letters/the-letter-to-the-church-in-philadelphia#afbc) |
 | {{% bible val="Vahiy 3:10" link="rev:3,10" lang="tr" %}} | ["Duruşma saati": Sabırla dayanma buyruğumu yerine getirdiğin için, ben de yeryüzünde yaşayanları sınamak amacıyla bütün dünyanın üzerine gelecek olan duruşma saatinden seni koruyacağım.](/tr/expl/content/letters/the-letter-to-the-church-in-philadelphia#ea48) |
 | {{% bible val="Vahiy 3:10" link="rev:3,10" lang="tr" %}} | ["Pretribülasyonist": 'bütün dünyanın üzerine gelecek olan deneme saatinden korunacaksın'](/tr/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pt1a) |
@@ -211,7 +217,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 4:4" link="rev:4,4" lang="tr" %}} | ["İbadet": 24 ihtiyar](/tr/expl/content/worship/worship-in-the-throne-room#e932) |
 | {{% bible val="Vahiy 4:5" link="rev:4,5" lang="tr" %}} | ["4 sayısı": giriş](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#062b) |
 | {{% bible val="Vahiy 4:5" link="rev:4,5" lang="tr" %}} | ["4x7 kombinasyonu": 4:5](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#4df9) |
-| {{% bible val="Vahiy 4:5" link="rev:4,5" lang="tr" %}} | ["Taban": 4. bölümde](/tr/expl/content/vision/setting-the-foundation#8853) |
+| {{% bible val="Vahiy 4:5" link="rev:4,5" lang="tr" %}} | ["Taban": tahtin önünde yanan yedi kandil, Tanrı'nın yedi ruhudur](/tr/expl/content/vision/setting-the-foundation#8853) |
 | {{% bible val="Vahiy 4:5" link="rev:4,5" lang="tr" %}} | ["Arka plan ve bağlam": tahtın önündeki tasvirde](/tr/expl/content/worship/worship-in-the-throne-room#3e33) |
 | {{% bible val="Vahiy 4:5" link="rev:4,5" lang="tr" %}} | ["Arka plan ve bağlam": Vahiy](/tr/expl/content/worship/worship-in-the-throne-room#3e33) |
 | {{% bible val="Vahiy 4:6" link="rev:4,6" lang="tr" %}} | ["Taht odası": camdan denizdir](/tr/expl/content/worship/worship-in-the-throne-room#54a4) |
@@ -250,7 +256,9 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 5:6-14" link="rev:5,6-14" lang="tr" %}} | ["Yenilgiden zafere": bu yüzden zafer kazanmıştır](/tr/expl/content/witnesses/the-two-witnesses#bdb3) |
 | {{% bible val="Vahiy 5:6-14" link="rev:5,6-14" lang="tr" %}} | ["Ana Öğreti": Vahiy 5:6-14](/tr/sermons/deep-dive/intro/13-the-son-of-man-daniels-vision-fulfilled#ana-öğreti) |
 | {{% bible val="Vahiy 5:8" link="rev:5,8" lang="tr" %}} | ["Diğer sayılar": 5:8](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#b417) |
+| {{% bible val="Vahiy 5:8" link="rev:5,8" lang="tr" %}} | ["Arka plan": buhur tasları vardır ve bunlar kutsalların dualarıdır](/tr/expl/content/bowls/the-bowls-of-wrath#08a9) |
 | {{% bible val="Vahiy 5:8" link="rev:5,8" lang="tr" %}} | ["Borazanların kökeni": bu, kutsalların duasıdır](/tr/expl/content/trumpets/the-trumpets-in-revelation#9489) |
+| {{% bible val="Vahiy 5:8" link="rev:5,8" lang="tr" %}} | ["Yedi mühür": 5:8](/tr/expl/content/worship/the-book-with-the-seven-seals#308c) |
 | {{% bible val="Vahiy 5:8-14" link="rev:5,8-14" lang="tr" %}} | ["İki yönlü saldırı": İsa'ya tapmaları gerektiği gibi](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Vahiy 5:9" link="rev:5,9" lang="tr" %}} | ["Kutsal Kitapta ailenin rolü": kanıyla insanları Tanrı için satın alan](/tr/expl/background/israel/the-role-of-family-in-the-bible) |
 | {{% bible val="Vahiy 5:9" link="rev:5,9" lang="tr" %}} | ["Vahiy'de yeni Çıkış": her oymaktan insanları Tanrı için satın alan](/tr/expl/background/israel/the-second-exodus#x0d1) |
@@ -260,7 +268,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 5:9" link="rev:5,9" lang="tr" %}} | ["Arka plan ve bağlam": İsa onları tüm uluslardan satın aldı](/tr/expl/content/worship/worship-in-the-throne-room#3e33) |
 | {{% bible val="Vahiy 5:9" link="rev:5,9" lang="tr" %}} | ["Arka plan ve bağlam": Vahiy](/tr/expl/content/worship/worship-in-the-throne-room#3e33) |
 | {{% bible val="Vahiy 5:9-10" link="rev:5,9-10" lang="tr" %}} | ["Kafamız kesilecek mi?": egemenlik sürenler](/tr/expl/content/1000y/the-thousand-year-kingdom#c576) |
-| {{% bible val="Vahiy 5:9-10" link="rev:5,9-10" lang="tr" %}} | ["144.000": 5. bölümdekiyle](/tr/expl/content/harvest/gods-army-and-the-seven-angels#181d) |
+| {{% bible val="Vahiy 5:9-10" link="rev:5,9-10" lang="tr" %}} | ["144.000": 5. bölümde](/tr/expl/content/harvest/gods-army-and-the-seven-angels#181d) |
 | {{% bible val="Vahiy 5:10" link="rev:5,10" lang="tr" %}} | ["Kâhinler krallığı": Mesih'e tapınma sahnesinde](/tr/expl/background/israel/the-church-is-part-of-israel#6e15) |
 | {{% bible val="Vahiy 5:10" link="rev:5,10" lang="tr" %}} | ["Peki kim, kimin üzerinde ve nerede egemenlik sürer?": 5:10](/tr/expl/content/1000y/the-thousand-year-kingdom#0495) |
 | {{% bible val="Vahiy 5:10" link="rev:5,10" lang="tr" %}} | ["Arka plan ve bağlam": Vahiy](/tr/expl/content/worship/worship-in-the-throne-room#3e33) |
@@ -275,7 +283,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 6" link="rev:6" lang="tr" %}} | ["Vahiy 6: Dört Atlı ve Kuzu'nun Gazabı": Vahiy 6](/tr/kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb) |
 | {{% bible val="Vahiy 6" link="rev:6" lang="tr" %}} | ["Mühürler (Böl. 6)": Bölüm 6](/tr/quick/content/seals) |
 | {{% bible val="Vahiy 6:1-8" link="rev:6,1-8" lang="tr" %}} | ["Şeytanın tanımı": dört atlı olarak](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a7a0) |
-| {{% bible val="Vahiy 6:1-8" link="rev:6,1-8" lang="tr" %}} | ["Metin": Va.6/1–8](/tr/expl/content/seals/the-mystery-of-the-four-horse-men#879f) |
+| {{% bible val="Vahiy 6:1-8" link="rev:6,1-8" lang="tr" %}} | ["Metin": Va 6:1–8](/tr/expl/content/seals/the-mystery-of-the-four-horse-men#879f) |
 | {{% bible val="Vahiy 6:1-11" link="rev:6,1-11" lang="tr" %}} | ["Kaseler": Sonunda yıkımdan başka bir şey getirmeyen birine insanlar nasıl güvenmeye devam edebilir?](/tr/expl/content/bowls/the-bowls-of-wrath#557c) |
 | {{% bible val="Vahiy 6:2" link="rev:6,2" lang="tr" %}} | ["Her beyaz at kurtuluş getirmez": Vahiy 6:2](/tr/appl/content/seals) |
 | {{% bible val="Vahiy 6:2" link="rev:6,2" lang="tr" %}} | ["Aritmetik": galip gelerek](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#bc16) |
@@ -291,8 +299,9 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 6:9-11" link="rev:6,9-11" lang="tr" %}} | ["Tanrı'nın ordusu": beşinci mühürle](/tr/expl/content/army/the-144000#572e) |
 | {{% bible val="Vahiy 6:9-11" link="rev:6,9-11" lang="tr" %}} | ["Çözüm": Bu ne zamana kadar sürecek?](/tr/expl/content/seals/the-mystery-of-the-four-horse-men#12b0) |
 | {{% bible val="Vahiy 6:9-11" link="rev:6,9-11" lang="tr" %}} | ["Çağrı": beşinci mühürdeki acı çeken kiliseyi hatırlatır](/tr/expl/content/witnesses/the-two-witnesses#6387) |
-| {{% bible val="Vahiy 6:9-11" link="rev:6,9-11" lang="tr" %}} | ["Yedi mühür": Kutsallar sıkıntıdan muaf tutulmadığı için (nedenini borazanlar bölümünde göreceğiz), acı çekerler ve bunun ne zaman sona ereceğini sorarlar. Ancak haklarının teslim edilmesi talebi henüz kabul edilmez — bunun yerine kendilerine beyaz cüppeler verilir ve şehitlerin tam sayısı tamamlanana dek beklemeleri söylenir. Bundan sonra kutsalların duası ile Tanrı'nın zamanlaması arasındaki gerilim, kitap boyunca ortak bir tema haline gelir.](/tr/expl/content/worship/the-book-with-the-seven-seals#308c) |
+| {{% bible val="Vahiy 6:9-11" link="rev:6,9-11" lang="tr" %}} | ["Yedi mühür": daha ne kadar süreceğini sorarlar](/tr/expl/content/worship/the-book-with-the-seven-seals#308c) |
 | {{% bible val="Vahiy 6:9-11" link="rev:6,9-11" lang="tr" %}} | ["Yedi mühür": kutsalların dualarının odak noktası haline geldiği beşinci mühürdeki](/tr/expl/content/worship/the-book-with-the-seven-seals#308c) |
+| {{% bible val="Vahiy 6:9-11" link="rev:6,9-11" lang="tr" %}} | ["Yedi mühür": 6:9-11](/tr/expl/content/worship/the-book-with-the-seven-seals#308c) |
 | {{% bible val="Vahiy 6:10" link="rev:6,10" lang="tr" %}} | ["Düğüm 1: iki kez dirilmek, tek bir fiil": ne zamana dek kanımızın öcünü almayacaksın?](/tr/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Vahiy 6:12-17" link="rev:6,12-17" lang="tr" %}} | ["Sırayla mı, yeniden mi anlatılıyor?": 6:12–17](/tr/expl/background/structure/the-structure-of-the-book-of-revelation#chiasm) |
 | {{% bible val="Vahiy 6:12-17" link="rev:6,12-17" lang="tr" %}} | ["Kuzu’nun Gazabı": Kuzu altıncı mührü açtığında baktım. Büyük bir deprem oldu. Güneş keçi kılından yapılmış çul gibi karardı, ay baştan başa kan rengine döndü. Gökteki yıldızlar, güçlü bir rüzgârla sarsılan incir ağacından dökülen ham incirler gibi yeryüzüne düştü. Gök, dürülen bir tomar gibi ortadan kalktı. Her dağ, her ada yerinden sökülüp alındı. Dünya kralları, büyükleri, komutanları, zenginleri, güçlüleri, özgürü kölesi herkes mağaralara, dağlardaki kayaların arasına gizlendi. Dağlara, kayalara, ‘Üzerimize düşün!’ dediler, ‘Tahtta oturanın yüzünden ve Kuzu'nun gazabından saklayın bizi! Çünkü onların gazap günü geldi. Buna kim dayanabilir?’](/tr/expl/content/seals/the-wrath-of-the-lamb) |
@@ -334,7 +343,8 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 8" link="rev:8" lang="tr" %}} | ["Vahiy 8–9: Kimsenin Dinlemediği Uyarılar": Vahiy 8–9](/tr/kids/teens/08-the-warnings-nobody-listens-to) |
 | {{% bible val="Vahiy 8" link="rev:8" lang="tr" %}} | ["Borazanlar (Böl. 8-9)": Bölüm 8](/tr/quick/content/trumpets) |
 | {{% bible val="Vahiy 8:1-6" link="rev:8,1-6" lang="tr" %}} | ["Borazanların kökeni": Kuzu yedinci mührü açınca, gökte yarım saat kadar sessizlik oldu. Tanrı'nın önünde duran yedi meleği gördüm. Onlara yedi borazan verildi. Altın bir buhurdan taşıyan başka bir melek gelip sunağın önünde durdu. Tahtın önündeki altın sunakta bütün kutsalların dualarıyla birlikte sunmak üzere kendisine çok miktarda buhur verildi. Kutsalların dualarıyla buhurun dumanı, Tanrı'nın önünde meleğin elinden yükseldi. Melek buhurdanı aldı, sunağın ateşiyle doldurup yeryüzüne attı. Gök gürlemeleri, uğultular işitildi, şimşekler çaktı, yer sarsıldı. Yedi melek ellerindeki yedi borazanı çalmaya hazırlandı](/tr/expl/content/trumpets/the-trumpets-in-revelation#9489) |
-| {{% bible val="Vahiy 8:2-5" link="rev:8,2-5" lang="tr" %}} | ["Yedi mühür": iki kez](/tr/expl/content/worship/the-book-with-the-seven-seals#308c) |
+| {{% bible val="Vahiy 8:2-5" link="rev:8,2-5" lang="tr" %}} | ["Yedi mühür": 8:3-5](/tr/expl/content/worship/the-book-with-the-seven-seals#308c) |
+| {{% bible val="Vahiy 8:3-5" link="rev:8,3-5" lang="tr" %}} | ["Arka plan": sunaktaki ateşi yere atar](/tr/expl/content/bowls/the-bowls-of-wrath#08a9) |
 | {{% bible val="Vahiy 8:5" link="rev:8,5" lang="tr" %}} | ["4 sayısı": mühürlerin kapanışı](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#062b) |
 | {{% bible val="Vahiy 8:7" link="rev:8,7" lang="tr" %}} | ["İlk dört borazan": İlk borazan](/tr/expl/content/trumpets/the-trumpets-in-revelation#c8ff) |
 | {{% bible val="Vahiy 8:7-12" link="rev:8,7-12" lang="tr" %}} | ["4 sayısı": ilk dört borazanda](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#062b) |
@@ -367,12 +377,13 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 10" link="rev:10" lang="tr" %}} | ["Vahiy 10: Ağzında Tatlı, Midende Ekşi": Vahiy 10](/tr/kids/teens/09-sweet-in-your-mouth-sour-in-your-stomach) |
 | {{% bible val="Vahiy 10" link="rev:10" lang="tr" %}} | ["Küçük tomar (Böl. 10)": Bölüm 10](/tr/quick/content/scroll) |
 | {{% bible val="Vahiy 10:1" link="rev:10,1" lang="tr" %}} | ["Büyük sonuçları olan küçük bir kelime": küçük tomarı taşıyan melekte olduğu gibi](/tr/expl/content/1000y/the-thousand-year-kingdom#f451) |
-| {{% bible val="Vahiy 10:2" link="rev:10,2" lang="tr" %}} | ["Referanslarla dolu bir çanta": Va.10/2'de](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#042c) |
+| {{% bible val="Vahiy 10:2" link="rev:10,2" lang="tr" %}} | ["Referanslarla dolu bir çanta": Va 10:2'de](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#042c) |
 | {{% bible val="Vahiy 10:2" link="rev:10,2" lang="tr" %}} | ["Tanıklar ve canavarlar": gökleri ve yeri](/tr/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy 10:2-7" link="rev:10,2-7" lang="tr" %}} | ["4x7 kombinasyonu": yedi gök gürlemesi](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#4df9) |
 | {{% bible val="Vahiy 10:5" link="rev:10,5" lang="tr" %}} | ["Küçük tomar (Böl. 10)": Vahiy 10:5](/tr/quick/content/scroll) |
 | {{% bible val="Vahiy 10:6" link="rev:10,6" lang="tr" %}} | ["4x7 kombinasyonu": 10:6](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#4df9) |
 | {{% bible val="Vahiy 10:7" link="rev:10,7" lang="tr" %}} | ["Daniel çerçevesi": Tanrı'nın](/tr/expl/background/literature/literally-or-symbolic#6075) |
+| {{% bible val="Vahiy 10:7" link="rev:10,7" lang="tr" %}} | ["Tomarı taşıyan melek": Tanrı'nın sırrı, kulları peygamberlere bildirdiği gibi tamamlanacaktır](/tr/expl/content/scroll/the-little-scroll#2d6a) |
 | {{% bible val="Vahiy 10:7" link="rev:10,7" lang="tr" %}} | ["Ana Öğreti": Tanrı](/tr/sermons/deep-dive/intro/03-symbol-or-literal#ana-öğreti) |
 | {{% bible val="Vahiy 10:7" link="rev:10,7" lang="tr" %}} | ["Ana Öğreti": Tanrı](/tr/sermons/deep-dive/intro/06-the-three-mysteries#ana-öğreti) |
 | {{% bible val="Vahiy 10:7" link="rev:10,7" lang="tr" %}} | ["Ana Öğreti": Vahiy 10:7](/tr/sermons/deep-dive/intro/06-the-three-mysteries#ana-öğreti) |
@@ -420,8 +431,8 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 11:5" link="rev:11,5" lang="tr" %}} | ["İlk üç melek": uyarı niteliğindeki yargıları](/tr/expl/content/harvest/gods-army-and-the-seven-angels#040b) |
 | {{% bible val="Vahiy 11:5" link="rev:11,5" lang="tr" %}} | ["İki tanığın kimliği": Düşmanlarının üzerine gökten ateş yağdırmak](/tr/expl/content/witnesses/the-two-witnesses#c357) |
 | {{% bible val="Vahiy 11:5" link="rev:11,5" lang="tr" %}} | ["Ana Öğreti": Vahiy 11:5](/tr/sermons/deep-dive/intro/13-the-son-of-man-daniels-vision-fulfilled#ana-öğreti) |
-| {{% bible val="Vahiy 11:5-6" link="rev:11,5-6" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.11/5-6](/tr/expl/content/witnesses/the-two-witnesses#30fe) |
-| {{% bible val="Vahiy 11:5-6" link="rev:11,5-6" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.11/5-6](/tr/expl/content/witnesses/the-two-witnesses#30fe) |
+| {{% bible val="Vahiy 11:5-6" link="rev:11,5-6" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah 11:5-6](/tr/expl/content/witnesses/the-two-witnesses#30fe) |
+| {{% bible val="Vahiy 11:5-6" link="rev:11,5-6" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah 11:5-6](/tr/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy 11:6" link="rev:11,6" lang="tr" %}} | ["Miras": Mucizelerle tanıklık ederler](/tr/expl/bible/daniel/the-son-of-man-and-the-remnant#833c) |
 | {{% bible val="Vahiy 11:6" link="rev:11,6" lang="tr" %}} | ["İki tanığın kimliği": yağmuru durdurmak](/tr/expl/content/witnesses/the-two-witnesses#c357) |
 | {{% bible val="Vahiy 11:6" link="rev:11,6" lang="tr" %}} | ["İki tanığın kimliği": suyu kana çevirmek](/tr/expl/content/witnesses/the-two-witnesses#c357) |
@@ -441,23 +452,23 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 11:8" link="rev:11,8" lang="tr" %}} | ["Yenilgiden zafere": İsa'nın çarmıhtaki ölümüyle bağlantılıdır](/tr/expl/content/witnesses/the-two-witnesses#bdb3) |
 | {{% bible val="Vahiy 11:8-11" link="rev:11,8-11" lang="tr" %}} | ["Miras": Ama bu onların yenilgisi değildir, çünkü İsa gibi diriltileceklerdir](/tr/expl/bible/daniel/the-son-of-man-and-the-remnant#833c) |
 | {{% bible val="Vahiy 11:9-10" link="rev:11,9-10" lang="tr" %}} | ["Yenilgiden zafere": tanıklar artık sessiz olduğu için bütün dünya kutlama yapar](/tr/expl/content/witnesses/the-two-witnesses#bdb3) |
-| {{% bible val="Vahiy 11:9-10" link="rev:11,9-10" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.11/9-10](/tr/expl/content/witnesses/the-two-witnesses#30fe) |
+| {{% bible val="Vahiy 11:9-10" link="rev:11,9-10" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah 11:9-10](/tr/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy 11:10" link="rev:11,10" lang="tr" %}} | ["Yenilgiden zafere": birbirlerine hediyeler gönderenler düşmanlarıdır](/tr/expl/content/witnesses/the-two-witnesses#bdb3) |
 | {{% bible val="Vahiy 11:11" link="rev:11,11" lang="tr" %}} | ["Yenilginin içinden geçen bir zafer": Vahiy 11:11](/tr/appl/content/witnesses) |
 | {{% bible val="Vahiy 11:11" link="rev:11,11" lang="tr" %}} | ["Düğüm 1: iki kez dirilmek, tek bir fiil": Tanrı'dan gelen bir yaşam soluğu onlara girdi ve ayakları üzerinde durdular](/tr/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Vahiy 11:11" link="rev:11,11" lang="tr" %}} | ["Temayı asıl taşıyan ne": ayakları üzerinde durdu](/tr/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Vahiy 11:11" link="rev:11,11" lang="tr" %}} | ["Düğüm 3: 20. bölüm 19'un ardından mı geliyor?": 11:11](/tr/expl/content/1000y/pre-post-and-amillennialism#47e1) |
-| {{% bible val="Vahiy 11:11-12" link="rev:11,11-12" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.11/11-12](/tr/expl/content/witnesses/the-two-witnesses#30fe) |
+| {{% bible val="Vahiy 11:11-12" link="rev:11,11-12" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah 11:11-12](/tr/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy 11:12" link="rev:11,12" lang="tr" %}} | ["Miras": İsa gibi yüceltilirler](/tr/expl/bible/daniel/the-son-of-man-and-the-remnant#833c) |
 | {{% bible val="Vahiy 11:13" link="rev:11,13" lang="tr" %}} | ["Vahiy'de kalıntı": 11:13](/tr/expl/background/israel/the-remnant-of-israel#r4m1) |
 | {{% bible val="Vahiy 11:13" link="rev:11,13" lang="tr" %}} | ["Yedinci borazan, ve öncesinde olan": kentin onda biri yıkılır ve yedi bin kişi ölür, geri kalanlar ise dehşete kapılıp göklerin Tanrısı'na yücelik verirler](/tr/expl/content/trumpets/the-trumpets-in-revelation#9bbb) |
 | {{% bible val="Vahiy 11:13" link="rev:11,13" lang="tr" %}} | ["Yedinci borazan, ve öncesinde olan": Burada 'dehşete düştüler' diye çevrilen kelime](/tr/expl/content/trumpets/the-trumpets-in-revelation#9bbb) |
 | {{% bible val="Vahiy 11:13" link="rev:11,13" lang="tr" %}} | ["Yedinci borazan, ve öncesinde olan": göklerin Tanrısı'na yücelik verirler](/tr/expl/content/trumpets/the-trumpets-in-revelation#9bbb) |
 | {{% bible val="Vahiy 11:13" link="rev:11,13" lang="tr" %}} | ["Yenilgiden zafere": kentin onda biri yıkılır ve depremde 7.000 kişi ölür](/tr/expl/content/witnesses/the-two-witnesses#bdb3) |
-| {{% bible val="Vahiy 11:13-14" link="rev:11,13-14" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.11/13-14](/tr/expl/content/witnesses/the-two-witnesses#30fe) |
+| {{% bible val="Vahiy 11:13-14" link="rev:11,13-14" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah 11:13-14](/tr/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy 11:15" link="rev:11,15" lang="tr" %}} | ["Midtribülasyonist": yedinci borazanla](/tr/expl/topics/others/pre-mid-prewrath-or-post-tribulational#mt2b) |
 | {{% bible val="Vahiy 11:15-19" link="rev:11,15-19" lang="tr" %}} | ["Yedinci borazan, ve öncesinde olan": Yedinci borazan](/tr/expl/content/trumpets/the-trumpets-in-revelation#9bbb) |
-| {{% bible val="Vahiy 11:15-19" link="rev:11,15-19" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah.11/15-19](/tr/expl/content/witnesses/the-two-witnesses#30fe) |
+| {{% bible val="Vahiy 11:15-19" link="rev:11,15-19" lang="tr" %}} | ["Tanıklar ve canavarlar": Vah 11:15-19](/tr/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Vahiy 11:19" link="rev:11,19" lang="tr" %}} | ["Vahiy'de antlaşma": O'nun antlaşma sandığı](/tr/expl/background/israel/gods-covenant#c0f2) |
 | {{% bible val="Vahiy 11:19" link="rev:11,19" lang="tr" %}} | ["4 sayısı": borazanların kapanışı](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#062b) |
 | {{% bible val="Vahiy 11:19" link="rev:11,19" lang="tr" %}} | ["Vahiy'de": Tanrı'nın gökteki tapınağı açıldı ve tapınakta O'nun antlaşma sandığı göründü](/tr/expl/bible/creation/the-story-of-uzzah#vahiyde) |
@@ -534,7 +545,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}} | ["Büyük sıkıntı": 13. bölümdeki canavarlar](/tr/expl/content/army/the-end-time-and-the-great-tribulation#ef13) |
 | {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}} | ["İlk okuyucuların bağlamı": Vahiy'deki iki canavarın](/tr/expl/content/beasts/666-the-number-of-the-beast#b8d0) |
 | {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}} | ["6–6–6: Kötü üçlünün başarısızlığı": Va.13](/tr/expl/content/beasts/666-the-number-of-the-beast#c1c9) |
-| {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}} | ["Metin": Va.12/17–13–18](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#d757) |
+| {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}} | ["Metin": Va 12:17–13:18](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#d757) |
 | {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}} | ["Şeytanın tanımı": Kadının soyundan geri kalanları, yani Kilise'yi yok etmeye çalışır](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a7a0) |
 | {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}} | ["Fahişenin karakteri": 13. bölümün ilk canavarı](/tr/expl/content/harlot/the-character-and-destiny-of-the-harlot#4c52) |
 | {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}} | ["144.000": İki canavar aracılığıyla yürüttüğü zulüm ve baskı](/tr/expl/content/harvest/gods-army-and-the-seven-angels#181d) |
@@ -731,6 +742,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 15:1-5" link="rev:15,1-5" lang="tr" %}} | ["Arka plan": Tanrı'nın taht odasından](/tr/expl/content/bowls/the-bowls-of-wrath#08a9) |
 | {{% bible val="Vahiy 15:2" link="rev:15,2" lang="tr" %}} | ["Temayı asıl taşıyan ne": cam denizin başında durmaktadır](/tr/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Vahiy 15:2-3" link="rev:15,2-3" lang="tr" %}} | ["Vahiy'de yeni Çıkış": Tanrı'nın kulu Musa'nın ve Kuzu'nun ezgisini](/tr/expl/background/israel/the-second-exodus#x0d1) |
+| {{% bible val="Vahiy 15:2-4" link="rev:15,2-4" lang="tr" %}} | ["Taht odası": 15:2-4](/tr/expl/content/worship/worship-in-the-throne-room#54a4) |
 | {{% bible val="Vahiy 15:3-4" link="rev:15,3-4" lang="tr" %}} | ["Musa'nın şarkısı": ‘Büyük ve şaşılası işlerin var, ey Her Şeye Gücü Yeten Rab Tanrı. Yolların doğru ve adildir, ey ulusların Kralı. Ya Rab, senden kim korkmaz, adını kim yüceltmez? Çünkü kutsal olan yalnız sensin. Bütün uluslar gelip sana tapınacak, çünkü adil işlerin açığa çıktı.’](/tr/expl/content/harvest/gods-army-and-the-seven-angels#e8d4) |
 | {{% bible val="Vahiy 15:6-7" link="rev:15,6-7" lang="tr" %}} | ["Arka plan": onlara gazap kaselerini verir](/tr/expl/content/bowls/the-bowls-of-wrath#08a9) |
 | {{% bible val="Vahiy 15:7" link="rev:15,7" lang="tr" %}} | ["4x7 kombinasyonu": 15:7](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#4df9) |
@@ -739,6 +751,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 16:2-9" link="rev:16,2-9" lang="tr" %}} | ["4 sayısı": kara, deniz, nehirler ve güneş üzerine dökülen dört kâsede](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#062b) |
 | {{% bible val="Vahiy 16:3-7" link="rev:16,3-7" lang="tr" %}} | ["Kaseler": İkinci ve üçüncü kaseler](/tr/expl/content/bowls/the-bowls-of-wrath#557c) |
 | {{% bible val="Vahiy 16:5-7" link="rev:16,5-7" lang="tr" %}} | ["Arka plan": sunağın kendi hükmü bunu açıkça ortaya koyar: 'Senin yargıların gerçek ve adildir'](/tr/expl/content/bowls/the-bowls-of-wrath#08a9) |
+| {{% bible val="Vahiy 16:7" link="rev:16,7" lang="tr" %}} | ["Arka plan": senin yargıların gerçek ve adildir](/tr/expl/content/bowls/the-bowls-of-wrath#08a9) |
 | {{% bible val="Vahiy 16:8-11" link="rev:16,8-11" lang="tr" %}} | ["Kaseler": Dördüncü ve beşinci kaseler](/tr/expl/content/bowls/the-bowls-of-wrath#557c) |
 | {{% bible val="Vahiy 16:8-11" link="rev:16,8-11" lang="tr" %}} | ["Beşinci ve altıncı borazan": dördüncü ve beşinci kâsede insanların yine tövbe etmeyi reddedip Tanrı'ya lanet ettiği](/tr/expl/content/trumpets/the-trumpets-in-revelation#9bbb) |
 | {{% bible val="Vahiy 16:9" link="rev:16,9" lang="tr" %}} | ["Yenilgiden zafere": belalara uğrayanlar Tanrı'ya lanet eder, tövbe etmeyi ve O'na yücelik vermeyi reddederler](/tr/expl/content/witnesses/the-two-witnesses#bdb3) |
@@ -784,8 +797,8 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 17:1" link="rev:17,1" lang="tr" %}} | ["Diğer sayılar": 17:1](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#b417) |
 | {{% bible val="Vahiy 17:1" link="rev:17,1" lang="tr" %}} | ["Fahişe": 17:1](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 17:1" link="rev:17,1" lang="tr" %}} | ["Ana Öğreti": 17:1](/tr/sermons/deep-dive/intro/03-symbol-or-literal#ana-öğreti) |
-| {{% bible val="Vahiy 17:1-2" link="rev:17,1-2" lang="tr" %}} | ["Fahişe": Vah.17/1-2](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
-| {{% bible val="Vahiy 17:1-2" link="rev:17,1-2" lang="tr" %}} | ["Fahişe": Vah.17/1-2](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="Vahiy 17:1-2" link="rev:17,1-2" lang="tr" %}} | ["Fahişe": Vah 17:1-2](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="Vahiy 17:1-2" link="rev:17,1-2" lang="tr" %}} | ["Fahişe": Vah 17:1-2](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 17:1-2" link="rev:17,1-2" lang="tr" %}} | ["İlk bakış": 17:1–2](/tr/expl/content/paradise/the-new-jerusalem#1113) |
 | {{% bible val="Vahiy 17:1-13" link="rev:17,1-13" lang="tr" %}} | ["Ekphrasis": 17. bölümün ilk yarısı](/tr/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#585e) |
 | {{% bible val="Vahiy 17:2" link="rev:17,2" lang="tr" %}} | ["Onun düşüşünün gizemi": kralları kontrol eder](/tr/expl/content/harlot/the-character-and-destiny-of-the-harlot#ca14) |
@@ -800,7 +813,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 17:3" link="rev:17,3" lang="tr" %}} | ["Fahişe": 17:3](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 17:3" link="rev:17,3" lang="tr" %}} | ["Fahişe ve ikinci canavar": Canavarın üzerinde oturur](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 17:4" link="rev:17,4" lang="tr" %}} | ["Fahişe": 17:4](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
-| {{% bible val="Vahiy 17:4" link="rev:17,4" lang="tr" %}} | ["Fahişe": Vah.17/4](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="Vahiy 17:4" link="rev:17,4" lang="tr" %}} | ["Fahişe": Vah 17:4](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 17:4" link="rev:17,4" lang="tr" %}} | ["Dini yönü": 17](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-2#bc8e) |
 | {{% bible val="Vahiy 17:4" link="rev:17,4" lang="tr" %}} | ["Kitaptaki en gösterişli süslenmiş figür": 'Kadın mor ve kırmızıya bürünmüştü, altın, değerli taşlar ve incilerle süslenmişti. Elinde iğrenç şeylerle ve zinasının kirleriyle dolu altın bir kâse tutuyordu.'](/tr/sermons/prosperity-gospel-module/conflict/03-the-harlot-as-glamorized-empire#kitaptaki-en-gösterişli-süslenmiş-figür) |
 | {{% bible val="Vahiy 17:4-5" link="rev:17,4-5" lang="tr" %}} | ["İlk bakış": 17:4–5](/tr/expl/content/paradise/the-new-jerusalem#1113) |
@@ -810,7 +823,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 17:5" link="rev:17,5" lang="tr" %}} | ["Fahişe": 17:5](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 17:5" link="rev:17,5" lang="tr" %}} | ["Fahişe": 17:5](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 17:5" link="rev:17,5" lang="tr" %}} | ["Fahişe": 17:5](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
-| {{% bible val="Vahiy 17:5" link="rev:17,5" lang="tr" %}} | ["Fahişe": Vah.17/5](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="Vahiy 17:5" link="rev:17,5" lang="tr" %}} | ["Fahişe": Vah 17:5](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 17:5" link="rev:17,5" lang="tr" %}} | ["Fahişe ve ikinci canavar": Kendi alnında bir ad taşır](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 17:5" link="rev:17,5" lang="tr" %}} | ["Dini yönü": Büyük Babil, fahişelerin ve yeryüzündeki iğrençliklerin anası](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-2#bc8e) |
 | {{% bible val="Vahiy 17:5" link="rev:17,5" lang="tr" %}} | ["İlk bakış": 17:5](/tr/expl/content/paradise/the-new-jerusalem#1113) |
@@ -833,6 +846,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 17:8" link="rev:17,8" lang="tr" %}} | ["Kızıl canavar": bir zamanlar vardı, şimdi yok, ama Uçurum'dan çıkıp yıkımına gidecek](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy 17:8" link="rev:17,8" lang="tr" %}} | ["Kızıl canavar": bir zamanlar vardı, şimdi yok, ama gelecek](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy 17:8" link="rev:17,8" lang="tr" %}} | ["İlk bakış": 17:8](/tr/expl/content/paradise/the-new-jerusalem#1113) |
+| {{% bible val="Vahiy 17:9" link="rev:17,9" lang="tr" %}} | ["Bu araçlar Vahiy'de": 17:9](/tr/expl/background/literature/literary-tools-in-the-book-of-revelation#r3v1) |
 | {{% bible val="Vahiy 17:9" link="rev:17,9" lang="tr" %}} | ["Yedi tepe ve yedi kral": yedi tepedir](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#9b63) |
 | {{% bible val="Vahiy 17:9-11" link="rev:17,9-11" lang="tr" %}} | ["Preterist": Yedi kralın](/tr/expl/background/literature/preterist-historicist-futurist-or-idealist#p1a1) |
 | {{% bible val="Vahiy 17:9-11" link="rev:17,9-11" lang="tr" %}} | ["Ne zaman yazıldı": beşi düşmüş, biri var olan, biri de henüz gelecek olan kralların sayımına](/tr/expl/topics/others/who-wrote-revelation-and-when#c4e7) |
@@ -858,6 +872,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 17:16" link="rev:17,16" lang="tr" %}} | ["Büyük sonuçları olan küçük bir kelime": önceki bölümde zaten anlatılmış olan](/tr/expl/content/1000y/the-thousand-year-kingdom#f451) |
 | {{% bible val="Vahiy 17:16" link="rev:17,16" lang="tr" %}} | ["Atlılarda ve fahişede aynı örüntü": Fahişeyle savaşır ve onu yok eder](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#1e70) |
 | {{% bible val="Vahiy 17:16" link="rev:17,16" lang="tr" %}} | ["Onun düşüşünün gizemi": onu yok edenler tam olarak onlardır](/tr/expl/content/harlot/the-character-and-destiny-of-the-harlot#ca14) |
+| {{% bible val="Vahiy 17:16" link="rev:17,16" lang="tr" %}} | ["Madeni para": fahişeye döner ve onu yok eder](/tr/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#cbea) |
 | {{% bible val="Vahiy 17:16" link="rev:17,16" lang="tr" %}} | ["Kızıl canavar": Fahişeyle savaşır ve onu yok eder](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#87f4) |
 | {{% bible val="Vahiy 17:16" link="rev:17,16" lang="tr" %}} | ["Fahişe": 17:16](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 17:16" link="rev:17,16" lang="tr" %}} | ["Dini yönü": Babil gibi utanç içinde kalmasın](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-2#bc8e) |
@@ -865,7 +880,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 17:17" link="rev:17,17" lang="tr" %}} | ["Onun düşüşünün gizemi": En basit yanıt, Tanrı'nın bunu onların yüreğine koymuş olmasıdır](/tr/expl/content/harlot/the-character-and-destiny-of-the-harlot#ca14) |
 | {{% bible val="Vahiy 17:17" link="rev:17,17" lang="tr" %}} | ["Fahişe": Tanrı fahişeyi yok etmeyi yüreğine koydu](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 17:18" link="rev:17,18" lang="tr" %}} | ["Fahişe": 17:18](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
-| {{% bible val="Vahiy 17:18" link="rev:17,18" lang="tr" %}} | ["Fahişe": Vah.17/18](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="Vahiy 17:18" link="rev:17,18" lang="tr" %}} | ["Fahişe": Vah 17:18](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 17:18" link="rev:17,18" lang="tr" %}} | ["İlk bakış": 17:18](/tr/expl/content/paradise/the-new-jerusalem#1113) |
 | {{% bible val="Vahiy 18" link="rev:18" lang="tr" %}} | ["Hangi kadehten içiyorsun?": 18](/tr/appl/content/harlot) |
 | {{% bible val="Vahiy 18" link="rev:18" lang="tr" %}} | ["Çözüm": 18. bölümdeki](/tr/expl/content/seals/the-mystery-of-the-four-horse-men#12b0) |
@@ -879,6 +894,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 18:3" link="rev:18,3" lang="tr" %}} | ["Uluslar ve armağanları": bir zamanlar Babil'den elde ettikleri türden görkem ve zenginlik değil](/tr/expl/content/paradise/the-new-jerusalem#1c33) |
 | {{% bible val="Vahiy 18:4" link="rev:18,4" lang="tr" %}} | ["Hangi kadehten içiyorsun?": Vahiy 18:4](/tr/appl/content/harlot) |
 | {{% bible val="Vahiy 18:4" link="rev:18,4" lang="tr" %}} | ["Fahişenin karakteri": ve oradan çıkmamız gerekir](/tr/expl/content/harlot/the-character-and-destiny-of-the-harlot#4c52) |
+| {{% bible val="Vahiy 18:4" link="rev:18,4" lang="tr" %}} | ["Ekphrasis": ondan çıkın, ey halkım](/tr/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#585e) |
 | {{% bible val="Vahiy 18:4" link="rev:18,4" lang="tr" %}} | ["Babil mürted kilise mi?": böylece gün be gün yeniden düşünmek ve ondan çıkmak zorunda kalırsın](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-2#2815) |
 | {{% bible val="Vahiy 18:4" link="rev:18,4" lang="tr" %}} | ["İlk bakış": 18:4](/tr/expl/content/paradise/the-new-jerusalem#1113) |
 | {{% bible val="Vahiy 18:4" link="rev:18,4" lang="tr" %}} | ["Etkisi ve yargısı": Vahiy 18:4](/tr/quick/content/harlot#etkisi-ve-yargısı) |
@@ -887,7 +903,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 18:6" link="rev:18,6" lang="tr" %}} | ["Yargı": işlediklerinin iki katının ödeneceğini](/tr/expl/content/harlot/the-character-and-destiny-of-the-harlot#0414) |
 | {{% bible val="Vahiy 18:7" link="rev:18,7" lang="tr" %}} | ["Aritmetik": Kraliçe olarak oturuyorum … asla yas görmeyeceğim](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#bc16) |
 | {{% bible val="Vahiy 18:7" link="rev:18,7" lang="tr" %}} | ["Fahişenin karakteri": Kendini dokunulmaz görür](/tr/expl/content/harlot/the-character-and-destiny-of-the-harlot#4c52) |
-| {{% bible val="Vahiy 18:7" link="rev:18,7" lang="tr" %}} | ["Fahişe": Vah.18/7](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="Vahiy 18:7" link="rev:18,7" lang="tr" %}} | ["Fahişe": Vah 18:7](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 18:7" link="rev:18,7" lang="tr" %}} | ["İlk bakış": 18:7](/tr/expl/content/paradise/the-new-jerusalem#1113) |
 | {{% bible val="Vahiy 18:8" link="rev:18,8" lang="tr" %}} | ["Dini yönü": Babil'in başına gelen yargı tam olarak budur](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-2#bc8e) |
 | {{% bible val="Vahiy 18:9" link="rev:18,9" lang="tr" %}} | ["Onun düşüşünün gizemi": ardından onun için ağlarlar](/tr/expl/content/harlot/the-character-and-destiny-of-the-harlot#ca14) |
@@ -907,8 +923,8 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 18:16" link="rev:18,16" lang="tr" %}} | ["Fahişe": 18:16](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 18:16" link="rev:18,16" lang="tr" %}} | ["Dini yönü": 18. bölümlerde](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-2#bc8e) |
 | {{% bible val="Vahiy 18:17" link="rev:18,17" lang="tr" %}} | ["Fahişenin karakteri": ticaretlerinin ani kaybı](/tr/expl/content/harlot/the-character-and-destiny-of-the-harlot#4c52) |
-| {{% bible val="Vahiy 18:17" link="rev:18,17" lang="tr" %}} | ["Fahişe": Vah.18/17](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
-| {{% bible val="Vahiy 18:19" link="rev:18,19" lang="tr" %}} | ["Fahişe": Vah.18/19](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="Vahiy 18:17" link="rev:18,17" lang="tr" %}} | ["Fahişe": Vah 18:17](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="Vahiy 18:19" link="rev:18,19" lang="tr" %}} | ["Fahişe": Vah 18:19](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 18:19" link="rev:18,19" lang="tr" %}} | ["İlk dört borazan": gemicilikle zenginleşen](/tr/expl/content/trumpets/the-trumpets-in-revelation#c8ff) |
 | {{% bible val="Vahiy 18:20" link="rev:18,20" lang="tr" %}} | ["Düğüm 1: iki kez dirilmek, tek bir fiil": 18:20](/tr/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Vahiy 18:21" link="rev:18,21" lang="tr" %}} | ["Diğer sayılar": 18:21](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#b417) |
@@ -929,7 +945,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 19:7" link="rev:19,7" lang="tr" %}} | ["Diğer sayılar": 19:7](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#b417) |
 | {{% bible val="Vahiy 19:8" link="rev:19,8" lang="tr" %}} | ["Sonuç": İnce keten kutsalların adil işleridir](/tr/expl/background/literature/literally-or-symbolic#dbba) |
 | {{% bible val="Vahiy 19:8" link="rev:19,8" lang="tr" %}} | ["Fahişe": 19:8](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
-| {{% bible val="Vahiy 19:9" link="rev:19,9" lang="tr" %}} | ["Çözüm": Kuzu'nun düğün ziyafetine](/tr/expl/content/letters/the-letter-to-the-church-in-pergamon#eebd) |
+| {{% bible val="Vahiy 19:9" link="rev:19,9" lang="tr" %}} | ["Çözüm": Kuzu'nun düğün ziyafetinde](/tr/expl/content/letters/the-letter-to-the-church-in-pergamon#eebd) |
 | {{% bible val="Vahiy 19:9-10" link="rev:19,9-10" lang="tr" %}} | ["Fahişe": 19:9–10](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
 | {{% bible val="Vahiy 19:11-12" link="rev:19,11-12" lang="tr" %}} | ["İlk atlının gizemi": başında taç olan, beyaz at üzerindeki muzaffer biniciye](/tr/expl/content/seals/the-mystery-of-the-four-horse-men#dba7) |
 | {{% bible val="Vahiy 19:11-21" link="rev:19,11-21" lang="tr" %}} | ["Büyük sonuçları olan küçük bir kelime": son savaş](/tr/expl/content/1000y/the-thousand-year-kingdom#f451) |
@@ -939,7 +955,8 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 19:12" link="rev:19,12" lang="tr" %}} | ["Aritmetik": birçok taç](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#bc16) |
 | {{% bible val="Vahiy 19:14" link="rev:19,14" lang="tr" %}} | ["Büyük sonuçları olan küçük bir kelime": İsa düğünden sonra savaştı](/tr/expl/content/1000y/the-thousand-year-kingdom#f451) |
 | {{% bible val="Vahiy 19:15" link="rev:19,15" lang="tr" %}} | ["Son iki savaş mı?": kılıçla](/tr/expl/content/1000y/the-thousand-year-kingdom#ba47) |
-| {{% bible val="Vahiy 19:15" link="rev:19,15" lang="tr" %}} | ["Çocuk": Vahiy 19/15'te](/tr/expl/content/jesus/a-different-christmas-story#8ae1) |
+| {{% bible val="Vahiy 19:15" link="rev:19,15" lang="tr" %}} | ["Çocuk": Vahiy 19:15'te](/tr/expl/content/jesus/a-different-christmas-story#8ae1) |
+| {{% bible val="Vahiy 19:15" link="rev:19,15" lang="tr" %}} | ["Görüm": 19:15, 21](/tr/expl/content/vision/the-vision#727c) |
 | {{% bible val="Vahiy 19:17-18" link="rev:19,17-18" lang="tr" %}} | ["Son iki savaş mı?": Vahiy 19'daki](/tr/expl/content/1000y/the-thousand-year-kingdom#ba47) |
 | {{% bible val="Vahiy 19:17-21" link="rev:19,17-21" lang="tr" %}} | ["Bir savaş için daha fazla argüman": 19. bölümde](/tr/expl/content/1000y/the-thousand-year-kingdom#a205) |
 | {{% bible val="Vahiy 19:17-21" link="rev:19,17-21" lang="tr" %}} | ["Bir savaş için daha fazla argüman": 19. bölümde](/tr/expl/content/1000y/the-thousand-year-kingdom#a205) |
@@ -1093,6 +1110,7 @@ Bu kitapta kullanılan 1142 Kutsal Kitap pasajı vardır
 | {{% bible val="Vahiy 21:22-27" link="rev:21,22-27" lang="tr" %}} | [İç özellikler](/tr/expl/content/paradise/the-new-jerusalem#8562) |
 | {{% bible val="Vahiy 21:23" link="rev:21,23" lang="tr" %}} | ["İlk bakış": 21:23](/tr/expl/content/paradise/the-new-jerusalem#1113) |
 | {{% bible val="Vahiy 21:23" link="rev:21,23" lang="tr" %}} | ["İç özellikler": Kentin güneşe ya da aya ihtiyacı olmadığı](/tr/expl/content/paradise/the-new-jerusalem#1c33) |
+| {{% bible val="Vahiy 21:23" link="rev:21,23" lang="tr" %}} | ["Görüm": ışığı Tanrı ve Kuzu'dur](/tr/expl/content/vision/the-vision#727c) |
 | {{% bible val="Vahiy 21:24" link="rev:21,24" lang="tr" %}} | ["İlk bakış": 21:24](/tr/expl/content/paradise/the-new-jerusalem#1113) |
 | {{% bible val="Vahiy 21:24" link="rev:21,24" lang="tr" %}} | ["Uluslar ve armağanları": Uluslar kentin ışığında yürüyecek, yeryüzünün kralları görkemlerini oraya getirecek.](/tr/expl/content/paradise/the-new-jerusalem#1c33) |
 | {{% bible val="Vahiy 21:24-26" link="rev:21,24-26" lang="tr" %}} | ["İlk bakış": 21:24–26](/tr/expl/content/paradise/the-new-jerusalem#1113) |

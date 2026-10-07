@@ -4,11 +4,12 @@ weight: 27
 docType: expl
 ---
 
-8 bible verses have been used in this book.
+9 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
 | {{% bible val="Hosea 1:2" link="hos:1,2" lang="en" %}} | ["Bride of God": Hosea illustrate by marrying an unfaithful woman](/expl/background/israel/the-church-is-part-of-israel#9c2e) |
+| {{% bible val="Hosea 1:4" link="hos:1,4" lang="en" %}} | ["Conclusion": Hosea later names the blood he shed at Jezreel as guilt](/expl/content/bowls/the-key-to-armageddon#c932) |
 | {{% bible val="Hosea 1:10" link="hos:1,10" lang="en" %}} | ["God's son": when Israel is promised a future as God's grown children](/expl/background/israel/the-church-is-part-of-israel#639c) |
 | {{% bible val="Hosea 2:23" link="hos:2,23" lang="en" %}} | ["Beloved of the Lord": Hosea calls Israel God's beloved](/expl/background/israel/the-church-is-part-of-israel#3d64) |
 | {{% bible val="Hosea 9:1-6" link="hos:9,1-6" lang="en" %}} | ["Angels = Churches": chapter 9](/expl/content/letters/the-angel-of-the-churches#8ab4) |

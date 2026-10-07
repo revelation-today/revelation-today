@@ -4,7 +4,7 @@ weight: 1
 docType: expl
 ---
 
-Bu kitapta kullanılan 124 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 125 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -81,6 +81,7 @@ Bu kitapta kullanılan 124 Kutsal Kitap pasajı vardır
 | {{% bible val="Mısırdan Çıkış 12:12" link="exo:12,12" lang="tr" %}} | ["Neden Mısır'daki belalar?": Mısır'ın bütün ilahlarına](/tr/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
 | {{% bible val="Mısırdan Çıkış 12:12" link="exo:12,12" lang="tr" %}} | ["Ana Öğreti": Mısır'dan Çıkış 12:12](/tr/sermons/deep-dive/intro/15-the-exodus-pattern-moses-pharaoh-and-the-plagues#ana-öğreti) |
 | {{% bible val="Mısırdan Çıkış 12:14-20" link="exo:12,14-20" lang="tr" %}} | ["İlk doğanın ölümü": Mayasız Ekmek Bayramı da tanıtılır](/tr/expl/bible/exodus/the-plagues-in-egypt#d9b7) |
+| {{% bible val="Mısırdan Çıkış 12:15" link="exo:12,15" lang="tr" %}} | ["İsa'nın öğretileri": Mısır'dan Çıkış 12:15](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
 | {{% bible val="Mısırdan Çıkış 12:35-36" link="exo:12,35-36" lang="tr" %}} | ["İkinci bir Hiksos’a karşı mücadele": ayrıldıklarında](/tr/expl/bible/exodus/the-birth-of-moses#e6bc) |
 | {{% bible val="Mısırdan Çıkış 12:37" link="exo:12,37" lang="tr" %}} | ["Bir daha asla": ayrılıp çıktığı](/tr/expl/bible/exodus/the-story-before-the-exodus#c93d) |
 | {{% bible val="Mısırdan Çıkış 12:38" link="exo:12,38" lang="tr" %}} | ["Rab'bin Günü'nün kökeni": İsrail'in bir parçası hâline gelen pek çok başka insanı da beraberinde götürdü](/tr/expl/background/israel/the-day-of-the-lord#45df) |
@@ -130,5 +131,5 @@ Bu kitapta kullanılan 124 Kutsal Kitap pasajı vardır
 | {{% bible val="Mısırdan Çıkış 28:36-38" link="exo:28,36-38" lang="tr" %}} | ["Tanrı'nın varlığının sembolleri": kâhinin alnında taşınıyordu](/tr/expl/content/paradise/the-new-jerusalem#4997) |
 | {{% bible val="Mısırdan Çıkış 30:7" link="exo:30,7" lang="tr" %}} | ["Görüm": kandilliklerle ilgilenmek](/tr/expl/content/vision/the-vision#727c) |
 | {{% bible val="Mısırdan Çıkış 34:5-7" link="exo:34,5-7" lang="tr" %}} | ["Kutsal kent Yeruşalim": Tanrı'nın görkemi O'nun iyiliğidir, merhametli ve adil](/tr/expl/content/paradise/the-new-jerusalem#2a00) |
-| {{% bible val="Mısırdan Çıkış 34:5-7" link="exo:34,5-7" lang="tr" %}} | ["Taht odası": Musa Tanrı'nın yüceliğini görmek istediğinde göremedi — ama Tanrı iyiliğini önünden geçirdi ve adını ilan etti: merhametli ve lütufkâr, ama suçluyu cezasız bırakmayan biri. Tanrı'nın yüceliği merhametle adaleti bir arada tutar](/tr/expl/content/worship/worship-in-the-throne-room#54a4) |
+| {{% bible val="Mısırdan Çıkış 34:5-7" link="exo:34,5-7" lang="tr" %}} | ["Taht odası": kendi adını ilan etti](/tr/expl/content/worship/worship-in-the-throne-room#54a4) |
 | {{% bible val="Mısırdan Çıkış 34:28" link="exo:34,28" lang="tr" %}} | ["Bazı temel bilgiler": Musa, Sina Dağı'nda Yasa'yı alırken 40 gün oruç tuttu](/tr/expl/content/beasts/666-the-number-of-the-beast#bdd5) |

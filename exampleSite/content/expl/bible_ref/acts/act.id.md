@@ -4,13 +4,14 @@ weight: 43
 docType: expl
 ---
 
-46 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+48 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
 | {{% bible val="Kisah Rasul-rasul 2" link="act:2" lang="ind" %}} | ["Eksodus Baru dalam Kisah Para Rasul": kedatangan Roh Kudus](/id/expl/background/israel/the-second-exodus#b683) |
 | {{% bible val="Kisah Rasul-rasul 2:5" link="act:2,5" lang="ind" %}} | ["Eksodus Baru dalam Kisah Para Rasul": Pentakosta yang mencakup orang Yahudi dari segala bangsa](/id/expl/background/israel/the-second-exodus#b683) |
 | {{% bible val="Kisah Rasul-rasul 2:5-11" link="act:2,5-11" lang="ind" %}} | ["Pencurahan Roh": Bangsa-bangsa yang disebutkan](/id/expl/background/israel/the-church-is-part-of-israel#e989) |
+| {{% bible val="Kisah Rasul-rasul 2:16-17" link="act:2,16-17" lang="ind" %}} | ["Apa itu akhir zaman": hari-hari terakhir](/id/expl/content/army/the-end-time-and-the-great-tribulation#ce8d) |
 | {{% bible val="Kisah Rasul-rasul 2:16-21" link="act:2,16-21" lang="ind" %}} | ["Pencurahan Roh": digenapi pada hari Pentakosta](/id/expl/background/israel/the-church-is-part-of-israel#e989) |
 | {{% bible val="Kisah Rasul-rasul 2:17" link="act:2,17" lang="ind" %}} | ["Pencurahan Roh": pada hari-hari terakhir](/id/expl/background/israel/the-church-is-part-of-israel#e989) |
 | {{% bible val="Kisah Rasul-rasul 2:41-47" link="act:2,41-47" lang="ind" %}} | ["Eksodus Baru dalam Kisah Para Rasul": hari Pentakosta](/id/expl/background/israel/the-second-exodus#b683) |
@@ -31,8 +32,9 @@ docType: expl
 | {{% bible val="Kisah Rasul-rasul 12:20-23" link="act:12,20-23" lang="ind" %}} | ["Eksodus Baru dalam Kisah Para Rasul": Herodes](/id/expl/background/israel/the-second-exodus#b683) |
 | {{% bible val="Kisah Rasul-rasul 12:24" link="act:12,24" lang="ind" %}} | ["Eksodus Baru dalam Kisah Para Rasul": setelah kematian Herodes](/id/expl/background/israel/the-second-exodus#b683) |
 | {{% bible val="Kisah Rasul-rasul 13:10-11" link="act:13,10-11" lang="ind" %}} | ["Eksodus Baru dalam Kisah Para Rasul": Elimas](/id/expl/background/israel/the-second-exodus#b683) |
-| {{% bible val="Kisah Rasul-rasul 13:47" link="act:13,47" lang="ind" %}} | ["Pelayanan Itu": (Kis.13/47)](/id/expl/background/israel/the-church-is-part-of-israel#121f) |
+| {{% bible val="Kisah Rasul-rasul 13:47" link="act:13,47" lang="ind" %}} | ["Pelayanan Itu": (Kis 13:47)](/id/expl/background/israel/the-church-is-part-of-israel#121f) |
 | {{% bible val="Kisah Rasul-rasul 13:47" link="act:13,47" lang="ind" %}} | ["Pencurahan Roh": Kisah Para Rasul](/id/expl/background/israel/the-church-is-part-of-israel#e989) |
+| {{% bible val="Kisah Rasul-rasul 13:47" link="act:13,47" lang="ind" %}} | ["Bangsa-Bangsa Lain Menjadi Bagian dari Israel": baris yang sama itu](/id/expl/background/israel/the-remnant-of-israel#1c50) |
 | {{% bible val="Kisah Rasul-rasul 14:22" link="act:14,22" lang="ind" %}} | ["Kesengsaraan Besar": pelayanan Paulus](/id/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Kisah Rasul-rasul 15:13-18" link="act:15,13-18" lang="ind" %}} | ["Eksodus Baru dalam Kisah Para Rasul": pemulihan kerajaan Daud](/id/expl/background/israel/the-second-exodus#b683) |
 | {{% bible val="Kisah Rasul-rasul 17" link="act:17" lang="ind" %}} | ["Eksodus Baru dalam Kisah Para Rasul": Kisah Para Rasul 17](/id/expl/background/israel/the-second-exodus#b683) |
@@ -50,7 +52,7 @@ docType: expl
 | {{% bible val="Kisah Rasul-rasul 24:25" link="act:24,25" lang="ind" %}} | ["Sangkakala Ketujuh, dan Apa yang Terjadi Sebelumnya": Feliks, ketika mendengar apa yang sesungguhnya dituntut oleh Injil](/id/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Kisah Rasul-rasul 25:27" link="act:25,27" lang="ind" %}} | ["semaino": menyatakan secara spesifik](/id/expl/background/literature/literally-or-symbolic#09b2) |
 | {{% bible val="Kisah Rasul-rasul 26:10" link="act:26,10" lang="ind" %}} | ["Solusinya": di pengadilan, tempat suara diberikan lewat batu kerikil - putih untuk pembebasan, hitam untuk penghukuman](/id/expl/content/letters/the-letter-to-the-church-in-pergamon#85d8) |
-| {{% bible val="Kisah Rasul-rasul 26:18" link="act:26,18" lang="ind" %}} | ["Pelayanan Itu": (Kis.26/18)](/id/expl/background/israel/the-church-is-part-of-israel#121f) |
-| {{% bible val="Kisah Rasul-rasul 26:23" link="act:26,23" lang="ind" %}} | ["Pelayanan Itu": (Kis.26/23)](/id/expl/background/israel/the-church-is-part-of-israel#121f) |
+| {{% bible val="Kisah Rasul-rasul 26:18" link="act:26,18" lang="ind" %}} | ["Pelayanan Itu": (Kis 26:18)](/id/expl/background/israel/the-church-is-part-of-israel#121f) |
+| {{% bible val="Kisah Rasul-rasul 26:23" link="act:26,23" lang="ind" %}} | ["Pelayanan Itu": (Kis 26:23)](/id/expl/background/israel/the-church-is-part-of-israel#121f) |
 | {{% bible val="Kisah Rasul-rasul 28:15" link="act:28,15" lang="ind" %}} | ["Kata Kunci yang Terlewatkan": penyambutan yang diberikan kepada Paulus di Roma](/id/expl/topics/others/the-rapture#0f61) |
 | {{% bible val="Kisah Rasul-rasul 28:26-27" link="act:28,26-27" lang="ind" %}} | ["Eksodus Baru dalam Kisah Para Rasul": kitab ini berakhir](/id/expl/background/israel/the-second-exodus#b683) |

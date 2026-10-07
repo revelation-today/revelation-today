@@ -41,7 +41,9 @@ That story shows one aspect of Christmas, and we've heard it so many times that 
 
 At first glance, you probably think of something like this:
 
-![](/images/Dragon-and-woman-revelation-luther-bibel.jpg) <!-- https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg" -->
+![A woodcut from Luther's Bible: the woman clothed with the sun above, the seven-headed dragon waiting below](/images/Dragon-and-woman-revelation-luther-bibel.jpg)
+
+*Woodcut from Luther's Bible. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dragon-and-woman-revelation-luther-bibel.jpg), public domain.*
 
 There are a lot of mysterious figures in this scene, but before we try to work out who is who, let's put the scene in perspective. We have a woman who, despite some heavenly attributes, is one thing above all: pregnant and about to give birth — in no shape, to say the least, for a major battle. Facing her is a huge, angry, red dragon with only one goal: to devour the child the moment he's born.
 

@@ -203,7 +203,7 @@ Kedua belas batu itu mencerminkan {{% bible val="tutup dada imam besar" link="ex
 
 Satu catatan terjemahan penting di sini: versi-versi bahasa Indonesia kita biasanya berbunyi "dasar yang pertama dihiasi dengan permata yaspis," tetapi [terjemahan yang lebih baik adalah "dasar yang pertama ADALAH permata yaspis"](https://biblehub.com/interlinear/revelation/21-19.htm) — dasar itu bukan sekadar dihias dengan batu itu, melainkan terbuat darinya.
 
-Penyebutan {{% bible val="jalan di Yerusalem Baru" link="rev:21,21" lang="ind" %}} mengingatkan kita pada {{% bible val="kedua saksi, yang jenazahnya dahulu dipertontonkan" link="rev:11,8" lang="ind" %}} di sebuah jalan — hanya saja kini jalan yang sama itu berdiri untuk menghormati mereka. Aib kita yang dahulu akan digantikan oleh kemuliaan yang kekal.
+Penyebutan {{% bible val="jalan di Yerusalem Baru" link="rev:21,21" lang="ind" %}} mengingatkan kita pada {{% bible val="kedua saksi, yang jenazahnya dahulu dipertontonkan" link="rev:11,8" lang="ind" %}} di sebuah jalan — hanya saja kini jalan yang sama itu berdiri untuk menghormati mereka. Itu adalah sebuah renungan yang tidak dibuat oleh teksnya sendiri; Yohanes hanya mengatakan bahwa jalan itu dari emas. Aib kita yang dahulu akan digantikan oleh kemuliaan yang kekal.
 
 ## {{% bible val="Ciri-ciri di dalam kota itu" link="rev:21,22-27" lang="ind" %}}
 

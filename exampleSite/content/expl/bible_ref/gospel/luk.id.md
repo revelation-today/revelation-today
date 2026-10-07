@@ -4,12 +4,13 @@ weight: 41
 docType: expl
 ---
 
-26 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+27 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
 | {{% bible val="Lukas 2" link="luk:2" lang="ind" %}} | ["Kelahiran Yesus dalam Kitab Wahyu": Injil Lukas](/id/expl/content/jesus/a-different-christmas-story) |
-| {{% bible val="Lukas 2:32" link="luk:2,32" lang="ind" %}} | ["Pelayanan Itu": (Luk.2/32)](/id/expl/background/israel/the-church-is-part-of-israel#121f) |
+| {{% bible val="Lukas 2:32" link="luk:2,32" lang="ind" %}} | ["Pelayanan Itu": (Luk 2:32)](/id/expl/background/israel/the-church-is-part-of-israel#121f) |
+| {{% bible val="Lukas 2:32" link="luk:2,32" lang="ind" %}} | ["Bangsa-Bangsa Lain Menjadi Bagian dari Israel": terang bagi bangsa-bangsa lain](/id/expl/background/israel/the-remnant-of-israel#1c50) |
 | {{% bible val="Lukas 3:1" link="luk:3,1" lang="ind" %}} | ["Kisah Yesus": 27](/id/expl/bible/daniel/the-70-year-weeks#1ed3) |
 | {{% bible val="Lukas 3:1" link="luk:3,1" lang="ind" %}} | ["Bagian 1: 70 Kali Tujuh Masa": Lukas 3:1](/id/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bagian-1-70-kali-tujuh-masa) |
 | {{% bible val="Lukas 3:4-6" link="luk:3,4-6" lang="ind" %}} | ["Eksodus Baru dalam Injil Lukas": Seperti ada tertulis dalam kitab nubuat-nubuat nabi Yesaya: Ada suara orang yang berseru-seru di padang gurun: Persiapkanlah jalan untuk Tuhan, luruskanlah jalan bagi-Nya. Setiap lembah harus ditimbun dan setiap gunung dan bukit harus diratakan, yang berkelok-kelok harus diluruskan dan yang berlekuk-lekuk harus diratakan, dan semua orang akan melihat keselamatan yang dari Allah.](/id/expl/background/israel/the-second-exodus#f2e1) |

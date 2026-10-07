@@ -4,7 +4,7 @@ weight: 26
 docType: expl
 ---
 
-138 Bibelstellen wurden in diesem Buch verwendet.
+139 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -56,13 +56,14 @@ docType: expl
 | {{% bible val="Daniel 7,5" link="dan:7,5" lang="de" %}} | ["Die vier Königreiche": Und siehe, ein anderes Tier, ein zweites, gleich einem Bären; das richtete sich auf einer Seite auf und hatte drei Rippen in seinem Maul zwischen seinen Zähnen, und man sprach zu ihm: Steh auf, friss viel Fleisch!](/de/expl/bible/daniel/the-four-kingdoms-in-daniel#c9a9) |
 | {{% bible val="Daniel 7,5" link="dan:7,5" lang="de" %}} | ["Ein Sack voller Referenzen": Das zweite Tier ist wie ein Bär](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Daniel 7,6" link="dan:7,6" lang="de" %}} | ["Die vier Königreiche": Danach schaute ich, und siehe, ein anderes, gleich einem Panther, das hatte vier Flügel wie ein Vogel auf seinem Rücken; und das Tier hatte vier Köpfe, und ihm wurde Macht gegeben.](/de/expl/bible/daniel/the-four-kingdoms-in-daniel#c9a9) |
-| {{% bible val="Daniel 7,6" link="dan:7,6" lang="de" %}} | ["Ein Sack voller Referenzen": Dan.7/6](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Daniel 7,6" link="dan:7,6" lang="de" %}} | ["Ein Sack voller Referenzen": Dan 7,6](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Daniel 7,6" link="dan:7,6" lang="de" %}} | ["Ein Sack voller Referenzen": Das dritte Tier ist wie ein Leopard](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Daniel 7,6" link="dan:7,6" lang="de" %}} | ["Ein Sack voller Referenzen": Das dritte Tier hat 4 Köpfe, die andere jeweils einen](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Daniel 7,7" link="dan:7,7" lang="de" %}} | ["Die vier Königreiche": Danach sah ich in den Nachtgesichten, und siehe, ein viertes Tier, schrecklich und furchtbar und sehr stark; es hatte große eiserne Zähne, fraß und zermalmte, und was übrig blieb, zertrat es mit seinen Füßen.](/de/expl/bible/daniel/the-four-kingdoms-in-daniel#c9a9) |
 | {{% bible val="Daniel 7,7" link="dan:7,7" lang="de" %}} | ["Ein Sack voller Referenzen": Das vierte Tier hat 10 Hörner](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Daniel 7,7" link="dan:7,7" lang="de" %}} | ["Die Zeugen und die Tiere": Daniel](/de/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Daniel 7,8" link="dan:7,8" lang="de" %}} | ["Ein Sack voller Referenzen": Das Horn spricht große Dinge](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Daniel 7,9" link="dan:7,9" lang="de" %}} | ["Die Vision": Hochbetagten](/de/expl/content/vision/the-vision#7855) |
 | {{% bible val="Daniel 7,9" link="dan:7,9" lang="de" %}} | ["Der Hintergrund und Kontext": Daniel](/de/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Daniel 7,9" link="dan:7,9" lang="de" %}} | ["Der Hintergrund und Kontext": Daniel](/de/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Daniel 7,9" link="dan:7,9" lang="de" %}} | ["Der Hintergrund und Kontext": Daniel](/de/expl/content/worship/worship-in-the-throne-room#e638) |
@@ -134,12 +135,12 @@ docType: expl
 | {{% bible val="Daniel 10,6" link="dan:10,6" lang="de" %}} | ["Die Vision": Merkmale aus Daniel 10](/de/expl/content/vision/the-vision#7855) |
 | {{% bible val="Daniel 10,8-19" link="dan:10,8-19" lang="de" %}} | ["Die Reaktion": Visionen Daniels](/de/expl/content/vision/the-vision#0131) |
 | {{% bible val="Daniel 10,20" link="dan:10,20" lang="de" %}} | ["Die Vision": als engelhafter Krieger identifizierte Gestalt](/de/expl/content/vision/the-vision#7855) |
-| {{% bible val="Daniel 11,1-35" link="dan:11,1-35" lang="de" %}} | ["Der Überblick geht weiter": Dan.11/1–35](/de/expl/bible/daniel/the-book-of-daniel#5b61) |
+| {{% bible val="Daniel 11,1-35" link="dan:11,1-35" lang="de" %}} | ["Der Überblick geht weiter": Dan 11,1–35](/de/expl/bible/daniel/the-book-of-daniel#5b61) |
 | {{% bible val="Daniel 11,30-39" link="dan:11,30-39" lang="de" %}} | ["Die Große Trübsal": Antiochus Epiphanes und darüber hinaus](/de/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
 | {{% bible val="Daniel 11,32" link="dan:11,32" lang="de" %}} | ["Die Verheißung": Kapitel 11](/de/expl/bible/daniel/the-70-year-weeks#1bc2) |
 | {{% bible val="Daniel 11,32-34" link="dan:11,32-34" lang="de" %}} | ["Die Große Trübsal": Gottes Volk werden getäuscht und wenden sich von Gott ab](/de/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
 | {{% bible val="Daniel 11,36" link="dan:11,36" lang="de" %}} | ["Gibt es nicht auch Unterschiede?": Daniel](/de/expl/content/1000y/the-thousand-year-kingdom#4bba) |
-| {{% bible val="Daniel 11,36-45" link="dan:11,36-45" lang="de" %}} | ["Der Überblick geht weiter": Dan.11/36–45](/de/expl/bible/daniel/the-book-of-daniel#5b61) |
+| {{% bible val="Daniel 11,36-45" link="dan:11,36-45" lang="de" %}} | ["Der Überblick geht weiter": Dan 11,36–45](/de/expl/bible/daniel/the-book-of-daniel#5b61) |
 | {{% bible val="Daniel 12" link="dan:12" lang="de" %}} | ["Der Überblick geht weiter": Dan.12](/de/expl/bible/daniel/the-book-of-daniel#5b61) |
 | {{% bible val="Daniel 12,1" link="dan:12,1" lang="de" %}} | ["Die Große Trübsal": Zu jener Zeit wird sich Michael erheben, der große Fürst, der über die Söhne deines Volkes steht. Es wird eine Zeit der Bedrängnis sein, wie sie nicht gewesen ist, seit es Völker gibt, bis zu jener Zeit. Und zu jener Zeit wird dein Volk gerettet werden, ein jeder, der im Buch geschrieben gefunden wird.](/de/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
 | {{% bible val="Daniel 12,1" link="dan:12,1" lang="de" %}} | ["Prätribulational": Michaels eigene zurückhaltende Rolle](/de/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pt1a) |

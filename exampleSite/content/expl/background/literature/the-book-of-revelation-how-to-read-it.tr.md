@@ -131,7 +131,9 @@ Sembolik dil, bu ikili gerçekliği bulanıklaştırmak yerine keskinleştirir �
 
 Bir kıyamete en yakın modern benzetme, siyasi bir karikatür olabilir.
 
-![](/images/20200620_WWD000.avif) <!-- https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon" -->
+![Bir gazete karikatürü: aynı haberi çok farklı gözlüklerle okuyan bir kalabalık](/images/20200620_WWD000.avif)
+
+*KAL'ın karikatürü, [The Economist](https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon), 18 Haziran 2020.*
 
 Böyle bir karikatüre baktığımızda, ejderhaların yoga yaptığını ya da hatta var olduklarını varsaymadan mesajı anında kavrarız. Vahiy de aynı şekilde işler ve içinde aynı unsurları çalışırken görebiliriz:
 

@@ -4,12 +4,13 @@ weight: 41
 docType: expl
 ---
 
-26 Bibelstellen wurden in diesem Buch verwendet.
+27 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
 | {{% bible val="Lukas 2" link="luk:2" lang="de" %}} | ["Die Geburt Jesu in der Offenbarung": Lukas](/de/expl/content/jesus/a-different-christmas-story) |
-| {{% bible val="Lukas 2,32" link="luk:2,32" lang="de" %}} | ["Der Dienst": (Lk.2/32)](/de/expl/background/israel/the-church-is-part-of-israel#05d4) |
+| {{% bible val="Lukas 2,32" link="luk:2,32" lang="de" %}} | ["Der Dienst": (Lk 2,32)](/de/expl/background/israel/the-church-is-part-of-israel#05d4) |
+| {{% bible val="Lukas 2,32" link="luk:2,32" lang="de" %}} | ["Die Nationen werden Teil von Israel": einem Licht für die Nationen](/de/expl/background/israel/the-remnant-of-israel#1c50) |
 | {{% bible val="Lukas 3,1" link="luk:3,1" lang="de" %}} | ["Die Geschichte von Jesus": 27](/de/expl/bible/daniel/the-70-year-weeks#abfc) |
 | {{% bible val="Lukas 3,1" link="luk:3,1" lang="de" %}} | ["Teil 1: Die 70 Wochen": Lukas 3,1](/de/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#teil-1-die-70-wochen) |
 | {{% bible val="Lukas 3,4-6" link="luk:3,4-6" lang="de" %}} | ["Der neue Auszug bei Lukas": Wie geschrieben steht im Buch der Worte des Propheten Jesaja: ‚Eine Stimme ruft in der Wüste: Bereitet den Weg des Herrn, macht seine Pfade gerade. Jedes Tal soll aufgefüllt und jeder Berg und Hügel erniedrigt werden. Was krumm ist, soll gerade werden, und die holprigen Wege sollen eben werden. Und alle Menschen werden das Heil Gottes sehen.‘](/de/expl/background/israel/the-second-exodus#f2e1) |

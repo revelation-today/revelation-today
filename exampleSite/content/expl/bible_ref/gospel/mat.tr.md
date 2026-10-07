@@ -4,7 +4,7 @@ weight: 39
 docType: expl
 ---
 
-Bu kitapta kullanılan 77 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 78 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -36,7 +36,7 @@ Bu kitapta kullanılan 77 Kutsal Kitap pasajı vardır
 | {{% bible val="Matta 9:30" link="mat:9,30" lang="tr" %}} | ["İki yönlü saldırı": İsa çoğu zaman gizlide iş görür](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Matta 10:8" link="mat:10,8" lang="tr" %}} | ["Diri su": Matta'da](/tr/expl/content/paradise/the-new-jerusalem#34a7) |
 | {{% bible val="Matta 11:12" link="mat:11,12" lang="tr" %}} | ["Kayıp anahtar kelimeler": göklerin egemenliğini zorla kapmak](/tr/expl/topics/others/the-rapture#470b) |
-| {{% bible val="Matta 11:13-14" link="mat:11,13-14" lang="tr" %}} | ["İki tanığın kimliği": Yahya olarak yeniden gelen](/tr/expl/content/witnesses/the-two-witnesses#c357) |
+| {{% bible val="Matta 11:13-14" link="mat:11,13-14" lang="tr" %}} | ["İki tanığın kimliği": Vaftizci Yahya](/tr/expl/content/witnesses/the-two-witnesses#c357) |
 | {{% bible val="Matta 11:20-24" link="mat:11,20-24" lang="tr" %}} | ["Zaten ama henüz değil": kimse ayakta kalamazdı](/tr/expl/background/israel/jesus-and-the-covenant#1438) |
 | {{% bible val="Matta 11:20-24" link="mat:11,20-24" lang="tr" %}} | ["Ana Öğreti": Matta 11:20-24](/tr/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#ana-öğreti) |
 | {{% bible val="Matta 12:6" link="mat:12,6" lang="tr" %}} | ["Vaat": tapınaktan daha büyük olan](/tr/expl/bible/daniel/the-70-year-weeks#9594) |
@@ -59,6 +59,7 @@ Bu kitapta kullanılan 77 Kutsal Kitap pasajı vardır
 | {{% bible val="Matta 15:24" link="mat:15,24" lang="tr" %}} | ["Çözüm": O'nun çağrısı İsrail'i eski hâline getirmek ve olabildiğince çoğunu kendisine çağırmaktı](/tr/expl/bible/daniel/the-son-of-man-and-the-remnant#e03e) |
 | {{% bible val="Matta 16:5-12" link="mat:16,5-12" lang="tr" %}} | ["Ana Öğreti": Matta 16:5-12](/tr/sermons/deep-dive/intro/03-symbol-or-literal#ana-öğreti) |
 | {{% bible val="Matta 16:18" link="mat:16,18" lang="tr" %}} | ["Yenilgiden zafere": kilisenin alt edilemeyeceğini](/tr/expl/content/witnesses/the-two-witnesses#bdb3) |
+| {{% bible val="Matta 17:2" link="mat:17,2" lang="tr" %}} | ["Görüm": İsa'nın görünüşünün değiştiği](/tr/expl/content/vision/the-vision#727c) |
 | {{% bible val="Matta 18" link="mat:18" lang="tr" %}} | ["Secara harfiah atau simbolis": mengampuni 7 kali 70, yaitu 490 kali](/tr/quick/background/literature/) |
 | {{% bible val="Matta 18" link="mat:18" lang="tr" %}} | ["Secara harfiah atau simbolis": cungkillah mata kita jika ia menyebabkan kita berbuat dosa](/tr/quick/background/literature/) |
 | {{% bible val="Matta 20:20-28" link="mat:20,20-28" lang="tr" %}} | ["1000 yıllık krallık": egemenlik sürme](/tr/expl/content/1000y/the-thousand-year-kingdom) |

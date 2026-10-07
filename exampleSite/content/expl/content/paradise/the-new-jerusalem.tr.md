@@ -203,7 +203,7 @@ On iki taş, {{% bible val="başkâhinin göğüslüğünü" link="exo:28,17-20"
 
 Burada bir çeviri notu önemlidir: çevirilerimiz genellikle "ilk temel yeşimle süslenmişti" der, ama [daha iyi bir çeviri "ilk temel yeşim*dir*" şeklindedir](https://biblehub.com/interlinear/revelation/21-19.htm) — temel taşla yalnızca süslenmiş değildir, o taştan yapılmıştır.
 
-{{% bible val="Yeni Yeruşalim'deki caddeden" link="rev:21,21" lang="tr" %}} söz edilmesi, {{% bible val="cesetlerinin bir zamanlar bir caddede teşhir edildiği iki tanığı" link="rev:11,8" lang="tr" %}} hatırlatır — ama şimdi o aynı cadde onların onuruna duruyor. Eski utancımızın yerini sonsuz görkem alacaktır.
+{{% bible val="Yeni Yeruşalim'deki caddeden" link="rev:21,21" lang="tr" %}} söz edilmesi, {{% bible val="cesetlerinin bir zamanlar bir caddede teşhir edildiği iki tanığı" link="rev:11,8" lang="tr" %}} hatırlatır — ama şimdi o aynı cadde onların onuruna duruyor. Bu, metnin kendisinin yapmadığı bir çıkarımdır; Yuhanna yalnızca caddenin altından olduğunu söyler. Eski utancımızın yerini sonsuz görkem alacaktır.
 
 ### {{% bible val="İç özellikler" link="rev:21,22-27" lang="tr" %}}
 

@@ -4,7 +4,7 @@ weight: 43
 docType: expl
 ---
 
-Bu kitapta kullanılan 46 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 48 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -12,6 +12,7 @@ Bu kitapta kullanılan 46 Kutsal Kitap pasajı vardır
 | {{% bible val="Elçilerin İşleri 2:5" link="act:2,5" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": Pentikost'a tüm uluslardan Yahudilerin katılması](/tr/expl/background/israel/the-second-exodus#f704) |
 | {{% bible val="Elçilerin İşleri 2:5-11" link="act:2,5-11" lang="tr" %}} | ["Ruh'un dökülmesi": sayılan uluslar](/tr/expl/background/israel/the-church-is-part-of-israel#7a85) |
 | {{% bible val="Elçilerin İşleri 2:16-17" link="act:2,16-17" lang="tr" %}} | ["Ruh'un dökülmesi": son günlerde](/tr/expl/background/israel/the-church-is-part-of-israel#7a85) |
+| {{% bible val="Elçilerin İşleri 2:16-17" link="act:2,16-17" lang="tr" %}} | ["Son zaman nedir?": son günlerin](/tr/expl/content/army/the-end-time-and-the-great-tribulation#6f73) |
 | {{% bible val="Elçilerin İşleri 2:16-21" link="act:2,16-21" lang="tr" %}} | ["Ruh'un dökülmesi": Pentikost'ta yerine geldiğini](/tr/expl/background/israel/the-church-is-part-of-israel#7a85) |
 | {{% bible val="Elçilerin İşleri 2:41-47" link="act:2,41-47" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": Pentikost'ta](/tr/expl/background/israel/the-second-exodus#f704) |
 | {{% bible val="Elçilerin İşleri 5:14" link="act:5,14" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": ilk kilisede](/tr/expl/background/israel/the-second-exodus#f704) |
@@ -31,8 +32,9 @@ Bu kitapta kullanılan 46 Kutsal Kitap pasajı vardır
 | {{% bible val="Elçilerin İşleri 12:20-23" link="act:12,20-23" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": Hirodes](/tr/expl/background/israel/the-second-exodus#f704) |
 | {{% bible val="Elçilerin İşleri 12:24" link="act:12,24" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": Hirodes'in ölümünden sonra](/tr/expl/background/israel/the-second-exodus#f704) |
 | {{% bible val="Elçilerin İşleri 13:9-11" link="act:13,9-11" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": Elimas](/tr/expl/background/israel/the-second-exodus#f704) |
-| {{% bible val="Elçilerin İşleri 13:47" link="act:13,47" lang="tr" %}} | ["Bakanlık": (Elç.13/47)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
+| {{% bible val="Elçilerin İşleri 13:47" link="act:13,47" lang="tr" %}} | ["Bakanlık": (Elç 13:47)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
 | {{% bible val="Elçilerin İşleri 13:47" link="act:13,47" lang="tr" %}} | ["Ruh'un dökülmesi": Elçilerin İşleri](/tr/expl/background/israel/the-church-is-part-of-israel#7a85) |
+| {{% bible val="Elçilerin İşleri 13:47" link="act:13,47" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": aynı satırı](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
 | {{% bible val="Elçilerin İşleri 14:21-22" link="act:14,21-22" lang="tr" %}} | ["Büyük sıkıntı": Pavlus'un görevi sırasında](/tr/expl/content/army/the-end-time-and-the-great-tribulation#ef13) |
 | {{% bible val="Elçilerin İşleri 15:13-18" link="act:15,13-18" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": Davut'un krallığının restorasyonu](/tr/expl/background/israel/the-second-exodus#f704) |
 | {{% bible val="Elçilerin İşleri 17" link="act:17" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": Elçilerin İşleri 17'de](/tr/expl/background/israel/the-second-exodus#f704) |
@@ -50,7 +52,7 @@ Bu kitapta kullanılan 46 Kutsal Kitap pasajı vardır
 | {{% bible val="Elçilerin İşleri 24:25" link="act:24,25" lang="tr" %}} | ["Yedinci borazan, ve öncesinde olan": müjdenin gerçekte ne talep ettiğini duyan Romalı vali Feliks](/tr/expl/content/trumpets/the-trumpets-in-revelation#9bbb) |
 | {{% bible val="Elçilerin İşleri 25:27" link="act:25,27" lang="tr" %}} | ["semaino": belirtmek](/tr/expl/background/literature/literally-or-symbolic#a772) |
 | {{% bible val="Elçilerin İşleri 26:10" link="act:26,10" lang="tr" %}} | ["Çözüm": mahkemede, bir çakıl taşıyla oy kullanılan yerde - beraat için beyaz, mahkûmiyet için siyah](/tr/expl/content/letters/the-letter-to-the-church-in-pergamon#eebd) |
-| {{% bible val="Elçilerin İşleri 26:17-18" link="act:26,17-18" lang="tr" %}} | ["Bakanlık": (El.26/18)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
-| {{% bible val="Elçilerin İşleri 26:23" link="act:26,23" lang="tr" %}} | ["Bakanlık": (El.26/23)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
+| {{% bible val="Elçilerin İşleri 26:17-18" link="act:26,17-18" lang="tr" %}} | ["Bakanlık": (El 26:18)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
+| {{% bible val="Elçilerin İşleri 26:23" link="act:26,23" lang="tr" %}} | ["Bakanlık": (El 26:23)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
 | {{% bible val="Elçilerin İşleri 28:15" link="act:28,15" lang="tr" %}} | ["Kayıp anahtar kelimeler": Pavlus'un Roma'da karşılanışında](/tr/expl/topics/others/the-rapture#470b) |
 | {{% bible val="Elçilerin İşleri 28:26-27" link="act:28,26-27" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": gönderilirken aldığı sözlerle sona erene](/tr/expl/background/israel/the-second-exodus#f704) |

@@ -83,7 +83,7 @@ The beast itself then {{% bible val="comes as an 8th king who is also one of the
 ## The 10 kings
 
 <a name="6041"></a>
-{{% bible val="The ten horns you saw are ten kings who have not yet received a kingdom, but who for one hour will receive authority as kings along with the beast" link="rev:17,12-13" lang="en" %}}. They act together, at the same time, handing their power over to the beast's agents, who then submit to the beast's agenda. Together they represent the beast's power over the — potentially whole — world at that moment in history. The number 10 may again be symbolic; for the first readers, it likely pointed to the supporting kings of the Roman Empire.
+{{% bible val="The ten horns you saw are ten kings who have not yet received a kingdom, but who for one hour will receive authority as kings along with the beast" link="rev:17,12-13" lang="en" %}}. They act together, at the same time, and the next verse says what they do with their power: they give it to the beast. Together they represent the beast's power over the — potentially whole — world at that moment in history. The number 10 may again be symbolic; for the first readers, it likely pointed to the supporting kings of the Roman Empire.
 
 Their stated purpose is to wage war against the Lamb. Things work out rather differently, as we'll see.
 

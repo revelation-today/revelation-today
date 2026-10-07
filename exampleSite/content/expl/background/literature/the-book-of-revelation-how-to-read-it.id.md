@@ -131,7 +131,9 @@ Bahasa simbolis mempertajam realitas ganda ini, bukan mengaburkannya — bahasa 
 
 Perbandingan modern yang paling dekat dengan sebuah apokalips mungkin adalah sebuah kartun politik.
 
-![](/images/20200620_WWD000.avif) <!-- https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon" -->
+![Sebuah kartun surat kabar: orang banyak membaca berita yang sama lewat kacamata yang sangat berbeda](/images/20200620_WWD000.avif)
+
+*Kartun KAL, [The Economist](https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon), 18 Juni 2020.*
 
 Melihat sebuah kartun seperti ini, kita langsung menangkap pesannya, tanpa berasumsi bahwa naga-naga berlatih yoga atau bahkan benar-benar ada. Kitab Wahyu bekerja dengan cara yang sama, dan kita dapat melihat unsur-unsur yang sama bekerja di dalamnya:
 

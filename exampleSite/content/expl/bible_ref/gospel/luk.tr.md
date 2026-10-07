@@ -4,12 +4,13 @@ weight: 41
 docType: expl
 ---
 
-Bu kitapta kullanılan 26 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 27 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
 | {{% bible val="Luka 2" link="luk:2" lang="tr" %}} | ["Farklı bir Noel hikayesi": Luka](/tr/expl/content/jesus/a-different-christmas-story) |
-| {{% bible val="Luka 2:30-32" link="luk:2,30-32" lang="tr" %}} | ["Bakanlık": (Lk.2/32)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
+| {{% bible val="Luka 2:30-32" link="luk:2,30-32" lang="tr" %}} | ["Bakanlık": (Lk 2:32)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
+| {{% bible val="Luka 2:32" link="luk:2,32" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": uluslara ışık](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
 | {{% bible val="Luka 3:1" link="luk:3,1" lang="tr" %}} | ["İsa'nın öyküsü": MS 27](/tr/expl/bible/daniel/the-70-year-weeks#42f9) |
 | {{% bible val="Luka 3:1" link="luk:3,1" lang="tr" %}} | ["Bölüm 1: 70 Hafta": Luka 3:1](/tr/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bölüm-1-70-hafta) |
 | {{% bible val="Luka 3:4-6" link="luk:3,4-6" lang="tr" %}} | ["Luka'daki yeni Çıkış": “Peygamber Yeşaya’nın sözlerinin yazılı olduğu kitapta denildiği gibi: ‘Çölde bir ses şöyle sesleniyor: “Rab’bin yolunu hazırlayın, O’na düz yollar açın. Her vadi doldurulacak, her dağ ve tepe alçaltılacak. Eğri büğrü yollar düzleşecek, engebeli yollar pürüzsüzleşecek. Ve bütün insanlar Tanrı’nın kurtuluşunu görecek.” ‘“](/tr/expl/background/israel/the-second-exodus#bfa6) |

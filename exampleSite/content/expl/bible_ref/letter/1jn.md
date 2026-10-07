@@ -4,11 +4,12 @@ weight: 58
 docType: expl
 ---
 
-6 bible verses have been used in this book.
+7 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
 | {{% bible val="1.John 2:4" link="1jn:2,4" lang="en" %}} | ["Ready for the second death": disobey Jesus' word](/expl/content/paradise/the-new-jerusalem#0819) |
+| {{% bible val="1.John 2:18" link="1jn:2,18" lang="en" %}} | ["What is the end time?": it is the last hour](/expl/content/army/the-end-time-and-the-great-tribulation#d1d8) |
 | {{% bible val="1.John 2:22" link="1jn:2,22" lang="en" %}} | ["Ready for the second death": deny that Jesus is Lord](/expl/content/paradise/the-new-jerusalem#0819) |
 | {{% bible val="1.John 3:2" link="1jn:3,2" lang="en" %}} | ["Symbols of God's presence": that God's own character, once imprinted on the priest, is now imprinted on us](/expl/content/paradise/the-new-jerusalem#38e5) |
 | {{% bible val="1.John 4:20" link="1jn:4,20" lang="en" %}} | ["Ready for the second death": hate their brothers or sisters](/expl/content/paradise/the-new-jerusalem#0819) |

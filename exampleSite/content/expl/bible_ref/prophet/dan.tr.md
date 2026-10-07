@@ -4,7 +4,7 @@ weight: 26
 docType: expl
 ---
 
-Bu kitapta kullanılan 138 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 139 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -63,6 +63,7 @@ Bu kitapta kullanılan 138 Kutsal Kitap pasajı vardır
 | {{% bible val="Daniel 7:7" link="dan:7,7" lang="tr" %}} | ["Referanslarla dolu bir çanta": Dördüncü hayvanın 10 boynuzu vardır](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#042c) |
 | {{% bible val="Daniel 7:7" link="dan:7,7" lang="tr" %}} | ["Tanıklar ve canavarlar": Daniel'de](/tr/expl/content/witnesses/the-two-witnesses#30fe) |
 | {{% bible val="Daniel 7:8" link="dan:7,8" lang="tr" %}} | ["Referanslarla dolu bir çanta": Boynuz büyük şeyler söylüyor](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#042c) |
+| {{% bible val="Daniel 7:9" link="dan:7,9" lang="tr" %}} | ["Görüm": Eskiden Beri Var Olan'a](/tr/expl/content/vision/the-vision#727c) |
 | {{% bible val="Daniel 7:9" link="dan:7,9" lang="tr" %}} | ["Arka plan ve bağlam": Daniel](/tr/expl/content/worship/worship-in-the-throne-room#3e33) |
 | {{% bible val="Daniel 7:9" link="dan:7,9" lang="tr" %}} | ["Arka plan ve bağlam": Daniel](/tr/expl/content/worship/worship-in-the-throne-room#3e33) |
 | {{% bible val="Daniel 7:9" link="dan:7,9" lang="tr" %}} | ["Arka plan ve bağlam": Daniel](/tr/expl/content/worship/worship-in-the-throne-room#3e33) |
@@ -71,7 +72,7 @@ Bu kitapta kullanılan 138 Kutsal Kitap pasajı vardır
 | {{% bible val="Daniel 7:9-11" link="dan:7,9-11" lang="tr" %}} | ["Son iki savaş mı?": 9–11](/tr/expl/content/1000y/the-thousand-year-kingdom#ba47) |
 | {{% bible val="Daniel 7:9-12" link="dan:7,9-12" lang="tr" %}} | ["Krallıkların sonu": Eskiden Beri Var Olan ve İnsanoğlu, krallıkların üstesinden gelir](/tr/expl/bible/daniel/the-four-kingdoms-in-daniel#bcbd) |
 | {{% bible val="Daniel 7:9-14" link="dan:7,9-14" lang="tr" %}} | ["Ana Öğreti": krallıkları alt eder ve ebedi bir krallık kurar](/tr/sermons/deep-dive/intro/11-daniel-a-story-of-faithfulness-under-pagan-power#ana-öğreti) |
-| {{% bible val="Daniel 7:10" link="dan:7,10" lang="tr" %}} | ["Son iki savaş mı?": kitabın açılması](/tr/expl/content/1000y/the-thousand-year-kingdom#ba47) |
+| {{% bible val="Daniel 7:10" link="dan:7,10" lang="tr" %}} | ["Son iki savaş mı?": kitapların açılması](/tr/expl/content/1000y/the-thousand-year-kingdom#ba47) |
 | {{% bible val="Daniel 7:10" link="dan:7,10" lang="tr" %}} | ["Arka plan ve bağlam": Daniel](/tr/expl/content/worship/worship-in-the-throne-room#3e33) |
 | {{% bible val="Daniel 7:10" link="dan:7,10" lang="tr" %}} | ["Arka plan ve bağlam": Daniel](/tr/expl/content/worship/worship-in-the-throne-room#3e33) |
 | {{% bible val="Daniel 7:10" link="dan:7,10" lang="tr" %}} | ["Arka plan ve bağlam": Daniel](/tr/expl/content/worship/worship-in-the-throne-room#3e33) |
@@ -134,12 +135,12 @@ Bu kitapta kullanılan 138 Kutsal Kitap pasajı vardır
 | {{% bible val="Daniel 10:6" link="dan:10,6" lang="tr" %}} | ["Görüm": Daniel 10’un özellikleridir](/tr/expl/content/vision/the-vision#727c) |
 | {{% bible val="Daniel 10:8-19" link="dan:10,8-19" lang="tr" %}} | ["Tepki": Daniel’in görümlerinin](/tr/expl/content/vision/the-vision#d80b) |
 | {{% bible val="Daniel 10:20" link="dan:10,20" lang="tr" %}} | ["Görüm": melek bir savaşçı olarak tanımlanan bir figürün](/tr/expl/content/vision/the-vision#727c) |
-| {{% bible val="Daniel 11:1-35" link="dan:11,1-35" lang="tr" %}} | ["Gezinti devam ediyor": Dan.11/1–35](/tr/expl/bible/daniel/the-book-of-daniel#0e1c) |
+| {{% bible val="Daniel 11:1-35" link="dan:11,1-35" lang="tr" %}} | ["Gezinti devam ediyor": Dan 11:1–35](/tr/expl/bible/daniel/the-book-of-daniel#0e1c) |
 | {{% bible val="Daniel 11:30-39" link="dan:11,30-39" lang="tr" %}} | ["Büyük sıkıntı": Antiokhos Epifanes döneminde ve sonrasında](/tr/expl/content/army/the-end-time-and-the-great-tribulation#ef13) |
 | {{% bible val="Daniel 11:32" link="dan:11,32" lang="tr" %}} | ["Vaat": 11. bölümde](/tr/expl/bible/daniel/the-70-year-weeks#9594) |
 | {{% bible val="Daniel 11:32-34" link="dan:11,32-34" lang="tr" %}} | ["Büyük sıkıntı": Tanrı'nın halkından bazıları kandırılıp Tanrı'dan uzaklaşacaktı](/tr/expl/content/army/the-end-time-and-the-great-tribulation#ef13) |
 | {{% bible val="Daniel 11:36" link="dan:11,36" lang="tr" %}} | ["Şeytan'ın bağlanması": Daniel'e](/tr/expl/content/1000y/the-thousand-year-kingdom#1f30) |
-| {{% bible val="Daniel 11:36-45" link="dan:11,36-45" lang="tr" %}} | ["Gezinti devam ediyor": Dan.11/36–45](/tr/expl/bible/daniel/the-book-of-daniel#0e1c) |
+| {{% bible val="Daniel 11:36-45" link="dan:11,36-45" lang="tr" %}} | ["Gezinti devam ediyor": Dan 11:36–45](/tr/expl/bible/daniel/the-book-of-daniel#0e1c) |
 | {{% bible val="Daniel 12" link="dan:12" lang="tr" %}} | ["Gezinti devam ediyor": Dan.12](/tr/expl/bible/daniel/the-book-of-daniel#0e1c) |
 | {{% bible val="Daniel 12:1" link="dan:12,1" lang="tr" %}} | ["Büyük sıkıntı": O zaman halkını koruyan büyük önder Mikail görünecek. Ulusların oluşumundan bu yana hiç görülmemiş bir sıkıntı dönemi olacak. Ama o zaman halkın —adı kitapta yazılı olan herkes— kurtulacak.](/tr/expl/content/army/the-end-time-and-the-great-tribulation#ef13) |
 | {{% bible val="Daniel 12:1" link="dan:12,1" lang="tr" %}} | ["Pretribülasyonist": Mikail'in kendi engelleyici rolüyle karşılaştırın](/tr/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pt1a) |

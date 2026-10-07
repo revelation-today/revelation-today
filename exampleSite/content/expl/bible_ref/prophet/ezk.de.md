@@ -11,7 +11,7 @@ docType: expl
 | {{% bible val="Hesekiel 1,5-21" link="ezk:1,5-21" lang="de" %}} | ["Die Anbetung": Hesekiel](/de/expl/content/worship/worship-in-the-throne-room#e545) |
 | {{% bible val="Hesekiel 1,22" link="ezk:1,22" lang="de" %}} | ["Der Thronsaal": Gottes Herrlichkeit im Himmel](/de/expl/content/worship/worship-in-the-throne-room#0938) |
 | {{% bible val="Hesekiel 4,6" link="ezk:4,6" lang="de" %}} | ["Ein kurzer Streifzug durch die Geschichte": Hesekiel](/de/expl/topics/others/dispensionalism-a-little-history#0f48) |
-| {{% bible val="Hesekiel 9" link="ezk:9" lang="de" %}} | ["Das Versiegeln": Das erinnert an die Versiegelung der Gerechten beim Propheten Hesekiel: Dort sollte ein Engel all jene markieren, die über das Unrecht klagten, das geschehen war. Nachdem alle versiegelt waren, kam ein weiterer Engel und erschlug alle ohne dieses Zeichen, angefangen beim Tempel Gottes.](/de/expl/content/army/the-144000#e426) |
+| {{% bible val="Hesekiel 9" link="ezk:9" lang="de" %}} | ["Das Versiegeln": die Versiegelung bei Hesekiel](/de/expl/content/army/the-144000#e426) |
 | {{% bible val="Hesekiel 10,18-19" link="ezk:10,18-19" lang="de" %}} | ["Gott hinterlässt die Verheißung, dass Stadt und Garten eins werden": verließ seine Gegenwart den Tempel](/de/expl/bible/creation/the-temple-and-the-presence-of-god#3f30) |
 | {{% bible val="Hesekiel 10,18-19" link="ezk:10,18-19" lang="de" %}} | ["Die zentrale Lehre": wich seine Gegenwart aus dem Tempel](/de/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#die-zentrale-lehre) |
 | {{% bible val="Hesekiel 11,22-24" link="ezk:11,22-24" lang="de" %}} | ["Der Ursprung des Tages des Herrn": Gott Israel verließ](/de/expl/background/israel/the-day-of-the-lord#4fec) |
@@ -40,9 +40,9 @@ docType: expl
 | {{% bible val="Hesekiel 36,27" link="ezk:36,27" lang="de" %}} | ["Ausgießung des Geistes": Israel](/de/expl/background/israel/the-church-is-part-of-israel#e989) |
 | {{% bible val="Hesekiel 37" link="ezk:37" lang="de" %}} | ["Der zweifache Angriff": Wirken des Heiligen Geistes bei Hesekiel erinnert](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Hesekiel 37" link="ezk:37" lang="de" %}} | ["Das Problem": Vision vom Tal der toten Gebeine bei Hesekiel, wo der Geist kommt und neues Leben in das Tote haucht](/de/expl/content/letters/the-letter-to-the-church-in-sardis#c0b1) |
-| {{% bible val="Hesekiel 37,1-14" link="ezk:37,1-14" lang="de" %}} | ["Was ist die Erzähllinie?": 37/1–14](/de/expl/content/1000y/the-thousand-year-kingdom#008e) |
+| {{% bible val="Hesekiel 37,1-14" link="ezk:37,1-14" lang="de" %}} | ["Was ist die Erzähllinie?": 37,1–14](/de/expl/content/1000y/the-thousand-year-kingdom#008e) |
 | {{% bible val="Hesekiel 37,10" link="ezk:37,10" lang="de" %}} | ["Knotenpunkt 1: zweimal lebendig werden, ein Verb": Hesekiel 37,10](/de/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
-| {{% bible val="Hesekiel 37,15-28" link="ezk:37,15-28" lang="de" %}} | ["Was ist die Erzähllinie?": 37/15–28](/de/expl/content/1000y/the-thousand-year-kingdom#008e) |
+| {{% bible val="Hesekiel 37,15-28" link="ezk:37,15-28" lang="de" %}} | ["Was ist die Erzähllinie?": 37,15–28](/de/expl/content/1000y/the-thousand-year-kingdom#008e) |
 | {{% bible val="Hesekiel 37,27" link="ezk:37,27" lang="de" %}} | ["Gott lebt mit seinem Volk": Hesekiel](/de/expl/content/paradise/the-new-jerusalem#f42c) |
 | {{% bible val="Hesekiel 38" link="ezk:38" lang="de" %}} | ["Knotenpunkt 3: folgt Kapitel 20 auf Kapitel 19?": die eine Endschlacht von Hesekiel 38](/de/expl/content/1000y/pre-post-and-amillennialism#47e1) |
 | {{% bible val="Hesekiel 38" link="ezk:38" lang="de" %}} | ["Zwei letzte Schlachten?": 38](/de/expl/content/1000y/the-thousand-year-kingdom#4257) |

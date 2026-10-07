@@ -4,7 +4,7 @@ weight: 65
 docType: expl
 ---
 
-1143 Bibelstellen wurden in diesem Buch verwendet.
+1161 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -34,7 +34,7 @@ docType: expl
 | {{% bible val="Offenbarung 1,4-6" link="rev:1,4-6" lang="de" %}} | ["Die Kernlehre": Offb 1,4-6](/de/sermons/deep-dive/intro/02-what-kind-of-book-is-this#die-kernlehre) |
 | {{% bible val="Offenbarung 1,5" link="rev:1,5" lang="de" %}} | ["Die Rolle der Familie": der Erstgeborene aus den Toten](/de/expl/background/israel/the-role-of-family-in-the-bible) |
 | {{% bible val="Offenbarung 1,5" link="rev:1,5" lang="de" %}} | ["Die Basis": und von Jesus Christus, dem treuen Zeugen, dem Erstgeborenen aus den Toten und dem Fürsten über die Könige der Erde. Ihm, der uns geliebt hat und uns von unseren Sünden gewaschen hat durch sein Blut](/de/expl/content/vision/setting-the-foundation#bb4f) |
-| {{% bible val="Offenbarung 1,5" link="rev:1,5" lang="de" %}} | ["Die Deutung": am Anfang des Kapitels](/de/expl/content/vision/the-vision#4bd0) |
+| {{% bible val="Offenbarung 1,5" link="rev:1,5" lang="de" %}} | ["Die Deutung": der Anfang des Briefes](/de/expl/content/vision/the-vision#4bd0) |
 | {{% bible val="Offenbarung 1,5" link="rev:1,5" lang="de" %}} | ["Niederlage wird zum Sieg": Jesus ist der treue Zeuge](/de/expl/content/witnesses/the-two-witnesses#5f50) |
 | {{% bible val="Offenbarung 1,5-6" link="rev:1,5-6" lang="de" %}} | ["Königreich von Priestern": Offenbarung](/de/expl/background/israel/the-church-is-part-of-israel#d5f3) |
 | {{% bible val="Offenbarung 1,5-6" link="rev:1,5-6" lang="de" %}} | ["Der neue Auszug in der Offenbarung": uns von unseren Sünden gewaschen durch sein Blut und uns zu Königen und Priestern gemacht](/de/expl/background/israel/the-second-exodus#x0d1) |
@@ -63,6 +63,7 @@ docType: expl
 | {{% bible val="Offenbarung 1,12-13" link="rev:1,12-13" lang="de" %}} | ["Bist du bereit zu leuchten?": Offenbarung 1,12–13](/de/appl/content/vision) |
 | {{% bible val="Offenbarung 1,12-20" link="rev:1,12-20" lang="de" %}} | ["Wer herrscht also, über wen und wo?": Die sieben Gemeinden sind Leuchter, zwischen denen Jesus steht, und ihre Sterne sind in seiner Hand](/de/expl/content/1000y/the-thousand-year-kingdom#6f12) |
 | {{% bible val="Offenbarung 1,17" link="rev:1,17" lang="de" %}} | ["Weitere Gedanken": 1,17](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#5fd8) |
+| {{% bible val="Offenbarung 1,17-18" link="rev:1,17-18" lang="de" %}} | ["Die Deutung": der Erste und der Letzte, der Lebende, der tot war und lebt in Ewigkeit, und der die Schlüssel des Todes und des Hades hält](/de/expl/content/vision/the-vision#4bd0) |
 | {{% bible val="Offenbarung 1,18" link="rev:1,18" lang="de" %}} | ["Der zweifache Angriff": Jesus regiert in Ewigkeit](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung 1,19" link="rev:1,19" lang="de" %}} | ["Der Bezugsrahmen von Daniel": kurz vor den Sendschreiben an die Gemeinden](/de/expl/background/literature/literally-or-symbolic#af5e) |
 | {{% bible val="Offenbarung 1,19" link="rev:1,19" lang="de" %}} | ["Hintergrund: Nicht zufällig: Das verborgene Design der Offenbarung": Offenbarung 1:19](/de/kids/teens-prep/03-not-random-the-hidden-design-of-revelation) |
@@ -70,7 +71,7 @@ docType: expl
 | {{% bible val="Offenbarung 1,20" link="rev:1,20" lang="de" %}} | ["Der Bezugsrahmen von Daniel": sieben Sterne und Leuchter](/de/expl/background/literature/literally-or-symbolic#8b2d) |
 | {{% bible val="Offenbarung 1,20" link="rev:1,20" lang="de" %}} | ["Schlussfolgerung": Die sieben Leuchter sind die sieben Gemeinden](/de/expl/background/literature/literally-or-symbolic#5693) |
 | {{% bible val="Offenbarung 1,20" link="rev:1,20" lang="de" %}} | ["Jesu Sicht": Kapitel 1](/de/expl/content/letters/the-letter-to-the-church-in-ephesus#adc4) |
-| {{% bible val="Offenbarung 1,20" link="rev:1,20" lang="de" %}} | ["Die Basis": sieben Leuchtern, die für die Gemeinden stehen](/de/expl/content/vision/setting-the-foundation#bb4f) |
+| {{% bible val="Offenbarung 1,20" link="rev:1,20" lang="de" %}} | ["Die Basis": sie sind die sieben Gemeinden](/de/expl/content/vision/setting-the-foundation#bb4f) |
 | {{% bible val="Offenbarung 1,20" link="rev:1,20" lang="de" %}} | ["Die Deutung": Geheimnis der Leuchter und Sterne gelöst](/de/expl/content/vision/the-vision#4bd0) |
 | {{% bible val="Offenbarung 1,20" link="rev:1,20" lang="de" %}} | ["Die Identität der beiden Zeugen": auf die sieben Gemeinden, die mit den Leuchtern identifiziert werden](/de/expl/content/witnesses/the-two-witnesses#55fa) |
 | {{% bible val="Offenbarung 1,20" link="rev:1,20" lang="de" %}} | ["Die Kernlehre": Gemeinde](/de/sermons/deep-dive/intro/03-symbol-or-literal#die-kernlehre) |
@@ -88,6 +89,7 @@ docType: expl
 | {{% bible val="Offenbarung 2,2" link="rev:2,2" lang="de" %}} | ["Bereit für den zweiten Tod": sie nennen sich Apostel](/de/expl/content/paradise/the-new-jerusalem#e855) |
 | {{% bible val="Offenbarung 2,4" link="rev:2,4" lang="de" %}} | ["Eine Prophetie": lasst eure Liebe nicht erkalten](/de/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Offenbarung 2,5" link="rev:2,5" lang="de" %}} | ["Beobachtungen": Bedenke, wovon du gefallen bist](/de/expl/content/letters/the-angel-of-the-churches#e9dd) |
+| {{% bible val="Offenbarung 2,5" link="rev:2,5" lang="de" %}} | ["Die Lösung": Erinnere dich, wie tief du gefallen bist, kehr um, und tu die ersten Werke wieder](/de/expl/content/letters/the-letter-to-the-church-in-ephesus#cb84) |
 | {{% bible val="Offenbarung 2,6" link="rev:2,6" lang="de" %}} | ["Jesu Sicht": Nikolaiten](/de/expl/content/letters/the-letter-to-the-church-in-ephesus#adc4) |
 | {{% bible val="Offenbarung 2,7" link="rev:2,7" lang="de" %}} | ["Diese Werkzeuge in der Offenbarung": 2,7](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#r3v1) |
 | {{% bible val="Offenbarung 2,7" link="rev:2,7" lang="de" %}} | ["In der Offenbarung": verspricht ihn neu](/de/expl/bible/creation/the-creation#3b92) |
@@ -122,22 +124,25 @@ docType: expl
 | {{% bible val="Offenbarung 2,14-15" link="rev:2,14-15" lang="de" %}} | ["Eine Prophetie": duldet keine falsche Lehre](/de/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Offenbarung 2,14-15" link="rev:2,14-15" lang="de" %}} | ["Jesu Sicht": Bileam und die Nikolaiten](/de/expl/content/letters/the-letter-to-the-church-in-pergamon#dc77) |
 | {{% bible val="Offenbarung 2,16" link="rev:2,16" lang="de" %}} | ["In der Offenbarung": mit dem Schwert meines Mundes](/de/expl/bible/keyword/the-story-of-balaam#4803) |
+| {{% bible val="Offenbarung 2,16" link="rev:2,16" lang="de" %}} | ["Jesu Sicht": kämpft gegen sie mit dem Schwert seines Mundes](/de/expl/content/letters/the-letter-to-the-church-in-pergamon#dc77) |
 | {{% bible val="Offenbarung 2,16" link="rev:2,16" lang="de" %}} | ["Die Lösung": wenn sie ihn ablehnen, wird Jesus gegen sie kämpfen](/de/expl/content/letters/the-letter-to-the-church-in-pergamon#85d8) |
+| {{% bible val="Offenbarung 2,16" link="rev:2,16" lang="de" %}} | ["Die Vision": 2,16](/de/expl/content/vision/the-vision#7855) |
 | {{% bible val="Offenbarung 2,17" link="rev:2,17" lang="de" %}} | ["Die Überwinder": Pergamon](/de/expl/content/paradise/the-new-jerusalem#eb5e) |
-| {{% bible val="Offenbarung 2,18-29" link="rev:2,18-29" lang="de" %}} | ["Das Sendschreiben an Thyatira": Brief an diese Gemeinde der längste der sieben](/de/expl/content/letters/the-letter-to-the-church-in-thyatira) |
+| {{% bible val="Offenbarung 2,18-29" link="rev:2,18-29" lang="de" %}} | ["Das Sendschreiben an Thyatira": sein Brief ist der längste von allen](/de/expl/content/letters/the-letter-to-the-church-in-thyatira) |
 | {{% bible val="Offenbarung 2,19" link="rev:2,19" lang="de" %}} | ["Jesu Sicht": für ihre Werke, ihre Liebe - genau dort, wo Ephesus zu kämpfen hatte -, ihren Glauben, ihre Ausdauer und ihr stetiges Wachstum, denn sie tun jetzt mehr als zu Beginn](/de/expl/content/letters/the-letter-to-the-church-in-thyatira#f2ed) |
 | {{% bible val="Offenbarung 2,20" link="rev:2,20" lang="de" %}} | ["Pax Romana und Christen": 20](/de/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation#3005) |
 | {{% bible val="Offenbarung 2,20" link="rev:2,20" lang="de" %}} | ["Die ersten Leser": falsche Propheten unter dem alttestamentlichen Beinamen Isebel](/de/expl/background/literature/full-of-biblical-references#2957) |
 | {{% bible val="Offenbarung 2,20" link="rev:2,20" lang="de" %}} | ["Andere Zahlen": 2,20](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#8d23) |
 | {{% bible val="Offenbarung 2,20" link="rev:2,20" lang="de" %}} | ["Die Hure": Thyatira](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Offenbarung 2,20" link="rev:2,20" lang="de" %}} | ["Die Hure": Offb.2/20](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="Offenbarung 2,20" link="rev:2,20" lang="de" %}} | ["Die Hure": Offb 2,20](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 2,20" link="rev:2,20" lang="de" %}} | ["Das Problem": ein Problem: Isebel](/de/expl/content/letters/the-letter-to-the-church-in-thyatira#2981) |
 | {{% bible val="Offenbarung 2,20-21" link="rev:2,20-21" lang="de" %}} | ["Bereit für den zweiten Tod": Thyatira](/de/expl/content/paradise/the-new-jerusalem#e855) |
-| {{% bible val="Offenbarung 2,20-22" link="rev:2,20-22" lang="de" %}} | ["Die Hure": Offb.2/20-22](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="Offenbarung 2,20-22" link="rev:2,20-22" lang="de" %}} | ["Die Hure": Offb 2,20-22](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 2,20-22" link="rev:2,20-22" lang="de" %}} | ["Der religiöse Aspekt": Thyatira durch Isebel](/de/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Offenbarung 2,21-22" link="rev:2,21-22" lang="de" %}} | ["Die Lösung": Alle Anhänger Isebels werden leiden, in der Hoffnung, dass sie dadurch zur Umkehr bewegt werden](/de/expl/content/letters/the-letter-to-the-church-in-thyatira#5b20) |
 | {{% bible val="Offenbarung 2,22" link="rev:2,22" lang="de" %}} | ["Die Große Trübsal": Der Begriff selbst wird als Mahnung an die Gemeinde in Thyatira aufgegriffen, im Gericht über ihre Anführerin, die als Isebel bezeichnet wird](/de/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
-| {{% bible val="Offenbarung 2,23" link="rev:2,23" lang="de" %}} | ["Die Hure": Offb.2/23](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="Offenbarung 2,23" link="rev:2,23" lang="de" %}} | ["Die Hure": Offb 2,23](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="Offenbarung 2,23" link="rev:2,23" lang="de" %}} | ["Das Sendschreiben an Thyatira": alle Gemeinden werden erkennen, dass ich der bin, der Herz und Sinn erforscht](/de/expl/content/letters/the-letter-to-the-church-in-thyatira) |
 | {{% bible val="Offenbarung 2,23" link="rev:2,23" lang="de" %}} | ["Die Lösung": Dieses Leiden wird allen anderen Gemeinden als Warnung dienen](/de/expl/content/letters/the-letter-to-the-church-in-thyatira#5b20) |
 | {{% bible val="Offenbarung 2,24-25" link="rev:2,24-25" lang="de" %}} | ["Die Lösung": an Jesus festhalten und treu bleiben](/de/expl/content/letters/the-letter-to-the-church-in-thyatira#5b20) |
 | {{% bible val="Offenbarung 2,26-27" link="rev:2,26-27" lang="de" %}} | ["Die Überwinder": Thyatira](/de/expl/content/paradise/the-new-jerusalem#eb5e) |
@@ -168,6 +173,7 @@ docType: expl
 | {{% bible val="Offenbarung 3,9" link="rev:3,9" lang="de" %}} | ["Die Kernlehre": Offb 3,9](/de/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#die-kernlehre) |
 | {{% bible val="Offenbarung 3,10" link="rev:3,10" lang="de" %}} | ["Futuristisch": Philadelphias Verheißung, vor der Stunde der Versuchung bewahrt zu werden, die über den ganzen Erdkreis kommen wird](/de/expl/background/literature/preterist-historicist-futurist-or-idealist#f3c4) |
 | {{% bible val="Offenbarung 3,10" link="rev:3,10" lang="de" %}} | ["Andere Zahlen": 3,10](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#8d23) |
+| {{% bible val="Offenbarung 3,10" link="rev:3,10" lang="de" %}} | ["Die Große Trübsal": 3,10](/de/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
 | {{% bible val="Offenbarung 3,10" link="rev:3,10" lang="de" %}} | ["Jesu Sicht": Sie harren geduldig aus.](/de/expl/content/letters/the-letter-to-the-church-in-philadelphia#40f8) |
 | {{% bible val="Offenbarung 3,10" link="rev:3,10" lang="de" %}} | ["Die Stunde der Versuchung": Weil du das Wort vom geduldigen Ausharren bewahrt hast, werde auch ich dich bewahren vor der Stunde der Versuchung, die über den ganzen Erdkreis kommen wird, um die zu prüfen, die auf der Erde wohnen](/de/expl/content/letters/the-letter-to-the-church-in-philadelphia#2f35) |
 | {{% bible val="Offenbarung 3,10" link="rev:3,10" lang="de" %}} | ["Prätribulational": 'bewahrt vor der Stunde der Versuchung, die über den ganzen Erdkreis kommen wird'](/de/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pt1a) |
@@ -212,7 +218,7 @@ docType: expl
 | {{% bible val="Offenbarung 4,4" link="rev:4,4" lang="de" %}} | ["Die Anbetung": 24 Ältesten](/de/expl/content/worship/worship-in-the-throne-room#e545) |
 | {{% bible val="Offenbarung 4,5" link="rev:4,5" lang="de" %}} | ["Die Zahl 4": Einleitung](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#0f0d) |
 | {{% bible val="Offenbarung 4,5" link="rev:4,5" lang="de" %}} | ["Die Kombination 4x7": 4,5](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#1ee7) |
-| {{% bible val="Offenbarung 4,5" link="rev:4,5" lang="de" %}} | ["Die Basis": Kapitel 4](/de/expl/content/vision/setting-the-foundation#bb4f) |
+| {{% bible val="Offenbarung 4,5" link="rev:4,5" lang="de" %}} | ["Die Basis": sieben Lampen, die vor dem Thron brennen, sind die sieben Geister Gottes](/de/expl/content/vision/setting-the-foundation#bb4f) |
 | {{% bible val="Offenbarung 4,5" link="rev:4,5" lang="de" %}} | ["Der Hintergrund und Kontext": Die Beschreibung dessen, was vor dem Thron ist](/de/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Offenbarung 4,5" link="rev:4,5" lang="de" %}} | ["Der Hintergrund und Kontext": Offenbarung](/de/expl/content/worship/worship-in-the-throne-room#e638) |
 | {{% bible val="Offenbarung 4,6" link="rev:4,6" lang="de" %}} | ["Der Thronsaal": gläserne Meer](/de/expl/content/worship/worship-in-the-throne-room#0938) |
@@ -251,7 +257,9 @@ docType: expl
 | {{% bible val="Offenbarung 5,6-14" link="rev:5,6-14" lang="de" %}} | ["Niederlage wird zum Sieg": deshalb triumphiert er](/de/expl/content/witnesses/the-two-witnesses#5f50) |
 | {{% bible val="Offenbarung 5,6-14" link="rev:5,6-14" lang="de" %}} | ["Die Kernlehre": Offenbarung 5,6-14](/de/sermons/deep-dive/intro/13-the-son-of-man-daniels-vision-fulfilled#die-kernlehre) |
 | {{% bible val="Offenbarung 5,8" link="rev:5,8" lang="de" %}} | ["Andere Zahlen": 5,8](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#8d23) |
+| {{% bible val="Offenbarung 5,8" link="rev:5,8" lang="de" %}} | ["Der Hintergrund": Räucherschalen, und das sind die Gebete der Heiligen](/de/expl/content/bowls/the-bowls-of-wrath#a84e) |
 | {{% bible val="Offenbarung 5,8" link="rev:5,8" lang="de" %}} | ["Der Ursprung der Posaunen": Er ist das Gebet der Heiligen](/de/expl/content/trumpets/the-trumpets-in-revelation#639f) |
+| {{% bible val="Offenbarung 5,8" link="rev:5,8" lang="de" %}} | ["Die sieben Siegel": 5,8](/de/expl/content/worship/the-book-with-the-seven-seals#8be0) |
 | {{% bible val="Offenbarung 5,8-14" link="rev:5,8-14" lang="de" %}} | ["Der zweifache Angriff": Jesus angebetet werden sollte](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Offenbarung 5,9" link="rev:5,9" lang="de" %}} | ["Die Rolle der Familie": mit seinem Blut Menschen für Gott erkauft hat](/de/expl/background/israel/the-role-of-family-in-the-bible) |
 | {{% bible val="Offenbarung 5,9" link="rev:5,9" lang="de" %}} | ["Der neue Auszug in der Offenbarung": für Gott Menschen aus jedem Stamm erkauft hat](/de/expl/background/israel/the-second-exodus#x0d1) |
@@ -276,7 +284,7 @@ docType: expl
 | {{% bible val="Offenbarung 6" link="rev:6" lang="de" %}} | ["Offb. 6: Die vier Reiter und der Zorn des Lammes": Offenbarung 6](/de/kids/teens/06-the-four-horsemen-and-the-wrath-of-the-lamb) |
 | {{% bible val="Offenbarung 6" link="rev:6" lang="de" %}} | ["Die Siegel (Kap. 6)": Kapitel 6](/de/quick/content/seals) |
 | {{% bible val="Offenbarung 6,1-8" link="rev:6,1-8" lang="de" %}} | ["Die Beschreibung des Teufels": als vier apokalyptische Reiter](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
-| {{% bible val="Offenbarung 6,1-8" link="rev:6,1-8" lang="de" %}} | ["Der Text": Offb.6/1–8](/de/expl/content/seals/the-mystery-of-the-four-horse-men#19b5) |
+| {{% bible val="Offenbarung 6,1-8" link="rev:6,1-8" lang="de" %}} | ["Der Text": Offb 6,1–8](/de/expl/content/seals/the-mystery-of-the-four-horse-men#19b5) |
 | {{% bible val="Offenbarung 6,1-11" link="rev:6,1-11" lang="de" %}} | ["Die Schalen": Wie können Menschen weiterhin jemandem vertrauen, der am Ende nichts als Zerstörung bringt?](/de/expl/content/bowls/the-bowls-of-wrath#9855) |
 | {{% bible val="Offenbarung 6,2" link="rev:6,2" lang="de" %}} | ["Nicht jedes weiße Pferd bringt Rettung": Offenbarung 6,2](/de/appl/content/seals) |
 | {{% bible val="Offenbarung 6,2" link="rev:6,2" lang="de" %}} | ["Arithmetische Betrachtungen": siegend](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#f042) |
@@ -292,8 +300,9 @@ docType: expl
 | {{% bible val="Offenbarung 6,9-11" link="rev:6,9-11" lang="de" %}} | ["Die Armee Gottes": fünften Siegel](/de/expl/content/army/the-144000#e329) |
 | {{% bible val="Offenbarung 6,9-11" link="rev:6,9-11" lang="de" %}} | ["Die Auflösung": Wie lange noch?](/de/expl/content/seals/the-mystery-of-the-four-horse-men#8d71) |
 | {{% bible val="Offenbarung 6,9-11" link="rev:6,9-11" lang="de" %}} | ["Die Berufung": erinnert an die leidende Gemeinde beim fünften Siegel](/de/expl/content/witnesses/the-two-witnesses#9334) |
-| {{% bible val="Offenbarung 6,9-11" link="rev:6,9-11" lang="de" %}} | ["Die sieben Siegel": Da die Heiligen von diesen Nöten nicht ausgenommen sind (warum, werden wir bei den Posaunen sehen), leiden sie und fragen, wie lange das noch dauern wird. Doch ihre Bitte um Gerechtigkeit wird noch nicht erhört — stattdessen erhalten sie weiße Gewänder und werden aufgefordert zu warten, bis die volle Zahl der Märtyrer erreicht ist. Von hier an zieht sich die Spannung zwischen dem Gebet der Heiligen und Gottes Zeitplan als wiederkehrendes Thema durch das Buch.](/de/expl/content/worship/the-book-with-the-seven-seals#8be0) |
+| {{% bible val="Offenbarung 6,9-11" link="rev:6,9-11" lang="de" %}} | ["Die sieben Siegel": fragen sie, wie lange es noch dauert](/de/expl/content/worship/the-book-with-the-seven-seals#8be0) |
 | {{% bible val="Offenbarung 6,9-11" link="rev:6,9-11" lang="de" %}} | ["Die sieben Siegel": fünften Siegel an, wo die Gebete der Heiligen in den Blick rücken](/de/expl/content/worship/the-book-with-the-seven-seals#8be0) |
+| {{% bible val="Offenbarung 6,9-11" link="rev:6,9-11" lang="de" %}} | ["Die sieben Siegel": 6,9–11](/de/expl/content/worship/the-book-with-the-seven-seals#8be0) |
 | {{% bible val="Offenbarung 6,10" link="rev:6,10" lang="de" %}} | ["Knotenpunkt 1: zweimal lebendig werden, ein Verb": wie lange richtest und rächst du unser Blut nicht?](/de/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Offenbarung 6,12-17" link="rev:6,12-17" lang="de" %}} | ["Nacheinander oder neu erzählt?": 6,12–17](/de/expl/background/structure/the-structure-of-the-book-of-revelation#chiasm) |
 | {{% bible val="Offenbarung 6,12-17" link="rev:6,12-17" lang="de" %}} | ["Der Zorn des Lammes": Und ich sah, als es das sechste Siegel auftat, und siehe, es geschah ein großes Erdbeben, und die Sonne wurde schwarz wie ein härener Sack, und der ganze Mond wurde wie Blut, und die Sterne des Himmels fielen auf die Erde, wie ein Feigenbaum seine unreifen Früchte abwirft, wenn er von einem starken Wind geschüttelt wird. Und der Himmel entwich wie eine Buchrolle, die sich zusammenrollt, und alle Berge und Inseln wurden von ihrer Stelle bewegt. Und die Könige der Erde und die Großen und die Heerführer und die Reichen und die Mächtigen und alle, Sklaven und Freie, verbargen sich in den Höhlen und Felsen der Berge und sprachen zu den Bergen und Felsen: Fallt auf uns und verbergt uns vor dem Angesicht dessen, der auf dem Thron sitzt, und vor dem Zorn des Lammes! Denn der große Tag ihres Zorns ist gekommen, und wer kann bestehen?](/de/expl/content/seals/the-wrath-of-the-lamb) |
@@ -335,7 +344,8 @@ docType: expl
 | {{% bible val="Offenbarung 8" link="rev:8" lang="de" %}} | ["Offb. 8–9: Die Warnungen, auf die niemand hört": Offenbarung 8–9](/de/kids/teens/08-the-warnings-nobody-listens-to) |
 | {{% bible val="Offenbarung 8" link="rev:8" lang="de" %}} | ["Die Posaunen (Kap. 8-9)": Kapitel 8](/de/quick/content/trumpets) |
 | {{% bible val="Offenbarung 8,1-6" link="rev:8,1-6" lang="de" %}} | ["Der Ursprung der Posaunen": Und als es das siebte Siegel öffnete, entstand eine Stille im Himmel, etwa eine halbe Stunde lang. 2 Und ich sah die sieben Engel, die vor Gott standen; und es wurden ihnen sieben Posaunen gegeben. 3 Und ein anderer Engel kam und stellte sich an den Altar, der hatte ein goldenes Räucherfass; und ihm wurde viel Räucherwerk gegeben, damit er es zusammen mit den Gebeten aller Heiligen auf dem goldenen Altar darbringe, der vor dem Thron ist. 4 Und der Rauch des Räucherwerks stieg auf vor Gott, zusammen mit den Gebeten der Heiligen, aus der Hand des Engels. 5 Und der Engel nahm das Räucherfass und füllte es mit Feuer vom Altar und warf es auf die Erde; und es geschahen Stimmen und Donner und Blitze und ein Erdbeben. 6 Und die sieben Engel, welche die sieben Posaunen hatten, machten sich bereit, in die Posaunen zu stoßen.](/de/expl/content/trumpets/the-trumpets-in-revelation#639f) |
-| {{% bible val="Offenbarung 8,2-5" link="rev:8,2-5" lang="de" %}} | ["Die sieben Siegel": zweimal](/de/expl/content/worship/the-book-with-the-seven-seals#8be0) |
+| {{% bible val="Offenbarung 8,2-5" link="rev:8,2-5" lang="de" %}} | ["Die sieben Siegel": 8,3–5](/de/expl/content/worship/the-book-with-the-seven-seals#8be0) |
+| {{% bible val="Offenbarung 8,3-5" link="rev:8,3-5" lang="de" %}} | ["Der Hintergrund": wirft dann das Feuer vom Altar auf die Erde](/de/expl/content/bowls/the-bowls-of-wrath#a84e) |
 | {{% bible val="Offenbarung 8,5" link="rev:8,5" lang="de" %}} | ["Die Zahl 4": Abschluss der Siegel](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#0f0d) |
 | {{% bible val="Offenbarung 8,7" link="rev:8,7" lang="de" %}} | ["Die ersten vier Posaunen": Die erste Posaune](/de/expl/content/trumpets/the-trumpets-in-revelation#e565) |
 | {{% bible val="Offenbarung 8,7-12" link="rev:8,7-12" lang="de" %}} | ["Die Zahl 4": bei den ersten vier Posaunen](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#0f0d) |
@@ -368,12 +378,13 @@ docType: expl
 | {{% bible val="Offenbarung 10" link="rev:10" lang="de" %}} | ["Offb. 10: Süß im Mund, sauer im Magen": Offenbarung 10](/de/kids/teens/09-sweet-in-your-mouth-sour-in-your-stomach) |
 | {{% bible val="Offenbarung 10" link="rev:10" lang="de" %}} | ["Die kleine Schriftrolle (Kap. 10)": Kapitel 10](/de/quick/content/scroll) |
 | {{% bible val="Offenbarung 10,1" link="rev:10,1" lang="de" %}} | ["Ein kleines Wort mit großen Konsequenzen": beim Engel mit dem kleinen Büchlein](/de/expl/content/1000y/the-thousand-year-kingdom#b25f) |
-| {{% bible val="Offenbarung 10,2" link="rev:10,2" lang="de" %}} | ["Ein Sack voller Referenzen": Offb.10/2](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
+| {{% bible val="Offenbarung 10,2" link="rev:10,2" lang="de" %}} | ["Ein Sack voller Referenzen": Offb 10,2](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#78d1) |
 | {{% bible val="Offenbarung 10,2" link="rev:10,2" lang="de" %}} | ["Die Zeugen und die Tiere": Himmel und Erde herrscht](/de/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung 10,3-7" link="rev:10,3-7" lang="de" %}} | ["Die Kombination 4x7": die sieben Donner](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#1ee7) |
 | {{% bible val="Offenbarung 10,5" link="rev:10,5" lang="de" %}} | ["Die kleine Schriftrolle (Kap. 10)": Offenbarung 10,5](/de/quick/content/scroll) |
 | {{% bible val="Offenbarung 10,6" link="rev:10,6" lang="de" %}} | ["Die Kombination 4x7": 10,6](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#1ee7) |
 | {{% bible val="Offenbarung 10,7" link="rev:10,7" lang="de" %}} | ["Der Bezugsrahmen von Daniel": Gottes](/de/expl/background/literature/literally-or-symbolic#8b2d) |
+| {{% bible val="Offenbarung 10,7" link="rev:10,7" lang="de" %}} | ["Der Engel mit dem Büchlein": wird das Geheimnis Gottes vollendet sein, wie er es seinen Knechten, den Propheten, angekündigt hat](/de/expl/content/scroll/the-little-scroll#9ea4) |
 | {{% bible val="Offenbarung 10,7" link="rev:10,7" lang="de" %}} | ["Die Kernlehre": Gottes](/de/sermons/deep-dive/intro/03-symbol-or-literal#die-kernlehre) |
 | {{% bible val="Offenbarung 10,7" link="rev:10,7" lang="de" %}} | ["Die Kernlehre": Gottes](/de/sermons/deep-dive/intro/06-the-three-mysteries#die-kernlehre) |
 | {{% bible val="Offenbarung 10,7" link="rev:10,7" lang="de" %}} | ["Die Kernlehre": Offenbarung 10,7](/de/sermons/deep-dive/intro/06-the-three-mysteries#die-kernlehre) |
@@ -421,8 +432,8 @@ docType: expl
 | {{% bible val="Offenbarung 11,5" link="rev:11,5" lang="de" %}} | ["Die ersten drei Engel": warnenden Gerichte](/de/expl/content/harvest/gods-army-and-the-seven-angels#ad85) |
 | {{% bible val="Offenbarung 11,5" link="rev:11,5" lang="de" %}} | ["Die Identität der beiden Zeugen": Feuer vom Himmel auf ihre Feinde fallen zu lassen](/de/expl/content/witnesses/the-two-witnesses#55fa) |
 | {{% bible val="Offenbarung 11,5" link="rev:11,5" lang="de" %}} | ["Die Kernlehre": Offenbarung 11,5](/de/sermons/deep-dive/intro/13-the-son-of-man-daniels-vision-fulfilled#die-kernlehre) |
-| {{% bible val="Offenbarung 11,5-6" link="rev:11,5-6" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.11/5-6](/de/expl/content/witnesses/the-two-witnesses#3cd4) |
-| {{% bible val="Offenbarung 11,5-6" link="rev:11,5-6" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.11/5-6](/de/expl/content/witnesses/the-two-witnesses#3cd4) |
+| {{% bible val="Offenbarung 11,5-6" link="rev:11,5-6" lang="de" %}} | ["Die Zeugen und die Tiere": Offb 11,5-6](/de/expl/content/witnesses/the-two-witnesses#3cd4) |
+| {{% bible val="Offenbarung 11,5-6" link="rev:11,5-6" lang="de" %}} | ["Die Zeugen und die Tiere": Offb 11,5-6](/de/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung 11,6" link="rev:11,6" lang="de" %}} | ["Das Erbe": Sie sind Zeugen mit Wundern](/de/expl/bible/daniel/the-son-of-man-and-the-remnant#0c4b) |
 | {{% bible val="Offenbarung 11,6" link="rev:11,6" lang="de" %}} | ["Die Identität der beiden Zeugen": den Regen zu stoppen](/de/expl/content/witnesses/the-two-witnesses#55fa) |
 | {{% bible val="Offenbarung 11,6" link="rev:11,6" lang="de" %}} | ["Die Identität der beiden Zeugen": Wasser zu Blut](/de/expl/content/witnesses/the-two-witnesses#55fa) |
@@ -442,23 +453,23 @@ docType: expl
 | {{% bible val="Offenbarung 11,8" link="rev:11,8" lang="de" %}} | ["Niederlage wird zum Sieg": mit Jesu Tod am Kreuz verbunden](/de/expl/content/witnesses/the-two-witnesses#5f50) |
 | {{% bible val="Offenbarung 11,8-11" link="rev:11,8-11" lang="de" %}} | ["Das Erbe": Aber das ist nicht ihre Niederlage, denn sie werden auferweckt wie Jesus](/de/expl/bible/daniel/the-son-of-man-and-the-remnant#0c4b) |
 | {{% bible val="Offenbarung 11,9-10" link="rev:11,9-10" lang="de" %}} | ["Niederlage wird zum Sieg": die ganze Welt feiert, weil die Zeugen nun verstummt sind](/de/expl/content/witnesses/the-two-witnesses#5f50) |
-| {{% bible val="Offenbarung 11,9-10" link="rev:11,9-10" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.11/9-10](/de/expl/content/witnesses/the-two-witnesses#3cd4) |
+| {{% bible val="Offenbarung 11,9-10" link="rev:11,9-10" lang="de" %}} | ["Die Zeugen und die Tiere": Offb 11,9-10](/de/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung 11,10" link="rev:11,10" lang="de" %}} | ["Niederlage wird zum Sieg": ihre Feinde, die sich gegenseitig Geschenke schicken](/de/expl/content/witnesses/the-two-witnesses#5f50) |
 | {{% bible val="Offenbarung 11,11" link="rev:11,11" lang="de" %}} | ["Ein Sieg, der durch die Niederlage geht": Offenbarung 11,11](/de/appl/content/witnesses) |
 | {{% bible val="Offenbarung 11,11" link="rev:11,11" lang="de" %}} | ["Knotenpunkt 1: zweimal lebendig werden, ein Verb": Lebensodem von Gott fuhr in sie, und sie stellten sich auf ihre Füße](/de/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Offenbarung 11,11" link="rev:11,11" lang="de" %}} | ["Was das Thema wirklich trägt": stellten sich auf ihre Füße](/de/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Offenbarung 11,11" link="rev:11,11" lang="de" %}} | ["Knotenpunkt 3: folgt Kapitel 20 auf Kapitel 19?": 11,11](/de/expl/content/1000y/pre-post-and-amillennialism#47e1) |
-| {{% bible val="Offenbarung 11,11-12" link="rev:11,11-12" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.11/11-12](/de/expl/content/witnesses/the-two-witnesses#3cd4) |
+| {{% bible val="Offenbarung 11,11-12" link="rev:11,11-12" lang="de" %}} | ["Die Zeugen und die Tiere": Offb 11,11-12](/de/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung 11,12" link="rev:11,12" lang="de" %}} | ["Das Erbe": Sie werden erhöht wie Jesus](/de/expl/bible/daniel/the-son-of-man-and-the-remnant#0c4b) |
 | {{% bible val="Offenbarung 11,13" link="rev:11,13" lang="de" %}} | ["Der Überrest in der Offenbarung": 11,13](/de/expl/background/israel/the-remnant-of-israel#r4m1) |
 | {{% bible val="Offenbarung 11,13" link="rev:11,13" lang="de" %}} | ["Die siebte Posaune, und was zuvor geschieht": fällt ein Zehntel der Stadt, und siebentausend Menschen sterben, während der Rest überwältigt ist und dem Gott des Himmels die Ehre gibt](/de/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Offenbarung 11,13" link="rev:11,13" lang="de" %}} | ["Die siebte Posaune, und was zuvor geschieht": Das hier mit 'erschrocken' übersetzte Wort](/de/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Offenbarung 11,13" link="rev:11,13" lang="de" %}} | ["Die siebte Posaune, und was zuvor geschieht": geben dem Gott des Himmels die Ehre](/de/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Offenbarung 11,13" link="rev:11,13" lang="de" %}} | ["Niederlage wird zum Sieg": ein Zehntel der Stadt fällt und 7.000 Menschen sterben beim Erdbeben](/de/expl/content/witnesses/the-two-witnesses#5f50) |
-| {{% bible val="Offenbarung 11,13-14" link="rev:11,13-14" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.11/13-14](/de/expl/content/witnesses/the-two-witnesses#3cd4) |
+| {{% bible val="Offenbarung 11,13-14" link="rev:11,13-14" lang="de" %}} | ["Die Zeugen und die Tiere": Offb 11,13-14](/de/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung 11,15" link="rev:11,15" lang="de" %}} | ["Midtribulational": der siebten Posaune](/de/expl/topics/others/pre-mid-prewrath-or-post-tribulational#mt2b) |
 | {{% bible val="Offenbarung 11,15-19" link="rev:11,15-19" lang="de" %}} | ["Die siebte Posaune, und was zuvor geschieht": Die siebte Posaune](/de/expl/content/trumpets/the-trumpets-in-revelation#813b) |
-| {{% bible val="Offenbarung 11,15-19" link="rev:11,15-19" lang="de" %}} | ["Die Zeugen und die Tiere": Offb.11/15-19](/de/expl/content/witnesses/the-two-witnesses#3cd4) |
+| {{% bible val="Offenbarung 11,15-19" link="rev:11,15-19" lang="de" %}} | ["Die Zeugen und die Tiere": Offb 11,15-19](/de/expl/content/witnesses/the-two-witnesses#3cd4) |
 | {{% bible val="Offenbarung 11,19" link="rev:11,19" lang="de" %}} | ["Der Bund in der Offenbarung": die Lade seines Bundes](/de/expl/background/israel/gods-covenant#c0f2) |
 | {{% bible val="Offenbarung 11,19" link="rev:11,19" lang="de" %}} | ["Die Zahl 4": Abschluss der Posaunen](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#0f0d) |
 | {{% bible val="Offenbarung 11,19" link="rev:11,19" lang="de" %}} | ["In der Offenbarung": Der Tempel Gottes im Himmel wurde geöffnet, und die Lade seines Bundes wurde in seinem Tempel sichtbar](/de/expl/bible/creation/the-story-of-uzzah#in-der-offenbarung) |
@@ -535,7 +546,7 @@ docType: expl
 | {{% bible val="Offenbarung 13" link="rev:13" lang="de" %}} | ["Die Große Trübsal": Tiere von Kapitel 13](/de/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
 | {{% bible val="Offenbarung 13" link="rev:13" lang="de" %}} | ["Der Kontext der ersten Leser": beiden Tiere in der Offenbarung](/de/expl/content/beasts/666-the-number-of-the-beast#a261) |
 | {{% bible val="Offenbarung 13" link="rev:13" lang="de" %}} | ["6–6–6: Das Versagen der bösen Dreifaltigkeit": Offb. 13](/de/expl/content/beasts/666-the-number-of-the-beast#497d) |
-| {{% bible val="Offenbarung 13" link="rev:13" lang="de" %}} | ["Der Text": Offb.12/17–13–18](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a679) |
+| {{% bible val="Offenbarung 13" link="rev:13" lang="de" %}} | ["Der Text": Offb 12,17–13,18](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a679) |
 | {{% bible val="Offenbarung 13" link="rev:13" lang="de" %}} | ["Die Beschreibung des Teufels": Er versucht, die übrigen Nachkommen der Frau, die Gemeinde, zu vernichten, und scheitert auch dabei](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#7b88) |
 | {{% bible val="Offenbarung 13" link="rev:13" lang="de" %}} | ["Der Charakter der Hure": ersten Tier aus Kapitel 13](/de/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
 | {{% bible val="Offenbarung 13" link="rev:13" lang="de" %}} | ["Die 144.000": Seine Verfolgung und Unterdrückung durch die beiden Tiere](/de/expl/content/harvest/gods-army-and-the-seven-angels#67e8) |
@@ -732,6 +743,7 @@ docType: expl
 | {{% bible val="Offenbarung 15,1-5" link="rev:15,1-5" lang="de" %}} | ["Der Hintergrund": im Thronsaal Gottes](/de/expl/content/bowls/the-bowls-of-wrath#a84e) |
 | {{% bible val="Offenbarung 15,2" link="rev:15,2" lang="de" %}} | ["Was das Thema wirklich trägt": stehen am gläsernen Meer](/de/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Offenbarung 15,2-3" link="rev:15,2-3" lang="de" %}} | ["Der neue Auszug in der Offenbarung": das Lied Moses, des Knechtes Gottes, und das Lied des Lammes](/de/expl/background/israel/the-second-exodus#x0d1) |
+| {{% bible val="Offenbarung 15,2-4" link="rev:15,2-4" lang="de" %}} | ["Der Thronsaal": 15,2–4](/de/expl/content/worship/worship-in-the-throne-room#0938) |
 | {{% bible val="Offenbarung 15,3-4" link="rev:15,3-4" lang="de" %}} | ["Das Lied des Mose": Groß und wunderbar sind deine Werke, Herr, Gott, du Allmächtiger. Gerecht und wahrhaftig sind deine Wege, König der Nationen. Wer wird dich nicht fürchten, Herr, und deinen Namen preisen? Denn du allein bist heilig. Alle Nationen werden kommen und vor dir anbeten, denn deine gerechten Taten sind offenbar geworden.](/de/expl/content/harvest/gods-army-and-the-seven-angels#6689) |
 | {{% bible val="Offenbarung 15,6-7" link="rev:15,6-7" lang="de" %}} | ["Der Hintergrund": ihnen die Zornesschalen](/de/expl/content/bowls/the-bowls-of-wrath#a84e) |
 | {{% bible val="Offenbarung 15,7" link="rev:15,7" lang="de" %}} | ["Die Kombination 4x7": 15,7](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#1ee7) |
@@ -740,6 +752,7 @@ docType: expl
 | {{% bible val="Offenbarung 16,2-9" link="rev:16,2-9" lang="de" %}} | ["Die Zahl 4": vier Schalen, die über Land, Meer, Flüsse und Sonne ausgegossen werden](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#0f0d) |
 | {{% bible val="Offenbarung 16,3-7" link="rev:16,3-7" lang="de" %}} | ["Die Schalen": Die zweite und dritte Schale](/de/expl/content/bowls/the-bowls-of-wrath#9855) |
 | {{% bible val="Offenbarung 16,5-7" link="rev:16,5-7" lang="de" %}} | ["Der Hintergrund": das Urteil des Altars selbst deutlich macht: 'Wahrhaftig und gerecht sind deine Gerichte'](/de/expl/content/bowls/the-bowls-of-wrath#a84e) |
+| {{% bible val="Offenbarung 16,7" link="rev:16,7" lang="de" %}} | ["Der Hintergrund": Wahrhaftig und gerecht sind deine Gerichte](/de/expl/content/bowls/the-bowls-of-wrath#a84e) |
 | {{% bible val="Offenbarung 16,8-11" link="rev:16,8-11" lang="de" %}} | ["Die Schalen": Die vierte und die fünfte Schale](/de/expl/content/bowls/the-bowls-of-wrath#9855) |
 | {{% bible val="Offenbarung 16,8-11" link="rev:16,8-11" lang="de" %}} | ["Die fünfte und sechste Posaune": vierten und fünften Schale wieder auftaucht, wo die Menschen sich erneut weigern, Buße zu tun, und Gott verfluchen](/de/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Offenbarung 16,9" link="rev:16,9" lang="de" %}} | ["Niederlage wird zum Sieg": die von den Plagen Getroffenen fluchen Gott und weigern sich, Buße zu tun und ihm die Ehre zu geben](/de/expl/content/witnesses/the-two-witnesses#5f50) |
@@ -785,8 +798,8 @@ docType: expl
 | {{% bible val="Offenbarung 17,1" link="rev:17,1" lang="de" %}} | ["Andere Zahlen": 17,1](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#8d23) |
 | {{% bible val="Offenbarung 17,1" link="rev:17,1" lang="de" %}} | ["Die Hure": 17,1](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 17,1" link="rev:17,1" lang="de" %}} | ["Die Kernlehre": 17,1](/de/sermons/deep-dive/intro/03-symbol-or-literal#die-kernlehre) |
-| {{% bible val="Offenbarung 17,1-2" link="rev:17,1-2" lang="de" %}} | ["Die Hure": Offb.17/1-2](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Offenbarung 17,1-2" link="rev:17,1-2" lang="de" %}} | ["Die Hure": Offb.17/1-2](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="Offenbarung 17,1-2" link="rev:17,1-2" lang="de" %}} | ["Die Hure": Offb 17,1-2](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="Offenbarung 17,1-2" link="rev:17,1-2" lang="de" %}} | ["Die Hure": Offb 17,1-2](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 17,1-2" link="rev:17,1-2" lang="de" %}} | ["Der erste Eindruck": 17,1–2](/de/expl/content/paradise/the-new-jerusalem#c99e) |
 | {{% bible val="Offenbarung 17,1-13" link="rev:17,1-13" lang="de" %}} | ["Die Ekphrasis": erste Hälfte von Kapitel 17](/de/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#d4d3) |
 | {{% bible val="Offenbarung 17,2" link="rev:17,2" lang="de" %}} | ["Das Geheimnis ihres Falls": kontrolliert die Könige](/de/expl/content/harlot/the-character-and-destiny-of-the-harlot#a995) |
@@ -801,7 +814,7 @@ docType: expl
 | {{% bible val="Offenbarung 17,3" link="rev:17,3" lang="de" %}} | ["Die Hure": 17,3](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 17,3" link="rev:17,3" lang="de" %}} | ["Die Hure und das zweite Tier": Sitzt auf dem Tier](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 17,4" link="rev:17,4" lang="de" %}} | ["Die Hure": 17,4](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Offenbarung 17,4" link="rev:17,4" lang="de" %}} | ["Die Hure": Offb.17/4](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="Offenbarung 17,4" link="rev:17,4" lang="de" %}} | ["Die Hure": Offb 17,4](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 17,4" link="rev:17,4" lang="de" %}} | ["Der religiöse Aspekt": 17](/de/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Offenbarung 17,4" link="rev:17,4" lang="de" %}} | ["Die am prächtigsten herausgeputzte Gestalt im ganzen Buch": 'Die Frau war mit Purpur und Scharlach bekleidet und funkelte von Gold, Edelsteinen und Perlen. Sie hielt einen goldenen Becher in der Hand, gefüllt mit Gräueln und dem Schmutz ihrer Unzucht.'](/de/sermons/prosperity-gospel-module/conflict/03-the-harlot-as-glamorized-empire#die-am-prächtigsten-herausgeputzte-gestalt-im-ganzen-buch) |
 | {{% bible val="Offenbarung 17,4-5" link="rev:17,4-5" lang="de" %}} | ["Der erste Eindruck": 17,4–5](/de/expl/content/paradise/the-new-jerusalem#c99e) |
@@ -811,7 +824,7 @@ docType: expl
 | {{% bible val="Offenbarung 17,5" link="rev:17,5" lang="de" %}} | ["Die Hure": 17,5](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 17,5" link="rev:17,5" lang="de" %}} | ["Die Hure": 17,5](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 17,5" link="rev:17,5" lang="de" %}} | ["Die Hure": 17,5](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Offenbarung 17,5" link="rev:17,5" lang="de" %}} | ["Die Hure": Offb.17/5](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="Offenbarung 17,5" link="rev:17,5" lang="de" %}} | ["Die Hure": Offb 17,5](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 17,5" link="rev:17,5" lang="de" %}} | ["Die Hure und das zweite Tier": Trägt einen Namen auf der eigenen Stirn](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 17,5" link="rev:17,5" lang="de" %}} | ["Der religiöse Aspekt": Babel, die Große, Mutter der Huren und der Gräuel der Erde](/de/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Offenbarung 17,5" link="rev:17,5" lang="de" %}} | ["Der erste Eindruck": 17,5](/de/expl/content/paradise/the-new-jerusalem#c99e) |
@@ -834,6 +847,7 @@ docType: expl
 | {{% bible val="Offenbarung 17,8" link="rev:17,8" lang="de" %}} | ["Das scharlachrote Tier": war und nicht ist und aus dem Abgrund heraufsteigen und ins Verderben gehen wird](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung 17,8" link="rev:17,8" lang="de" %}} | ["Das scharlachrote Tier": war und nicht ist und doch kommen wird](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung 17,8" link="rev:17,8" lang="de" %}} | ["Der erste Eindruck": 17,8](/de/expl/content/paradise/the-new-jerusalem#c99e) |
+| {{% bible val="Offenbarung 17,9" link="rev:17,9" lang="de" %}} | ["Diese Werkzeuge in der Offenbarung": 17,9](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#r3v1) |
 | {{% bible val="Offenbarung 17,9" link="rev:17,9" lang="de" %}} | ["Die sieben Hügel und die sieben Könige": sieben Hügel](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#09b7) |
 | {{% bible val="Offenbarung 17,9-11" link="rev:17,9-11" lang="de" %}} | ["Präteristisch": sieben Könige](/de/expl/background/literature/preterist-historicist-futurist-or-idealist#p1a1) |
 | {{% bible val="Offenbarung 17,9-11" link="rev:17,9-11" lang="de" %}} | ["Wann sie geschrieben wurde": die Zählung der Könige, von denen fünf gefallen sind, einer ist, und einer noch kommen muss](/de/expl/topics/others/who-wrote-revelation-and-when#c4e7) |
@@ -858,6 +872,7 @@ docType: expl
 | {{% bible val="Offenbarung 17,16" link="rev:17,16" lang="de" %}} | ["Ein kleines Wort mit großen Konsequenzen": im vorherigen Kapitel beschrieben wurde](/de/expl/content/1000y/the-thousand-year-kingdom#b25f) |
 | {{% bible val="Offenbarung 17,16" link="rev:17,16" lang="de" %}} | ["Dasselbe Muster bei den Reitern und der Hure": Kämpft gegen Hure und vernichtet sie](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#ae7b) |
 | {{% bible val="Offenbarung 17,16" link="rev:17,16" lang="de" %}} | ["Das Geheimnis ihres Falls": sie es, die sie vernichten](/de/expl/content/harlot/the-character-and-destiny-of-the-harlot#a995) |
+| {{% bible val="Offenbarung 17,16" link="rev:17,16" lang="de" %}} | ["Die Münze": gegen die Hure wendet und sie vernichtet](/de/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#12e6) |
 | {{% bible val="Offenbarung 17,16" link="rev:17,16" lang="de" %}} | ["Das scharlachrote Tier": Kämpft gegen Hure und vernichtet sie](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#0e13) |
 | {{% bible val="Offenbarung 17,16" link="rev:17,16" lang="de" %}} | ["Die Hure": 17,16](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 17,16" link="rev:17,16" lang="de" %}} | ["Der religiöse Aspekt": beschämt endet wie Babel](/de/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
@@ -865,7 +880,7 @@ docType: expl
 | {{% bible val="Offenbarung 17,17" link="rev:17,17" lang="de" %}} | ["Das Geheimnis ihres Falls": Die einfachste Antwort ist, dass Gott es ihnen ins Herz gegeben hat](/de/expl/content/harlot/the-character-and-destiny-of-the-harlot#a995) |
 | {{% bible val="Offenbarung 17,17" link="rev:17,17" lang="de" %}} | ["Die Hure": Gott hat es ins Herz gelegt, die Hure zu vernichten](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 17,18" link="rev:17,18" lang="de" %}} | ["Die Hure": 17,18](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Offenbarung 17,18" link="rev:17,18" lang="de" %}} | ["Die Hure": Offb.17/18](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="Offenbarung 17,18" link="rev:17,18" lang="de" %}} | ["Die Hure": Offb 17,18](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 17,18" link="rev:17,18" lang="de" %}} | ["Der erste Eindruck": 17,18](/de/expl/content/paradise/the-new-jerusalem#c99e) |
 | {{% bible val="Offenbarung 18" link="rev:18" lang="de" %}} | ["Aus welchem Becher trinkst du?": 18](/de/appl/content/harlot) |
 | {{% bible val="Offenbarung 18" link="rev:18" lang="de" %}} | ["Die Auflösung": Kapitel 18](/de/expl/content/seals/the-mystery-of-the-four-horse-men#8d71) |
@@ -879,6 +894,7 @@ docType: expl
 | {{% bible val="Offenbarung 18,3" link="rev:18,3" lang="de" %}} | ["Die internen Features": die Art von Ruhm und Reichtum, die sie einst von Babel bezogen](/de/expl/content/paradise/the-new-jerusalem#284a) |
 | {{% bible val="Offenbarung 18,4" link="rev:18,4" lang="de" %}} | ["Aus welchem Becher trinkst du?": Offenbarung 18,4](/de/appl/content/harlot) |
 | {{% bible val="Offenbarung 18,4" link="rev:18,4" lang="de" %}} | ["Der Charakter der Hure": und wir müssen es verlassen](/de/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
+| {{% bible val="Offenbarung 18,4" link="rev:18,4" lang="de" %}} | ["Die Ekphrasis": geht hinaus aus ihr, mein Volk](/de/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#d4d3) |
 | {{% bible val="Offenbarung 18,4" link="rev:18,4" lang="de" %}} | ["Ist Babel die abgefallene Gemeinde?": damit du gezwungen bist, immer weiter zu reflektieren und Tag für Tag aus ihr herauszutreten](/de/expl/content/harlot/who-is-the-harlot-babylon-part-2#738a) |
 | {{% bible val="Offenbarung 18,4" link="rev:18,4" lang="de" %}} | ["Der erste Eindruck": 18,4](/de/expl/content/paradise/the-new-jerusalem#c99e) |
 | {{% bible val="Offenbarung 18,4" link="rev:18,4" lang="de" %}} | ["Ihre Wirkung und ihr Gericht": Offenbarung 18,4](/de/quick/content/harlot#ihre-wirkung-und-ihr-gericht) |
@@ -887,7 +903,7 @@ docType: expl
 | {{% bible val="Offenbarung 18,6" link="rev:18,6" lang="de" %}} | ["Das Gericht": doppelt für ihre Taten vergolten](/de/expl/content/harlot/the-character-and-destiny-of-the-harlot#db66) |
 | {{% bible val="Offenbarung 18,7" link="rev:18,7" lang="de" %}} | ["Arithmetische Betrachtungen": Ich throne als Königin … Trauer werde ich nicht sehen](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#f042) |
 | {{% bible val="Offenbarung 18,7" link="rev:18,7" lang="de" %}} | ["Der Charakter der Hure": Sie sieht sich selbst als unantastbar](/de/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
-| {{% bible val="Offenbarung 18,7" link="rev:18,7" lang="de" %}} | ["Die Hure": Offb.18/7](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="Offenbarung 18,7" link="rev:18,7" lang="de" %}} | ["Die Hure": Offb 18,7](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 18,7" link="rev:18,7" lang="de" %}} | ["Der erste Eindruck": 18,7](/de/expl/content/paradise/the-new-jerusalem#c99e) |
 | {{% bible val="Offenbarung 18,8" link="rev:18,8" lang="de" %}} | ["Der religiöse Aspekt": das ist das Gericht, das über Babel kommt](/de/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Offenbarung 18,9" link="rev:18,9" lang="de" %}} | ["Das Geheimnis ihres Falls": weinen anschließend über sie](/de/expl/content/harlot/the-character-and-destiny-of-the-harlot#a995) |
@@ -907,8 +923,8 @@ docType: expl
 | {{% bible val="Offenbarung 18,16" link="rev:18,16" lang="de" %}} | ["Die Hure": 18,16](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 18,16" link="rev:18,16" lang="de" %}} | ["Der religiöse Aspekt": 18](/de/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Offenbarung 18,17" link="rev:18,17" lang="de" %}} | ["Der Charakter der Hure": Verlust ihres Handels](/de/expl/content/harlot/the-character-and-destiny-of-the-harlot#8e26) |
-| {{% bible val="Offenbarung 18,17" link="rev:18,17" lang="de" %}} | ["Die Hure": Offb.18/17](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="Offenbarung 18,19" link="rev:18,19" lang="de" %}} | ["Die Hure": Offb.18/19](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="Offenbarung 18,17" link="rev:18,17" lang="de" %}} | ["Die Hure": Offb 18,17](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="Offenbarung 18,19" link="rev:18,19" lang="de" %}} | ["Die Hure": Offb 18,19](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="Offenbarung 18,19" link="rev:18,19" lang="de" %}} | ["Die ersten vier Posaunen": das durch die Seefahrt reich wurde](/de/expl/content/trumpets/the-trumpets-in-revelation#e565) |
 | {{% bible val="Offenbarung 18,20" link="rev:18,20" lang="de" %}} | ["Knotenpunkt 1: zweimal lebendig werden, ein Verb": 18,20](/de/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Offenbarung 18,21" link="rev:18,21" lang="de" %}} | ["Andere Zahlen": 18,21](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#8d23) |
@@ -934,12 +950,13 @@ docType: expl
 | {{% bible val="Offenbarung 19,11-12" link="rev:19,11-12" lang="de" %}} | ["Das Geheimnis des ersten Reiters": siegreichen Reiter auf einem weißen Pferd mit einer Krone auf seinem Haupt](/de/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="Offenbarung 19,11-21" link="rev:19,11-21" lang="de" %}} | ["Ein kleines Wort mit großen Konsequenzen": der letzten Schlacht](/de/expl/content/1000y/the-thousand-year-kingdom#b25f) |
 | {{% bible val="Offenbarung 19,11-21" link="rev:19,11-21" lang="de" %}} | ["Zwei letzte Schlachten?": Jesu Schlacht 'vor' dem tausendjährigen Reich](/de/expl/content/1000y/the-thousand-year-kingdom#4257) |
-| {{% bible val="Offenbarung 19,11-21" link="rev:19,11-21" lang="de" %}} | ["Armageddon und Karkemisch": von Jesus besiegt wird](/de/expl/content/bowls/armageddon-and-the-battle-of-karkemish#b3c1) |
+| {{% bible val="Offenbarung 19,11-21" link="rev:19,11-21" lang="de" %}} | ["Armageddon und Karkemisch": von Jesus](/de/expl/content/bowls/armageddon-and-the-battle-of-karkemish#b3c1) |
 | {{% bible val="Offenbarung 19,11-21" link="rev:19,11-21" lang="de" %}} | ["Harmagedon": Offenbarung 19,11-21](/de/quick/content/bowls#harmagedon) |
 | {{% bible val="Offenbarung 19,12" link="rev:19,12" lang="de" %}} | ["Arithmetische Betrachtungen": vielen Kronen](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#f042) |
 | {{% bible val="Offenbarung 19,14" link="rev:19,14" lang="de" %}} | ["Ein kleines Wort mit großen Konsequenzen": kämpfte Jesus die Schlacht nach der Hochzeit](/de/expl/content/1000y/the-thousand-year-kingdom#b25f) |
 | {{% bible val="Offenbarung 19,15" link="rev:19,15" lang="de" %}} | ["Zwei letzte Schlachten?": Schwert](/de/expl/content/1000y/the-thousand-year-kingdom#4257) |
-| {{% bible val="Offenbarung 19,15" link="rev:19,15" lang="de" %}} | ["Das Kind": Offb.19/15](/de/expl/content/jesus/a-different-christmas-story#a89c) |
+| {{% bible val="Offenbarung 19,15" link="rev:19,15" lang="de" %}} | ["Das Kind": Offb 19,15](/de/expl/content/jesus/a-different-christmas-story#a89c) |
+| {{% bible val="Offenbarung 19,15" link="rev:19,15" lang="de" %}} | ["Die Vision": 19,15.21](/de/expl/content/vision/the-vision#7855) |
 | {{% bible val="Offenbarung 19,17-18" link="rev:19,17-18" lang="de" %}} | ["Zwei letzte Schlachten?": Offenbarung 19](/de/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Offenbarung 19,17-21" link="rev:19,17-21" lang="de" %}} | ["Weitere Argumente für eine Schlacht": Kapitel 19](/de/expl/content/1000y/the-thousand-year-kingdom#6a0c) |
 | {{% bible val="Offenbarung 19,17-21" link="rev:19,17-21" lang="de" %}} | ["Weitere Argumente für eine Schlacht": Kapitel 19](/de/expl/content/1000y/the-thousand-year-kingdom#6a0c) |
@@ -1094,6 +1111,7 @@ docType: expl
 | {{% bible val="Offenbarung 21,22-27" link="rev:21,22-27" lang="de" %}} | [Die internen Features](/de/expl/content/paradise/the-new-jerusalem#aef1) |
 | {{% bible val="Offenbarung 21,23" link="rev:21,23" lang="de" %}} | ["Der erste Eindruck": 21,23](/de/expl/content/paradise/the-new-jerusalem#c99e) |
 | {{% bible val="Offenbarung 21,23" link="rev:21,23" lang="de" %}} | ["Die internen Features": dass die Stadt weder Sonne noch Mond braucht](/de/expl/content/paradise/the-new-jerusalem#284a) |
+| {{% bible val="Offenbarung 21,23" link="rev:21,23" lang="de" %}} | ["Die Vision": Gott und das Lamm sind ihr Licht](/de/expl/content/vision/the-vision#7855) |
 | {{% bible val="Offenbarung 21,24" link="rev:21,24" lang="de" %}} | ["Der erste Eindruck": 21,24](/de/expl/content/paradise/the-new-jerusalem#c99e) |
 | {{% bible val="Offenbarung 21,24" link="rev:21,24" lang="de" %}} | ["Die internen Features": Die Nationen werden in ihrem Licht wandeln, und die Könige der Erde werden ihre Pracht in sie bringen](/de/expl/content/paradise/the-new-jerusalem#284a) |
 | {{% bible val="Offenbarung 21,24-26" link="rev:21,24-26" lang="de" %}} | ["Der erste Eindruck": 21,24–26](/de/expl/content/paradise/the-new-jerusalem#c99e) |

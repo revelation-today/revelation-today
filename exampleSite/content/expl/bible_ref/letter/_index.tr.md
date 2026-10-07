@@ -4,4 +4,4 @@ weight: 7
 docType: expl
 ---
 
-Bu kategoride kullanılan 136 Kutsal Kitap pasajı vardır
+Bu kategoride kullanılan 140 Kutsal Kitap pasajı vardır

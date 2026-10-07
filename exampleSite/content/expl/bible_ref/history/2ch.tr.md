@@ -4,12 +4,13 @@ weight: 13
 docType: expl
 ---
 
-Bu kitapta kullanılan 10 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 11 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
 | {{% bible val="2.Tarihler 2:13-14" link="2ch:2,13-14" lang="tr" %}} | ["Dini yönü": ama aynı zamanda tapınakta kullanılanlar](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-2#bc8e) |
-| {{% bible val="2.Tarihler 21:13" link="2ch:21,13" lang="tr" %}} | ["Fahişe": 2 Tar.21/13](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="2.Tarihler 21:13" link="2ch:21,13" lang="tr" %}} | ["Fahişe": 2 Tar 21:13](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#b45d) |
+| {{% bible val="2.Tarihler 35:20-24" link="2ch:35,20-24" lang="tr" %}} | ["Armageddon ve Karkamış": Tarihler, Neko'nun sözleri Tanrı'nın ağzından geldiği hâlde onun yine de sefere çıktığını ve dinlemediğini söyler](/tr/expl/content/bowls/armageddon-and-the-battle-of-karkemish#f9f7) |
 | {{% bible val="2.Tarihler 35:20-24" link="2ch:35,20-24" lang="tr" %}} | ["Armagedon": 2. Tarihler 35:20-24](/tr/quick/content/bowls#armagedon) |
 | {{% bible val="2.Tarihler 35:20-25" link="2ch:35,20-25" lang="tr" %}} | ["Karkamış'tan önceki hikâye": Megiddo yakınlarında Yahuda Kralı Yoşiya'nın Mısır Firavunu Neko'ya karşı savaştığı bir çarpışma yaşandı](/tr/expl/content/bowls/armageddon-and-the-battle-of-karkemish#f7c8) |
 | {{% bible val="2.Tarihler 35:22-25" link="2ch:35,22-25" lang="tr" %}} | ["Bulutlarla birlikte geliyor": kralları Yoşiya için tutulan yasla](/tr/expl/content/vision/setting-the-foundation#4542) |

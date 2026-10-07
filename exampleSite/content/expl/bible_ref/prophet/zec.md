@@ -4,7 +4,7 @@ weight: 37
 docType: expl
 ---
 
-20 bible verses have been used in this book.
+21 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -27,4 +27,5 @@ docType: expl
 | {{% bible val="Zechariah 6:1-8" link="zec:6,1-8" lang="en" %}} | ["First observations": four chariots of different colors are the four winds of heaven](/expl/content/seals/the-mystery-of-the-four-horse-men#0edc) |
 | {{% bible val="Zechariah 12" link="zec:12" lang="en" %}} | ["Two final battles?": Zechariah](/expl/content/1000y/the-thousand-year-kingdom#1767) |
 | {{% bible val="Zechariah 12:10-11" link="zec:12,10-11" lang="en" %}} | ["Coming with the clouds": And I will pour out on the house of David and the inhabitants of Jerusalem a spirit of grace and supplication. They will look on me, the one they have pierced, and they will mourn for him as one mourns for an only child, and grieve bitterly for him as one grieves for a firstborn son. On that day the weeping in Jerusalem will be as great as the weeping of Hadad Rimmon in the plain of Megiddo.](/expl/content/vision/setting-the-foundation#e267) |
+| {{% bible val="Zechariah 14:1-9" link="zec:14,1-9" lang="en" %}} | ["Origin of the Day of the Lord": Zechariah 14:1-9](/expl/background/israel/the-day-of-the-lord#674e) |
 | {{% bible val="Zechariah 14:8" link="zec:14,8" lang="en" %}} | ["Symbols of God's presence": river that flows when Jerusalem is rebuilt](/expl/content/paradise/the-new-jerusalem#38e5) |

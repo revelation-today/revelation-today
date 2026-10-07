@@ -4,7 +4,7 @@ weight: 1
 docType: expl
 ---
 
-125 bible verses have been used in this book.
+126 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -81,6 +81,7 @@ docType: expl
 | {{% bible val="Exodus 12:12" link="exo:12,12" lang="en" %}} | ["Why the plagues of Egypt?": the gods of Egypt](/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
 | {{% bible val="Exodus 12:12" link="exo:12,12" lang="en" %}} | ["The Core Teaching": Exodus 12:12](/sermons/deep-dive/intro/15-the-exodus-pattern-moses-pharaoh-and-the-plagues#the-core-teaching) |
 | {{% bible val="Exodus 12:14-20" link="exo:12,14-20" lang="en" %}} | ["The death of the firstborn": the Feast of Unleavened Bread is introduced](/expl/bible/exodus/the-plagues-in-egypt#e181) |
+| {{% bible val="Exodus 12:15" link="exo:12,15" lang="en" %}} | ["The teachings of Jesus": Exodus 12:15](/expl/background/israel/jesus-and-the-covenant#b343) |
 | {{% bible val="Exodus 12:35-36" link="exo:12,35-36" lang="en" %}} | ["The fight against a second Hyksos": when they leave Egypt](/expl/bible/exodus/the-birth-of-moses#f92d) |
 | {{% bible val="Exodus 12:37" link="exo:12,37" lang="en" %}} | ["Never again": the Israelites eventually moved out from](/expl/bible/exodus/the-story-before-the-exodus#dc6a) |
 | {{% bible val="Exodus 12:38" link="exo:12,38" lang="en" %}} | ["Origin of the Day of the Lord": took with them many other people who became part of Israel](/expl/background/israel/the-day-of-the-lord#674e) |
@@ -131,5 +132,5 @@ docType: expl
 | {{% bible val="Exodus 28:36-38" link="exo:28,36-38" lang="en" %}} | ["Symbols of God's presence": originally worn on the priest's forehead](/expl/content/paradise/the-new-jerusalem#38e5) |
 | {{% bible val="Exodus 30:7" link="exo:30,7" lang="en" %}} | ["The vision": responsibility to tend the lampstands](/expl/content/vision/the-vision#7487) |
 | {{% bible val="Exodus 34:5-7" link="exo:34,5-7" lang="en" %}} | ["Jerusalem the Holy city": God's glory is his goodness, merciful and just](/expl/content/paradise/the-new-jerusalem#c358) |
-| {{% bible val="Exodus 34:5-7" link="exo:34,5-7" lang="en" %}} | ["The throne room": When Moses asked to see God's glory, he could not — but God let his goodness pass by and proclaimed his name: merciful and gracious, yet one who will not leave the guilty unpunished. God's glory holds mercy and justice together](/expl/content/worship/worship-in-the-throne-room#2a89) |
+| {{% bible val="Exodus 34:5-7" link="exo:34,5-7" lang="en" %}} | ["The throne room": proclaimed his own name](/expl/content/worship/worship-in-the-throne-room#2a89) |
 | {{% bible val="Exodus 34:28" link="exo:34,28" lang="en" %}} | ["Some basics": Moses fasted for 40 days when he received the Law at Mount Sinai](/expl/content/beasts/666-the-number-of-the-beast#0630) |
