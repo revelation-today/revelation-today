@@ -126,9 +126,15 @@ Wenn du mehr über die Schöpfungsgeschichte wissen willst, solltest du [dieses 
 
 <a name="sarna_exo"></a>
 
-### Nahum Sarna: Exodus
+### Nahum Sarna: Exploring Exodus
 
 Wenn du mehr zum Auszug aus Ägypten wissen willst, wird [dieses Buch](https://www.amazon.de/-/en/Nahum-M-Sarna/dp/0805210636) für dich sicher interessant sein.
+
+<a name="braeumer_exo"></a>
+
+### Hansjörg Bräumer: Das zweite Buch Mose, Kapitel 1–18
+
+Der Band der Wuppertaler Studienbibel zu 2. Mose 1–18. Von hier stammt der ägyptisch-religiöse Hintergrund der Plagen, jeweils mit eigenen Quellenangaben.
 
 <a name="daniel"></a>
 

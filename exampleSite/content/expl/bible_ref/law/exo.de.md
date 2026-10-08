@@ -4,7 +4,7 @@ weight: 1
 docType: expl
 ---
 
-125 Bibelstellen wurden in diesem Buch verwendet.
+128 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -42,10 +42,12 @@ docType: expl
 | {{% bible val="2.Mose 8,1-15" link="exo:8,1-15" lang="de" %}} | [2, Frösche](/de/expl/bible/exodus/the-plagues-in-egypt#b532) |
 | {{% bible val="2.Mose 8,1-15" link="exo:8,1-15" lang="de" %}} | ["Die sechste Schale": die zweite Plage Ägyptens](/de/expl/content/bowls/the-bowls-of-wrath#9ced) |
 | {{% bible val="2.Mose 8,16-19" link="exo:8,16-19" lang="de" %}} | [3, Mücken](/de/expl/bible/exodus/the-plagues-in-egypt#83d5) |
+| {{% bible val="2.Mose 8,19" link="exo:8,19" lang="de" %}} | ["Das Muster": das ist der Finger Gottes](/de/expl/bible/exodus/the-plagues-in-egypt#5768) |
 | {{% bible val="2.Mose 8,20-32" link="exo:8,20-32" lang="de" %}} | [4, Fliegen](/de/expl/bible/exodus/the-plagues-in-egypt#7c93) |
 | {{% bible val="2.Mose 8,22-23" link="exo:8,22-23" lang="de" %}} | ["Warum die Plagen Ägyptens?": wurde das Land Goschen verschont](/de/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
 | {{% bible val="2.Mose 9,1-7" link="exo:9,1-7" lang="de" %}} | [5, Viehseuche](/de/expl/bible/exodus/the-plagues-in-egypt#ec69) |
 | {{% bible val="2.Mose 9,8-12" link="exo:9,8-12" lang="de" %}} | [6, Geschwüre](/de/expl/bible/exodus/the-plagues-in-egypt#4f61) |
+| {{% bible val="2.Mose 9,11" link="exo:9,11" lang="de" %}} | ["Das Muster": nicht mehr vor Mose treten können](/de/expl/bible/exodus/the-plagues-in-egypt#5768) |
 | {{% bible val="2.Mose 9,13-35" link="exo:9,13-35" lang="de" %}} | [7, Hagel](/de/expl/bible/exodus/the-plagues-in-egypt#c6b1) |
 | {{% bible val="2.Mose 9,14" link="exo:9,14" lang="de" %}} | ["7, Hagel": Gott schlägt mit der vollen Wucht zu, die er ankündigt](/de/expl/bible/exodus/the-plagues-in-egypt#70b2) |
 | {{% bible val="2.Mose 9,18-21" link="exo:9,18-21" lang="de" %}} | ["Das Muster": brachten ihre Leute in Sicherheit](/de/expl/bible/exodus/the-plagues-in-egypt#5768) |
@@ -63,14 +65,15 @@ docType: expl
 | {{% bible val="2.Mose 10,1-20" link="exo:10,1-20" lang="de" %}} | [8, Heuschrecken](/de/expl/bible/exodus/the-plagues-in-egypt#70b2) |
 | {{% bible val="2.Mose 10,5" link="exo:10,5" lang="de" %}} | ["8, Heuschrecken": Heuschrecken kommen und vernichten alles, was der Hagel übrig gelassen hatte](/de/expl/bible/exodus/the-plagues-in-egypt#ae09) |
 | {{% bible val="2.Mose 10,7" link="exo:10,7" lang="de" %}} | ["8, Heuschrecken": flehen die eigenen Beamten des Pharao ihn an, zu tun, was Mose verlangt](/de/expl/bible/exodus/the-plagues-in-egypt#ae09) |
-| {{% bible val="2.Mose 10,7" link="exo:10,7" lang="de" %}} | ["Der Tod der Erstgeburt": des „starken Herzens“ des Pharao](/de/expl/bible/exodus/the-plagues-in-egypt#4f21) |
 | {{% bible val="2.Mose 10,7" link="exo:10,7" lang="de" %}} | ["Die fünfte und sechste Posaune": seine eigenen Beamten dazu brachte, ihn anzuflehen, sich Gott zu unterwerfen](/de/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="2.Mose 10,13-17" link="exo:10,13-17" lang="de" %}} | ["Die fünfte und sechste Posaune": brachte einzugestehen, dass er gesündigt hatte](/de/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="2.Mose 10,16-17" link="exo:10,16-17" lang="de" %}} | ["8, Heuschrecken": die Plagen andauern und der Pharao seine Sünde eingesteht](/de/expl/bible/exodus/the-plagues-in-egypt#ae09) |
 | {{% bible val="2.Mose 10,21-29" link="exo:10,21-29" lang="de" %}} | [9, Finsternis](/de/expl/bible/exodus/the-plagues-in-egypt#ae09) |
 | {{% bible val="2.Mose 10,22-23" link="exo:10,22-23" lang="de" %}} | ["Die ersten vier Posaunen": neunten Plage in Ägypten](/de/expl/content/trumpets/the-trumpets-in-revelation#e565) |
 | {{% bible val="2.Mose 10,23" link="exo:10,23" lang="de" %}} | ["Warum die Plagen Ägyptens?": hatten alle Kinder Israels Licht](/de/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
+| {{% bible val="2.Mose 10,27" link="exo:10,27" lang="de" %}} | ["Der Tod der Erstgeburt": des verhärteten Herzens des Pharao](/de/expl/bible/exodus/the-plagues-in-egypt#4f21) |
 | {{% bible val="2.Mose 10,27-28" link="exo:10,27-28" lang="de" %}} | ["9, Finsternis": stärkt Gott sein Herz so sehr, dass er droht, Mose, Gottes eigenen Boten, beim nächsten Wiedersehen zu töten](/de/expl/bible/exodus/the-plagues-in-egypt#49ef) |
+| {{% bible val="2.Mose 10,28" link="exo:10,28" lang="de" %}} | ["Das Muster": an dem Tag, an dem du mein Gesicht siehst, wirst du sterben](/de/expl/bible/exodus/the-plagues-in-egypt#5768) |
 | {{% bible val="2.Mose 11,3" link="exo:11,3" lang="de" %}} | ["Der Tod der Erstgeburt": bereits auf der Seite des Mose](/de/expl/bible/exodus/the-plagues-in-egypt#4f21) |
 | {{% bible val="2.Mose 12" link="exo:12" lang="de" %}} | ["Hintergrund: Das Exodus-Muster": 2. Mose 12](/de/kids/teens-prep/10-the-exodus-pattern) |
 | {{% bible val="2.Mose 12,1-13" link="exo:12,1-13" lang="de" %}} | ["Der Tod der Erstgeburt": Passah eingeführt](/de/expl/bible/exodus/the-plagues-in-egypt#4f21) |

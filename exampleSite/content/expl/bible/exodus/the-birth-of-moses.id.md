@@ -6,7 +6,7 @@ prev: /expl/bible/exodus/the-story-before-the-exodus
 next: /expl/bible/exodus/the-hardening-of-pharaohs-heart
 docType: expl
 sources:
-    - pages: 27–37
+    - pages: 24–37
       ref: sarna_exo
     - pages: "vol. 10: 438–439"
       ref: tdot
@@ -23,24 +23,24 @@ Firaun melakukan segala yang ia bisa untuk mencegah orang Israel menjadi bangsa 
 
 | Pandangan Firaun | Kenyataan |
 |------------------|----------|
-| Firaun memandang dirinya sebagai wakil para dewa. | Ia bahkan bukan tokoh kunci dalam kisah ini — namanya sendiri tidak disebutkan, ia diperlakukan seperti pemeran latar, sama seperti para dewa yang diwakilinya, yang juga tidak satu pun disebutkan namanya. Sebaliknya, para pahlawan utama disebutkan namanya, dan kebanyakan dari mereka adalah perempuan — para bidan, ibu dan kakak Musa, bahkan putri Firaun sendiri ({{% bible val="Sifra dan Pua, nama-nama bidan itu" link="exo:1,15" lang="ind" %}}, adalah nama-nama Semit). |
+| Firaun memandang dirinya sebagai wakil para dewa. | Ia bahkan bukan tokoh kunci dalam kisah ini — namanya sendiri tidak disebutkan, ia diperlakukan seperti pemeran latar, sama seperti para dewa yang diwakilinya, yang juga tidak satu pun disebutkan namanya. Sebaliknya, para pahlawan utama disebutkan namanya, dan kebanyakan dari mereka adalah perempuan — para bidan, ibu dan kakak Musa, bahkan putri Firaun sendiri ({{% bible val="Sifra dan Pua, nama-nama bidan itu" link="exo:1,15" lang="ind" %}}, adalah nama-nama Semit).[^names] |
 | Firaun mempekerjakan budak-budak Israel begitu berat sehingga mereka mati. | Sebaliknya, bangsa itu terus bertambah banyak, dan pada saat mereka meninggalkan Mesir, mereka {{% bible val="dipenuhi kekayaan" link="exo:12,35-36" lang="ind" %}}. Mereka akhirnya bukan hanya bebas, tetapi juga dipulihkan martabatnya. |
-| Para bidan diperintahkan untuk membunuh bayi-bayi yang baru lahir. | Mereka menentang Firaun — meskipun mereka perempuan asing dari Asia — dan alih-alih dihukum, mereka {{% bible val="diberkati Allah dengan anak-anak" link="exo:1,21" lang="ind" %}}. |
+| Para bidan diperintahkan untuk membunuh bayi-bayi yang baru lahir. | Mereka menentang Firaun — meskipun mereka perempuan asing dari Asia — dan alih-alih dihukum, mereka {{% bible val="diberkati Allah dengan anak-anak" link="exo:1,21" lang="ind" %}}.[^midwives] |
 | Bayi-bayi yang baru lahir harus dibuang ke sungai Nil. | Musa diletakkan di sungai Nil dalam sebuah peti, menggunakan [kata yang sama](https://biblehub.com/hebrew/strongs_8392.htm) seperti bahtera Nuh, dan ia diselamatkan. |
 | Musa adalah tokoh kunci dalam kisah ini, orang yang akan menjatuhkan Firaun. | Sebaliknya, ia {{% bible val="dibesarkan oleh putri Firaun, sementara ibunya sendiri dibayar untuk menyusuinya" link="exo:2,5-10" lang="ind" %}}. |
 
 ## Kisah Musa
 
 <a name="659b"></a>
-Kisah Musa adalah kebalikan penuh dari kisah kepahlawanan zaman kuno yang khas. Tabel di bawah ini membandingkan pola yang biasa dengan apa yang sesungguhnya terjadi pada Musa.
+Kisah Musa adalah kebalikan penuh dari kisah kepahlawanan zaman kuno yang khas. Tabel di bawah ini membandingkan pola yang biasa dengan apa yang sesungguhnya terjadi pada Musa.[^hero]
 
 | Kisah kepahlawanan yang normal | Kisah Musa |
 |--------------------------|-------------------------|
-| Kisah dimulai ketika sang pahlawan dibuang sebagai bayi (Herkules, Oedipus, Romulus dan Remus, Koresh, ...). | Musa disembunyikan oleh ibunya yang penuh kasih, dan dijaga dengan saksama sampai ia berada dengan aman di tangan yang baik. |
+| Kisah dimulai ketika sang pahlawan dibuang sebagai bayi (Sargon dari Akkad, Herkules, Oedipus, Romulus dan Remus, Koresh, ...). | Musa disembunyikan oleh ibunya yang penuh kasih, dan dijaga dengan saksama sampai ia berada dengan aman di tangan yang baik. Teks mengatakan bahwa ibunya *meletakkan* dia di tepi sungai; kata untuk *membuang* seorang anak justru dipakai bagi perintah Firaun. |
 | Orang yang menemukan bayi itu biasanya berstatus rendah. | Musa dibesarkan oleh putri Firaun dan disusui oleh ibunya sendiri. |
 | Identitas anak itu tidak diketahui dan baru terungkap pada akhir kisah. | Identitas Musa {{% bible val="sudah diketahui putri Firaun sejak awal" link="exo:2,6" lang="ind" %}}. |
 | Terungkapnya identitas sejati sang pahlawan menjadi titik balik yang memberinya status yang layak ia terima. | Identitas sejati Musa justru membawanya ke dalam kesulitan, dan ia harus melarikan diri untuk bertahan hidup. |
-| Alasan kisah ini diceritakan adalah untuk menunjukkan hak sang pahlawan atas kekuasaan. | Kisah ini tidak menunjukkan hak Musa atas kekuasaan, melainkan penyediaan dan kendali Allah. |
+| Alasan kisah ini diceritakan adalah untuk menunjukkan hak sang pahlawan atas kekuasaan. | Kisah ini tidak menunjukkan hak Musa atas kekuasaan, melainkan penyediaan dan kendali Allah. Nama Sargon sendiri memperlihatkan untuk apa genre itu ada: dalam bahasa Akkadia *sharru-ken* berarti “raja itu sah”. |
 
 ## Kelanjutan Kisah Musa
 
@@ -57,6 +57,8 @@ Memercayai Allah adalah sesuatu yang harus ia pelajari. Salah satu contoh yang m
 
 Pada akhirnya semuanya berjalan baik, sebab pahlawan sesungguhnya dalam kisah ini bukanlah Musa, melainkan Allah.
 
-## Menyelami lebih dalam
+[^names]: Sarna, *Exploring Exodus*, hlm. 25. Sifra berasal dari akar kata yang berarti “menjadi cantik” dan muncul dalam sebuah daftar budak rumah tangga Mesir, di mana ia ditandai sebagai orang Asia; Pua adalah nama putri sang pahlawan Danel dalam kesusastraan Ugarit dan berarti sekadar “seorang gadis”. Kontrasnya pun merupakan pokok Sarna: nama perempuan-perempuan rendahan ini dicatat, sementara raja yang mahakuasa itu terus-menerus diselubungi anonimitas — dengan cara itulah penulis Alkitab menyatakan tata nilainya.
 
-{{% int_link val="Nahum Sarna, Exodus, halaman 27–37" link="/about/ressources#sarna_exo" %}}
+[^midwives]: Sarna, *Exploring Exodus*, hlm. 24–25. Ia mencatat bahwa teks Ibrani dapat dibaca dua cara, “bidan-bidan Ibrani” atau “bidan-bidan bagi perempuan Ibrani”, sehingga rumusannya sendiri tidak memastikan apakah mereka perempuan Israel atau Mesir — meskipun aneh jika raja mengharapkan orang Israel membunuh anak-anak lelaki bangsanya sendiri. Sarna menyebut ini kasus pembangkangan sipil demi sebuah tujuan moral yang pertama kali tercatat dalam sejarah.
+
+[^hero]: Perbandingan ini berasal dari Sarna, *Exploring Exodus*, hlm. 30–31, demikian pula kesimpulannya: kemiripan erat yang dianggap ada antara gubahan rakyat itu dan kisah Keluaran sesungguhnya “mengada-ada”; kisah kelahiran Musa menyimpang dari “Legenda Sargon” dan dari genre itu pada umumnya dalam begitu banyak hal penting sehingga “hampir timbul kesan adanya usaha sadar dari penulis Alkitab untuk melepaskan kisah ini dari ciri-ciri yang biasanya khas bagi motif pahlawan temuan”.

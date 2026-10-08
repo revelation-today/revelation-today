@@ -6,6 +6,8 @@ prev: /expl/bible/exodus/the-story-before-the-exodus
 next: /expl/bible/exodus/the-hardening-of-pharaohs-heart
 docType: expl
 sources:
+    - pages: 24–37
+      ref: sarna_exo
     - pages: "vol. 10: 438–439"
       ref: tdot
 ---
@@ -21,24 +23,24 @@ Pharaoh does everything he can to prevent the Israelites from becoming a great p
 
 | Pharaoh’s view | Reality |
 |--------------|---------|
-| Pharaoh sees himself as representative of the gods. | He is not even a key character in the story — he isn't mentioned by name, treated like a background actor, just like the gods he represents, none of whom are named either. The main heroes, by contrast, are named, and they are mostly women — the midwives, Moses' mother and sister, and even Pharaoh's own daughter ({{% bible val="Shiphrah and Puah, the names of the midwives" link="exo:1,15" lang="en" %}}, are Semitic names). |
+| Pharaoh sees himself as representative of the gods. | He is not even a key character in the story — he isn't mentioned by name, treated like a background actor, just like the gods he represents, none of whom are named either. The main heroes, by contrast, are named, and they are mostly women — the midwives, Moses' mother and sister, and even Pharaoh's own daughter ({{% bible val="Shiphrah and Puah, the names of the midwives" link="exo:1,15" lang="en" %}}, are Semitic names).[^names] |
 | Pharaoh works the Israelite slaves so hard that they die off. | Instead, the people keep increasing in number, and by the time they leave Egypt they are loaded with riches {{% bible val="when they leave Egypt" link="exo:12,35-36" lang="en" %}}. They end up not only free but restored in dignity. |
-| The midwives are ordered to kill the newborn babies. | They defy Pharaoh — as foreign Asian women, no less — and instead of being punished, they are {{% bible val="blessed by God with children" link="exo:1,21" lang="en" %}}. |
+| The midwives are ordered to kill the newborn babies. | They defy Pharaoh — as foreign Asian women, no less — and instead of being punished, they are {{% bible val="blessed by God with children" link="exo:1,21" lang="en" %}}.[^midwives] |
 | Newborn babies should be thrown into the Nile. | Moses is placed into the Nile in a basket, using [the same word](https://biblehub.com/hebrew/strongs_8392.htm) as Noah’s Ark, and he is saved. |
 | Moses is the key figure in the story, the one who will bring down Pharaoh. | Instead he is {{% bible val="raised by Pharaoh’s daughter, with his own mother paid to nurse him" link="exo:2,5-10" lang="en" %}}. |
 
 ## The story of Moses
 
 <a name="6f9c"></a>
-The story of Moses is the complete opposite of the typical ancient hero story. The table below sets the usual pattern against what actually happens to Moses.
+The story of Moses is the complete opposite of the typical ancient hero story. The table below sets the usual pattern against what actually happens to Moses.[^hero]
 
 | Normal hero story | Moses story |
 |-------------------|-------------|
-| The story begins when the hero is abandoned as a baby (Hercules, Oedipus, Romulus and Remus, Cyrus, …). | Moses is hidden by his loving mother, with careful watch kept over him until he is safely in good hands. |
+| The story begins when the hero is abandoned as a baby (Sargon of Akkad, Hercules, Oedipus, Romulus and Remus, Cyrus, …). | Moses is hidden by his loving mother, with careful watch kept over him until he is safely in good hands. The text says his mother *placed* him by the river; the verb for *abandoning* a child is the one used of Pharaoh’s order. |
 | The finder of the child is usually of low status. | Moses is raised by Pharaoh’s daughter and nursed by his own mother. |
 | The identity of the child is unknown and is not revealed until the end. | Moses’ identity is {{% bible val="known from the very beginning by Pharaoh’s daughter" link="exo:2,6" lang="en" %}}. |
 | The discovery of his true identity is the turning point that gives him the status he deserves. | Moses’ true identity instead gets him into trouble, and he has to flee to survive. |
-| The reason for telling the story is to show the hero’s claim to power. | The story shows not Moses’ claim to power, but God’s provision and control. |
+| The reason for telling the story is to show the hero’s claim to power. | The story shows not Moses’ claim to power, but God’s provision and control. Sargon’s own name says what the genre is for: in Akkadian *sharru-ken* means “the king is legitimate”. |
 
 ## The further story of Moses
 
@@ -55,7 +57,8 @@ Trusting God is something he has to learn. One telling example comes {{% bible v
 
 In the end it all works out, because the real hero of the story was never Moses, but God.
 
-## Dig deeper
+[^names]: Sarna, *Exploring Exodus*, p. 25. Shiphrah comes from a stem meaning “to be beautiful” and turns up in a list of slaves of an Egyptian household, where she is marked as an Asiatic; Puah is the name of the daughter of the hero Danel in Ugaritic literature and simply means “a girl”. The contrast is Sarna’s point as well: “the names of these lowly women are recorded whereas, by contrast, the all-powerful reigning monarch is consistently veiled in anonymity. In this way the biblical narrator expresses his scale of values.”
 
-{{% int_link val="Nahum Sarna, Exodus, pages 27–37" link="/about/ressources#sarna_exo" %}}
+[^midwives]: Sarna, *Exploring Exodus*, pp. 24–25, who notes that the Hebrew can be read either way, “Hebrew midwives” or “midwives of the Hebrew women”, so the wording alone does not settle whether they were Israelite or Egyptian — though it would have been strange for the king to expect Israelites to kill the boys of their own people. He calls this “history’s first recorded case of civil disobedience in defense of a moral cause”.
 
+[^hero]: The comparison is Sarna’s, *Exploring Exodus*, pp. 30–31, and so is the verdict: “the supposed close affinities between this folkloristic composition and our Exodus narrative are fanciful… the story of Moses’ birth departs from ‘The Legend of Sargon’ and from the genre in general in so many significant respects that one almost gets the impression of a conscious attempt on the part of the biblical narrator to dissociate this narrative from the features otherwise characteristic of the foundling hero motif.”

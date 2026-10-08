@@ -13,8 +13,10 @@ deeper:
     - name: Kalbin katılaşması
       link:  /expl/bible/exodus/the-hardening-of-pharaohs-heart
 sources:
-    - pages: 38–80
+    - pages: 63–81
       ref: sarna_exo
+    - pages: 140–169
+      ref: braeumer_exo
     - pages: 465, 481, 717, 833
       ref: beale_rev
     - pages: "vol. 13: 371"
@@ -49,12 +51,12 @@ Belalar, yakından incelenmeye değer belirli örüntüler izler.
 - 1–3. belalar rahatsızlık getirir.
 - 4–6. belalar yıkım getirir.
 - 7–9. belalar dehşet getirir.
-- Her grubun ilk belası (1, 4, 7) sabah, Firavun Nil kıyısında “Nil’in sağlığını” kontrol ederken başlar.
+- Her grubun ilk belası (1, 4, 7) sabah, Firavun Nil'e indiğinde duyurulur. Oraya neden gittiği yazılmaz: bir sabah ayini, taşkın mevsiminde Nil tanrısına tapınma ya da yalnızca suyun yüksekliğini ölçmek.
 - Her grubun son belası (3, 6, 9) uyarı yapılmadan gelir.
 
-Asa da kendi örüntüsünü izler: 1–3. belalarda Harun’un asası kullanılır, 4–6. belalarda hiç asa kullanılmaz, 7–9. belalarda ise Musa kendi asasını kullanır.
+Kimin eylediği de kendi örüntüsünü izler: 1–3. belalarda Harun, 4 ve 5'te Tanrı'nın kendisi, 6. beladan itibaren Musa.[^structure]
 
-Büyücüler de bir örüntü izler. 1. ve 2. belaları taklit edebilirler, ama 3. belayı taklit edemezler ve arkasında Tanrı’nın parmağını tanırlar; 6. belaya gelindiğinde ise kendileri öyle ağır biçimde etkilenmiştir ki artık Firavun’un huzuruna bile çıkamazlar.
+Büyücüler de bir örüntü izler. 1. ve 2. belaları taklit edebilirler; 3. belada bunu yapamazlar ve Firavun'a, {{% bible val="bu, Tanrı'nın parmağıdır" link="exo:8,19" lang="tr" %}} derler. 6. belaya gelindiğinde kendileri öyle ağır biçimde etkilenmiştir ki {{% bible val="Musa'nın önüne çıkamaz olurlar" link="exo:9,11" lang="tr" %}}. Üçüncü grubun sonunda ise Firavun bağlantıyı tamamen keser: {{% bible val="yüzümü gördüğün gün öleceksin" link="exo:10,28" lang="tr" %}}. Her üçlü grup, Mısır tarafını bir adım daha geriye düşürür.
 
 Belalar sürdükçe Firavun’un yüreği daha da katılaşır, Musa’nın talepleri de büyür. Ve 4. beladan başlayarak yeni bir ayrım ortaya çıkar: 1–3. belalarda İsrailliler’le Mısırlılar arasında hiçbir çizgi çekilmezken, 4. beladan itibaren ikisi açıkça birbirinden ayrılır.
 
@@ -73,7 +75,7 @@ Vahiy aynı örüntüyü korur. Goşen esirgendiği gibi, Tanrı’nın mühürl
 <a name="d1f4"></a>
 Nil kana dönüşür ve bütün suyu kullanılamaz hale gelir.
 
-Nil, Mısır’ın can damarıdır: yıllık taşkını tarlaları verimli kılar, suyu da halkın yaşam kaynağıdır. Nil tanrısı, Mısır’daki bütün tanrıların babası sayılırdı — ama bu kez sanki boğazlanmış gibi görünür.
+Nil, Mısır’ın can damarıdır: yıllık taşkını tarlaları verimli kılar, suyu da halkın yaşam kaynağıdır. Nil tanrısı, Mısır’daki bütün tanrıların babası sayılırdı[^nile] — ama bu kez sanki boğazlanmış gibi görünür.
 
 ## {{% bible val="2, Kurbağalar" link="exo:8,1-15" lang="tr" %}}
 
@@ -87,7 +89,7 @@ Kurbağalar ülkeyi istila eder ve bu kez Firavun bunun arkasında Tanrı’nın
 <a name="4300"></a>
 Bu kez büyücüler belayı yeniden üretemez ve arkasında Tanrı’nın parmağını tanırlar.
 
-Bu ifade, bir tanrının başka bir tanrıya fark ettirmeden yaklaşarak onu kör ettiği bir Mısır mitolojisi öyküsüne dayanır. “Tanrı’nın parmağı”, kaynağı izlenemeyen ya da karşı konulamayan uğursuz bir olayı anlatır — ve büyücüler bu sözü kullanarak, aslında Tanrı’nın kendilerinden daha güçlü olduğunu itiraf etmiş olurlar.
+Bu ifade, bir tanrının başka bir tanrıya fark ettirmeden yaklaşarak onu kör ettiği bir Mısır mitolojisi öyküsüne dayanır.[^finger] “Tanrı’nın parmağı”, kaynağı izlenemeyen ya da karşı konulamayan uğursuz bir olayı anlatır — ve büyücüler bu sözü kullanarak, aslında Tanrı’nın kendilerinden daha güçlü olduğunu itiraf etmiş olurlar.
 
 ## {{% bible val="4, Sinekler" link="exo:8,20-32" lang="tr" %}}
 
@@ -106,7 +108,7 @@ Bu belanın vurduğu hayvanlar, Mısır toplumunun neredeyse her alanı için va
 ## {{% bible val="6, Çıbanlar" link="exo:9,8-12" lang="tr" %}}
 
 <a name="d9de"></a>
-Musa ile Harun havaya kül savurur ve bu kül hem insanların hem hayvanların üzerinde çıbanlara dönüşür. Bu kez büyücüler, törensel açıdan kirli sayıldıkları için Firavun’un huzuruna bile çıkamaz. İşin ironisi derindir: havaya kül savurmak, aslında bizzat bu büyücülerin uyguladığı bir kefaret töreniydi. Artık yalnızca bunu uygulayamamakla kalmazlar — törenin kendisi de tamamen itibarsızlaşmıştır.
+Musa ile Harun havaya kül savurur ve bu kül hem insanların hem hayvanların üzerinde çıbanlara dönüşür. Bu kez büyücüler, törensel açıdan kirli sayıldıkları için Firavun’un huzuruna bile çıkamaz. İşin ironisi derindir: havaya kül savurmak, büyük olasılıkla bizzat bu büyücülerin uyguladığı bir kefaret törenine gönderme yapar. Artık yalnızca bunu uygulayamamakla kalmazlar — törenin kendisi de tamamen itibarsızlaşmıştır.[^dust]
 
 ## {{% bible val="7, Dolu" link="exo:9,13-35" lang="tr" %}}
 
@@ -118,7 +120,7 @@ Musa ile Harun havaya kül savurur ve bu kül hem insanların hem hayvanların �
 <a name="ef77"></a>
 {{% bible val="Çekirgeler gelir ve dolunun bıraktığı her şeyi yok eder" link="exo:10,5" lang="tr" %}}. Bu kez Firavun’un {{% bible val="kendi görevlileri bile ona Musa’nın istediğini yapması için yalvarır" link="exo:10,7" lang="tr" %}} — yine de halkı bırakmayı reddeder, {{% bible val="belalar sürüp Firavun günahını itiraf ederken bile" link="exo:10,16-17" lang="tr" %}}.
 
-Mısırlılar zaten dolu belasıyla ifşa olmuştu, çünkü tek görevi çekirgelerden koruma sağlamak olan bir tanrıları ve aynı amaca hizmet etmesi gereken özel çekirge tılsımları vardı — hiçbiri işe yaramadı.
+Mısırlılar zaten dolu belasıyla ifşa olmuştu, çünkü tek görevi çekirgelerden koruma sağlamak olan bir tanrıları ve aynı amaca hizmet etmesi gereken özel çekirge tılsımları vardı — hiçbiri işe yaramadı.[^locust]
 
 ## {{% bible val="9, Karanlık" link="exo:10,21-29" lang="tr" %}}
 
@@ -137,7 +139,7 @@ Bu belanın neden farklı olduğunu anlamak için biraz arka plana bakmakta fayd
 
 Bunun bir katmanı daha vardır. İlk doğan, varistir: Firavun ölürse yerine ilk doğanı geçer — ama ilk doğan ölürse, yerine geçecek kim kalır? Ve Mısır’ın tanrıları hayvanlarla temsil edildiğinden (şahin Horus, kurbağa Heket, inek Hathor), {{% bible val="ilk doğan hayvanların ölümü de Mısır tanrılarının geleceğine karşı bir darbe olmuştur" link="exo:12,12" lang="tr" %}}.
 
-{{% bible val="Firavun’un “katılaşmış yüreği” yüzünden" link="exo:10,7" lang="tr" %}} Mısır halkı {{% bible val="zaten Musa’dan yana bir tavır almıştı" link="exo:11,3" lang="tr" %}} ve ilk doğanın ölümü — Mısır’a artık sunacak bir gelecek kalmadığını göstererek — Mısırlılar’ı Tanrı’ya doğru itmeye yardımcı oldu; {{% bible val="karışık bir kalabalık" link="exo:12,38" lang="tr" %}} da İsrail’le birlikte ülkeyi terk etti.
+{{% bible val="Firavun’un katılaşmış yüreği yüzünden" link="exo:10,27" lang="tr" %}} Mısır halkı {{% bible val="zaten Musa’dan yana bir tavır almıştı" link="exo:11,3" lang="tr" %}} ve ilk doğanın ölümü — Mısır’a artık sunacak bir gelecek kalmadığını göstererek — Mısırlılar’ı Tanrı’ya doğru itmeye yardımcı oldu; {{% bible val="karışık bir kalabalık" link="exo:12,38" lang="tr" %}} da İsrail’le birlikte ülkeyi terk etti.
 
 Onuncu bela gelmeden önce {{% bible val="Fısıh tanıtılır" link="exo:12,1-13" lang="tr" %}} — hem beladan koruma sağlar, hem de Rab’bin Sofrası’nın kökenidir, hem de bir bakıma İsrail’in bir halk olarak doğuşudur, çünkü {{% bible val="İsrail’e katılmak isteyen herkese açıktı" link="exo:12,43-49" lang="tr" %}}. Bununla birlikte {{% bible val="Mayasız Ekmek Bayramı da tanıtılır" link="exo:12,14-20" lang="tr" %}}; bu da {{% bible val="beklemeye değil, yalnızca acele etmeye zaman olduğunu" link="exo:12,11" lang="tr" %}} vurgular.
 
@@ -149,10 +151,20 @@ Belalar borazanlarda ve taslarda geri döner: kana dönen su, dolu, karanlık, �
 
 İşaret de geri döner. İsrail, Tanrı'nın kurtarışını "{{% bible val="elinde bir belirti, alnında bir anma işareti olarak" link="exo:13,9" lang="tr" %}}" taşıyacaktı: alın inandığın şey için, el yaptığın şey için. Vahiy'de canavar bunu taklit eder. {{% bible val="Onun işareti sağ ele ya da alna konur" link="rev:13,16" lang="tr" %}}; Tanrı'nın halkı ise {{% bible val="O'nun adını alınlarında taşır" link="rev:14,1" lang="tr" %}}.[^mark] Öyleyse Çıkış'ın sorusu hâlâ aynı sorudur: kimin işaretini taşıyorsun?
 
-[^heqet]: TDOT, c. 13, s. 371; Heket ve diriliş için Beale, s. 833.
+[^structure]: Sarna bu örüntüyü bir tablo hâlinde verir: *Exploring Exodus*, Tablo 4.2, “The Literary Structure of the Plagues Narrative”, s. 76. Büyücüler için Bräumer, s. 140.
 
 [^gods]: Beale, s. 465.
 
 [^witness]: Bauckham, *Climax*, s. 277–278.
+
+[^nile]: Bräumer, s. 143. Mısırlılar Nil'i ilk sularla bir saydıkları için ona “tanrıların babası” da diyebiliyorlardı. Khnum, Elefantin'de Nil kaynaklarının koruyucusu olarak onurlandırılır; Amon-Re, Aton, Sobek ve İsis de aynı rolü taşır, Osiris ise bazı metinlerde doğrudan Nil suyuyla bir tutulur. Bräumer'in kaynağı ThWAT'taki *yeʼor* maddesidir; bkz. TDOT, c. 5, s. 360.
+
+[^heqet]: TDOT, c. 13, s. 371; Heket ve diriliş için Beale, s. 833.
+
+[^finger]: Bräumer, s. 151, Holzinger ve Jacobson'a dayanarak: Mısır öyküsünde yeryüzünün egemenliği için çekişen bir tanrı kendini domuza dönüştürür, tanınmadan yaklaşır ve parmağıyla rakibinin bir gözünü kör eder. Bunu neden özellikle büyücülerin söylemek zorunda kaldığı da açıktır: tepeden tırnağa tüylerini kazıtıyor ve her kutsal törenin ön koşulu olarak tam temizliği koruyorlardı — şimdi ise kendi bedenleri sarılmıştı (s. 150).
+
+[^dust]: Bräumer, s. 159, bunu bir olgu değil bir olasılık olarak dile getirir: külün havaya savrulmasının bir Mısır kefaret törenine gönderme olması “pekâlâ düşünülebilir”, çünkü dinî arınma amacıyla Mısırlı büyücü rahipler kurban küllerini çevreye serperlerdi. Belgeleri Keil, *Exodus*, s. 412'de.
+
+[^locust]: Bräumer, s. 166, Montet'e dayanarak: Mısırlı çiftçilerin çekirge biçiminde tılsımlar taşıdığı ve kendi türünü kendilerinden uzak tutması için özel bir çekirge tanrısına yakardıkları bilinir.
 
 [^mark]: Beale, s. 717.

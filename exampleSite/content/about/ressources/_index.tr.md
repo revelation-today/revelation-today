@@ -127,9 +127,15 @@ Yaratılış öyküsü hakkında daha fazla bilgi edinmek istiyorsanız, [çok f
 
 <a name="sarna_exo"></a>
 
-### Nahum Sarna: Exodus
+### Nahum Sarna: Exploring Exodus
 
 Eğer Çıkış’ı daha derinlemesine anlamak istiyorsanız. [Ücretsiz e-kitap olarak mevcut olan ilginç bir kitap yazdı](https://www.amazon.de/-/en/Nahum-M-Sarna/dp/0805210636).
+
+<a name="braeumer_exo"></a>
+
+### Hansjörg Bräumer: Das zweite Buch Mose, Kapitel 1–18
+
+Wuppertaler Studienbibel'in Çıkış 1–18 cildi, Almanca. Belaların Mısır dinine ilişkin arka planı buradan gelir ve kendi kaynakları da verilmiştir.
 
 <a name="daniel"></a>
 

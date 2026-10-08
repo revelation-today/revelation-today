@@ -13,8 +13,10 @@ deeper:
     - name: Die Verhärtung des Herzens
       link:  /expl/bible/exodus/the-hardening-of-pharaohs-heart
 sources:
-    - pages: 38–80
+    - pages: 63–81
       ref: sarna_exo
+    - pages: 140–169
+      ref: braeumer_exo
     - pages: 465, 481, 717, 833
       ref: beale_rev
     - pages: "vol. 13: 371"
@@ -49,12 +51,12 @@ Die Plagen folgen bestimmten Mustern, die es sich lohnt, genauer zu betrachten.
 - Die Plagen 1–3 bringen Unannehmlichkeiten.
 - Die Plagen 4–6 bringen Zerstörung.
 - Die Plagen 7–9 bringen Furcht.
-- Die erste Plage jeder Gruppe (1, 4, 7) beginnt am Morgen, wenn der Pharao am Nil ist, um den „Gesundheitszustand des Nils“ zu prüfen.
+- Die erste Plage jeder Gruppe (1, 4, 7) wird am Morgen angekündigt, wenn der Pharao zum Nil hinuntergeht. Warum er dorthin ging, wird nicht gesagt: ein Morgenritual, die Verehrung des Nilgottes zur Zeit der Überschwemmung, oder schlicht das Messen des Wasserstands.
 - Die letzte Plage jeder Gruppe (3, 6, 9) kommt ohne Vorwarnung.
 
-Auch der Stab folgt seinem eigenen Muster: Aaron benutzt ihn bei den Plagen 1–3, bei den Plagen 4–6 kommt kein Stab zum Einsatz, und Mose benutzt ihn bei den Plagen 7–9.
+Auch wer handelt, folgt einem eigenen Muster: Aaron bei den Plagen 1–3, Gott selbst bei 4 und 5, Mose ab Plage 6.[^structure]
 
-Auch die Zauberer folgen einem Muster. Sie können die Plagen 1 und 2 nachahmen, aber Plage 3 können sie nicht nachahmen und erkennen darin den Finger Gottes; und bei Plage 6 sind sie selbst so schwer betroffen, dass sie nicht einmal mehr vor dem Pharao erscheinen können.
+Auch die Zauberer folgen einem Muster. Die Plagen 1 und 2 können sie nachahmen; bei Plage 3 können sie es nicht und sagen dem Pharao, {{% bible val="das ist der Finger Gottes" link="exo:8,19" lang="de" %}}. Bei Plage 6 sind sie selbst so schwer betroffen, dass sie {{% bible val="nicht mehr vor Mose treten können" link="exo:9,11" lang="de" %}}. Und am Ende der dritten Gruppe bricht der Pharao den Kontakt ganz ab: {{% bible val="an dem Tag, an dem du mein Gesicht siehst, wirst du sterben" link="exo:10,28" lang="de" %}}. Jede Dreiergruppe lässt die ägyptische Seite einen Schritt weiter zurückstehen.
 
 Je weiter die Plagen fortschreiten, desto härter wird das Herz des Pharao und desto größer werden Mose’ Forderungen. Und ab Plage 4 zeigt sich eine weitere Unterscheidung: Bei den Plagen 1–3 wird keine Grenze zwischen Israeliten und Ägyptern gezogen, aber ab Plage 4 werden sie deutlich unterschieden.
 
@@ -71,7 +73,7 @@ Die Offenbarung behält dasselbe Muster bei. Wie Goschen verschont wurde, so wer
 <a name="b532"></a>
 Der Nil verwandelt sich in Blut, und sein gesamtes Wasser wird unbrauchbar.
 
-Der Nil ist die Lebensader Ägyptens: seine jährliche Überschwemmung macht die Felder fruchtbar, und sein Wasser ist die Lebensgrundlage der Menschen. Der Gott des Nils galt als Vater aller Götter Ägyptens — doch diesmal sieht es aus, als sei er abgeschlachtet worden.
+Der Nil ist die Lebensader Ägyptens: seine jährliche Überschwemmung macht die Felder fruchtbar, und sein Wasser ist die Lebensgrundlage der Menschen. Der Gott des Nils galt als Vater aller Götter Ägyptens[^nile] — doch diesmal sieht es aus, als sei er abgeschlachtet worden.
 
 ## {{% bible val="2, Frösche" link="exo:8,1-15" lang="de" %}}
 
@@ -85,7 +87,7 @@ Die Froschgöttin Heqet, Gefährtin des Töpfergottes Chnum, half bei Geburten u
 <a name="7c93"></a>
 Diesmal können die Zauberer die Plage nicht nachbilden, und sie erkennen darin den Finger Gottes.
 
-Diese Formulierung greift eine Geschichte aus der ägyptischen Mythologie auf, in der ein Gott einen anderen blendet, indem er sich ihm unbemerkt nähert. „Der Finger Gottes“ trägt den Sinn eines unheilvollen Ereignisses, dessen Ursprung sich nicht zurückverfolgen oder abwehren lässt — und indem sie diesen Ausdruck verwenden, geben die Zauberer selbst zu, dass Gott stärker ist als sie.
+Diese Formulierung greift eine Geschichte aus der ägyptischen Mythologie auf, in der ein Gott einen anderen blendet, indem er sich ihm unbemerkt nähert.[^finger] „Der Finger Gottes“ trägt den Sinn eines unheilvollen Ereignisses, dessen Ursprung sich nicht zurückverfolgen oder abwehren lässt — und indem sie diesen Ausdruck verwenden, geben die Zauberer selbst zu, dass Gott stärker ist als sie.
 
 ## {{% bible val="4, Fliegen" link="exo:8,20-32" lang="de" %}}
 
@@ -104,7 +106,7 @@ Das von dieser Plage betroffene Vieh war für fast jeden Bereich der ägyptische
 ## {{% bible val="6, Geschwüre" link="exo:9,8-12" lang="de" %}}
 
 <a name="c6b1"></a>
-Mose und Aaron werfen Staub in die Luft, und er verwandelt sich in Geschwüre bei Menschen und Tieren gleichermaßen. Diesmal können die Zauberer nicht einmal mehr vor dem Pharao erscheinen, da sie rituell unrein sind. Die Ironie sitzt tief: Das Werfen von Staub in die Luft war ursprünglich ein Sühneritual, das genau diese Zauberer selbst durchführten. Sie können es nicht nur nicht mehr ausführen — das Ritual selbst ist nun gründlich diskreditiert.
+Mose und Aaron werfen Staub in die Luft, und er verwandelt sich in Geschwüre bei Menschen und Tieren gleichermaßen. Diesmal können die Zauberer nicht einmal mehr vor dem Pharao erscheinen, da sie rituell unrein sind. Die Ironie sitzt tief: Das Werfen von Staub in die Luft spielt sehr wahrscheinlich auf ein Sühneritual an, das genau diese Zauberer selbst durchführten. Sie können es nicht nur nicht mehr ausführen — das Ritual selbst ist nun gründlich diskreditiert.[^dust]
 
 ## {{% bible val="7, Hagel" link="exo:9,13-35" lang="de" %}}
 
@@ -116,7 +118,7 @@ Hier wird es ernst: {{% bible val="Gott schlägt mit der vollen Wucht zu, die er
 <a name="ae09"></a>
 Die {{% bible val="Heuschrecken kommen und vernichten alles, was der Hagel übrig gelassen hatte" link="exo:10,5" lang="de" %}}. Diesmal {{% bible val="flehen die eigenen Beamten des Pharao ihn an, zu tun, was Mose verlangt" link="exo:10,7" lang="de" %}} — aber er weigert sich weiterhin, das Volk ziehen zu lassen, selbst als {{% bible val="die Plagen andauern und der Pharao seine Sünde eingesteht" link="exo:10,16-17" lang="de" %}}.
 
-Die Ägypter waren bereits durch den Hagel bloßgestellt worden, denn es gab einen Gott, dessen einzige Aufgabe der Schutz vor Heuschrecken war, dazu spezielle Heuschreckenamulette mit demselben Zweck — nichts davon hatte funktioniert.
+Die Ägypter waren bereits durch den Hagel bloßgestellt worden, denn es gab einen Gott, dessen einzige Aufgabe der Schutz vor Heuschrecken war, dazu spezielle Heuschreckenamulette mit demselben Zweck — nichts davon hatte funktioniert.[^locust]
 
 ## {{% bible val="9, Finsternis" link="exo:10,21-29" lang="de" %}}
 
@@ -135,7 +137,7 @@ Um zu verstehen, warum diese Plage anders ist, hilft ein Blick auf den Hintergru
 
 Es gibt noch eine weitere Ebene. Der Erstgeborene ist der Erbe: Wenn der Pharao stirbt, tritt sein Erstgeborener an seine Stelle — aber wenn der Erstgeborene stirbt, wer bleibt dann übrig, um die Nachfolge anzutreten? Und da die Götter Ägyptens durch Tiere dargestellt wurden (Horus der Falke, Heqet der Frosch, Hathor die Kuh), war {{% bible val="der Tod der erstgeborenen Tiere auch ein Schlag gegen die Zukunft der ägyptischen Götter" link="exo:12,12" lang="de" %}} selbst.
 
-Wegen {{% bible val="des „starken Herzens“ des Pharao" link="exo:10,7" lang="de" %}} war das Volk Ägyptens {{% bible val="bereits auf der Seite des Mose" link="exo:11,3" lang="de" %}}, und der Tod der Erstgeburt (der zeigte, dass Ägypten keine Zukunft mehr zu bieten hatte) trieb die Ägypter weiter zu Gott hin, und {{% bible val="viel fremdes Volk" link="exo:12,38" lang="de" %}} zog mit Israel aus.
+Wegen {{% bible val="des verhärteten Herzens des Pharao" link="exo:10,27" lang="de" %}} war das Volk Ägyptens {{% bible val="bereits auf der Seite des Mose" link="exo:11,3" lang="de" %}}, und der Tod der Erstgeburt (der zeigte, dass Ägypten keine Zukunft mehr zu bieten hatte) trieb die Ägypter weiter zu Gott hin, und {{% bible val="viel fremdes Volk" link="exo:12,38" lang="de" %}} zog mit Israel aus.
 
 Bevor die zehnte Plage zuschlägt, wird das {{% bible val="Passah eingeführt" link="exo:12,1-13" lang="de" %}} — Schutz vor der Plage, aber auch der Ursprung des Abendmahls und so etwas wie die Geburtsstunde Israels als Volk, denn es {{% bible val="stand jedem offen, der sich Israel anschließen wollte" link="exo:12,43-49" lang="de" %}}. Zusammen damit wird das {{% bible val="Fest der ungesäuerten Brote eingeführt" link="exo:12,14-20" lang="de" %}}, das unterstreicht, dass {{% bible val="keine Zeit zum Warten bleibt, sondern nur zum Aufbruch" link="exo:12,11" lang="de" %}}.
 
@@ -147,10 +149,20 @@ Die Plagen kehren in den Posaunen und den Schalen wieder: Wasser wird zu Blut, H
 
 Auch das Zeichen kehrt wieder. Israel sollte Gottes Rettung tragen „{{% bible val="als Zeichen auf deiner Hand und als Merkzeichen auf deiner Stirn" link="exo:13,9" lang="de" %}}“: die Stirn für das, was du glaubst, die Hand für das, was du tust. In der Offenbarung ahmt das Tier es nach. {{% bible val="Sein Malzeichen kommt auf die rechte Hand oder auf die Stirn" link="rev:13,16" lang="de" %}}, und Gottes Volk trägt stattdessen {{% bible val="seinen Namen auf der Stirn" link="rev:14,1" lang="de" %}}.[^mark] Die Frage des Auszugs ist also immer noch die Frage: Wessen Zeichen trägst du?
 
-[^heqet]: TDOT, Bd. 13, S. 371; zu Heqet und Auferstehung Beale, S. 833.
+[^structure]: Sarna stellt das Muster als Tabelle dar: *Exploring Exodus*, Tabelle 4.2, „The Literary Structure of the Plagues Narrative“, S. 76. Zu den Zauberern Bräumer, S. 140.
 
 [^gods]: Beale, S. 465.
 
 [^witness]: Bauckham, *Climax*, S. 277–278.
+
+[^nile]: Bräumer, S. 143: „Da die Ägypter den Nil mit dem Urwasser gleichsetzten, konnten sie ihn auch »Vater der Götter« nennen.“ Chnum wurde in Elephantine als Hüter der Nilquellen verehrt, Amon-Re, Aton, Sobek und Isis in derselben Rolle, und Osiris ist in manchen Texten mit dem Nilwasser selbst identifiziert. Bräumers Quelle ist der Artikel zu *jeʼor* im ThWAT; vgl. TDOT, Bd. 5, S. 360.
+
+[^heqet]: TDOT, Bd. 13, S. 371; zu Heqet und Auferstehung Beale, S. 833.
+
+[^finger]: Bräumer, S. 151, nach Holzinger und Jacobson: In der ägyptischen Erzählung streitet ein Gott mit einem anderen um die Herrschaft über die Erde, verwandelt sich in ein Schwein, schleicht sich unerkannt heran und blendet mit seinem Finger ein Auge seines Gegners. Warum gerade die Zauberer es sagen mussten, liegt auf der Hand: Sie rasierten sich am ganzen Körper und hielten vollkommene Reinheit als Voraussetzung jedes heiligen Rituals — und nun war ihr eigener Körper befallen (S. 150).
+
+[^dust]: Bräumer, S. 159, der es als Möglichkeit und nicht als Tatsache formuliert: „Es ist durchaus denkbar, daß das Werfen des Rußes in die Luft gleichzeitig eine Anspielung auf einen ägyptischen Sühneritus ist. Zum Zweck der religiösen Reinigung streuten ägyptische Wahrsagepriester Asche von Opfern umher.“ Belege bei Keil, *Exodus*, S. 412.
+
+[^locust]: Bräumer, S. 166, nach Montet: Ägyptische Bauern trugen Amulette in Form einer Heuschrecke und riefen einen besonderen Heuschreckengott an, er möge seine Artgenossen von ihnen fernhalten.
 
 [^mark]: Beale, S. 717.

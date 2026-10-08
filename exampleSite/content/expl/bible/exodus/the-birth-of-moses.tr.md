@@ -6,6 +6,8 @@ prev: /expl/bible/exodus/the-story-before-the-exodus
 next: /expl/bible/exodus/the-hardening-of-pharaohs-heart
 docType: expl
 sources:
+    - pages: 24–37
+      ref: sarna_exo
     - pages: "vol. 10: 438–439"
       ref: tdot
 ---
@@ -21,24 +23,24 @@ Firavun, İsrailliler’in büyük bir halk olmasını engellemek için elinden 
 
 | Firavun’un bakışı | Gerçeklik |
 |--------------------|-----------|
-| Firavun kendini tanrıların temsilcisi olarak görür. | Oysa o öykünün kilit bir kişisi bile değildir — adıyla anılmaz, temsil ettiği ve hiçbirinin adı geçmeyen tanrılar gibi bir arka plan figürü olarak ele alınır. Buna karşılık asıl kahramanlar adlarıyla anılır ve çoğunlukla kadındır — ebeler, Musa'nın annesi ve ablası, hatta Firavun'un kendi kızı ({{% bible val="ebelerin adı olan Şifra ve Pua" link="exo:1,15" lang="tr" %}}, Sami kökenli adlardır). |
+| Firavun kendini tanrıların temsilcisi olarak görür. | Oysa o öykünün kilit bir kişisi bile değildir — adıyla anılmaz, temsil ettiği ve hiçbirinin adı geçmeyen tanrılar gibi bir arka plan figürü olarak ele alınır. Buna karşılık asıl kahramanlar adlarıyla anılır ve çoğunlukla kadındır — ebeler, Musa'nın annesi ve ablası, hatta Firavun'un kendi kızı ({{% bible val="ebelerin adı olan Şifra ve Pua" link="exo:1,15" lang="tr" %}}, Sami kökenli adlardır).[^names] |
 | Firavun, İsrailli köleleri ölesiye çalıştırmak ister. | Bunun yerine halk sayıca artmaya devam eder ve Mısır’dan {{% bible val="ayrıldıklarında" link="exo:12,35-36" lang="tr" %}} servetle yüklüdürler. Sonunda yalnızca özgür kalmakla kalmaz, onurları da geri verilmiş olur. |
-| Ebelere yeni doğan bebekleri öldürmeleri emredilir. | Onlar ise — üstelik yabancı Asyalı kadınlar olarak — Firavun’a karşı gelirler ve cezalandırılmak yerine {{% bible val="Tanrı tarafından çocuklarla kutsanırlar" link="exo:1,21" lang="tr" %}}. |
+| Ebelere yeni doğan bebekleri öldürmeleri emredilir. | Onlar ise — üstelik yabancı Asyalı kadınlar olarak — Firavun’a karşı gelirler ve cezalandırılmak yerine {{% bible val="Tanrı tarafından çocuklarla kutsanırlar" link="exo:1,21" lang="tr" %}}.[^midwives] |
 | Yeni doğan bebekler Nil’e atılmalıdır. | Musa, Nuh’un Gemisi için kullanılanla [aynı sözcükle](https://biblehub.com/hebrew/strongs_8392.htm) anılan bir sepetin içinde Nil’e bırakılır ve kurtarılır. |
 | Musa öyküdeki kilit kişidir, Firavun’u alaşağı edecek olandır. | Bunun yerine {{% bible val="Firavun’un kızı tarafından büyütülür, üstelik kendi annesine onu emzirmesi için para ödenir" link="exo:2,5-10" lang="tr" %}}. |
 
 ## Musa’nın hikayesi
 
 <a name="ae0c"></a>
-Musa’nın öyküsü, tipik antik kahramanlık öyküsünün tam tersidir. Aşağıdaki tablo alışılmış kalıbı Musa’nın başına gerçekte gelenlerle karşılaştırıyor.
+Musa’nın öyküsü, tipik antik kahramanlık öyküsünün tam tersidir. Aşağıdaki tablo alışılmış kalıbı Musa’nın başına gerçekte gelenlerle karşılaştırıyor.[^hero]
 
 | Sıradan kahramanlık öyküsü | Musa’nın öyküsü |
 |----------------------------|-------------------|
-| Öykü, kahraman bebekken terk edildiğinde başlar (Herkül, Oidipus, Romulus ve Remus, Kiros…). | Musa, sevgi dolu annesi tarafından saklanır ve güvenli ellere teslim edilene kadar özenle gözetilir. |
+| Öykü, kahraman bebekken terk edildiğinde başlar (Akadlı Sargon, Herkül, Oidipus, Romulus ve Remus, Kiros…). | Musa, sevgi dolu annesi tarafından saklanır ve güvenli ellere teslim edilene kadar özenle gözetilir. Metin, annesinin onu ırmağın kıyısına *koyduğunu* söyler; bir çocuğu *atmak* fiili ise Firavun’un buyruğunda geçer. |
 | Çocuğu bulan kişi genellikle düşük statülüdür. | Musa, Firavun’un kızı tarafından büyütülür ve kendi annesi tarafından emzirilir. |
 | Çocuğun kimliği bilinmez ve ancak sonunda ortaya çıkar. | Musa’nın kimliği {{% bible val="en başından beri Firavun’un kızı tarafından bilinir" link="exo:2,6" lang="tr" %}}. |
 | Gerçek kimliğinin ortaya çıkması, ona hak ettiği statüyü kazandıran dönüm noktasıdır. | Musa’nın gerçek kimliği ise onu belaya sokar ve hayatta kalabilmek için kaçmak zorunda kalır. |
-| Öykünün anlatılma amacı, kahramanın güç iddiasını göstermektir. | Öykü Musa’nın değil, Tanrı’nın sağlayışını ve egemenliğini gösterir. |
+| Öykünün anlatılma amacı, kahramanın güç iddiasını göstermektir. | Öykü Musa’nın değil, Tanrı’nın sağlayışını ve egemenliğini gösterir. Sargon’un kendi adı bu türün ne işe yaradığını söyler: Akadca *sharru-ken*, “kral meşrudur” demektir. |
 
 ## Musa’nın diğer öyküsü
 
@@ -55,6 +57,8 @@ Tanrı’ya güvenmeyi de öğrenmesi gerekir. Bunun çarpıcı bir örneği, {{
 
 Sonunda her şey yoluna girer, çünkü öykünün gerçek kahramanı hiçbir zaman Musa değil, Tanrı’dır.
 
-## Daha derine in
+[^names]: Sarna, *Exploring Exodus*, s. 25. Şifra, “güzel olmak” anlamındaki bir kökten gelir ve bir Mısır hanesinin köle listesinde geçer; orada Asyalı olarak işaretlenmiştir. Pua ise Ugarit edebiyatında kahraman Danel’in kızının adıdır ve yalnızca “bir kız” demektir. Karşıtlık da Sarna’nın vurgusudur: bu sıradan kadınların adları kayda geçerken, her şeye gücü yeten hükümdar sürekli adsızlığa bürünmüştür — Kutsal Kitap anlatıcısı değer ölçüsünü böyle dile getirir.
 
-{{% int_link val="Nahum Sarna, Exodus, sayfa 27–37" link="/about/ressources#sarna_exo" %}}
+[^midwives]: Sarna, *Exploring Exodus*, s. 24–25. İbranice metnin iki türlü de okunabildiğini belirtir: “İbrani ebeler” ya da “İbrani kadınların ebeleri”. Dolayısıyla sözcükler tek başına bu kadınların İsrailli mi Mısırlı mı olduğunu belirlemez — ama kralın İsrailliler’den kendi halklarının oğullarını öldürmelerini beklemesi de tuhaf olurdu. Sarna bunu, ahlâki bir dava uğruna tarihte kayda geçen ilk sivil itaatsizlik örneği olarak adlandırır.
+
+[^hero]: Karşılaştırma Sarna’ya aittir, *Exploring Exodus*, s. 30–31; hüküm de öyle: bu halk anlatısı ile Çıkış anlatısı arasında var sayılan yakın bağlar “hayal ürünüdür”; Musa’nın doğum öyküsü “Sargon Efsanesi”nden ve genel olarak bu türden o kadar çok önemli noktada ayrılır ki “neredeyse, Kutsal Kitap anlatıcısının bu anlatıyı bulunmuş kahraman motifinin alışılmış özelliklerinden bilinçli olarak ayırmaya çalıştığı izlenimi doğar”.

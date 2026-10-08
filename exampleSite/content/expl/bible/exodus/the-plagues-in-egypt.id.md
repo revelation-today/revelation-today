@@ -13,8 +13,10 @@ deeper:
     - name: Pengerasan hati itu
       link:  /expl/bible/exodus/the-hardening-of-pharaohs-heart
 sources:
-    - pages: 38–80
+    - pages: 63–81
       ref: sarna_exo
+    - pages: 140–169
+      ref: braeumer_exo
     - pages: 465, 481, 717, 833
       ref: beale_rev
     - pages: "vol. 13: 371"
@@ -49,12 +51,12 @@ Tulah-tulah ini mengikuti pola-pola tertentu yang patut diamati dengan saksama.
 - Tulah 1–3 membawa ketidaknyamanan.
 - Tulah 4–6 membawa kehancuran.
 - Tulah 7–9 membawa ketakutan.
-- Tulah pertama dari setiap kelompok (1, 4, 7) dimulai pada pagi hari, dengan Firaun berada di tepi sungai Nil memeriksa "kesehatan sungai Nil."
+- Tulah pertama dari setiap kelompok (1, 4, 7) diumumkan pada pagi hari, ketika Firaun turun ke sungai Nil. Mengapa ia ke sana tidak dicatat: sebuah ritual pagi, penyembahan dewa Nil pada masa banjir, atau sekadar untuk mengukur tinggi air sungai itu.
 - Tulah terakhir dari setiap kelompok (3, 6, 9) datang tanpa peringatan.
 
-Tongkat itu sendiri mengikuti pola tersendiri: Harun menggunakannya pada tulah 1–3, tidak ada tongkat yang digunakan pada tulah 4–6, dan Musa menggunakannya pada tulah 7–9.
+Siapa yang bertindak pun mengikuti pola tersendiri: Harun pada tulah 1–3, Allah sendiri pada tulah 4 dan 5, Musa sejak tulah 6.[^structure]
 
-Para ahli sihir pun mengikuti sebuah pola. Mereka dapat meniru tulah 1 dan 2, tetapi tidak dapat meniru tulah 3 dan mengenali jari Allah di baliknya; dan pada tulah 6 mereka sendiri begitu parah terkena sehingga tidak dapat lagi tampil di hadapan Firaun.
+Para ahli sihir pun mengikuti sebuah pola. Mereka dapat meniru tulah 1 dan 2; pada tulah 3 mereka tidak dapat lagi, dan mereka berkata kepada Firaun, {{% bible val="ini adalah jari Allah" link="exo:8,19" lang="ind" %}}. Pada tulah 6 mereka sendiri begitu parah terkena sehingga {{% bible val="tidak dapat berdiri di hadapan Musa" link="exo:9,11" lang="ind" %}}. Dan pada akhir kelompok ketiga, Firaun memutuskan hubungan sama sekali: {{% bible val="pada hari engkau melihat mukaku, engkau akan mati" link="exo:10,28" lang="ind" %}}. Setiap kelompok tiga tulah membuat pihak Mesir mundur satu langkah lagi.
 
 Seiring berlanjutnya tulah-tulah ini, hati Firaun semakin keras dan tuntutan Musa semakin besar. Dan mulai dari tulah 4, muncul sebuah perbedaan lebih lanjut: pada tulah 1–3 tidak ada garis pemisah antara orang Israel dan orang Mesir, tetapi mulai tulah 4 dan seterusnya keduanya dibedakan dengan jelas.
 
@@ -73,7 +75,7 @@ Kitab Wahyu mempertahankan pola yang sama. Sebagaimana Gosyen diluputkan, umat A
 <a name="b532"></a>
 Sungai Nil berubah menjadi darah, dan seluruh airnya menjadi tidak dapat digunakan.
 
-Sungai Nil adalah urat nadi kehidupan Mesir: banjir tahunannya menyuburkan ladang-ladang, dan airnya adalah sumber kehidupan rakyatnya. Dewa sungai Nil dianggap sebagai bapak dari semua dewa Mesir — tetapi kali ini, ia tampak seolah-olah telah disembelih.
+Sungai Nil adalah urat nadi kehidupan Mesir: banjir tahunannya menyuburkan ladang-ladang, dan airnya adalah sumber kehidupan rakyatnya. Dewa sungai Nil dianggap sebagai bapak dari semua dewa Mesir[^nile] — tetapi kali ini, ia tampak seolah-olah telah disembelih.
 
 ### {{% bible val="2, Katak-katak" link="exo:8,1-15" lang="ind" %}}
 
@@ -87,7 +89,7 @@ Dewi katak Heket, pendamping dewa penjunan Khnum, menolong dalam kelahiran dan d
 <a name="7c93"></a>
 Kali ini para ahli sihir tidak dapat mereproduksi tulah ini, dan mereka mengenali jari Allah di baliknya.
 
-Ungkapan itu bersumber dari sebuah kisah dalam mitologi Mesir, di mana seorang dewa membutakan dewa lain dengan mendekatinya tanpa disadari. "Jari Allah" membawa makna sebuah peristiwa yang membawa malapetaka, yang sumbernya tidak dapat dilacak atau dilawan — dan dengan mengucapkan ungkapan itu, para ahli sihir sendiri mengakui bahwa Allah lebih kuat daripada mereka.
+Ungkapan itu bersumber dari sebuah kisah dalam mitologi Mesir, di mana seorang dewa membutakan dewa lain dengan mendekatinya tanpa disadari.[^finger] "Jari Allah" membawa makna sebuah peristiwa yang membawa malapetaka, yang sumbernya tidak dapat dilacak atau dilawan — dan dengan mengucapkan ungkapan itu, para ahli sihir sendiri mengakui bahwa Allah lebih kuat daripada mereka.
 
 ### {{% bible val="4, Lalat" link="exo:8,20-32" lang="ind" %}}
 
@@ -106,7 +108,7 @@ Ternak yang terkena tulah ini sangat penting bagi hampir setiap bagian masyaraka
 ### {{% bible val="6, Barah" link="exo:9,8-12" lang="ind" %}}
 
 <a name="c6b1"></a>
-Musa dan Harun melemparkan debu ke udara, dan debu itu berubah menjadi barah pada manusia maupun hewan. Kali ini para ahli sihir bahkan tidak dapat tampil di hadapan Firaun, karena mereka najis secara upacara. Ironinya sangat dalam: melemparkan debu ke udara sebenarnya adalah sebuah ritual pendamaian yang dilakukan oleh para ahli sihir itu sendiri. Mereka bukan hanya tidak dapat lagi melakukannya — ritual itu sendiri kini telah sepenuhnya kehilangan kredibilitasnya.
+Musa dan Harun melemparkan debu ke udara, dan debu itu berubah menjadi barah pada manusia maupun hewan. Kali ini para ahli sihir bahkan tidak dapat tampil di hadapan Firaun, karena mereka najis secara upacara. Ironinya sangat dalam: melemparkan debu ke udara kemungkinan besar menyinggung sebuah ritual pendamaian yang dilakukan oleh para ahli sihir itu sendiri. Mereka bukan hanya tidak dapat lagi melakukannya — ritual itu sendiri kini telah sepenuhnya kehilangan kredibilitasnya.[^dust]
 
 ### {{% bible val="7, Hujan es" link="exo:9,13-35" lang="ind" %}}
 
@@ -118,7 +120,7 @@ Di sinilah keadaan menjadi serius: {{% bible val="Allah menyerang dengan seluruh
 <a name="ae09"></a>
 {{% bible val="Belalang datang dan menghancurkan segala sesuatu yang masih tersisa dari hujan es" link="exo:10,4-5" lang="ind" %}}. Kali ini, {{% bible val="para pejabat Firaun sendiri memohon kepadanya untuk melakukan apa yang diinginkan Musa" link="exo:10,7" lang="ind" %}} — tetapi ia tetap menolak membiarkan umat itu pergi, bahkan ketika {{% bible val="tulah-tulah terus berlanjut dan Firaun mengakui dosanya" link="exo:10,16-17" lang="ind" %}}.
 
-Orang Mesir sebenarnya sudah dipermalukan oleh hujan es, karena ada seorang dewa yang satu-satunya tugasnya adalah melindungi dari belalang, ditambah lagi jimat-jimat belalang khusus yang dimaksudkan untuk tujuan yang sama — tidak satu pun dari semua itu berhasil.
+Orang Mesir sebenarnya sudah dipermalukan oleh hujan es, karena ada seorang dewa yang satu-satunya tugasnya adalah melindungi dari belalang, ditambah lagi jimat-jimat belalang khusus yang dimaksudkan untuk tujuan yang sama — tidak satu pun dari semua itu berhasil.[^locust]
 
 ### {{% bible val="9, Kegelapan" link="exo:10,21-29" lang="ind" %}}
 
@@ -137,7 +139,7 @@ Untuk memahami mengapa tulah ini berbeda, ada baiknya kita mengingat kembali sed
 
 Ada satu lapisan lagi di dalamnya. Anak sulung adalah ahli waris: jika Firaun mati, anak sulungnyalah yang menggantikan tempatnya — tetapi jika anak sulung itu sendiri yang mati, siapa yang tersisa untuk menggantikannya? Dan karena para dewa Mesir diwakili oleh binatang-binatang (Horus sang elang, Heket sang katak, Hathor sang sapi), {{% bible val="kematian binatang-binatang sulung itu juga merupakan pukulan terhadap masa depan para dewa Mesir" link="exo:12,12" lang="ind" %}} itu sendiri.
 
-Karena {{% bible val="'hati yang kuat' Firaun" link="exo:10,7" lang="ind" %}}, rakyat Mesir {{% bible val="sudah berpihak kepada Musa" link="exo:11,3" lang="ind" %}}, dan kematian anak sulung (yang menunjukkan bahwa Mesir tidak lagi memiliki masa depan untuk ditawarkan) membantu mendorong orang Mesir kepada Allah, dan {{% bible val="banyak orang dari berbagai-bagai bangsa" link="exo:12,38" lang="ind" %}} pergi bersama Israel.
+Karena {{% bible val="hati Firaun yang dikeraskan" link="exo:10,27" lang="ind" %}}, rakyat Mesir {{% bible val="sudah berpihak kepada Musa" link="exo:11,3" lang="ind" %}}, dan kematian anak sulung (yang menunjukkan bahwa Mesir tidak lagi memiliki masa depan untuk ditawarkan) membantu mendorong orang Mesir kepada Allah, dan {{% bible val="banyak orang dari berbagai-bagai bangsa" link="exo:12,38" lang="ind" %}} pergi bersama Israel.
 
 Sebelum tulah kesepuluh menghantam, {{% bible val="Paskah diperkenalkan" link="exo:12,1-13" lang="ind" %}} — perlindungan dari tulah itu, tetapi juga asal mula Perjamuan Tuhan, dan semacam kelahiran Israel sebagai suatu bangsa, karena {{% bible val="perayaan itu terbuka bagi siapa saja yang ingin bergabung dengan Israel" link="exo:12,43-49" lang="ind" %}}. Bersamanya, {{% bible val="Hari Raya Roti Tidak Beragi diperkenalkan" link="exo:12,14-20" lang="ind" %}}, menegaskan bahwa {{% bible val="tidak ada waktu untuk menunggu, hanya waktu untuk bergegas" link="exo:12,11" lang="ind" %}}.
 
@@ -149,10 +151,20 @@ Tulah-tulah itu muncul kembali dalam sangkakala dan cawan: air menjadi darah, hu
 
 Tanda itu pun muncul kembali. Israel harus membawa penyelamatan Allah "{{% bible val="sebagai tanda pada tanganmu dan sebagai peringatan di dahimu" link="exo:13,9" lang="ind" %}}": dahi untuk apa yang kaupercayai, tangan untuk apa yang kaulakukan. Dalam Kitab Wahyu binatang itu menirunya. {{% bible val="Tandanya dikenakan pada tangan kanan atau pada dahi" link="rev:13,16" lang="ind" %}}, sedangkan umat Allah membawa {{% bible val="nama-Nya pada dahi mereka" link="rev:14,1" lang="ind" %}}.[^mark] Jadi pertanyaan dalam peristiwa keluaran itu masih tetap pertanyaannya: tanda siapakah yang kaubawa?
 
-[^heqet]: TDOT, jld. 13, hlm. 371; tentang Heket dan kebangkitan, Beale, hlm. 833.
+[^structure]: Sarna menyajikan pola ini dalam sebuah tabel: *Exploring Exodus*, Tabel 4.2, “The Literary Structure of the Plagues Narrative”, hlm. 76. Tentang para ahli sihir, Bräumer, hlm. 140.
 
 [^gods]: Beale, hlm. 465.
 
 [^witness]: Bauckham, *Climax*, hlm. 277–278.
+
+[^nile]: Bräumer, hlm. 143. Karena orang Mesir menyamakan sungai Nil dengan air purba, mereka juga dapat menyebutnya “bapak para dewa”. Khnum dihormati di Elefantine sebagai penjaga mata air Nil, bersama Amon-Re, Aton, Sobek dan Isis dalam peran yang sama, dan dalam beberapa teks Osiris disamakan dengan air Nil itu sendiri. Sumber Bräumer adalah artikel *yeʼor* dalam ThWAT; lihat TDOT, jld. 5, hlm. 360.
+
+[^heqet]: TDOT, jld. 13, hlm. 371; tentang Heket dan kebangkitan, Beale, hlm. 833.
+
+[^finger]: Bräumer, hlm. 151, mengikuti Holzinger dan Jacobson: dalam cerita Mesir itu, seorang dewa yang berebut kekuasaan atas bumi mengubah dirinya menjadi babi, menyelinap mendekat tanpa dikenali, dan dengan jarinya membutakan satu mata lawannya. Mengapa justru para ahli sihir yang harus mengatakannya pun jelas: mereka mencukur seluruh tubuh dan menjaga kebersihan mutlak sebagai syarat setiap ritual suci — dan kini tubuh mereka sendiri yang terserang (hlm. 150).
+
+[^dust]: Bräumer, hlm. 159, yang menyampaikannya sebagai kemungkinan dan bukan fakta: “sangat mungkin” bahwa melemparkan abu ke udara menyinggung sebuah ritus pendamaian Mesir, karena untuk pembersihan religius para ahli sihir Mesir menaburkan abu kurban di sekeliling mereka. Buktinya ada pada Keil, *Exodus*, hlm. 412.
+
+[^locust]: Bräumer, hlm. 166, mengikuti Montet: para petani Mesir memakai tangkal berbentuk belalang dan memanggil dewa belalang khusus agar ia menjauhkan sesama jenisnya dari mereka.
 
 [^mark]: Beale, hlm. 717.

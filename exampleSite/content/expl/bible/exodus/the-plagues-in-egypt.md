@@ -13,8 +13,10 @@ deeper:
     - name: The hardening of the heart
       link:  /expl/bible/exodus/the-hardening-of-pharaohs-heart
 sources:
-    - pages: 38–80
+    - pages: 63–81
       ref: sarna_exo
+    - pages: 140–169
+      ref: braeumer_exo
     - pages: 465, 481, 717, 833
       ref: beale_rev
     - pages: "vol. 13: 371"
@@ -49,12 +51,12 @@ The plagues follow certain patterns that are worth observing closely.
 - Plagues 1–3 bring inconvenience.
 - Plagues 4–6 bring destruction.
 - Plagues 7–9 bring fear.
-- The first plague of each group (1, 4, 7) begins in the morning, with Pharaoh at the Nile checking the "health of the Nile."
+- The first plague of each group (1, 4, 7) is announced in the morning, when Pharaoh goes down to the Nile. Why he went is not recorded: a morning ritual, the worship of the Nile god during the inundation, or simply to measure the height of the river.
 - The last plague of each group (3, 6, 9) comes without warning.
 
-The staff follows its own pattern: Aaron uses it during plagues 1–3, no staff is used during plagues 4–6, and Moses uses it during plagues 7–9.
+Who acts follows its own pattern: Aaron in plagues 1–3, God himself in 4 and 5, Moses from 6 onwards.[^structure]
 
-The magicians follow a pattern too. They can imitate plagues 1 and 2, but cannot imitate plague 3 and recognize the finger of God behind it; and by plague 6 they are so badly afflicted themselves that they cannot even appear before Pharaoh again.
+The magicians follow a pattern too. They can imitate plagues 1 and 2; at plague 3 they cannot, and they tell Pharaoh that {{% bible val="this is the finger of God" link="exo:8,19" lang="en" %}}. By plague 6 they are so badly afflicted themselves that they {{% bible val="cannot stand before Moses" link="exo:9,11" lang="en" %}}. And at the close of the third group Pharaoh breaks off contact altogether: {{% bible val="the day you see my face you shall die" link="exo:10,28" lang="en" %}}. Each group of three leaves the Egyptian side a step further back.
 
 As the plagues continue, Pharaoh’s heart grows harder and Moses’ demands grow larger. And starting with plague 4, a further distinction appears: in plagues 1–3 no line is drawn between Israelites and Egyptians, but from plague 4 onward they are clearly distinguished.
 
@@ -70,7 +72,7 @@ Revelation keeps the same pattern. As Goshen was spared, God's sealed people are
 
 The Nile turns to blood, and all its water becomes unusable.
 
-The Nile is the lifeblood of Egypt: its annual flood makes the fields fertile, and its water is the people’s source of life. The god of the Nile was regarded as the father of all the gods in Egypt — but this time, he looks as though he has been slaughtered.
+The Nile is the lifeblood of Egypt: its annual flood makes the fields fertile, and its water is the people’s source of life. The god of the Nile was regarded as the father of all the gods in Egypt[^nile] — but this time, he looks as though he has been slaughtered.
 
 ## {{% bible val="2, Frogs" link="exo:8,1-15" lang="en" %}}
 
@@ -82,7 +84,7 @@ The frog goddess Heqet, companion of the potter god Khnum, helped at births and 
 
 This time the magicians cannot reproduce the plague, and they recognize the finger of God behind it.
 
-That phrase draws on a story from Egyptian mythology in which a god blinds another god while approaching him unnoticed. "The finger of God" carries the sense of an ominous event whose source cannot be traced or countered — and by using it, the magicians themselves admit that God is stronger than they are.
+That phrase draws on a story from Egyptian mythology in which a god blinds another god while approaching him unnoticed.[^finger] "The finger of God" carries the sense of an ominous event whose source cannot be traced or countered — and by using it, the magicians themselves admit that God is stronger than they are.
 
 ## {{% bible val="4, Flies" link="exo:8,20-32" lang="en" %}}
 
@@ -98,7 +100,7 @@ The livestock struck by this plague was essential to nearly every part of Egypti
 
 ## {{% bible val="6, Boils" link="exo:9,8-12" lang="en" %}}
 
-Moses and Aaron throw dust into the air, and it turns into boils on people and animals alike. This time the magicians cannot even appear before Pharaoh, since they are ceremonially unclean. The irony cuts deep: throwing dust into the air was originally a rite of atonement performed by these very sorcerers. Not only can they no longer perform it — the rite itself has now been thoroughly discredited.
+Moses and Aaron throw dust into the air, and it turns into boils on people and animals alike. This time the magicians cannot even appear before Pharaoh, since they are ceremonially unclean. The irony cuts deep: throwing dust into the air very likely alludes to a rite of atonement performed by these very priests. Not only can they no longer perform it — the rite itself has now been thoroughly discredited.[^dust]
 
 ## {{% bible val="7, Hail" link="exo:9,13-35" lang="en" %}}
 
@@ -108,7 +110,7 @@ This is where it gets serious: {{% bible val="God strikes with the full force th
 
 The {{% bible val="locusts come and destroy everything the hail had left standing" link="exo:10,5" lang="en" %}}. This time, Pharaoh’s {{% bible val="own officials beg him to do as Moses wishes" link="exo:10,7" lang="en" %}} — but he still refuses to let the people go, even as the {{% bible val="plagues continue and Pharaoh admits his sin" link="exo:10,16-17" lang="en" %}}.
 
-The Egyptians had already been exposed by the hail, since there was a god whose only job was protection from locusts, along with special locust amulets meant to serve the same purpose — none of which worked.
+The Egyptians had already been exposed by the hail, since there was a god whose only job was protection from locusts, along with special locust amulets meant to serve the same purpose — none of which worked.[^locust]
 
 ## {{% bible val="9, Darkness" link="exo:10,21-29" lang="en" %}}
 
@@ -124,7 +126,7 @@ To understand why this plague is different, it helps to recall some background. 
 
 There is a further layer to it. The firstborn is the heir: if Pharaoh dies, his firstborn takes his place — but if the firstborn dies, who is left to take over? And since the gods of Egypt were represented by animals (Horus the falcon, Heqet the frog, Hathor the cow), {{% bible val="the death of the firstborn animals was also a blow against the future of the Egyptian gods" link="exo:12,12" lang="en" %}} themselves.
 
-Because of {{% bible val="Pharaoh’s 'strong heart'" link="exo:10,7" lang="en" %}}, the people of Egypt {{% bible val="were already in favor of Moses" link="exo:11,3" lang="en" %}}, and the death of the firstborn (showing that Egypt had no future left to offer) helped push the Egyptians toward God, and {{% bible val="a mixed crowd" link="exo:12,38" lang="en" %}} left with Israel.
+Because of {{% bible val="Pharaoh’s hardened heart" link="exo:10,27" lang="en" %}}, the people of Egypt {{% bible val="were already in favor of Moses" link="exo:11,3" lang="en" %}}, and the death of the firstborn (showing that Egypt had no future left to offer) helped push the Egyptians toward God, and {{% bible val="a mixed crowd" link="exo:12,38" lang="en" %}} left with Israel.
 
 Before the tenth plague strikes, the {{% bible val="Passover is introduced" link="exo:12,1-13" lang="en" %}} — protection from the plague, but also the origin of the Lord’s Supper, and something like the birth of Israel as a people, since it {{% bible val="was open to anyone who wanted to join Israel" link="exo:12,43-49" lang="en" %}}. Alongside it, {{% bible val="the Feast of Unleavened Bread is introduced" link="exo:12,14-20" lang="en" %}}, underscoring that there is {{% bible val="no time to wait, only to hurry" link="exo:12,11" lang="en" %}}.
 
@@ -136,10 +138,20 @@ The plagues come back in the trumpets and the bowls: water turned to blood, hail
 
 The sign comes back too. Israel was to carry God's rescue "{{% bible val="as a sign on your hand and a reminder on your forehead" link="exo:13,9" lang="en" %}}": the forehead for what you believe, the hand for what you do. In Revelation the beast copies it. {{% bible val="Its mark goes on the right hand or the forehead" link="rev:13,16" lang="en" %}}, and God's people carry {{% bible val="his name on their foreheads" link="rev:14,1" lang="en" %}} instead.[^mark] So the question of the Exodus is still the question: whose sign do you carry?
 
-[^heqet]: TDOT, vol. 13, p. 371; on Heqet and resurrection, Beale, p. 833.
+[^structure]: Sarna lays the pattern out as a table: *Exploring Exodus*, Table 4.2, “The Literary Structure of the Plagues Narrative”, p. 76. On the magicians, Bräumer, p. 140.
 
 [^gods]: Beale, p. 465.
 
 [^witness]: Bauckham, *Climax*, pp. 277–278.
+
+[^nile]: Bräumer, p. 143. Because the Egyptians equated the Nile with the primeval water, they could also call it “father of the gods”. Khnum was honoured at Elephantine as guardian of the Nile springs, with Amon-Re, Aton, Sobek and Isis in the same role, and in some texts Osiris is identified with the Nile water itself. Bräumer’s source is the article on *yeʼor* in TDOT; see vol. 5, p. 360.
+
+[^heqet]: TDOT, vol. 13, p. 371; on Heqet and resurrection, Beale, p. 833.
+
+[^finger]: Bräumer, p. 151, after Holzinger and Jacobson: in the Egyptian story a god contending for dominion over the earth turned himself into a pig, crept up unrecognised, and with his finger blinded one of his opponent’s eyes. Why the magicians of all people had to say it is clear enough: they shaved head to foot and kept absolute cleanliness as the precondition of every sacred rite — and now their own bodies were infested (p. 150).
+
+[^dust]: Bräumer, p. 159, who puts it as a possibility and not a fact: it is “entirely conceivable” that throwing the soot into the air alludes to an Egyptian rite of atonement, since for religious purification the Egyptian sorcerer-priests scattered the ashes of sacrifices about. His evidence is in Keil, *Exodus*, p. 412.
+
+[^locust]: Bräumer, p. 166, after Montet: Egyptian farmers wore amulets in the shape of a locust and called on a special locust god to keep his own kind away from them.
 
 [^mark]: Beale, p. 717.

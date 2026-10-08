@@ -4,7 +4,7 @@ weight: 1
 docType: expl
 ---
 
-125 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+128 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -42,10 +42,12 @@ docType: expl
 | {{% bible val="Keluaran 8:1-15" link="exo:8,1-15" lang="ind" %}} | [2, Katak-katak](/id/expl/bible/exodus/the-plagues-in-egypt#b532) |
 | {{% bible val="Keluaran 8:1-15" link="exo:8,1-15" lang="ind" %}} | ["Cawan Keenam": tulah kedua di Mesir](/id/expl/content/bowls/the-bowls-of-wrath#9ced) |
 | {{% bible val="Keluaran 8:16-19" link="exo:8,16-19" lang="ind" %}} | [3, Nyamuk](/id/expl/bible/exodus/the-plagues-in-egypt#83d5) |
+| {{% bible val="Keluaran 8:19" link="exo:8,19" lang="ind" %}} | ["Polanya": ini adalah jari Allah](/id/expl/bible/exodus/the-plagues-in-egypt#5768) |
 | {{% bible val="Keluaran 8:20-32" link="exo:8,20-32" lang="ind" %}} | [4, Lalat](/id/expl/bible/exodus/the-plagues-in-egypt#7c93) |
 | {{% bible val="Keluaran 8:22-23" link="exo:8,22-23" lang="ind" %}} | ["Mengapa Tulah-Tulah di Mesir?": tanah Gosyen dibebaskan](/id/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
 | {{% bible val="Keluaran 9:1-7" link="exo:9,1-7" lang="ind" %}} | [5, Ternak](/id/expl/bible/exodus/the-plagues-in-egypt#ec69) |
 | {{% bible val="Keluaran 9:8-12" link="exo:9,8-12" lang="ind" %}} | [6, Barah](/id/expl/bible/exodus/the-plagues-in-egypt#4f61) |
+| {{% bible val="Keluaran 9:11" link="exo:9,11" lang="ind" %}} | ["Polanya": tidak dapat berdiri di hadapan Musa](/id/expl/bible/exodus/the-plagues-in-egypt#5768) |
 | {{% bible val="Keluaran 9:13-35" link="exo:9,13-35" lang="ind" %}} | [7, Hujan es](/id/expl/bible/exodus/the-plagues-in-egypt#c6b1) |
 | {{% bible val="Keluaran 9:14" link="exo:9,14" lang="ind" %}} | ["7, Hujan es": Allah menyerang dengan seluruh kekuatan yang telah Ia umumkan](/id/expl/bible/exodus/the-plagues-in-egypt#70b2) |
 | {{% bible val="Keluaran 9:18-21" link="exo:9,18-21" lang="ind" %}} | ["Polanya": menyelamatkan orang-orang mereka](/id/expl/bible/exodus/the-plagues-in-egypt#5768) |
@@ -63,14 +65,15 @@ docType: expl
 | {{% bible val="Keluaran 10:1-20" link="exo:10,1-20" lang="ind" %}} | [8, Belalang](/id/expl/bible/exodus/the-plagues-in-egypt#70b2) |
 | {{% bible val="Keluaran 10:4-5" link="exo:10,4-5" lang="ind" %}} | ["8, Belalang": Belalang datang dan menghancurkan segala sesuatu yang masih tersisa dari hujan es](/id/expl/bible/exodus/the-plagues-in-egypt#ae09) |
 | {{% bible val="Keluaran 10:7" link="exo:10,7" lang="ind" %}} | ["8, Belalang": para pejabat Firaun sendiri memohon kepadanya untuk melakukan apa yang diinginkan Musa](/id/expl/bible/exodus/the-plagues-in-egypt#ae09) |
-| {{% bible val="Keluaran 10:7" link="exo:10,7" lang="ind" %}} | ["Kematian Anak Sulung": 'hati yang kuat' Firaun](/id/expl/bible/exodus/the-plagues-in-egypt#4f21) |
 | {{% bible val="Keluaran 10:7" link="exo:10,7" lang="ind" %}} | ["Sangkakala Kelima dan Keenam": para pejabatnya sendiri memohon kepadanya untuk tunduk kepada Allah](/id/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Keluaran 10:13-17" link="exo:10,13-17" lang="ind" %}} | ["Sangkakala Kelima dan Keenam": membuat Firaun mengakui bahwa ia telah berdosa](/id/expl/content/trumpets/the-trumpets-in-revelation#813b) |
 | {{% bible val="Keluaran 10:16-17" link="exo:10,16-17" lang="ind" %}} | ["8, Belalang": tulah-tulah terus berlanjut dan Firaun mengakui dosanya](/id/expl/bible/exodus/the-plagues-in-egypt#ae09) |
 | {{% bible val="Keluaran 10:21-29" link="exo:10,21-29" lang="ind" %}} | [9, Kegelapan](/id/expl/bible/exodus/the-plagues-in-egypt#ae09) |
 | {{% bible val="Keluaran 10:22-23" link="exo:10,22-23" lang="ind" %}} | ["Keempat Sangkakala Pertama": tulah kesembilan di Mesir](/id/expl/content/trumpets/the-trumpets-in-revelation#e565) |
 | {{% bible val="Keluaran 10:23" link="exo:10,23" lang="ind" %}} | ["Mengapa Tulah-Tulah di Mesir?": semua orang Israel mendapat terang](/id/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
+| {{% bible val="Keluaran 10:27" link="exo:10,27" lang="ind" %}} | ["Kematian Anak Sulung": hati Firaun yang dikeraskan](/id/expl/bible/exodus/the-plagues-in-egypt#4f21) |
 | {{% bible val="Keluaran 10:27-28" link="exo:10,27-28" lang="ind" %}} | ["9, Kegelapan": Allah menguatkan hatinya begitu rupa sehingga ia mengancam akan membunuh Musa, utusan Allah sendiri, pada saat berikutnya ia melihatnya](/id/expl/bible/exodus/the-plagues-in-egypt#49ef) |
+| {{% bible val="Keluaran 10:28" link="exo:10,28" lang="ind" %}} | ["Polanya": pada hari engkau melihat mukaku, engkau akan mati](/id/expl/bible/exodus/the-plagues-in-egypt#5768) |
 | {{% bible val="Keluaran 11:3" link="exo:11,3" lang="ind" %}} | ["Kematian Anak Sulung": sudah berpihak kepada Musa](/id/expl/bible/exodus/the-plagues-in-egypt#4f21) |
 | {{% bible val="Keluaran 12" link="exo:12" lang="ind" %}} | ["Latar Belakang: Pola Keluaran": Keluaran 12](/id/kids/teens-prep/10-the-exodus-pattern) |
 | {{% bible val="Keluaran 12:1-13" link="exo:12,1-13" lang="ind" %}} | ["Kematian Anak Sulung": Paskah diperkenalkan](/id/expl/bible/exodus/the-plagues-in-egypt#4f21) |

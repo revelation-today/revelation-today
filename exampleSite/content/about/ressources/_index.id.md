@@ -127,9 +127,15 @@ Jika kamu ingin tahu lebih banyak tentang kisah penciptaan. [Ia menulis buku yan
 
 <a name="sarna_exo"></a>
 
-### Nahum Sarna: Exodus
+### Nahum Sarna: Exploring Exodus
 
 Jika kamu ingin melangkah lebih dalam untuk memahami Kitab Keluaran. [Ia menulis buku yang menarik](https://www.amazon.de/-/en/Nahum-M-Sarna/dp/0805210636).
+
+<a name="braeumer_exo"></a>
+
+### Hansjörg Bräumer: Das zweite Buch Mose, Kapitel 1–18
+
+Volume Wuppertaler Studienbibel untuk Keluaran 1–18, dalam bahasa Jerman. Dari sinilah latar belakang keagamaan Mesir dalam kisah tulah-tulah itu berasal, lengkap dengan sumbernya sendiri.
 
 <a name="daniel"></a>
 

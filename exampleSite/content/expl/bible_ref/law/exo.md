@@ -4,7 +4,7 @@ weight: 1
 docType: expl
 ---
 
-126 bible verses have been used in this book.
+129 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -42,10 +42,12 @@ docType: expl
 | {{% bible val="Exodus 8:1-15" link="exo:8,1-15" lang="en" %}} | [2, Frogs](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus 8:1-15" link="exo:8,1-15" lang="en" %}} | ["The sixth bowl": the second plague of Egypt](/expl/content/bowls/the-bowls-of-wrath#a667) |
 | {{% bible val="Exodus 8:16-19" link="exo:8,16-19" lang="en" %}} | [3, Gnats](/expl/bible/exodus/the-plagues-in-egypt#e181) |
+| {{% bible val="Exodus 8:19" link="exo:8,19" lang="en" %}} | ["The pattern": this is the finger of God](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus 8:20-32" link="exo:8,20-32" lang="en" %}} | [4, Flies](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus 8:22-23" link="exo:8,22-23" lang="en" %}} | ["Why the plagues of Egypt?": the land of Goshen was spared](/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
 | {{% bible val="Exodus 9:1-7" link="exo:9,1-7" lang="en" %}} | [5, Livestock](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus 9:8-12" link="exo:9,8-12" lang="en" %}} | [6, Boils](/expl/bible/exodus/the-plagues-in-egypt#e181) |
+| {{% bible val="Exodus 9:11" link="exo:9,11" lang="en" %}} | ["The pattern": cannot stand before Moses](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus 9:13-35" link="exo:9,13-35" lang="en" %}} | [7, Hail](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus 9:14" link="exo:9,14" lang="en" %}} | ["7, Hail": God strikes with the full force that He announces](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus 9:18-21" link="exo:9,18-21" lang="en" %}} | ["The pattern": sheltered their people](/expl/bible/exodus/the-plagues-in-egypt#e181) |
@@ -63,14 +65,15 @@ docType: expl
 | {{% bible val="Exodus 10:1-20" link="exo:10,1-20" lang="en" %}} | [8, Locusts](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus 10:5" link="exo:10,5" lang="en" %}} | ["8, Locusts": locusts come and destroy everything the hail had left standing](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus 10:7" link="exo:10,7" lang="en" %}} | ["8, Locusts": own officials beg him to do as Moses wishes](/expl/bible/exodus/the-plagues-in-egypt#e181) |
-| {{% bible val="Exodus 10:7" link="exo:10,7" lang="en" %}} | ["The death of the firstborn": Pharaoh’s 'strong heart'](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus 10:7" link="exo:10,7" lang="en" %}} | ["The fifth and sixth trumpet": his own officials pleading with him to submit to God](/expl/content/trumpets/the-trumpets-in-revelation#403f) |
 | {{% bible val="Exodus 10:13-17" link="exo:10,13-17" lang="en" %}} | ["The fifth and sixth trumpet": broke Pharaoh into admitting he had sinned](/expl/content/trumpets/the-trumpets-in-revelation#403f) |
 | {{% bible val="Exodus 10:16-17" link="exo:10,16-17" lang="en" %}} | ["8, Locusts": plagues continue and Pharaoh admits his sin](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus 10:21-29" link="exo:10,21-29" lang="en" %}} | [9, Darkness](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus 10:22-23" link="exo:10,22-23" lang="en" %}} | ["The first four trumpets": ninth plague in Egypt](/expl/content/trumpets/the-trumpets-in-revelation#8718) |
 | {{% bible val="Exodus 10:23" link="exo:10,23" lang="en" %}} | ["Why the plagues of Egypt?": all the Israelites had light](/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
+| {{% bible val="Exodus 10:27" link="exo:10,27" lang="en" %}} | ["The death of the firstborn": Pharaoh’s hardened heart](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus 10:27-28" link="exo:10,27-28" lang="en" %}} | ["9, Darkness": God strengthens his heart so much that he threatens to kill Moses, God’s own messenger, the next time he sees him](/expl/bible/exodus/the-plagues-in-egypt#e181) |
+| {{% bible val="Exodus 10:28" link="exo:10,28" lang="en" %}} | ["The pattern": the day you see my face you shall die](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus 11:3" link="exo:11,3" lang="en" %}} | ["The death of the firstborn": were already in favor of Moses](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus 12" link="exo:12" lang="en" %}} | ["Background: The Exodus Pattern": Exodus 12](/kids/teens-prep/10-the-exodus-pattern) |
 | {{% bible val="Exodus 12:1-13" link="exo:12,1-13" lang="en" %}} | ["The death of the firstborn": Passover is introduced](/expl/bible/exodus/the-plagues-in-egypt#e181) |

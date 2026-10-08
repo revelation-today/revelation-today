@@ -4,7 +4,7 @@ weight: 1
 docType: expl
 ---
 
-Bu kitapta kullanılan 125 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 128 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -42,10 +42,12 @@ Bu kitapta kullanılan 125 Kutsal Kitap pasajı vardır
 | {{% bible val="Mısırdan Çıkış 8:1-15" link="exo:8,1-15" lang="tr" %}} | [2, Kurbağalar](/tr/expl/bible/exodus/the-plagues-in-egypt#d1f4) |
 | {{% bible val="Mısırdan Çıkış 8:1-15" link="exo:8,1-15" lang="tr" %}} | ["Altıncı kase": Mısır'daki ikinci belayı](/tr/expl/content/bowls/the-bowls-of-wrath#33de) |
 | {{% bible val="Mısırdan Çıkış 8:16-19" link="exo:8,16-19" lang="tr" %}} | [3, Sivrisinekler](/tr/expl/bible/exodus/the-plagues-in-egypt#aaff) |
+| {{% bible val="Mısırdan Çıkış 8:19" link="exo:8,19" lang="tr" %}} | ["Desen": bu, Tanrı'nın parmağıdır](/tr/expl/bible/exodus/the-plagues-in-egypt#2fad) |
 | {{% bible val="Mısırdan Çıkış 8:20-32" link="exo:8,20-32" lang="tr" %}} | [4, Sinekler](/tr/expl/bible/exodus/the-plagues-in-egypt#4300) |
 | {{% bible val="Mısırdan Çıkış 8:22-23" link="exo:8,22-23" lang="tr" %}} | ["Neden Mısır'daki belalar?": Goşen bölgesi esirgendi](/tr/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
 | {{% bible val="Mısırdan Çıkış 9:1-7" link="exo:9,1-7" lang="tr" %}} | [5, Hayvancılık](/tr/expl/bible/exodus/the-plagues-in-egypt#c89c) |
 | {{% bible val="Mısırdan Çıkış 9:8-12" link="exo:9,8-12" lang="tr" %}} | [6, Çıbanlar](/tr/expl/bible/exodus/the-plagues-in-egypt#789e) |
+| {{% bible val="Mısırdan Çıkış 9:11" link="exo:9,11" lang="tr" %}} | ["Desen": Musa'nın önüne çıkamaz olurlar](/tr/expl/bible/exodus/the-plagues-in-egypt#2fad) |
 | {{% bible val="Mısırdan Çıkış 9:13-35" link="exo:9,13-35" lang="tr" %}} | [7, Dolu](/tr/expl/bible/exodus/the-plagues-in-egypt#d9de) |
 | {{% bible val="Mısırdan Çıkış 9:14" link="exo:9,14" lang="tr" %}} | ["7, Dolu": Tanrı, önceden bildirdiği tam güçle vurur](/tr/expl/bible/exodus/the-plagues-in-egypt#d700) |
 | {{% bible val="Mısırdan Çıkış 9:18-21" link="exo:9,18-21" lang="tr" %}} | ["Desen": adamlarını sığınağa aldı](/tr/expl/bible/exodus/the-plagues-in-egypt#2fad) |
@@ -63,14 +65,15 @@ Bu kitapta kullanılan 125 Kutsal Kitap pasajı vardır
 | {{% bible val="Mısırdan Çıkış 10:1-20" link="exo:10,1-20" lang="tr" %}} | [8, Çekirgeler](/tr/expl/bible/exodus/the-plagues-in-egypt#d700) |
 | {{% bible val="Mısırdan Çıkış 10:5" link="exo:10,5" lang="tr" %}} | ["8, Çekirgeler": Çekirgeler gelir ve dolunun bıraktığı her şeyi yok eder](/tr/expl/bible/exodus/the-plagues-in-egypt#ef77) |
 | {{% bible val="Mısırdan Çıkış 10:7" link="exo:10,7" lang="tr" %}} | ["8, Çekirgeler": kendi görevlileri bile ona Musa’nın istediğini yapması için yalvarır](/tr/expl/bible/exodus/the-plagues-in-egypt#ef77) |
-| {{% bible val="Mısırdan Çıkış 10:7" link="exo:10,7" lang="tr" %}} | ["İlk doğanın ölümü": Firavun’un “katılaşmış yüreği” yüzünden](/tr/expl/bible/exodus/the-plagues-in-egypt#d9b7) |
 | {{% bible val="Mısırdan Çıkış 10:7" link="exo:10,7" lang="tr" %}} | ["Beşinci ve altıncı borazan": kendi görevlilerinin ona Tanrı'ya boyun eğmesi için yalvardığı](/tr/expl/content/trumpets/the-trumpets-in-revelation#9bbb) |
 | {{% bible val="Mısırdan Çıkış 10:13-17" link="exo:10,13-17" lang="tr" %}} | ["Beşinci ve altıncı borazan": Firavun'u günah işlediğini itiraf etmeye zorlayan](/tr/expl/content/trumpets/the-trumpets-in-revelation#9bbb) |
 | {{% bible val="Mısırdan Çıkış 10:16-17" link="exo:10,16-17" lang="tr" %}} | ["8, Çekirgeler": belalar sürüp Firavun günahını itiraf ederken bile](/tr/expl/bible/exodus/the-plagues-in-egypt#ef77) |
 | {{% bible val="Mısırdan Çıkış 10:21-29" link="exo:10,21-29" lang="tr" %}} | [9, Karanlık](/tr/expl/bible/exodus/the-plagues-in-egypt#ef77) |
 | {{% bible val="Mısırdan Çıkış 10:22-23" link="exo:10,22-23" lang="tr" %}} | ["İlk dört borazan": Mısır'daki dokuzuncu belayı](/tr/expl/content/trumpets/the-trumpets-in-revelation#c8ff) |
 | {{% bible val="Mısırdan Çıkış 10:23" link="exo:10,23" lang="tr" %}} | ["Neden Mısır'daki belalar?": İsraillilerin hepsinin oturduğu yerde ışık vardı](/tr/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
+| {{% bible val="Mısırdan Çıkış 10:27" link="exo:10,27" lang="tr" %}} | ["İlk doğanın ölümü": Firavun’un katılaşmış yüreği yüzünden](/tr/expl/bible/exodus/the-plagues-in-egypt#d9b7) |
 | {{% bible val="Mısırdan Çıkış 10:27-28" link="exo:10,27-28" lang="tr" %}} | ["9, Karanlık": Tanrı onun yüreğini öylesine güçlendirir ki, Tanrı’nın kendi elçisi olan Musa’yı bir daha gördüğünde onu öldürmekle tehdit eder](/tr/expl/bible/exodus/the-plagues-in-egypt#94f3) |
+| {{% bible val="Mısırdan Çıkış 10:28" link="exo:10,28" lang="tr" %}} | ["Desen": yüzümü gördüğün gün öleceksin](/tr/expl/bible/exodus/the-plagues-in-egypt#2fad) |
 | {{% bible val="Mısırdan Çıkış 11:3" link="exo:11,3" lang="tr" %}} | ["İlk doğanın ölümü": zaten Musa’dan yana bir tavır almıştı](/tr/expl/bible/exodus/the-plagues-in-egypt#d9b7) |
 | {{% bible val="Mısırdan Çıkış 12" link="exo:12" lang="tr" %}} | ["Arka Plan: Çıkış Örüntüsü": Mısır'dan Çıkış 12](/tr/kids/teens-prep/10-the-exodus-pattern) |
 | {{% bible val="Mısırdan Çıkış 12:1-13" link="exo:12,1-13" lang="tr" %}} | ["İlk doğanın ölümü": Fısıh tanıtılır](/tr/expl/bible/exodus/the-plagues-in-egypt#d9b7) |

@@ -127,9 +127,15 @@ If you want to know more about the creation story. [He wrote a good book with lo
 
 <a name="sarna_exo"></a>
 
-### Nahum Sarna: Exodus
+### Nahum Sarna: Exploring Exodus
 
 If you want to step deeper into the understanding of Exodus. [He wrote an interesting book](https://www.amazon.de/-/en/Nahum-M-Sarna/dp/0805210636).
+
+<a name="braeumer_exo"></a>
+
+### Hansjörg Bräumer: Das zweite Buch Mose, Kapitel 1–18
+
+The Wuppertaler Studienbibel volume on Exodus 1–18, in German. This is where the Egyptian religious background of the plagues comes from, with its own sources named.
 
 <a name="daniel"></a>
 
