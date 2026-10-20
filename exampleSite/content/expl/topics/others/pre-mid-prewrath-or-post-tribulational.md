@@ -30,7 +30,7 @@ The church is removed from earth before any part of a future seven-year tribulat
 
 **In favor:**
 
-- It reads {{% bible val="'kept from the hour of trial that is going to come upon the whole world'" link="rev:3,10" lang="en" %}} as a promise of removal before the trial starts, not endurance through it.
+- It reads {{% bible val="'kept from the hour of trial that is going to come upon the whole world'" link="rev:3,10" lang="en" %}} as a promise of removal before the trial starts, not endurance through it. Its best point is in the wording: the promise is to be kept from *the hour*, not only from the testing inside it.[^hour]
 - It takes {{% bible val="'God has not destined us for wrath'" link="1th:5,9" lang="en" %}} as a guarantee of being spared the entire tribulation period, not only its final outpouring of judgment.
 - The church is never named again {{% bible val="from chapter 4 until the last verses of Revelation" link="rev:4,1" lang="en" %}}, which reads to some as evidence it has already left the scene.
 - It preserves a clean sense of imminence — Christ could return at any moment, with nothing yet prophesied that has to happen first.
@@ -42,7 +42,7 @@ The church is removed from earth before any part of a future seven-year tribulat
 - Paul never actually names the restrainer in 2 Thessalonians 2. Serious commentators identify it variously as the Holy Spirit's restraining presence in the world, the ongoing preaching of the gospel, human government, or even the archangel Michael (compare {{% bible val="Michael's own restraining role" link="dan:12,1" lang="en" %}}) — none of which requires the church itself to be physically removed from earth, only that a particular restraining influence steps back or is set aside.
 - The church's absence from the label "church" in chapters 4–19 is an argument from silence; the same chapters keep addressing believers directly under other names — {{% bible val="the saints" link="rev:13,7" lang="en" %}}, {{% bible val="those who keep God's commands and hold to the testimony of Jesus" link="rev:12,17" lang="en" %}}, {{% bible val="those slain because of the word of God" link="rev:6,9" lang="en" %}}.
 - There is no clear teaching of a pretribulational rapture before the 1830s. The few earlier texts its defenders cite are disputed.[^before] That is a striking gap for something claimed to be the New Testament's own plain teaching.
-- {{% bible val="'kept from the hour of trial'" link="rev:3,10" lang="en" %}} uses the same construction elsewhere for being {{% bible val="kept safe through danger, not removed from the place where the danger is" link="jhn:17,15" lang="en" %}}, where Jesus prays the Father would keep believers *from the evil one* while explicitly *not* taking them out of the world.
+- {{% bible val="'kept from the hour of trial'" link="rev:3,10" lang="en" %}} uses the same construction elsewhere for being {{% bible val="kept safe through danger, not removed from the place where the danger is" link="jhn:17,15" lang="en" %}}, where Jesus prays the Father would keep believers *from the evil one* while explicitly *not* taking them out of the world. Pre-tribulational writers read that verse the other way, as being kept out of the evil one's realm, so this is an argument, not a settled point.[^hour]
 
 ## Mid-tribulational
 
@@ -119,3 +119,5 @@ A few closing questions worth sitting with:
 - {{% int_link val="Bock, Three Views on the Millennium and Beyond" link="/about/ressources#bock_millennium" %}} models how to compare positions fairly by hearing each one from a scholar who actually holds it — {{% int_link val="a similar volume exists for the rapture-timing debate" link="/about/ressources#rapture_views" %}}, if you want to go deeper than a summary like this one.
 
 [^before]: The texts are a sermon attributed to Ephraem the Syrian ("Pseudo-Ephraem") and the Baptist Morgan Edwards (1788). They are put forward by Thomas Ice and Timothy Demy, *Bibliotheca Sacra* 152 (1995), pp. 306–317.
+
+[^hour]: Jeffrey Townsend, "The Rapture in Revelation 3:10", in Thomas Ice and Timothy Demy (eds.), *When the Trumpet Sounds* (Harvest House, 1995), and Andy Woods, "A Closer Look at Pretribulationism and Revelation 3:10" (Pre-Trib Research Center, 2025), pp. 9–13, who argue from the Greek article before "hour" and from *ek* in John 17:15. Robert Gundry's contrast between "take them out of the world" and "keep them from the evil one" (*The Church and the Tribulation*, 1973, p. 59) is the other side of the same argument.
