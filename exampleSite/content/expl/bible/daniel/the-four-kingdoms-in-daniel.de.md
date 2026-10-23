@@ -64,6 +64,8 @@ Wer also ist dieser Menschensohn? In Daniels eigenem Kontext steht er für das h
 <a name="e6a6"></a>
 Die Kapitel 2 und 7 beschreiben eindeutig dieselben vier Königreiche und enden mit Rom zu der Zeit, als Jesus geboren wird und die Reiche am Kreuz besiegt. Aber ein paar Details passen nicht ganz zu dieser Lesart. Kapitel 2 erwähnt weitere Königreiche, die durch die Füße der Statue dargestellt werden. Der Stein in Kapitel 2 — Jesu erstes Kommen — zerstörte nicht die ganze Statue auf einmal, denn Rom bestand danach noch mehr als 400 Jahre weiter. Auch die Beschreibung des vierten Tieres in Kapitel 7 passt nicht vollständig zu Rom: Es wird als furchtbar und schrecklich bezeichnet, anders als alle Tiere zuvor, und mit zehn Hörnern versehen, doch Rom war in dieser Hinsicht nicht besonders anders als frühere Reiche, und die zehn Hörner lassen sich nie eindeutig etwas Festem in der römischen Geschichte zuordnen. Und die Szene, in der der Menschensohn in Kapitel 7 kommt, liest sich wie ein Endgericht, doch wenn es sich hier einfach um Rom handelte, würde sich nach diesem Gericht nicht wirklich viel ändern.
 
+{{% study %}}
+
 Jede dieser Einzelheiten hat eine Antwort, und zusammen zeigen sie, dass das vierte Reich mehr ist als das Rom des ersten Jahrhunderts.
 
 **Die Füße aus Eisen und Ton.** Die Statue bekommt kein fünftes Metall. Das Eisen geht weiter, vermischt und brüchig. Das vierte Reich besteht in geteilter Form fort: dieselbe Art von Macht, in immer neuen Staaten.
@@ -73,6 +75,8 @@ Jede dieser Einzelheiten hat eine Antwort, und zusammen zeigen sie, dass das vie
 **Das vierte Tier, das „anders“ ist.** Daniel selbst sagt, dass die ersten drei Tiere {{% bible val="ihre Herrschaft verlieren, aber noch eine Zeit zu leben bekommen" link="dan:7,12" lang="de" %}}. Die alten Reiche leben im nächsten weiter. Die Offenbarung führt das aus: Ihr Tier hat {{% bible val="das Maul des Löwen, die Füße des Bären und den Leib des Panthers zugleich" link="rev:13,1-2" lang="de" %}}. Das vierte Tier ist also nicht ein Reich unter anderen. Es ist das, was hinter ihnen allen steht, und Rom war sein Gesicht, als Johannes schrieb.[^beast]
 
 **Die Gerichtsszene.** In Daniel 7 kommt der Menschensohn zu Gott und empfängt das Reich. Jesus empfing es, als er auferstand und zum Vater ging: „{{% bible val="Mir ist gegeben alle Gewalt im Himmel und auf Erden" link="mat:28,18" lang="de" %}}“. Das Gericht hat getagt, und das Urteil ist gesprochen. Seine letzte Vollstreckung steht noch aus.
+
+{{% /study %}}
 
 Was hat sich also seit Jesus geändert? Nicht, dass die Welt stetig besser würde, und nicht, dass die Gemeinde sie regiert. {{% bible val="Weizen und Unkraut wachsen miteinander bis zur Ernte" link="mat:13,30" lang="de" %}}. Geändert hat sich, wer auf dem Thron sitzt. Jesus herrscht, und sein Volk hat an seiner Herrschaft Anteil, so wie er herrscht: {{% bible val="durch Dienen, nicht durch Beherrschen" link="mat:20,25-28" lang="de" %}}, durch Zeugnis und durch Ausharren. Wo die Kirche anders herrschen wollte, mit Kreuzzügen, Inquisition und erzwungenen Bekehrungen, hat sie das Tier nachgeahmt.
 

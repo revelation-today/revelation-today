@@ -45,12 +45,18 @@ Son zaman ve onun terminolojisi etrafında çok fazla kafa karışıklığı var
 
 Son zamana dair bu daha geniş bakış açısı yalnızca Vahiy'de değil, Yeni Antlaşma'nın tamamında geçer: Petrus Pentikost'u {{% bible val="son günlerin" link="act:2,16-17" lang="tr" %}} gelişi olarak okur, İbraniler {{% bible val="bu son günlerde O, Oğlu aracılığıyla bize seslendi" link="heb:1,2" lang="tr" %}} diye başlar, Pavlus okurlarına {{% bible val="çağların sonunun üzerlerine geldiğini" link="1co:10,11" lang="tr" %}} söyler ve Yuhanna yalnızca şunu yazar: {{% bible val="son saat gelmiştir" link="1jn:2,18" lang="tr" %}}.
 
+{{% study %}}
+
 Öte yandan, son zamanın daha dar bir anlamda yalnızca İsa'nın ikinci gelişine ve öncesindeki kısa süreye işaret ettiğini de öne sürebilirsiniz. Bu okumaya göre, Vahiy Kitabı'nın yalnızca belirli bir bölümü doğrudan yanıt verir, geri kalanı ise daha az ilgili görünebilir — gerçi Yeni Antlaşma'daki pek çok başka pasaj da bu daha dar anlama değinir.
+
+{{% /study %}}
 
 ## Büyük sıkıntı
 
 <a name="ef13"></a>
 Büyük Sıkıntı, {{% bible val="Vahiy Kitabı'nda" link="rev:7,14" lang="tr" %}} geçen bir terimdir, ve belirli tanımlık — "the" Great Tribulation — bu terimin bir geçmişi olduğunu gösterir. Kökeni Daniel'e dayanır:
+
+{{% background %}}
 
 "{{% bible val="O zaman halkını koruyan büyük önder Mikail görünecek. Ulusların oluşumundan bu yana hiç görülmemiş bir sıkıntı dönemi olacak. Ama o zaman halkın —adı kitapta yazılı olan herkes— kurtulacak." link="dan:12,1" lang="tr" %}}"
 
@@ -58,11 +64,17 @@ Bu pasaja, İsa'nın Yeruşalim'in ve tapınağın yıkımından söz ettiği {{
 
 Daniel'in kendi bağlamında bu, {{% bible val="Antiokhos Epifanes döneminde ve sonrasında" link="dan:11,30-39" lang="tr" %}} Tanrı halkının sadakatini vurgulamak içindi, ve {{% bible val="kutsalları arındırıp kutsallarla kötüler arasında ayrım yapmaya" link="dan:12,10" lang="tr" %}} yarıyordu — çünkü {{% bible val="Tanrı'nın halkından bazıları kandırılıp Tanrı'dan uzaklaşacaktı" link="dan:11,32-34" lang="tr" %}}.
 
+{{% /background %}}
+
 Bu baskı, {{% bible val="Smyrna'da olduğu gibi" link="rev:2,9" lang="tr" %}} ya da {{% bible val="üçüncü atlıda olduğu gibi" link="rev:6,5-6" lang="tr" %}} ekonomik bir biçim alabilir, ya da {{% bible val="hapis ve hatta ölüm" link="rev:2,10" lang="tr" %}} anlamına gelebilir. Bu sıkıntının {{% bible val="İsa tarafından öğrencilerine" link="jhn:16,33" lang="tr" %}} önceden bildirildiğini, {{% bible val="Pavlus'un görevi sırasında" link="act:14,21-22" lang="tr" %}} yaşandığını, {{% bible val="umudun bir katalizörü" link="rom:5,3-4" lang="tr" %}} olarak tanımlandığını, {{% bible val="bizi İsa'dan ayıramayacağını" link="rom:8,35-39" lang="tr" %}}, {{% bible val="Timoteos'a bir uyarı" link="2ti:3,12" lang="tr" %}} olarak verildiğini ve {{% bible val="Petrus'un mektubunda" link="1pe:4,12-13" lang="tr" %}} yeniden ele alındığını görürüz.
 
 {{% bible val="Terimin kendisi, lideri İzebel olarak tanımlanan Tiyatira kilisesine yönelik bir uyarı ve onun hakkında bir yargı olarak yeniden ele alınır" link="rev:2,22" lang="tr" %}}.
 
+{{% study %}}
+
 Bütün bunlar Büyük Sıkıntı'yı, İsa'nın ilk ve ikinci gelişi arasındaki tüm zamana yayılan bir şey haline getirir. Ama bu nasıl mümkün olabilir? Bütün yorumcular bunu böyle okumaz — pek çoğu Büyük Sıkıntı'yı, tüm kilise çağı olarak değil, hâlâ önümüzde duran belirli, sınırlı bir dönem olarak anlar. Bu yüzden bu okumayı neyin taşıdığını söylemekte fayda var — Yeni Antlaşma’nın sıkıntıdan çok söz ettiği gözleminden fazlası. Üç şey. Belirtili tanımlık: 7:14’teki "**o** büyük sıkıntı", okurun daha önce karşılaştığı bir sıkıntıya — Tiyatira’nın girmek üzere olduğu sıkıntıya — geri gönderir (2:22). {{% bible val="3:10" link="rev:3,10" lang="tr" %}}’daki koşut vaat, bütün dünyanın üzerine gelecek denenme saati, aynı Daniel bölümüne geri uzanır ve İsa’nın hizmetinden dönüşüne kadarki süreyi kapsar. Bir de Yeni Antlaşma’nın kendi kullanımı: Pavlus sıkıntıdan söz ettiğinde, neredeyse her zaman okurlarının içinde bulunduğu bir şeyi anlatır, henüz gelmemiş bir dönemi değil.[^trib] Ama yukarıdaki Yeni Antlaşma alıntılarının örüntüsü, daha geniş, "henüz ile şimdiden" arasında bir kapsam öneriyor. (Bu okumanın kilisenin göğe alınmasının zamanlamasıyla nasıl ilişkili olduğuna dair daha kapsamlı bir bakış için bkz. {{% int_link val="Pretribülasyonist, midtribülasyonist, gazap-öncesi, yoksa posttribülasyonist mi?" link="/expl/topics/others/pre-mid-prewrath-or-post-tribulational" %}}.)
+
+{{% /study %}}
 
 Daniel'deki pasaja tekrar bakalım: "İsrail'in koruyucusu Mikail ortaya çıkacak." Bu, Vahiy Kitabı'nda {{% int_link val="Mesih'in ilk gelişiyle" link="/expl/content/jesus/a-different-christmas-story" %}} bağlantılı olarak 12. bölümde yeniden ele alınır; orada {{% bible val="Mikail ejderhayla" link="rev:12,7" lang="tr" %}} — {{% bible val="şeytanla" link="rev:12,9" lang="tr" %}} — savaşır ve onu yenip gökten atar.
 

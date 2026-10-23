@@ -45,12 +45,18 @@ Berikut ini gambaran singkat tentang garis waktu dalam kitab ini:
 
 Pandangan yang lebih luas tentang akhir zaman ini berjalan di sepanjang Perjanjian Baru, bukan hanya dalam kitab Wahyu: Petrus membaca Pentakosta sebagai tibanya {{% bible val="hari-hari terakhir" link="act:2,16-17" lang="ind" %}}, Ibrani dibuka dengan {{% bible val="pada zaman akhir ini Ia telah berbicara kepada kita melalui Anak-Nya" link="heb:1,2" lang="ind" %}}, Paulus mengatakan kepada para pembacanya bahwa {{% bible val="kesudahan zaman telah tiba atas mereka" link="1co:10,11" lang="ind" %}}, dan Yohanes menulis sesederhana ini: {{% bible val="sekarang telah tiba waktu yang terakhir" link="1jn:2,18" lang="ind" %}}.
 
+{{% study %}}
+
 Di sisi lain, kamu bisa berargumen bahwa akhir zaman merujuk secara lebih sempit pada kedatangan Yesus yang kedua dan masa singkat yang mengarah ke sana. Dalam pembacaan itu, hanya sebagian kitab Wahyu yang memberikan jawaban langsung, dan bagian lainnya mungkin terasa kurang relevan - meskipun banyak nas Perjanjian Baru lain juga berbicara tentang pengertian yang lebih sempit ini.
+
+{{% /study %}}
 
 ## Kesengsaraan Besar
 
 <a name="a3b5"></a>
 Kesengsaraan Besar adalah istilah yang muncul dalam {{% bible val="kitab Wahyu" link="rev:7,14" lang="ind" %}}, dan kata sandang tertentu - "yang" Kesengsaraan Besar - menandakan bahwa istilah ini memiliki sejarah di baliknya. Istilah ini berasal dari kitab Daniel:
+
+{{% background %}}
 
 "{{% bible val="Pada waktu itu Mikhael akan bangkit, dia pemimpin besar itu, yang mendampingi anak-anak bangsamu; dan itu akan menjadi suatu waktu kesesakan yang besar, seperti yang belum pernah terjadi sejak ada bangsa-bangsa sampai pada waktu itu. Tetapi pada waktu itu bangsamu akan diluputkan, yakni barangsiapa yang didapati namanya tertulis dalam Kitab itu." link="dan:12,1" lang="ind" %}}"
 
@@ -58,11 +64,17 @@ Nas ini dirujuk kembali dalam {{% bible val="Injil Matius" link="mat:24,21" lang
 
 Dalam konteks Daniel sendiri, ini dimaksudkan untuk menegaskan kesetiaan umat Allah pada masa {{% bible val="Antiokhus Epifanes dan seterusnya" link="dan:11,30-39" lang="ind" %}}, dan berfungsi untuk {{% bible val="memurnikan orang-orang kudus dan memisahkan mereka dari orang-orang fasik" link="dan:12,10" lang="ind" %}} - sebab sebagian dari {{% bible val="umat Allah akan disesatkan dan berpaling dari Allah" link="dan:11,32-34" lang="ind" %}}.
 
+{{% /background %}}
+
 Penindasan ini bisa berbentuk ekonomi, {{% bible val="seperti di Smirna" link="rev:2,9" lang="ind" %}} atau {{% bible val="melalui penunggang kuda ketiga" link="rev:6,5-6" lang="ind" %}}, atau bisa juga berarti {{% bible val="penjara dan bahkan kematian" link="rev:2,10" lang="ind" %}}. Kita melihat kesengsaraan ini sudah dinubuatkan {{% bible val="oleh Yesus kepada murid-murid-Nya" link="jhn:16,33" lang="ind" %}}, terwujud dalam {{% bible val="pelayanan Paulus" link="act:14,22" lang="ind" %}}, digambarkan sebagai {{% bible val="pemicu pengharapan" link="rom:5,3-4" lang="ind" %}} yang {{% bible val="tidak dapat memisahkan kita dari Yesus" link="rom:8,35-39" lang="ind" %}}, disampaikan sebagai {{% bible val="peringatan bagi Timotius" link="2ti:3,12" lang="ind" %}}, dan dibahas kembali dalam {{% bible val="surat Petrus" link="1pe:4,12-13" lang="ind" %}}.
 
 {{% bible val="Istilah ini sendiri diangkat kembali sebagai peringatan bagi jemaat di Tiatira, dalam penghakiman atas pemimpinnya, yang diidentifikasi sebagai Izebel" link="rev:2,22" lang="ind" %}}.
 
+{{% study %}}
+
 Semua ini menjadikan Kesengsaraan Besar sesuatu yang terbentang sepanjang seluruh masa antara kedatangan Yesus yang pertama dan yang kedua. Tetapi bagaimana itu mungkin? Tidak semua penafsir membacanya seperti ini - banyak yang memahami Kesengsaraan Besar sebagai suatu masa tertentu yang terbatas dan masih ada di depan kita, bukan sebagai seluruh zaman gereja. Karena itu perlu dikatakan apa yang menopang pembacaan ini, lebih daripada sekadar pengamatan bahwa Perjanjian Baru banyak berbicara tentang kesengsaraan. Ada tiga hal. Kata sandangnya: "**Kesengsaraan** Besar" dalam 7:14 menunjuk kembali kepada kesengsaraan yang sudah dijumpai pembaca — yang akan dimasuki Tiatira (2:22). Janji sejajar dalam {{% bible val="3:10" link="rev:3,10" lang="ind" %}}, saat pencobaan yang akan datang atas seluruh dunia, kembali kepada pasal Daniel yang sama dan mencakup rentang dari pelayanan Yesus sampai kedatangan-Nya kembali. Dan pemakaian kata itu sendiri dalam Perjanjian Baru: ketika Paulus menulis tentang kesengsaraan, hampir selalu ia menggambarkan sesuatu yang sedang dialami pembacanya, bukan masa yang masih akan datang.[^trib] Namun pola kutipan-kutipan Perjanjian Baru di atas menunjukkan cakupan yang lebih luas, yaitu "sudah dan belum sepenuhnya". (Untuk pembahasan lebih lengkap tentang bagaimana pembacaan ini berkaitan dengan waktu pengangkatan, lihat {{% int_link val="Pratribulasi, pertengahan tribulasi, pra-murka, atau pascatribulasi?" link="/expl/topics/others/pre-mid-prewrath-or-post-tribulational" %}}.)
+
+{{% /study %}}
 
 Lihat kembali nas dalam Daniel: "Mikhael, pelindung Israel, akan bangkit." Hal ini diangkat kembali dalam kitab Wahyu dalam kaitannya dengan {{% int_link val="kedatangan Kristus yang pertama" link="/expl/content/jesus/a-different-christmas-story" %}} di pasal 12, di mana {{% bible val="Mikhael berperang melawan sang naga" link="rev:12,7" lang="ind" %}} - {{% bible val="si Iblis" link="rev:12,9" lang="ind" %}} - dan mengalahkannya, melemparkannya keluar dari surga.
 

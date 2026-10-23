@@ -107,6 +107,8 @@ Bu sayılardan ya da isim sayımlarından bazılarının rastlantısal olabilece
 <a name="bc16"></a>
 Vahiy'in sayılarının bir katmanı daha vardır: oluşturdukları şekiller.
 
+{{% study %}}
+
 **Şekilli sayılar.** Yuhanna'nın zamanında sayılar, şekiller oluşturacak biçimde dizilmiş çakıllar olarak düşünülürdü — birinci yüzyılın eğitimli okurlarının bildiği eski bir Pisagorcu alışkanlık (Bauckham, *Climax of Prophecy*, s. 391). Bazı sayılar üçgen (1 + 2 + 3 …), bazıları kare (6 × 6), bazıları dikdörtgen (6 × 7) oluşturur.
 
 **Yuhanna'nın sayılarına yerleştirdikleri.** Richard Bauckham, Yuhanna'nın bu şekilleri bilerek kullandığını göstermiştir (*Climax of Prophecy*, s. 390–402):
@@ -152,6 +154,8 @@ Her adım sayıyı kendisiyle çarptığı için uçurum aynı kalmaz, her adım
 ![](/images/numbers-scale.tr.svg)
 
 **Bu nereye kadar geçerli.** Hesap kesindir. Bauckham'ın kısmı, Yuhanna'nın bunu kastettiğine dair bilimsel bir savdır ve ilk Hristiyanlar bu oyunu gerçekten oynamıştır: *İşaya'nın Göğe Yükselişi* Deccal'a 1332 gün, 666'ya bağlı dikdörtgeni verir (Bauckham, *Climax of Prophecy*, s. 403). İddia ve gerçek örüntüsü metnin kendisine dayanır — taçlar, boynuzlar, bir saat, ateş — ve Beale canavarın taçlarını Mesih'in krallığına dair sahte iddialar olarak okur. İki sayı ailesi Bauckham'a aittir; canavarın son adımını Tanrı'nın ailesi için de atmak ve bundan doğan büyüyen uçurum bu sitenin canlandırmasıdır — gizli bir şifre olarak değil, Vahiy'in sözlerle söylediğinin bir resmi olarak sunulur: Şeytan, Tanrı'dan biraz büyük görünmeye çalışır ve çok daha küçük olduğu gösterilir.
+
+{{% /study %}}
 
 [^collins]: Sayıları bir ağ olarak görme fikri A. Y. Collins'e aittir: "Numerical Symbolism in Jewish and Early Christian Apocalyptic Literature" (1984), Beale'in aktarımıyla, s. 59, 63. Collins yedinin eksiksizlik anlamına geldiğinden şüphe eder; Beale ona cevap verir (s. 63–64).
 

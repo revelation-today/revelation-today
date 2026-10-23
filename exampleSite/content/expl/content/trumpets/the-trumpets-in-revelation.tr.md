@@ -56,6 +56,8 @@ Bu, metnin sizin için çözmediği iki zor soru bırakır geriye. Birincisi: bu
 <a name="e7a1"></a>
 Yuhanna borazanları Mısır'daki belalardan kurar — dolu, kana dönen su, karanlık, çekirgeler. Bu arka plan, onları nasıl okumamız gerektiğini değiştirir.
 
+{{% background %}}
+
 **Asıl amaç hiçbir zaman Mısırlıları yok etmek değildi.** Belalar {{% bible val="Mısır'ın bütün ilahlarına" link="exo:12,12" lang="tr" %}} yönelikti — Nil, güneş, verimli toprak; Mısır'ın güvendiği her güç — ve açıkça belirtilen amaçları, {{% bible val="Mısırlıların benim RAB olduğumu bilmesi" link="exo:7,5" lang="tr" %}} idi. Firavun'un kendi sorusunu — {{% bible val="RAB kim ki, sözünü dinleyeyim?" link="exo:5,2" lang="tr" %}} — suyu, ışığı ve ekmeği gerçekte kimin verdiğini göstererek yanıtladılar. Tanrı kendini, Mısır'ın dayandığı her şeyin gerçek alternatifi olarak tanıtıyordu.
 
 **Belalar bir çıkış yoluyla birlikte, uyarı olarak geldi.** Doludan önce Tanrı Mısırlılara kölelerini ve hayvanlarını korunaklı yere almalarını söyletti ve {{% bible val="Firavun'un görevlilerinden RAB'bin sözünden korkanlar bunu yaptı" link="exo:9,20-21" lang="tr" %}}. İsrail sonunda çıktığında {{% bible val="onlarla birlikte başka birçok insan da çıktı" link="exo:12,38" lang="tr" %}}. Borazanlar da aynı ölçülülüğü taşır: her şeyi değil, üçte birini vurur — Tanrı, dönüşe yer bırakmak için gazabını tutar.
@@ -65,6 +67,8 @@ Yuhanna borazanları Mısır'daki belalardan kurar — dolu, kana dönen su, kar
 **Tanrı'nın halkı ayrı tutulur.** Dördüncü beladan itibaren {{% bible val="Goşen bölgesi esirgendi" link="exo:8,22-23" lang="tr" %}}, karanlıkta da {{% bible val="İsraillilerin hepsinin oturduğu yerde ışık vardı" link="exo:10,23" lang="tr" %}}. Borazanlar da aynı çizgiyi çeker: çekirgeler yalnızca {{% bible val="alınlarında Tanrı'nın mührü olmayan insanlara" link="rev:9,4" lang="tr" %}} zarar verebilir.
 
 **İsrail'i sonunda dışarı çıkaran belalar değil, kuzunun kanıydı.** Onuncu gece Fısıh'tı. Vahiy aynı sırayı korur: tövbe getirmeyen altı borazandan sonra, insanları sonunda Tanrı'yı yüceltmeye yönelten {{% int_link val="iki tanığın tanıklığı" link="/expl/content/witnesses/the-two-witnesses" %}} — ve {{% bible val="Kuzu'nun kanı ve tanıklık sözleriyle onu yenenler" link="rev:12,11" lang="tr" %}} — olur (11:13); bu makalenin sonu bunu gösterir.
+
+{{% /background %}}
 
 Demek ki borazanlar her şeyden önce uyarıdır. {{% int_link val="Bir peygamberlik ve bir apokaliptik metin" link="/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy" %}}, henüz zaman varken bir karar kışkırtmak için yazılır — {{% bible val="Yunus'un Ninova'ya uyarısı" link="jon:3,4-10" lang="tr" %}} gibi; o uyarı, gerçekleşmek zorunda kalmasın diye yapılmıştı. Ve kitap son borazanı tanıkların tanıklığı uğruna bekletir; insanları sonunda dönmeye yönelten de budur (10:1–11:13).[^delay] Belalar neyin kurtaramayacağını gösterir; tanıklık ise kimin kurtarabileceğini.
 

@@ -107,6 +107,8 @@ The numbers 4, 7, and 12 reflect a cosmic order, in apocalyptic literature gener
 <a name="6395"></a>
 There is one more layer to Revelation's numbers: the shapes they make.
 
+{{% study %}}
+
 **Numbers with shapes.** In John's day numbers were pictured as pebbles laid out in figures — an old Pythagorean habit, familiar to educated readers in the first century (Bauckham, *Climax of Prophecy*, p. 391). Some numbers make triangles (1 + 2 + 3 …), some squares (6 × 6), some rectangles (6 × 7).
 
 **What John built into his numbers.** Richard Bauckham has shown that John uses these shapes on purpose (*Climax of Prophecy*, pp. 390–402):
@@ -152,6 +154,8 @@ Because every step multiplies the number by itself, the gap does not stay the sa
 ![](/images/numbers-scale.en.svg)
 
 **How far this holds.** The arithmetic is exact. Bauckham's part is a scholarly argument that John meant it, and early Christians did play this game: the *Ascension of Isaiah* gives the Antichrist 1332 days, the rectangle tied to 666 (Bauckham, *Climax of Prophecy*, p. 403). The pattern of claim and truth rests on the text itself — the crowns, the horns, the one hour, the fire — and Beale reads the beast's crowns as false claims to Christ's kingship. The two number families are Bauckham's; taking the beast's last step for God's family too, and the growing gap that results, are this site's illustration — offered not as a hidden code but as a picture of what Revelation says in words: Satan tries to look slightly bigger than God, and is shown to be significantly smaller.
+
+{{% /study %}}
 
 [^collins]: The picture of the numbers as a net comes from A. Y. Collins, "Numerical Symbolism in Jewish and Early Christian Apocalyptic Literature" (1984), as reported by Beale, pp. 59, 63. Collins doubts that seven means completeness; Beale answers her (pp. 63–64).
 

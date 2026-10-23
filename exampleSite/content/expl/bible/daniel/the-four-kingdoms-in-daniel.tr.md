@@ -64,6 +64,8 @@ Peki bu İnsanoğlu kimdir? Daniel'in kendi bağlamında o, Tanrı'nın kutsal h
 <a name="38f8"></a>
 2. ve 7. bölümler açıkça aynı dört krallığı anlatır ve İsa'nın doğduğu ve çarmıhta imparatorlukları fethettiği dönemde Roma'da son bulur. Ama bazı ayrıntılar bu okumaya tam olarak uymaz. 2. bölüm, heykelin ayaklarıyla temsil edilen ek krallıklardan söz eder. 2. bölümdeki taş — İsa'nın ilk gelişi — heykelin tamamını bir anda yok etmedi, çünkü Roma bundan sonra 400 yıldan uzun süre ayakta kaldı. 7. bölümdeki dördüncü canavarın tasviri de Roma'yla tam örtüşmez: kendisinden önceki tüm canavarlardan farklı, korkunç ve ürkütücü olarak tanımlanır ve on boynuzu vardır, oysa Roma bu yönlerden önceki imparatorluklardan özellikle farklı değildi ve on boynuz Roma tarihinde hiçbir zaman net bir şekilde bir şeye karşılık gelmedi. Ve 7. bölümdeki İnsanoğlu'nun gelişi sahnesi nihai bir yargı gibi okunur, oysa bu sadece Roma olsaydı, o yargı gerçekleştikten sonra pek bir şey değişmezdi.
 
+{{% study %}}
+
 Bu ayrıntıların her birinin bir yanıtı vardır ve hepsi birlikte dördüncü krallığın birinci yüzyılın Roma'sından daha fazlası olduğunu gösterir.
 
 **Demir ve kilden ayaklar.** Heykele beşinci bir maden eklenmez. Demir sürer, karışmış ve kırılgan olarak. Dördüncü krallık bölünmüş biçimde devam eder: aynı tür güç, hep yeni devletlerde.
@@ -73,6 +75,8 @@ Bu ayrıntıların her birinin bir yanıtı vardır ve hepsi birlikte dördünc�
 **"Farklı" olan dördüncü canavar.** Daniel'in kendisi, ilk üç canavarın {{% bible val="egemenliğini yitirdiğini ama onlara yaşamak için süre verildiğini" link="dan:7,12" lang="tr" %}} söyler. Eski imparatorluklar bir sonrakinin içinde yaşamayı sürdürür. Vahiy bunu açar: onun canavarı {{% bible val="aslanın ağzına, ayının ayaklarına ve parsın gövdesine aynı anda" link="rev:13,1-2" lang="tr" %}} sahiptir. Demek ki dördüncü canavar, ötekiler arasında bir imparatorluk değildir. Hepsinin ardında duran şeydir ve Yuhanna yazdığında onun yüzü Roma'ydı.[^beast]
 
 **Yargı sahnesi.** Daniel 7'de İnsanoğlu Tanrı'ya gelir ve egemenliği alır. İsa onu dirilip Baba'ya gittiğinde aldı: "{{% bible val="Gökte ve yeryüzünde bütün yetki bana verildi" link="mat:28,18" lang="tr" %}}". Mahkeme toplandı ve karar verildi. Kararın son uygulanışı ise henüz gelmedi.
+
+{{% /study %}}
 
 Peki İsa'dan beri ne değişti? Dünyanın giderek daha iyi olması değil, kilisenin dünyayı yönetmesi de değil. {{% bible val="Buğday ile delice hasada dek birlikte büyür" link="mat:13,30" lang="tr" %}}. Değişen, tahtta kimin oturduğudur. İsa egemenlik sürer ve halkı O'nun egemenliğine O'nun sürdüğü biçimde katılır: {{% bible val="hükmederek değil, hizmet ederek" link="mat:20,25-28" lang="tr" %}}, tanıklık ederek ve dayanarak. Kilise başka türlü egemen olmaya çalıştığında, haçlı seferleriyle, engizisyonla ve zorla din değiştirmelerle, canavarı taklit etmiştir.
 

@@ -39,6 +39,8 @@ Pasal 21 dibuka dengan gerakan sastra yang sama yang sudah dipakai sebelumnya da
 
 Di sini pun, Yohanes {{% bible val="mendengar tentang mempelai perempuan Anak Domba" link="rev:21,9" lang="ind" %}} tetapi kemudian {{% bible val="melihatnya sebagai Yerusalem Baru" link="rev:21,10" lang="ind" %}}. Ketidaksesuaian itulah intinya — seorang perempuan dan sebuah kota jelas bukan hal yang sama — dan hal ini menandakan bahwa ini adalah gambaran simbolis, bukan harfiah, sekalipun tetap menegaskan akar Yahudinya.
 
+{{% study %}}
+
 Nas ini dapat disusun sebagai berikut:
 
 21:1–8: Pengantar Yerusalem Baru, yang merupakan ringkasan dari bagian selanjutnya (mirip dengan {{% bible val="Yes. 60" link="isa:60,1-20" lang="ind" %}}), dengan setiap ayat mengantisipasi bagian yang lebih belakangan:
@@ -56,6 +58,8 @@ Nas ini dapat disusun sebagai berikut:
 - 21:22–27: ciri-ciri di dalam kota itu
 - 22:1–5: simbol-simbol kehadiran Allah
 
+{{% /study %}}
+
 ## Pengantar Yerusalem Baru
 
 <a name="1747"></a>
@@ -70,7 +74,11 @@ Nas ini dapat disusun sebagai berikut:
 ## Tidak ada laut lagi
 
 <a name="eee1"></a>
+{{% background %}}
+
 Ayat ini juga mengatakan {{% bible val="tidak akan ada laut lagi" link="rev:21,1" lang="ind" %}}, dan itu penting karena apa yang diwakili laut di sepanjang Kitab Suci. Laut adalah tempat asal-usul kejahatan, seperti dalam {{% bible val="Kitab Wahyu" link="rev:13,1" lang="ind" %}} sendiri, atau pada monster-monster laut {{% bible val="Lewiatan" link="psa:74,13-14" lang="ind" %}} dan {{% bible val="Rahab" link="isa:51,9-10" lang="ind" %}}, atau pada raja-raja jahat yang dipersonifikasikan sebagai monster laut, seperti {{% bible val="Firaun" link="ezk:32,2" lang="ind" %}}, atau pada {{% bible val="laut itu sendiri yang berfungsi sebagai medium kejahatan" link="psa:93,3-4" lang="ind" %}}. Laut juga {{% bible val="tempat orang mati" link="rev:20,13" lang="ind" %}}, bersama dengan alam maut.
+
+{{% /background %}}
 
 Jadi jika tidak ada laut lagi, tidak ada lagi tempat di mana kejahatan dapat berdiam dan menindas orang-orang yang setia — bahkan {{% bible val="tidak akan ada laut sama sekali" link="rev:21,1" lang="ind" %}}, wilayah kejahatan dan maut itu sendiri sudah lenyap sepenuhnya dari ciptaan yang baru.
 
@@ -78,6 +86,8 @@ Jadi jika tidak ada laut lagi, tidak ada lagi tempat di mana kejahatan dapat ber
 
 <a name="a373"></a>
 "{{% bible val="Aku melihat kota suci, Yerusalem yang baru, turun dari sorga, dari Allah, yang berhias bagaikan pengantin perempuan yang berdandan untuk suaminya." link="rev:21,2" lang="ind" %}}"
+
+{{% background %}}
 
 Gambaran ini berakar dalam pada kitab Yesaya, di mana Yerusalem adalah {{% bible val="kota yang berdandan indah" link="isa:52,1-10" lang="ind" %}}, sebuah gambaran yang {{% bible val="terus dikembangkan" link="isa:61,10" lang="ind" %}} sampai ia {{% bible val="menerima nama baru" link="isa:62,1-2" lang="ind" %}} dan {{% bible val="memasuki hubungan yang intim dengan Allah, yang bersukacita atasnya" link="isa:62,3-5" lang="ind" %}}.
 
@@ -87,6 +97,8 @@ Perjanjian Baru mengangkat kembali pemikiran yang sama:
 - {{% bible val="kita memiliki kewargaan di surga" link="php:3,20" lang="ind" %}}
 - {{% bible val="ada Yerusalem surgawi" link="heb:12,22" lang="ind" %}}
 - {{% bible val="Yerusalem itu merdeka" link="gal:4,26-31" lang="ind" %}}
+
+{{% /background %}}
 
 Ada juga sebuah paralel menarik di dalam Kitab Wahyu sendiri, antara ayat 2 dan {{% bible val="ayat 10 dan 11" link="rev:21,10-11" lang="ind" %}}: ayat 2 menyebutkan Yerusalem baru "turun dari sorga, dari Allah, berhias bagaikan pengantin perempuan yang berdandan untuk suaminya," sedangkan ayat 10–11 menyebutkan "Kota Kudus, Yerusalem, turun dari sorga, dari Allah," yang "bercahaya dengan kemuliaan Allah." Jika kedua ayat itu disejajarkan, tampak bahwa pakaian indah sang pengantin perempuan adalah kemuliaan Allah — dan {{% bible val="kemuliaan Allah adalah kebaikan-Nya, penuh belas kasihan dan adil" link="exo:34,5-7" lang="ind" %}}, yang juga dipanggil untuk dicerminkan oleh gereja.
 
@@ -145,9 +157,13 @@ Janji-janji kepada jemaat-jemaat yang menang di pasal 2 dan 3 semuanya menemukan
 
 Daftar orang-orang yang terhukum ini adalah lawan langsung dari daftar {{% bible val="para pemenang" link="rev:21,7" lang="ind" %}} yang baru saja disebutkan.
 
+{{% background %}}
+
 [Orang-orang penakut](https://biblehub.com/greek/1169.htm) adalah mereka yang {{% bible val="dikuasai oleh rasa takut" link="mat:8,26" lang="ind" %}} — lawan dari mereka yang {{% bible val="memiliki damai sejahtera" link="jhn:14,27-29" lang="ind" %}}, {{% bible val="percaya kepada Allah" link="jhn:14,1" lang="ind" %}}, dan {{% bible val="tahu bahwa Allah tidak akan pernah meninggalkan mereka" link="jhn:16,31-33" lang="ind" %}}. "Pembunuh, orang sundal, tukang sihir, dan penyembah berhala" bisa jadi menggambarkan orang-orang yang tidak percaya, tetapi bisa juga sama tepatnya menggambarkan orang-orang di dalam gereja yang berkompromi, seperti yang terjadi di {{% bible val="Pergamus" link="rev:2,14" lang="ind" %}} dan {{% bible val="Tiatira" link="rev:2,20-21" lang="ind" %}}. Sebenarnya, semua dosa ini berakar pada penyembahan berhala: pembunuhan, seperti cara penyembah berhala {{% bible val="mengorbankan anak-anak" link="psa:106,36-38" lang="ind" %}} atau {{% bible val="membunuh orang-orang percaya" link="rev:13,15" lang="ind" %}}; percabulan, yang terkait dengan pelacuran bakti di kuil; dan praktik sihir, yang {{% bible val="oleh Kitab Suci secara langsung dikaitkan dengan penyembahan berhala" link="deu:18,9-11" lang="ind" %}}, seperti pada {{% bible val="Izebel" link="2ki:9,22" lang="ind" %}}.
 
 Para pendusta, akhirnya, telah mengkhianati iman — {{% bible val="mereka menyebut diri mereka rasul" link="rev:2,2" lang="ind" %}} tetapi {{% bible val="bertindak dengan cara Iblis" link="rev:3,9" lang="ind" %}}, {{% bible val="memberikan kesaksian palsu" link="act:6,13" lang="ind" %}}, {{% bible val="tidak taat pada firman Yesus" link="1jn:2,4" lang="ind" %}}, {{% bible val="menyangkal bahwa Yesus adalah Tuhan" link="1jn:2,22" lang="ind" %}}, {{% bible val="membenci saudara atau saudari mereka" link="1jn:4,20" lang="ind" %}}, dan {{% bible val="tidak percaya bahwa kita memiliki hidup kekal di dalam Yesus" link="1jn:5,10" lang="ind" %}}. Daftar ini diulangi {{% bible val="di bagian paling akhir" link="rev:22,15" lang="ind" %}} dari kitab ini dan dalam {{% bible val="versi yang lebih singkat di akhir pasal ini" link="rev:21,27" lang="ind" %}}, dan dalam setiap kasus selalu diakhiri dengan "pendusta," sebab {{% bible val="sangat penting bahwa perkataan dan perbuatan kita konsisten" link="tit:1,16" lang="ind" %}}. Bagaimanapun juga, {{% bible val="pendusta yang paling utama adalah Iblis sendiri" link="jhn:8,44" lang="ind" %}}, dan inilah salah satu hal yang paling kita inginkan: berbeda sejauh mungkin darinya.
+
+{{% /background %}}
 
 ## Rincian Yerusalem Baru
 
@@ -165,6 +181,8 @@ Yerusalem Baru adalah lawan dari Babel, jika kita memperhatikan {{% int_link val
 
 Jika disandingkan, kedua kota itu berlawanan dalam segala hal.[^cities]
 
+{{% study %}}
+
 | | Babel | Yerusalem baru |
 |---|---|---|
 | Siapa dia | pelacur yang dengannya raja-raja di bumi berbuat cabul ({{% bible val="17:1–2" link="rev:17,1-2" lang="ind" %}}; {{% bible val="18:9" link="rev:18,9" lang="ind" %}}) | mempelai yang murni ({{% bible val="21:2" link="rev:21,2" lang="ind" %}}; {{% bible val="21:9" link="rev:21,9" lang="ind" %}}) |
@@ -179,6 +197,8 @@ Jika disandingkan, kedua kota itu berlawanan dalam segala hal.[^cities]
 | Kitab kehidupan | orang-orangnya tidak tertulis di dalamnya ({{% bible val="17:8" link="rev:17,8" lang="ind" %}}) | hanya yang tertulis di dalamnya yang masuk ({{% bible val="21:27" link="rev:21,27" lang="ind" %}}) |
 | Kemuliaan | memuliakan dirinya sendiri ({{% bible val="18:7" link="rev:18,7" lang="ind" %}}) | bercahaya dengan kemuliaan Allah ({{% bible val="21:11" link="rev:21,11" lang="ind" %}}; {{% bible val="21:23" link="rev:21,23" lang="ind" %}}) |
 | Siapa yang diam di sana | tempat kediaman roh-roh jahat ({{% bible val="18:2" link="rev:18,2" lang="ind" %}}) | tempat kediaman Allah ({{% bible val="21:3" link="rev:21,3" lang="ind" %}}; {{% bible val="21:22" link="rev:21,22" lang="ind" %}}) |
+
+{{% /study %}}
 
 Kedua belas pintu gerbang menunjuk kepada kedua belas suku, dan kedua belas dasar batu menunjuk kepada kedua belas rasul. {{% bible val="Dua belas kali dua ini mencerminkan penyembahan kekal di surga" link="rev:4,4" lang="ind" %}}, tetapi juga menjadi peringatan untuk mencari rekonsiliasi antara orang Yahudi dan bukan Yahudi, {{% int_link val="sebuah konflik yang digambarkan di seluruh kitab ini" link="/expl/background/israel/israel-and-the-church" %}}.
 
@@ -202,7 +222,11 @@ Bahan kota ini mengingatkan kita pada {{% bible val="pemulihan Yerusalem setelah
 
 Kedua belas batu itu mencerminkan {{% bible val="tutup dada imam besar" link="exo:28,17-20" lang="ind" %}}, yang {{% bible val="menyimpan undi yang dipakai untuk menanyakan kehendak Allah" link="exo:28,30" lang="ind" %}} dan yang sendiri {{% bible val="berbentuk persegi" link="exo:28,16" lang="ind" %}}. Setiap {{% bible val="batu mewakili satu suku Israel" link="exo:28,21" lang="ind" %}}, dan di sini {{% bible val="kedua belas batu itu mewakili kedua belas rasul" link="rev:21,14" lang="ind" %}} — sesuai, sebab kita pun disebut {{% bible val="batu-batu hidup dalam rumah Allah" link="1pe:2,5" lang="ind" %}}.
 
+{{% study %}}
+
 Satu catatan terjemahan penting di sini: versi-versi bahasa Indonesia kita biasanya berbunyi "dasar yang pertama dihiasi dengan permata yaspis," tetapi [terjemahan yang lebih baik adalah "dasar yang pertama ADALAH permata yaspis"](https://biblehub.com/interlinear/revelation/21-19.htm) — dasar itu bukan sekadar dihias dengan batu itu, melainkan terbuat darinya.
+
+{{% /study %}}
 
 Penyebutan {{% bible val="jalan di Yerusalem Baru" link="rev:21,21" lang="ind" %}} mengingatkan kita pada {{% bible val="kedua saksi, yang jenazahnya dahulu dipertontonkan" link="rev:11,8" lang="ind" %}} di sebuah jalan — hanya saja kini jalan yang sama itu berdiri untuk menghormati mereka. Itu adalah sebuah renungan yang tidak dibuat oleh teksnya sendiri; Yohanes hanya mengatakan bahwa jalan itu dari emas. Aib kita yang dahulu akan digantikan oleh kemuliaan yang kekal.
 
@@ -215,7 +239,11 @@ Pernyataan {{% bible val="bahwa kota itu tidak memerlukan matahari maupun bulan"
 
 Pernyataan {{% bible val="bahwa bangsa-bangsa akan membawa kemegahan, kemuliaan, dan kehormatan mereka ke dalam kota itu" link="rev:21,24-26" lang="ind" %}} lebih mudah dipahami jika disandingkan dengan {{% bible val="kitab Yesaya" link="isa:60,3-11" lang="ind" %}}, yang memakai ungkapan yang sama tetapi berbicara tentang kekayaan, sementara Kitab Wahyu berbicara tentang kemuliaan dan kehormatan.
 
+{{% background %}}
+
 Paralelnya cukup dekat untuk disandingkan. Yesaya: "{{% bible val="Bangsa-bangsa akan datang kepada terangmu, dan raja-raja kepada cahaya yang terbit bagimu. … kepadamu akan mengalir kekayaan bangsa-bangsa" link="isa:60,3-5" lang="ind" %}}." Kitab Wahyu: "{{% bible val="Bangsa-bangsa akan berjalan di dalam cahayanya, dan raja-raja di bumi membawa kekayaan mereka ke dalamnya" link="rev:21,24" lang="ind" %}}." Dan sekali lagi, Yesaya: "{{% bible val="Pintu-pintu gerbangmu akan tetap terbuka sepanjang waktu, siang dan malam tidak akan ditutup, supaya orang membawa kepadamu kekayaan bangsa-bangsa, dengan raja-raja mereka digiring dalam arak-arakan kemenangan." link="isa:60,11" lang="ind" %}}" Kitab Wahyu: "{{% bible val="Pintu-pintu gerbangnya tidak akan pernah ditutup pada siang hari, sebab malam tidak akan ada lagi di sana. Kemuliaan dan hormat bangsa-bangsa akan dibawa masuk ke dalamnya." link="rev:21,25-26" lang="ind" %}}"
+
+{{% /background %}}
 
 Dalam kitab Yesaya, bangsa-bangsa membawa kekayaan mereka untuk mengakui bahwa Allah menyertai Israel dan {{% bible val="karena itu mereka tidak akan lagi menderita bersama bangsa-bangsa lain" link="isa:60,12" lang="ind" %}} — mereka datang membawa kabar baik tentang keselamatan Allah. Sebuah nas berikutnya, "{{% bible val="Aku akan mengalirkan kepadanya kesejahteraan seperti sungai, dan kekayaan bangsa-bangsa seperti sungai yang meluap" link="isa:66,12" lang="ind" %}}," juga menghubungkan persembahan bangsa-bangsa itu dengan kedamaian bersama Israel. Dalam kedua nas ini, kemuliaan, kehormatan, dan kemegahan yang digambarkan bukanlah atribut yang sudah dimiliki bangsa-bangsa itu, melainkan sesuatu yang mereka berikan kepada Allah — bukan {{% bible val="kemuliaan dan kekayaan macam yang dahulu mereka peroleh dari Babel" link="rev:18,3" lang="ind" %}}. Sebaliknya, {{% bible val="mereka membawa diri mereka sendiri untuk melayani Allah" link="rev:22,3-5" lang="ind" %}}.
 

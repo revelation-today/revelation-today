@@ -45,12 +45,18 @@ Hier ist ein kurzer Überblick über den Zeitstrahl des Buches:
 
 Diese weite Sicht der Endzeit zieht sich durch das ganze Neue Testament, nicht nur durch die Offenbarung: Petrus deutet Pfingsten als das Anbrechen der {{% bible val="letzten Tage" link="act:2,16-17" lang="de" %}}, der Hebräerbrief beginnt mit {{% bible val="in diesen letzten Tagen hat er zu uns geredet durch den Sohn" link="heb:1,2" lang="de" %}}, Paulus sagt seinen Lesern, dass {{% bible val="das Ende der Zeiten über sie gekommen ist" link="1co:10,11" lang="de" %}}, und Johannes schreibt schlicht: {{% bible val="es ist die letzte Stunde" link="1jn:2,18" lang="de" %}}.
 
+{{% study %}}
+
 Andererseits könnte man argumentieren, dass sich die Endzeit enger auf die Wiederkunft Jesu und die kurze Zeit davor bezieht. Nach diesem Verständnis gibt nur ein bestimmter Teil des Buches der Offenbarung direkte Antworten, während der Rest weniger relevant erscheinen mag - auch wenn viele andere Stellen im Neuen Testament sich ebenfalls mit diesem engeren Verständnis befassen.
+
+{{% /study %}}
 
 ## Die Große Trübsal
 
 <a name="abe2"></a>
 Die Große Trübsal ist ein Begriff, der im {{% bible val="Buch der Offenbarung" link="rev:7,14" lang="de" %}} auftaucht, und der bestimmte Artikel - "die" Große Trübsal - zeigt, dass dieser Begriff eine Vorgeschichte hat. Sie liegt bei Daniel:
+
+{{% background %}}
 
 "{{% bible val="Zu jener Zeit wird sich Michael erheben, der große Fürst, der über die Söhne deines Volkes steht. Es wird eine Zeit der Bedrängnis sein, wie sie nicht gewesen ist, seit es Völker gibt, bis zu jener Zeit. Und zu jener Zeit wird dein Volk gerettet werden, ein jeder, der im Buch geschrieben gefunden wird." link="dan:12,1" lang="de" %}}"
 
@@ -58,11 +64,17 @@ Dieser Abschnitt wird in {{% bible val="Matthäus" link="mat:24,21" lang="de" %}
 
 Bei Daniel selbst geschah dies, als die Treue des Volkes Gottes durch {{% bible val="Antiochus Epiphanes und darüber hinaus" link="dan:11,30-39" lang="de" %}} auf die Probe gestellt wurde, mit dem Ziel, {{% bible val="die Heiligen zu reinigen und zwischen den Heiligen und den Frevlern zu trennen" link="dan:12,10" lang="de" %}} - denn manche aus {{% bible val="Gottes Volk werden getäuscht und wenden sich von Gott ab" link="dan:11,32-34" lang="de" %}}.
 
+{{% /background %}}
+
 Diese Bedrängnis kann eine wirtschaftliche Form annehmen, {{% bible val="wie in Smyrna" link="rev:2,9" lang="de" %}} oder {{% bible val="beim dritten Reiter" link="rev:6,5-6" lang="de" %}}, oder sie kann {{% bible val="Gefängnis und sogar den Tod" link="rev:2,10" lang="de" %}} bedeuten. Wir sehen diese Trübsal bereits vorhergesagt, als {{% bible val="Jesus zu seinen Jüngern spricht" link="jhn:16,33" lang="de" %}}, sie zeigt sich in der {{% bible val="Mission des Paulus" link="act:14,22" lang="de" %}}, wird beschrieben als {{% bible val="Auslöser von Hoffnung" link="rom:5,3-4" lang="de" %}}, der {{% bible val="uns nicht von Jesus trennen kann" link="rom:8,35-39" lang="de" %}}, ergeht als {{% bible val="Warnung an Timotheus" link="2ti:3,12" lang="de" %}} und wird erneut im {{% bible val="Brief des Petrus" link="1pe:4,12-13" lang="de" %}} aufgegriffen.
 
 {{% bible val="Der Begriff selbst wird als Mahnung an die Gemeinde in Thyatira aufgegriffen, im Gericht über ihre Anführerin, die als Isebel bezeichnet wird" link="rev:2,22" lang="de" %}}.
 
+{{% study %}}
+
 Das alles macht die Große Trübsal zu etwas, das sich über die gesamte Zeit zwischen dem ersten und dem zweiten Kommen Jesu erstreckt. Aber wie ist das möglich? Nicht alle Ausleger lesen das so - viele verstehen die Große Trübsal als eine bestimmte, begrenzte Zeitspanne, die noch vor uns liegt, statt als das gesamte Gemeindezeitalter. Darum lohnt es sich zu sagen, was diese Lesart trägt — mehr als die Beobachtung, dass im Neuen Testament viel von Trübsal die Rede ist. Dreierlei. Der Artikel: „**die** große Trübsal" in 7,14 verweist zurück auf eine Trübsal, die der Leser schon kennt — die, in die Thyatira gerade geraten soll (2,22). Die Parallele in {{% bible val="3,10" link="rev:3,10" lang="de" %}}, die Stunde der Versuchung, die über die ganze Welt kommt, greift auf dasselbe Danielkapitel zurück und umfasst die Zeit von Jesu Wirken bis zu seiner Wiederkunft. Und der Sprachgebrauch des Neuen Testaments selbst: Wenn Paulus von Trübsal schreibt, beschreibt er fast immer etwas, worin seine Leser jetzt stehen, nicht eine Zeit, die noch aussteht.[^trib] Das Muster der oben genannten neutestamentlichen Bezüge legt einen weiteren, im „Schon und Noch-nicht” verankerten Rahmen nahe. (Für eine ausführlichere Betrachtung, wie sich diese Lesart auf den Zeitpunkt der Entrückung auswirkt, siehe {{% int_link val="Prätribulational, midtribulational, vor dem Zorn, oder posttribulational?" link="/expl/topics/others/pre-mid-prewrath-or-post-tribulational" %}}.)
+
+{{% /study %}}
 
 Schauen wir noch einmal auf die Stelle bei Daniel: "Michael, der Beschützer Israels, wird sich erheben." Dieser Gedanke wird in der Offenbarung im Zusammenhang mit dem {{% int_link val="ersten Kommen Christi" link="/expl/content/jesus/a-different-christmas-story" %}} in Kapitel 12 wieder aufgenommen, wo {{% bible val="Michael gegen den Drachen kämpft" link="rev:12,7" lang="de" %}} - den {{% bible val="Teufel" link="rev:12,9" lang="de" %}} - und ihn besiegt, indem er ihn aus dem Himmel wirft.
 

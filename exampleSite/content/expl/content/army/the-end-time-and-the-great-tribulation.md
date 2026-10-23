@@ -45,12 +45,18 @@ Here is a quick overview of the timeline in the book:
 
 This broader view of the end time runs right through the New Testament, not just Revelation: Peter reads Pentecost as the arrival of {{% bible val="the last days" link="act:2,16-17" lang="en" %}}, Hebrews opens with {{% bible val="in these last days he has spoken to us by his Son" link="heb:1,2" lang="en" %}}, Paul tells his readers that {{% bible val="the fulfilment of the ages has come upon them" link="1co:10,11" lang="en" %}}, and John writes simply {{% bible val="it is the last hour" link="1jn:2,18" lang="en" %}}.
 
+{{% study %}}
+
 On the other hand, you could argue that the end times refer more narrowly to Jesus' second coming and the short time leading up to it. On that reading, only a certain part of the book of Revelation gives direct answers, and the rest may seem less relevant — though many other New Testament passages speak to this narrower sense too.
+
+{{% /study %}}
 
 ## The great tribulation
 
 <a name="a3b5"></a>
 The Great Tribulation is a term that appears in the {{% bible val="book of Revelation" link="rev:7,14" lang="en" %}}, and the definite article — "the" Great Tribulation — signals that this term has a history behind it. It originates in Daniel:
+
+{{% background %}}
 
 "{{% bible val="‘At that time Michael, the great prince who protects your people, will arise. There will be a time of distress such as has not happened from the beginning of nations until then. But at that time your people — everyone whose name is found written in the book — will be delivered." link="dan:12,1" lang="en" %}}"
 
@@ -58,11 +64,17 @@ This passage is referenced in {{% bible val="Matthew" link="mat:24,21" lang="en"
 
 In Daniel's own context, this was meant to emphasize the loyalty of God's people during the time of {{% bible val="Antiochus Epiphanes and beyond" link="dan:11,30-39" lang="en" %}}, and it served to {{% bible val="purify the saints and divide between the saints and the wicked" link="dan:12,10" lang="en" %}} — since some of {{% bible val="God's people will be deceived and will turn away from God" link="dan:11,32-34" lang="en" %}}.
 
+{{% /background %}}
+
 This oppression can take an economic form, {{% bible val="as in Smyrna" link="rev:2,9" lang="en" %}} or {{% bible val="for the third horseman" link="rev:6,5-6" lang="en" %}}, or it can mean {{% bible val="prison and even death" link="rev:2,10" lang="en" %}}. We see this tribulation already foretold by {{% bible val="Jesus to the disciples" link="jhn:16,33" lang="en" %}}, playing out during the {{% bible val="mission of Paul" link="act:14,22" lang="en" %}}, described as a {{% bible val="catalyst of hope" link="rom:5,3-4" lang="en" %}} that {{% bible val="cannot separate us from Jesus" link="rom:8,35-39" lang="en" %}}, issued as a {{% bible val="warning to Timothy" link="2ti:3,12" lang="en" %}}, and addressed again in the {{% bible val="letter of Peter" link="1pe:4,12-13" lang="en" %}}.
 
 {{% bible val="The term itself is taken up as a warning to the church in Thyatira, in a judgment on its leader, identified as Jezebel" link="rev:2,22" lang="en" %}}.
 
+{{% study %}}
+
 All of this makes the Great Tribulation something that stretches across the whole time between Jesus' first and second coming. But how is that possible? Not all interpreters read it this way — many understand the Great Tribulation as a specific, limited period still ahead of us, rather than the whole church age. So it is worth saying what carries the reading here, beyond the observation that the New Testament talks about tribulation a great deal. Three things do. The article: "**the** great tribulation" in 7:14 points back to a tribulation the reader has already met — the one Thyatira is about to enter (2:22). The parallel promise in {{% bible val="3:10" link="rev:3,10" lang="en" %}}, the hour of testing coming on the whole world, reaches back to the same chapter of Daniel and covers the span from Jesus’ ministry to his return. And the New Testament’s own usage: when Paul writes of tribulation, he is almost always describing something his readers are in now, not a period still to come.[^trib] (For a fuller look at how this reading bears on the timing of the rapture, see {{% int_link val="pre-tribulation, mid-tribulation, pre-wrath, or post-tribulation?" link="/expl/topics/others/pre-mid-prewrath-or-post-tribulational" %}}.)
+
+{{% /study %}}
 
 Look again at the passage in Daniel: "Michael, the protector of Israel, will arise." This is picked up in the Book of Revelation in connection with the {{% int_link val="first coming of Christ" link="/expl/content/jesus/a-different-christmas-story" %}} in chapter 12, where {{% bible val="Michael fights with the dragon" link="rev:12,7" lang="en" %}} — the {{% bible val="devil" link="rev:12,9" lang="en" %}} — and defeats him, casting him out of heaven.
 

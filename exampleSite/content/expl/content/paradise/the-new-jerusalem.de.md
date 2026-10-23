@@ -39,6 +39,8 @@ Kapitel 21 beginnt mit demselben literarischen Kunstgriff, der schon früher im 
 
 Auch hier {{% bible val="hört Johannes von der Braut des Lammes" link="rev:21,9" lang="de" %}}, {{% bible val="sieht sie dann aber als das Neue Jerusalem" link="rev:21,10" lang="de" %}}. Diese Nichtübereinstimmung ist der Punkt – eine Frau und eine Stadt sind offensichtlich nicht dasselbe – und sie signalisiert, dass dies eine symbolische, keine wörtliche Beschreibung ist, während sie dennoch auf ihren jüdischen Wurzeln besteht.
 
+{{% study %}}
+
 Der Abschnitt lässt sich wie folgt gliedern:
 
 21,1–8: Einführung in das Neue Jerusalem, die den folgenden Abschnitt zusammenfasst (ähnlich wie {{% bible val="Jes. 60" link="isa:60,1-20" lang="de" %}}), wobei jeder Vers einen späteren Abschnitt vorwegnimmt:
@@ -56,6 +58,8 @@ Der Abschnitt lässt sich wie folgt gliedern:
 - 21,22–27: innere Merkmale der Stadt
 - 22,1–5: Symbole der Gegenwart Gottes
 
+{{% /study %}}
+
 ## Einführung in das Neue Jerusalem
 
 <a name="1747"></a>
@@ -70,7 +74,11 @@ Der Abschnitt lässt sich wie folgt gliedern:
 ## Kein Meer mehr
 
 <a name="eee1"></a>
+{{% background %}}
+
 Der Vers sagt auch, es {{% bible val="werde kein Meer mehr geben" link="rev:21,1" lang="de" %}}, was von Bedeutung ist wegen dessen, wofür das Meer in der ganzen Schrift steht. Es ist der Ort, an dem das Böse seinen Ursprung hat, wie in der {{% bible val="Offenbarung" link="rev:13,1" lang="de" %}} selbst, oder bei den Meeresungeheuern {{% bible val="Leviatan" link="psa:74,13-14" lang="de" %}} und {{% bible val="Rahab" link="isa:51,9-10" lang="de" %}}, oder bei bösen Königen, die als Meeresungeheuer personifiziert werden, wie dem {{% bible val="Pharao" link="ezk:32,2" lang="de" %}}, oder beim {{% bible val="Meer selbst als bösem Medium" link="psa:93,3-4" lang="de" %}}. Es ist auch {{% bible val="der Ort der Toten" link="rev:20,13" lang="de" %}}, zusammen mit dem Hades.
+
+{{% /background %}}
 
 Wenn es also kein Meer mehr gibt, gibt es auch keinen Ort mehr, an dem das Böse wohnen und die Gläubigen unterdrücken kann – tatsächlich {{% bible val="wird es überhaupt kein Meer mehr geben" link="rev:21,1" lang="de" %}}, das Reich des Bösen und des Todes ist aus der neuen Schöpfung einfach verschwunden.
 
@@ -78,6 +86,8 @@ Wenn es also kein Meer mehr gibt, gibt es auch keinen Ort mehr, an dem das Böse
 
 <a name="a373"></a>
 „{{% bible val="Und ich sah die heilige Stadt, das neue Jerusalem, von Gott aus dem Himmel herabsteigen, bereitet wie eine für ihren Mann geschmückte Braut." link="rev:21,2" lang="de" %}}"
+
+{{% background %}}
 
 Dieses Bild wurzelt tief in Jesaja, wo Jerusalem die {{% bible val="schön gekleidete Stadt" link="isa:52,1-10" lang="de" %}} ist, ein Bild, das {{% bible val="weiterentwickelt wird" link="isa:61,10" lang="de" %}}, bis sie {{% bible val="einen neuen Namen erhält" link="isa:62,1-2" lang="de" %}} und {{% bible val="in eine innige Beziehung zu Gott tritt, der sich über sie freut" link="isa:62,3-5" lang="de" %}}.
 
@@ -87,6 +97,8 @@ Das Neue Testament greift denselben Gedanken auf:
 - {{% bible val="wir haben ein Bürgerrecht im Himmel" link="php:3,20" lang="de" %}}
 - {{% bible val="es gibt ein himmlisches Jerusalem" link="heb:12,22" lang="de" %}}
 - {{% bible val="Jerusalem ist frei" link="gal:4,26-31" lang="de" %}}
+
+{{% /background %}}
 
 Es gibt auch eine interessante Parallele innerhalb der Offenbarung selbst, zwischen Vers 2 und {{% bible val="den Versen 10 und 11" link="rev:21,10-11" lang="de" %}}: Vers 2 zeigt das neue Jerusalem, das „von Gott aus dem Himmel herabsteigt, bereitet wie eine für ihren Mann geschmückte Braut", während die Verse 10–11 die „heilige Stadt Jerusalem, von Gott aus dem Himmel herabsteigend" zeigen, die „mit der Herrlichkeit Gottes erstrahlte". Legt man beide nebeneinander, zeigt sich: Das schöne Kleid der Braut ist die Herrlichkeit Gottes – und {{% bible val="Gottes Herrlichkeit ist seine Güte, barmherzig und gerecht" link="exo:34,5-7" lang="de" %}}, die auch die Gemeinde widerspiegeln soll.
 
@@ -145,9 +157,13 @@ Die Verheißungen an die Gemeinden, die in den Kapiteln 2 und 3 überwinden, fin
 
 Diese Liste der Verurteilten ist das direkte Gegenstück zur Liste der {{% bible val="Überwinder" link="rev:21,7" lang="de" %}}, die gerade genannt wurde.
 
+{{% background %}}
+
 [Feiglinge](https://biblehub.com/greek/1169.htm) sind diejenigen, {{% bible val="die von der Furcht beherrscht werden" link="mat:8,26" lang="de" %}} – das Gegenstück zu denen, die {{% bible val="Frieden haben" link="jhn:14,27-29" lang="de" %}}, {{% bible val="Gott vertrauen" link="jhn:14,1" lang="de" %}} und {{% bible val="wissen, dass Gott sie niemals verlässt" link="jhn:16,31-33" lang="de" %}}. „Mörder, Unzüchtige, Zauberer und Götzendiener" kann Ungläubige beschreiben, aber ebenso gut Menschen innerhalb der Gemeinde, die Kompromisse eingehen, wie es in {{% bible val="Pergamon" link="rev:2,14" lang="de" %}} und {{% bible val="Thyatira" link="rev:2,20-21" lang="de" %}} geschah. All diese Sünden gehen tatsächlich auf den Götzendienst zurück: Mord, so wie Götzendiener {{% bible val="Kinder opfern" link="psa:106,36-38" lang="de" %}} oder {{% bible val="Gläubige töten" link="rev:13,15" lang="de" %}}; sexuelle Unmoral, verknüpft mit Tempelprostitution; und das Praktizieren magischer Künste, das {{% bible val="die Schrift direkt mit Götzendienst verbindet" link="deu:18,9-11" lang="de" %}}, wie bei {{% bible val="Isebel" link="2ki:9,22" lang="de" %}}.
 
 Lügner schließlich haben den Glauben verraten – {{% bible val="sie nennen sich Apostel" link="rev:2,2" lang="de" %}}, {{% bible val="handeln aber nach Satans Art" link="rev:3,9" lang="de" %}}, {{% bible val="legen falsches Zeugnis ab" link="act:6,13" lang="de" %}}, {{% bible val="missachten Jesu Wort" link="1jn:2,4" lang="de" %}}, {{% bible val="leugnen, dass Jesus der Herr ist" link="1jn:2,22" lang="de" %}}, {{% bible val="hassen ihre Brüder und Schwestern" link="1jn:4,20" lang="de" %}} und {{% bible val="glauben nicht, dass wir in Jesus ewiges Leben haben" link="1jn:5,10" lang="de" %}}. Die Liste wird {{% bible val="ganz am Ende" link="rev:22,15" lang="de" %}} des Buches wiederholt, sowie in einer {{% bible val="kürzeren Fassung am Ende dieses Kapitels" link="rev:21,27" lang="de" %}}, und endet in jedem Fall mit „Lügner", denn es ist {{% bible val="wesentlich, dass unsere Worte und Taten übereinstimmen" link="tit:1,16" lang="de" %}}. Denn der {{% bible val="ultimative Lügner ist Satan" link="jhn:8,44" lang="de" %}} selbst, und hier ist ein Ort, an dem wir uns so deutlich wie möglich von ihm unterscheiden wollen.
+
+{{% /background %}}
 
 ## Details des Neuen Jerusalems
 
@@ -165,6 +181,8 @@ Das Neue Jerusalem ist das Gegenstück zu Babel, wenn wir den {{% int_link val="
 
 Nebeneinandergestellt sind die beiden Städte in jedem Punkt Gegensätze.[^cities]
 
+{{% study %}}
+
 | | Babel | Das neue Jerusalem |
 |---|---|---|
 | Wer sie ist | die Hure, mit der die Könige der Erde Unzucht treiben ({{% bible val="17,1–2" link="rev:17,1-2" lang="de" %}}; {{% bible val="18,9" link="rev:18,9" lang="de" %}}) | die reine Braut ({{% bible val="21,2" link="rev:21,2" lang="de" %}}; {{% bible val="21,9" link="rev:21,9" lang="de" %}}) |
@@ -179,6 +197,8 @@ Nebeneinandergestellt sind die beiden Städte in jedem Punkt Gegensätze.[^citie
 | Das Buch des Lebens | ihre Leute stehen nicht darin ({{% bible val="17,8" link="rev:17,8" lang="de" %}}) | nur wer darin steht, geht hinein ({{% bible val="21,27" link="rev:21,27" lang="de" %}}) |
 | Herrlichkeit | verherrlicht sich selbst ({{% bible val="18,7" link="rev:18,7" lang="de" %}}) | strahlt in der Herrlichkeit Gottes ({{% bible val="21,11" link="rev:21,11" lang="de" %}}; {{% bible val="21,23" link="rev:21,23" lang="de" %}}) |
 | Wer dort wohnt | eine Behausung der Dämonen ({{% bible val="18,2" link="rev:18,2" lang="de" %}}) | die Wohnung Gottes ({{% bible val="21,3" link="rev:21,3" lang="de" %}}; {{% bible val="21,22" link="rev:21,22" lang="de" %}}) |
+
+{{% /study %}}
 
 Die zwölf Tore beziehen sich auf die zwölf Stämme, und die zwölf Grundsteine auf die zwölf Apostel. Das {{% bible val="Zwölf-mal-zwei spiegelt die ewige Anbetung im Himmel wider" link="rev:4,4" lang="de" %}}, ist aber auch eine Mahnung, Versöhnung zwischen Juden und Nicht-Juden zu suchen, {{% int_link val="einen Konflikt, der sich durch das ganze Buch zieht" link="/expl/background/israel/israel-and-the-church" %}}.
 
@@ -200,7 +220,11 @@ Das Material erinnert an die {{% bible val="Wiederherstellung Jerusalems nach ih
 
 Die zwölf Steine spiegeln das {{% bible val="Brustschild des Hohepriesters" link="exo:28,17-20" lang="de" %}} wider, das {{% bible val="die Lose enthielt, mit denen Gottes Wille erfragt wurde" link="exo:28,30" lang="de" %}} und selbst {{% bible val="quadratisch" link="exo:28,16" lang="de" %}} war. Jeder {{% bible val="Stein stand für einen Stamm Israels" link="exo:28,21" lang="de" %}}, und hier {{% bible val="stehen die zwölf Steine stattdessen für die zwölf Apostel" link="rev:21,14" lang="de" %}} – passend, denn auch wir werden {{% bible val="lebendige Steine im Haus Gottes genannt" link="1pe:2,5" lang="de" %}}.
 
+{{% study %}}
+
 Eine Anmerkung zur Übersetzung ist hier wichtig: Unsere deutschen Übersetzungen lesen meist „das erste Fundament war mit Jaspis geschmückt", aber [eine bessere Übersetzung lautet „das erste Fundament *ist* Jaspis"](https://biblehub.com/interlinear/revelation/21-19.htm) – das Fundament ist nicht nur mit dem Stein verziert, es besteht aus ihm.
+
+{{% /study %}}
 
 Die Erwähnung der {{% bible val="Straße im Neuen Jerusalem" link="rev:21,21" lang="de" %}} erinnert an {{% bible val="die beiden Zeugen, deren Leichen einst auf einer Straße zur Schau gestellt wurden" link="rev:11,8" lang="de" %}} – nur dass dieselbe Straße nun zu ihren Ehren dasteht. Das ist eine Überlegung, die der Text selbst nicht anstellt; Johannes sagt nur, dass die Straße aus Gold ist. Unsere frühere Schande wird durch ewige Herrlichkeit ersetzt werden.
 
@@ -211,7 +235,11 @@ Die Aussage, {{% bible val="dass die Stadt weder Sonne noch Mond braucht" link="
 
 Die {{% bible val="Aussage, dass die Nationen ihre Pracht, Herrlichkeit und Ehre in die Stadt bringen werden" link="rev:21,24-26" lang="de" %}}, versteht sich leichter neben {{% bible val="Jesaja" link="isa:60,3-11" lang="de" %}}, der dieselben Formulierungen verwendet, aber von Reichtum spricht, wo die Offenbarung von Herrlichkeit und Ehre spricht.
 
+{{% background %}}
+
 Die Parallele ist eng genug, um sie nebeneinanderzustellen. Jesaja: „{{% bible val="Nationen werden zu deinem Licht kommen und Könige zu dem Glanz, der über dir aufgeht. … zu dir wird der Reichtum der Nationen kommen" link="isa:60,3-5" lang="de" %}}." Offenbarung: „{{% bible val="Die Nationen werden in ihrem Licht wandeln, und die Könige der Erde werden ihre Pracht in sie bringen" link="rev:21,24" lang="de" %}}." Und wieder Jesaja: „{{% bible val="Deine Tore werden allezeit offenstehen, sie werden weder bei Tag noch bei Nacht geschlossen werden, damit man zu dir den Reichtum der Nationen bringe und ihre Könige im Triumphzug herbeigeführt werden." link="isa:60,11" lang="de" %}}" Offenbarung: „{{% bible val="An keinem Tag werden ihre Tore je geschlossen werden, denn dort wird keine Nacht sein. Und man wird die Herrlichkeit und die Ehre der Nationen in sie bringen." link="rev:21,25-26" lang="de" %}}"
+
+{{% /background %}}
 
 Bei Jesaja bringen die Nationen ihren Reichtum, um anzuerkennen, dass Gott mit Israel ist, und {{% bible val="deshalb nicht mehr mit den anderen leiden werden" link="isa:60,12" lang="de" %}} – sie kommen und bringen die gute Nachricht von Gottes Rettung mit sich. Eine spätere Stelle, „{{% bible val="Ich will ihr den Frieden zuwenden wie einen Strom und den Reichtum der Nationen wie einen überflutenden Bach" link="isa:66,12" lang="de" %}}", verbindet ebenfalls die Gabe der Nationen mit dem Frieden mit Israel. In beiden Texten sind die beschriebene Herrlichkeit, Ehre und Pracht kein Attribut, das die Nationen bereits besitzen, sondern etwas, das sie Gott geben – nicht {{% bible val="die Art von Ruhm und Reichtum, die sie einst von Babel bezogen" link="rev:18,3" lang="de" %}}. Stattdessen {{% bible val="bringen sie sich selbst dar, um Gott zu dienen" link="rev:22,3-5" lang="de" %}}.
 

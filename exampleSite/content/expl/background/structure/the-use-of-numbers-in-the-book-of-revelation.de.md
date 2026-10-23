@@ -107,6 +107,8 @@ Die Zahlen 4, 7 und 12 spiegeln eine kosmische Ordnung wider, wie sie in der apo
 <a name="f042"></a>
 Die Zahlen der Offenbarung haben noch eine weitere Schicht: die Formen, die sie bilden.
 
+{{% study %}}
+
 **Zahlen mit Gestalt.** Zur Zeit des Johannes stellte man sich Zahlen als Kieselsteine vor, die zu Figuren gelegt werden — eine alte pythagoreische Gewohnheit, gebildeten Lesern im ersten Jahrhundert vertraut (Bauckham, *Climax of Prophecy*, S. 391). Manche Zahlen bilden Dreiecke (1 + 2 + 3 …), manche Quadrate (6 × 6), manche Rechtecke (6 × 7).
 
 **Was Johannes in seine Zahlen hineingelegt hat.** Richard Bauckham hat gezeigt, dass Johannes diese Formen bewusst gebraucht (*Climax of Prophecy*, S. 390–402):
@@ -152,6 +154,8 @@ Weil jeder Schritt die Zahl mit sich selbst malnimmt, bleibt die Kluft nicht gle
 ![](/images/numbers-scale.de.svg)
 
 **Wie weit das trägt.** Die Rechnung stimmt genau. Bauckhams Teil ist ein wissenschaftliches Argument dafür, dass Johannes es so gemeint hat, und frühe Christen haben dieses Spiel tatsächlich gespielt: Die *Himmelfahrt des Jesaja* gibt dem Antichristen 1332 Tage, das mit 666 verbundene Rechteck (Bauckham, *Climax of Prophecy*, S. 403). Das Muster von Anspruch und Wirklichkeit beruht auf dem Text selbst — die Kronen, die Hörner, die eine Stunde, das Feuer —, und Beale liest die Kronen des Tieres als falsche Ansprüche auf Christi Königtum. Die beiden Zahlenfamilien stammen von Bauckham; den letzten Schritt des Tieres auch für Gottes Familie zu gehen, und die wachsende Kluft, die daraus folgt, sind die Veranschaulichung dieser Seite — nicht als versteckter Code gemeint, sondern als Bild dessen, was die Offenbarung mit Worten sagt: Satan versucht, etwas größer als Gott zu wirken, und wird als deutlich kleiner gezeigt.
+
+{{% /study %}}
 
 [^collins]: Das Bild vom Netz stammt von A. Y. Collins, „Numerical Symbolism in Jewish and Early Christian Apocalyptic Literature“ (1984), nach Beale, S. 59, 63. Collins bezweifelt, dass die Sieben Vollständigkeit bedeutet; Beale antwortet ihr (S. 63–64).
 

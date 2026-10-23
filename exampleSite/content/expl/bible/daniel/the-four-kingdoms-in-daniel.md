@@ -62,6 +62,8 @@ So who is this Son of Man? In Daniel's own context he stands for the holy people
 
 Chapters 2 and 7 clearly describe the same four kingdoms, ending in Rome at the time Jesus is born and conquers the empires on the cross. But a few details don't quite fit that reading. Chapter 2 mentions further kingdoms represented by the feet of the statue. The stone in chapter 2 — Jesus' first coming — didn't destroy the whole statue at once, since Rome remained standing for more than 400 years afterward. The description of the fourth beast in chapter 7 doesn't fully match Rome either: it's called fearful and dreadful, different from all the beasts before it, and given ten horns, yet Rome wasn't especially different from earlier empires in those respects, and the ten horns never map cleanly onto anything fixed in Roman history. And the scene of the Son of Man's coming in chapter 7 reads like a final judgment, yet if this were simply Rome, not much would actually change once that judgment fell.
 
+{{% study %}}
+
 Each of these details has an answer, and together they show that the fourth kingdom is more than the Rome of the first century.
 
 **The feet of iron and clay.** The statue does not get a fifth metal. The iron goes on, mixed and brittle. The fourth kingdom continues in a divided form: the same kind of power, in ever new states.
@@ -71,6 +73,8 @@ Each of these details has an answer, and together they show that the fourth king
 **The fourth beast that is "different".** Daniel himself says that the first three beasts {{% bible val="lose their rule but are given more time to live" link="dan:7,12" lang="en" %}}. The old empires live on inside the next one. Revelation draws this out: its beast has {{% bible val="the lion's mouth, the bear's feet and the leopard's body all at once" link="rev:13,1-2" lang="en" %}}. So the fourth beast is not one empire among others. It is what stands behind all of them, and Rome was its face when John wrote.[^beast]
 
 **The judgment scene.** In Daniel 7 the Son of Man comes to God and receives the kingdom. Jesus received it when he rose and went to the Father: "{{% bible val="All authority in heaven and on earth has been given to me" link="mat:28,18" lang="en" %}}". The court has sat and the verdict has been given. Its last execution is still to come.
+
+{{% /study %}}
 
 So what has changed since Jesus? Not that the world grows steadily better, and not that the church governs it. {{% bible val="Wheat and weeds grow together until the harvest" link="mat:13,30" lang="en" %}}. What has changed is who holds the throne. Jesus rules, and his people share his rule in the way he rules: {{% bible val="by serving, not by lording it over others" link="mat:20,25-28" lang="en" %}}, by witness and by endurance. Where the church has tried to rule in another way, with crusades, inquisitions and forced conversions, it has copied the beast.
 

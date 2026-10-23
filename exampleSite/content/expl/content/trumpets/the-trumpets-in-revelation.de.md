@@ -56,6 +56,8 @@ Damit bleiben zwei schwierige Fragen offen, die der Text nicht auflöst. Erstens
 <a name="e7a1"></a>
 Johannes baut die Posaunen aus den Plagen Ägyptens — Hagel, Wasser zu Blut, Finsternis, Heuschrecken. Dieser Hintergrund verändert, wie man sie lesen sollte.
 
+{{% background %}}
+
 **Es ging nie in erster Linie darum, Ägypter zu vernichten.** Die Plagen richteten sich gegen {{% bible val="die Götter Ägyptens" link="exo:12,12" lang="de" %}} — den Nil, die Sonne, das fruchtbare Land, lauter Mächte, auf die Ägypten vertraute —, und ihr erklärtes Ziel war, dass {{% bible val="die Ägypter erkennen, dass ich der HERR bin" link="exo:7,5" lang="de" %}}. Sie beantworteten die Frage des Pharao selbst — {{% bible val="Wer ist der HERR, dass ich auf seine Stimme hören sollte?" link="exo:5,2" lang="de" %}} —, indem sie zeigten, wer wirklich Wasser, Licht und Brot gibt. Gott stellte sich als die echte Alternative zu allem vor, worauf Ägypten sich verließ.
 
 **Sie kamen als Warnungen, mit einem Ausweg.** Vor dem Hagel ließ Gott den Ägyptern sagen, sie sollten ihre Knechte und ihr Vieh in Sicherheit bringen, und {{% bible val="wer von den Knechten des Pharao das Wort des HERRN fürchtete, tat es" link="exo:9,20-21" lang="de" %}}. Als Israel schließlich auszog, {{% bible val="zog auch viel fremdes Volk mit ihnen" link="exo:12,38" lang="de" %}}. Die Posaunen tragen dieselbe Zurückhaltung in sich: Sie treffen ein Drittel, nicht alles — Gott hält seinen Zorn zurück, um Raum zur Umkehr zu lassen.
@@ -65,6 +67,8 @@ Johannes baut die Posaunen aus den Plagen Ägyptens — Hagel, Wasser zu Blut, F
 **Gottes Volk wird ausgesondert.** Ab der vierten Plage {{% bible val="wurde das Land Goschen verschont" link="exo:8,22-23" lang="de" %}}, und in der Finsternis {{% bible val="hatten alle Kinder Israels Licht" link="exo:10,23" lang="de" %}}. Die Posaunen ziehen dieselbe Linie: Die Heuschrecken dürfen nur {{% bible val="die Menschen schädigen, die nicht das Siegel Gottes an ihren Stirnen haben" link="rev:9,4" lang="de" %}}.
 
 **Was Israel schließlich herausführte, waren nicht die Plagen, sondern das Blut des Lammes.** Die zehnte Nacht war das Passa. Die Offenbarung hält dieselbe Reihenfolge ein: Nach sechs Posaunen ohne Umkehr sind es {{% int_link val="das Zeugnis der beiden Zeugen" link="/expl/content/witnesses/the-two-witnesses" %}} — und die Menschen, die {{% bible val="überwunden haben durch das Blut des Lammes und durch das Wort ihres Zeugnisses" link="rev:12,11" lang="de" %}} —, die die Menschen endlich dazu bringen, Gott die Ehre zu geben (11,13), wie das Ende dieses Artikels zeigt.
+
+{{% /background %}}
 
 Die Posaunen sind also zuallererst Warnungen. {{% int_link val="Eine Prophetie und eine Apokalypse" link="/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy" %}} wird geschrieben, um eine Entscheidung herauszufordern, solange noch Zeit ist — wie {{% bible val="Jonas Warnung an Ninive" link="jon:3,4-10" lang="de" %}}, die ausgesprochen wurde, damit sie nicht eintreffen musste. Und das Buch hält die letzte Posaune zurück um des Zeugnisses der Zeugen willen, das die Menschen schließlich zur Umkehr bewegt (10,1–11,13).[^delay] Die Plagen zeigen, was nicht retten kann; das Zeugnis zeigt, wer es kann.
 

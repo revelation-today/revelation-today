@@ -39,6 +39,8 @@ Chapter 21 opens with the same literary move used earlier in the book, where the
 
 Here, too, John {{% bible val="hears about the bride of the Lamb" link="rev:21,9" lang="en" %}} but then {{% bible val="sees her as the New Jerusalem" link="rev:21,10" lang="en" %}}. The mismatch is the point — a woman and a city are obviously not the same thing — and it signals that this is a symbolic description, not a literal one, while still insisting on its Jewish roots.
 
+{{% study %}}
+
 The passage can be structured as follows:
 
 21:1–8: Introduction to the New Jerusalem, which summarizes the passage that follows (similar to {{% bible val="Isa. 60" link="isa:60,1-20" lang="en" %}}), with each verse anticipating a later section:
@@ -56,6 +58,8 @@ The passage can be structured as follows:
 - 21:22–27: internal features of the city
 - 22:1–5: symbols of God's presence
 
+{{% /study %}}
+
 ## Introduction of the New Jerusalem
 
 <a name="f50f"></a>
@@ -70,7 +74,11 @@ The passage can be structured as follows:
 ### No more sea
 
 <a name="a258"></a>
+{{% background %}}
+
 The verse also says there {{% bible val="will be no more sea" link="rev:21,1" lang="en" %}}, which matters because of what the sea represents throughout Scripture. It is the place where evil originates, as in {{% bible val="Revelation" link="rev:13,1" lang="en" %}} itself, or in the sea monsters {{% bible val="Leviathan" link="psa:74,13-14" lang="en" %}} and {{% bible val="Rahab" link="isa:51,9-10" lang="en" %}}, or in evil kings personified as sea monsters, like {{% bible val="Pharaoh" link="ezk:32,2" lang="en" %}}, or in the {{% bible val="sea itself functioning as an evil medium" link="psa:93,3-4" lang="en" %}}. It is also {{% bible val="the place of the dead" link="rev:20,13" lang="en" %}}, alongside Hades.
+
+{{% /background %}}
 
 So if there is no more sea, there is no longer any place where evil can dwell and oppress the faithful — indeed, {{% bible val="there will no longer be any sea at all" link="rev:21,1" lang="en" %}}, the domain of evil and death simply gone from the new creation.
 
@@ -78,6 +86,8 @@ So if there is no more sea, there is no longer any place where evil can dwell an
 
 <a name="c358"></a>
 "{{% bible val="I saw the Holy City, the new Jerusalem, coming down out of heaven from God, prepared as a bride beautifully dressed for her husband." link="rev:21,2" lang="en" %}}"
+
+{{% background %}}
 
 This picture has deep roots in Isaiah, where Jerusalem is the {{% bible val="beautifully dressed city" link="isa:52,1-10" lang="en" %}}, an image that {{% bible val="is developed further" link="isa:61,10" lang="en" %}} until she {{% bible val="receives a new name" link="isa:62,1-2" lang="en" %}} and {{% bible val="enters an intimate relationship with God, who rejoices over her" link="isa:62,3-5" lang="en" %}}.
 
@@ -87,6 +97,8 @@ The New Testament picks up the same thought:
 - {{% bible val="we have a citizenship in heaven" link="php:3,20" lang="en" %}}
 - {{% bible val="there is a heavenly Jerusalem" link="heb:12,22" lang="en" %}}
 - {{% bible val="Jerusalem is free" link="gal:4,26-31" lang="en" %}}
+
+{{% /background %}}
 
 There's also an interesting parallel within Revelation itself, between verse 2 and {{% bible val="verses 10 and 11" link="rev:21,10-11" lang="en" %}}: verse 2 has the new Jerusalem "coming down out of heaven from God, prepared as a bride beautifully dressed for her husband," while verses 10–11 have the "Holy City, Jerusalem, coming down out of heaven from God," where "it shone with the glory of God." Lining the two up shows that the bride's beautiful dress is the glory of God — and {{% bible val="God's glory is his goodness, merciful and just" link="exo:34,5-7" lang="en" %}}, which the church is likewise called to reflect.
 
@@ -145,9 +157,13 @@ The promises to the churches that overcome in chapters 2 and 3 all find their fu
 
 This list of the condemned is the direct counterpart to the list of {{% bible val="overcomers" link="rev:21,7" lang="en" %}} just given.
 
+{{% background %}}
+
 [Cowardly](https://biblehub.com/greek/1169.htm) people are the ones {{% bible val="who are ruled by fear" link="mat:8,26" lang="en" %}} — the counterpart of those who {{% bible val="have peace" link="jhn:14,27-29" lang="en" %}}, {{% bible val="trust in God" link="jhn:14,1" lang="en" %}}, and {{% bible val="know that God never leaves them" link="jhn:16,31-33" lang="en" %}}. "Murderers, the sexually immoral, those who practise magic arts, and idolaters" can describe unbelievers, but they can just as easily describe people inside the church who compromise, as happened in {{% bible val="Pergamon" link="rev:2,14" lang="en" %}} and {{% bible val="Thyatira" link="rev:2,20-21" lang="en" %}}. All of these sins, in fact, trace back to idolatry: murder, as in the way idolaters {{% bible val="sacrifice children" link="psa:106,36-38" lang="en" %}} or {{% bible val="kill believers" link="rev:13,15" lang="en" %}}; sexual immorality, linked to temple prostitution; and practising magic arts, which {{% bible val="Scripture directly links with idolatry" link="deu:18,9-11" lang="en" %}}, as with {{% bible val="Jezebel" link="2ki:9,22" lang="en" %}}.
 
 Liars, finally, have betrayed the faith — {{% bible val="they call themselves apostles" link="rev:2,2" lang="en" %}} but {{% bible val="act in Satan's way" link="rev:3,9" lang="en" %}}, {{% bible val="bring false testimony" link="act:6,13" lang="en" %}}, {{% bible val="disobey Jesus' word" link="1jn:2,4" lang="en" %}}, {{% bible val="deny that Jesus is Lord" link="1jn:2,22" lang="en" %}}, {{% bible val="hate their brothers or sisters" link="1jn:4,20" lang="en" %}}, and {{% bible val="don't believe we have eternal life in Jesus" link="1jn:5,10" lang="en" %}}. The list is repeated {{% bible val="at the very end" link="rev:22,15" lang="en" %}} of the book and in a {{% bible val="shorter version at the end of this chapter" link="rev:21,27" lang="en" %}}, and in every case it ends with "liar," because it is {{% bible val="essential that our words and deeds are consistent" link="tit:1,16" lang="en" %}}. After all, the {{% bible val="ultimate liar is Satan" link="jhn:8,44" lang="en" %}} himself, and this is one place we want to be as distinguished from him as possible.
+
+{{% /background %}}
 
 ## Details of the New Jerusalem
 
@@ -165,6 +181,8 @@ The New Jerusalem is the counterpart to Babel when we look at the {{% int_link v
 
 Set side by side, the two cities are opposites at every point.[^cities]
 
+{{% study %}}
+
 | | Babel | The new Jerusalem |
 |---|---|---|
 | Who she is | the harlot with whom the kings of the earth commit immorality ({{% bible val="17:1–2" link="rev:17,1-2" lang="en" %}}; {{% bible val="18:9" link="rev:18,9" lang="en" %}}) | the pure bride ({{% bible val="21:2" link="rev:21,2" lang="en" %}}; {{% bible val="21:9" link="rev:21,9" lang="en" %}}) |
@@ -179,6 +197,8 @@ Set side by side, the two cities are opposites at every point.[^cities]
 | The book of life | her people are not written in it ({{% bible val="17:8" link="rev:17,8" lang="en" %}}) | only those written in it enter ({{% bible val="21:27" link="rev:21,27" lang="en" %}}) |
 | Glory | glorifies herself ({{% bible val="18:7" link="rev:18,7" lang="en" %}}) | shines with the glory of God ({{% bible val="21:11" link="rev:21,11" lang="en" %}}; {{% bible val="21:23" link="rev:21,23" lang="en" %}}) |
 | Who lives there | a dwelling place of demons ({{% bible val="18:2" link="rev:18,2" lang="en" %}}) | the dwelling place of God ({{% bible val="21:3" link="rev:21,3" lang="en" %}}; {{% bible val="21:22" link="rev:21,22" lang="en" %}}) |
+
+{{% /study %}}
 
 The twelve gates refer to the twelve tribes, and the twelve foundation stones to the twelve apostles. The {{% bible val="twelve-times-two reflects the eternal worship in heaven" link="rev:4,4" lang="en" %}}, but it is also a reminder to seek reconciliation between Jews and non-Jews, a {{% int_link val="conflict described throughout the book" link="/expl/background/israel/israel-and-the-church" %}}.
 
@@ -202,7 +222,11 @@ The material recalls the {{% bible val="restoration of Jerusalem after her suffe
 
 The twelve stones reflect the {{% bible val="breastpiece of the high priest" link="exo:28,17-20" lang="en" %}}, which {{% bible val="held the lots used to ask for God's will" link="exo:28,30" lang="en" %}} and was itself {{% bible val="square" link="exo:28,16" lang="en" %}}. Each {{% bible val="stone represented one tribe of Israel" link="exo:28,21" lang="en" %}}, and here {{% bible val="the twelve stones represent the twelve apostles" link="rev:21,14" lang="en" %}} instead — fitting, since we too are called {{% bible val="living stones in God's house" link="1pe:2,5" lang="en" %}}.
 
+{{% study %}}
+
 One translation note matters here: our English versions typically read "the first foundation was decorated with jasper," but a [better translation is "the first foundation *is* jasper"](https://biblehub.com/interlinear/revelation/21-19.htm) — the foundation isn't merely ornamented with the stone, it is made of it.
+
+{{% /study %}}
 
 The mention of the {{% bible val="street in the New Jerusalem" link="rev:21,21" lang="en" %}} recalls {{% bible val="the two witnesses, whose dead bodies were once exposed" link="rev:11,8" lang="en" %}} in a street — except now that same street stands in their honour. That is a reflection the text does not make itself; John says only that the street is of gold. Our former shame will be replaced by eternal glory.
 
@@ -215,7 +239,11 @@ The statement {{% bible val="that the city has no need of sun or moon" link="rev
 
 The {{% bible val="statement that the nations will bring their splendor, glory, and honor into the city" link="rev:21,24-26" lang="en" %}} is easier to understand alongside {{% bible val="Isaiah" link="isa:60,3-11" lang="en" %}}, which uses the same phrases but speaks of wealth where Revelation speaks of glory and honor.
 
+{{% background %}}
+
 The parallel is close enough to set side by side. Isaiah: "{{% bible val="Nations will come to your light, and kings to the brightness of your dawn. …, to you the riches of the nations will come" link="isa:60,3-5" lang="en" %}}." Revelation: "{{% bible val="The nations will walk by its light, and the kings of the earth will bring their splendour into it" link="rev:21,24" lang="en" %}}." And again, Isaiah: "{{% bible val="Your gates will always stand open, they will never be shut, day or night, so that people may bring you the wealth of the nations — their kings led in triumphal procession." link="isa:60,11" lang="en" %}}" Revelation: "{{% bible val="On no day will its gates ever be shut, for there will be no night there. 26 The glory and honour of the nations will be brought into it." link="rev:21,25-26" lang="en" %}}"
+
+{{% /background %}}
 
 In Isaiah, the nations bring their wealth to acknowledge that God is with Israel and {{% bible val="will therefore no longer suffer alongside the others" link="isa:60,12" lang="en" %}} — they come bearing the good news of God's salvation. A later passage, "{{% bible val="I will extend peace to her like a river, and the wealth of nations like a flooding stream" link="isa:66,12" lang="en" %}}," likewise links the nations' gift to peace with Israel. In both texts, the glory, honor, and splendor described are not an attribute the nations already possess but something they give to God — not {{% bible val="the kind of glory and riches they once drew from Babel" link="rev:18,3" lang="en" %}}. Instead, {{% bible val="they bring themselves to serve God" link="rev:22,3-5" lang="en" %}}.
 

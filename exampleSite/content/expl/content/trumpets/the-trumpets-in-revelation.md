@@ -56,6 +56,8 @@ That leaves two hard questions the text doesn't resolve for you. First, look at 
 <a name="e7a1"></a>
 John builds the trumpets out of the plagues of Egypt — hail, water turned to blood, darkness, locusts. That background changes how they should be read.
 
+{{% background %}}
+
 **They were never mainly about destroying Egyptians.** The plagues were aimed at {{% bible val="the gods of Egypt" link="exo:12,12" lang="en" %}} — the Nile, the sun, the fertile land, each a power Egypt trusted — and their stated purpose was that {{% bible val="the Egyptians will know that I am the LORD" link="exo:7,5" lang="en" %}}. They answered Pharaoh's own question, {{% bible val="Who is the LORD, that I should obey him?" link="exo:5,2" lang="en" %}}, by showing who actually gives water, light and bread. God was presenting himself as the real alternative to everything Egypt relied on.
 
 **They came as warnings, with a way out.** Before the hail, God told the Egyptians to bring their slaves and livestock under shelter, and {{% bible val="those officials who feared the word of the LORD did so" link="exo:9,20-21" lang="en" %}}. When Israel finally left, {{% bible val="many other people went up with them" link="exo:12,38" lang="en" %}}. The trumpets carry the same restraint: they strike a third, not everything — God holding back his wrath to leave room to turn.
@@ -65,6 +67,8 @@ John builds the trumpets out of the plagues of Egypt — hail, water turned to b
 **God's people are set apart.** From the fourth plague on, {{% bible val="the land of Goshen was spared" link="exo:8,22-23" lang="en" %}}, and in the darkness {{% bible val="all the Israelites had light" link="exo:10,23" lang="en" %}}. The trumpets draw the same line: the locusts may harm only {{% bible val="those who did not have the seal of God on their foreheads" link="rev:9,4" lang="en" %}}.
 
 **What finally brought Israel out was not the plagues but the blood of the lamb.** The tenth night was the Passover. Revelation keeps the same order: after six trumpets without repentance, it is {{% int_link val="the testimony of the two witnesses" link="/expl/content/witnesses/the-two-witnesses" %}} — and the people who {{% bible val="triumphed by the blood of the Lamb and the word of their testimony" link="rev:12,11" lang="en" %}} — that finally move people to give God glory (11:13), as the end of this article shows.
+
+{{% /background %}}
 
 So the trumpets are first of all warnings. {{% int_link val="A prophecy and an apocalypse" link="/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy" %}} is written to provoke a decision while there is still time — like {{% bible val="Jonah's warning to Nineveh" link="jon:3,4-10" lang="en" %}}, given so that it would not have to come true. And the book holds back the last trumpet for the sake of the witnesses' testimony, which is what finally moves people to turn (10:1–11:13).[^delay] The plagues show what cannot save; the witness shows who can.
 

@@ -39,6 +39,8 @@ depth: 1
 
 Burada da Yuhanna önce {{% bible val="Kuzu'nun gelini hakkında bir şey işitir" link="rev:21,9" lang="tr" %}}, sonra {{% bible val="onu Yeni Yeruşalim olarak görür" link="rev:21,10" lang="tr" %}}. Bu uyumsuzluk asıl mesajdır — bir kadınla bir kent açıkça aynı şey değildir — ve bunun sembolik bir tasvir olduğunu, harfi harfine alınmaması gerektiğini gösterir; yine de Yahudi köklerine olan ısrarından hiçbir şey kaybetmez.
 
+{{% study %}}
+
 Pasaj şöyle yapılandırılabilir:
 
 21:1–8: Sonrasında gelen pasajın özetini veren Yeni Yeruşalim'e giriş ({{% bible val="Yeşaya 60'a" link="isa:60,1-20" lang="tr" %}} benzer şekilde); her ayet daha sonraki bir bölüme işaret eder:
@@ -56,6 +58,8 @@ Pasaj şöyle yapılandırılabilir:
 - 21:22–27: kentin iç özellikleri
 - 22:1–5: Tanrı'nın varlığının sembolleri
 
+{{% /study %}}
+
 ## Yeni Yeruşalim'in Tanıtımı
 
 <a name="4b14"></a>
@@ -70,7 +74,11 @@ Buradaki "yeni" sadece kısa süre önce var olmaya başlayan bir şeyi tanımla
 ### Artık deniz yok
 
 <a name="65aa"></a>
+{{% background %}}
+
 Ayet ayrıca artık {{% bible val="deniz olmayacağını" link="rev:21,1" lang="tr" %}} söyler; bu önemlidir, çünkü Kutsal Kitap boyunca denizin temsil ettiği şey bellidir. Deniz, kötülüğün kaynaklandığı yerdir — tıpkı {{% bible val="Vahiy'in kendisinde" link="rev:13,1" lang="tr" %}} olduğu gibi, ya da deniz canavarları {{% bible val="Livyatan" link="psa:74,13-14" lang="tr" %}} ile {{% bible val="Rahab'da" link="isa:51,9-10" lang="tr" %}} olduğu gibi, ya da {{% bible val="Firavun" link="ezk:32,2" lang="tr" %}} gibi kötü krallar deniz canavarı olarak kişileştirildiğinde olduğu gibi, ya da {{% bible val="denizin kendisi kötü bir araç olarak işlev gördüğünde" link="psa:93,3-4" lang="tr" %}} olduğu gibi. Deniz aynı zamanda Ölüler Diyarı'yla birlikte {{% bible val="ölülerin bulunduğu yerdir" link="rev:20,13" lang="tr" %}}.
+
+{{% /background %}}
 
 Yani artık deniz yoksa, kötülüğün barınıp inanlılara baskı yapabileceği bir yer de artık yoktur — nitekim {{% bible val="artık hiç deniz olmayacaktır" link="rev:21,1" lang="tr" %}}; kötülüğün ve ölümün alanı, yeni yaratılıştan tamamen kalkmıştır.
 
@@ -78,6 +86,8 @@ Yani artık deniz yoksa, kötülüğün barınıp inanlılara baskı yapabilece�
 
 <a name="2a00"></a>
 "{{% bible val="Kutsal kentin, yeni Yeruşalim'in gökten, Tanrı'nın yanından indiğini gördüm. Güveyi için hazırlanmış süslü bir gelin gibiydi." link="rev:21,2" lang="tr" %}}"
+
+{{% background %}}
 
 Bu tasvirin kökleri Yeşaya'ya dayanır; orada Yeruşalim {{% bible val="güzel giyimli kenttir" link="isa:52,1-10" lang="tr" %}}, bu imge {{% bible val="daha da geliştirilir" link="isa:61,10" lang="tr" %}}, ta ki kent {{% bible val="yeni bir isim alana" link="isa:62,1-2" lang="tr" %}} ve {{% bible val="Tanrı'yla yakın bir ilişkiye girene kadar — Tanrı onun için sevinir" link="isa:62,3-5" lang="tr" %}}.
 
@@ -87,6 +97,8 @@ Yeni Ahit aynı düşünceyi sürdürür:
 - {{% bible val="göklerde bir vatandaşlığımız vardır" link="php:3,20" lang="tr" %}}
 - {{% bible val="göksel bir Yeruşalim vardır" link="heb:12,22" lang="tr" %}}
 - {{% bible val="Yeruşalim özgürdür" link="gal:4,26-31" lang="tr" %}}
+
+{{% /background %}}
 
 Vahiy'in kendi içinde de ilginç bir paralellik vardır: 2. ayetle {{% bible val="10. ve 11. ayetler" link="rev:21,10-11" lang="tr" %}} arasında. 2. ayette yeni Yeruşalim, "gökten, Tanrı'nın yanından iniyor, kocası için hazırlanmış, güzelce giyinmiş bir gelin gibi"; 10-11. ayetlerde ise "Kutsal Kent, Yeruşalim, gökten, Tanrı'nın yanından iniyor" ve "Tanrı'nın görkemiyle parlıyor." İkisini yan yana koyduğunuzda, gelinin güzel elbisesinin Tanrı'nın görkemi olduğunu görürsünüz — ve {{% bible val="Tanrı'nın görkemi O'nun iyiliğidir, merhametli ve adil" link="exo:34,5-7" lang="tr" %}}, ki kilise de bunu yansıtmaya çağrılıdır.
 
@@ -145,9 +157,13 @@ Diri suyun kaynağı {{% bible val="Tanrı'dır" link="jer:2,13" lang="tr" %}}; 
 
 Bu lanetlilerin listesi, az önce verilen {{% bible val="galip gelenler" link="rev:21,7" lang="tr" %}} listesinin doğrudan karşılığıdır.
 
+{{% background %}}
+
 [Korkak](https://biblehub.com/greek/1169.htm) olanlar {{% bible val="korku tarafından yönetilenlerdir" link="mat:8,26" lang="tr" %}} — {{% bible val="esenliğe sahip olan" link="jhn:14,27-29" lang="tr" %}}, {{% bible val="Tanrı'ya güvenen" link="jhn:14,1" lang="tr" %}} ve {{% bible val="Tanrı'nın kendilerini asla terk etmeyeceğini bilenlerin" link="jhn:16,31-33" lang="tr" %}} tam tersi. "Adam öldürenler, fuhuş yapanlar, büyücülük yapanlar ve putperestler" imansızları tanımlayabilir, ama aynı ölçüde kilise içinde uzlaşan kişileri de tanımlayabilir — tıpkı {{% bible val="Bergama'da" link="rev:2,14" lang="tr" %}} ve {{% bible val="Tiyatira'da" link="rev:2,20-21" lang="tr" %}} olduğu gibi. Aslında bu günahların hepsi putperestliğe kadar uzanır: cinayet, putperestlerin {{% bible val="çocuklarını kurban etmesinde" link="psa:106,36-38" lang="tr" %}} ya da {{% bible val="inanlıları öldürmesinde" link="rev:13,15" lang="tr" %}} olduğu gibi; fuhuş, tapınak fahişeliğiyle bağlantılıdır; büyücülük ise {{% bible val="Kutsal Kitap'ta doğrudan putperestlikle ilişkilendirilir" link="deu:18,9-11" lang="tr" %}}, tıpkı {{% bible val="İzebel'de" link="2ki:9,22" lang="tr" %}} olduğu gibi.
 
 Son olarak yalancılar imana ihanet etmiş olanlardır — {{% bible val="kendilerine elçi diyorlar" link="rev:2,2" lang="tr" %}} ama {{% bible val="Şeytan'ın yolunda hareket ediyorlar" link="rev:3,9" lang="tr" %}}, {{% bible val="yalancı tanıklık ediyorlar" link="act:6,13" lang="tr" %}}, {{% bible val="İsa'nın sözüne itaatsizlik ediyorlar" link="1jn:2,4" lang="tr" %}}, {{% bible val="İsa'nın Rab olduğunu inkar ediyorlar" link="1jn:2,22" lang="tr" %}}, {{% bible val="kardeşlerinden nefret ediyorlar" link="1jn:4,20" lang="tr" %}} ve {{% bible val="İsa'da sonsuz yaşama sahip olduğumuza inanmıyorlar" link="1jn:5,10" lang="tr" %}}. Bu liste kitabın {{% bible val="en sonunda" link="rev:22,15" lang="tr" %}} ve {{% bible val="bu bölümün sonunda daha kısa bir biçimde" link="rev:21,27" lang="tr" %}} tekrarlanır ve her seferinde "yalancı" ile biter, çünkü {{% bible val="sözlerimizle eylemlerimizin tutarlı olması esastır" link="tit:1,16" lang="tr" %}}. Sonuçta {{% bible val="en büyük yalancı Şeytan'ın kendisidir" link="jhn:8,44" lang="tr" %}} ve burası ondan olabildiğince ayrışmak istediğimiz bir noktadır.
+
+{{% /background %}}
 
 ## Yeni Yeruşalim'in ayrıntıları
 
@@ -165,6 +181,8 @@ Son olarak yalancılar imana ihanet etmiş olanlardır — {{% bible val="kendil
 
 Yan yana konduğunda iki şehir her noktada birbirinin karşıtıdır.[^cities]
 
+{{% study %}}
+
 | | Babil | Yeni Yeruşalim |
 |---|---|---|
 | Kimdir | dünya krallarının kendisiyle fuhuş yaptığı fahişe ({{% bible val="17:1–2" link="rev:17,1-2" lang="tr" %}}; {{% bible val="18:9" link="rev:18,9" lang="tr" %}}) | pak gelin ({{% bible val="21:2" link="rev:21,2" lang="tr" %}}; {{% bible val="21:9" link="rev:21,9" lang="tr" %}}) |
@@ -179,6 +197,8 @@ Yan yana konduğunda iki şehir her noktada birbirinin karşıtıdır.[^cities]
 | Yaşam kitabı | onun insanları kitapta yazılı değildir ({{% bible val="17:8" link="rev:17,8" lang="tr" %}}) | yalnızca kitapta yazılı olanlar girer ({{% bible val="21:27" link="rev:21,27" lang="tr" %}}) |
 | Görkem | kendini yüceltir ({{% bible val="18:7" link="rev:18,7" lang="tr" %}}) | Tanrı'nın görkemiyle ışıldar ({{% bible val="21:11" link="rev:21,11" lang="tr" %}}; {{% bible val="21:23" link="rev:21,23" lang="tr" %}}) |
 | Orada kim yaşar | cinlerin barınağı ({{% bible val="18:2" link="rev:18,2" lang="tr" %}}) | Tanrı'nın konutu ({{% bible val="21:3" link="rev:21,3" lang="tr" %}}; {{% bible val="21:22" link="rev:21,22" lang="tr" %}}) |
+
+{{% /study %}}
 
 On iki kapı on iki oymağa, on iki temel taşı ise on iki elçiye işaret eder. {{% bible val="On iki kere iki, gökteki sonsuz tapınmayı yansıtır" link="rev:4,4" lang="tr" %}}, ama aynı zamanda kitap boyunca anlatılan {{% int_link val="Yahudiler ile Yahudi olmayanlar arasında uzlaşma aranması gerektiğine dair bir hatırlatmadır" link="/expl/background/israel/israel-and-the-church" %}}.
 
@@ -202,7 +222,11 @@ Malzeme, {{% bible val="Yeruşalim'in acı çekişinden sonra yeniden kurulması
 
 On iki taş, {{% bible val="başkâhinin göğüslüğünü" link="exo:28,17-20" lang="tr" %}} yansıtır; bu göğüslük {{% bible val="Tanrı'nın isteğini sormakta kullanılan kura taşlarını taşırdı" link="exo:28,30" lang="tr" %}} ve kendisi de {{% bible val="kareydi" link="exo:28,16" lang="tr" %}}. {{% bible val="Her taş İsrail'in bir oymağını temsil ediyordu" link="exo:28,21" lang="tr" %}}, burada ise {{% bible val="on iki taş on iki elçiyi temsil ediyor" link="rev:21,14" lang="tr" %}} — bu yerinde bir seçim, çünkü biz de {{% bible val="Tanrı'nın evindeki diri taşlar olarak" link="1pe:2,5" lang="tr" %}} çağrılıyoruz.
 
+{{% study %}}
+
 Burada bir çeviri notu önemlidir: çevirilerimiz genellikle "ilk temel yeşimle süslenmişti" der, ama [daha iyi bir çeviri "ilk temel yeşim*dir*" şeklindedir](https://biblehub.com/interlinear/revelation/21-19.htm) — temel taşla yalnızca süslenmiş değildir, o taştan yapılmıştır.
+
+{{% /study %}}
 
 {{% bible val="Yeni Yeruşalim'deki caddeden" link="rev:21,21" lang="tr" %}} söz edilmesi, {{% bible val="cesetlerinin bir zamanlar bir caddede teşhir edildiği iki tanığı" link="rev:11,8" lang="tr" %}} hatırlatır — ama şimdi o aynı cadde onların onuruna duruyor. Bu, metnin kendisinin yapmadığı bir çıkarımdır; Yuhanna yalnızca caddenin altından olduğunu söyler. Eski utancımızın yerini sonsuz görkem alacaktır.
 
@@ -215,7 +239,11 @@ Burada bir çeviri notu önemlidir: çevirilerimiz genellikle "ilk temel yeşiml
 
 {{% bible val="Ulusların görkemlerini, yüceliklerini ve onurlarını kente getirecekleri ifadesi" link="rev:21,24-26" lang="tr" %}}, aynı ifadeleri kullanan ama Vahiy'in yücelik ve onurdan söz ettiği yerde zenginlikten söz eden {{% bible val="Yeşaya'yla" link="isa:60,3-11" lang="tr" %}} birlikte okunduğunda daha kolay anlaşılır.
 
+{{% background %}}
+
 Paralellik yan yana koyulmaya değecek kadar yakındır. Yeşaya: "{{% bible val="Uluslar senin ışığına, krallar şafağının parlaklığına gelecek. ... ulusların zenginliği sana gelecek." link="isa:60,3-5" lang="tr" %}}" Vahiy: "{{% bible val="Uluslar kentin ışığında yürüyecek, yeryüzünün kralları görkemlerini oraya getirecek." link="rev:21,24" lang="tr" %}}" Ve yine Yeşaya: "{{% bible val="Kapıların hiç kapanmayacak, gece gündüz hep açık duracak, öyle ki ulusların zenginliği ve önden giden krallarıyla sana getirilsin." link="isa:60,11" lang="tr" %}}" Vahiy: "{{% bible val="Kapıları hiçbir gün kapanmayacak, çünkü orada gece olmayacak. Ulusların görkemi ve onuru oraya getirilecek." link="rev:21,25-26" lang="tr" %}}"
+
+{{% /background %}}
 
 Yeşaya'da uluslar, Tanrı'nın İsrail'le birlikte olduğunu kabul etmek için zenginliklerini getirirler ve {{% bible val="bu nedenle artık başkalarıyla birlikte acı çekmeyeceklerdir" link="isa:60,12" lang="tr" %}} — Tanrı'nın kurtuluş müjdesini taşıyarak gelirler. Daha sonraki bir pasaj, "{{% bible val="Esenliği bir ırmak gibi, ulusların zenginliğini taşan bir sel gibi ona akıtacağım" link="isa:66,12" lang="tr" %}}," ulusların armağanını yine İsrail'le olan esenliğe bağlar. Her iki metinde de tasvir edilen görkem, onur ve yücelik, ulusların zaten sahip olduğu bir nitelik değil, Tanrı'ya verdikleri bir şeydir — {{% bible val="bir zamanlar Babil'den elde ettikleri türden görkem ve zenginlik değil" link="rev:18,3" lang="tr" %}}. Bunun yerine {{% bible val="kendilerini Tanrı'ya hizmet etmek için getirirler" link="rev:22,3-5" lang="tr" %}}.
 

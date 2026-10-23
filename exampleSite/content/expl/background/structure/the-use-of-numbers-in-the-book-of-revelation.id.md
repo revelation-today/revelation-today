@@ -107,6 +107,8 @@ Angka-angka 4, 7, dan 12 mencerminkan sebuah tatanan kosmis dalam sastra apokali
 <a name="f042"></a>
 Bilangan-bilangan dalam Kitab Wahyu masih memiliki satu lapisan lagi: bentuk-bentuk yang dibentuknya.
 
+{{% study %}}
+
 **Bilangan yang berbentuk.** Pada zaman Yohanes, bilangan dibayangkan sebagai kerikil yang disusun menjadi bangun — kebiasaan lama dari tradisi Pythagoras, yang dikenal oleh pembaca terpelajar pada abad pertama (Bauckham, *Climax of Prophecy*, hlm. 391). Sebagian bilangan membentuk segitiga (1 + 2 + 3 …), sebagian persegi (6 × 6), sebagian persegi panjang (6 × 7).
 
 **Apa yang dimasukkan Yohanes ke dalam bilangan-bilangannya.** Richard Bauckham menunjukkan bahwa Yohanes memakai bentuk-bentuk ini dengan sengaja (*Climax of Prophecy*, hlm. 390–402):
@@ -152,6 +154,8 @@ Karena setiap langkah mengalikan bilangan itu dengan dirinya sendiri, jurang itu
 ![](/images/numbers-scale.id.svg)
 
 **Sejauh mana ini berlaku.** Hitungannya tepat. Bagian Bauckham adalah argumen ilmiah bahwa Yohanes memaksudkannya, dan orang Kristen mula-mula memang memainkan permainan ini: *Kenaikan Yesaya* memberi Antikristus 1332 hari, persegi panjang yang terkait dengan 666 (Bauckham, *Climax of Prophecy*, hlm. 403). Pola klaim dan kenyataan bertumpu pada teks itu sendiri — mahkota, tanduk, satu jam, api — dan Beale membaca mahkota binatang itu sebagai klaim palsu atas kerajaan Kristus. Kedua keluarga bilangan itu berasal dari Bauckham; mengambil langkah terakhir binatang itu juga bagi keluarga Allah, dan jurang yang makin lebar sebagai hasilnya, adalah ilustrasi situs ini — tidak disajikan sebagai kode tersembunyi, melainkan sebagai gambaran dari apa yang dikatakan Kitab Wahyu dengan kata-kata: Iblis berusaha tampak sedikit lebih besar daripada Allah, dan diperlihatkan jauh lebih kecil.
+
+{{% /study %}}
 
 [^collins]: Gambaran angka sebagai jaring berasal dari A. Y. Collins, "Numerical Symbolism in Jewish and Early Christian Apocalyptic Literature" (1984), menurut Beale, hlm. 59, 63. Collins meragukan bahwa angka tujuh berarti kelengkapan; Beale menjawabnya (hlm. 63–64).
 

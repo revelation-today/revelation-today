@@ -56,6 +56,8 @@ Ini menyisakan dua pertanyaan sulit yang tidak dijawab tuntas oleh teks ini. Per
 <a name="e7a1"></a>
 Yohanes menyusun sangkakala-sangkakala dari tulah-tulah di Mesir — hujan es, air menjadi darah, kegelapan, belalang. Latar belakang ini mengubah cara kita membacanya.
 
+{{% background %}}
+
 **Tujuan utamanya tidak pernah membinasakan orang Mesir.** Tulah-tulah itu ditujukan kepada {{% bible val="semua allah di Mesir" link="exo:12,12" lang="ind" %}} — Sungai Nil, matahari, tanah yang subur, setiap kuasa yang diandalkan Mesir — dan tujuan yang dinyatakan ialah supaya {{% bible val="orang Mesir mengetahui bahwa Akulah TUHAN" link="exo:7,5" lang="ind" %}}. Tulah-tulah itu menjawab pertanyaan Firaun sendiri, {{% bible val="Siapakah TUHAN itu yang harus kudengarkan firman-Nya?" link="exo:5,2" lang="ind" %}}, dengan menunjukkan siapa yang sungguh memberi air, terang, dan roti. Allah menyatakan diri-Nya sebagai alternatif sejati bagi segala sesuatu yang diandalkan Mesir.
 
 **Tulah-tulah itu datang sebagai peringatan, dengan jalan keluar.** Sebelum hujan es, Allah menyuruh orang Mesir membawa budak dan ternak mereka ke tempat berlindung, dan {{% bible val="siapa di antara pegawai Firaun yang takut akan firman TUHAN melakukannya" link="exo:9,20-21" lang="ind" %}}. Ketika Israel akhirnya keluar, {{% bible val="banyak orang dari berbagai bangsa ikut bersama mereka" link="exo:12,38" lang="ind" %}}. Sangkakala-sangkakala membawa pengekangan yang sama: yang terkena hanya sepertiga, bukan segalanya — Allah menahan murka-Nya untuk memberi ruang bagi pertobatan.
@@ -65,6 +67,8 @@ Yohanes menyusun sangkakala-sangkakala dari tulah-tulah di Mesir — hujan es, a
 **Umat Allah dipisahkan.** Sejak tulah keempat, {{% bible val="tanah Gosyen dibebaskan" link="exo:8,22-23" lang="ind" %}}, dan dalam kegelapan {{% bible val="semua orang Israel mendapat terang" link="exo:10,23" lang="ind" %}}. Sangkakala-sangkakala menarik garis yang sama: belalang-belalang itu hanya boleh menyakiti {{% bible val="manusia yang tidak memakai meterai Allah di dahinya" link="rev:9,4" lang="ind" %}}.
 
 **Yang akhirnya membawa Israel keluar bukanlah tulah-tulah, melainkan darah anak domba.** Malam kesepuluh adalah Paskah. Kitab Wahyu memegang urutan yang sama: setelah enam sangkakala tanpa pertobatan, {{% int_link val="kesaksian kedua saksi" link="/expl/content/witnesses/the-two-witnesses" %}} — dan orang-orang yang {{% bible val="mengalahkan dia oleh darah Anak Domba dan oleh perkataan kesaksian mereka" link="rev:12,11" lang="ind" %}} — itulah yang akhirnya menggerakkan orang untuk memuliakan Allah (11:13), seperti ditunjukkan bagian akhir artikel ini.
+
+{{% /background %}}
 
 Jadi sangkakala-sangkakala itu pertama-tama adalah peringatan. {{% int_link val="Sebuah nubuat dan sebuah apokalips" link="/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy" %}} ditulis untuk memancing keputusan selagi masih ada waktu — seperti {{% bible val="peringatan Yunus kepada Niniwe" link="jon:3,4-10" lang="ind" %}}, yang disampaikan supaya tidak perlu terjadi. Dan kitab ini menahan sangkakala terakhir demi kesaksian para saksi, yang akhirnya menggerakkan orang untuk berbalik (10:1–11:13).[^delay] Tulah-tulah menunjukkan apa yang tidak dapat menyelamatkan; kesaksian menunjukkan siapa yang dapat.
 
