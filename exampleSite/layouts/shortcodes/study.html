@@ -1,0 +1,6 @@
+{{- /*
+  {{% study %}} … {{% /study %}} folds a passage at depth 3 (label: forStudy). Use it with percent
+  signs, so that Markdown, footnotes and Bible shortcodes inside work, and keep a blank
+  line around the text. Whole sections go inside with their heading.
+*/ -}}
+{{ partial "layer.html" (dict "depth" 3 "label" "forStudy" "inner" .Inner) }}

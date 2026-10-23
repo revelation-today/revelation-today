@@ -1,0 +1,6 @@
+{{- /*
+  {{% background %}} … {{% /background %}} folds a passage at depth 2 (label: forBackground). Use it with percent
+  signs, so that Markdown, footnotes and Bible shortcodes inside work, and keep a blank
+  line around the text. Whole sections go inside with their heading.
+*/ -}}
+{{ partial "layer.html" (dict "depth" 2 "label" "forBackground" "inner" .Inner) }}

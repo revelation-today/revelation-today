@@ -1,0 +1,13 @@
+{{- /*
+  A folded passage for readers who want more than the page gives. Called by the shortcodes
+  `study` (depth 3: the argument, the other views, the sources) and `background`
+  (depth 2: the Old Testament or historical story behind a sentence). The app leaves the
+  passage out when the reader chose a shallower depth (see ReaderPage.vue, withoutLayers).
+  Context: dict "depth" and "label" (an i18n key) and "inner".
+*/ -}}
+<details class="layer hx-rounded-lg hx-bg-neutral-50 dark:hx-bg-neutral-800 hx-p-2 hx-mt-4" data-depth="{{ .depth }}">
+  <summary class="hx-cursor-pointer hx-select-none hx-p-1"><strong>{{ i18n .label }}</strong></summary>
+
+{{ .inner }}
+
+</details>
