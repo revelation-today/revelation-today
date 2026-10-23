@@ -22,6 +22,7 @@ sources:
       ref: beale_rev
     - pages: 346–347, 370
       ref: bauckham_climax
+depth: 1
 ---
 
 Fahişe Babil'i anlamak, Bölüm 1'de gördüğümüz gibi biraz karmaşık, ama parçalar Bölüm 2'de yerine oturmaya başlıyor.

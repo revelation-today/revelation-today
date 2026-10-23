@@ -18,6 +18,7 @@ sources:
       ref: aune_rev
     - pages: lviii
       ref: aune_rev
+depth: 1
 ---
 
 Di Smirna terdapat sebuah jemaat yang tidak bercela, meskipun ketidakbercelaan itu mungkin tidak terlihat semenarik yang kamu bayangkan.

@@ -19,6 +19,7 @@ deeper:
 sources:
     - pages: 433–445
       ref: beale_rev
+depth: 1
 ---
 
 When will the end times begin, and what is the Great Tribulation? These are questions that come loaded with emotion — and the real question underneath them is how much of the information out there is reliable, and how we can judge that. The Bible itself gives the answer.

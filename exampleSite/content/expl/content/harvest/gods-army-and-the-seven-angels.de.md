@@ -20,6 +20,7 @@ sources:
 readBefore:
     - name: "Der zweite Auszug"
       link:  /expl/background/israel/the-second-exodus
+depth: 1
 ---
 
 Kapitel 14 der Offenbarung ist eines der rätselhaftesten Kapitel der Bibel – auf den ersten Blick wirkt es losgelöst von allem, was davor und danach kommt. Liest man es aber im Zusammenhang mit dem, was vorausgeht und folgt, entpuppt es sich als Scharnier: ein Kapitel, das das vorherige beantwortet und das kommende vorbereitet. Es lohnt sich, genauer hinzuschauen.

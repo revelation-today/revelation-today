@@ -8,6 +8,7 @@ docType: expl
 sources:
     - pages: 9–10, 15–19
       ref: sarna_exo
+depth: 2
 ---
 
 Als Israel zum ersten Mal nach Ägypten kam, wurde es willkommen geheißen. Als wir das nächste Mal von ihnen lesen, sind sie Sklaven. Was war in der Zwischenzeit geschehen?

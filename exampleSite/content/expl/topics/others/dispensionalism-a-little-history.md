@@ -12,6 +12,7 @@ deeper:
 sources: 
     - pages: 11–67
       ref: koester_rev
+depth: 3
 ---
 
 Have you ever heard this strange word before? Probably not — but you have likely heard about the third temple, the rapture, or the 3.5 years of tribulation. If so, you have already brushed up against [dispensionalism](https://en.wikipedia.org/wiki/Dispensationalism), even if nobody called it that. Let's take it one step at a time.

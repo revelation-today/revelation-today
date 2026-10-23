@@ -24,6 +24,7 @@ sources:
       ref: aune_rev
     - pages: 382, 407
       ref: bauckham_climax
+depth: 2
 ---
 
 Armageddon: a catastrophe that will destroy the world? No — because, whatever real geography stands behind the name, John is using it as a symbol, not pinpointing a literal battlefield.

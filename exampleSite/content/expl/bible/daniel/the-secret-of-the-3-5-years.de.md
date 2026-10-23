@@ -12,6 +12,7 @@ sources:
       ref: beale_rev
     - pages: 275
       ref: bauckham_climax
+depth: 2
 ---
 
 Das Buch der Offenbarung ist voller merkwürdiger Zeitangaben — 1260 Tage, 42 Monate und so weiter. Was bedeuten sie, und sind sie wörtlich zu verstehen?

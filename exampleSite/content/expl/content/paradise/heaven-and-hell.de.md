@@ -11,6 +11,7 @@ appl: /appl/content/paradise
 sources:
     - pages: 1081
       ref: beale_rev
+depth: 1
 ---
 
 Was sind Himmel und Hölle? Kommen alle Menschen in den Himmel? Wie kann ein guter Gott Menschen in die Hölle schicken?

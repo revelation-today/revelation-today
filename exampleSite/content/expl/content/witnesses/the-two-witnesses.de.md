@@ -31,6 +31,7 @@ readBefore:
       link:  /expl/background/israel/gods-covenant
     - name: "Der Überrest von Israel"
       link:  /expl/background/israel/the-remnant-of-israel
+depth: 1
 ---
 
 {{% bible val="Offenbarung Kapitel 11" link="rev:11" lang="de" %}} stellt zwei Zeugen vor, deren Geschichte zu den meistdiskutierten des Buches gehört. Ihre Identität ist alles andere als geklärt, aber gerade diese Debatte legt eine klare und herausfordernde Lehre für jeden frei, der Jesus treu nachfolgen will.

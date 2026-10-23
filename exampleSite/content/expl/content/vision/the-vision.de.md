@@ -15,6 +15,7 @@ prev: /expl/content/vision/setting-the-foundation
 next: /expl/content/letters/the-angel-of-the-churches
 docType: expl
 appl: /appl/content/vision
+depth: 1
 ---
 
 Die Offenbarung beginnt mit einem Paukenschlag: Johannes hat eine Vision einer überwältigenden Gestalt, die zwischen den Leuchtern wandelt und Sterne in der Hand hält. Es ist klar, dass diese Vision auf irgendeine Weise den Rahmen für das ganze Buch absteckt — aber was genau ist die Botschaft?

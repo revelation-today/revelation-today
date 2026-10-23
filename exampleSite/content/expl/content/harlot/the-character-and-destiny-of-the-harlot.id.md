@@ -13,6 +13,7 @@ sources:
       ref: beale_rev
     - pages: 338–384
       ref: bauckham_climax
+depth: 1
 ---
 
 Dua artikel terakhir menelusuri siapa dia sejauh yang diizinkan teksnya, dan itu dengan sengaja tidak sampai tuntas. Pertanyaan-pertanyaan yang bisa dijawab adalah ini, dan Alkitab memang menjawabnya: bagaimana perilakunya, "taktiknya"? Bagaimana seharusnya kita meresponsnya? Dan apa yang pada akhirnya menyebabkan kejatuhannya?

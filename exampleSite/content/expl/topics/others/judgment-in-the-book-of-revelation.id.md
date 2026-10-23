@@ -9,6 +9,7 @@ appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapt
 sources:
     - pages: 8, 58–63
       ref: bauckham_rev
+depth: 1
 ---
 
 Kitab Wahyu penuh dengan gambaran-gambaran penghakiman, dan sepintas dapat terkesan seolah-olah seluruh maksudnya adalah untuk menakut-nakuti orang-orang yang tidak percaya agar bertobat. Namun kesan itu ternyata keliru, hampir dalam setiap seginya.

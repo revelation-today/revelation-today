@@ -8,6 +8,7 @@ appl: /appl/background/literature
 sources:
     - pages: 44–49
       ref: beale_rev
+depth: 3
 ---
 
 The {{% int_link val="previous article" link="/expl/background/literature/literally-or-symbolic" %}} asked whether Revelation's images are literal or symbolic. This one asks a different question that gets tangled up with it constantly: symbolic of *when*? Do the seals, trumpets, beasts, and bowls describe events that had already begun in John's own lifetime, events unfolding across the centuries since, events still waiting in our future, or a timeless pattern that doesn't pin to any one moment at all? Readers have answered that question in four broad ways, usually labeled preterist, historicist, futurist, and idealist — and, as the last section here explains, quite a few readers, this site included, end up combining pieces of more than one.

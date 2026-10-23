@@ -13,6 +13,7 @@ sources:
       ref: beale_rev
     - pages: 338–384
       ref: bauckham_climax
+depth: 1
 ---
 
 Son iki yazı, onun kim olduğunu metnin izin verdiği kadar izledi — ve bu, bilinçli olarak, sonuna kadar değil. Yanıtlanabilen sorular şunlar ve Kutsal Kitap onları yanıtlıyor: onun davranışı, "taktiği" nedir? Buna nasıl karşılık vermeliyiz? Ve onun düşüşüne asıl neden olan nedir?

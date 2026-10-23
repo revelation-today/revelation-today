@@ -18,6 +18,7 @@ sources:
       ref: aune_rev
     - pages: 75
       ref: beasley_rev
+depth: 1
 ---
 
 Efes'teki kilise, görünüşte örnek bir kilisedir. Ama görünüş aldatıcıdır, ve İsa yine de onlar hakkında yıkıcı bir yargıda bulunur.

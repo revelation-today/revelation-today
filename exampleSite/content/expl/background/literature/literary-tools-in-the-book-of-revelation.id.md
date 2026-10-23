@@ -24,6 +24,7 @@ prev: /expl/background/literature/full-of-biblical-references
 next: /expl/background/structure/the-structure-of-the-book-of-revelation
 docType: expl
 appl: /appl/background/literature
+depth: 3
 ---
 
 Bagaimana sebenarnya para pembaca pertama membaca Kitab Wahyu? Tidak ada judul, tidak ada pemisah paragraf, tidak ada pasal atau ayat — hanya rangkaian teks yang mengalir tanpa henti. Mari kita lihat cara membaca yang sangat berbeda ini, dan apa artinya bagi cara kita mempelajari kitab ini sekarang.

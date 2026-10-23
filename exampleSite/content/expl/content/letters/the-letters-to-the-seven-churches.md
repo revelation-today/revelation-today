@@ -18,6 +18,7 @@ sources:
       ref: beale_rev
     - pages: 12
       ref: bauckham_rev
+depth: 1
 ---
 
 The book of Revelation includes seven letters to seven specific churches. What is the purpose of these letters, how are they arranged, and what is the overall message?

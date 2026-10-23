@@ -16,6 +16,7 @@ sources:
       ref: fee_rev
     - pages: 231, 234, 238, 244
       ref: aune_rev
+depth: 1
 ---
 
 {{% bible val="Filadelfiya" link="rev:3,7-13" lang="tr" %}}, İsa'nın Davut'un anahtarını elinde tutan olarak seslendiği kilisedir. Peki bu anahtar hangi kapıları açıyor — müjdecilik mi, fırsat mı, ilişkiler mi, yoksa bambaşka bir şey mi? Bu, İsa'nın azarlamadığı iki kiliseden biridir.

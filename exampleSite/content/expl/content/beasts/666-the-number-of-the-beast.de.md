@@ -22,6 +22,7 @@ sources:
       ref: beale_rev
 aliases:
     - /de/expl/content/beasts/the-beasts-and-the-666-in-historical-context
+depth: 2
 ---
 
 {{% bible val="Die magische Zahl des Tieres" link="rev:13,18" lang="de" %}} wurde — meiner Meinung nach zu Unrecht — benutzt, um mit diesem oder jenem Zahlenschema die aktuelle Politik zu entschlüsseln. Die wirkliche Antwort findet man nicht durch die Suche außerhalb des Textes — sie steht bereits in der Bibel selbst.

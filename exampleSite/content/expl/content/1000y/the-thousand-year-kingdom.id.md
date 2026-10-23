@@ -25,6 +25,7 @@ readBefore:
       link:  /expl/background/literature/preterist-historicist-futurist-or-idealist
     - name: "Susunan Kitab Wahyu"
       link:  /expl/background/structure/the-structure-of-the-book-of-revelation
+depth: 3
 ---
 
 Kerajaan Seribu Tahun dalam Wahyu pasal 20 telah melahirkan lebih banyak teori yang saling bersaing daripada hampir bagian mana pun dalam kitab ini. Daripada mulai dari sebuah teori, mari kita mulai dari teksnya sendiri dan konteksnya, dan lihat apa yang ditemukan sebuah pandangan yang segar. Uraian berikut ini berargumen untuk satu pembacaan di antara beberapa pandangan Kristen yang sudah lama dianut tentang bagian ini — {{% int_link val="artikel berikutnya" link="/expl/content/1000y/pre-post-and-amillennialism" %}} memaparkan keseluruhan perdebatan itu dan memberi kesempatan yang adil bagi pandangan-pandangan alternatif.

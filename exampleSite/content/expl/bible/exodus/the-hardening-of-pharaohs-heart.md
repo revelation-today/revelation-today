@@ -10,6 +10,7 @@ sources:
       ref: tdot
     - pages: 466, 519
       ref: beale_rev
+depth: 2
 ---
 
 Is it fair for God to harden Pharaoh’s heart, so that Pharaoh has no choice but to act cruelly — and then gets punished for it anyway?

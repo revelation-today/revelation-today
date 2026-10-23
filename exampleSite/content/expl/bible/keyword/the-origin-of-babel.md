@@ -10,6 +10,7 @@ sources:
       ref: beale_rev
     - pages: 20, 103
       ref: brueggemann_gen
+depth: 2
 ---
 
 The story of the Tower of Babel, the story of the prophet Daniel, and the book of Revelation turn out to be connected. Here is how.

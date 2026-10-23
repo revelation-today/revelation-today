@@ -19,6 +19,7 @@ sources:
 readBefore:
     - name: "Eksodus Kedua"
       link:  /expl/background/israel/the-second-exodus
+depth: 1
 ---
 
 Cawan-cawan murka dalam Kitab Wahyu bisa memberi kesan seolah-olah Allah akhirnya kehabisan kesabaran terhadap dunia yang tidak mau mendengar, dan melampiaskan satu ledakan amarah terakhir. Namun kesan itu justru terbalik - kebenarannya lebih dekat kepada yang sebaliknya.

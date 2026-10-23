@@ -14,6 +14,7 @@ prev: /expl/background/structure/the-structure-of-the-book-of-revelation
 next: /expl/bible/creation/the-creation
 docType: expl
 appl: /appl/background/structure
+depth: 2
 ---
 
 Kitab ini penuh dengan angka-angka, tetapi apa sebenarnya makna angka-angka itu? Apakah harfiah, seperti 1.260 hari itu, atau apakah dimaksudkan untuk dibaca dengan cara lain? Untuk menjawabnya, akan membantu jika kita terlebih dahulu bertanya bagaimana angka-angka berfungsi dalam Alkitab secara lebih luas.

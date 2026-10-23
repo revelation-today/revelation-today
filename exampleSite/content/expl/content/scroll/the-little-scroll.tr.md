@@ -20,6 +20,7 @@ sources:
       ref: bauckham_climax
     - pages: 84
       ref: bauckham_rev
+depth: 1
 ---
 
 10. bölümün merkezinde Yuhanna'nın yemesi istenen küçük bir tomar ve söyler söylemez mühürlenen yedi gök gürlemesinin gizemi yer alır. Bu iki tuhaf ayrıntı ne anlama gelir?

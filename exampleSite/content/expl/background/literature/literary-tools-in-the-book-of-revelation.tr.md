@@ -24,6 +24,7 @@ prev: /expl/background/literature/full-of-biblical-references
 next: /expl/background/structure/the-structure-of-the-book-of-revelation
 docType: expl
 appl: /appl/background/literature
+depth: 3
 ---
 
 İlk okuyucu kitlesi Vahiy Kitabı'nı gerçekte nasıl okudu? Başlık yoktu, paragraf ayrımı yoktu, bölüm ya da ayet numarası da yoktu — sadece kesintisiz akan bir metin vardı. Gelin bu çok farklı okuma biçimine ve bunun kitabı bugün nasıl incelememiz gerektiği konusunda ne anlama geldiğine bir göz atalım.

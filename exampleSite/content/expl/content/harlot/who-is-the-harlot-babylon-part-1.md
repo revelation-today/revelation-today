@@ -31,6 +31,7 @@ sources:
 readBefore:
     - name: "Pax Romana — the key to understanding Revelation"
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
+depth: 1
 ---
 
 Some people say it's the Pope; some say it's the economy. It could be anyone — even the Church. So who is the Harlot Babel?

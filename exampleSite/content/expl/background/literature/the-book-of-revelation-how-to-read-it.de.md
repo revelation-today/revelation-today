@@ -19,6 +19,7 @@ prev: /expl/topics/others/who-wrote-revelation-and-when
 next: /expl/background/literature/literally-or-symbolic
 docType: expl
 appl: /appl/background/literature
+depth: 2
 ---
 
 Die Offenbarung hat Menschen zu allerlei Dingen inspiriert, von denen die wenigsten etwas mit dem Buch selbst zu tun haben. Wie also lässt sich dieses seltsame Buch überhaupt lesen und verstehen?

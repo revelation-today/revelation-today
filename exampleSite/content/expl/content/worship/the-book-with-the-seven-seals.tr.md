@@ -20,6 +20,7 @@ sources:
 deeper:
     - name: İkinci Çıkış
       link:  /expl/background/israel/the-second-exodus
+depth: 1
 ---
 
 "Yedi mühürlü kitap", bazı dillerde büyük bir gizem için kullanılan bir deyimdir. Bu ifade bu bölümden gelir, ama insanların sandığı anlamı taşımaz.

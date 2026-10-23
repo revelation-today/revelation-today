@@ -19,6 +19,7 @@ prev: /expl/topics/others/who-wrote-revelation-and-when
 next: /expl/background/literature/literally-or-symbolic
 docType: expl
 appl: /appl/background/literature
+depth: 2
 ---
 
 Kitab Wahyu telah mengilhami orang untuk melakukan segala macam hal, yang sebagian besar tidak ada hubungannya dengan kitab itu sendiri. Jadi bagaimana sebenarnya cara membaca dan memahami kitab yang aneh ini?

@@ -11,6 +11,7 @@ sources:
       ref: rossing
     - pages: 69–73
       ref: goreman
+depth: 3
 ---
 
 Der Dispensationalismus wird ständig diskutiert, und er lässt sich nur schwer greifen, weil er in so vielen Spielarten vorkommt. Im Folgenden stehen einige scharf umrissene, konkrete Kritikpunkte — darunter auch einige, die sich gegen „Left Behind” richten, die Variante, die die meisten Leser tatsächlich kennen werden.

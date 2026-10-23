@@ -19,6 +19,7 @@ sources:
       ref: fee_rev
     - pages: 180, 182, 188
       ref: aune_rev
+depth: 1
 ---
 
 Jemaat ini berada di ambang kegagalan, dan meskipun tampaknya Bileam yang harus disalahkan, sesungguhnya bukan dia masalah yang sebenarnya.

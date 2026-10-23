@@ -14,6 +14,7 @@ prev: /expl/background/literature/preterist-historicist-futurist-or-idealist
 next: /expl/background/literature/literary-tools-in-the-book-of-revelation
 docType: expl
 appl: /appl/background/literature
+depth: 2
 ---
 
 One key to understanding the book of Revelation is to interpret it through the Bible itself, since the book is saturated with references to the rest of Scripture. But is that really true, and would the original readers even have picked up on it?

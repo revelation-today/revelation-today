@@ -31,6 +31,7 @@ readBefore:
       link:  /expl/background/israel/gods-covenant
     - name: "İsrail’in kalıntıları"
       link:  /expl/background/israel/the-remnant-of-israel
+depth: 1
 ---
 
 {{% bible val="Vahiy'in 11. bölümü" link="rev:11" lang="tr" %}} bize, kitaptaki en çok tartışılan öykülerden birinin kahramanları olan iki tanığı tanıtır. Kimlikleri konusunda kesin bir uzlaşı yoktur, ama tartışmanın kendisi, İsa'yı sadakatle izlemeye çalışan herkes için açık ve sorgulayıcı bir ders ortaya çıkarır.

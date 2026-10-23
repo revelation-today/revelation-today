@@ -18,6 +18,7 @@ sources:
       ref: aune_rev
     - pages: 75
       ref: beasley_rev
+depth: 1
 ---
 
 Die Gemeinde in Ephesus wirkt auf den ersten Blick wie eine Musterngemeinde. Doch der Schein trügt, und Jesus fällt trotzdem ein vernichtendes Urteil über sie.

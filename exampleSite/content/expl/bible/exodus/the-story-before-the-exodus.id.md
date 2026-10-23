@@ -8,6 +8,7 @@ docType: expl
 sources:
     - pages: 9–10, 15–19
       ref: sarna_exo
+depth: 2
 ---
 
 Ketika Israel pertama kali datang ke Mesir, mereka disambut dengan baik. Pada saat berikutnya kita membaca tentang mereka, mereka sudah menjadi budak. Apa yang terjadi di antaranya?

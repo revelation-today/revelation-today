@@ -25,6 +25,7 @@ readBefore:
       link:  /expl/background/literature/preterist-historicist-futurist-or-idealist
     - name: "Der Aufbau der Offenbarung"
       link:  /expl/background/structure/the-structure-of-the-book-of-revelation
+depth: 3
 ---
 
 Das tausendjährige Reich aus Offenbarung 20 hat mehr konkurrierende Theorien hervorgebracht als fast jede andere Passage des Buches. Statt von einer Theorie auszugehen, wollen wir beim Text selbst und seinem Zusammenhang beginnen und schauen, was ein frischer Blick zutage fördert. Das Folgende argumentiert für eine Lesart unter mehreren seit langem vertretenen christlichen Positionen zu dieser Passage – der {{% int_link val="nächste Artikel" link="/expl/content/1000y/pre-post-and-amillennialism" %}} legt die ganze Debatte dar und gibt den Alternativen eine faire Anhörung.

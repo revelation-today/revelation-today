@@ -8,6 +8,7 @@ docType: expl
 sources:
     - pages: 9–10, 15–19
       ref: sarna_exo
+depth: 2
 ---
 
 When Israel first came to Egypt, they were welcomed. The next time we read about them, they are slaves. What happened in between?

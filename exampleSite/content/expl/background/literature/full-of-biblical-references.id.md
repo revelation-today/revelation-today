@@ -14,6 +14,7 @@ prev: /expl/background/literature/preterist-historicist-futurist-or-idealist
 next: /expl/background/literature/literary-tools-in-the-book-of-revelation
 docType: expl
 appl: /appl/background/literature
+depth: 2
 ---
 
 Salah satu kunci untuk memahami Kitab Wahyu adalah menafsirkannya melalui Alkitab itu sendiri, sebab kitab ini penuh dengan rujukan kepada bagian-bagian lain dari Kitab Suci. Tetapi benarkah demikian, dan apakah para pembaca pertama sungguh-sungguh menangkap rujukan-rujukan itu?

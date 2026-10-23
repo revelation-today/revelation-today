@@ -12,6 +12,7 @@ deeper:
 sources: 
     - pages: 11–67
       ref: koester_rev
+depth: 3
 ---
 
 Pernahkah Anda mendengar kata yang asing ini sebelumnya? Mungkin belum — tetapi Anda mungkin pernah mendengar tentang bait ketiga, pengangkatan (rapture), atau tiga setengah tahun masa kesengsaraan besar. Jika ya, Anda sebenarnya sudah bersinggungan dengan [dispensasionalisme](https://en.wikipedia.org/wiki/Dispensationalism), meskipun tidak ada yang menyebutnya demikian. Mari kita telusuri langkah demi langkah.

@@ -16,6 +16,7 @@ sources:
       ref: fee_rev
     - pages: 231, 234, 238, 244
       ref: aune_rev
+depth: 1
 ---
 
 {{% bible val="Philadelphia" link="rev:3,7-13" lang="en" %}} is the church to which Jesus speaks as the one who holds the key of David. What doors does that key open — evangelism, opportunity, relationships, or something else entirely? It is one of the two churches Jesus does not rebuke.

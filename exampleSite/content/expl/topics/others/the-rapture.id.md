@@ -13,6 +13,7 @@ sources:
       ref: aune_rev
     - pages: 47, 290–292
       ref: beale_rev
+depth: 3
 ---
 
 Pengangkatan (rapture) adalah sebuah topik yang memikat. Topik ini telah membangkitkan imajinasi banyak orang dan membuat lebih banyak lagi ketakutan. Tetapi apa sebenarnya pengangkatan itu? Apakah hal itu alkitabiah? Dan apa artinya bagi orang-orang percaya jika hal itu benar?

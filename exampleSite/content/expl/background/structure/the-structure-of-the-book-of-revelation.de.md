@@ -25,6 +25,7 @@ prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
 next: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 docType: expl
 appl: /appl/background/structure
+depth: 2
 ---
 
 Auf den ersten Blick wirkt die Offenbarung wie ein wildes Durcheinander — eine Katastrophe folgt auf die nächste, und dann beginnt der Kreislauf von vorne. Doch wer genauer hinsieht, entdeckt eine kunstvolle Struktur und ein bewusst durchdachtes Gefüge.

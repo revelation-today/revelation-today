@@ -24,6 +24,7 @@ prev: /expl/background/literature/full-of-biblical-references
 next: /expl/background/structure/the-structure-of-the-book-of-revelation
 docType: expl
 appl: /appl/background/literature
+depth: 3
 ---
 
 Wie haben die ursprünglichen Leser das Buch der Offenbarung eigentlich gelesen? Es gab keine Überschriften, keine Absätze, keine Kapitel oder Verse — nur einen fortlaufenden Text. Werfen wir einen Blick auf diese ganz andere Art des Lesens und darauf, was sie für unser heutiges Studium des Buches bedeutet.

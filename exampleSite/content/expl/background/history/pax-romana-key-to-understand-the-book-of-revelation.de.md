@@ -27,6 +27,7 @@ prev: /expl/tour
 next: /expl/topics/others/who-wrote-revelation-and-when
 docType: expl
 appl: /appl/background/history
+depth: 2
 ---
 
 Die Offenbarung und die Pax Romana des antiken Rom scheinen mit dem Leben heute nichts zu tun zu haben. Sie haben sehr viel damit zu tun.

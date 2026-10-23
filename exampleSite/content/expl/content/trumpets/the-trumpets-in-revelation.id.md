@@ -24,6 +24,7 @@ sources:
       ref: bauckham_rev
     - pages: 482, 514
       ref: beale_rev
+depth: 1
 ---
 
 Wahyu pasal 8-9 terbaca seperti judul-judul berita bencana zaman sekarang, tetapi Yohanes tidak sedang menggambarkan sesuatu yang baru - ia sedang mengulang kembali {{% int_link val="tulah-tulah di Mesir" link="/expl/bible/exodus/the-plagues-in-egypt" %}} untuk sebuah kekaisaran baru dan seorang Firaun baru.

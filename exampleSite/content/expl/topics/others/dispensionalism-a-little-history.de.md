@@ -12,6 +12,7 @@ deeper:
 sources: 
     - pages: 11–67
       ref: koester_rev
+depth: 3
 ---
 
 Hast du dieses seltsame Wort schon einmal gehört? Wahrscheinlich nicht — aber vom dritten Tempel, von der Entrückung oder von den 3,5 Jahren der Trübsal hast du vermutlich schon gehört. Wenn ja, dann bist du bereits mit dem [Dispensationalismus](https://de.wikipedia.org/wiki/Dispensationalismus) in Berührung gekommen, auch wenn ihn niemand so genannt hat. Gehen wir Schritt für Schritt vor.

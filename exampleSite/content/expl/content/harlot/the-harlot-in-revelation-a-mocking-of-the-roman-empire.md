@@ -11,6 +11,7 @@ appl: /appl/content/harlot
 sources: 
     - pages: 919–928
       ref: aune_rev
+depth: 2
 ---
 
 The story of the harlot Babel in Revelation is one of the most layered in the book, and it leans heavily on subtle irony aimed at the Roman Empire. Ready for it?

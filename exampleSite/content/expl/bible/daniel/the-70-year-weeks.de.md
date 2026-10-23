@@ -12,6 +12,7 @@ sources:
       ref: goldingay_dan
     - pages: 566–567
       ref: beale_rev
+depth: 3
 ---
 
 Die 70 Jahrwochen gehören zu den geheimnisvollsten Abschnitten der Bibel und haben nicht wenige interessante Auslegungen über die Endzeit hervorgebracht. Schauen wir uns genauer an, worum es dabei geht.

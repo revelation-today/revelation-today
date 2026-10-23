@@ -18,6 +18,7 @@ sources:
       ref: aune_rev
     - pages: 75
       ref: beasley_rev
+depth: 1
 ---
 
 The church in Ephesus looks, on the surface, like a model church. But appearances are deceptive, and Jesus delivers a devastating judgment on them anyway.

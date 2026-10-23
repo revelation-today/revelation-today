@@ -25,6 +25,7 @@ sources:
       ref: bauckham_climax
     - pages: "vol. 5: 360"
       ref: tdot
+depth: 2
 ---
 
 Ini adalah kisah yang mungkin pernah Anda dengar di sekolah minggu, tetapi ada jauh lebih banyak yang dapat ditemukan di dalamnya daripada yang mungkin pernah Anda dengar sebelumnya.

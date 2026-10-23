@@ -9,6 +9,7 @@ appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapt
 sources:
     - pages: 8, 58–63
       ref: bauckham_rev
+depth: 1
 ---
 
 The book of Revelation is filled with descriptions of judgment, and it can look at first glance like the whole point is to scare unbelievers into repenting. That impression, however, turns out to be wrong on almost every count.

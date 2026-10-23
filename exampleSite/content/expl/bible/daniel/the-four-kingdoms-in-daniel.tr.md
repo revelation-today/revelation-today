@@ -12,6 +12,7 @@ sources:
       ref: dabar_daniel
     - pages: 221, 259, 633, 683–686, 687, 708
       ref: beale_rev
+depth: 2
 ---
 
 Daniel kitabı, pek çok son zamanlar yorumunun kaynağı gibi görünmektedir. Temellerden başlayarak, tüm bunların ne hakkında olduğuna daha yakından bakalım.

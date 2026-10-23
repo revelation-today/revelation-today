@@ -14,6 +14,7 @@ prev: /expl/background/literature/preterist-historicist-futurist-or-idealist
 next: /expl/background/literature/literary-tools-in-the-book-of-revelation
 docType: expl
 appl: /appl/background/literature
+depth: 2
 ---
 
 Vahiy Kitabı'nı anlamanın anahtarlarından biri, onu Kutsal Kitap'ın kendisi aracılığıyla yorumlamaktır, çünkü kitap Kutsal Kitap'ın geri kalanına yapılan göndermelerle doludur. Ama bu gerçekten doğru mudur ve ilk okuyucular bunu gerçekten fark edebilir miydi?

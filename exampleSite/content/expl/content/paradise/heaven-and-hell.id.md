@@ -11,6 +11,7 @@ appl: /appl/content/paradise
 sources:
     - pages: 1081
       ref: beale_rev
+depth: 1
 ---
 
 Apakah surga dan neraka itu? Apakah semua orang masuk surga? Bagaimana mungkin Allah yang baik mengirim orang ke neraka?

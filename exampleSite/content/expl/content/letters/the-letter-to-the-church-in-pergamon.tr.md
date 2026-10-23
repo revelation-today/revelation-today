@@ -19,6 +19,7 @@ sources:
       ref: fee_rev
     - pages: 180, 182, 188
       ref: aune_rev
+depth: 1
 ---
 
 Bu kilise çöküşün eşiğinde, ve suçlu Balam gibi görünse de, aslında sorun o değil.

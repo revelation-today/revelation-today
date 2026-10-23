@@ -16,6 +16,7 @@ prev: /expl/content/vision/the-vision
 next: /expl/content/letters/the-letters-to-the-seven-churches
 docType: expl
 appl: /appl/content/letters
+depth: 3
 ---
 
 Vahiy kitabı boyunca aynı şaşırtıcı buyruk tekrarlanır: "Kilisenin meleğine yaz." Kiliselerin koruyucu melekleri mi var? Yoksa "melek" kilisenin önderi için kullanılan başka bir sözcük mü? Okurlar bu melekleri farklı şekillerde anlamıştır. İşte bu sitenin benimsediği okuma ve gerekçeleri.

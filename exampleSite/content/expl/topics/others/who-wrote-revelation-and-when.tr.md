@@ -13,6 +13,7 @@ sources:
       ref: aune_rev
     - pages: lxvii–lxix
       ref: aune_rev
+depth: 3
 ---
 
 Bu sitedeki her makale, açıkça söylenmese bile, Vahiy kitabı için bir yazar ve bir tarih varsayar. Her ikisi de ciddi, imanlı bilim insanları arasında tartışmalıdır — bu yüzden bu sitenin neyi varsaydığını, nedenini ve başka bir şey varsayılsaydı gerçekte neyin değişeceğini açıkça belirtmekte fayda var.

@@ -8,6 +8,7 @@ docType: expl
 sources:
     - pages: 619
       ref: beale_rev
+depth: 2
 ---
 
 Maybe you've never heard the story of Uzzah, and how God struck him down for trying to rescue the ark. It's a strange story, and it can seem to have no relevance at all for us today. It does — and the reason may surprise you. Let's take it step by step.

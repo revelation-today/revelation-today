@@ -12,6 +12,7 @@ sources:
       ref: goldingay_dan
     - pages: 566–567
       ref: beale_rev
+depth: 3
 ---
 
 Ketujuh puluh minggu tahun adalah salah satu bagian Alkitab yang paling diselimuti misteri, dan telah melahirkan banyak sekali tafsiran menarik tentang akhir zaman. Mari kita selidiki lebih dekat apa sebenarnya makna bagian ini.

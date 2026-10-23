@@ -8,6 +8,7 @@ docType: expl
 sources:
     - pages: 619
       ref: beale_rev
+depth: 2
 ---
 
 Vielleicht hast du noch nie die Geschichte von Usa gehört — und davon, wie Gott ihn erschlug, weil er versuchte, die Bundeslade zu retten. Es ist eine merkwürdige Geschichte, die für uns heute völlig belanglos erscheinen kann. Ist sie aber nicht — und der Grund dafür mag dich überraschen. Gehen wir es Schritt für Schritt durch.

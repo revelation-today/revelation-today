@@ -20,6 +20,7 @@ sources:
 deeper:
     - name: The second Exodus
       link:  /expl/background/israel/the-second-exodus
+depth: 1
 ---
 
 In some languages "a book with seven seals" is a saying for a great mystery. The phrase comes from this chapter, though it does not mean quite what people assume.

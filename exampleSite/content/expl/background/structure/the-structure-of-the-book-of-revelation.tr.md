@@ -25,6 +25,7 @@ prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
 next: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 docType: expl
 appl: /appl/background/structure
+depth: 2
 ---
 
 Vahiy Kitabı ilk bakışta düzensiz görünür — bir felaket diğerinin peşinden gelir, sonra döngü baştan başlar. Ama daha yakından bakıldığında, sanatsal bir yapı ve bilinçli bir ustalık ortaya çıkar.

@@ -19,6 +19,7 @@ deeper:
       link:  /expl/background/literature/literally-or-symbolic
     - name: İsa ve antlaşma
       link:  /expl/background/israel/jesus-and-the-covenant
+depth: 3
 ---
 
 Vahiy 20'nin ayrıntılarıyla boğuştuktan sonra, hemen arkasında genellikle daha büyük bir soru bekler: bu bölüm hangi bütünsel sisteme oturuyor? Hristiyanlar bu soruyu tarih boyunca üç ana biçimde yanıtladılar; adlarını, Mesih'in ikinci gelişini bin yıla göre nereye yerleştirdiklerinden alırlar: premilenyalizm (öncesine), postmilenyalizm (sonrasına) ve amilenyalizm (bu sayı, gelecekteki altın bir çağdan başka bir şeyi anlatır).

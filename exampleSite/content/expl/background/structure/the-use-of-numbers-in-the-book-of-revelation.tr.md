@@ -14,6 +14,7 @@ prev: /expl/background/structure/the-structure-of-the-book-of-revelation
 next: /expl/bible/creation/the-creation
 docType: expl
 appl: /appl/background/structure
+depth: 2
 ---
 
 Kitap sayılarla doludur, ama bunlar gerçekte ne anlama gelir? 1260 gün gibi harfiyen mi alınmalıdır, yoksa başka bir şekilde mi okunmalıdır? Bu soruyu yanıtlamak için önce sayıların Kutsal Kitap'ta genel olarak nasıl işlediğini sormak yararlı olur.

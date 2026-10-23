@@ -11,6 +11,7 @@ sources:
       ref: rossing
     - pages: 69–73
       ref: goreman
+depth: 3
 ---
 
 Dispansiyonalizm sürekli tartışılan bir konudur ve tam olarak neyi ifade ettiğini belirlemek gerçekten kafa karıştırıcı olabilir, çünkü çok sayıda çeşidi vardır. Aşağıda, "Left Behind" — çoğu okurun aşina olduğu versiyon — dahil olmak üzere birkaç keskin ve somut eleştiri sunulmaktadır.

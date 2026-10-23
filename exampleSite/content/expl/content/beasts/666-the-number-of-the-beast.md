@@ -22,6 +22,7 @@ sources:
       ref: beale_rev
 aliases:
     - /expl/content/beasts/the-beasts-and-the-666-in-historical-context
+depth: 2
 ---
 
 {{% bible val="The magic number of the beast" link="rev:13,18" lang="en" %}} has been used, wrongly in my opinion, to decode current politics through one numbering scheme or another. The real answer isn't found by hunting outside the text — it's already there in the Bible itself.

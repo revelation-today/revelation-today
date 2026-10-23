@@ -16,6 +16,7 @@ sources:
       ref: fee_rev
     - pages: 145–146, 201
       ref: aune_rev
+depth: 1
 ---
 
 Was macht man mit einer Gemeinde, deren Problem die eigene Leiterschaft ist? Genau das ist die Situation, mit der sich der Brief an Thyatira befasst.

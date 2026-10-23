@@ -14,6 +14,7 @@ prev: /expl/background/structure/the-structure-of-the-book-of-revelation
 next: /expl/bible/creation/the-creation
 docType: expl
 appl: /appl/background/structure
+depth: 2
 ---
 
 The book is full of numbers, but what do they actually mean? Are they literal, like the 1,260 days, or are they meant to be read some other way? To answer that, it helps to first ask how numbers function in the Bible more broadly.

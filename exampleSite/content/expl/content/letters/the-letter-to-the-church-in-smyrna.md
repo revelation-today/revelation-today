@@ -18,6 +18,7 @@ sources:
       ref: aune_rev
     - pages: lviii
       ref: aune_rev
+depth: 1
 ---
 
 Smyrna is home to a blameless church, though that blamelessness may not look as inviting as you'd expect.

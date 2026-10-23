@@ -16,6 +16,7 @@ prev: /expl/background/israel/the-church-is-part-of-israel
 next: /expl/content/vision/setting-the-foundation
 docType: expl
 appl: /appl/background/israel
+depth: 2
 ---
 
 {{< callout type="info" >}}

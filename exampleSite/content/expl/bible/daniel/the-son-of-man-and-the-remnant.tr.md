@@ -14,6 +14,7 @@ sources:
       ref: tdot
     - pages: 90, 221, 259, 270, 633
       ref: beale_rev
+depth: 2
 ---
 
 İsa'nın kendisi için en sevdiği unvan şudur: "İnsanoğlu." Neden bu unvan, ve bu ne anlama gelir?

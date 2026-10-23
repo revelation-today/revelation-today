@@ -12,6 +12,7 @@ sources:
       ref: goldingay_dan
     - pages: 566–567
       ref: beale_rev
+depth: 3
 ---
 
 70 yıllık haftalar, Kutsal Kitap'ın en gizemli bölümlerinden biridir ve son zamanlar hakkında pek çok ilginç yoruma kapı açmıştır. Bunun ne anlama geldiğine daha yakından bakalım.

@@ -18,6 +18,7 @@ sources:
       ref: aune_rev
     - pages: 75
       ref: beasley_rev
+depth: 1
 ---
 
 Gereja di Efesus, secara lahiriah, tampak seperti gereja teladan. Namun penampilan bisa menipu, dan Yesus tetap menjatuhkan penghakiman yang menghancurkan atas mereka.

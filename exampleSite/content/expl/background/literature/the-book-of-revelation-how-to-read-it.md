@@ -19,6 +19,7 @@ prev: /expl/topics/others/who-wrote-revelation-and-when
 next: /expl/background/literature/literally-or-symbolic
 docType: expl
 appl: /appl/background/literature
+depth: 2
 ---
 
 The book of Revelation has inspired people to do all sorts of things, most of which have nothing to do with the book itself. So how is it actually possible to read and understand this strange book?

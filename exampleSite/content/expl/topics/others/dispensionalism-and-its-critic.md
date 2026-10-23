@@ -11,6 +11,7 @@ sources:
       ref: rossing
     - pages: 69–73
       ref: goreman
+depth: 3
 ---
 
 Dispensationalism gets discussed constantly, and it can be genuinely confusing to pin down, since it comes in so many varieties. What follows are a handful of sharp, specific criticisms — including some aimed at "Left Behind," the version most readers will actually recognize.

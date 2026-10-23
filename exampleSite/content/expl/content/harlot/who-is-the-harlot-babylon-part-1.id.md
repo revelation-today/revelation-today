@@ -31,6 +31,7 @@ sources:
 readBefore:
     - name: "Pax Romana — Kunci untuk Memahami Kitab Wahyu"
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
+depth: 1
 ---
 
 Ada yang mengatakan itu adalah Paus; ada yang mengatakan itu adalah sistem ekonomi. Bisa siapa saja — bahkan gereja sekalipun. Jadi, siapakah sang pelacur Babel itu?

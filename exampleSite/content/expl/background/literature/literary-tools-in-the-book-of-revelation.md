@@ -24,6 +24,7 @@ prev: /expl/background/literature/full-of-biblical-references
 next: /expl/background/structure/the-structure-of-the-book-of-revelation
 docType: expl
 appl: /appl/background/literature
+depth: 3
 ---
 
 How did the original audience actually read the book of Revelation? There were no headings, no paragraph breaks, no chapters or verses — just a continuous run of text. Let's take a look at this very different way of reading, and what it means for how we study the book today.

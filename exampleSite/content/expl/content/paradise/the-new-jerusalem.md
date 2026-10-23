@@ -27,6 +27,7 @@ readBefore:
       link:  /expl/background/literature/literally-or-symbolic
     - name: "The church is part of Israel"
       link:  /expl/background/israel/the-church-is-part-of-israel
+depth: 1
 ---
 
 Where does the story end? Not in a far-off heaven. Revelation ends with a city that comes down from heaven to a renewed earth, and God lives there with his people.

@@ -20,6 +20,7 @@ sources:
       ref: bauckham_climax
     - pages: 84
       ref: bauckham_rev
+depth: 1
 ---
 
 Pasal 10 berpusat pada sebuah kitab kecil yang harus dimakan oleh Yohanes, dan pada rahasia ketujuh guntur, yang dimeteraikan tepat pada saat mereka berbicara. Apa makna kedua hal yang aneh ini?

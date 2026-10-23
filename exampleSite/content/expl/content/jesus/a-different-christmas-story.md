@@ -29,6 +29,7 @@ sources:
 readBefore:
     - name: "The second Exodus"
       link:  /expl/background/israel/the-second-exodus
+depth: 1
 ---
 
 As a Christian, you're probably very familiar with the classic Christmas story pieced together from {{% bible val="Luke" link="luk:2" lang="en" %}} and {{% bible val="Matthew" link="mat:2" lang="en" %}}: a somewhat romantic tale of shepherds and a baby laid in a manger, and far-flung travelers who followed a mysterious star (later tradition, not the text itself, fixed their number at three, based on the three gifts they brought).

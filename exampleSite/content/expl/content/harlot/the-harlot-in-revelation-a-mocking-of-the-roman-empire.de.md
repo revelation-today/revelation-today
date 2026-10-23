@@ -11,6 +11,7 @@ appl: /appl/content/harlot
 sources: 
     - pages: 919–928
       ref: aune_rev
+depth: 2
 ---
 
 Die Geschichte der Hure Babel in der Offenbarung ist eine der vielschichtigsten des Buches, und sie stützt sich stark auf subtile Ironie, die auf das Römische Reich zielt. Bereit dafür?

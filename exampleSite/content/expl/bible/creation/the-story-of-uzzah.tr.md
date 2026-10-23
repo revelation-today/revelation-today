@@ -8,6 +8,7 @@ docType: expl
 sources:
     - pages: 619
       ref: beale_rev
+depth: 2
 ---
 
 Belki de Uzza'nın öyküsünü, ve Tanrı'nın onu antlaşma sandığını kurtarmaya çalıştığı için nasıl vurup öldürdüğünü hiç duymamışsınızdır. Tuhaf bir öyküdür ve bugün bizimle hiçbir ilgisi yokmuş gibi görünebilir. Ama vardır — ve nedeni sizi şaşırtabilir. Adım adım ilerleyelim.

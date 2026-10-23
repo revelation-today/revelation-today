@@ -27,6 +27,7 @@ readBefore:
       link:  /expl/background/literature/literally-or-symbolic
     - name: "Die Gemeinde als Teil von Israel"
       link:  /expl/background/israel/the-church-is-part-of-israel
+depth: 1
 ---
 
 Wo endet die Geschichte? Nicht in einem fernen Himmel. Die Offenbarung endet mit einer Stadt, die aus dem Himmel auf eine erneuerte Erde herabkommt, und Gott wohnt dort bei seinem Volk.

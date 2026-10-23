@@ -25,6 +25,7 @@ sources:
 readBefore:
     - name: "Susunan Kitab Wahyu"
       link:  /expl/background/structure/the-structure-of-the-book-of-revelation
+depth: 1
 ---
 
 Penyembahan di ruang takhta adalah jawaban atas persoalan-persoalan yang diuraikan dalam surat-surat kepada jemaat-jemaat itu. Tetapi mengapa - dan bagaimana - adegan ini menjadi pengantar bagi seluruh malapetaka yang menyusul?

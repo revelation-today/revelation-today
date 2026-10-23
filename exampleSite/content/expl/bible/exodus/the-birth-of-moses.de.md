@@ -10,6 +10,7 @@ sources:
       ref: sarna_exo
     - pages: "vol. 10: 438–439"
       ref: tdot
+depth: 2
 ---
 
 Die Geschichte des Mose widerspricht dem Muster jeder Heldengeschichte, die in der antiken Welt bekannt war — und ist doch eine Erfolgsgeschichte.

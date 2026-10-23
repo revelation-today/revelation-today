@@ -16,6 +16,7 @@ prev: /expl/content/vision/the-vision
 next: /expl/content/letters/the-letters-to-the-seven-churches
 docType: expl
 appl: /appl/content/letters
+depth: 3
 ---
 
 Die Offenbarung wiederholt immer wieder dieselbe rätselhafte Anweisung: "Schreibe dem Engel der Gemeinde." Haben Gemeinden Schutzengel? Oder ist "Engel" einfach ein anderes Wort für den Leiter der Gemeinde? Leser haben diese Engel auf verschiedene Weise verstanden. Hier ist die Lesart, der diese Seite folgt, und warum.

@@ -9,6 +9,7 @@ appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapt
 sources:
     - pages: 8, 58–63
       ref: bauckham_rev
+depth: 1
 ---
 
 Die Offenbarung ist voller Beschreibungen von Gericht, und auf den ersten Blick kann es so wirken, als bestehe der ganze Sinn darin, Ungläubige durch Angst zur Umkehr zu bewegen. Dieser Eindruck erweist sich jedoch bei genauerem Hinsehen fast durchweg als falsch.

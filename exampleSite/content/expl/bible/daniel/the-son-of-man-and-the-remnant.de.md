@@ -14,6 +14,7 @@ sources:
       ref: tdot
     - pages: 90, 221, 259, 270, 633
       ref: beale_rev
+depth: 2
 ---
 
 Jesus hat für sich selbst einen Lieblingstitel: „Menschensohn“. Warum dieser Titel, und was bedeutet er?

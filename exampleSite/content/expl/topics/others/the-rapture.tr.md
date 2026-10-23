@@ -13,6 +13,7 @@ sources:
       ref: aune_rev
     - pages: 47, 290–292
       ref: beale_rev
+depth: 3
 ---
 
 Göğe alınma (rapture) büyüleyici bir konudur. Pek çok kişinin hayal gücünü ele geçirmiş, daha da fazlasını korkutmuştur. Ama göğe alınma gerçekte nedir? Kutsal Kitap'a dayanıyor mu? Ve eğer gerçekse, inananlar için ne anlama gelirdi?

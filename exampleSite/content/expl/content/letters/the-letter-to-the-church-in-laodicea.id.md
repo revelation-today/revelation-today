@@ -18,6 +18,7 @@ sources:
       ref: aune_rev
     - pages: 306
       ref: beale_rev
+depth: 1
 ---
 
 {{% bible val="Surat kepada jemaat Laodikia" link="rev:3,14-22" lang="ind" %}} adalah surat dalam Kitab Wahyu yang paling sering dikhotbahkan, sehingga kebanyakan dari kita sudah mengenal persoalan menjadi suam-suam kuku. Tetapi apakah kita benar-benar memahami konteks di balik gambaran itu? Hal itu lebih penting di sini daripada biasanya, sebab Laodikia adalah *satu-satunya* jemaat yang sama sekali tidak menerima pujian - bahkan tidak sedikit pun.

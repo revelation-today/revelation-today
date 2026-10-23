@@ -18,6 +18,7 @@ sources:
       ref: beale_rev
     - pages: 12
       ref: bauckham_rev
+depth: 1
 ---
 
 Das Buch der Offenbarung enthält sieben Sendschreiben an sieben bestimmte Gemeinden. Was ist der Zweck dieser Briefe, wie sind sie aufgebaut, und was ist die übergeordnete Botschaft?

@@ -10,6 +10,7 @@ sources:
       ref: tdot
     - pages: 466, 519
       ref: beale_rev
+depth: 2
 ---
 
 Ist es fair von Gott, das Herz des Pharao zu verhärten, sodass der Pharao keine andere Wahl hat, als grausam zu handeln — und dafür dann trotzdem bestraft wird?

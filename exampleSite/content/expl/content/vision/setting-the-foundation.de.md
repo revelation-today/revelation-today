@@ -21,6 +21,7 @@ readBefore:
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
     - name: "Wie lese ich die Offenbarung?"
       link:  /expl/background/literature/the-book-of-revelation-how-to-read-it
+depth: 1
 ---
 
 Die Offenbarung beginnt mit ein paar Sätzen, die man leicht überliest — und die doch der Schlüssel zum Verständnis von allem sind, was folgt. Schauen wir sie uns mit neuen Augen an.

@@ -27,6 +27,7 @@ readBefore:
       link:  /expl/background/literature/literally-or-symbolic
     - name: "Gereja sebagai Bagian dari Israel"
       link:  /expl/background/israel/the-church-is-part-of-israel
+depth: 1
 ---
 
 Di mana kisah ini berakhir? Bukan di surga yang jauh. Kitab Wahyu berakhir dengan sebuah kota yang turun dari surga ke bumi yang diperbarui, dan Allah tinggal di sana bersama umat-Nya.

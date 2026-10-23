@@ -20,6 +20,7 @@ sources:
       ref: bauckham_climax
     - pages: 84
       ref: bauckham_rev
+depth: 1
 ---
 
 Kapitel 10 dreht sich um ein kleines Büchlein, das Johannes essen soll, und um das Geheimnis der sieben Donner, die in dem Moment versiegelt werden, in dem sie sprechen. Was bedeuten diese beiden seltsamen Details?

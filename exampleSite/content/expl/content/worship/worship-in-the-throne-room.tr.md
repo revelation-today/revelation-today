@@ -25,6 +25,7 @@ sources:
 readBefore:
     - name: "Vahiy Kitabı’nın yapısı"
       link:  /expl/background/structure/the-structure-of-the-book-of-revelation
+depth: 1
 ---
 
 Taht odasındaki ibadet, kiliselere yazılan mektuplarda ortaya konan sorunlara verilen cevaptır. Peki bu sahne nasıl oluyor da sonrasında gelen tüm belaların girişi haline geliyor — ve neden?

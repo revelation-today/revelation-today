@@ -19,6 +19,7 @@ sources:
 readBefore:
     - name: "Der zweite Auszug"
       link:  /expl/background/israel/the-second-exodus
+depth: 1
 ---
 
 Die Zornesschalen im Buch der Offenbarung können den Eindruck erwecken, dass Gott endlich die Geduld mit einer Welt verloren hat, die nicht hören will, und nun einen letzten Zornesausbruch loslässt. Doch dieser Eindruck täuscht — die Wahrheit ist eher das Gegenteil.

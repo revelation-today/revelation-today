@@ -8,6 +8,7 @@ appl: /appl/background/literature
 sources:
     - pages: 44–49
       ref: beale_rev
+depth: 3
 ---
 
 Der {{% int_link val="vorherige Artikel" link="/expl/background/literature/literally-or-symbolic" %}} hat gefragt, ob die Bilder der Offenbarung wörtlich oder symbolisch zu verstehen sind. Dieser Artikel stellt eine andere Frage, die sich damit ständig vermischt: symbolisch — aber für *wann*? Beschreiben die Siegel, Posaunen, Tiere und Schalen Ereignisse, die zu Johannes' eigenen Lebzeiten bereits begonnen hatten, Ereignisse, die sich über die seitherigen Jahrhunderte hinweg entfalten, Ereignisse, die noch in unserer Zukunft liegen, oder ein zeitloses Muster, das sich an keinen bestimmten Moment bindet? Leser haben diese Frage auf vier grundlegend verschiedene Arten beantwortet, gewöhnlich als präteristisch, historistisch, futuristisch und idealistisch bezeichnet — und, wie der letzte Abschnitt hier erklärt, kombinieren nicht wenige Leser, auch diese Seite eingeschlossen, am Ende Elemente aus mehr als einer davon.

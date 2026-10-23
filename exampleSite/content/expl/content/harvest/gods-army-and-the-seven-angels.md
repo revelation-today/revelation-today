@@ -20,6 +20,7 @@ sources:
 readBefore:
     - name: "The second Exodus"
       link:  /expl/background/israel/the-second-exodus
+depth: 1
 ---
 
 Chapter 14 of the book of Revelation is one of the most puzzling chapters in the Bible — at first glance it can feel disconnected from everything around it. Read against what comes before and after, though, it turns out to be a hinge: a chapter that answers the previous one and sets up the one to come. It deserves a closer look.

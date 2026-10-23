@@ -14,6 +14,7 @@ sources:
 deeper:
     - name: Hari Tuhan
       link:  /expl/background/israel/the-day-of-the-lord
+depth: 1
 ---
 
 Apa itu murka Anak Domba? Apakah itu mendukung tindakan perang atas nama iman?

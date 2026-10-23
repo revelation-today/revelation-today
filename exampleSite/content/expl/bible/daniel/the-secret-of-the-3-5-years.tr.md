@@ -12,6 +12,7 @@ sources:
       ref: beale_rev
     - pages: 275
       ref: bauckham_climax
+depth: 2
 ---
 
 Vahiy kitabı, 1260 gün, 42 ay gibi tuhaf zaman dilimleriyle doludur. Bunlar ne anlama gelir ve gerçek anlamda mı alınmaları gerekir?

@@ -27,6 +27,7 @@ prev: /expl/tour
 next: /expl/topics/others/who-wrote-revelation-and-when
 docType: expl
 appl: /appl/background/history
+depth: 2
 ---
 
 The book of Revelation, and the Pax Romana of ancient Rome, may seem to have nothing to do with life today. They have a great deal to do with it.

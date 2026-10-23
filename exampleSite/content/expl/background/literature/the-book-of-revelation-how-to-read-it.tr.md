@@ -19,6 +19,7 @@ prev: /expl/topics/others/who-wrote-revelation-and-when
 next: /expl/background/literature/literally-or-symbolic
 docType: expl
 appl: /appl/background/literature
+depth: 2
 ---
 
 Vahiy Kitabı, insanlara türlü türlü şey yapmaları için ilham vermiştir; bunların çoğunun kitabın kendisiyle hiçbir ilgisi yoktur. Peki bu tuhaf kitabı gerçekten okumak ve anlamak nasıl mümkün olabilir?

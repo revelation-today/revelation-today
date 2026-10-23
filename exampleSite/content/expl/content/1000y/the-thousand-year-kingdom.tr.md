@@ -25,6 +25,7 @@ readBefore:
       link:  /expl/background/literature/preterist-historicist-futurist-or-idealist
     - name: "Vahiy Kitabı’nın yapısı"
       link:  /expl/background/structure/the-structure-of-the-book-of-revelation
+depth: 3
 ---
 
 Vahiy 20'deki bin yıllık krallık, kitaptaki neredeyse başka her hangi bir bölümden daha fazla rakip teori doğurmuştur. Bir teoriden yola çıkmak yerine, metnin kendisinden ve bağlamından başlayalım ve yeni ve taze bir bakışın ne ortaya çıkardığını görelim. Aşağıdakiler, bu bölüm üzerine uzun süredir savunulan birkaç Hristiyan görüşten birini savunuyor — {{% int_link val="sonraki makale" link="/expl/content/1000y/pre-post-and-amillennialism" %}} tartışmanın tamamını ortaya koyuyor ve alternatiflere adil bir dinleme hakkı tanıyor.

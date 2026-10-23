@@ -8,6 +8,7 @@ appl: /appl/background/literature
 sources:
     - pages: 44–49
       ref: beale_rev
+depth: 3
 ---
 
 {{% int_link val="Önceki makale" link="/expl/background/literature/literally-or-symbolic" %}}, Vahiy'deki imgelerin gerçek mi yoksa sembolik mi olduğunu sordu. Bu makale ise onunla sürekli iç içe geçen farklı bir soru soruyor: *ne zamanın* sembolü? Mühürler, borazanlar, canavarlar ve tasların betimlediği olaylar, Yuhanna'nın kendi yaşadığı dönemde çoktan başlamış olaylar mı, o zamandan bu yana geçen yüzyıllar boyunca yayılan olaylar mı, hâlâ geleceğimizde bekleyen olaylar mı, yoksa tek bir ana bağlı olmayan zamansız bir örüntü mü? Okuyucular bu soruyu genel olarak dört farklı şekilde yanıtlamış, genellikle preterist, historisist, fütürist ve idealist olarak adlandırılan yaklaşımlarla — ve buradaki son bölümün açıkladığı gibi, bu site de dahil olmak üzere pek çok okuyucu, sonunda birden fazla yaklaşımdan unsurları birleştiriyor.

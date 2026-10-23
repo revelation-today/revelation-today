@@ -21,6 +21,7 @@ readBefore:
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
     - name: "Vahiy kitabı: Nasıl okunmalı?"
       link:  /expl/background/literature/the-book-of-revelation-how-to-read-it
+depth: 1
 ---
 
 Vahiy kitabı, kolayca gözden kaçırabileceğimiz ama sonrasında gelen her şeyi anlamak için kilit önem taşıyan birkaç ifadeyle başlar. Onlara yeni bir gözle bakalım.

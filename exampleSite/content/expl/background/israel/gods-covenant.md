@@ -19,6 +19,7 @@ prev: /expl/background/israel/the-role-of-family-in-the-bible
 next: /expl/background/israel/the-day-of-the-lord
 docType: expl
 appl: /appl/background/israel
+depth: 2
 ---
 
 {{< callout type="info" >}}

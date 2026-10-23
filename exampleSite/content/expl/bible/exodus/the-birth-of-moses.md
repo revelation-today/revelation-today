@@ -10,6 +10,7 @@ sources:
       ref: sarna_exo
     - pages: "vol. 10: 438–439"
       ref: tdot
+depth: 2
 ---
 
 The story of Moses runs against the script of every hero story known in the ancient world — and yet it is a success story.

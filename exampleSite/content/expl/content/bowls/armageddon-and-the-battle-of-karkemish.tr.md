@@ -8,6 +8,7 @@ prev: /expl/content/bowls/the-key-to-armageddon
 next: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 docType: expl
 appl: /appl/content/bowls
+depth: 2
 ---
 
 M.Ö. birinci binyılın Orta Doğu'sundaki en önemli savaşlardan birinin, dünyanın sonuyla bağlantılı ahir zaman savaşıyla ne ilgisi olabilir? Ortaya çıkan şu ki, sadece "savaş" kelimesinden çok daha fazlası.

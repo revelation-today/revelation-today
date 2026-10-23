@@ -10,6 +10,7 @@ sources:
       ref: beale_rev
     - pages: 20, 103
       ref: brueggemann_gen
+depth: 2
 ---
 
 Die Geschichte vom Turmbau zu Babel, die Geschichte des Propheten Daniel und das Buch der Offenbarung erweisen sich als miteinander verknüpft. Hier siehst du, wie.

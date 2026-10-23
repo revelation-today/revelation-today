@@ -26,6 +26,7 @@ sources:
       ref: bauckham_climax
     - pages: 84–87
       ref: bauckham_rev
+depth: 1
 ---
 
 Vahiy Kitabı'nda dört atlı görürüz — tüm dünyaya savaş, kıtlık ve ölüm getiren kıyamet binicileri. Ama ilki şemaya tam oturmaz ve pek çok baş ağrısına neden olur: bu gerçekten tartışmalı bir konudur.

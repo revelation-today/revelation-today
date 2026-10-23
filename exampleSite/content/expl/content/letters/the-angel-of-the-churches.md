@@ -16,6 +16,7 @@ prev: /expl/content/vision/the-vision
 next: /expl/content/letters/the-letters-to-the-seven-churches
 docType: expl
 appl: /appl/content/letters
+depth: 3
 ---
 
 Revelation keeps repeating the same puzzling instruction: "Write to the angel of the church." Do churches have guardian angels? Or is "angel" just another word for the church's leader? Readers have understood these angels in several ways. Here is the reading this site takes, and why.

@@ -8,6 +8,7 @@ docType: expl
 sources:
     - pages: 619
       ref: beale_rev
+depth: 2
 ---
 
 Mungkin Anda belum pernah mendengar kisah Uza, dan bagaimana Allah menghukumnya mati karena berusaha menyelamatkan tabut perjanjian. Ini adalah kisah yang aneh, dan bisa tampak sama sekali tidak relevan bagi kita hari ini. Padahal relevan — dan alasannya mungkin akan mengejutkan Anda. Mari kita telusuri langkah demi langkah.

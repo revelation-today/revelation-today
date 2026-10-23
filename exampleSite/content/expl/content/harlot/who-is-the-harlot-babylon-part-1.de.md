@@ -31,6 +31,7 @@ sources:
 readBefore:
     - name: "Pax Romana — Ein Schlüssel zum Verständnis der Offenbarung"
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
+depth: 1
 ---
 
 Manche sagen, es sei der Papst; andere sagen, es sei die Wirtschaft. Es könnte jeder sein — sogar die Gemeinde. Wer also ist die Hure Babel?

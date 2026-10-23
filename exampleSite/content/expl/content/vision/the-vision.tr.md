@@ -15,6 +15,7 @@ prev: /expl/content/vision/setting-the-foundation
 next: /expl/content/letters/the-angel-of-the-churches
 docType: expl
 appl: /appl/content/vision
+depth: 1
 ---
 
 Vahiy kitabı büyük bir patlamayla başlar: Yuhanna, kandilliklerin arasında elinde yıldızlarla yürüyen olağanüstü bir figürü görümde görür. Bu görümün bir şekilde kitabın tamamının çerçevesini çizdiği açıktır — ama asıl mesaj tam olarak nedir?

@@ -27,6 +27,7 @@ readBefore:
       link:  /expl/background/literature/literally-or-symbolic
     - name: "Kilise İsrail’in bir parçasıdır"
       link:  /expl/background/israel/the-church-is-part-of-israel
+depth: 1
 ---
 
 Öykü nerede biter? Uzak bir cennette değil. Vahiy, gökten yenilenmiş bir yeryüzüne inen bir şehirle biter ve Tanrı orada halkıyla birlikte yaşar.

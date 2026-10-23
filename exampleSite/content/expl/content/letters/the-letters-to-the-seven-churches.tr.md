@@ -18,6 +18,7 @@ sources:
       ref: beale_rev
     - pages: 12
       ref: bauckham_rev
+depth: 1
 ---
 
 Vahiy kitabı, yedi belirli kiliseye gönderilen yedi mektup içerir. Bu mektupların amacı nedir, nasıl düzenlenmiştir ve genel mesaj nedir?

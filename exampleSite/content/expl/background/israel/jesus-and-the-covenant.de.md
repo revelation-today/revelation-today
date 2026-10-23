@@ -8,6 +8,7 @@ appl: /appl/background/israel
 sources:
     - pages: 37–39
       ref: beale_rev
+depth: 2
 ---
 
 {{< callout type="info" >}}

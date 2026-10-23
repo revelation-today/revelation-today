@@ -27,6 +27,7 @@ prev: /expl/tour
 next: /expl/topics/others/who-wrote-revelation-and-when
 docType: expl
 appl: /appl/background/history
+depth: 2
 ---
 
 Vahiy Kitabı'nın ve antik Roma'nın Pax Romana'sının bugünkü yaşamla hiçbir ilgisi yokmuş gibi görünebilir. Oysa ilgisi çok büyüktür.

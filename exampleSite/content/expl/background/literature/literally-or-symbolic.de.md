@@ -10,6 +10,7 @@ prev: /expl/background/literature/the-book-of-revelation-how-to-read-it
 next: /expl/background/literature/preterist-historicist-futurist-or-idealist
 docType: expl
 appl: /appl/background/literature
+depth: 3
 ---
 
 Die Offenbarung ist voller Bilder, die einer ganz anderen Welt zu entstammen scheinen. Müssen wir uns anstrengen, sie uns wörtlich vorzustellen, oder sind sie einfach nur Symbole? Die Antwort lautet: beides.

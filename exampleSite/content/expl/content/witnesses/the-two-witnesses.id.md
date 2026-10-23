@@ -31,6 +31,7 @@ readBefore:
       link:  /expl/background/israel/gods-covenant
     - name: "Sisa Israel"
       link:  /expl/background/israel/the-remnant-of-israel
+depth: 1
 ---
 
 {{% bible val="Wahyu pasal 11" link="rev:11" lang="ind" %}} memperkenalkan dua saksi yang kisahnya termasuk salah satu yang paling diperdebatkan dalam kitab ini. Identitas mereka jauh dari pasti, tetapi perdebatan itu sendiri menyingkapkan sebuah pelajaran yang jelas dan menggugah bagi siapa pun yang berusaha mengikuti Yesus dengan setia.

@@ -10,6 +10,7 @@ sources:
       ref: sarna_exo
     - pages: "vol. 10: 438–439"
       ref: tdot
+depth: 2
 ---
 
 Musa’nın öyküsü, antik dünyada bilinen her kahramanlık hikayesinin senaryosuna aykırı işler — ve yine de bir başarı öyküsüdür.

@@ -14,6 +14,7 @@ prev: /expl/background/literature/preterist-historicist-futurist-or-idealist
 next: /expl/background/literature/literary-tools-in-the-book-of-revelation
 docType: expl
 appl: /appl/background/literature
+depth: 2
 ---
 
 Ein Schlüssel zum Verständnis der Offenbarung besteht darin, sie mit der Bibel selbst auszulegen, denn das Buch ist durchtränkt von Bezügen auf die übrige Schrift. Aber stimmt das wirklich, und hätten die ursprünglichen Leser das überhaupt bemerkt?

@@ -11,6 +11,7 @@ appl: /appl/content/harlot
 sources: 
     - pages: 919–928
       ref: aune_rev
+depth: 2
 ---
 
 Vahiy'deki fahişe Babil'in hikâyesi kitaptaki en katmanlı hikâyelerden biridir ve büyük ölçüde Roma İmparatorluğu'na yönelik ince bir ironiye dayanır. Hazır mısın?

@@ -21,6 +21,7 @@ readBefore:
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
     - name: "Bagaimana Saya Membaca Kitab Wahyu?"
       link:  /expl/background/literature/the-book-of-revelation-how-to-read-it
+depth: 1
 ---
 
 Kitab Wahyu dibuka dengan beberapa pernyataan yang mudah kita lewatkan begitu saja, padahal justru pernyataan-pernyataan itulah kunci untuk memahami segala sesuatu yang menyusul. Mari kita perhatikan dengan mata yang baru.

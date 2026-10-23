@@ -8,6 +8,7 @@ docType: expl
 sources:
     - pages: 9–10, 15–19
       ref: sarna_exo
+depth: 2
 ---
 
 İsrail ilk Mısır’a geldiğinde iyi karşılanmıştı. Onlardan bir sonraki söz edildiğinde ise köledirler. Aradaki bu süre içinde ne oldu?

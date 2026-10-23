@@ -10,6 +10,7 @@ sources:
       ref: beale_rev
     - pages: 188, 194
       ref: aune_rev
+depth: 2
 ---
 
 You know the story of Balaam and the donkey — but do you know why and how Balaam deceived Israel into idolatry?

@@ -19,6 +19,7 @@ sources:
 readBefore:
     - name: "İkinci Çıkış"
       link:  /expl/background/israel/the-second-exodus
+depth: 1
 ---
 
 Vahiy Kitabı'ndaki gazap kaseleri, artık sabrı tükenmiş ve söz dinlemeyen bir dünyaya karşı son bir öfke patlaması yaşayan bir Tanrı izlenimi verebilir. Ama bu okuma tam tersinedir; gerçek, bunun neredeyse zıddına yakındır.

@@ -14,6 +14,7 @@ sources:
       ref: tdot
     - pages: 90, 221, 259, 270, 633
       ref: beale_rev
+depth: 2
 ---
 
 Jesus has one favourite title for himself: the "Son of Man." Why that title, and what does it mean?

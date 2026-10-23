@@ -9,6 +9,7 @@ appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapt
 sources: 
     - pages: 173-186
       ref: rossing
+depth: 3
 ---
 
 {{% int_link val="Daha önceki bir makale" link="/expl/topics/others/dispensionalism-and-its-critic" %}}, dispansiyonalizmin yorumbilgisiyle ve belirli metinleri ele alışıyla ilgili gerçek, somut sorunları ortaya koydu. Bunların hiçbiri, milyonlarca içten ve dikkatli Kutsal Kitap okurunun — aralarında pek çok zeki, geniş bilgili insan da dahil — bu sistemi yine de ikna edici bulmasını açıklamıyor. Bu soru, omuz silkmeyi değil, kendi başına dürüst bir yanıtı hak ediyor.

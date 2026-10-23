@@ -8,6 +8,7 @@ prev: /expl/content/bowls/the-key-to-armageddon
 next: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 docType: expl
 appl: /appl/content/bowls
+depth: 2
 ---
 
 Apa hubungan salah satu pertempuran terpenting di Timur Tengah pada milenium pertama sebelum Masehi dengan pertempuran akhir zaman yang terkait dengan kesudahan dunia? Ternyata lebih banyak daripada sekadar kesamaan kata "pertempuran".

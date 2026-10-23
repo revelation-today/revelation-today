@@ -19,6 +19,7 @@ sources:
     - ref: beale_dwell
     - pages: 50, 60
       ref: brueggemann_gen
+depth: 2
 ---
 
 To understand the end of the Bible, you have to understand its beginning. Did you know that the tree of life from the story of the Fall, and the sign given to Cain, both reappear in the book of Revelation?

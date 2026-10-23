@@ -8,6 +8,7 @@ prev: /expl/content/bowls/the-key-to-armageddon
 next: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 docType: expl
 appl: /appl/content/bowls
+depth: 2
 ---
 
 What does one of the most important battles in the first-millennium-B.C. Middle East have to do with the end-time battle tied to the end of the world? More than just the word "battle," as it turns out.

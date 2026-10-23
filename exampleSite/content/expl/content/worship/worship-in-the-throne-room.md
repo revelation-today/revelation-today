@@ -25,6 +25,7 @@ sources:
 readBefore:
     - name: "The Structure of the Book of Revelation"
       link:  /expl/background/structure/the-structure-of-the-book-of-revelation
+depth: 1
 ---
 
 Worship in the throne room is the answer to the issues laid out in the letters to the churches. Why — and how — does this scene become the introduction to all the plagues that follow?

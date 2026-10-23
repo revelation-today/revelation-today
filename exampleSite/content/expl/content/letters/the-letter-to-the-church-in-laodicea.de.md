@@ -18,6 +18,7 @@ sources:
       ref: aune_rev
     - pages: 306
       ref: beale_rev
+depth: 1
 ---
 
 Der {{% bible val="Brief an die Gemeinde von Laodizäa" link="rev:3,14-22" lang="de" %}} ist der am häufigsten gepredigte Brief der Offenbarung, sodass die meisten von uns das Problem der Lauheit schon kennen. Aber verstehen wir wirklich den Zusammenhang dahinter? Das ist hier wichtiger als sonst, denn Laodizäa ist die *einzige* Gemeinde, die überhaupt kein Lob erhält - nicht einmal ein kleines.

@@ -22,6 +22,7 @@ sources:
       ref: beale_rev
 aliases:
     - /tr/expl/content/beasts/the-beasts-and-the-666-in-historical-context
+depth: 2
 ---
 
 {{% bible val="Canavarın sihirli sayısı" link="rev:13,18" lang="tr" %}}, bana kalırsa yanlış bir şekilde, şu ya da bu numaralandırma şemasıyla güncel siyaseti çözmek için kullanılıp durdu. Gerçek yanıt metnin dışında aranarak bulunmaz — zaten Kutsal Kitap'ın kendisinde durur.

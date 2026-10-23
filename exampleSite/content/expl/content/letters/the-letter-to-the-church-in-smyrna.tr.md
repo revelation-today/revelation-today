@@ -18,6 +18,7 @@ sources:
       ref: aune_rev
     - pages: lviii
       ref: aune_rev
+depth: 1
 ---
 
 İzmir'de, kusursuzluğu beklediğiniz kadar davetkâr görünmese de, suçlanmamış bir kilise bulacaksınız.

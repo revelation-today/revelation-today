@@ -11,6 +11,7 @@ appl: /appl/content/harlot
 sources: 
     - pages: 919–928
       ref: aune_rev
+depth: 2
 ---
 
 Kisah sang pelacur Babel dalam kitab Wahyu adalah salah satu kisah paling berlapis dalam kitab ini, dan kisah ini sangat bergantung pada ironi halus yang ditujukan kepada Kekaisaran Romawi. Siapkah engkau?

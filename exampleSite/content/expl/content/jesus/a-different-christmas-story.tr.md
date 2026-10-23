@@ -31,6 +31,7 @@ sources:
 readBefore:
     - name: "İkinci Çıkış"
       link:  /expl/background/israel/the-second-exodus
+depth: 1
 ---
 
 Bir Hıristiyan olarak, muhtemelen {{% bible val="Luka" link="luk:2" lang="tr" %}} ve {{% bible val="Matta'dan" link="mat:2" lang="tr" %}} derlenen klasik Noel hikâyesine oldukça aşinasınızdır: çobanlar ve bir yemliğe yatırılan bebekle ilgili biraz romantik bir öykü ile gizemli bir yıldızı takip eden uzak diyarlardan gezginler (sayılarını üç olarak sabitleyen, getirdikleri üç hediyeye dayanan, metnin kendisi değil, daha sonraki gelenektir).

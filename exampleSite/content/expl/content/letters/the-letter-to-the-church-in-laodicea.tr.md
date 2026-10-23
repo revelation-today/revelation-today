@@ -18,6 +18,7 @@ sources:
       ref: aune_rev
     - pages: 306
       ref: beale_rev
+depth: 1
 ---
 
 {{% bible val="Laodikya kilisesine yazılan mektup" link="rev:3,14-22" lang="tr" %}}, Vahiy'de en sık vaaz edilen mektuptur, bu yüzden çoğumuz ılık olma sorununu zaten biliyoruz. Ama bu imgenin arkasındaki bağlamı gerçekten biliyor muyuz? Bu burada her zamankinden daha önemli, çünkü Laodikya, hiç övgü almayan — bir tanesi bile — *tek* kilisedir.

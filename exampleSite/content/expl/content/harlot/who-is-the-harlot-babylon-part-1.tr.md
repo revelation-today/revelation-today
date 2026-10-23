@@ -31,6 +31,7 @@ sources:
 readBefore:
     - name: "Pax Romana — vahiy kitabını anlamak için anahtar"
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
+depth: 1
 ---
 
 Kimileri Papa olduğunu söyler, kimileri ekonomi olduğunu. Herkes olabilir — hatta kilise bile. Peki fahişe Babil kimdir?

@@ -16,6 +16,7 @@ prev: /expl/background/israel/the-second-exodus
 next: /expl/background/israel/israel-and-the-church
 docType: expl
 appl: /appl/background/israel
+depth: 2
 ---
 
 {{< callout type="info" >}}

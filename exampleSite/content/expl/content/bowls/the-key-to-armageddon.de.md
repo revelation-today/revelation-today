@@ -24,6 +24,7 @@ sources:
       ref: aune_rev
     - pages: 382, 407
       ref: bauckham_climax
+depth: 2
 ---
 
 Armageddon: eine Katastrophe, die die Welt zerstören wird? Nein — denn was auch immer an realer Geografie hinter dem Namen steht, Johannes verwendet ihn als Symbol, nicht um ein wörtliches Schlachtfeld zu benennen.

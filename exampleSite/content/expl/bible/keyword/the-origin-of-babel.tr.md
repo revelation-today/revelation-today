@@ -10,6 +10,7 @@ sources:
       ref: beale_rev
     - pages: 20, 103
       ref: brueggemann_gen
+depth: 2
 ---
 
 Babil Kulesi’nin öyküsü, Peygamber Daniel’in öyküsü ve Vahiy kitabı, meğer birbirine bağlıymış. İşte nasıl.

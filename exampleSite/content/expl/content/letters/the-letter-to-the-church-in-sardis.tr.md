@@ -14,6 +14,7 @@ sources:
       ref: fee_rev
     - pages: 160, 218
       ref: aune_rev
+depth: 1
 ---
 
 Ölü bir kilise neye benzer, ve ona nasıl yeni bir yaşam aşılanır? {{% bible val="Sardes'e yazılan mektup" link="rev:3,1-6" lang="tr" %}} her iki soruyu da yanıtlıyor.

@@ -9,6 +9,7 @@ appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapt
 sources: 
     - pages: 173-186
       ref: rossing
+depth: 3
 ---
 
 {{% int_link val="An earlier article" link="/expl/topics/others/dispensionalism-and-its-critic" %}} laid out real, specific problems with dispensationalism's hermeneutics and its handling of particular texts. None of that explains why millions of sincere, careful readers of Scripture — including plenty of sharp, well-read people — find the system convincing anyway. That question deserves its own honest answer, not a shrug.

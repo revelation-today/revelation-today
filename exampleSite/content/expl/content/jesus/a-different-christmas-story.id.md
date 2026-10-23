@@ -31,6 +31,7 @@ sources:
 readBefore:
     - name: "Eksodus Kedua"
       link:  /expl/background/israel/the-second-exodus
+depth: 1
 ---
 
 Sebagai orang Kristen, engkau tentu sudah sangat mengenal kisah Natal klasik yang disusun dari {{% bible val="Injil Lukas" link="luk:2" lang="ind" %}} dan {{% bible val="Injil Matius" link="mat:2" lang="ind" %}}: kisah yang agak romantis tentang para gembala dan seorang bayi yang dibaringkan di palungan, serta para musafir dari jauh yang mengikuti sebuah bintang misterius (tradisi belakangan, bukan teks itu sendiri, yang menetapkan jumlah mereka tiga orang, berdasarkan tiga hadiah yang mereka bawa).

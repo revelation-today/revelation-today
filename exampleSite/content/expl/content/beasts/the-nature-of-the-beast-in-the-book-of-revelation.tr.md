@@ -41,6 +41,7 @@ readBefore:
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 aliases:
     - /tr/expl/content/beasts/the-nature-of-the-beast
+depth: 1
 ---
 
 Vahiy kitabını düşününce akla gelen ilk şeylerden biri, ejderha ve 666 sayısıyla insanların ellerine ve alınlarına işaret koyan iki canavardır. Bunun ne anlama gelebileceğine dair spekülasyon hiç eksik olmuyor; öyleyse metnin kendisine dikkatle bakalım.

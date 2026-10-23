@@ -22,6 +22,7 @@ sources:
       ref: beale_rev
     - pages: 346–347, 370
       ref: bauckham_climax
+depth: 1
 ---
 
 Understanding the Harlot Babel is a bit complex, as we saw in part 1, but the pieces start falling into place here in part 2.

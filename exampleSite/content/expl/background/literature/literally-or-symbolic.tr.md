@@ -10,6 +10,7 @@ prev: /expl/background/literature/the-book-of-revelation-how-to-read-it
 next: /expl/background/literature/preterist-historicist-futurist-or-idealist
 docType: expl
 appl: /appl/background/literature
+depth: 3
 ---
 
 Vahiy Kitabı, tamamen başka bir dünyaya ait gibi görünen imgelerle doludur. Bunları harfiyen hayal etmek için hayal gücümüzü mü zorlamalıyız, yoksa bunlar sadece semboller mi? Cevap: her ikisi de.

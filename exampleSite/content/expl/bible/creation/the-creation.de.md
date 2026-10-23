@@ -19,6 +19,7 @@ sources:
     - ref: beale_dwell
     - pages: 50, 60
       ref: brueggemann_gen
+depth: 2
 ---
 
 Um das Ende der Bibel zu verstehen, muss man ihren Anfang verstehen. Wusstest du, dass der Baum des Lebens aus der Geschichte vom Sündenfall und das Zeichen, das Kain erhielt, beide in der Offenbarung wieder auftauchen?

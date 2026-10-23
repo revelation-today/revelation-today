@@ -9,6 +9,7 @@ appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapt
 sources:
     - pages: 8, 58–63
       ref: bauckham_rev
+depth: 1
 ---
 
 Vahiy Kitabı yargı tasvirleriyle doludur ve ilk bakışta tek amacının inanmayanları tövbeye korkutmak olduğu izlenimi verebilir. Ama bu izlenim, hemen her açıdan yanlış çıkıyor.

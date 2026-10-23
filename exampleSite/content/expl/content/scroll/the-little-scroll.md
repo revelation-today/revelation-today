@@ -20,6 +20,7 @@ sources:
       ref: bauckham_climax
     - pages: 84
       ref: bauckham_rev
+depth: 1
 ---
 
 Chapter 10 centers on a small scroll that John is told to eat, and on the mystery of the seven thunders — sealed up the moment they speak. What do these two strange details mean?

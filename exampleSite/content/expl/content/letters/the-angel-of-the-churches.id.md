@@ -16,6 +16,7 @@ prev: /expl/content/vision/the-vision
 next: /expl/content/letters/the-letters-to-the-seven-churches
 docType: expl
 appl: /appl/content/letters
+depth: 3
 ---
 
 Kitab Wahyu terus mengulang instruksi yang membingungkan ini: "Tuliskanlah kepada malaikat jemaat." Apakah setiap jemaat memiliki malaikat pelindung? Atau apakah "malaikat" hanyalah sebutan lain untuk pemimpin jemaat itu? Para pembaca memahami malaikat-malaikat ini dengan berbagai cara. Inilah pembacaan yang diambil situs ini, beserta alasannya.

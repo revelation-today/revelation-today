@@ -25,6 +25,7 @@ prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
 next: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 docType: expl
 appl: /appl/background/structure
+depth: 2
 ---
 
 Kitab Wahyu tampak tidak teratur pada pandangan pertama — satu bencana disusul bencana lainnya, dan kemudian siklus itu dimulai lagi dari awal. Tetapi perhatikan lebih dekat, dan sebuah struktur artistik serta keterampilan yang disengaja pun tersingkap.

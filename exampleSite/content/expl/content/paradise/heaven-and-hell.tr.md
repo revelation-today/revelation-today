@@ -11,6 +11,7 @@ appl: /appl/content/paradise
 sources:
     - pages: 1081
       ref: beale_rev
+depth: 1
 ---
 
 Cennet ve cehennem nedir? Bütün insanlar cennete mi gider? İyi bir Tanrı insanları nasıl cehenneme gönderebilir?

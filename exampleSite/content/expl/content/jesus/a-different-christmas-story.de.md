@@ -31,6 +31,7 @@ sources:
 readBefore:
     - name: "Der zweite Auszug"
       link:  /expl/background/israel/the-second-exodus
+depth: 1
 ---
 
 Als Christ kennst du wahrscheinlich die klassische Weihnachtsgeschichte aus {{% bible val="Lukas" link="luk:2" lang="de" %}} und {{% bible val="Matthäus" link="mat:2" lang="de" %}} sehr gut: eine etwas romantische Erzählung von Hirten und einem Kind, das in eine Krippe gelegt wird, und weit gereisten Besuchern, die einem geheimnisvollen Stern folgten (erst spätere Tradition, nicht der Text selbst, legte ihre Zahl auf drei fest, ausgehend von den drei Gaben, die sie mitbrachten).

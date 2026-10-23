@@ -14,6 +14,7 @@ sources:
 deeper:
     - name: Rab’bin günü
       link:  /expl/background/israel/the-day-of-the-lord
+depth: 1
 ---
 
 Kuzu'nun gazabı nedir? Bu, iman adına yapılan savaş eylemlerine destek mi veriyor?

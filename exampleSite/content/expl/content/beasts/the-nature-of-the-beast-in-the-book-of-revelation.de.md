@@ -41,6 +41,7 @@ readBefore:
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 aliases:
     - /de/expl/content/beasts/the-nature-of-the-beast
+depth: 1
 ---
 
 Eines der ersten Dinge, die einem beim Buch der Offenbarung in den Sinn kommen, sind der Drache und die beiden Tiere mit der Zahl 666, die Menschen an Hand und Stirn zeichnen. Es gibt reichlich Spekulation darüber, was das bedeuten könnte — schauen wir uns also den Text selbst genau an.

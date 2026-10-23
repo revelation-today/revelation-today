@@ -10,6 +10,7 @@ sources:
       ref: beale_rev
     - pages: 188, 194
       ref: aune_rev
+depth: 2
 ---
 
 Balam ile eşeğinin öyküsünü bilirsiniz — ama Balam’ın İsrail’i putperestliğe nasıl ve neden sürüklediğini biliyor musunuz?

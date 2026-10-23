@@ -13,6 +13,7 @@ sources:
       ref: beale_rev
     - pages: 338–384
       ref: bauckham_climax
+depth: 1
 ---
 
 Die letzten beiden Artikel haben so weit verfolgt, wer sie ist, wie der Text es zulässt — und das ist mit Absicht nicht ganz. Die Fragen, die sich beantworten lassen, sind diese, und die Bibel beantwortet sie: Was ist ihr Verhalten, ihre „Taktik“? Wie sollen wir reagieren? Und was bringt sie letztlich zu Fall?

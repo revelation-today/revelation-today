@@ -25,6 +25,7 @@ sources:
       ref: bauckham_climax
     - pages: "vol. 5: 360"
       ref: tdot
+depth: 2
 ---
 
 Diese Geschichte hast du wahrscheinlich schon im Kindergottesdienst gehört, aber es gibt darin viel mehr zu entdecken, als du bisher vielleicht wahrgenommen hast.

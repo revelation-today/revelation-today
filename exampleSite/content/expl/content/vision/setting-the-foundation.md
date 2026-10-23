@@ -21,6 +21,7 @@ readBefore:
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
     - name: "How to read the book of Revelation"
       link:  /expl/background/literature/the-book-of-revelation-how-to-read-it
+depth: 1
 ---
 
 The book of Revelation begins with a few statements that are easy to skim past, yet they are key to understanding everything that follows. Let's look at them with fresh eyes.

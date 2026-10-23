@@ -24,6 +24,7 @@ sources:
       ref: bauckham_rev
     - pages: 482, 514
       ref: beale_rev
+depth: 1
 ---
 
 Revelation 8–9 read like modern disaster headlines, but John isn't describing anything new — he's replaying {{% int_link val="the plagues in Egypt" link="/expl/bible/exodus/the-plagues-in-egypt" %}} for a new empire and a new Pharaoh.

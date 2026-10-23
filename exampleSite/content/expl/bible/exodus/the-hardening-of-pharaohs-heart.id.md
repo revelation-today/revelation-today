@@ -10,6 +10,7 @@ sources:
       ref: tdot
     - pages: 466, 519
       ref: beale_rev
+depth: 2
 ---
 
 Adilkah jika Allah mengeraskan hati Firaun, sehingga Firaun tidak punya pilihan selain bertindak kejam — dan kemudian tetap dihukum karenanya?

@@ -13,6 +13,7 @@ sources:
       ref: beale_rev
     - pages: 338–384
       ref: bauckham_climax
+depth: 1
 ---
 
 The last two articles traced who she is as far as the text allows, which is deliberately not all the way. The questions that can be answered are these, and the Bible does answer them: what is her behaviour, her "tactic"? How should we respond? And what finally brings her down?

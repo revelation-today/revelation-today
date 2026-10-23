@@ -27,6 +27,7 @@ prev: /expl/tour
 next: /expl/topics/others/who-wrote-revelation-and-when
 docType: expl
 appl: /appl/background/history
+depth: 2
 ---
 
 Kitab Wahyu dan Pax Romana Roma kuno mungkin tampak tidak ada hubungannya dengan hidup masa kini. Padahal hubungannya sangat erat.

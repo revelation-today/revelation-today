@@ -14,6 +14,7 @@ sources:
       ref: tdot
     - pages: 90, 221, 259, 270, 633
       ref: beale_rev
+depth: 2
 ---
 
 Yesus punya satu gelar kesayangan bagi diri-Nya sendiri: "Anak Manusia." Mengapa gelar itu, dan apa maknanya?

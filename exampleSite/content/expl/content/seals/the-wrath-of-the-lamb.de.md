@@ -14,6 +14,7 @@ sources:
 deeper:
     - name: Der Tag des Herrn
       link:  /expl/background/israel/the-day-of-the-lord
+depth: 1
 ---
 
 Was ist der Zorn des Lammes? Rechtfertigt er kriegerisches Handeln im Namen des Glaubens?

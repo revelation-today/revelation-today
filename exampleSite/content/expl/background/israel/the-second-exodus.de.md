@@ -14,6 +14,7 @@ prev: /expl/background/israel/jesus-and-the-covenant
 next: /expl/background/israel/the-church-is-part-of-israel
 docType: expl
 appl: /appl/background/israel
+depth: 2
 ---
 
 {{< callout type="info" >}}

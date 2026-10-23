@@ -11,6 +11,7 @@ sources:
       ref: rossing
     - pages: 69–73
       ref: goreman
+depth: 3
 ---
 
 Dispensasionalisme terus-menerus diperbincangkan, dan bisa jadi sungguh membingungkan untuk dipahami dengan tepat, sebab ajaran ini hadir dalam begitu banyak ragam. Berikut ini beberapa kritik yang tajam dan spesifik — termasuk beberapa yang ditujukan pada "Left Behind," versi yang paling dikenal oleh kebanyakan pembaca.

@@ -8,6 +8,7 @@ prev: /expl/content/bowls/the-key-to-armageddon
 next: /expl/content/harlot/who-is-the-harlot-babylon-part-1
 docType: expl
 appl: /appl/content/bowls
+depth: 2
 ---
 
 Was hat eine der bedeutendsten Schlachten des Vorderen Orients im ersten Jahrtausend v. Chr. mit der Endzeitschlacht zu tun, die mit dem Ende der Welt verbunden ist? Wie sich zeigt, mehr als nur das Wort „Schlacht“.

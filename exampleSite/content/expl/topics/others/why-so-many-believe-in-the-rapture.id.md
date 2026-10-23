@@ -9,6 +9,7 @@ appl: /appl/topics/others/reading-of-revelation-the-big-tribulation-and-the-rapt
 sources: 
     - pages: 173-186
       ref: rossing
+depth: 3
 ---
 
 {{% int_link val="Salah satu artikel sebelumnya" link="/expl/topics/others/dispensionalism-and-its-critic" %}} telah memaparkan persoalan-persoalan yang nyata dan spesifik dengan hermeneutika dispensasionalisme dan cara sistem itu menangani teks-teks tertentu. Semua itu tidak menjelaskan mengapa jutaan pembaca Alkitab yang tulus dan cermat — termasuk banyak orang yang cerdas dan berwawasan luas — tetap menganggap sistem itu meyakinkan. Pertanyaan itu layak mendapat jawaban yang jujur dan tersendiri, bukan sekadar diabaikan begitu saja.

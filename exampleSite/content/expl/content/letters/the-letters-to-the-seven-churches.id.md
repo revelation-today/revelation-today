@@ -18,6 +18,7 @@ sources:
       ref: beale_rev
     - pages: 12
       ref: bauckham_rev
+depth: 1
 ---
 
 Kitab Wahyu memuat tujuh surat kepada tujuh jemaat tertentu. Apa tujuan surat-surat ini, bagaimana susunannya, dan apa pesan keseluruhannya?

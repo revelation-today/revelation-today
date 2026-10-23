@@ -13,6 +13,7 @@ sources:
       ref: aune_rev
     - pages: 47, 290–292
       ref: beale_rev
+depth: 3
 ---
 
 Die Entrückung ist ein faszinierendes Thema. Sie hat die Phantasie vieler Menschen beflügelt und noch mehr Menschen erschreckt. Aber was ist die Entrückung eigentlich? Ist sie biblisch? Und was würde sie für Gläubige bedeuten, wenn sie zuträfe?

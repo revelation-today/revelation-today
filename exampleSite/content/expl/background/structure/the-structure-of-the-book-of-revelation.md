@@ -25,6 +25,7 @@ prev: /expl/background/literature/literary-tools-in-the-book-of-revelation
 next: /expl/background/structure/the-use-of-numbers-in-the-book-of-revelation
 docType: expl
 appl: /appl/background/structure
+depth: 2
 ---
 
 The book of Revelation seems disorganized at first glance — one catastrophe after another, and then the cycle starts all over again. But look closer, and an artistic structure and deliberate craftsmanship emerge.

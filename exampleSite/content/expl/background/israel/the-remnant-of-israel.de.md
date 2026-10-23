@@ -16,6 +16,7 @@ prev: /expl/background/israel/the-day-of-the-lord
 next: /expl/background/israel/jesus-and-the-covenant
 docType: expl
 appl: /appl/background/israel
+depth: 2
 ---
 
 {{< callout type="info" >}}

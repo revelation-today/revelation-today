@@ -12,6 +12,7 @@ deeper:
 sources: 
     - pages: 11–67
       ref: koester_rev
+depth: 3
 ---
 
 Bu tuhaf kelimeyi daha önce hiç duydunuz mu? Muhtemelen hayır — ama üçüncü tapınaktan, göğe alınmadan (rapture) ya da 3,5 yıllık sıkıntıdan büyük olasılıkla haberdarsınızdır. Eğer öyleyse, kimse ona bu adı vermemiş olsa bile, [dispansiyonalizm](https://en.wikipedia.org/wiki/Dispensationalism) ile zaten temas etmişsinizdir. Şimdi adım adım ilerleyelim.

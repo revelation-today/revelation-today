@@ -20,6 +20,7 @@ sources:
 deeper:
     - name: Eksodus Kedua
       link:  /expl/background/israel/the-second-exodus
+depth: 1
 ---
 
 Dalam beberapa bahasa, "kitab dengan tujuh meterai" adalah ungkapan untuk sebuah misteri besar. Ungkapan itu berasal dari pasal ini, meskipun maknanya tidak sepenuhnya sama dengan yang orang bayangkan.

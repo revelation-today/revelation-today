@@ -10,6 +10,7 @@ prev: /expl/background/literature/the-book-of-revelation-how-to-read-it
 next: /expl/background/literature/preterist-historicist-futurist-or-idealist
 docType: expl
 appl: /appl/background/literature
+depth: 3
 ---
 
 Kitab Wahyu penuh dengan gambaran-gambaran yang tampak sepenuhnya berasal dari dunia lain. Perlukah kita meregangkan imajinasi kita untuk membayangkannya secara harfiah, atau apakah gambaran-gambaran itu sekadar simbol? Jawabannya: keduanya.

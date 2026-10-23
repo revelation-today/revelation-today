@@ -19,6 +19,7 @@ deeper:
       link:  /expl/background/literature/literally-or-symbolic
     - name: Jesus and the covenant
       link:  /expl/background/israel/jesus-and-the-covenant
+depth: 3
 ---
 
 Once you've wrestled with the details of Revelation 20 itself, a bigger question is usually waiting right behind it: which overall system does this chapter fit into? Historically, Christians have answered that question in three main ways, named for where they place Christ's second coming relative to the 1,000 years: premillennialism (before), postmillennialism (after), and amillennialism (the number describes something other than a future golden age).

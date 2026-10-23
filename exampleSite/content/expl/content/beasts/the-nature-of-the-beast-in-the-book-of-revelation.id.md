@@ -41,6 +41,7 @@ readBefore:
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 aliases:
     - /id/expl/content/beasts/the-nature-of-the-beast
+depth: 1
 ---
 
 Salah satu hal pertama yang terlintas di benak orang ketika memikirkan Kitab Wahyu adalah sang naga dan kedua binatang dengan angka 666, yang menandai tangan dan dahi manusia. Tidak sedikit spekulasi seputar makna hal ini, jadi marilah kita mencermati teksnya sendiri dengan saksama.

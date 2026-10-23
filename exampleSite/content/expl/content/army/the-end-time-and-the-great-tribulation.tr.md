@@ -19,6 +19,7 @@ deeper:
 sources:
     - pages: 433–445
       ref: beale_rev
+depth: 1
 ---
 
 Son zaman ne zaman başlayacak, ve büyük sıkıntı nedir? Bunlar duygu yüklü sorulardır — ve altlarında yatan asıl soru şudur: ortadaki bilgilerin ne kadarı güvenilir, ve bunu nasıl değerlendirebiliriz? Yanıtı Kutsal Kitap'ın kendisi verir.

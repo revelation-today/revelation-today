@@ -9,6 +9,7 @@ sources:
     - ref: beale_dwell
     - pages: 236, 1075–1076, 1081
       ref: beale_rev
+depth: 2
 ---
 
 When we think about the temple in the Bible, we usually start with Solomon — or with Moses, if we go back to the tabernacle — and end with its destruction by the Romans in AD 70, or perhaps the deportation to Babel in 587 BC.

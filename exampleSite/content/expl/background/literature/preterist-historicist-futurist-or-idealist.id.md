@@ -8,6 +8,7 @@ appl: /appl/background/literature
 sources:
     - pages: 44–49
       ref: beale_rev
+depth: 3
 ---
 
 Artikel {{% int_link val="sebelumnya" link="/expl/background/literature/literally-or-symbolic" %}} menanyakan apakah gambaran-gambaran dalam Kitab Wahyu bersifat harfiah atau simbolis. Artikel ini menanyakan pertanyaan yang berbeda namun terus-menerus terkait dengannya: simbolis untuk *kapan*? Apakah meterai, sangkakala, binatang-binatang, dan cawan-cawan menggambarkan peristiwa-peristiwa yang sudah dimulai pada masa hidup Yohanes sendiri, peristiwa-peristiwa yang terbentang sepanjang abad-abad sejak saat itu, peristiwa-peristiwa yang masih menanti di masa depan kita, atau sebuah pola abadi yang tidak terikat pada satu momen tertentu? Para pembaca telah menjawab pertanyaan ini dengan empat cara yang berbeda secara luas, biasanya disebut preteris, historisis, futuris, dan idealis — dan, seperti dijelaskan pada bagian terakhir di sini, cukup banyak pembaca, termasuk laman ini, akhirnya menggabungkan unsur-unsur dari lebih dari satu pandangan.

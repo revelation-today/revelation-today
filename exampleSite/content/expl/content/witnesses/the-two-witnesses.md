@@ -31,6 +31,7 @@ readBefore:
       link:  /expl/background/israel/gods-covenant
     - name: "The remnant of Israel"
       link:  /expl/background/israel/the-remnant-of-israel
+depth: 1
 ---
 
 {{% bible val="Revelation chapter 11" link="rev:11" lang="en" %}} introduces two witnesses whose story is one of the most debated in the book. Their identity is far from settled, but the debate itself uncovers a clear and searching lesson for anyone trying to follow Jesus faithfully.

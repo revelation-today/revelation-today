@@ -10,6 +10,7 @@ sources:
       ref: tdot
     - pages: 466, 519
       ref: beale_rev
+depth: 2
 ---
 
 Tanrı’nın Firavun’un yüreğini katılaştırması, onu zalimce davranmaktan başka seçeneği kalmayacak şekilde zorlaması ve sonra yine de onu bunun için cezalandırması adil mi?

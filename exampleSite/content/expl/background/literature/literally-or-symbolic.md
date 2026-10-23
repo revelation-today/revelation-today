@@ -10,6 +10,7 @@ prev: /expl/background/literature/the-book-of-revelation-how-to-read-it
 next: /expl/background/literature/preterist-historicist-futurist-or-idealist
 docType: expl
 appl: /appl/background/literature
+depth: 3
 ---
 
 The book of Revelation is full of images that seem to belong to another world entirely. Do we need to stretch our imaginations to picture them literally, or are they simply symbols? The answer is both.

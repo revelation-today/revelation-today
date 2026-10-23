@@ -18,6 +18,7 @@ sources:
       ref: aune_rev
     - pages: lviii
       ref: aune_rev
+depth: 1
 ---
 
 In Smyrna findest du eine tadellose Gemeinde, auch wenn diese Tadellosigkeit vielleicht nicht so einladend wirkt, wie du erwarten würdest.

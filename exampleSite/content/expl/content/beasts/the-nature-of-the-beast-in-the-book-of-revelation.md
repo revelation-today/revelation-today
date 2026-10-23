@@ -41,6 +41,7 @@ readBefore:
       link:  /expl/background/history/pax-romana-key-to-understand-the-book-of-revelation
 aliases:
     - /expl/content/beasts/the-nature-of-the-beast
+depth: 1
 ---
 
 One of the first things that comes to mind when you think about the book of Revelation is the dragon and the two beasts with the number 666, marking people's hands and foreheads. There is no shortage of speculation about what this might mean, so let's take a careful look at the text itself.

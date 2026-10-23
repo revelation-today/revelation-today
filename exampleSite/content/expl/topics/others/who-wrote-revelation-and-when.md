@@ -13,6 +13,7 @@ sources:
       ref: aune_rev
     - pages: lxvii–lxix
       ref: aune_rev
+depth: 3
 ---
 
 Every article on this site assumes an author and a date for the book of Revelation, even when it doesn't say so out loud. Both are disputed among serious, faithful scholars — so it's worth stating plainly what this site assumes, why, and what would actually change if you assumed something else instead.

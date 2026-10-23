@@ -15,6 +15,7 @@ prev: /expl/content/vision/setting-the-foundation
 next: /expl/content/letters/the-angel-of-the-churches
 docType: expl
 appl: /appl/content/vision
+depth: 1
 ---
 
 Kitab Wahyu dibuka dengan kejutan besar: Yohanes mendapat penglihatan tentang sosok yang luar biasa, berjalan di antara kaki-kaki dian sambil memegang bintang-bintang di tangan-Nya. Jelas bahwa penglihatan ini entah bagaimana menentukan cakupan seluruh kitab ini - tetapi apa sebenarnya pesannya?

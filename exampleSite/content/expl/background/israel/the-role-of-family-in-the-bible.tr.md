@@ -10,6 +10,7 @@ prev: /expl/bible/daniel/the-secret-of-the-3-5-years
 next: /expl/background/israel/gods-covenant
 docType: expl
 appl: /appl/background/israel
+depth: 2
 ---
 
 {{< callout type="info" >}}
