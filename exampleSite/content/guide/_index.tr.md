@@ -7,11 +7,11 @@ Bu sayfa, kitabın tamamını bölüm bölüm tek bir tabloda gösterir. Her pas
 
 - **Kısa** - tarihsel arka planla birlikte sade bir dille özet
 - **Uygulama** - pasajın bu hafta senden ne istediği, sorular ve bir duayla
-- **Derinlemesine** - kaynakça ile desteklenmiş tam açıklama, o pasajla ilgili her sayfa
+- **Açıklama** - kaynakça ile desteklenmiş tam açıklama, o pasajla ilgili her sayfa
 
 Hikâye, vaazlar ve çocuk dersleri farklı okurlar için birçok biçimde yazıldı; bölüm başına tek bir bağlantı bunlardan yalnızca birini seçmiş olurdu. Hepsinin kendi bölümü var: [Hikaye]({{< relref "story" >}}), [Vaazlar]({{< relref "sermons" >}}) ve [Çocuklar]({{< relref "kids" >}}).
 
-| Böl. | Pasaj | Kısa | Uygulama | Derinlemesine |
+| Böl. | Pasaj | Kısa | Uygulama | Açıklama |
 |---|---|---|---|---|
 | 1 | Görüm | [Kısa]({{< relref "quick/content/vision" >}}) | [Uygulama]({{< relref "appl/content/vision" >}}) | [Temelin oluşturulması]({{< relref "expl/content/vision/setting-the-foundation" >}})<br>[Vizyon]({{< relref "expl/content/vision/the-vision" >}}) |
 | 2-3 | Yedi kilise | [Kısa]({{< relref "quick/content/letters" >}}) | [Uygulama]({{< relref "appl/content/letters" >}}) | [Kiliselerin melekleri]({{< relref "expl/content/letters/the-angel-of-the-churches" >}})<br>[Yedi kiliseye gönderilen mektuplar]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})<br>[Efes’teki kiliseye yazılan mektup]({{< relref "expl/content/letters/the-letter-to-the-church-in-ephesus" >}})<br>[İzmir’deki kiliseye yazılan mektup]({{< relref "expl/content/letters/the-letter-to-the-church-in-smyrna" >}})<br>[Bergama’daki kiliseye mektup]({{< relref "expl/content/letters/the-letter-to-the-church-in-pergamon" >}})<br>[Thyatira’daki kiliseye mektup]({{< relref "expl/content/letters/the-letter-to-the-church-in-thyatira" >}})<br>[Sardis’teki kiliseye mektup]({{< relref "expl/content/letters/the-letter-to-the-church-in-sardis" >}})<br>[Filadelfiya’daki kiliseye mektup]({{< relref "expl/content/letters/the-letter-to-the-church-in-philadelphia" >}})<br>[Laodikya’daki kiliseye mektup]({{< relref "expl/content/letters/the-letter-to-the-church-in-laodicea" >}}) |

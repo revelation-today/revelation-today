@@ -39,7 +39,7 @@ You don't have to read this site start to finish, and you definitely don't have 
 - **The poetic story** - the whole book in about ten minutes, told simply as one continuous story.
 - **The quick walkthrough** - section by section, in plain language, with just enough historical background built in.
 - **Sermons** - full messages, ready to preach or teach from, including versions adapted for different audiences.
-- **The deep dive** - the full, footnoted explanation, for whenever you want to go further into any particular passage.
+- **The explanation** - the full, footnoted explanation, for whenever you want to go further into any particular passage.
 - **For kids** - the same story, told simply, for the youngest readers in your life.
 
 If you already know which passage you're curious about, the [chapter-by-chapter guide]({{< relref "guide" >}}) puts every one of those five depths side by side, one row per chapter - jump straight in. If it's a specific topic pulling at you instead - the rapture, 666, Armageddon, and more - browse by [theme]({{< relref "themes" >}}). Or just use the search bar and see what comes up.

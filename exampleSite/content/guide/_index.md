@@ -7,11 +7,11 @@ This page is the whole book, chapter by chapter, in one table. For every passage
 
 - **Quick** - a plain-language summary with historical background
 - **Application** - what the passage asks of you this week, with questions and a prayer
-- **Deep dive** - the full, footnoted explanation, every page on that passage
+- **Explanation** - the full, footnoted explanation, every page on that passage
 
 The story, the sermons and the lessons for children are written in many versions for different readers, so one link per chapter would only pick one of them. They have their own sections: [Story]({{< relref "story" >}}), [Sermons]({{< relref "sermons" >}}) and [Kids]({{< relref "kids" >}}).
 
-| Ch. | Passage | Quick | Application | Deep dive |
+| Ch. | Passage | Quick | Application | Explanation |
 |---|---|---|---|---|
 | 1 | The vision | [Quick]({{< relref "quick/content/vision" >}}) | [Application]({{< relref "appl/content/vision" >}}) | [Setting the foundation]({{< relref "expl/content/vision/setting-the-foundation" >}})<br>[The vision]({{< relref "expl/content/vision/the-vision" >}}) |
 | 2-3 | The seven churches | [Quick]({{< relref "quick/content/letters" >}}) | [Application]({{< relref "appl/content/letters" >}}) | [The angel of the churches]({{< relref "expl/content/letters/the-angel-of-the-churches" >}})<br>[The letters to the seven churches]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})<br>[The letter to the church in Ephesus]({{< relref "expl/content/letters/the-letter-to-the-church-in-ephesus" >}})<br>[The letter to the church in Smyrna]({{< relref "expl/content/letters/the-letter-to-the-church-in-smyrna" >}})<br>[The letter to the church in Pergamon]({{< relref "expl/content/letters/the-letter-to-the-church-in-pergamon" >}})<br>[The letter to the church in Thyatira]({{< relref "expl/content/letters/the-letter-to-the-church-in-thyatira" >}})<br>[The letter to the church in Sardis]({{< relref "expl/content/letters/the-letter-to-the-church-in-sardis" >}})<br>[The letter to the church in Philadelphia]({{< relref "expl/content/letters/the-letter-to-the-church-in-philadelphia" >}})<br>[The letter to the church in Laodicea]({{< relref "expl/content/letters/the-letter-to-the-church-in-laodicea" >}}) |

@@ -86,7 +86,7 @@ sendiri, dan tema "roti hidup" yang dikembangkannya, ada dalam
 belakangan tentang "ragi orang Farisi," yang hanya menyinggung mukjizat pemberian makan itu secara
 sekilas — mudah terambil keliru. Layak
 dicontohkan bagi kelompok Anda: memeriksa kutipan terhadap teksnya sendiri adalah bagian dari
-tujuan format pendalaman ini.
+tujuan format studi ini.
 
 **Mengapa ini penting secara praktis.** Jika Wahyu secara default membaca secara simbolis yang
 berlabuh pada dunia abad pertamanya sendiri (Roma, kultus kaisar, pergumulan nyata ketujuh

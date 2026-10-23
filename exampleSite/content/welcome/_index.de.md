@@ -31,7 +31,7 @@ Lieber auf eigene Faust umsehen? Nimm das Menü oder die Suche oben auf der Seit
     icon="heart"
   >}}
   {{< hextra/feature-card
-    title="Vertiefung"
+    title="Erklärung"
     link="../expl/tour"
     subtitle="Ein tieferes Verständnis erlangen."
     icon="light-bulb"

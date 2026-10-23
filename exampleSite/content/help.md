@@ -5,12 +5,12 @@ next: /welcome/teaser
 ---
 
 The same book, at six depths: a ten-minute story, a plain summary, an application, a footnoted
-deep dive, sermons, and a version for children. Here is how to move between them.
+explanation, sermons, and a version for children. Here is how to move between them.
 
 ## Changing depth
 
 Under the title of every page there is a row of small buttons: **Story, Quick, Application,
-Deep dive, Sermon, Kids**. They lead to the same passage at another depth, and the one you are
+Explanation, Sermon, Kids**. They lead to the same passage at another depth, and the one you are
 reading is filled in. Nothing is lost: you can switch as often as you like.
 
 The depths do not line up one to one — one application page often belongs to several deep-dive

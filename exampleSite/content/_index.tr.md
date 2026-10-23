@@ -43,7 +43,7 @@ layout: hextra-home
     link="appl"
   >}}
   {{< hextra/feature-card
-    title="Derinlemesine"
+    title="Açıklama"
     subtitle="Ayet ayet, kaynaklarıyla birlikte tam açıklama."
     icon="light-bulb"
     link="expl"

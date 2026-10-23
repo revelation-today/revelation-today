@@ -84,7 +84,7 @@ und das Thema „Brot des Lebens", das sie entfaltet, steht in
 „Sauerteig der Pharisäer", die die Speisungswunder nur beiläufig erwähnt — leicht zu verwechseln.
 Es lohnt sich, das eurer Gruppe vorzuleben:
 Zitate am Text selbst noch einmal zu überprüfen ist Teil dessen, wofür
-dieses Deep-Dive-Format gedacht ist.
+dieses Studienformat gedacht ist.
 
 **Warum das praktisch wichtig ist.** Wenn die Offenbarung standardmäßig symbolisch gelesen werden
 soll, verankert in ihrer eigenen Welt des ersten Jahrhunderts (Rom, der Kaiserkult, die realen

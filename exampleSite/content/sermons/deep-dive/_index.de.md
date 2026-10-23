@@ -1,10 +1,10 @@
 ---
-title: "Deep-Dive-Guide: Offenbarung heute"
+title: "Studienführer für Kleingruppen: Offenbarung heute"
 weight: 1
 docType: sermon
 ---
 
-# Willkommen zum Deep-Dive-Guide
+# Willkommen zum Studienführer für Kleingruppen
 
 Du weißt bereits, wie man sich mit einem schwierigen Bibeltext auseinandersetzt. Wenn deine
 Kleingruppe diesen Guide zur Hand nimmt, gehörst du wahrscheinlich zu den Gruppen, die sich nicht

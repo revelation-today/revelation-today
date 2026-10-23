@@ -43,7 +43,7 @@ layout: hextra-home
     link="appl"
   >}}
   {{< hextra/feature-card
-    title="Zur Vertiefung"
+    title="Erklärung"
     subtitle="Die vollständige, mit Quellen belegte Erklärung, Vers für Vers."
     icon="light-bulb"
     link="expl"

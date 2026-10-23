@@ -77,7 +77,7 @@ içgüdüyü kitap boyunca tutarlı bir şekilde genişletmektir.
 {{% bible val="Matta 16:5-12" link="mat:16,5-12" lang="tr" %}} ise İsa'nın daha sonraki
 "Ferisilerin mayası" uyarısıdır ve doyurma mucizelerine sadece geçerken değinir — yanlışlıkla
 uzanılması kolay bir pasaj. Grubunuz için modellemeye değer: bir alıntıyı metnin kendisiyle
-denetlemek, bu derinlemesine inceleme formatının
+denetlemek, bu çalışma rehberi formatının
 amacının bir parçasıdır.
 
 **Bunun pratikte neden önemli olduğu.** Eğer Vahiy kendi birinci yüzyıl dünyasına (Roma,

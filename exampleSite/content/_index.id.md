@@ -43,7 +43,7 @@ layout: hextra-home
     link="appl"
   >}}
   {{< hextra/feature-card
-    title="Penjelasan mendalam"
+    title="Penjelasan"
     subtitle="Penjelasan lengkap dengan sumber, ayat demi ayat."
     icon="light-bulb"
     link="expl"

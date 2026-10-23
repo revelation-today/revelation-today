@@ -31,7 +31,7 @@ Kendi başınıza gezmeyi mi tercih edersiniz? Menüyü ya da sayfanın üstünd
     icon="heart"
   >}}
   {{< hextra/feature-card
-    title="Derin Dalış"
+    title="Açıklama"
     link="../expl/tour"
     subtitle="Daha derin bir anlayış edinmek."
     icon="light-bulb"

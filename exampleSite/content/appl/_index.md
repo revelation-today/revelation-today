@@ -9,4 +9,4 @@ Understanding a passage is only half the work — the other half is letting it c
 
 **Best for:** after you've read the story, the summary, or the full explanation of a passage, and want to sit with what it actually asks of you.
 
-Browse by chapter in the menu, or start from wherever you left off in the story or deep dive — every one of those pages links here.
+Browse by chapter in the menu, or start from wherever you left off in the story or explanation — every one of those pages links here.

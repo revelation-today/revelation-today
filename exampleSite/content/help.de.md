@@ -5,17 +5,17 @@ next: /welcome/teaser
 ---
 
 Dasselbe Buch, auf sechs Ebenen: eine Geschichte in zehn Minuten, eine Kurzerklärung, die
-Anwendung, eine belegte Vertiefung, Predigten und eine Fassung für Kinder. So wechselst du
+Anwendung, eine belegte Erklärung, Predigten und eine Fassung für Kinder. So wechselst du
 zwischen ihnen.
 
 ## Die Ebene wechseln
 
 Unter dem Titel jeder Seite steht eine Reihe kleiner Schaltflächen: **Geschichte, Kurz,
-Anwendung, Vertiefung, Predigt, Kinder**. Sie führen zu derselben Passage auf einer anderen
+Anwendung, Erklärung, Predigt, Kinder**. Sie führen zu derselben Passage auf einer anderen
 Ebene, und die, die du gerade liest, ist ausgefüllt. Du kannst so oft wechseln, wie du willst.
 
 Die Ebenen entsprechen einander nicht eins zu eins — eine Anwendungsseite gehört oft zu
-mehreren Vertiefungs-Artikeln —, deshalb landest du beim Hin- und Zurückwechseln nicht
+mehreren Erklärungsartikeln —, deshalb landest du beim Hin- und Zurückwechseln nicht
 unbedingt wieder auf der Seite, von der du gekommen bist. Um genau dorthin zurückzukommen,
 nimm den Zurück-Knopf statt der Schaltflächen.
 

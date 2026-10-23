@@ -1,10 +1,10 @@
 ---
-title: "Panduan Pendalaman: Wahyu Hari Ini"
+title: "Panduan studi kelompok kecil: Wahyu Hari Ini"
 weight: 1
 docType: sermon
 ---
 
-# Selamat Datang di Panduan Pendalaman
+# Selamat Datang di Panduan Studi Kelompok Kecil
 
 Anda sudah terbiasa bergumul dengan bagian Alkitab yang sulit. Jika kelompok kecil Anda mengambil
 panduan ini, kemungkinan besar Anda adalah kelompok yang tidak ingin versi "ringkasan cepat" dari

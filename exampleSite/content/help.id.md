@@ -5,17 +5,17 @@ next: /welcome/teaser
 ---
 
 Kitab yang sama, dalam enam tingkat kedalaman: kisah sepuluh menit, ringkasan sederhana,
-penerapan, pendalaman dengan rujukan, khotbah, dan versi untuk anak-anak. Beginilah cara
+penerapan, penjelasan dengan rujukan, khotbah, dan versi untuk anak-anak. Beginilah cara
 berpindah di antaranya.
 
 ## Berpindah kedalaman
 
 Di bawah judul setiap halaman ada sederet tombol kecil: **Kisah, Ringkas, Aplikasi,
-Pendalaman, Khotbah, Anak-anak**. Tombol-tombol itu menuju bagian yang sama pada kedalaman
+Penjelasan, Khotbah, Anak-anak**. Tombol-tombol itu menuju bagian yang sama pada kedalaman
 lain, dan yang sedang Anda baca ditandai. Anda boleh berpindah sesering yang Anda mau.
 
 Kedalaman-kedalaman itu tidak berpasangan satu lawan satu — satu halaman penerapan sering
-mencakup beberapa artikel pendalaman — jadi berpindah lalu kembali belum tentu membawa Anda ke
+mencakup beberapa artikel penjelasan — jadi berpindah lalu kembali belum tentu membawa Anda ke
 halaman tempat Anda mulai. Untuk kembali persis ke sana, gunakan tombol kembali, bukan
 tombol-tombol itu.
 

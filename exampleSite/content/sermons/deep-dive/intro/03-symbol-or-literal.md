@@ -76,7 +76,7 @@ or, more fully, {{% bible val="John 6" link="jhn:6,1-14" lang="en" %}}.
 {{% bible val="Matthew 16:5-12" link="mat:16,5-12" lang="en" %}} is Jesus's later "leaven of the
 Pharisees" warning, which only references the feeding miracles in passing — an easy one to reach
 for by mistake. Worth modeling for your group: checking a citation against the text itself is
-part of what this deep-dive format is for.
+part of what this study-guide format is for.
 
 **Why this matters practically.** If Revelation defaults to symbolic reading anchored in its own
 first-century world (Rome, the emperor cult, the seven churches' real struggles), then the

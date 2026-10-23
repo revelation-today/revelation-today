@@ -5,15 +5,15 @@ next: /welcome/teaser
 ---
 
 Aynı kitap, altı derinlikte: on dakikalık bir hikâye, sade bir özet, uygulama, kaynaklı bir
-derinlemesine inceleme, vaazlar ve çocuklar için bir sürüm. Aralarında şöyle geçiş yaparsınız.
+ayrıntılı açıklama, vaazlar ve çocuklar için bir sürüm. Aralarında şöyle geçiş yaparsınız.
 
 ## Derinliği değiştirmek
 
 Her sayfanın başlığının altında küçük düğmelerden oluşan bir sıra vardır: **Hikaye, Kısa,
-Uygulama, Derinlemesine, Vaaz, Çocuklar**. Bunlar aynı pasajın başka bir derinliğine götürür ve
+Uygulama, Açıklama, Vaaz, Çocuklar**. Bunlar aynı pasajın başka bir derinliğine götürür ve
 okuduğunuz derinlik dolu görünür. İstediğiniz kadar geçiş yapabilirsiniz.
 
-Derinlikler birebir örtüşmez — bir uygulama sayfası çoğu zaman birkaç derinlemesine makaleye
+Derinlikler birebir örtüşmez — bir uygulama sayfası çoğu zaman birkaç açıklama makalesine
 karşılık gelir — bu yüzden geçip geri dönmek sizi başladığınız sayfaya getirmeyebilir. Tam
 olarak kaldığınız yere dönmek için bu düğmeler yerine geri düğmesini kullanın.
 

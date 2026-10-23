@@ -1,10 +1,10 @@
 ---
-title: "Derinlemesine İnceleme Rehberi: Bugün Vahiy"
+title: "Küçük grup çalışma rehberi: Bugün Vahiy"
 weight: 1
 docType: sermon
 ---
 
-# Derinlemesine İnceleme Rehberine Hoş Geldiniz
+# Küçük Grup Çalışma Rehberine Hoş Geldiniz
 
 Zor bir metinle nasıl oturulacağını zaten biliyorsunuz. Küçük grubunuz bu rehberi eline aldıysa,
 muhtemelen Vahiy'in "özet" versiyonuyla yetinmek istemeyen bir gruptur — metni açmak, İngilizce

@@ -1,10 +1,10 @@
 ---
-title: "Deep-Dive Guide: Revelation Today"
+title: "Small-group study guide: Revelation Today"
 weight: 1
 docType: sermon
 ---
 
-# Welcome to the Deep-Dive Guide
+# Welcome to the small-group study guide
 
 You already know how to sit with a hard passage. If your small group is picking up this
 guide, you're probably the kind of group that doesn't want the Cliff's Notes version of

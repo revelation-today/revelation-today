@@ -7,11 +7,11 @@ Halaman ini menyajikan seluruh kitab, pasal demi pasal, dalam satu tabel. Untuk 
 
 - **Ringkas** - ringkasan berbahasa sederhana lengkap dengan latar belakang sejarah
 - **Aplikasi** - apa yang diminta bagian ini darimu minggu ini, dengan pertanyaan dan doa
-- **Pendalaman** - penjelasan lengkap dengan rujukan sumber, setiap halaman tentang bagian itu
+- **Penjelasan** - penjelasan lengkap dengan rujukan sumber, setiap halaman tentang bagian itu
 
 Kisah, khotbah, dan pelajaran untuk anak-anak ditulis dalam banyak versi untuk pembaca yang berbeda, sehingga satu tautan per pasal hanya akan memilih salah satunya. Semuanya punya bagian sendiri: [Kisah]({{< relref "story" >}}), [Khotbah]({{< relref "sermons" >}}), dan [Anak-anak]({{< relref "kids" >}}).
 
-| Psl. | Bagian | Ringkas | Aplikasi | Pendalaman |
+| Psl. | Bagian | Ringkas | Aplikasi | Penjelasan |
 |---|---|---|---|---|
 | 1 | Penglihatan itu | [Ringkas]({{< relref "quick/content/vision" >}}) | [Aplikasi]({{< relref "appl/content/vision" >}}) | [Meletakkan Dasar]({{< relref "expl/content/vision/setting-the-foundation" >}})<br>[Penglihatan tentang Anak Manusia]({{< relref "expl/content/vision/the-vision" >}}) |
 | 2-3 | Ketujuh jemaat | [Ringkas]({{< relref "quick/content/letters" >}}) | [Aplikasi]({{< relref "appl/content/letters" >}}) | [Malaikat Gereja-gereja]({{< relref "expl/content/letters/the-angel-of-the-churches" >}})<br>[Ketujuh Surat kepada Gereja-gereja]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})<br>[Surat kepada Efesus]({{< relref "expl/content/letters/the-letter-to-the-church-in-ephesus" >}})<br>[Surat kepada Smirna]({{< relref "expl/content/letters/the-letter-to-the-church-in-smyrna" >}})<br>[Surat kepada Pergamus]({{< relref "expl/content/letters/the-letter-to-the-church-in-pergamon" >}})<br>[Surat kepada Tiatira]({{< relref "expl/content/letters/the-letter-to-the-church-in-thyatira" >}})<br>[Surat kepada Sardis]({{< relref "expl/content/letters/the-letter-to-the-church-in-sardis" >}})<br>[Surat kepada Filadelfia]({{< relref "expl/content/letters/the-letter-to-the-church-in-philadelphia" >}})<br>[Surat kepada Laodikia]({{< relref "expl/content/letters/the-letter-to-the-church-in-laodicea" >}}) |

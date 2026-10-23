@@ -31,7 +31,7 @@ Would you rather look around on your own? Use the menu, or the search at the top
     icon="heart"
   >}}
   {{< hextra/feature-card
-    title="Deep dive"
+    title="Explanation"
     link="../expl/tour"
     subtitle="Getting a deeper understanding."
     icon="light-bulb"

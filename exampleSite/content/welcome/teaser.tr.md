@@ -39,7 +39,7 @@ Bu siteyi baştan sona okumak zorunda değilsin, ve kesinlikle her şeyi okumak 
 - **Şiirsel hikaye** - bütün kitap yaklaşık on dakikada, tek bir hikaye olarak sade bir şekilde anlatılmış.
 - **Hızlı gözden geçirme** - bölüm bölüm, sade bir dille, tam da yeterince tarihsel arka planla.
 - **Vaazlar** - vaaz vermeye ya da öğretmeye hazır tam mesajlar, farklı kitleler için uyarlanmış versiyonlar dahil.
-- **Derinlemesine** - kaynakça ile desteklenmiş tam açıklama, belirli bir pasaja ne zaman daha derin inmek istersen.
+- **Açıklama** - kaynakça ile desteklenmiş tam açıklama, belirli bir pasaja ne zaman daha derin inmek istersen.
 - **Çocuklar için** - aynı hikaye, hayatındaki en küçük okuyucular için sade bir şekilde anlatılmış.
 
 Zaten hangi pasajı merak ettiğini biliyorsan, {{% int_link val="bölüm bölüm rehber" link="/guide" %}} bu beş derinliği yan yana koyar, her bölüm için bir satır - doğrudan atla. Eğer seni çeken şey belirli bir konuysa - alınıp götürülme, 666, Armagedon ve daha fazlası - [temalara]({{< relref "themes" >}}) göre gözat. Ya da sadece arama çubuğunu kullan ve ne çıktığına bak.

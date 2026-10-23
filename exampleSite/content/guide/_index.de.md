@@ -7,11 +7,11 @@ Diese Seite zeigt das ganze Buch, Kapitel für Kapitel, in einer Tabelle. Zu jed
 
 - **Kurz** - eine Zusammenfassung in einfacher Sprache mit historischem Hintergrund
 - **Anwendung** - was die Passage diese Woche von dir will, mit Fragen und einem Gebet
-- **Vertiefung** - die vollständige, mit Quellen belegte Erklärung, jede Seite zu dieser Passage
+- **Erklärung** - die vollständige, mit Quellen belegte Erklärung, jede Seite zu dieser Passage
 
 Die Geschichte, die Predigten und die Lektionen für Kinder gibt es in vielen Fassungen für verschiedene Leser; ein Link pro Kapitel würde nur eine davon herausgreifen. Sie haben eigene Bereiche: [Geschichte]({{< relref "story" >}}), [Predigten]({{< relref "sermons" >}}) und [Kinder]({{< relref "kids" >}}).
 
-| Kap. | Passage | Kurz | Anwendung | Vertiefung |
+| Kap. | Passage | Kurz | Anwendung | Erklärung |
 |---|---|---|---|---|
 | 1 | Die Vision | [Kurz]({{< relref "quick/content/vision" >}}) | [Anwendung]({{< relref "appl/content/vision" >}}) | [Die Grundlage legen]({{< relref "expl/content/vision/setting-the-foundation" >}})<br>[Die Vision des Menschensohnes]({{< relref "expl/content/vision/the-vision" >}}) |
 | 2-3 | Die sieben Gemeinden | [Kurz]({{< relref "quick/content/letters" >}}) | [Anwendung]({{< relref "appl/content/letters" >}}) | [Die Engel der Gemeinden]({{< relref "expl/content/letters/the-angel-of-the-churches" >}})<br>[Die sieben Sendschreiben]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})<br>[Das Schreiben an Ephesus]({{< relref "expl/content/letters/the-letter-to-the-church-in-ephesus" >}})<br>[Das Sendschreiben an Smyrna]({{< relref "expl/content/letters/the-letter-to-the-church-in-smyrna" >}})<br>[Das Sendschreiben an Pergamon]({{< relref "expl/content/letters/the-letter-to-the-church-in-pergamon" >}})<br>[Das Sendschreiben an Thyatira]({{< relref "expl/content/letters/the-letter-to-the-church-in-thyatira" >}})<br>[Das Sendschreiben an Sardis]({{< relref "expl/content/letters/the-letter-to-the-church-in-sardis" >}})<br>[Das Sendschreiben an Philadelphia]({{< relref "expl/content/letters/the-letter-to-the-church-in-philadelphia" >}})<br>[Das Sendschreiben an Laodizäa]({{< relref "expl/content/letters/the-letter-to-the-church-in-laodicea" >}}) |

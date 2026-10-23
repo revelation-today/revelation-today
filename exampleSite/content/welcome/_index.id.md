@@ -31,7 +31,7 @@ Lebih suka melihat-lihat sendiri? Gunakan menu, atau pencarian di bagian atas ha
     icon="heart"
   >}}
   {{< hextra/feature-card
-    title="Menyelam lebih dalam"
+    title="Penjelasan"
     link="../expl/tour"
     subtitle="Mendapatkan pemahaman yang lebih dalam."
     icon="light-bulb"

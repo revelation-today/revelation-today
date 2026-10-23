@@ -43,7 +43,7 @@ layout: hextra-home
     link="appl"
   >}}
   {{< hextra/feature-card
-    title="Deep dive"
+    title="Explanation"
     subtitle="The full, footnoted explanation, verse by verse."
     icon="light-bulb"
     link="expl"

@@ -39,7 +39,7 @@ Du musst diese Seite nicht von Anfang bis Ende lesen, und du musst schon gar nic
 - **Die poetische Geschichte** - das ganze Buch in etwa zehn Minuten, einfach als eine durchgehende Geschichte erzählt.
 - **Der Schnelldurchlauf** - Abschnitt für Abschnitt, in einfacher Sprache, mit gerade so viel historischem Hintergrund wie nötig.
 - **Predigten** - fertige Botschaften, direkt zum Predigen oder Lehren, inklusive Fassungen für unterschiedliche Zielgruppen.
-- **Die Vertiefung** - die vollständige, mit Quellen belegte Erklärung, für wann immer du bei einer bestimmten Passage tiefer einsteigen willst.
+- **Die Erklärung** - die vollständige, mit Quellen belegte Erklärung, für wann immer du bei einer bestimmten Passage tiefer einsteigen willst.
 - **Für Kinder** - dieselbe Geschichte, einfach erzählt, für die jüngsten Leser in deinem Leben.
 
 Wenn du schon weißt, welche Passage dich interessiert, legt der {{% int_link val="Kapitel-für-Kapitel-Leitfaden" link="/guide" %}} alle fünf Tiefen nebeneinander, eine Zeile pro Kapitel - spring direkt rein. Wenn dich eher ein bestimmtes Thema beschäftigt - die Entrückung, 666, Harmagedon und mehr - stöbere nach [Themen]({{< relref "themes" >}}). Oder nutze einfach die Suchleiste und schau, was dabei herauskommt.
