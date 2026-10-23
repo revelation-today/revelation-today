@@ -60,11 +60,21 @@ Tanıkların gerçekte kim olduğu konusunda büyük bir tartışma vardır. Ba�
 
 Metnin kendisi bize ihtiyacımız olan ipucunu verir. {{% bible val="Onlar 'iki zeytin ağacı' ve iki kandilliktir, dünyanın Rabbi'nin önünde dururlar" link="rev:11,4" lang="tr" %}}. Bu, aynı imgenin Başkâhin Yeşu ve Davut soyundan Zerubbabil ile özdeşleştirildiği {{% bible val="peygamber Zekeriya'ya" link="zec:4,2-14" lang="tr" %}} bir gönderme olmakla birlikte, aynı zamanda {{% bible val="kandilliklerle özdeşleştirilen yedi kiliseye de" link="rev:1,20" lang="tr" %}} bir göndermedir.
 
-Bu okuma, {{% int_link val="İsa'nın birinci ve ikinci gelişi arasındaki tüm süreyi ifade eden" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}} {{% bible val="3,5 yıl" link="rev:11,3" lang="tr" %}} ifadesiyle daha da güçlenir. Bu kadar uzun bir süre tek bir tarihi kişiye zor uyar; bu yüzden bu yaklaşımı benimseyen yorumcular, tanıkların bir çift birey değil, kilisenin kendisini temsil ettiği sonucuna varırlar — literatürde savunulan birkaç okumadan biri (diğerleri onları iki bireysel son zaman peygamberi, belirli bir tarihi çift, ya da tarih boyunca gelen bir sadık tanıklar dizisi olarak görür). Bu, {{% int_link val="premillennializm, postmillennializm ve amillennializmin karşılaştırılması" link="/expl/content/1000y/pre-post-and-amillennialism" %}} bölümünde daha ayrıntılı olarak ortaya konan amillennialist çerçeveyle esasen aynıdır — {{% int_link val="kaçırılışın büyük sıkıntıyla nasıl ilişkili olduğu" link="/expl/topics/others/pre-mid-prewrath-or-post-tribulational" %}} sorusuyla ilişkili ama ondan ayrı bir sorudur; 3,5 yılı iki bireysel son zaman tanığına bağlı, gelecekteki gerçek bir dönem olarak okuyan dispansasyonalist premillennialistler bu soruyu genellikle farklı yanıtlar.
+Bu okuma, {{% int_link val="İsa'nın birinci ve ikinci gelişi arasındaki tüm süreyi ifade eden" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}} {{% bible val="3,5 yıl" link="rev:11,3" lang="tr" %}} ifadesiyle daha da güçlenir. Bu kadar uzun bir süre tek bir tarihi kişiye zor uyar; bu yüzden bu yaklaşımı benimseyen yorumcular, tanıkların bir çift birey değil, kilisenin kendisini temsil ettiği sonucuna varırlar — literatürde savunulan birkaç okumadan biri (diğerleri onları iki bireysel son zaman peygamberi, belirli bir tarihi çift, ya da tarih boyunca gelen bir sadık tanıklar dizisi olarak görür).
+
+{{% study %}}
+
+Bu, {{% int_link val="premillennializm, postmillennializm ve amillennializmin karşılaştırılması" link="/expl/content/1000y/pre-post-and-amillennialism" %}} bölümünde daha ayrıntılı olarak ortaya konan amillennialist çerçeveyle esasen aynıdır — {{% int_link val="kaçırılışın büyük sıkıntıyla nasıl ilişkili olduğu" link="/expl/topics/others/pre-mid-prewrath-or-post-tribulational" %}} sorusuyla ilişkili ama ondan ayrı bir sorudur; 3,5 yılı iki bireysel son zaman tanığına bağlı, gelecekteki gerçek bir dönem olarak okuyan dispansasyonalist premillennialistler bu soruyu genellikle farklı yanıtlar.
+
+{{% /study %}}
 
 Yine de tanıkları belirli figürlerle ilişkilendirmenin birçok yolu vardır ve en iyi eşleşme Musa ile İlyas'tır: mucizeleri yakından örtüşür. {{% bible val="Düşmanlarının üzerine gökten ateş yağdırmak" link="rev:11,5" lang="tr" %}} tam olarak {{% bible val="gökten ateş yağdıran İlyas'a" link="2ki:1,9-12" lang="tr" %}} özgüdür; {{% bible val="yağmuru durdurmak" link="rev:11,6" lang="tr" %}} da öyle, çünkü bu {{% bible val="İlyas'ın hizmetini yansıtır" link="jas:5,17" lang="tr" %}}; {{% bible val="suyu kana çevirmek" link="rev:11,6" lang="tr" %}} ise {{% bible val="Musa döneminde gerçekleşen ilk vebayı" link="exo:7,14-24" lang="tr" %}} yansıtır.
 
+{{% study %}}
+
 Bu eşleştirmenin bilinmeye değer bir geçmişi var. Musa ile İlyas'ın birlikte geri döneceğine dair bir Yahudi beklentisinin kanıtı yoktur. Kaynakların yer yer gösterdiği şey, **Hanok** ile İlyas'ın Deccal'in aldatmacalarını açığa çıkarmak üzere geri döneceği beklentisidir — Kutsal Kitap'ta ölmeyen iki adam: {{% bible val="Hanok Tanrı tarafından alındı" link="gen:5,24" lang="tr" %}} ve {{% bible val="İlyas kasırgayla yükseldi" link="2ki:2,11" lang="tr" %}}. Bu ikisinin dönüp vaaz ettiği ve öldürüldüğü daha sonraki anlatıların hepsi, Vahiy 11'in arkasında durmak yerine onun etkisini taşır. Dolayısıyla Musa ve İlyas eşleşmesi, Yuhanna'nın devraldığı bir geleneğe değil, metindeki mucizelere dayanır.[^tradition]
+
+{{% /study %}}
 
 Ancak dikkat edin: iki tanık, yan yana çalışan bir Musa ve bir İlyas olarak değil, tek bir varlık gibi hareket eden iki figür olarak betimlenir. Peki birlikte hangi tek gerçekliği yansıtıyorlar? Kiliseyi -çünkü tarif edilen kadar uzun bir ömre sahip olan tek şey kilisedir. Bu eşleşme birkaç şekilde okunabilir. Bir seçenek şudur:
 
@@ -98,7 +108,13 @@ Ayrıca işaretler ve harikalar yapabilirler. Bu belaların arkasındaki Eski An
 
 ## Yenilgiden zafere
 
-{{% bible val="Canavar tarafından alt edilirler" link="rev:11,7" lang="tr" %}}. İsa'nın {{% bible val="kilisenin alt edilemeyeceğini" link="mat:16,18" lang="tr" %}} söylemiş olması göz önüne alındığında, bu nasıl mümkün olabilir? Aslında bu iki ifade birbiriyle çelişmez. [Matta'daki](https://biblehub.com/interlinear/matthew/16-18.htm) metne bakarsanız, orada "[alt etme](https://biblehub.com/greek/2729.htm)" olarak çevrilen sözcüğün [Vahiy'de](https://biblehub.com/interlinear/revelation/11-7.htm) kullanılan [sözcükten](https://biblehub.com/greek/3528.htm) farklı olduğunu görürsünüz. Vahiy'in sözcüğü (nikaō) belirli bir mücadele içindeki tek, kesin bir zaferi tanımlar; Matta'nın sözcüğü (katischuō) ise Hades'in kapılarının uzun vadede üstün gelemeyeceğinden söz eder. Sözcük farkı kesin kanıt değil, ama bir ipucudur; yine de büyük resme uyar: tanıkların geçici, yerel bir yenilgisi, İsa'nın kilisenin bütün olarak sonunda düşmeyeceği vaadiyle çelişmez.
+{{% bible val="Canavar tarafından alt edilirler" link="rev:11,7" lang="tr" %}}. İsa'nın {{% bible val="kilisenin alt edilemeyeceğini" link="mat:16,18" lang="tr" %}} söylemiş olması göz önüne alındığında, bu nasıl mümkün olabilir? Aslında bu iki ifade birbiriyle çelişmez: tanıkların geçici, yerel bir yenilgisi, İsa'nın kilisenin bütün olarak sonunda düşmeyeceği vaadiyle çelişmez.
+
+{{% study %}}
+
+[Matta'daki](https://biblehub.com/interlinear/matthew/16-18.htm) metne bakarsanız, orada "[alt etme](https://biblehub.com/greek/2729.htm)" olarak çevrilen sözcüğün [Vahiy'de](https://biblehub.com/interlinear/revelation/11-7.htm) kullanılan [sözcükten](https://biblehub.com/greek/3528.htm) farklı olduğunu görürsünüz. Vahiy'in sözcüğü (nikaō) belirli bir mücadele içindeki tek, kesin bir zaferi tanımlar; Matta'nın sözcüğü (katischuō) ise Hades'in kapılarının uzun vadede üstün gelemeyeceğinden söz eder. Sözcük farkı kesin kanıt değil, ama bir ipucudur.
+
+{{% /study %}}
 
 En önemlisi, tanıklar ancak "tanıklıklarını tamamladıktan sonra" yenilirler. Görevleri ölümlerinden önce tamamlanmıştır, ölümleriyle yarıda kesilmemiştir. Kilise, görünürde yenilmiş gibidir: {{% bible val="tanıklar artık sessiz olduğu için bütün dünya kutlama yapar" link="rev:11,9-10" lang="tr" %}}, hatta {{% bible val="onları gömülmeden bırakarak" link="rev:11,8" lang="tr" %}} {{% bible val="ölümlerinde bile onları aşağılar" link="1sa:17,44-46" lang="tr" %}}. Ama bu yenilgi zafere dönüşür: 3,5 yılın kasıtlı bir yankısı olan 3,5 günün ardından diriltilirler ve tıpkı İsa gibi göğe alınırlar.
 
@@ -116,7 +132,9 @@ Bütün öykü sürprizlerle doludur:
 
 İki canavar {{% int_link val="Ejderha ve iki canavar" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999" %}} yazısında yan yana konur.
 
-Ama bunun dışında {{% bible val="tanıklar" link="rev:11,3-13" lang="tr" %}} ile {{% bible val="canavarlar" link="rev:13" lang="tr" %}} aşağıdaki karşılaştırmanın gösterdiği gibi çok farklıdır.
+Ama bunun dışında {{% bible val="tanıklar" link="rev:11,3-13" lang="tr" %}} ile {{% bible val="canavarlar" link="rev:13" lang="tr" %}} aşağıdaki noktaların gösterdiği gibi çok farklıdır.
+
+{{% study %}}
 
 | Tema | Hayvanlar | Tanıklar |
 |-------|-------------|---------------|
@@ -128,6 +146,8 @@ Ama bunun dışında {{% bible val="tanıklar" link="rev:11,3-13" lang="tr" %}} 
 | övünme | {{% bible val="birinci" link="rev:13,4-6" lang="tr" %}} ve {{% bible val="ikinci" link="rev:13,11-15" lang="tr" %}} *hayvanlar Tanrı olduklarını iddia eder ve Tanrı'yla alay ederler*. | İnsanlar *tanıkların öldüğüne sevinir ve cesetlerini teşhir eder* {{% bible val="Vah 11:9-10" link="rev:11,9-10" lang="tr" %}} |
 | Alt etme | {{% bible val="birinci" link="rev:13,7" lang="tr" %}} ve {{% bible val="ikinci" link="rev:13,15" lang="tr" %}} canavar *düşmanlarını öldürür*. </br> Her biri {{% bible val="birinci" link="rev:13,8" lang="tr" %}} ve {{% bible val="ikinci" link="rev:13,16-17" lang="tr" %}} canavara boyun eğdirip sadakatlerini alır. </br>Ama *sadıklar* asla. | Kutsallar *restore edilip yüceltilecektir* {{% bible val="Vah 11:11-12" link="rev:11,11-12" lang="tr" %}}</br> Diğer herkes ya *yargılanacak ya da Tanrı'ya yücelik verecektir.* {{% bible val="Vah 11:13-14" link="rev:11,13-14" lang="tr" %}} |
 | Dikkat! | {{% bible val="birinci" link="rev:13,9-10" lang="tr" %}} ve {{% bible val="ikinci canavarın" link="rev:13,18" lang="tr" %}} *gizli tehlikeleri* vardır | *Geniş kapsamlı, görünür bir zafer*: Tanrı'nın krallığı burada {{% bible val="Vah 11:15-19" link="rev:11,15-19" lang="tr" %}} |
+
+{{% /study %}}
 
 Her ikisi de kendi yollarınca {{% bible val="üstün gelen İsa'yı" link="rev:12,1-12" lang="tr" %}} yansıtmaya çalışır -ama bu taklit içi boştur. Farklılıklar bunu açıkça ortaya koyar:
 

@@ -60,12 +60,18 @@ Und der Drache wurde zornig über die Frau und ging hin, um Krieg zu führen mit
 <a name="78d1"></a>
 Die vorhergehenden Verse beschreiben den Angriff des Drachen auf das Kind (Jesus) und seine Mutter. Er scheitert beide Male völlig, und nun versammelt er zwei weitere Tiere, die hier im Detail beschrieben werden — und diese Beschreibung ist nicht aus dem Nichts erfunden. Sie greift eine Handvoll alttestamentlicher Stellen auf, die die ersten Leser sofort wiedererkannt hätten.
 
+{{% background %}}
+
 - Der erste Bezug geht zurück auf das Buch {{% bible val="Hiob 40,15–41,34" link="job:40,15" lang="de" %}}, eine lange Passage, die Behemoth und Leviathan beschreibt, zwei Tiere aus dem Meer und von der Erde — genau wie die Tiere in Offb.13 ebenfalls aus dem Meer und von der Erde kommen. Sie sind für den Menschen unbesiegbar, aber nicht für Gott ({{% bible val="Jes 27,1" link="isa:27" lang="de" %}}); {{% bible val="Ps.104" link="psa:104,26" lang="de" %}} lässt sich sogar so lesen, dass Leviathan im Vergleich zu Gott nicht mehr als ein Spielzeug ist, wobei das Hebräische mehrdeutig ist und die meisten Übersetzungen den Leviathan selbst, nicht Gott, als denjenigen auffassen, der „spielt”.
 - Ein ähnlicher Hinweis findet sich in {{% bible val="Offb 10,2" link="rev:10,2" lang="de" %}}, wo der Engel seinen Fuß auf Land und Meer setzt und damit Anspruch auf beide erhebt.
 - Das erste Tier übernimmt seine Beschreibung aus {{% bible val="Dan.7" link="dan:7" lang="de" %}}, wo vier Tiere beschrieben werden: das erste wie ein Löwe, das zweite wie ein Bär, das dritte wie ein Leopard. Zusammen haben sie sieben Köpfe (nur die vier Köpfe des dritten Tieres werden ausdrücklich genannt, in {{% bible val="Dan 7,6" link="dan:7,6" lang="de" %}}; bei den anderen drei wird angenommen, dass sie jeweils einen Kopf haben), und das vierte Tier trägt zehn Hörner, {{% bible val="die zehn Könige sind" link="dan:7,24" lang="de" %}} — ein Detail, das Dan.7 sogar mit dem Tier der Hure in {{% bible val="Offb.17" link="rev:17,12" lang="de" %}} verbindet. Welchen Sinn hat also der Rückgriff auf Dan.7? Liest man das Kapitel bis zum Ende, zeigt sich: Sein ganzer Sinn besteht darin, zu zeigen, dass das Tier besiegt wird.
 - Die nächste große Parallele ist {{% bible val="Dan.3" link="dan:3" lang="de" %}}, die bekannte Geschichte von Daniels Freunden im Feuerofen. Sie beschreibt die Situation des zweiten Tieres: eine Statue, die angebetet werden muss, Menschen, die mit Feuer bestraft werden, wenn sie sich weigern, und sogar ein Echo der Sechs in {{% bible val="Dan.3" link="dan:3,1" lang="de" %}}, wo die Statue 60 Ellen mal 6 Ellen misst und die Listen der Beamten und Instrumente, die sich vor ihr verneigen müssen, in Sechsergruppen wiederholt werden. Die Geschichte endet damit, dass Daniels Freunde gerettet werden und {{% bible val="der König Gott anerkennt und lobt und die Freunde daraufhin befördert" link="dan:3,28-30" lang="de" %}}.
 
+{{% /background %}}
+
 Auf den ersten Blick erweckt dieses Kapitel den Eindruck, der Drache und seine Tiere seien unbesiegbare Herrscher und Unterdrücker. Doch sieh dir an, wie jede dieser alttestamentlichen Quellen endet, und die Beweise schreien geradezu „Verlierer”, sobald sie Gott und seinem Volk gegenüberstehen.
+
+{{% background %}}
 
 Dabei entspricht die Erscheinung des ersten Tieres keinem einzelnen der {{% bible val="vier Reiche in Daniel" link="dan:7,17" lang="de" %}} — es übernimmt Merkmale von allen zugleich, wie die folgende Tabelle zeigt.
 
@@ -80,6 +86,8 @@ Dabei entspricht die Erscheinung des ersten Tieres keinem einzelnen der {{% bibl
 | {{% bible val="Das dritte Tier hat 4 Köpfe, die andere jeweils einen" link="dan:7,6" lang="de" %}} | {{% bible val="hat 7 Köpfe" link="rev:13,1" lang="de" %}} |
 | {{% bible val="Das Horn spricht große Dinge" link="dan:7,8" lang="de" %}} </br> {{% bible val="spricht gegen den Höchsten" link="dan:7,25" lang="de" %}} | {{% bible val="Tier lästert Gott" link="rev:13,6" lang="de" %}} |
 | {{% bible val="Die 10 Hörner sind 10 Könige" link="dan:7,24" lang="de" %}} | {{% bible val="10 Kronen" link="rev:13,1" lang="de" %}} |
+
+{{% /background %}}
 
 ## Der zweifache Angriff
 
@@ -98,7 +106,11 @@ Schauen wir uns diese beiden Tiere genauer an. Sie wirken zusammen und stützen 
 | Gegen Gottes Volk | führt Krieg gegen die Heiligen und besiegt sie ({{% bible val="13,7" link="rev:13,7" lang="de" %}}) | tötet, wer sich weigert; kein Kaufen und Verkaufen ohne das Malzeichen ({{% bible val="13,15–17" link="rev:13,15-17" lang="de" %}}) |
 | Ruf an den Leser | Wer Ohren hat, der höre; hier ist Ausharren und Glaube ({{% bible val="13,9–10" link="rev:13,9-10" lang="de" %}}) | Hier ist Weisheit; wer Verstand hat, der rechne ({{% bible val="13,18" link="rev:13,18" lang="de" %}}) |
 
+{{% study %}}
+
 In dieser letzten Zeile verbirgt sich noch ein interessanter Chiasmus. „Hier ist ... Geduld und Glaube“ korrespondiert mit „wer Ohren hat, der höre“, und „hier ist Weisheit“ korrespondiert mit „wenn jemand Verstand hat, der berechne“ — das stellt eine Gleichung auf: Hören (was im hebräischen Denken Gehorchen bedeutet) verhält sich zu Geduld und Glaube wie Verstand zu Weisheit. Mit anderen Worten: Wissen ist nur der erste Schritt; es soll zu Taten führen.
+
+{{% /study %}}
 
 Das geschieht auf zweierlei Weise:
 
@@ -106,6 +118,8 @@ Das geschieht auf zweierlei Weise:
 - durch Täuschung, was etwas schwerer zu verstehen ist, aber ich werde es erklären. Sie hat zwei Gesichter. Das erste Tier bietet Macht und Kontrolle und stützt dieses Angebot mit Gewalt: „Wer ist dem Tier gleich, und wer kann mit ihm kämpfen?“ (13,4). Das zweite bietet Wohlstand und Sicherheit: Es wirkt durch Zeichen und Wunder und durch einen Markt, der nur denen offensteht, die sein Malzeichen annehmen (13,13–17).
 
 Beginnen wir mit ein paar Beobachtungen, die in diese Richtung weisen:
+
+{{% study %}}
 
 - Der Drache und die beiden Tiere sind drei, wie die Heilige Dreifaltigkeit.
 - Der {{% bible val="Drache gibt dem ersten Tier alle Autorität" link="rev:13,2" lang="de" %}}, so wie {{% bible val="Gott Jesus alle Autorität im Himmel und auf Erden gibt" link="mat:28,18" lang="de" %}}.
@@ -117,12 +131,16 @@ Beginnen wir mit ein paar Beobachtungen, die in diese Richtung weisen:
 - {{% bible val="Es kann Feuer vom Himmel fallen lassen" link="rev:13,13" lang="de" %}}, was an {{% bible val="Elijas Zeichen für den wahren Gott" link="1ki:18,38" lang="de" %}} erinnert.
 - {{% bible val="Es kann ein Standbild zum Leben erwecken" link="rev:13,15" lang="de" %}}, was zeigt, dass es {{% bible val="mehr als nur ein Götze ist" link="psa:115,4-8" lang="de" %}} und an das {{% bible val="Wirken des Heiligen Geistes bei Hesekiel erinnert" link="ezk:37" lang="de" %}}.
 
+{{% /study %}}
 
-Zusammengenommen wird deutlich, dass Satan eine böse Dreifaltigkeit bildet:
+
+Es wird deutlich, dass Satan eine böse Dreifaltigkeit bildet (die Belege stehen im Kasten darüber):
 
 - der Drache, der Gott den Vater darstellt und alle Macht gibt an
 - das erste Tier, das aufersteht und Macht über alle Nationen hält, Jesus darstellt und angebetet wird vom
 - zweiten Tier, das als gefälschter Heiliger Geist auftritt, alle dazu bringt, das erste Tier anzubeten, Zeichen und Wunder vollbringt und das tote Bild zum Leben erweckt.
+
+{{% study %}}
 
 | Der Drache und die beiden Tiere | Vater, Sohn und Heiliger Geist |
 |---------------------------------|--------------------------------|
@@ -133,6 +151,8 @@ Zusammengenommen wird deutlich, dass Satan eine böse Dreifaltigkeit bildet:
 | {{% bible val="Zweite Tier spricht wie ein Drache" link="rev:13,11" lang="de" %}} | {{% bible val="Der Heilige Geist redet nicht aus sich selbst heraus" link="jhn:16,13" lang="de" %}} |
 | {{% bible val="Tut große Dinge vor den Menschen" link="rev:13,13-14" lang="de" %}} | {{% bible val="Jesus wirkt oft im Verborgenen" link="mat:9,30" lang="de" %}} ({{% bible val="Mk 5,43" link="mrk:5,43" lang="de" %}}) |
 | {{% bible val="Tötet alle, die ihn nicht anbeten" link="rev:13,15" lang="de" %}} | {{% bible val="Der Heilige Geist kann betrübt werden" link="eph:4,30" lang="de" %}} und {{% bible val="übt keinen Druck aus" link="2co:3,17" lang="de" %}} |
+
+{{% /study %}}
 
 ## Die dunkle Seite
 

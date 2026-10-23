@@ -60,11 +60,21 @@ Ada banyak perdebatan tentang siapa sebenarnya kedua saksi ini. Calon utamanya a
 
 Teks itu sendiri memberi kita petunjuk yang kita butuhkan. {{% bible val="Mereka adalah 'kedua pohon zaitun' dan kedua kaki dian, yang berdiri di hadapan Tuhan semesta bumi" link="rev:11,4" lang="ind" %}}. Ini adalah rujukan kepada {{% bible val="nabi Zakharia" link="zec:4,2-14" lang="ind" %}}, di mana gambaran yang sama diidentifikasikan dengan Imam Besar Yosua dan keturunan Daud, Zerubabel, tetapi ini juga rujukan {{% bible val="kepada ketujuh jemaat, yang diidentifikasikan dengan kaki dian-kaki dian itu" link="rev:1,20" lang="ind" %}}.
 
-Pembacaan ini semakin dikuatkan oleh {{% bible val="3,5 tahun" link="rev:11,3" lang="ind" %}}, yang {{% int_link val="merujuk pada seluruh masa antara kedatangan Yesus yang pertama dan yang kedua" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}. Rentang waktu sepanjang itu sulit dicocokkan dengan satu tokoh sejarah tertentu mana pun, itulah sebabnya para penafsir yang mengambil pendekatan ini menyimpulkan bahwa kedua saksi mewakili bukan sepasang pribadi, melainkan jemaat itu sendiri — salah satu dari beberapa pembacaan yang dipertahankan dalam literatur (yang lain menganggap mereka sebagai dua nabi akhir zaman secara pribadi, sepasang tokoh historis tertentu, atau rangkaian saksi setia sepanjang sejarah). Ini pada dasarnya adalah kerangka amilenial yang sama dengan yang diuraikan dalam {{% int_link val="perbandingan premilenialisme, postmilenialisme, dan amilenialisme" link="/expl/content/1000y/pre-post-and-amillennialism" %}} — sebuah pertanyaan yang terkait tetapi berbeda dari {{% int_link val="bagaimana pengangkatan berkaitan dengan masa tribulasi" link="/expl/topics/others/pre-mid-prewrath-or-post-tribulational" %}}, yang cenderung dijawab secara berbeda oleh kaum premilenialis dispensasional, yang membaca 3,5 tahun sebagai periode masa depan yang harfiah dan terikat pada dua saksi akhir zaman secara pribadi.
+Pembacaan ini semakin dikuatkan oleh {{% bible val="3,5 tahun" link="rev:11,3" lang="ind" %}}, yang {{% int_link val="merujuk pada seluruh masa antara kedatangan Yesus yang pertama dan yang kedua" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}. Rentang waktu sepanjang itu sulit dicocokkan dengan satu tokoh sejarah tertentu mana pun, itulah sebabnya para penafsir yang mengambil pendekatan ini menyimpulkan bahwa kedua saksi mewakili bukan sepasang pribadi, melainkan jemaat itu sendiri — salah satu dari beberapa pembacaan yang dipertahankan dalam literatur (yang lain menganggap mereka sebagai dua nabi akhir zaman secara pribadi, sepasang tokoh historis tertentu, atau rangkaian saksi setia sepanjang sejarah).
+
+{{% study %}}
+
+Ini pada dasarnya adalah kerangka amilenial yang sama dengan yang diuraikan dalam {{% int_link val="perbandingan premilenialisme, postmilenialisme, dan amilenialisme" link="/expl/content/1000y/pre-post-and-amillennialism" %}} — sebuah pertanyaan yang terkait tetapi berbeda dari {{% int_link val="bagaimana pengangkatan berkaitan dengan masa tribulasi" link="/expl/topics/others/pre-mid-prewrath-or-post-tribulational" %}}, yang cenderung dijawab secara berbeda oleh kaum premilenialis dispensasional, yang membaca 3,5 tahun sebagai periode masa depan yang harfiah dan terikat pada dua saksi akhir zaman secara pribadi.
+
+{{% /study %}}
 
 Meski begitu, ada banyak cara untuk mengaitkan kedua saksi ini dengan tokoh-tokoh tertentu, dan yang paling cocok adalah Musa dan Elia: mukjizat mereka sangat sesuai. {{% bible val="Menurunkan api dari langit atas musuh-musuh mereka" link="rev:11,5" lang="ind" %}} sangat khas {{% bible val="Elia yang menurunkan api dari langit" link="2ki:1,9-12" lang="ind" %}}, begitu pula {{% bible val="menghentikan hujan" link="rev:11,6" lang="ind" %}}, yang {{% bible val="mencerminkan pelayanan Elia" link="jas:5,17" lang="ind" %}}, sementara mengubah {{% bible val="air menjadi darah" link="rev:11,6" lang="ind" %}} mencerminkan {{% bible val="tulah pertama pada zaman Musa" link="exo:7,14-24" lang="ind" %}}.
 
+{{% study %}}
+
 Pasangan ini memiliki latar belakang yang layak diketahui. Tidak ada bukti adanya harapan Yahudi bahwa Musa dan Elia akan datang kembali bersama-sama. Yang memang ditunjukkan sumber-sumber itu, di sini dan di sana, adalah harapan bahwa **Henokh** dan Elia akan datang kembali untuk menyingkapkan tipu daya Antikristus - dua orang yang, dalam Alkitab, tidak mati: {{% bible val="Henokh diangkat oleh Allah" link="gen:5,24" lang="ind" %}}, dan {{% bible val="Elia naik dalam angin badai" link="2ki:2,11" lang="ind" %}}. Kisah-kisah yang lebih kemudian, di mana keduanya kembali, berkhotbah dan dibunuh, semuanya menunjukkan pengaruh Wahyu 11, bukan melatarbelakanginya. Jadi kecocokan dengan Musa dan Elia bersandar pada mukjizat-mukjizat dalam teks itu, bukan pada tradisi yang diwarisi Yohanes.[^tradition]
+
+{{% /study %}}
 
 Namun perhatikan bahwa kedua saksi ini tidak digambarkan sebagai seorang Musa dan seorang Elia yang bekerja berdampingan, melainkan sebagai dua sosok yang bertindak sebagai satu pribadi. Jadi, realitas tunggal apa yang mereka wakili bersama-sama? Jemaat — sebab hanya jemaatlah yang membentang sepanjang masa hidup selama itu. Pasangan ini dapat dipahami dengan beberapa cara. Salah satu kemungkinannya adalah:
 
@@ -97,7 +107,13 @@ Mereka juga mampu melakukan tanda-tanda dan mukjizat. Dalam latar belakang Perja
 
 ## Kekalahan yang berubah menjadi kemenangan
 
-{{% bible val="Mereka dikalahkan oleh binatang itu" link="rev:11,7" lang="ind" %}}. Bagaimana mungkin ini terjadi, mengingat Yesus berkata bahwa {{% bible val="jemaat tidak akan dikalahkan" link="mat:16,18" lang="ind" %}}? Kedua pernyataan ini sebenarnya tidak saling bertentangan. Jika Anda memeriksa teks dalam [Matius](https://biblehub.com/interlinear/matthew/16-18.htm), kata yang diterjemahkan "[dikalahkan](https://biblehub.com/greek/2729.htm)" di sana berbeda dari [kata](https://biblehub.com/greek/3528.htm) yang dipakai dalam [Kitab Wahyu](https://biblehub.com/interlinear/revelation/11-7.htm). Kata dalam Kitab Wahyu (nikaō) menggambarkan sebuah kemenangan tunggal yang menentukan dalam sebuah pertarungan tertentu; kata dalam Matius (katischuō) berbicara tentang pintu gerbang alam maut yang gagal menang dalam jangka panjang. Perbedaan kosakata ini bersifat sugestif, bukan konklusif, tetapi cocok dengan inti persoalan yang lebih besar: kekalahan sementara dan lokal atas kedua saksi tidak bertentangan dengan janji Yesus bahwa jemaat secara keseluruhan pada akhirnya tidak akan jatuh.
+{{% bible val="Mereka dikalahkan oleh binatang itu" link="rev:11,7" lang="ind" %}}. Bagaimana mungkin ini terjadi, mengingat Yesus berkata bahwa {{% bible val="jemaat tidak akan dikalahkan" link="mat:16,18" lang="ind" %}}? Kedua pernyataan ini sebenarnya tidak saling bertentangan: kekalahan sementara dan lokal atas kedua saksi tidak bertentangan dengan janji Yesus bahwa jemaat secara keseluruhan pada akhirnya tidak akan jatuh.
+
+{{% study %}}
+
+Jika Anda memeriksa teks dalam [Matius](https://biblehub.com/interlinear/matthew/16-18.htm), kata yang diterjemahkan "[dikalahkan](https://biblehub.com/greek/2729.htm)" di sana berbeda dari [kata](https://biblehub.com/greek/3528.htm) yang dipakai dalam [Kitab Wahyu](https://biblehub.com/interlinear/revelation/11-7.htm). Kata dalam Kitab Wahyu (nikaō) menggambarkan sebuah kemenangan tunggal yang menentukan dalam sebuah pertarungan tertentu; kata dalam Matius (katischuō) berbicara tentang pintu gerbang alam maut yang gagal menang dalam jangka panjang. Perbedaan kosakata ini bersifat sugestif, bukan konklusif.
+
+{{% /study %}}
 
 Yang terpenting, kedua saksi ini dikalahkan hanya "setelah mereka menyelesaikan kesaksian mereka." Misi mereka selesai sebelum kematian mereka, bukan terputus olehnya. Jemaat tampak, di permukaan, telah dikalahkan: {{% bible val="seluruh dunia berpesta karena kedua saksi itu kini telah dibungkam" link="rev:11,8-10" lang="ind" %}}, bahkan {{% bible val="mempermalukan" link="1sa:17,44-46" lang="ind" %}} mereka dalam kematian dengan membiarkan {{% bible val="mereka tidak dikuburkan" link="rev:11,8" lang="ind" %}}. Tetapi kekalahan itu berubah menjadi kemenangan: setelah 3,5 hari — sebuah gema yang disengaja dari 3,5 tahun — mereka dibangkitkan dan diangkat ke surga, sama seperti Yesus.
 
@@ -115,7 +131,9 @@ Kedua saksi bukanlah satu-satunya pasangan dalam kitab ini: kedua binatang buas 
 
 Kedua binatang itu disandingkan dalam {{% int_link val="Naga dan Kedua Binatang" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e" %}}.
 
-Namun selain itu, {{% bible val="kedua saksi" link="rev:11,3-13" lang="ind" %}} dan {{% bible val="kedua binatang buas" link="rev:13" lang="ind" %}} sangat berbeda, sebagaimana ditunjukkan perbandingan berikut ini.
+Namun selain itu, {{% bible val="kedua saksi" link="rev:11,3-13" lang="ind" %}} dan {{% bible val="kedua binatang buas" link="rev:13" lang="ind" %}} sangat berbeda, sebagaimana ditunjukkan oleh poin-poin di bawah ini.
+
+{{% study %}}
 
 | Tema | Kedua binatang buas | Kedua saksi |
 |-------|-----------|------------|
@@ -127,6 +145,8 @@ Namun selain itu, {{% bible val="kedua saksi" link="rev:11,3-13" lang="ind" %}} 
 | kesombongan | {{% bible val="Binatang pertama" link="rev:13,4-6" lang="ind" %}} dan {{% bible val="binatang kedua" link="rev:13,11-15" lang="ind" %}} *berpura-pura menjadi Allah dan menghina Allah*. | Orang-orang bersukacita *karena kedua saksi itu telah mati dan memamerkan jenazah mereka* {{% bible val="Why 11:9-10" link="rev:11,8-10" lang="ind" %}} |
 | Mengalahkan | {{% bible val="Binatang pertama" link="rev:13,7" lang="ind" %}} dan {{% bible val="binatang kedua" link="rev:13,15" lang="ind" %}} *membunuh musuh-musuh mereka*. </br> Setiap orang tunduk dan memberikan kesetiaannya kepada {{% bible val="binatang pertama" link="rev:13,8" lang="ind" %}} dan {{% bible val="binatang kedua" link="rev:13,16-17" lang="ind" %}}. </br>Tetapi *TIDAK dengan orang-orang percaya*. | Orang-orang kudus akan *dipulihkan dan ditinggikan* {{% bible val="Why 11:11-12" link="rev:11,11-12" lang="ind" %}}</br>Semua yang lain akan *dihakimi atau memberikan kemuliaan kepada Allah.* {{% bible val="Why 11:13-14" link="rev:11,13-14" lang="ind" %}} |
 | Perhatian! | {{% bible val="Binatang pertama" link="rev:13,9-10" lang="ind" %}} dan {{% bible val="binatang kedua" link="rev:13,18" lang="ind" %}} memiliki *bahaya tersembunyi* | *Kemenangan yang tampak secara nyata*: Kerajaan Allah telah hadir {{% bible val="Why 11:15-19" link="rev:11,15-19" lang="ind" %}} |
+
+{{% /study %}}
 
 Keduanya, dengan caranya masing-masing, berusaha mencerminkan {{% bible val="Yesus sang pemenang" link="rev:12,1-12" lang="ind" %}} — tetapi tiruan itu hampa. Perbedaan-perbedaan berikut membuatnya jelas:
 

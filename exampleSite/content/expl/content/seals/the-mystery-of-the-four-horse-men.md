@@ -52,6 +52,8 @@ There are two main interpretations, and both have their merits — and both stil
 - The first rider is a good figure: for instance, {{% bible val="the gospel being preached all over the world" link="mrk:13,10" lang="en" %}}.
 - The first rider embodies an evil character, like the other riders.
 
+{{% study %}}
+
 ## First observations
 
 <a name="0edc"></a>
@@ -62,6 +64,8 @@ First, a text in the prophet Zechariah describes {{% bible val="several horses o
 Looking at the horsemen themselves, we see both similarities and differences between them. All four are called to act; none of them act on their own. Each rider is given some item to act with. Yet the first horseman is uniquely marked out by a doubled verb in the Greek — he "rides out conquering, and in order that he might conquer" — an emphatic construction not used for the others. The activity of the first rider stays vague ("conquer"), while for the others it is spelled out clearly: bring war, hunger, and death.
 
 The third rider is different again: he lacks the clause "and it was given." Instead, he simply holds the instrument in his hands, which stands for a divine activity or authorization in its own right, and a statement is issued from the throne, from the midst of the four living creatures, rather than being handed to him directly.
+
+{{% /study %}}
 
 ## The mystery of the third horseman
 
@@ -80,6 +84,10 @@ So this is a famine, serious but limited. A day's wage buys just enough grain to
 
 <a name="bd9c"></a>
 “I watched as the Lamb opened the first of the seven seals. Then I heard one of the four living creatures say in a voice like thunder, ‘Come!’ 2 I looked, and there before me was a white horse! Its rider held a bow, and he was given a crown, and he rode out as a conqueror bent on conquest.”
+
+Commentators weigh the evidence both ways. The resolution below gives the reading this site follows; the evidence on each side is in the box.
+
+{{% study %}}
 
 There are some reasonable arguments for reading this horseman as good:
 
@@ -101,6 +109,8 @@ This is confusing — why are there references pointing to both a good and an ev
 
 - A bow in a human hand appears earlier than Esau's: {{% bible val="Ishmael grows up in the desert to be an archer" link="gen:21,20" lang="en" %}}, and his mother lays him down {{% bible val="about a bowshot away" link="gen:21,16" lang="en" %}} to wait for him to die. {{% bible val="Esau's hunting bow" link="gen:27" lang="en" %}} is the usual example, but neither story makes a bow evil in itself, and the very first bow in the Bible is the rainbow, a covenant sign ({{% bible val="Genesis 9:13" link="gen:9,13" lang="en" %}}). The weight of this argument rests on Ezekiel's Gog, not on Genesis.
 - The three speeches Jesus gives about the end times, in {{% bible val="Mark" link="mrk:13,5-9" lang="en" %}}, {{% bible val="Matthew" link="mat:24,4-8" lang="en" %}}, and {{% bible val="Luke" link="luk:21,8-11" lang="en" %}}, follow the same order found in Revelation: all three open with something like "Beware that you are not deceived, because many will come in my name." War always comes second, then famine, and in Luke this is followed by "pestilence" as well.
+
+{{% /study %}}
 
 ## The resolution
 

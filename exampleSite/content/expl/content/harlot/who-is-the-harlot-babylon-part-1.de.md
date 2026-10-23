@@ -49,7 +49,11 @@ Das sind viele Akteure für ein Kapitel, aber jeder wird gebraucht, um das Bild 
 ## Das scharlachrote Tier
 
 <a name="0e13"></a>
-Dieses Tier hat viele Parallelen zum ersten Tier in Kapitel 13. Die folgende Tabelle markiert übereinstimmende Details in **fett** und übereinstimmende Ergebnisse in *kursiv*.
+Dieses Tier hat viele Parallelen zum ersten Tier in Kapitel 13.
+
+{{% study %}}
+
+Die folgende Tabelle markiert übereinstimmende Details in **fett** und übereinstimmende Ergebnisse in *kursiv*.
 
 | Das erste Tier aus Offenbarung 13 | Das Tier auf Offenbarung 17 |
 |-----------------------------------|-----------------------------|
@@ -59,6 +63,8 @@ Dieses Tier hat viele Parallelen zum ersten Tier in Kapitel 13. Die folgende Tab
 | {{% bible val="Gotteslästerliche Reden" link="rev:13,5-6" lang="de" %}} | {{% bible val="Gotteslästerliche Name" link="rev:17,3" lang="de" %}} |
 | {{% bible val="Kämpft gegen Heilige und besiegt sie" link="rev:13,7" lang="de" %}} | {{% bible val="Kämpft gegen Lamm und wird überwunden" link="rev:17,14" lang="de" %}} </br> {{% bible val="Kämpft gegen Hure und vernichtet sie" link="rev:17,16" lang="de" %}} |
 | {{% bible val="Alle, die nicht im Buch des Lebens geschrieben sind beten das Tier an" link="rev:13,8" lang="de" %}} | {{% bible val="Alle, die nicht im Buch des Lebens geschrieben sind sind überwältigt" link="rev:17,8" lang="de" %}} |
+
+{{% /study %}}
 
 Dieses Tier ist zugleich ein Bild des Kaisers, einschließlich der militärischen Macht, und seine scharlachrote Farbe weist auf Königtum hin.
 
@@ -75,11 +81,27 @@ Dies ist eine Parodie auf Gottes eigene Beschreibung als der Ewige in Offb. 1,8,
 <a name="09b7"></a>
 Die sieben Hügel, auf denen die Frau sitzt, sind {{% bible val="sieben Hügel" link="rev:17,9" lang="de" %}}, die Rom identifizieren — ein nahezu einhelliges Fazit unter Auslegern, da Rom in der Antike als „die Stadt auf sieben Hügeln" bekannt war. Für die ersten Leser war Rom der Sitz des Kaisers, gepriesen als Herr der Herren und König der Könige, als wäre er Gott gleich — das ist keine Prophezeiung über den Papst oder irgendjemand anderen, der später zufällig in Rom lebte.
 
+{{% study %}}
+
 Zugleich können Hügel auch für Königreiche stehen, denn der Text deutet sie im weiteren Verlauf als Könige, und jedem König ist ein Königreich zugeordnet. Diese Lesart wird gestützt durch das größte Königreich, das in {{% bible val="Jesaja" link="isa:2,2" lang="de" %}} als Berg dargestellt wird, durch {{% bible val="Babel, das als Berg beschrieben wird" link="jer:51,25" lang="de" %}}, und durch den {{% bible val="Berg, der bei Daniel die Erde erfüllt als das neue gottgemäße Königreich" link="dan:2,35" lang="de" %}}. Edoms eigenes bergiges Stammland gab Anlass zu einer ähnlichen Sprache ({{% bible val="Edoms Berg, der Berg Seïr" link="ezk:35,3" lang="de" %}}), wobei dort der Berg Edoms buchstäbliches Gebiet ist und kein rein symbolisches Bild.
 
-[Wer sind die sieben Könige?](https://www.bibleserver.com/SLT/Offenbarung17%2C10) Fünf sind bereits gefallen, einer regiert gegenwärtig, und ein siebter muss noch kommen und wird nur kurz regieren. Zusammen beschreiben sie eine chronologische Abfolge und zeigen, dass die Könige das Tier während dieser ganzen Zeitspanne unterstützen. Dies ist einer der am meisten diskutierten Abschnitte der Offenbarung, wenn es um die Datierung des Buches geht: Manche Forscher versuchen, tatsächliche Kaiser ab Julius Caesar oder Augustus durchzuzählen, um bei einem bestimmten „sechsten König" (meist Nero) zu landen, und argumentieren, dass dies auf ein Datum in den späten 60er Jahren n. Chr. hindeutet; die Mehrheitsmeinung folgt dem eigenen Zeugnis der frühen Kirche (Irenäus), dass Johannes unter Domitian Mitte der 90er Jahre n. Chr. schrieb, und liest die Abfolge eher symbolisch, so wie wir es hier tun. Wir werden nicht versuchen, einen bestimmten sechsten König zu benennen; es geht nicht um eine exakte Kopfzählung, sondern darum, dass der letzte Countdown nahe ist, {{% bible val="ein Aufruf, wachsam zu bleiben" link="rev:16,15" lang="de" %}}. Eine ausführlichere Betrachtung, wie diese Datierungsfrage sich durch die ganze Seite zieht, findet sich unter {{% int_link val="wer die Offenbarung schrieb, und wann" link="/expl/topics/others/who-wrote-revelation-and-when" %}}.
+{{% /study %}}
 
-Das Tier selbst {{% bible val="kommt dann als ein achter König, der zugleich einer der Sieben ist" link="rev:17,11" lang="de" %}}. In der späteren christlichen Tradition (wenn auch nicht im Wortschatz des Neuen Testaments selbst) wurde der Sonntag als „der achte Tag" bezeichnet, als Symbol für den Beginn einer neuen Schöpfung nach Christi Auferstehung „am dritten Tag" ({{% bible val="Christus am dritten Tag auferweckt" link="1co:15,4" lang="de" %}}). Wenn diese spätere Assoziation hier im Blick ist, wäre das Auftreten des Tieres als achter König ein falscher Anspruch auf dieselbe Art von Erneuerung — eine gefälschte Auferstehung. Das Thema der eigenen Auferstehung des Tieres ist bereits {{% bible val="in Kapitel 13" link="rev:13,3-4" lang="de" %}} und in {{% bible val="Kapitel 16" link="rev:16,13" lang="de" %}} aufgetaucht, wo die Frösche sowohl an die Froschplage in Ägypten als auch an die ägyptische Göttin Heqet erinnern, die mit Geburt und Auferstehung in Verbindung gebracht wird.[^frogs] Setzt man diese Teile zusammen, liest sich das Auftreten des Tieres am achten Tag als Anspruch auf Unbesiegbarkeit. Doch das ist ein falscher Anspruch: Es wurde bereits entlarvt als „das, was war und nicht ist und ins Verderben geht". Das bestätigt, dass das Tier eines der Sieben ist — kein Superheld, der über ihnen steht.
+[Wer sind die sieben Könige?](https://www.bibleserver.com/SLT/Offenbarung17%2C10) Fünf sind bereits gefallen, einer regiert gegenwärtig, und ein siebter muss noch kommen und wird nur kurz regieren. Zusammen beschreiben sie eine chronologische Abfolge und zeigen, dass die Könige das Tier während dieser ganzen Zeitspanne unterstützen. Wir werden nicht versuchen, einen bestimmten sechsten König zu benennen; es geht nicht um eine exakte Kopfzählung, sondern darum, dass der letzte Countdown nahe ist, {{% bible val="ein Aufruf, wachsam zu bleiben" link="rev:16,15" lang="de" %}}. Eine ausführlichere Betrachtung, wie diese Datierungsfrage sich durch die ganze Seite zieht, findet sich unter {{% int_link val="wer die Offenbarung schrieb, und wann" link="/expl/topics/others/who-wrote-revelation-and-when" %}}.
+
+{{% study %}}
+
+Dies ist einer der am meisten diskutierten Abschnitte der Offenbarung, wenn es um die Datierung des Buches geht: Manche Forscher versuchen, tatsächliche Kaiser ab Julius Caesar oder Augustus durchzuzählen, um bei einem bestimmten „sechsten König" (meist Nero) zu landen, und argumentieren, dass dies auf ein Datum in den späten 60er Jahren n. Chr. hindeutet; die Mehrheitsmeinung folgt dem eigenen Zeugnis der frühen Kirche (Irenäus), dass Johannes unter Domitian Mitte der 90er Jahre n. Chr. schrieb, und liest die Abfolge eher symbolisch, so wie wir es hier tun.
+
+{{% /study %}}
+
+Das Tier selbst {{% bible val="kommt dann als ein achter König, der zugleich einer der Sieben ist" link="rev:17,11" lang="de" %}}. Das Tier gibt sich unbesiegbar, als Fälschung der Auferstehung. Doch es wurde längst entlarvt als „das, was war und nicht ist und ins Verderben geht": Es ist einer der Sieben, kein Superheld, der über ihnen steht.
+
+{{% study %}}
+
+In der späteren christlichen Tradition (wenn auch nicht im Wortschatz des Neuen Testaments selbst) wurde der Sonntag als „der achte Tag" bezeichnet, als Symbol für den Beginn einer neuen Schöpfung nach Christi Auferstehung „am dritten Tag" ({{% bible val="Christus am dritten Tag auferweckt" link="1co:15,4" lang="de" %}}). Wenn diese spätere Assoziation hier im Blick ist, wäre das Auftreten des Tieres als achter König ein falscher Anspruch auf dieselbe Art von Erneuerung — eine gefälschte Auferstehung. Das Thema der eigenen Auferstehung des Tieres ist bereits {{% bible val="in Kapitel 13" link="rev:13,3-4" lang="de" %}} und in {{% bible val="Kapitel 16" link="rev:16,13" lang="de" %}} aufgetaucht, wo die Frösche sowohl an die Froschplage in Ägypten als auch an die ägyptische Göttin Heqet erinnern, die mit Geburt und Auferstehung in Verbindung gebracht wird.[^frogs] Setzt man diese Teile zusammen, liest sich das Auftreten des Tieres am achten Tag als Anspruch auf Unbesiegbarkeit. Doch das ist ein falscher Anspruch: Es wurde bereits entlarvt als „das, was war und nicht ist und ins Verderben geht". Das bestätigt, dass das Tier eines der Sieben ist — kein Superheld, der über ihnen steht.
+
+{{% /study %}}
 
 ## Die 10 Könige
 
@@ -91,7 +113,11 @@ Ihr erklärtes Ziel ist es, Krieg gegen das Lamm zu führen. Die Dinge entwickel
 ## Die Hure
 
 <a name="f764"></a>
-Sie hat viele Parallelen — meist als bewusster Kontrast — zur Braut in Kapitel 21 und zur Frau in Kapitel 12. Die Tabelle markiert **fett**, was übereinstimmt, und *kursiv*, was sich unterscheidet.[^women]
+Die Hure ist das Spiegelbild der Frau aus Kapitel 12 und der Braut aus den Kapiteln 19–21: eine Stadt ohne Gott, der Stadt Gottes gegenübergestellt.[^women] Sie ähnelt auch Isebel von Thyatira: Täuschung, Zauberei, Gier, die Tötung der Heiligen und ein plötzliches Gericht.
+
+{{% study %}}
+
+Die erste Tabelle markiert **fett**, was übereinstimmt, und *kursiv*, was sich unterscheidet.
 
 | Die Frau in Kapitel 12 | Die Hure in Kapitel 17 | Die Braut in Kapitel 19 und 21 |
 |---|---|---|
@@ -123,6 +149,8 @@ Sie teilt außerdem viele Gemeinsamkeiten mit Isebel, die in {{% bible val="Thya
 | **{{% bible val="Gott sühnt das Blut der Zeugen" link="2ki:9,7" lang="de" %}}** | **{{% bible val="Gott sühnt das Blut der Zeugen" link="rev:19,2" lang="de" %}}** |
 | **{{% bible val="Gericht kommt schnell" link="2ki:9,33-35" lang="de" %}}** | **{{% bible val="Gericht kommt schnell" link="rev:18,10" lang="de" %}}** ({{% bible val="Offb 18,17" link="rev:18,17" lang="de" %}}, {{% bible val="Offb 18,19" link="rev:18,19" lang="de" %}}) |
 | **{{% bible val="Gott richtet die Nachfolger" link="1ki:18,40" lang="de" %}}** ({{% bible val="2.Kön 10,19" link="2ki:10,19" lang="de" %}}) | **{{% bible val="Gott richtet die Nachfolger" link="rev:18,9-11" lang="de" %}}** ({{% bible val="Offb 2,23" link="rev:2,23" lang="de" %}}) |
+
+{{% /study %}}
 
 Schließlich wirkt sie Seite an Seite mit dem zweiten Tier aus Kapitel 13, ohne dieselbe Gestalt zu sein.[^apart] Sie tut in Handel und Kultur, was das zweite Tier in der Religion tut.[^alike]
 

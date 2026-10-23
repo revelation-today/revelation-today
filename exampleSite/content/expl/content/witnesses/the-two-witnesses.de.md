@@ -60,11 +60,21 @@ In der Vision werden manche Teile des Tempels vermessen und von Gott beansprucht
 
 Der Text selbst gibt uns den entscheidenden Hinweis. {{% bible val="Sie sind 'die zwei Ölbäume' und die zwei Leuchter, und sie stehen vor dem Herrn der Erde" link="rev:11,4" lang="de" %}}. Das ist ein Verweis auf {{% bible val="den Propheten Sacharja" link="zec:4,2-14" lang="de" %}}, wo dieselbe Bildsprache mit dem Hohepriester Josua und dem davidischen Nachkommen Serubbabel identifiziert wird, zugleich aber auch ein Verweis {{% bible val="auf die sieben Gemeinden, die mit den Leuchtern identifiziert werden" link="rev:1,20" lang="de" %}}.
 
-Bestätigt wird diese Deutung durch die {{% bible val="dreieinhalb Jahre" link="rev:11,3" lang="de" %}}, die {{% int_link val="sich auf die gesamte Zeit zwischen Jesu erstem und zweitem Kommen beziehen" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}. Eine so lange Zeitspanne passt nur schwer zu einer einzelnen historischen Person, weshalb Ausleger, die diesen Ansatz vertreten, schließen, dass die Zeugen nicht ein Personenpaar, sondern die Gemeinde selbst darstellen – eine von mehreren Lesarten, die in der Literatur vertreten werden (andere sehen in ihnen zwei einzelne Endzeitpropheten, ein bestimmtes historisches Paar oder eine Abfolge treuer Zeugen durch die Geschichte hindurch). Das ist im Wesentlichen derselbe amillennialistische Rahmen, der in {{% int_link val="Prämillennialismus, Postmillennialismus und Amillennialismus im Vergleich" link="/expl/content/1000y/pre-post-and-amillennialism" %}} ausführlicher dargestellt wird – eine verwandte, aber eigenständige Frage gegenüber der, {{% int_link val="wie sich die Entrückung zur Trübsal verhält" link="/expl/topics/others/pre-mid-prewrath-or-post-tribulational" %}}, die dispensationalistische Prämillennialisten, welche die dreieinhalb Jahre als eine buchstäbliche, zukünftige Zeitspanne lesen, die an zwei einzelne endzeitliche Zeugen gebunden ist, tendenziell anders beantworten.
+Bestätigt wird diese Deutung durch die {{% bible val="dreieinhalb Jahre" link="rev:11,3" lang="de" %}}, die {{% int_link val="sich auf die gesamte Zeit zwischen Jesu erstem und zweitem Kommen beziehen" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}. Eine so lange Zeitspanne passt nur schwer zu einer einzelnen historischen Person, weshalb Ausleger, die diesen Ansatz vertreten, schließen, dass die Zeugen nicht ein Personenpaar, sondern die Gemeinde selbst darstellen – eine von mehreren Lesarten, die in der Literatur vertreten werden (andere sehen in ihnen zwei einzelne Endzeitpropheten, ein bestimmtes historisches Paar oder eine Abfolge treuer Zeugen durch die Geschichte hindurch).
+
+{{% study %}}
+
+Das ist im Wesentlichen derselbe amillennialistische Rahmen, der in {{% int_link val="Prämillennialismus, Postmillennialismus und Amillennialismus im Vergleich" link="/expl/content/1000y/pre-post-and-amillennialism" %}} ausführlicher dargestellt wird – eine verwandte, aber eigenständige Frage gegenüber der, {{% int_link val="wie sich die Entrückung zur Trübsal verhält" link="/expl/topics/others/pre-mid-prewrath-or-post-tribulational" %}}, die dispensationalistische Prämillennialisten, welche die dreieinhalb Jahre als eine buchstäbliche, zukünftige Zeitspanne lesen, die an zwei einzelne endzeitliche Zeugen gebunden ist, tendenziell anders beantworten.
+
+{{% /study %}}
 
 Dennoch gibt es viele Möglichkeiten, die Zeugen mit bestimmten Gestalten in Verbindung zu bringen, und die beste Übereinstimmung bieten Mose und Elia: Ihre Wunder stimmen genau überein. {{% bible val="Feuer vom Himmel auf ihre Feinde fallen zu lassen" link="rev:11,5" lang="de" %}} ist sehr typisch für {{% bible val="Elia, der Feuer vom Himmel herabrief" link="2ki:1,9-12" lang="de" %}}, ebenso wie {{% bible val="den Regen zu stoppen" link="rev:11,6" lang="de" %}}, was {{% bible val="Elias Wirken widerspiegelt" link="jas:5,17" lang="de" %}}, während die Verwandlung von {{% bible val="Wasser zu Blut" link="rev:11,6" lang="de" %}} {{% bible val="die erste Plage unter Mose widerspiegelt" link="exo:7,14-24" lang="de" %}}.
 
+{{% study %}}
+
 Die Paarung hat eine Vorgeschichte, die man kennen sollte. Es gibt keinen Hinweis auf eine jüdische Erwartung, Mose und Elia würden gemeinsam zurückkehren. Was die Quellen hier und dort zeigen, ist die Erwartung, dass **Henoch** und Elia zurückkommen würden, um die Täuschungen des Antichristen aufzudecken — zwei Männer, die in der Bibel nicht sterben: {{% bible val="Henoch wurde von Gott hinweggenommen" link="gen:5,24" lang="de" %}}, und {{% bible val="Elia fuhr im Wirbelwind auf" link="2ki:2,11" lang="de" %}}. Die späteren Erzählungen, in denen diese beiden zurückkehren, predigen und getötet werden, zeigen alle den Einfluss von Offenbarung 11 — sie stehen nicht dahinter. Die Übereinstimmung mit Mose und Elia ruht also auf den Wundern im Text, nicht auf einer Tradition, die Johannes übernommen hat.[^tradition]
+
+{{% /study %}}
 
 Bemerkenswert ist jedoch, dass die beiden Zeugen nicht als ein Mose und ein Elia dargestellt werden, die nebeneinander wirken, sondern als zwei Gestalten, die wie eine einzige handeln. Welche einzelne Wirklichkeit spiegeln sie also gemeinsam wider? Die Gemeinde – denn nur die Gemeinde erstreckt sich über eine so lange Lebenszeit, wie hier beschrieben. Die Paarung lässt sich auf verschiedene Weise deuten. Eine Möglichkeit ist:
 
@@ -97,7 +107,13 @@ Sie können außerdem Zeichen und Wunder tun. Im alttestamentlichen Hintergrund 
 
 ## Niederlage wird zum Sieg
 
-{{% bible val="Sie werden vom Tier überwunden" link="rev:11,7" lang="de" %}}. Wie ist das möglich, wenn Jesus doch gesagt hat, {{% bible val="die Gemeinde werde nicht überwältigt werden" link="mat:16,18" lang="de" %}}? Die beiden Aussagen stehen tatsächlich nicht im Widerspruch zueinander. Schaut man sich den Text bei [Matthäus](https://biblehub.com/interlinear/matthew/16-18.htm) an, stellt man fest, dass das dort mit „[überwältigen](https://biblehub.com/greek/2729.htm)" übersetzte Wort ein anderes ist als das [Wort](https://biblehub.com/greek/3528.htm), das in der [Offenbarung](https://biblehub.com/interlinear/revelation/11-7.htm) verwendet wird. Das Wort der Offenbarung (nikaō) beschreibt einen einzelnen, entscheidenden Sieg innerhalb eines bestimmten Kampfes; das Wort bei Matthäus (katischuō) spricht davon, dass die Pforten des Hades auf lange Sicht nicht die Oberhand gewinnen. Der Unterschied im Wortlaut ist eher ein Hinweis als ein Beweis, aber er passt zum größeren Punkt: Eine vorübergehende, örtlich begrenzte Niederlage der Zeugen widerspricht nicht Jesu Verheißung, dass die Gemeinde als Ganzes letztlich nicht fallen wird.
+{{% bible val="Sie werden vom Tier überwunden" link="rev:11,7" lang="de" %}}. Wie ist das möglich, wenn Jesus doch gesagt hat, {{% bible val="die Gemeinde werde nicht überwältigt werden" link="mat:16,18" lang="de" %}}? Die beiden Aussagen stehen tatsächlich nicht im Widerspruch zueinander: eine vorübergehende, örtlich begrenzte Niederlage der Zeugen widerspricht nicht Jesu Verheißung, dass die Gemeinde als Ganzes letztlich nicht fallen wird.
+
+{{% study %}}
+
+Schaut man sich den Text bei [Matthäus](https://biblehub.com/interlinear/matthew/16-18.htm) an, stellt man fest, dass das dort mit „[überwältigen](https://biblehub.com/greek/2729.htm)" übersetzte Wort ein anderes ist als das [Wort](https://biblehub.com/greek/3528.htm), das in der [Offenbarung](https://biblehub.com/interlinear/revelation/11-7.htm) verwendet wird. Das Wort der Offenbarung (nikaō) beschreibt einen einzelnen, entscheidenden Sieg innerhalb eines bestimmten Kampfes; das Wort bei Matthäus (katischuō) spricht davon, dass die Pforten des Hades auf lange Sicht nicht die Oberhand gewinnen. Der Unterschied im Wortlaut ist eher ein Hinweis als ein Beweis.
+
+{{% /study %}}
 
 Am wichtigsten ist, dass die Zeugen erst besiegt werden, „nachdem sie ihr Zeugnis vollendet haben". Ihre Aufgabe ist abgeschlossen, bevor sie sterben, nicht durch ihren Tod unterbrochen. Die Gemeinde scheint an der Oberfläche besiegt zu sein: {{% bible val="die ganze Welt feiert, weil die Zeugen nun verstummt sind" link="rev:11,9-10" lang="de" %}}, und {{% bible val="demütigt sie sogar im Tod" link="1sa:17,44-46" lang="de" %}}, indem sie {{% bible val="sie unbegraben liegen lässt" link="rev:11,8" lang="de" %}}. Aber diese Niederlage wird in einen Sieg verwandelt: Nach dreieinhalb Tagen – ein bewusster Widerhall der dreieinhalb Jahre – werden sie auferweckt und in den Himmel emporgehoben, genau wie Jesus.
 
@@ -115,7 +131,9 @@ Die beiden Zeugen sind nicht das einzige Paar im Buch: Auch die beiden Tiere aus
 
 Die beiden Tiere werden in {{% int_link val="Der Drache und die zwei Tiere" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e" %}} nebeneinandergestellt.
 
-Ansonsten sind die {{% bible val="Zeugen" link="rev:11,3-13" lang="de" %}} und die {{% bible val="Tiere" link="rev:13" lang="de" %}} jedoch sehr verschieden, wie der folgende Vergleich zeigt.
+Ansonsten sind die {{% bible val="Zeugen" link="rev:11,3-13" lang="de" %}} und die {{% bible val="Tiere" link="rev:13" lang="de" %}} jedoch sehr verschieden, wie die folgenden Punkte zeigen.
+
+{{% study %}}
 
 | Thema | Die Tiere | Die Zeugen |
 |-------|-----------|------------|
@@ -127,6 +145,8 @@ Ansonsten sind die {{% bible val="Zeugen" link="rev:11,3-13" lang="de" %}} und d
 | Prahlerei | {{% bible val="Das erste" link="rev:13,4-6" lang="de" %}} und das {{% bible val="zweite" link="rev:13,11-15" lang="de" %}} *Tier geben vor, Gott zu sein, und verhöhnen Gott*. | Menschen freuen sich, *dass die Zeugen tot sind, und stellen ihre Leichen zur Schau* {{% bible val="Offb 11,9-10" link="rev:11,9-10" lang="de" %}} |
 | Überwinden | Das {{% bible val="erste" link="rev:13,7" lang="de" %}} und das {{% bible val="zweite" link="rev:13,15" lang="de" %}} Tier *töten ihre Feinde*. </br> Jeder unterwirft sich und schenkt dem {{% bible val="ersten" link="rev:13,8" lang="de" %}} und dem {{% bible val="zweiten" link="rev:13,16-17" lang="de" %}} Tier seine Treue. </br>Aber *nicht die Gläubigen*. | Die Heiligen werden *wiederhergestellt und erhöht* {{% bible val="Offb 11,11-12" link="rev:11,11-12" lang="de" %}}</br> Alle anderen werden *entweder gerichtet oder geben Gott die Ehre*. {{% bible val="Offb 11,13-14" link="rev:11,13-14" lang="de" %}} |
 | Achtung! | Das {{% bible val="erste" link="rev:13,9-10" lang="de" %}} und das {{% bible val="zweite Tier" link="rev:13,18" lang="de" %}} bergen *verborgene Gefahren* | *Ausgedehnter, sichtbarer Triumph*: Gottes Reich ist da {{% bible val="Offb 11,15-19" link="rev:11,15-19" lang="de" %}} |
+
+{{% /study %}}
 
 Beide versuchen auf ihre eigene Weise, {{% bible val="Jesus, den Überwinder, widerzuspiegeln" link="rev:12,1-12" lang="de" %}} – aber die Nachahmung bleibt hohl. Die Unterschiede zeigen das deutlich:
 

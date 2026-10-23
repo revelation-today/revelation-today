@@ -52,6 +52,8 @@ Vahiy Kitabı'nda dört atlı görürüz — tüm dünyaya savaş, kıtlık ve �
 - İlk binici iyi bir karakteri temsil eder — örneğin {{% bible val="bunun müjdenin tüm dünyada duyurulmasını simgelediği" link="mrk:13,10" lang="tr" %}} düşünülür.
 - İlk binici, diğer biniciler gibi kötü bir karakteri temsil eder.
 
+{{% study %}}
+
 ## İlk gözlemler
 
 <a name="df58"></a>
@@ -62,6 +64,8 @@ Metne yakından baktığımızda üç güçlü paralellik dikkat çeker.
 Atlıların kendilerine baktığımızda, aralarında hem benzerlikler hem de farklılıklar görürüz. Dördü de harekete geçmeye çağrılır; hiçbiri kendi inisiyatifiyle hareket etmez. Her biniciye kullanması için bir şey verilir. Ancak ilk atlı, Yunancada kullanılan ikili bir fiille özellikle öne çıkarılır — "fethederek çıkar, fethetmek için" — bu, diğerleri için kullanılmayan vurgulu bir yapıdır. İlk binicinin faaliyeti belirsiz kalır ("fethetmek"), diğerlerininki ise açıkça ifade edilir: savaş, açlık ve ölüm getirmek.
 
 Üçüncü binici ise bambaşkadır: onun için "ve verildi" ifadesi yoktur. Bunun yerine, aleti elinde tutar; bu da kendi başına ilahi bir faaliyeti ya da yetkilendirmeyi ifade eder, ve ona doğrudan verilmek yerine, tahttan, dört canlı yaratığın ortasından bir açıklama gelir.
+
+{{% /study %}}
 
 ## Üçüncü atlının gizemi
 
@@ -80,6 +84,10 @@ Demek ki bu bir kıtlıktır; ciddi ama sınırlı. Bir günlük ücret ancak ha
 
 <a name="dba7"></a>
 "Kuzu'nun yedi mühürden ilkini açışını izledim. Sonra dört yaratıktan birinin gök gürültüsüne benzer bir sesle ‹‹Gel!›› dediğini işittim. Bakınca beyaz bir at gördüm. Binicisinin yayı vardı. Kendisine bir taç verildi ve galip gelen biri olarak zafer kazanmaya çıktı."
+
+Yorumcular delilleri her iki yönde de tartar. Aşağıdaki çözüm bu sitenin izlediği okumayı verir; her iki tarafın delilleri kutudadır.
+
+{{% study %}}
 
 Bu atlıyı iyi olarak okumak için bazı makul argümanlar vardır:
 
@@ -101,6 +109,8 @@ Bu kafa karıştırıcıdır — neden hem iyi hem de kötü bir anlama işaret 
 
 - İnsan elindeki bir yay, Esav'dan önce de görünür: {{% bible val="İsmail çölde büyüyüp okçu olur" link="gen:21,20" lang="tr" %}} ve annesi onu ölmeye bırakmak üzere {{% bible val="bir ok atımı uzaklığa" link="gen:21,16" lang="tr" %}} yatırır. {{% bible val="Esav'ın av yayı" link="gen:27" lang="tr" %}} alışılmış örnektir, ama bu öykülerin hiçbiri yayı kendiliğinden kötü yapmaz ve Kutsal Kitap'taki ilk yay, bir antlaşma işareti olan gökkuşağıdır ({{% bible val="Yaratılış 9:13" link="gen:9,13" lang="tr" %}}). Bu savin ağırlığı Yaratılış'ta değil, Hezekiel'in Gog'undadır.
 - İsa'nın {{% bible val="Markos'ta" link="mrk:13,5-9" lang="tr" %}}, {{% bible val="Matta'da" link="mat:24,4-8" lang="tr" %}} ve {{% bible val="Luka'da" link="luk:21,8-11" lang="tr" %}} verdiği son zamanlarla ilgili üç konuşma, Vahiy'de bulunanla aynı sırayı izler: üçü de "Sakın kimse sizi saptırmasın, çünkü benim adımla birçokları gelecek" gibi bir ifadeyle açılır. Savaş her zaman ikinci sırada gelir, ardından kıtlık, ve Luka'da bunu "salgın hastalık" da izler.
+
+{{% /study %}}
 
 ## Çözüm
 

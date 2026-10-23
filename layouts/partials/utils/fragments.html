@@ -19,7 +19,10 @@
   {{ end }}
 {{ end }}
 
-{{ $content := $page.RawContent }}
+{{/* The folded-passage shortcodes (study, background) may enclose a heading. Cut at headings, their
+     markers would no longer pair up, so the markers go; the text inside stays in the search index. */}}
+{{ $boxMarkers := `\{\{%\s*/?\s*(study|background)\s*%\}\}` }}
+{{ $content := $page.RawContent | replaceRE $boxMarkers "" }}
 {{ $len := len $headingKeys }}
 {{ $data := dict }}
 

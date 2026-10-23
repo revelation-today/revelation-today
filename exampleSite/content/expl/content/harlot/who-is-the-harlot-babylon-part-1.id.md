@@ -49,7 +49,11 @@ Itu tokoh yang sangat banyak untuk satu pasal, tetapi masing-masing diperlukan u
 ## Binatang berwarna merah kirmizi
 
 <a name="0e13"></a>
-Binatang ini memiliki banyak kesejajaran dengan Binatang Pertama pada pasal 13. Tabel di bawah ini menandai rincian yang sepadan dengan huruf **tebal** dan hasil akhir yang sepadan dengan huruf *miring*.
+Binatang ini memiliki banyak kesejajaran dengan Binatang Pertama pada pasal 13.
+
+{{% study %}}
+
+Tabel di bawah ini menandai rincian yang sepadan dengan huruf **tebal** dan hasil akhir yang sepadan dengan huruf *miring*.
 
 | Binatang pertama dari Wahyu 13 | Binatang dalam Wahyu 17 |
 |----------------------------------|----------------------------|
@@ -59,6 +63,8 @@ Binatang ini memiliki banyak kesejajaran dengan Binatang Pertama pada pasal 13. 
 | {{% bible val="Perkataan yang menghujat Allah" link="rev:13,5-6" lang="ind" %}} | {{% bible val="Nama yang menghujat Allah" link="rev:17,3" lang="ind" %}} |
 | {{% bible val="Berperang melawan orang-orang kudus dan mengalahkan mereka" link="rev:13,7" lang="ind" %}} | {{% bible val="Berperang melawan Anak Domba dan dikalahkan" link="rev:17,14" lang="ind" %}} </br> {{% bible val="Berperang melawan sang perempuan sundal dan membinasakannya" link="rev:17,16" lang="ind" %}}. |
 | {{% bible val="Semua orang yang tidak tertulis dalam kitab kehidupan menyembah binatang itu" link="rev:13,8" lang="ind" %}} | {{% bible val="Semua orang yang tidak tertulis dalam kitab kehidupan tercengang" link="rev:17,8" lang="ind" %}} |
+
+{{% /study %}}
 
 Binatang ini juga merupakan gambaran sang kaisar, termasuk kekuatan militernya, dan warna merah kirmizinya menunjuk kepada kedudukan sebagai raja.
 
@@ -75,11 +81,27 @@ Ini adalah sebuah parodi dari penggambaran Allah sendiri sebagai Yang Kekal dala
 <a name="09b7"></a>
 Ketujuh bukit tempat perempuan itu duduk adalah {{% bible val="tujuh bukit" link="rev:17,9" lang="ind" %}} yang mengenali Roma — sebuah kesimpulan yang hampir disepakati semua penafsir, sebab Roma terkenal pada zaman kuno sebagai "kota di atas tujuh bukit." Bagi para pembaca pertama, Roma adalah kedudukan sang kaisar, yang dipuja sebagai Tuan atas segala tuan dan Raja atas segala raja seolah-olah ia setara dengan Allah — ini bukan nubuat tentang Paus, atau siapa pun yang kelak kebetulan hidup di Roma.
 
+{{% study %}}
+
 Pada saat yang sama, bukit-bukit itu juga dapat melambangkan kerajaan-kerajaan, sebab teks ini kemudian menafsirkannya sebagai raja-raja, dan setiap raja memiliki kerajaan yang berkaitan dengannya. Penafsiran ini didukung oleh kerajaan terbesar yang digambarkan sebagai sebuah gunung dalam {{% bible val="Yesaya" link="isa:2,2" lang="ind" %}}, oleh {{% bible val="Babel yang digambarkan sebagai gunung" link="jer:51,25" lang="ind" %}}, dan oleh {{% bible val="gunung yang memenuhi bumi dalam kitab Daniel sebagai kerajaan ilahi yang baru" link="dan:2,35" lang="ind" %}}. Tanah air Edom sendiri yang berbukit-bukit memunculkan ungkapan yang serupa ({{% bible val="gunung Edom, yaitu Gunung Seir" link="ezk:35,3" lang="ind" %}}), meskipun di sana gunung itu adalah wilayah harfiah Edom, bukan sekadar gambaran simbolis.
 
-{{% bible val="Siapakah ketujuh raja itu?" link="rev:17,10" lang="ind" %}} Lima sudah jatuh, satu sedang berkuasa, dan yang ketujuh masih akan datang dan hanya akan memerintah sebentar saja. Bersama-sama mereka menggambarkan sebuah urutan waktu, menunjukkan bahwa sepanjang masa ini para raja mendukung binatang itu. Ini adalah salah satu bagian yang paling diperdebatkan dalam kitab Wahyu untuk menentukan penanggalan kitab ini: beberapa ahli mencoba menghitung kaisar-kaisar yang sesungguhnya mulai dari Julius Kaisar atau Augustus untuk sampai pada "raja keenam" tertentu (biasanya Nero), dengan berargumen bahwa ini menunjuk pada penanggalan di akhir tahun 60-an M; pandangan mayoritas, mengikuti kesaksian gereja mula-mula sendiri (Irenaeus) bahwa Yohanes menulis pada masa Domitianus pertengahan tahun 90-an M, membaca urutan ini secara lebih simbolis, sebagaimana yang kita lakukan di sini. Kita tidak akan mencoba menyebutkan raja keenam tertentu; intinya bukanlah penghitungan yang tepat, melainkan bahwa hitungan mundur terakhir sudah dekat, {{% bible val="sebuah seruan untuk tetap waspada" link="rev:16,15" lang="ind" %}}. Untuk pembahasan yang lebih lengkap tentang bagaimana persoalan penanggalan ini muncul di seluruh situs ini, lihat {{% int_link val="siapa yang menulis kitab Wahyu, dan kapan" link="/expl/topics/others/who-wrote-revelation-and-when" %}}.
+{{% /study %}}
 
-Binatang itu sendiri kemudian {{% bible val="datang sebagai raja kedelapan yang juga merupakan salah satu dari ketujuh raja itu" link="rev:17,11" lang="ind" %}}. Dalam tradisi Kristen yang belakangan (meskipun bukan istilah Perjanjian Baru sendiri), hari Minggu kemudian disebut "hari kedelapan," yang melambangkan awal dari ciptaan baru setelah kebangkitan Kristus "pada hari ketiga" ({{% bible val="Kristus dibangkitkan pada hari ketiga" link="1co:15,4" lang="ind" %}}). Jika asosiasi belakangan ini yang dimaksud di sini, maka kemunculan binatang itu sebagai raja kedelapan merupakan klaim palsu atas jenis pembaruan yang sama — sebuah kebangkitan palsu. Tema kebangkitan binatang itu sendiri sudah muncul {{% bible val="pada pasal 13" link="rev:13,3-4" lang="ind" %}} dan pada {{% bible val="pasal 16" link="rev:16,13" lang="ind" %}}, di mana katak-katak itu mengingatkan baik pada tulah katak di Mesir maupun pada dewi Mesir Heqet, yang dikaitkan dengan kelahiran dan kebangkitan.[^frogs] Jika bagian-bagian ini digabungkan, kemunculan binatang itu pada hari kedelapan terbaca sebagai sebuah klaim atas sifat tak terkalahkan. Namun itu adalah klaim yang palsu: ia sudah dibongkar kedoknya sebagai "yang dahulu ada, yang sekarang tidak ada, dan yang menuju kebinasaan." Ini menegaskan bahwa binatang itu adalah salah satu dari ketujuh raja itu — bukan seorang pahlawan super yang berdiri di atas mereka.
+{{% bible val="Siapakah ketujuh raja itu?" link="rev:17,10" lang="ind" %}} Lima sudah jatuh, satu sedang berkuasa, dan yang ketujuh masih akan datang dan hanya akan memerintah sebentar saja. Bersama-sama mereka menggambarkan sebuah urutan waktu, menunjukkan bahwa sepanjang masa ini para raja mendukung binatang itu. Kita tidak akan mencoba menyebutkan raja keenam tertentu; intinya bukanlah penghitungan yang tepat, melainkan bahwa hitungan mundur terakhir sudah dekat, {{% bible val="sebuah seruan untuk tetap waspada" link="rev:16,15" lang="ind" %}}. Untuk pembahasan yang lebih lengkap tentang bagaimana persoalan penanggalan ini muncul di seluruh situs ini, lihat {{% int_link val="siapa yang menulis kitab Wahyu, dan kapan" link="/expl/topics/others/who-wrote-revelation-and-when" %}}.
+
+{{% study %}}
+
+Ini adalah salah satu bagian yang paling diperdebatkan dalam kitab Wahyu untuk menentukan penanggalan kitab ini: beberapa ahli mencoba menghitung kaisar-kaisar yang sesungguhnya mulai dari Julius Kaisar atau Augustus untuk sampai pada "raja keenam" tertentu (biasanya Nero), dengan berargumen bahwa ini menunjuk pada penanggalan di akhir tahun 60-an M; pandangan mayoritas, mengikuti kesaksian gereja mula-mula sendiri (Irenaeus) bahwa Yohanes menulis pada masa Domitianus pertengahan tahun 90-an M, membaca urutan ini secara lebih simbolis, sebagaimana yang kita lakukan di sini.
+
+{{% /study %}}
+
+Binatang itu sendiri kemudian {{% bible val="datang sebagai raja kedelapan yang juga merupakan salah satu dari ketujuh raja itu" link="rev:17,11" lang="ind" %}}. Binatang itu berlagak tak terkalahkan, sebuah tiruan dari kebangkitan. Namun ia sudah dibongkar kedoknya sebagai "yang dahulu ada, yang sekarang tidak ada, dan yang menuju kebinasaan": ia salah satu dari ketujuh raja itu, bukan seorang pahlawan super yang berdiri di atas mereka.
+
+{{% study %}}
+
+Dalam tradisi Kristen yang belakangan (meskipun bukan istilah Perjanjian Baru sendiri), hari Minggu kemudian disebut "hari kedelapan," yang melambangkan awal dari ciptaan baru setelah kebangkitan Kristus "pada hari ketiga" ({{% bible val="Kristus dibangkitkan pada hari ketiga" link="1co:15,4" lang="ind" %}}). Jika asosiasi belakangan ini yang dimaksud di sini, maka kemunculan binatang itu sebagai raja kedelapan merupakan klaim palsu atas jenis pembaruan yang sama — sebuah kebangkitan palsu. Tema kebangkitan binatang itu sendiri sudah muncul {{% bible val="pada pasal 13" link="rev:13,3-4" lang="ind" %}} dan pada {{% bible val="pasal 16" link="rev:16,13" lang="ind" %}}, di mana katak-katak itu mengingatkan baik pada tulah katak di Mesir maupun pada dewi Mesir Heqet, yang dikaitkan dengan kelahiran dan kebangkitan.[^frogs] Jika bagian-bagian ini digabungkan, kemunculan binatang itu pada hari kedelapan terbaca sebagai sebuah klaim atas sifat tak terkalahkan. Namun itu adalah klaim yang palsu: ia sudah dibongkar kedoknya sebagai "yang dahulu ada, yang sekarang tidak ada, dan yang menuju kebinasaan." Ini menegaskan bahwa binatang itu adalah salah satu dari ketujuh raja itu — bukan seorang pahlawan super yang berdiri di atas mereka.
+
+{{% /study %}}
 
 ## Kesepuluh raja
 
@@ -91,7 +113,11 @@ Tujuan mereka yang dinyatakan adalah untuk berperang melawan Anak Domba. Namun k
 ## Sang pelacur
 
 <a name="f764"></a>
-Ia memiliki banyak kesejajaran — sebagian besar sebagai kontras yang disengaja — dengan mempelai perempuan pada pasal 21 dan perempuan pada pasal 12. Tabel ini menandai yang sama dengan huruf **tebal** dan yang berbeda dengan huruf *miring*.[^women]
+Perempuan sundal itu adalah bayangan cermin dari perempuan di pasal 12 dan mempelai perempuan di pasal 19–21: sebuah kota tanpa Allah, berhadapan dengan kota Allah.[^women] Ia juga mirip Izebel di Tiatira: tipu daya, sihir, keserakahan, pembunuhan orang-orang kudus, dan penghakiman yang datang tiba-tiba.
+
+{{% study %}}
+
+Tabel pertama ini menandai yang sama dengan huruf **tebal** dan yang berbeda dengan huruf *miring*.
 
 | Perempuan dalam pasal 12 | Pelacur dalam pasal 17 | Mempelai dalam pasal 19 dan 21 |
 |---|---|---|
@@ -123,6 +149,8 @@ Ia juga memiliki banyak kesamaan dengan Izebel, yang menimbulkan masalahnya send
 | **{{% bible val="Allah membalaskan darah para saksi" link="2ki:9,7" lang="ind" %}}** | **{{% bible val="Allah membalaskan darah para saksi" link="rev:19,2" lang="ind" %}}** |
 | **{{% bible val="Penghakiman datang dengan cepat" link="2ki:9,33-35" lang="ind" %}}** | **{{% bible val="Penghakiman datang dengan cepat" link="rev:18,10" lang="ind" %}}** ({{% bible val="Why 18:17" link="rev:18,17" lang="ind" %}}, {{% bible val="Why 18:19" link="rev:18,19" lang="ind" %}}) |
 | **{{% bible val="Allah menghakimi para penerusnya" link="1ki:18,40" lang="ind" %}}** ({{% bible val="2Raj 10:19" link="2ki:10,19" lang="ind" %}}) | **{{% bible val="Allah menghakimi para penerusnya" link="rev:18,9-11" lang="ind" %}}** ({{% bible val="Why 2:23" link="rev:2,23" lang="ind" %}}) |
+
+{{% /study %}}
 
 Akhirnya, ia bekerja berdampingan dengan binatang kedua dari pasal 13, tanpa menjadi sosok yang sama.[^apart] Ia melakukan dalam perdagangan dan kebudayaan apa yang dilakukan binatang kedua dalam agama.[^alike]
 

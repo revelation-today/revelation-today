@@ -60,12 +60,18 @@ Then the dragon became furious with the woman and went off to make war on the re
 <a name="a878"></a>
 The previous verses describe the dragon's attack on the child (Jesus) and his mother. He fails completely both times, so now he assembles two more beasts, described here in detail — and the description isn't invented out of nowhere. It draws on a handful of Old Testament passages that first readers would have recognized immediately.
 
+{{% background %}}
+
 - The first reference goes back to the book of {{% bible val="Job 40:15–41:34" link="job:40,15" lang="en" %}}, a long passage describing Behemoth and Leviathan, two beasts from the sea and from the land — just as the beasts in Rev.13 also come from the sea and from the land. They are invincible to man, but not to God ({{% bible val="Isa 27:1" link="isa:27" lang="en" %}}); {{% bible val="Ps.104" link="psa:104,26" lang="en" %}} can even be read as suggesting that Leviathan is no more than a toy compared to God, though the Hebrew is ambiguous and most translations take Leviathan itself, not God, as the one "playing."
 - A similar hint appears in {{% bible val="Rev 10:2" link="rev:10,2" lang="en" %}}, where the angel plants his foot on land and sea, claiming ownership of both.
 - The first beast takes its description from {{% bible val="Dan.7" link="dan:7" lang="en" %}}, which describes four beasts: the first like a lion, the second like a bear, the third like a leopard. Together they have seven heads (only the third beast's four heads are stated explicitly, in {{% bible val="Dan 7:6" link="dan:7,6" lang="en" %}}; the other three are assumed to have one each), and the fourth beast has ten horns, {{% bible val="which are ten kings" link="dan:7,24" lang="en" %}} — a detail that even connects Dan.7 with the harlot's beast in {{% bible val="Rev.17" link="rev:17,12" lang="en" %}}. So what's the point of reaching back to Dan.7? Read that chapter to the end, and you'll see: its whole point is to show that the beast is defeated.
 - The next major parallel is {{% bible val="Dan.3" link="dan:3" lang="en" %}}, the well-known story of Daniel's friends in the fiery furnace. This describes the situation of the second beast: a statue to be worshiped, people punished by fire if they refuse, and even an echo of six in {{% bible val="Dan.3" link="dan:3,1" lang="en" %}}, where the statue measures 60 cubits by 6 cubits and the lists of officials and instruments who must bow to it are repeated in sets of six. The story ends with Daniel's friends saved and {{% bible val="the king acknowledging and praising God, then promoting the friends" link="dan:3,28-30" lang="en" %}}.
 
+{{% /background %}}
+
 At first glance, this chapter gives the impression of the dragon and his beasts as unbeatable rulers and oppressors. But look at how each of these Old Testament sources ends, and the evidence screams "loser" the moment they face God and his people.
+
+{{% background %}}
 
 That said, the first beast's appearance doesn't map onto any single one of the {{% bible val="four kingdoms in Daniel" link="dan:7,17" lang="en" %}} — it borrows features from all of them at once, as the table below shows.
 
@@ -80,6 +86,8 @@ That said, the first beast's appearance doesn't map onto any single one of the {
 | {{% bible val="The third beast has 4 heads, the others one each" link="dan:7,6" lang="en" %}} | {{% bible val="Has 7 heads" link="rev:13,1" lang="en" %}} |
 | {{% bible val="The horn speaks great things" link="dan:7,8" lang="en" %}} </br> {{% bible val="speaks against the Most High" link="dan:7,25" lang="en" %}} | {{% bible val="The beast blasphemes God" link="rev:13,6" lang="en" %}} |
 | {{% bible val="The 10 horns are 10 kings" link="dan:7,24" lang="en" %}} | {{% bible val="10 crowns" link="rev:13,1" lang="en" %}} |
+
+{{% /background %}}
 
 ## The twofold attack
 
@@ -98,12 +106,18 @@ Let's take a closer look at these two beasts. They act together and support each
 | Against God's people | makes war on the saints and conquers them ({{% bible val="13:7" link="rev:13,7" lang="en" %}}) | kills those who refuse; no buying or selling without the mark ({{% bible val="13:15–17" link="rev:13,15-17" lang="en" %}}) |
 | Call to the reader | whoever has ears, let him hear; here is endurance and faith ({{% bible val="13:9–10" link="rev:13,9-10" lang="en" %}}) | here is wisdom; whoever has understanding, let him count ({{% bible val="13:18" link="rev:13,18" lang="en" %}}) |
 
+{{% study %}}
+
 There's another interesting chiasmus hidden in that last row. "Here is ... patience and faith" pairs with "he who has ears, let him hear," and "here is wisdom" pairs with "if anyone has understanding, let him calculate" — which sets up an equivalence: hearing (which in Hebrew thought means obeying) is to patience and faith what understanding is to wisdom. In other words, knowledge is only the first step; it's meant to lead to action.
+
+{{% /study %}}
 
 Satan attacks in two ways:
 
 - By force and intimidation ({{% bible val="conquering the saints" link="rev:13,7" lang="en" %}}, {{% bible val="killing any resistance" link="rev:13,10" lang="en" %}} or {{% bible val="people who don’t want to follow" link="rev:13,15" lang="en" %}}).
 - By deception, which is a little harder to understand, but I will explain. It has two faces. The first beast offers power and control, and backs the offer with violence: "Who is like the beast, and who can fight against it?" (13:4). The second offers wealth and security: it works through signs and wonders, and through a market that is open only to those who take its mark (13:13–17).
+
+{{% study %}}
 
 Start with a few observations that point that way:
 
@@ -117,11 +131,15 @@ Start with a few observations that point that way:
 - {{% bible val="It can make fire fall down from heaven in front of all the people" link="rev:13,13" lang="en" %}} as a reminder of {{% bible val="Elijah’s sign of the true God" link="1ki:18,38" lang="en" %}}.
 - {{% bible val="It can make a statue come alive" link="rev:13,15" lang="en" %}}, {{% bible val="showing that it is more than an idol" link="psa:115,4-8" lang="en" %}} and recalling the {{% bible val="work of the Spirit in Ezekiel" link="ezk:37" lang="en" %}}.
 
-Put together, it becomes clear that Satan forms an evil trinity:
+{{% /study %}}
+
+It becomes clear that Satan forms an evil trinity (the evidence is in the box above):
 
 - the dragon, who represents God the Father and gives all power to
 - the first beast, who resurrects and holds power over all nations, representing Jesus, and who is worshipped by the second beast, who in turn
 - acts as the counterfeit Holy Spirit, making everyone worship the first beast, performing signs and wonders, and causing the dead image to live.
+
+{{% study %}}
 
 | The dragon and the two beasts | Father, Son and Holy Spirit |
 |-------------------------------|-----------------------------|
@@ -132,6 +150,8 @@ Put together, it becomes clear that Satan forms an evil trinity:
 | {{% bible val="Second beast speaks like a dragon" link="rev:13,11" lang="en" %}} | {{% bible val="The Holy Spirit does not speak on his own authority" link="jhn:16,13" lang="en" %}} |
 | {{% bible val="Does great things in front of people" link="rev:13,13-14" lang="en" %}} | {{% bible val="Jesus acts often in the hidden" link="mat:9,30" lang="en" %}} ({{% bible val="Mk 5:43" link="mrk:5,43" lang="en" %}}) |
 | {{% bible val="Kills all that not worship him" link="rev:13,15" lang="en" %}} | {{% bible val="Holy Spirit can be grieved" link="eph:4,30" lang="en" %}} and {{% bible val="does not force" link="2co:3,17" lang="en" %}} |
+
+{{% /study %}}
 
 ## The dark side
 

@@ -52,6 +52,8 @@ Es gibt zwei wesentliche Interpretationen, und beide haben ihre Berechtigung:
 - Der erste Reiter verkörpert einen guten Charakter — er steht zum Beispiel für {{% bible val="die Verkündigung des Evangeliums in der ganzen Welt" link="mrk:13,10" lang="de" %}}.
 - Der erste Reiter verkörpert einen bösen Charakter, wie auch die anderen Reiter.
 
+{{% study %}}
+
 ## Erste Beobachtungen
 
 <a name="2795"></a>
@@ -62,6 +64,8 @@ Zunächst beschreibt ein Text beim Propheten Sacharja {{% bible val="mehrere Pfe
 Betrachtet man die Reiter selbst, zeigen sich sowohl Gemeinsamkeiten als auch Unterschiede zwischen ihnen. Alle vier werden zum Handeln aufgerufen; keiner von ihnen handelt aus eigenem Antrieb. Jedem Reiter wird etwas gegeben, mit dem er handelt. Doch der erste Reiter wird durch ein verdoppeltes Verb im griechischen Text besonders hervorgehoben — er „zieht aus, siegend und um zu siegen" —, eine nachdrückliche Konstruktion, die bei den anderen nicht verwendet wird. Die Tätigkeit des ersten Reiters bleibt unbestimmt ("siegen"), während sie bei den anderen klar benannt wird: Krieg, Hunger und Tod bringen.
 
 Der dritte Reiter ist noch einmal anders: Bei ihm fehlt die Formulierung "und es wurde ihm gegeben". Stattdessen hält er das Werkzeug einfach in seinen Händen, was für sich genommen bereits für ein göttliches Wirken oder eine göttliche Autorisierung steht, und die Aussage ergeht vom Thron her, aus der Mitte der vier lebendigen Wesen, statt ihm direkt übergeben zu werden.
+
+{{% /study %}}
 
 ## Das Geheimnis des dritten Reiters
 
@@ -80,6 +84,10 @@ Es geht also um eine Hungersnot, ernst, aber begrenzt. Ein Tageslohn reicht gera
 
 <a name="bdcd"></a>
 „Und ich sah, dass das Lamm der Siegel eines auftat, und ich hörte eines von den vier lebendigen Wesen sagen mit einer Stimme wie Donner: Komm! Und ich sah, und siehe, ein weißes Pferd, und der darauf saß, hatte einen Bogen; und ihm wurde eine Krone gegeben, und er zog aus als ein Sieger und um zu siegen.“
+
+Die Ausleger wägen die Belege nach beiden Seiten ab. Die Auflösung weiter unten gibt die Lesart wieder, der diese Seite folgt; die Belege für beide Seiten stehen im Kasten.
+
+{{% study %}}
 
 Es gibt einige nachvollziehbare Argumente dafür, diesen Reiter als gut zu deuten:
 
@@ -101,6 +109,8 @@ Das ist verwirrend — warum gibt es Hinweise, die sowohl auf eine gute als auch
 
 - Ein Bogen in Menschenhand kommt schon vor Esau vor: {{% bible val="Ismael wächst in der Wüste zum Bogenschützen auf" link="gen:21,20" lang="de" %}}, und seine Mutter legt ihn {{% bible val="einen Bogenschuss weit entfernt" link="gen:21,16" lang="de" %}} ab, um ihn sterben zu lassen. {{% bible val="Esaus Jagdbogen" link="gen:27" lang="de" %}} ist das übliche Beispiel, aber keine der beiden Geschichten macht den Bogen an sich böse, und der allererste Bogen der Bibel ist der Regenbogen, ein Bundeszeichen ({{% bible val="1. Mose 9,13" link="gen:9,13" lang="de" %}}). Das Gewicht dieses Arguments liegt bei Hesekiels Gog, nicht bei 1. Mose.
 - Die drei Endzeitreden Jesu, bei {{% bible val="Markus" link="mrk:13,5-9" lang="de" %}}, {{% bible val="Matthäus" link="mat:24,4-8" lang="de" %}} und {{% bible val="Lukas" link="luk:21,8-11" lang="de" %}}, folgen derselben Reihenfolge wie in der Offenbarung: Alle drei beginnen mit einer Warnung wie "Seht zu, dass ihr nicht verführt werdet, denn viele werden in meinem Namen kommen." An zweiter Stelle kommt immer der Krieg, dann der Hunger, und bei Lukas folgt zusätzlich noch "die Pest".
+
+{{% /study %}}
 
 ## Die Auflösung
 

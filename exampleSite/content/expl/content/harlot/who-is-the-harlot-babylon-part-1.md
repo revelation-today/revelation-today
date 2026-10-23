@@ -49,7 +49,11 @@ That's a lot of players for one chapter, but each one is needed to complete the 
 ## The scarlet Beast
 
 <a name="9621"></a>
-This beast has many parallels to the First Beast in chapter 13. The table below marks matching details in **bold** and matching outcomes in *italic*.
+This beast has many parallels to the First Beast in chapter 13.
+
+{{% study %}}
+
+The table below marks matching details in **bold** and matching outcomes in *italic*.
 
 | The first beast of Revelation 13 | The beast on Revelation 17 |
 |----------------------------------|----------------------------|
@@ -59,6 +63,8 @@ This beast has many parallels to the First Beast in chapter 13. The table below 
 | {{% bible val="Speech of blasphemy" link="rev:13,5-6" lang="en" %}} | {{% bible val="Blasphemous name" link="rev:17,3" lang="en" %}} |
 | {{% bible val="Fight against saints and defeat them" link="rev:13,7" lang="en" %}} | {{% bible val="Fights against Lamb and is overcome" link="rev:17,14" lang="en" %}} </br> {{% bible val="Fight against Harlot and destroys it" link="rev:17,16" lang="en" %}}. |
 | {{% bible val="All who are not written in the book of life worship the beast" link="rev:13,8" lang="en" %}} | {{% bible val="All who are not written in the book of life are overwhelmed" link="rev:17,8" lang="en" %}} |
+
+{{% /study %}}
 
 This beast is also a picture of the emperor, military power included, and its scarlet color points to royalty.
 
@@ -75,11 +81,27 @@ This is a parody of God's own description as the Eternal One in Rev. 1:8, the On
 <a name="2d9d"></a>
 The seven hills the woman sits on are {{% bible val="seven hills" link="rev:17,9" lang="en" %}} that identify Rome — a near-universal conclusion among interpreters, since Rome was famous in antiquity as "the city on seven hills." For the first readers, Rome was the seat of the emperor, praised as Lord of lords and King of kings as though he were equal to God — this is not a prophecy about the Pope, or anyone else who later happened to live in Rome.
 
+{{% study %}}
+
 At the same time, hills can also stand for kingdoms, since the text goes on to interpret them as kings, and each king has an associated kingdom. That reading is supported by the greatest kingdom pictured as a mountain in {{% bible val="Isaiah" link="isa:2,2" lang="en" %}}, by {{% bible val="Babel described as a mountain" link="jer:51,25" lang="en" %}}, and by the {{% bible val="mountain that fills the earth in Daniel as the new godly kingdom" link="dan:2,35" lang="en" %}}. Edom's own mountainous homeland gave rise to similar language ({{% bible val="Edom's mountain, Mount Seir" link="ezk:35,3" lang="en" %}}), though there the mountain is Edom's literal territory rather than a purely symbolic image.
 
-{{% bible val="Who are the seven kings?" link="rev:17,10" lang="en" %}} Five have already fallen, one currently reigns, and a seventh is still to come and will reign only briefly. Together they describe a chronological sequence, showing that throughout this span of time the kings support the beast. This is one of the most debated passages in Revelation for dating the book: some scholars try to count actual emperors from Julius Caesar or Augustus onward to land on a specific "sixth king" (usually Nero), arguing this points to a date in the late 60s AD; the majority view, following the early church's own testimony (Irenaeus) that John wrote under Domitian in the mid-90s AD, reads the sequence more symbolically, as we do here. We won't try to name a specific sixth king; the point is not an exact headcount but that the final countdown is close, {{% bible val="a call to stay alert" link="rev:16,15" lang="en" %}}. For a fuller look at how this dating question plays out across the site, see {{% int_link val="who wrote Revelation, and when" link="/expl/topics/others/who-wrote-revelation-and-when" %}}.
+{{% /study %}}
 
-The beast itself then {{% bible val="comes as an 8th king who is also one of the seven" link="rev:17,11" lang="en" %}}. In later Christian tradition (though not the New Testament's own vocabulary), Sunday came to be called "the eighth day": the day {{% bible val="Christ was raised" link="1co:15,4" lang="en" %}}, and so the first day of a new creation. If that later association is in view here, the beast's appearance as an eighth king would be a false claim to the same kind of renewal — a counterfeit resurrection. The theme of the beast's own resurrection has already come up{{% bible val=" in chapter 13" link="rev:13,3-4" lang="en" %}} and in {{% bible val="chapter 16" link="rev:16,13" lang="en" %}}, where the frogs recall both the plague of frogs in Egypt and the Egyptian goddess Heqet, associated with birth and resurrection.[^frogs] Put those pieces together and the beast's appearance on the eighth day reads as a claim to invincibility. But it's a false claim: he has already been unmasked as "the one who was, who is not, and who goes to destruction." This confirms that the beast is one of the seven — not a superhero standing above them.
+{{% bible val="Who are the seven kings?" link="rev:17,10" lang="en" %}} Five have already fallen, one currently reigns, and a seventh is still to come and will reign only briefly. Together they describe a chronological sequence, showing that throughout this span of time the kings support the beast. We won't try to name a specific sixth king; the point is not an exact headcount but that the final countdown is close, {{% bible val="a call to stay alert" link="rev:16,15" lang="en" %}}. For a fuller look at how this dating question plays out across the site, see {{% int_link val="who wrote Revelation, and when" link="/expl/topics/others/who-wrote-revelation-and-when" %}}.
+
+{{% study %}}
+
+This is one of the most debated passages in Revelation for dating the book: some scholars try to count actual emperors from Julius Caesar or Augustus onward to land on a specific "sixth king" (usually Nero), arguing this points to a date in the late 60s AD; the majority view, following the early church's own testimony (Irenaeus) that John wrote under Domitian in the mid-90s AD, reads the sequence more symbolically, as we do here.
+
+{{% /study %}}
+
+The beast itself then {{% bible val="comes as an 8th king who is also one of the seven" link="rev:17,11" lang="en" %}}. The beast poses as unbeatable, a counterfeit of the resurrection. But he has already been unmasked as "the one who was, who is not, and who goes to destruction": he is one of the seven, not a superhero standing above them.
+
+{{% study %}}
+
+In later Christian tradition (though not the New Testament's own vocabulary), Sunday came to be called "the eighth day": the day {{% bible val="Christ was raised" link="1co:15,4" lang="en" %}}, and so the first day of a new creation. If that later association is in view here, the beast's appearance as an eighth king would be a false claim to the same kind of renewal — a counterfeit resurrection. The theme of the beast's own resurrection has already come up{{% bible val=" in chapter 13" link="rev:13,3-4" lang="en" %}} and in {{% bible val="chapter 16" link="rev:16,13" lang="en" %}}, where the frogs recall both the plague of frogs in Egypt and the Egyptian goddess Heqet, associated with birth and resurrection.[^frogs] Put those pieces together and the beast's appearance on the eighth day reads as a claim to invincibility. But it's a false claim: he has already been unmasked as "the one who was, who is not, and who goes to destruction." This confirms that the beast is one of the seven — not a superhero standing above them.
+
+{{% /study %}}
 
 ## The 10 kings
 
@@ -91,7 +113,11 @@ Their stated purpose is to wage war against the Lamb. Things work out rather dif
 ## The Harlot
 
 <a name="1947"></a>
-She has many parallels — mostly as a deliberate contrast — with the bride in chapter 21 and the woman in chapter 12. The table marks what matches in **bold** and what differs in *italic*.[^women]
+The harlot is the mirror image of the woman of chapter 12 and of the bride of chapters 19–21: a city without God set against the city of God.[^women] She also resembles Jezebel of Thyatira: deception, sorcery, greed, the killing of the saints, and a sudden judgment.
+
+{{% study %}}
+
+The first table marks what matches in **bold** and what differs in *italic*.
 
 | The woman in chapter 12 | The harlot in chapter 17 | The bride in chapters 19 and 21 |
 |---|---|---|
@@ -123,6 +149,8 @@ She also shares a lot of similarities with Jezebel, who caused her own trouble i
 | **{{% bible val="God avenges the blood of his servants" link="2ki:9,7" lang="en" %}}** | **{{% bible val="God avenges the blood of his servants" link="rev:19,2" lang="en" %}}** |
 | **{{% bible val="Judgment comes quickly" link="2ki:9,33-35" lang="en" %}}** | **{{% bible val="Judgment comes quickly" link="rev:18,10" lang="en" %}}** ({{% bible val="Rev 18:17" link="rev:18,17" lang="en" %}}, {{% bible val="Rev 18:19" link="rev:18,19" lang="en" %}}) |
 | **{{% bible val="God judges successors" link="1ki:18,40" lang="en" %}}** ({{% bible val="2 Ki 10:19" link="2ki:10,19" lang="en" %}}) | **{{% bible val="God judges successors" link="rev:18,9-11" lang="en" %}}** ({{% bible val="Rev 2:23" link="rev:2,23" lang="en" %}}) |
+
+{{% /study %}}
 
 Finally, she works alongside the second beast from chapter 13, without being the same figure.[^apart] She does in trade and culture what the second beast does in religion.[^alike]
 

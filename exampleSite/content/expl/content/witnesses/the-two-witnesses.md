@@ -60,11 +60,21 @@ There is much dispute over who the witnesses actually are. The main candidates a
 
 The text itself gives us the clue we need. {{% bible val="They are 'the two olive trees' and the two lampstands, and they stand before the Lord of the earth" link="rev:11,4" lang="en" %}}. This is a reference to {{% bible val="the prophet Zechariah" link="zec:4,2-14" lang="en" %}}, where the same imagery is identified with the high priest Joshua and the Davidic descendant Zerubbabel, but it is also a reference {{% bible val="to the seven churches, which are identified with the lampstands" link="rev:1,20" lang="en" %}}.
 
-That reading is strengthened by the {{% bible val="3.5 years" link="rev:11,3" lang="en" %}}, which {{% int_link val="refers to the entire time between Jesus' first and second coming" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}. A span that long fits uneasily with any single historical individual, which is why interpreters taking this approach conclude that the witnesses represent not a pair of individuals but the Church itself — one reading among several defended in the literature (others take them as two individual end-time prophets, a specific historical pair, or a succession of faithful witnesses through history). This is essentially the same amillennial framework laid out in {{% int_link val="premillennialism, postmillennialism, and amillennialism compared" link="/expl/content/1000y/pre-post-and-amillennialism" %}} — a related but distinct question from {{% int_link val="how the rapture relates to the tribulation" link="/expl/topics/others/pre-mid-prewrath-or-post-tribulational" %}}, which dispensational premillennialists, who read the 3.5 years as a literal future period tied to two individual end-time witnesses, tend to answer differently.
+That reading is strengthened by the {{% bible val="3.5 years" link="rev:11,3" lang="en" %}}, which {{% int_link val="refers to the entire time between Jesus' first and second coming" link="/expl/bible/daniel/the-secret-of-the-3-5-years" %}}. A span that long fits uneasily with any single historical individual, which is why interpreters taking this approach conclude that the witnesses represent not a pair of individuals but the Church itself — one reading among several defended in the literature (others take them as two individual end-time prophets, a specific historical pair, or a succession of faithful witnesses through history).
+
+{{% study %}}
+
+This is essentially the same amillennial framework laid out in {{% int_link val="premillennialism, postmillennialism, and amillennialism compared" link="/expl/content/1000y/pre-post-and-amillennialism" %}} — a related but distinct question from {{% int_link val="how the rapture relates to the tribulation" link="/expl/topics/others/pre-mid-prewrath-or-post-tribulational" %}}, which dispensational premillennialists, who read the 3.5 years as a literal future period tied to two individual end-time witnesses, tend to answer differently.
+
+{{% /study %}}
 
 Still, there are many ways to associate the witnesses with specific figures, and the best-supported match is Moses and Elijah: their miracles line up closely. {{% bible val="Consuming their enemies with fire from their mouths" link="rev:11,5" lang="en" %}} is very typical of {{% bible val="Elijah calling down fire from heaven" link="2ki:1,9-12" lang="en" %}}, as is {{% bible val="stopping the rain" link="rev:11,6" lang="en" %}}, which {{% bible val="reflects Elijah's ministry" link="jas:5,17" lang="en" %}}, while turning {{% bible val="water into blood" link="rev:11,6" lang="en" %}} reflects {{% bible val="the first plague under Moses" link="exo:7,14-24" lang="en" %}}.
 
+{{% study %}}
+
 The pairing has a history worth knowing. There is no evidence of a Jewish expectation that Moses and Elijah would return together. What the sources do show, here and there, is an expectation that **Enoch** and Elijah would come back to expose the deceits of the Antichrist — two men who, in the Bible, do not die: {{% bible val="Enoch was taken by God" link="gen:5,24" lang="en" %}}, and {{% bible val="Elijah went up in a whirlwind" link="2ki:2,11" lang="en" %}}. The later stories in which those two return, preach and are killed all show the influence of Revelation 11 rather than lying behind it. So the match with Moses and Elijah rests on the miracles in the text, not on a tradition John inherited.[^tradition]
+
+{{% /study %}}
 
 Notice, though, that the two witnesses are not depicted as a Moses and an Elijah working side by side, but as two figures acting as one. So what single reality are they reflecting together? The Church — since only the Church spans a life as long as the one described. The pairing can be read a couple of ways. One option is:
 
@@ -96,7 +106,13 @@ They are also able to perform signs and wonders. In the Old Testament background
 
 ## Defeat turned into victory
 
-{{% bible val="They are overcome by the beast" link="rev:11,7" lang="en" %}}. How is this possible, given that Jesus said the {{% bible val="Church would not be overcome" link="mat:16,18" lang="en" %}}? The two statements are not actually in tension. If you look at the text in [Matthew](https://biblehub.com/interlinear/matthew/16-18.htm), the word translated "[overcome](https://biblehub.com/greek/2729.htm)" there is different from the [word](https://biblehub.com/greek/3528.htm) used in [Revelation](https://biblehub.com/interlinear/revelation/11-7.htm). Revelation's word (nikaō) describes a single, decisive victory within a particular contest; Matthew's word (katischuō) speaks of the gates of Hades failing to prevail in the long run. The vocabulary difference is suggestive rather than conclusive, but it fits the larger point: a temporary, local defeat of the witnesses does not contradict Jesus' promise that the church as a whole will not ultimately fall.
+{{% bible val="They are overcome by the beast" link="rev:11,7" lang="en" %}}. How is this possible, given that Jesus said the {{% bible val="Church would not be overcome" link="mat:16,18" lang="en" %}}? The two statements are not actually in tension: a temporary, local defeat of the witnesses does not contradict Jesus' promise that the church as a whole will not ultimately fall.
+
+{{% study %}}
+
+If you look at the text in [Matthew](https://biblehub.com/interlinear/matthew/16-18.htm), the word translated "[overcome](https://biblehub.com/greek/2729.htm)" there is different from the [word](https://biblehub.com/greek/3528.htm) used in [Revelation](https://biblehub.com/interlinear/revelation/11-7.htm). Revelation's word (nikaō) describes a single, decisive victory within a particular contest; Matthew's word (katischuō) speaks of the gates of Hades failing to prevail in the long run. The vocabulary difference is suggestive rather than conclusive.
+
+{{% /study %}}
 
 Most importantly, the witnesses are defeated only "after they finished their testimony." Their mission is complete before their death, not cut short by it. The church seems, on the surface, to be defeated: the {{% bible val="whole world celebrates because the witnesses are now silent" link="rev:11,9-10" lang="en" %}}, even {{% bible val="humiliating them in death" link="1sa:17,44-46" lang="en" %}} by leaving {{% bible val="them unburied" link="rev:11,8" lang="en" %}}. But that defeat is turned into victory: after 3.5 days — a deliberate echo of the 3.5 years — they are resurrected and lifted up to heaven, just as Jesus was.
 
@@ -113,7 +129,9 @@ The two witnesses are not the only pair in the book: the two beasts of chapter 1
 
 The two beasts are set side by side in {{% int_link val="The dragon and the two beasts" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be" %}}.
 
-But otherwise the {{% bible val="witnesses" link="rev:11,3-13" lang="en" %}} and the {{% bible val="beasts" link="rev:13" lang="en" %}} are very different, as the following comparison shows.
+But otherwise the {{% bible val="witnesses" link="rev:11,3-13" lang="en" %}} and the {{% bible val="beasts" link="rev:13" lang="en" %}} are very different, as the points below show.
+
+{{% study %}}
 
 | Theme | The beasts | The witnesses |
 |-------|-------------|---------------|
@@ -125,6 +143,8 @@ But otherwise the {{% bible val="witnesses" link="rev:11,3-13" lang="en" %}} and
 | boasting | {{% bible val="The first" link="rev:13,4-6" lang="en" %}} and {{% bible val="second" link="rev:13,11-15" lang="en" %}} *beasts pretend to be God and mock God*. | People rejoice *that the witnesses are dead and display their bodies* {{% bible val="Rev 11:9-10" link="rev:11,9-10" lang="en" %}} |
 | Overcome | {{% bible val="The first" link="rev:13,7" lang="en" %}} and {{% bible val="second" link="rev:13,15" lang="en" %}} beast *kill their enemies*. </br> Each subdues and gives the {{% bible val="first" link="rev:13,8" lang="en" %}} and {{% bible val="second" link="rev:13,16-17" lang="en" %}} beast their loyalty. </br>But *NOT the faithful*. | The saints will be *restored and exalted* {{% bible val="Rev 11:11-12" link="rev:11,11-12" lang="en" %}}</br> All others will *either be judged or give glory to God.* {{% bible val="Rev 11:13-14" link="rev:11,13-14" lang="en" %}} |
 | Attention! | The {{% bible val="first" link="rev:13,9-10" lang="en" %}} and {{% bible val="second beast" link="rev:13,18" lang="en" %}} have *hidden dangers* | *Extensive visible triumph*: God's kingdom is here {{% bible val="Rev 11:15-19" link="rev:11,15-19" lang="en" %}} |
+
+{{% /study %}}
 
 The beasts, in their own way, try to imitate {{% bible val="Jesus the overcomer" link="rev:12,1-12" lang="en" %}} — but the imitation is hollow. The differences make that plain:
 

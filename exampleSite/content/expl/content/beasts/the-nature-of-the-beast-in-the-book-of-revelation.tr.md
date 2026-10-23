@@ -60,12 +60,18 @@ Sonra ejderha kadına öfkelendi ve kadının soyundan geriye kalanlarla, Tanrı
 <a name="042c"></a>
 Önceki ayetler, ejderhanın çocuğa (İsa'ya) ve annesine saldırısını anlatır. İki denemesinde de tamamen başarısız olur; bu yüzden şimdi burada ayrıntılarıyla tanımlanan iki canavarı bir araya getirir — ve bu tanım rastgele uydurulmuş değildir. İlk okuyucuların hemen tanıyacağı bir avuç Eski Antlaşma pasajına dayanır.
 
+{{% background %}}
+
 - İlk referans {{% bible val="Eyüp 40:15–41:34" link="job:40,15" lang="tr" %}} kitabına kadar gider: Behemot ve Livyatan'ı, biri denizden biri karadan gelen iki canavarı anlatan uzun bir pasajdır — tıpkı Vahiy 13'teki canavarların da denizden ve karadan gelmesi gibi. İnsana karşı yenilmezdirler, ama Tanrı'ya karşı değil ({{% bible val="Yşa 27:1" link="isa:27" lang="tr" %}}); {{% bible val="Mez.104" link="psa:104,26" lang="tr" %}} hatta Livyatan'ın Tanrı'yla karşılaştırıldığında bir oyuncaktan farksız olduğu şeklinde de okunabilir, gerçi İbranicesi belirsizdir ve çoğu çeviri "oynayan" olarak Tanrı'yı değil, Livyatan'ın kendisini alır.
 - Benzer bir ipucu {{% bible val="Va 10:2'de" link="rev:10,2" lang="tr" %}} de görülür; burada melek ayağını karaya ve denize basarak ikisi üzerinde de hak iddia eder.
 - İlk canavar tanımını {{% bible val="Dan.7'den" link="dan:7" lang="tr" %}} alır; bu bölüm dört canavarı anlatır: birincisi aslan gibi, ikincisi ayı gibi, üçüncüsü pars gibidir. Hepsi birlikte yedi başa sahiptir (yalnızca üçüncü canavarın dört başı {{% bible val="Dan.7:6'da" link="dan:7,6" lang="tr" %}} açıkça belirtilir; diğer üçünün birer başa sahip olduğu varsayılır) ve dördüncü canavarın {{% bible val="on kral anlamına gelen" link="dan:7,24" lang="tr" %}} on boynuzu vardır — bu ayrıntı Dan.7'yi {{% bible val="Va.17'deki" link="rev:17,12" lang="tr" %}} fahişenin canavarıyla bile bağlantılı kılar. Peki Dan.7'ye geri dönmenin amacı ne? Bölümü sonuna kadar okuyun, göreceksiniz: bütün amacı canavarın yenildiğini göstermektir.
 - Bir sonraki büyük paralellik {{% bible val="Dan.3'tür" link="dan:3" lang="tr" %}}; Daniel'in arkadaşlarının ateşli fırındaki iyi bilinen öyküsü. Bu, ikinci canavarın durumunu betimler: tapılması gereken bir heykel, reddedenlerin ateşle cezalandırılması ve heykelin 60 arşın x 6 arşın ölçülerinde ve ona secde etmesi gereken görevliler ile çalgıların listelerinin altışar altışar tekrarlanmasında bile {{% bible val="Dan.3'te" link="dan:3,1" lang="tr" %}} altı sayısının bir yankısı. Öykü, Daniel'in arkadaşlarının kurtulmasıyla ve {{% bible val="kralın Tanrı'yı tanıyıp övmesi, ardından arkadaşları yükseltmesiyle" link="dan:3,28-30" lang="tr" %}} sona erer.
 
+{{% /background %}}
+
 İlk bakışta bu bölüm, ejderha ve canavarlarını yenilmez hükümdarlar ve zalimler olarak sunar. Ama bu Eski Antlaşma kaynaklarının her birinin nasıl bittiğine bakın; Tanrı'yla ve halkıyla karşılaştıkları an kanıtlar yüksek sesle "kaybeden" diye bağırır.
+
+{{% background %}}
 
 Bununla birlikte, ilk canavarın görünümü {{% bible val="Daniel'deki dört krallığın" link="dan:7,17" lang="tr" %}} yalnızca birine denk düşmez — aşağıdaki tablonun gösterdiği gibi, hepsinden birden özellikler ödünç alır.
 
@@ -80,6 +86,8 @@ Bununla birlikte, ilk canavarın görünümü {{% bible val="Daniel'deki dört k
 | {{% bible val="Üçüncü hayvanın 4 başı, diğerlerinin birer başı vardır" link="dan:7,6" lang="tr" %}} | {{% bible val="7 başı vardır" link="rev:13,1" lang="tr" %}} |
 | {{% bible val="Boynuz büyük şeyler söylüyor" link="dan:7,8" lang="tr" %}} </br> {{% bible val="En Yüce Olan'a karşı konuşuyor" link="dan:7,25" lang="tr" %}} | {{% bible val="Hayvan Tanrı'ya küfrediyor" link="rev:13,6" lang="tr" %}} |
 | {{% bible val="10 boynuz 10 kraldır" link="dan:7,24" lang="tr" %}} | {{% bible val="10 taç" link="rev:13,1" lang="tr" %}} |
+
+{{% /background %}}
 
 ## İki yönlü saldırı
 
@@ -98,7 +106,11 @@ Bu iki canavara daha yakından bakalım. Birlikte hareket eder ve birbirlerini d
 | Tanrı'nın halkına karşı | kutsallarla savaşır ve onları yener ({{% bible val="13:7" link="rev:13,7" lang="tr" %}}) | reddedenleri öldürür; işaret olmadan alışveriş yok ({{% bible val="13:15–17" link="rev:13,15-17" lang="tr" %}}) |
 | Okura çağrı | kulağı olan işitsin; sabır ve iman burada ({{% bible val="13:9–10" link="rev:13,9-10" lang="tr" %}}) | bilgelik burada; anlayışı olan hesaplasın ({{% bible val="13:18" link="rev:13,18" lang="tr" %}}) |
 
+{{% study %}}
+
 Bu son satırda gizlenmiş bir başka ilginç kiazma daha var. "İşte ... sabır ve iman" ifadesi "kulağı olan işitsin" ifadesiyle eşleşir, "işte bilgelik" ifadesi de "anlayanı varsa hesaplasın" ifadesiyle eşleşir — bu da bir denklik kurar: İbranice düşüncede işitmek itaat etmek anlamına geldiği için, işitmenin sabır ve imana oranı neyse, anlayışın bilgeliğe oranı da odur. Başka bir deyişle, bilgi yalnızca ilk adımdır; asıl amacı eyleme yol açmaktır.
+
+{{% /study %}}
 
 Şeytan bunu iki şekilde yapar:
 
@@ -106,6 +118,8 @@ Bu son satırda gizlenmiş bir başka ilginç kiazma daha var. "İşte ... sabı
 - Aldatmayla — bunu anlamak biraz daha zor, ama açıklayacağım. Bunun iki yüzü vardır. İlk canavar güç ve denetim sunar ve bu teklifi şiddetle destekler: "Bu canavar gibisi var mı? Onunla kim savaşabilir?" (13:4). İkincisi zenginlik ve güvenlik sunar: belirtiler ve harikalarla ve yalnızca işaretini alanlara açık bir pazarla çalışır (13:13–17).
 
 Bu yöne işaret eden birkaç gözlemle başlayalım:
+
+{{% study %}}
 
 - Ejderha ve iki canavar, Kutsal Üçlü gibi üç tanedir.
 - {{% bible val="Ejderha bütün yetkiyi ilk canavara verir" link="rev:13,2" lang="tr" %}}, tıpkı {{% bible val="Tanrı'nın gökte ve yerde bütün yetkiyi İsa'ya vermesi" link="mat:28,18" lang="tr" %}} gibi.
@@ -117,11 +131,15 @@ Bu yöne işaret eden birkaç gözlemle başlayalım:
 - {{% bible val="Herkesin önünde gökten ateş yağdırabilir" link="rev:13,13" lang="tr" %}}; bu, {{% bible val="İlyas'ın gerçek Tanrı'yı gösteren belirtisini" link="1ki:18,38" lang="tr" %}} anımsatır.
 - {{% bible val="Bir heykeli canlandırabilir" link="rev:13,15" lang="tr" %}}; bu, {{% bible val="onun bir putdan daha fazlası olduğunu gösterir" link="psa:115,4-8" lang="tr" %}} ve {{% bible val="Hezekiel'deki Ruh'un işini" link="ezk:37" lang="tr" %}} anımsatır.
 
-Bunları bir araya getirince, Şeytan'ın kötü bir üçlü birlik kurduğu açıkça ortaya çıkar:
+{{% /study %}}
+
+Şeytan'ın kötü bir üçlü birlik kurduğu açıkça ortaya çıkar (kanıtlar yukarıdaki kutudadır):
 
 - Baba Tanrı'yı temsil eden ve bütün gücü veren ejderha,
 - dirilen, bütün uluslar üzerinde güç sahibi olan, İsa'yı temsil eden ve ikinci canavar tarafından kendisine tapılan ilk canavar, ve bunun karşılığında
 - sahte Kutsal Ruh gibi davranan, herkesi ilk canavara taptıran, belirtiler ve mucizeler yapan, ölü heykeli canlandıran ikinci canavar.
+
+{{% study %}}
 
 | Ejderha ve iki canavar | Baba, Oğul ve Kutsal Ruh |
 |-------------------------------|-----------------------------|
@@ -132,6 +150,8 @@ Bunları bir araya getirince, Şeytan'ın kötü bir üçlü birlik kurduğu aç
 | {{% bible val="İkinci canavar ejderha gibi konuşur" link="rev:13,11" lang="tr" %}} | {{% bible val="Kutsal Ruh kendiliğinden konuşmaz" link="jhn:16,13" lang="tr" %}} |
 | {{% bible val="İnsanların önünde büyük işler yapar" link="rev:13,13-14" lang="tr" %}} | {{% bible val="İsa çoğu zaman gizlide iş görür" link="mat:9,30" lang="tr" %}} ({{% bible val="Mr 5:43" link="mrk:5,43" lang="tr" %}}) |
 | {{% bible val="Kendisine tapmayan herkesi öldürür" link="rev:13,15" lang="tr" %}} | {{% bible val="Kutsal Ruh incitilebilir" link="eph:4,30" lang="tr" %}} ve {{% bible val="zorlamaz" link="2co:3,17" lang="tr" %}} |
+
+{{% /study %}}
 
 ## Karanlık taraf
 

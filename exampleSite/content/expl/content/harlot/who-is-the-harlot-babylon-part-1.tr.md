@@ -49,7 +49,11 @@ Tek bir bölüm için bu çok fazla oyuncu, ama her biri resmi tamamlamak için 
 ## Kızıl canavar
 
 <a name="87f4"></a>
-Bu canavarın, 13. bölümdeki İlk Canavar'la birçok paralelliği vardır. Aşağıdaki tabloda eşleşen ayrıntılar **kalın**, eşleşen sonuçlar ise *italik* olarak işaretlenmiştir.
+Bu canavarın, 13. bölümdeki İlk Canavar'la birçok paralelliği vardır.
+
+{{% study %}}
+
+Aşağıdaki tabloda eşleşen ayrıntılar **kalın**, eşleşen sonuçlar ise *italik* olarak işaretlenmiştir.
 
 | Vahiy 13'teki ilk canavar | Vahiy 17'deki canavar |
 |----------------------------------|----------------------------|
@@ -59,6 +63,8 @@ Bu canavarın, 13. bölümdeki İlk Canavar'la birçok paralelliği vardır. Aş
 | {{% bible val="Küfür dolu konuşma" link="rev:13,5-6" lang="tr" %}} | {{% bible val="Küfür dolu ad" link="rev:17,3" lang="tr" %}} |
 | {{% bible val="Kutsallarla savaşır ve onları yener" link="rev:13,7" lang="tr" %}} | {{% bible val="Kuzu'yla savaşır ve yenilir" link="rev:17,14" lang="tr" %}} </br> {{% bible val="Fahişeyle savaşır ve onu yok eder" link="rev:17,16" lang="tr" %}}. |
 | {{% bible val="Yaşam kitabında adı yazılı olmayan herkes canavara tapar" link="rev:13,8" lang="tr" %}} | {{% bible val="Yaşam kitabında adı yazılı olmayan herkes şaşkınlığa uğrar" link="rev:17,8" lang="tr" %}} |
+
+{{% /study %}}
 
 Bu canavar aynı zamanda, askeri gücü de dâhil olmak üzere, imparatorun bir resmidir; kızıl rengi ise krallığa işaret eder.
 
@@ -75,11 +81,27 @@ Bu, Tanrı'nın Vahiy 1:8'de Ebedi Olan, {{% bible val="var olan, var olmuş ve 
 <a name="9b63"></a>
 Kadının üzerinde oturduğu yedi tepe, Roma'yı tanımlayan {{% bible val="yedi tepedir" link="rev:17,9" lang="tr" %}} — bu, yorumcular arasında neredeyse oybirliğiyle kabul edilen bir sonuçtur, çünkü Roma antik çağda "yedi tepe üzerindeki şehir" olarak ünlüydü. İlk okuyucular için Roma, imparatorun makam yeriydi; imparator, sanki Tanrı'yla eşitmiş gibi Rablerin Rabbi ve Kralların Kralı olarak övülüyordu — bu, Papa ya da daha sonra Roma'da yaşamış olan başka biri hakkında bir kehanet değildir.
 
+{{% study %}}
+
 Aynı zamanda tepeler krallıkları da temsil edebilir, çünkü metin onları kral olarak yorumlamaya devam eder ve her kralın kendine ait bir krallığı vardır. Bu okuma, {{% bible val="Yeşaya'da" link="isa:2,2" lang="tr" %}} en büyük krallığın bir dağ olarak resmedilmesiyle ve {{% bible val="Babil'in bir dağ olarak tanımlanmasıyla" link="jer:51,25" lang="tr" %}} ve {{% bible val="Daniel'de yeryüzünü dolduran, yeni tanrısal krallığı temsil eden dağla" link="dan:2,35" lang="tr" %}} desteklenir. Edom'un kendi dağlık anayurdu benzer bir dile yol açtı ({{% bible val="Edom'un dağı, Seir Dağı" link="ezk:35,3" lang="tr" %}}); ancak orada dağ, sadece sembolik bir imge değil, Edom'un gerçek toprağıdır.
 
-{{% bible val="Yedi kral kimdir?" link="rev:17,10" lang="tr" %}} Beşi zaten düşmüştür, biri şu anda hüküm sürmektedir ve yedincisi henüz gelmemiştir, gelince de yalnızca kısa bir süre hüküm sürecektir. Birlikte kronolojik bir diziyi tanımlarlar ve bu süre boyunca kralların canavarı desteklediğini gösterirler. Bu, kitabın tarihlendirilmesi açısından Vahiy'in en çok tartışılan bölümlerinden biridir: bazı araştırmacılar belirli bir "altıncı kral"a (genellikle Nero) ulaşmak için Julius Sezar'dan ya da Augustus'tan itibaren gerçek imparatorları saymaya çalışır ve bunun MS 60'ların sonlarına işaret ettiğini öne sürer; erken kilisenin kendi tanıklığını (İrenaeus) izleyen çoğunluk görüşü ise, Yuhanna'nın Domitianus döneminde, MS 90'ların ortasında yazdığını kabul eder ve diziyi burada yaptığımız gibi daha sembolik okur. Belirli bir altıncı kralı adlandırmaya çalışmayacağız; mesele kesin bir sayım değil, son geri sayımın yakın olmasıdır — {{% bible val="uyanık kalma çağrısıdır" link="rev:16,15" lang="tr" %}}. Bu tarihlendirme sorusunun sitenin genelinde nasıl işlendiğine dair daha kapsamlı bir bakış için {{% int_link val="Vahiy'i kim, ne zaman yazdı" link="/expl/topics/others/who-wrote-revelation-and-when" %}} yazısına bakın.
+{{% /study %}}
 
-Ardından canavarın kendisi de {{% bible val="yedilerden biri olan sekizinci bir kral olarak gelir" link="rev:17,11" lang="tr" %}}. Daha sonraki Hristiyan geleneğinde (Yeni Ahit'in kendi terminolojisinde değil), Pazar günü, Mesih'in "üçüncü günde" dirilişinden sonra yeni bir yaratılışın başlangıcını simgeleyen "sekizinci gün" olarak anılmaya başlandı ({{% bible val="Mesih üçüncü günde diriltildi" link="1co:15,3-4" lang="tr" %}}). Eğer burada kastedilen bu sonraki çağrışımsa, canavarın sekizinci bir kral olarak ortaya çıkması, aynı türden bir yenilenmeye yönelik sahte bir iddia olurdu — sahte bir diriliş. Canavarın kendi dirilişi teması zaten {{% bible val="13. bölümde" link="rev:13,3-4" lang="tr" %}} ve {{% bible val="16. bölümde" link="rev:16,13" lang="tr" %}} işlenmişti; oradaki kurbağalar hem Mısır'daki kurbağa belasını hem de doğum ve dirilişle ilişkilendirilen Mısır tanrıçası Heket'i hatırlatır.[^frogs] Bu parçaları birleştirince, canavarın sekizinci günde ortaya çıkması bir yenilmezlik iddiası olarak okunur. Ama bu sahte bir iddiadır: canavar zaten "bir zamanlar vardı, şimdi yok ve yıkımına gidiyor olan" diye deşifre edilmiştir. Bu da canavarın yedilerden biri olduğunu doğrular — onların üzerinde duran bir süper kahraman değil.
+{{% bible val="Yedi kral kimdir?" link="rev:17,10" lang="tr" %}} Beşi zaten düşmüştür, biri şu anda hüküm sürmektedir ve yedincisi henüz gelmemiştir, gelince de yalnızca kısa bir süre hüküm sürecektir. Birlikte kronolojik bir diziyi tanımlarlar ve bu süre boyunca kralların canavarı desteklediğini gösterirler. Belirli bir altıncı kralı adlandırmaya çalışmayacağız; mesele kesin bir sayım değil, son geri sayımın yakın olmasıdır — {{% bible val="uyanık kalma çağrısıdır" link="rev:16,15" lang="tr" %}}. Bu tarihlendirme sorusunun sitenin genelinde nasıl işlendiğine dair daha kapsamlı bir bakış için {{% int_link val="Vahiy'i kim, ne zaman yazdı" link="/expl/topics/others/who-wrote-revelation-and-when" %}} yazısına bakın.
+
+{{% study %}}
+
+Bu, kitabın tarihlendirilmesi açısından Vahiy'in en çok tartışılan bölümlerinden biridir: bazı araştırmacılar belirli bir "altıncı kral"a (genellikle Nero) ulaşmak için Julius Sezar'dan ya da Augustus'tan itibaren gerçek imparatorları saymaya çalışır ve bunun MS 60'ların sonlarına işaret ettiğini öne sürer; erken kilisenin kendi tanıklığını (İrenaeus) izleyen çoğunluk görüşü ise, Yuhanna'nın Domitianus döneminde, MS 90'ların ortasında yazdığını kabul eder ve diziyi burada yaptığımız gibi daha sembolik okur.
+
+{{% /study %}}
+
+Ardından canavarın kendisi de {{% bible val="yedilerden biri olan sekizinci bir kral olarak gelir" link="rev:17,11" lang="tr" %}}. Canavar kendini yenilmez gösterir; bu, dirilişin bir taklididir. Ama o zaten "bir zamanlar vardı, şimdi yok ve yıkımına gidiyor olan" diye deşifre edilmiştir: yedilerden biridir, onların üzerinde duran bir süper kahraman değil.
+
+{{% study %}}
+
+Daha sonraki Hristiyan geleneğinde (Yeni Ahit'in kendi terminolojisinde değil), Pazar günü, Mesih'in "üçüncü günde" dirilişinden sonra yeni bir yaratılışın başlangıcını simgeleyen "sekizinci gün" olarak anılmaya başlandı ({{% bible val="Mesih üçüncü günde diriltildi" link="1co:15,3-4" lang="tr" %}}). Eğer burada kastedilen bu sonraki çağrışımsa, canavarın sekizinci bir kral olarak ortaya çıkması, aynı türden bir yenilenmeye yönelik sahte bir iddia olurdu — sahte bir diriliş. Canavarın kendi dirilişi teması zaten {{% bible val="13. bölümde" link="rev:13,3-4" lang="tr" %}} ve {{% bible val="16. bölümde" link="rev:16,13" lang="tr" %}} işlenmişti; oradaki kurbağalar hem Mısır'daki kurbağa belasını hem de doğum ve dirilişle ilişkilendirilen Mısır tanrıçası Heket'i hatırlatır.[^frogs] Bu parçaları birleştirince, canavarın sekizinci günde ortaya çıkması bir yenilmezlik iddiası olarak okunur. Ama bu sahte bir iddiadır: canavar zaten "bir zamanlar vardı, şimdi yok ve yıkımına gidiyor olan" diye deşifre edilmiştir. Bu da canavarın yedilerden biri olduğunu doğrular — onların üzerinde duran bir süper kahraman değil.
+
+{{% /study %}}
 
 ## On kral
 
@@ -91,7 +113,11 @@ Belirtilen amaçları Kuzu'ya karşı savaş açmaktır. Göreceğimiz gibi işl
 ## Fahişe
 
 <a name="b45d"></a>
-Fahişenin, çoğunlukla bilinçli bir karşıtlık olarak, 21. bölümdeki gelinle ve 12. bölümdeki kadınla birçok paralelliği vardır. Tabloda eşleşenler **kalın**, ayrılanlar *italik* olarak işaretlenmiştir.[^women]
+Fahişe, 12. bölümdeki kadının ve 19–21. bölümlerdeki gelinin ayna görüntüsüdür: Tanrı'sız bir şehir, Tanrı'nın şehrinin karşısında.[^women] Ayrıca Thyatira'daki Jezebel'e de benzer: aldatma, büyücülük, açgözlülük, kutsalların öldürülmesi ve ani bir yargı.
+
+{{% study %}}
+
+İlk tabloda eşleşenler **kalın**, ayrılanlar *italik* olarak işaretlenmiştir.
 
 | 12. bölümdeki kadın | 17. bölümdeki fahişe | 19. ve 21. bölümlerdeki gelin |
 |---|---|---|
@@ -123,6 +149,8 @@ Fahişenin, {{% bible val="Thyatira'da" link="rev:2,20" lang="tr" %}} kendi baş
 | **{{% bible val="Tanrı tanıkların kanının hesabını sorar" link="2ki:9,7" lang="tr" %}}** | **{{% bible val="Tanrı tanıkların kanının hesabını sorar" link="rev:19,2" lang="tr" %}}** |
 | **{{% bible val="Yargı çabuk gelir" link="2ki:9,33-35" lang="tr" %}}** | **{{% bible val="Mahkeme çabuk gelir" link="rev:18,10" lang="tr" %}}** ({{% bible val="Vah 18:17" link="rev:18,17" lang="tr" %}}, {{% bible val="Vah 18:19" link="rev:18,19" lang="tr" %}}) |
 | **{{% bible val="Tanrı halefleri yargılar" link="1ki:18,40" lang="tr" %}}** ({{% bible val="2.Kr 10:19" link="2ki:10,19" lang="tr" %}}) | **{{% bible val="Tanrı halefleri yargılar" link="rev:18,9-11" lang="tr" %}}** ({{% bible val="Vah 2:23" link="rev:2,23" lang="tr" %}}) |
+
+{{% /study %}}
 
 Son olarak, 13. bölümdeki ikinci canavarla yan yana çalışır, ama aynı figür değildir.[^apart] İkinci canavarın dinde yaptığını o ticarette ve kültürde yapar.[^alike]
 

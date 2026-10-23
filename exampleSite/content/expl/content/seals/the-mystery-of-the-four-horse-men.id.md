@@ -52,6 +52,8 @@ Ada dua penafsiran utama, dan keduanya punya alasan masing-masing:
 - Penunggang kuda pertama melambangkan karakter yang baik - misalnya mencerminkan {{% bible val="pemberitaannya ke seluruh dunia" link="mrk:13,10" lang="ind" %}}.
 - Penunggang kuda pertama melambangkan karakter yang jahat, sama seperti para penunggang kuda lainnya.
 
+{{% study %}}
+
 ## Pengamatan-Pengamatan Awal
 
 <a name="2795"></a>
@@ -62,6 +64,8 @@ Pertama, sebuah teks dalam kitab nabi Zakharia menggambarkan {{% bible val="bebe
 Jika kita memperhatikan para penunggang kuda itu sendiri, kita melihat baik kesamaan maupun perbedaan di antara mereka. Keempatnya dipanggil untuk bertindak; tidak satu pun dari mereka bertindak atas kehendaknya sendiri. Setiap penunggang diberi sesuatu untuk digunakan dalam tindakannya. Namun penunggang kuda pertama ditandai secara khusus oleh kata kerja rangkap dalam bahasa Yunani - ia "maju sebagai penakluk, dan untuk menaklukkan" - sebuah konstruksi yang tegas yang tidak digunakan bagi penunggang-penunggang lainnya. Tindakan penunggang kuda pertama tetap tidak jelas ("menang"), sedangkan bagi yang lain dijabarkan dengan gamblang: membawa perang, kelaparan, dan kematian.
 
 Penunggang kuda ketiga berbeda lagi: ia tidak memiliki ungkapan "dan diberikanlah kepadanya." Sebaliknya, ia hanya memegang alatnya di tangannya, yang dengan sendirinya menandakan aktivitas atau otorisasi ilahi, dan sebuah pernyataan justru dikeluarkan dari takhta, dari tengah-tengah keempat makhluk hidup itu, bukan diserahkan langsung kepadanya.
+
+{{% /study %}}
 
 ## Rahasia Penunggang Kuda Ketiga
 
@@ -80,6 +84,10 @@ Jadi ini adalah kelaparan, serius tetapi terbatas. Upah sehari hanya cukup untuk
 
 <a name="bdcd"></a>
 "Maka aku melihat Anak Domba itu membuka yang pertama dari ketujuh meterai itu, dan aku mendengar yang pertama dari keempat makhluk itu berkata dengan suara bagaikan bunyi guruh: Marilah! 2 Dan aku melihat: sesungguhnya, ada seekor kuda putih dan orang yang menungganginya memegang sebuah panah dan kepadanya dikaruniakan sebuah mahkota, lalu ia maju sebagai pemenang untuk merebut kemenangan."
+
+Para penafsir menimbang bukti ke kedua arah. Penyelesaian di bawah memberikan pembacaan yang diikuti situs ini; bukti untuk kedua sisi ada di dalam kotak.
+
+{{% study %}}
 
 Ada beberapa argumen masuk akal untuk membaca penunggang kuda ini sebagai sosok yang baik:
 
@@ -101,6 +109,8 @@ Ini membingungkan - mengapa ada rujukan-rujukan yang menunjuk baik kepada makna 
 
 - Panah dalam tangan manusia muncul lebih awal daripada panah Esau: {{% bible val="Ismael tumbuh di padang gurun menjadi seorang pemanah" link="gen:21,20" lang="ind" %}}, dan ibunya meletakkannya {{% bible val="kira-kira sejauh satu tembakan panah" link="gen:21,16" lang="ind" %}} untuk menunggu dia mati. {{% bible val="Panah pemburu Esau" link="gen:27" lang="ind" %}} adalah contoh yang biasa dipakai, tetapi tidak satu pun dari kedua kisah itu membuat panah menjadi jahat pada dirinya sendiri, dan panah yang pertama sekali disebut dalam Alkitab adalah pelangi, sebuah tanda perjanjian ({{% bible val="Kejadian 9:13" link="gen:9,13" lang="ind" %}}). Bobot argumen ini bersandar pada Gog dalam Yehezkiel, bukan pada Kejadian.
 - Ketiga wacana Yesus tentang akhir zaman, dalam {{% bible val="Injil Markus" link="mrk:13,5-9" lang="ind" %}}, {{% bible val="Injil Matius" link="mat:24,4-8" lang="ind" %}}, dan {{% bible val="Injil Lukas" link="luk:21,8-11" lang="ind" %}}, mengikuti urutan yang sama seperti yang ditemukan dalam Wahyu: ketiganya dibuka dengan sesuatu seperti "Waspadalah supaya kamu jangan disesatkan, sebab banyak orang akan datang dengan memakai nama-Ku." Perang selalu muncul kedua, kemudian kelaparan, dan dalam Lukas ini diikuti pula oleh "sampar."
+
+{{% /study %}}
 
 ## Penyelesaiannya
 
