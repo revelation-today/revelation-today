@@ -66,7 +66,7 @@ Yeşaya'daki bir başka pasaj daha da ileri giderek Yahudi olmayanları İsrail'
 Yeşaya'nın son bölümüne daha yakından bakmak gerekir. Bu bölüm üç ana kısma ayrılabilir:
 
 - {{% bible val="ahir zaman İsrail’inin tanımı" link="isa:66,7-14" lang="tr" %}}
-- {{% bible val="ahir zaman İsrail’inin yargılanması" link="isa:66,15-18" lang="tr" %}}
+- {{% bible val="ahir zaman İsrail’inin yargılanması" link="isa:66,15-17" lang="tr" %}}
 - {{% bible val="Yahudi olmayanların dahil edilmesi" link="isa:66,18-21" lang="tr" %}}
 
 Son kısım, adım adım:

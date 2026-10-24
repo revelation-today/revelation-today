@@ -133,7 +133,7 @@ Tulah terakhir dari kesembilan tulah ini adalah kegelapan — dianggap sebagai t
 <a name="ae4a"></a>
 Tulah kesepuluh berdiri terpisah dari yang lain, tertunda dan menempati kategorinya sendiri: kematian anak sulung.
 
-## Kematian Anak Sulung
+### Kematian Anak Sulung
 
 <a name="4f21"></a>
 Untuk memahami mengapa tulah ini berbeda, ada baiknya kita mengingat kembali sedikit latar belakangnya. Ketika Allah pertama kali memanggil Musa, Ia {{% bible val="menyatakan diri-Nya sebagai bapa dan menyebut Israel sebagai anak sulung-Nya" link="exo:4,22-23" lang="ind" %}}. Maka ketika Firaun berusaha membunuh Israel, Allah membalas dengan cara yang setimpal, dengan membunuh anak sulung Mesir.

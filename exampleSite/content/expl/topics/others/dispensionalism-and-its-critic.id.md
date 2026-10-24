@@ -44,7 +44,7 @@ Dengan pembacaan semacam ini, kitab tersebut tidak akan masuk akal sama sekali b
 <a name="423b"></a>
 Teori ini sering melontarkan klaim tanpa menjelaskannya, atau mengerahkan sederet ayat Alkitab yang dilepaskan dari konteksnya.
 
-Salah satu contohnya adalah {{% bible val="penundaan 2000 tahun dalam nubuat 70 minggu" link="dan:9,26-27" lang="ind" %}}, sebuah landasan penting dalam sistem ini. Tafsiran itu bergantung pada satu pembacaan yang sangat spesifik — sampai ke tanda bacanya — dari sebuah ayat, dan tanda baca khusus itu hanya didukung oleh tradisi terjemahan King James.
+Salah satu contohnya adalah {{% bible val="penundaan 2000 tahun dalam nubuat 70 minggu" link="dan:9,26-27" lang="ind" %}}, sebuah landasan penting dalam sistem ini. Daniel 9:26–27 tidak pernah menyebut adanya jeda antara minggu ke-69 dan minggu ke-70. Tujuh puluh minggu itu ditetapkan sebagai satu kurun ({{% bible val="9:24" link="dan:9,24" lang="ind" %}}), dan penundaan itu disimpulkan dari cara ayat-ayat itu dibaca.
 
 ### Meramalkan Masa Depan, Berulang Kali
 
@@ -54,7 +54,7 @@ Gaya penafsiran ini sangat sering dipakai untuk mengklaim bahwa suatu unsur tert
 Beberapa kelemahan mewarnai pendekatan ini:
 
 - Rencana Allah yang terperinci tidak selalu tetap meskipun telah diberitakan oleh para nabi — lihat kisah {{% bible val="Yunus" link="jon:3,4-10" lang="ind" %}} atau {{% bible val="Hizkia" link="isa:38,1-5" lang="ind" %}}, di mana hasil yang telah diumumkan justru berubah.
-- Sebagai sebuah kitab nubuat, tujuan Kitab Wahyu bukanlah untuk meramalkan, melainkan untuk menggambarkan kemungkinan-kemungkinan konsekuensi dan mendesak orang untuk bertindak agar konsekuensi itu tidak perlu terjadi.
+- Nubuat jauh lebih dari sekadar ramalan. Kitab Wahyu meramalkan satu hal tanpa syarat, yaitu bahwa Kerajaan Allah akan datang, tetapi cara kedatangannya bergantung pada tanggapan manusia, sehingga kitab ini menggambarkan kemungkinan-kemungkinan konsekuensi dan mendesak orang untuk bertindak agar konsekuensi itu tidak perlu terjadi.[^predict]
 - Sudah begitu banyak "kecocokan" yang konon sempurna dengan peristiwa-peristiwa sejarah, masing-masing meyakinkan pada zamannya, yang kemudian diam-diam direvisi seiring berjalannya waktu. Banyaknya kecocokan yang ditinggalkan ini justru menjadi argumen terkuat yang menentang metode yang menghasilkannya.
 - Ramalan-ramalan ini sering dibangun di atas pandangan yang sangat sempit. Ketujuh surat kepada jemaat-jemaat, misalnya, ditafsirkan sebagai tujuh zaman sejarah gereja, dengan klaim bahwa kita sekarang hidup pada zaman terakhir, yaitu zaman Laodikia yang suam-suam kuku. Itu mungkin menggambarkan sebagian gereja Barat, tetapi akan sangat keliru menggambarkan banyak jemaat di seluruh dunia yang saat ini sungguh-sungguh mengalami kesengsaraan.
 
@@ -125,3 +125,5 @@ Teori ini juga membuat klaim-klaim politik yang tidak didukung oleh Alkitab, dan
 [^lindsey]: Rossing, *The Rapture Exposed*, bab 2, mengutip Hal Lindsey, *The Rapture: Truth or Consequences*, hlm. 101–102.
 
 [^politics]: Rossing, *The Rapture Exposed*, bab 3 (berdirinya Israel tahun 1948 sebagai "tanda super profetis", dan naskah Left Behind untuk Timur Tengah); dalam kata pengantar edisi paperback ia menyebut "dukungan terhadap militerisme dan ekspansionisme di Timur Tengah" di antara arah yang dapat ditempuh teologi pengangkatan.
+
+[^predict]: Bauckham, *The Theology of the Book of Revelation*, hlm. 148–149: nubuat menilai keadaan sekarang, meramalkan, dan menuntut tanggapan; unsur ketigalah yang menjaga ramalan itu tidak bersifat fatalistis.

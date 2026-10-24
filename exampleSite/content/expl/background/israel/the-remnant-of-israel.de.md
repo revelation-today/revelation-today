@@ -65,7 +65,7 @@ Eine weitere Passage in Jesaja bezieht die Nationen sogar in den Tempeldienst Is
 
 Das letzte Kapitel des Jesajabuches verdient einen genaueren Blick. Es lässt sich in drei Hauptteile gliedern:
 - {{% bible val="Beschreibung des endzeitlichen Israel" link="isa:66,7-14" lang="de" %}},
-- {{% bible val="Gericht über das endzeitliche Israel" link="isa:66,15-18" lang="de" %}},
+- {{% bible val="Gericht über das endzeitliche Israel" link="isa:66,15-17" lang="de" %}},
 - {{% bible val="Einbeziehung der Nationen" link="isa:66,18-21" lang="de" %}}.
 
 Der letzte Teil, Schritt für Schritt:

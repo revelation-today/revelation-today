@@ -65,7 +65,7 @@ Bagian lain dari Yesaya kemudian memasukkan bangsa-bangsa lain ke dalam pelayana
 
 Pasal terakhir Kitab Yesaya perlu dilihat lebih teliti. Pasal ini dapat dibagi menjadi tiga bagian besar:
 - {{% bible val="gambaran tentang Israel akhir zaman" link="isa:66,7-14" lang="ind" %}},
-- {{% bible val="penghakiman atas Israel akhir zaman" link="isa:66,15-18" lang="ind" %}},
+- {{% bible val="penghakiman atas Israel akhir zaman" link="isa:66,15-17" lang="ind" %}},
 - {{% bible val="dimasukkannya bangsa-bangsa lain" link="isa:66,18-21" lang="ind" %}}.
 
 Bagian terakhir, langkah demi langkah:

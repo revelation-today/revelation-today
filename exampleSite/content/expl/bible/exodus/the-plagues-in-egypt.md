@@ -69,29 +69,29 @@ Revelation keeps the same pattern. As Goshen was spared, God's sealed people are
 
 ## The plagues in detail
 
-## {{% bible val="1, Water to blood" link="exo:7,14-25" lang="en" %}}
+### {{% bible val="1, Water to blood" link="exo:7,14-25" lang="en" %}}
 
 The Nile turns to blood, and all its water becomes unusable.
 
 The Nile is the lifeblood of Egypt: its annual flood makes the fields fertile, and its water is the people’s source of life. The god of the Nile was regarded as the father of all the gods in Egypt[^nile] — but this time, he looks as though he has been slaughtered.
 
-## {{% bible val="2, Frogs" link="exo:8,1-15" lang="en" %}}
+### {{% bible val="2, Frogs" link="exo:8,1-15" lang="en" %}}
 
 Frogs overrun the land, and this time Pharaoh recognizes God’s hand behind it and asks Moses to stop it.
 
 The frog goddess Heqet, companion of the potter god Khnum, helped at births and was linked with new life.[^heqet] Since Pharaoh had been the one controlling birth among the Israelite children, God is declaring, through her own symbol, who is really in charge of new life.
 
-## {{% bible val="3, Gnats" link="exo:8,16-19" lang="en" %}}
+### {{% bible val="3, Gnats" link="exo:8,16-19" lang="en" %}}
 
 This time the magicians cannot reproduce the plague, and they recognize the finger of God behind it.
 
 That phrase draws on a story from Egyptian mythology in which a god blinds another god while approaching him unnoticed.[^finger] "The finger of God" carries the sense of an ominous event whose source cannot be traced or countered — and by using it, the magicians themselves admit that God is stronger than they are.
 
-## {{% bible val="4, Flies" link="exo:8,20-32" lang="en" %}}
+### {{% bible val="4, Flies" link="exo:8,20-32" lang="en" %}}
 
 "Flies" may be too narrow a translation — "bugs" is probably closer, and they become a real plague for the Egyptians. From this point on, God himself draws a distinction between Israel and Egypt, a distinction {{% bible val="only Pharaoh had drawn before" link="exo:1,22" lang="en" %}}.
 
-## {{% bible val="5, Livestock" link="exo:9,1-7" lang="en" %}}
+### {{% bible val="5, Livestock" link="exo:9,1-7" lang="en" %}}
 
 The livestock struck by this plague was essential to nearly every part of Egyptian society:
 - horses, needed for the military
@@ -99,21 +99,21 @@ The livestock struck by this plague was essential to nearly every part of Egypti
 - camels, {{% bible val="used for trade" link="gen:37,25" lang="en" %}}
 - cattle, sheep, and goats, vital for daily work, food, and clothing production
 
-## {{% bible val="6, Boils" link="exo:9,8-12" lang="en" %}}
+### {{% bible val="6, Boils" link="exo:9,8-12" lang="en" %}}
 
 Moses and Aaron throw dust into the air, and it turns into boils on people and animals alike. This time the magicians cannot even appear before Pharaoh, since they are ceremonially unclean. The irony cuts deep: throwing dust into the air very likely alludes to a rite of atonement performed by these very priests. Not only can they no longer perform it — the rite itself has now been thoroughly discredited.[^dust]
 
-## {{% bible val="7, Hail" link="exo:9,13-35" lang="en" %}}
+### {{% bible val="7, Hail" link="exo:9,13-35" lang="en" %}}
 
 This is where it gets serious: {{% bible val="God strikes with the full force that He announces" link="exo:9,14" lang="en" %}}, and yet He still {{% bible val="warns the people to take shelter" link="exo:9,20-21" lang="en" %}}. The hail that falls is devastating — the worst they had ever seen — and no Egyptian god protects them from it. For the first time, Pharaoh {{% bible val="admits that he has sinned" link="exo:9,27" lang="en" %}}, using [the same word used when Abimelech unknowingly took Abraham’s wife](https://biblehub.com/hebrew/2398.htm) — but as soon as the hail stops, {{% bible val="he sins again by hardening his heart" link="exo:9,34" lang="en" %}}.
 
-## {{% bible val="8, Locusts" link="exo:10,1-20" lang="en" %}}
+### {{% bible val="8, Locusts" link="exo:10,1-20" lang="en" %}}
 
 The {{% bible val="locusts come and destroy everything the hail had left standing" link="exo:10,5" lang="en" %}}. This time, Pharaoh’s {{% bible val="own officials beg him to do as Moses wishes" link="exo:10,7" lang="en" %}} — but he still refuses to let the people go, even as the {{% bible val="plagues continue and Pharaoh admits his sin" link="exo:10,16-17" lang="en" %}}.
 
 Egypt even had a god whose only job was protection from locusts, along with special locust amulets meant to serve the same purpose — none of which worked.[^locust]
 
-## {{% bible val="9, Darkness" link="exo:10,21-29" lang="en" %}}
+### {{% bible val="9, Darkness" link="exo:10,21-29" lang="en" %}}
 
 The last of these plagues is darkness — taken as a deeply serious sign, one that brought life in Egypt to a complete stop. Ra, the sun god, was [one of the most important gods in Egypt](https://en.wikipedia.org/wiki/Ra#Worship), which makes the darkness a direct strike at him. This time Pharaoh does not admit his sin; instead, {{% bible val="God strengthens his heart so much that he threatens to kill Moses, God’s own messenger, the next time he sees him" link="exo:10,27-28" lang="en" %}}.
 
@@ -121,7 +121,7 @@ The last of these plagues is darkness — taken as a deeply serious sign, one th
 
 The tenth plague stands apart from the rest, delayed and set in its own category: the death of the firstborn.
 
-## The death of the firstborn
+### The death of the firstborn
 
 To understand why this plague is different, it helps to recall some background. When God first called Moses, He {{% bible val="revealed Himself as a father and called Israel His firstborn" link="exo:4,22-23" lang="en" %}}. So when Pharaoh tries to kill Israel, God responds in kind, by killing Egypt’s firstborn.
 

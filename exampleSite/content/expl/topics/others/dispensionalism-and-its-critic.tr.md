@@ -44,7 +44,7 @@ Bu okumaya göre, kitap ilk yazıldığı kişiler için hiçbir anlam taşımı
 <a name="a4b2"></a>
 Teori çoğu zaman açıklama yapmadan iddialar öne sürer ya da bağlamından koparılmış bir Kutsal Kitap ayetleri cephaneliği kullanır.
 
-Bunun iyi bir örneği, sistemin köşe taşlarından biri olan {{% bible val="70 hafta kehanetindeki 2000 yıllık gecikmedir" link="dan:9,26-27" lang="tr" %}}. Bu, bir ayetin — noktalama işaretine varana kadar — çok özel bir okumasına dayanır ve bu belirli noktalama yalnızca King James çeviri geleneğinde desteklenir.
+Bunun iyi bir örneği, sistemin köşe taşlarından biri olan {{% bible val="70 hafta kehanetindeki 2000 yıllık gecikmedir" link="dan:9,26-27" lang="tr" %}}. Daniel 9:26–27 69. hafta ile 70. hafta arasında bir boşluktan hiç söz etmez. Yetmiş hafta tek bir dönem olarak belirlenmiştir ({{% bible val="9:24" link="dan:9,24" lang="tr" %}}) ve gecikme, ayetlerin okunuş biçiminden çıkarılır.
 
 ## Gelecek Tahmini
 
@@ -54,7 +54,7 @@ Bu yorum tarzı, çoğu zaman güncel siyasetin belirli bir unsurunun Vahiy Kita
 Bu yaklaşıma birkaç kusur işlemiştir:
 
 - Tanrı'nın ayrıntılı planları, peygamberler tarafından ilan edilmiş olsalar bile sabit değildir — sonucun değiştiği {{% bible val="Yunus" link="jon:3,4-10" lang="tr" %}} ya da {{% bible val="Hizkiya" link="isa:38,1-5" lang="tr" %}} öyküsüne bakın.
-- Peygamberlik kitabı olarak Vahiy'in amacı önceden bildirmek değil, olası sonuçları betimlemek ve insanları bu sonuçların gerçekleşmemesi için harekete geçmeye teşvik etmektir.
+- Peygamberlik, önceden bildirmekten çok daha fazlasıdır. Vahiy bir şeyi koşulsuz öngörür: Tanrı'nın krallığı gelecektir; ama gelişinin biçimi insanların yanıtına bağlıdır, bu yüzden kitap olası sonuçları betimler ve insanları bu sonuçların gerçekleşmemesi için harekete geçmeye teşvik eder.[^predict]
 - Zamanında ikna edici görünen, ama zaman ilerledikçe sessizce gözden geçirilen, sözde kusursuz "uyuşmalar" o kadar çok olmuştur ki, terk edilen bu uyuşmaların sayısının kendisi, onları üreten yönteme karşı en güçlü kanıttır.
 - Tahminler çoğu zaman dar bir tünel bakışına dayanır. Örneğin, kiliselere yazılan yedi mektup, kilise tarihinin yedi çağı olarak okunur ve şimdi son çağda, ılık Laodikya çağında yaşadığımız iddia edilir. Bu, bazı Batılı kiliseleri tarif ediyor olabilir; ama dünyanın dört bir yanında gerçek bir sıkıntı içinde yaşayan pek çok kiliseyi son derece yanlış tarif eder.
 
@@ -130,3 +130,5 @@ Konuya çok daha ayrıntılı girmek isterseniz, "[The rapture exposed](https://
 [^lindsey]: Rossing, *The Rapture Exposed*, 2. bölüm, Hal Lindsey'den alıntılar: *The Rapture: Truth or Consequences*, s. 101–102.
 
 [^politics]: Rossing, *The Rapture Exposed*, 3. bölüm (1948'de İsrail'in kuruluşu bir "kehanet süper-işareti" olarak ve Left Behind'ın Orta Doğu senaryosu); ciltsiz baskının önsözünde, göğe alınma teolojisinin götürebileceği yönler arasında "Orta Doğu'da militarizme ve yayılmacılığa destek"i sayar.
+
+[^predict]: Bauckham, *The Theology of the Book of Revelation*, s. 148–149: peygamberlik bugünü yorumlar, önceden bildirir ve bir yanıt talep eder; öngörüyü kaderci olmaktan koruyan üçüncü unsurdur.

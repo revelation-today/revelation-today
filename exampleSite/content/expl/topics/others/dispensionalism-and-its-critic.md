@@ -44,7 +44,7 @@ On this reading, the book would have made no sense at all to the people it was o
 <a name="eba9"></a>
 The theory often asserts claims without explaining them, or marshals an arsenal of Bible verses pulled loose from their context.
 
-A good example is the {{% bible val="2000 year delay in the prophecy of the 70 weeks" link="dan:9,26-27" lang="en" %}}, a cornerstone of the system. It hinges on one very specific reading — down to the punctuation — of a verse, and that particular punctuation is supported only in the King James translation tradition.
+A good example is the {{% bible val="2000 year delay in the prophecy of the 70 weeks" link="dan:9,26-27" lang="en" %}}, a cornerstone of the system. Daniel 9:26–27 never mentions a gap between the 69th and the 70th week. The seventy weeks are decreed as one period ({{% bible val="9:24" link="dan:9,24" lang="en" %}}), and the delay is inferred from the way the verses are read.
 
 ### Predicting the future, again and again
 
@@ -54,7 +54,7 @@ This interpretive style is very often used to claim that some specific element o
 Several flaws run through this approach:
 
 - God's detailed plans are not fixed even when they are proclaimed by prophets — see the story of {{% bible val="Jonah" link="jon:3,4-10" lang="en" %}} or {{% bible val="Hezekiah" link="isa:38,1-5" lang="en" %}}, where the announced outcome changes.
-- As a prophetic book, Revelation's intention is not to predict but to describe possible consequences and to press people to act so that those consequences don't have to happen.
+- Prophecy is much more than prediction. Revelation does predict one thing without condition, that God's kingdom will come, but the way it comes depends on how people respond, so the book describes possible consequences and presses people to act so that those consequences don't have to happen.[^predict]
 - There have been so many supposedly perfect "fits" with historical events, each convincing in its day, that have since been quietly revised as time moved on. The sheer number of abandoned fits is itself the best argument against the method that produced them.
 - The predictions are often built on a narrow tunnel view. The seven letters to the churches, for example, are read as seven epochs of church history, with the claim that we are now living in the last era, that of lukewarm Laodicea. That might describe some Western churches, but it would badly misdescribe the many churches around the world currently living through real tribulation.
 
@@ -125,3 +125,5 @@ The theory also makes political claims that the Bible does not support, and that
 [^lindsey]: Rossing, *The Rapture Exposed*, ch. 2, quoting Hal Lindsey, *The Rapture: Truth or Consequences*, pp. 101–102.
 
 [^politics]: Rossing, *The Rapture Exposed*, ch. 3 (the founding of Israel in 1948 as a "prophetic super-sign", and the Left Behind script for the Middle East); in the preface to the paperback edition she names "support for militarism and expansionism in the Middle East" among the directions rapture theology can lead.
+
+[^predict]: Bauckham, *The Theology of the Book of Revelation*, pp. 148–49: prophecy discerns the present, predicts, and demands a response, and it is the third element that keeps the prediction from being fatalistic.

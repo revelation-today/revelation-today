@@ -65,7 +65,7 @@ Another passage in Isaiah goes on to include the Gentiles in the temple service 
 
 The final chapter of Isaiah needs a closer look. It can be divided into three major parts:
 - {{% bible val="description of the end-time Israel" link="isa:66,7-14" lang="en" %}},
-- {{% bible val="judgment of end-time Israel" link="isa:66,15-18" lang="en" %}},
+- {{% bible val="judgment of end-time Israel" link="isa:66,15-17" lang="en" %}},
 - {{% bible val="inclusion of the Gentiles" link="isa:66,18-21" lang="en" %}}.
 
 The last part, step by step:

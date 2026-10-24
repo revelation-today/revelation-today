@@ -71,33 +71,33 @@ Vahiy aynı örüntüyü korur. Goşen esirgendiği gibi, Tanrı’nın mühürl
 
 <a name="a98d"></a>
 
-## {{% bible val="1, Sudan kana" link="exo:7,14-25" lang="tr" %}}
+### {{% bible val="1, Sudan kana" link="exo:7,14-25" lang="tr" %}}
 
 <a name="d1f4"></a>
 Nil kana dönüşür ve bütün suyu kullanılamaz hale gelir.
 
 Nil, Mısır’ın can damarıdır: yıllık taşkını tarlaları verimli kılar, suyu da halkın yaşam kaynağıdır. Nil tanrısı, Mısır’daki bütün tanrıların babası sayılırdı[^nile] — ama bu kez sanki boğazlanmış gibi görünür.
 
-## {{% bible val="2, Kurbağalar" link="exo:8,1-15" lang="tr" %}}
+### {{% bible val="2, Kurbağalar" link="exo:8,1-15" lang="tr" %}}
 
 <a name="aaff"></a>
 Kurbağalar ülkeyi istila eder ve bu kez Firavun bunun arkasında Tanrı’nın elini fark edip Musa’dan bunu durdurmasını ister.
 
 Çömlekçi tanrı Khnum'un eşlikçisi olan kurbağa tanrıça Heket, doğumlara yardım eder ve yeni yaşamla ilişkilendirilirdi.[^heqet] Firavun, İsrailli çocukların doğumunu denetleyen kişi olduğuna göre, Tanrı da tam onun kendi simgesi üzerinden, yeni yaşamın gerçek efendisinin kim olduğunu ilan eder.
 
-## {{% bible val="3, Sivrisinekler" link="exo:8,16-19" lang="tr" %}}
+### {{% bible val="3, Sivrisinekler" link="exo:8,16-19" lang="tr" %}}
 
 <a name="4300"></a>
 Bu kez büyücüler belayı yeniden üretemez ve arkasında Tanrı’nın parmağını tanırlar.
 
 Bu ifade, bir tanrının başka bir tanrıya fark ettirmeden yaklaşarak onu kör ettiği bir Mısır mitolojisi öyküsüne dayanır.[^finger] “Tanrı’nın parmağı”, kaynağı izlenemeyen ya da karşı konulamayan uğursuz bir olayı anlatır — ve büyücüler bu sözü kullanarak, aslında Tanrı’nın kendilerinden daha güçlü olduğunu itiraf etmiş olurlar.
 
-## {{% bible val="4, Sinekler" link="exo:8,20-32" lang="tr" %}}
+### {{% bible val="4, Sinekler" link="exo:8,20-32" lang="tr" %}}
 
 <a name="c89c"></a>
 “Sinekler” belki de dar bir çeviridir — “böcekler” gerçeğe daha yakın olabilir — ve bunlar Mısırlılar için gerçek bir belaya dönüşür. Bu noktadan itibaren, daha önce {{% bible val="yalnızca Firavun’un çizdiği" link="exo:1,22" lang="tr" %}} bir ayrımı, artık Tanrı’nın kendisi İsrail ile Mısır arasında çizer.
 
-## {{% bible val="5, Hayvancılık" link="exo:9,1-7" lang="tr" %}}
+### {{% bible val="5, Hayvancılık" link="exo:9,1-7" lang="tr" %}}
 
 <a name="789e"></a>
 Bu belanın vurduğu hayvanlar, Mısır toplumunun neredeyse her alanı için vazgeçilmezdi:
@@ -106,24 +106,24 @@ Bu belanın vurduğu hayvanlar, Mısır toplumunun neredeyse her alanı için va
 - {{% bible val="ticarette kullanılan" link="gen:37,25" lang="tr" %}} develer
 - günlük iş, gıda ve giyim üretimi için hayati önemdeki sığır, koyun ve keçiler
 
-## {{% bible val="6, Çıbanlar" link="exo:9,8-12" lang="tr" %}}
+### {{% bible val="6, Çıbanlar" link="exo:9,8-12" lang="tr" %}}
 
 <a name="d9de"></a>
 Musa ile Harun havaya kül savurur ve bu kül hem insanların hem hayvanların üzerinde çıbanlara dönüşür. Bu kez büyücüler, törensel açıdan kirli sayıldıkları için Firavun’un huzuruna bile çıkamaz. İşin ironisi derindir: havaya kül savurmak, büyük olasılıkla bizzat bu büyücülerin uyguladığı bir kefaret törenine gönderme yapar. Artık yalnızca bunu uygulayamamakla kalmazlar — törenin kendisi de tamamen itibarsızlaşmıştır.[^dust]
 
-## {{% bible val="7, Dolu" link="exo:9,13-35" lang="tr" %}}
+### {{% bible val="7, Dolu" link="exo:9,13-35" lang="tr" %}}
 
 <a name="d700"></a>
 İşte burada işler ciddileşir: {{% bible val="Tanrı, önceden bildirdiği tam güçle vurur" link="exo:9,14" lang="tr" %}}, ama yine de {{% bible val="halkı sığınmaları için uyarır" link="exo:9,20-21" lang="tr" %}}. Yağan dolu yıkıcıdır — o güne dek görülenlerin en kötüsüdür — ve hiçbir Mısır tanrısı onlara bu doludan koruma sağlamaz. Firavun ilk kez {{% bible val="günah işlediğini kabul eder" link="exo:9,27" lang="tr" %}}; bunu yaparken de [Avimelek’in bilmeden İbrahim’in karısını aldığı zaman kullanılanla aynı sözcüğü](https://biblehub.com/hebrew/2398.htm) kullanır — ama dolu durur durmaz {{% bible val="yüreğini katılaştırarak yeniden günah işler" link="exo:9,34" lang="tr" %}}.
 
-## {{% bible val="8, Çekirgeler" link="exo:10,1-20" lang="tr" %}}
+### {{% bible val="8, Çekirgeler" link="exo:10,1-20" lang="tr" %}}
 
 <a name="ef77"></a>
 {{% bible val="Çekirgeler gelir ve dolunun bıraktığı her şeyi yok eder" link="exo:10,5" lang="tr" %}}. Bu kez Firavun’un {{% bible val="kendi görevlileri bile ona Musa’nın istediğini yapması için yalvarır" link="exo:10,7" lang="tr" %}} — yine de halkı bırakmayı reddeder, {{% bible val="belalar sürüp Firavun günahını itiraf ederken bile" link="exo:10,16-17" lang="tr" %}}.
 
 Mısır'ın çekirgelerden koruma sağlamak tek görevi olan bir tanrısı bile vardı, ayrıca aynı amaca hizmet etmesi gereken özel çekirge tılsımları — hiçbiri işe yaramadı.[^locust]
 
-## {{% bible val="9, Karanlık" link="exo:10,21-29" lang="tr" %}}
+### {{% bible val="9, Karanlık" link="exo:10,21-29" lang="tr" %}}
 
 <a name="94f3"></a>
 Bu belaların sonuncusu karanlıktır — derin bir ciddiyetle algılanan, Mısır’daki hayatı tamamen durduran bir işaret. Güneş tanrısı Ra, [Mısır’ın en önemli tanrılarından biriydi](https://en.wikipedia.org/wiki/Ra#Worship); bu da karanlığı doğrudan ona yöneltilmiş bir darbe hâline getirir. Bu kez Firavun günahını kabul etmez; tam tersine, {{% bible val="Tanrı onun yüreğini öylesine güçlendirir ki, Tanrı’nın kendi elçisi olan Musa’yı bir daha gördüğünde onu öldürmekle tehdit eder" link="exo:10,27-28" lang="tr" %}}.
@@ -133,7 +133,7 @@ Bu belaların sonuncusu karanlıktır — derin bir ciddiyetle algılanan, Mıs�
 <a name="f4bb"></a>
 Onuncu bela diğerlerinden ayrılır; ertelenmiş ve kendi başına bir kategoride durur: ilk doğanların ölümü.
 
-## İlk doğanın ölümü
+### İlk doğanın ölümü
 
 <a name="d9b7"></a>
 Bu belanın neden farklı olduğunu anlamak için biraz arka plana bakmakta fayda var. Tanrı, Musa’yı ilk çağırdığında {{% bible val="kendini bir baba olarak tanıttı ve İsrail’i kendi ilk doğanı olarak adlandırdı" link="exo:4,22-23" lang="tr" %}}. Böylece Firavun İsrail’i öldürmeye kalkıştığında, Tanrı da aynı şekilde karşılık verir: Mısır’ın ilk doğanlarını öldürerek.

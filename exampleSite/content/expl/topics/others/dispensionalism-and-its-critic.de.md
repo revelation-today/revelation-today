@@ -44,7 +44,7 @@ Nach dieser Lesart hätte das Buch für die Menschen, für die es ursprünglich 
 <a name="423b"></a>
 Die Theorie stellt oft Behauptungen auf, ohne sie zu erklären, oder fährt ein Arsenal von Bibelversen auf, die aus ihrem Kontext gelöst sind.
 
-Ein gutes Beispiel ist die {{% bible val="2000-jährige Verzögerung in der Prophezeiung der 70 Wochen" link="dan:9,26-27" lang="de" %}}, ein Eckpfeiler des Systems. Sie hängt von einer ganz bestimmten Lesart ab — bis hin zur Zeichensetzung — eines Verses, und genau diese Zeichensetzung wird nur von der King-James-Übersetzungstradition gestützt.
+Ein gutes Beispiel ist die {{% bible val="2000-jährige Verzögerung in der Prophezeiung der 70 Wochen" link="dan:9,26-27" lang="de" %}}, ein Eckpfeiler des Systems. Daniel 9,26–27 erwähnt nirgends eine Lücke zwischen der 69. und der 70. Woche. Die siebzig Wochen sind als ein einziger Zeitraum bestimmt ({{% bible val="9,24" link="dan:9,24" lang="de" %}}), und die Verzögerung wird aus der Lesart der Verse erschlossen.
 
 ## Immer wieder die Zukunft vorhersagen
 
@@ -54,7 +54,7 @@ Dieser Auslegungsstil wird sehr oft benutzt, um zu behaupten, ein bestimmtes Ele
 Mehrere Schwächen durchziehen diesen Ansatz:
 
 - Gottes detaillierte Pläne stehen nicht fest, selbst wenn sie durch Propheten verkündet werden — man denke an die Geschichte von {{% bible val="Jona" link="jon:3,4-10" lang="de" %}} oder {{% bible val="Hiskia" link="isa:38,1-5" lang="de" %}}, wo sich das angekündigte Ergebnis ändert.
-- Als prophetisches Buch besteht die Absicht der Offenbarung nicht darin, vorherzusagen, sondern mögliche Konsequenzen zu beschreiben und Menschen zum Handeln zu drängen, damit diese Konsequenzen nicht eintreten müssen.
+- Prophetie ist viel mehr als Vorhersage. Die Offenbarung sagt eines ohne Bedingung voraus, nämlich dass Gottes Reich kommt; die Art seines Kommens hängt aber von der Antwort der Menschen ab, und so beschreibt das Buch mögliche Konsequenzen und drängt Menschen zum Handeln, damit diese Konsequenzen nicht eintreten müssen.[^predict]
 - Es gab so viele angeblich perfekte „Übereinstimmungen” mit geschichtlichen Ereignissen, jede zu ihrer Zeit überzeugend, die seither, während die Zeit voranschritt, still und leise revidiert wurden. Allein die schiere Zahl der aufgegebenen Deutungen ist das beste Argument gegen die Methode, die sie hervorgebracht hat.
 - Die Vorhersagen beruhen oft auf einem engen Tunnelblick. Die sieben Sendschreiben an die Gemeinden zum Beispiel werden als sieben Epochen der Kirchengeschichte gelesen, mit der Behauptung, wir lebten jetzt in der letzten Epoche, der des lauwarmen Laodizea. Das mag auf manche westliche Kirchen zutreffen, würde aber die vielen Gemeinden weltweit, die gerade eine echte Trübsal durchleben, gründlich falsch beschreiben.
 
@@ -125,3 +125,5 @@ Die Theorie stellt außerdem politische Behauptungen auf, die die Bibel nicht st
 [^lindsey]: Rossing, *The Rapture Exposed*, Kap. 2, zitiert Hal Lindsey, *The Rapture: Truth or Consequences*, S. 101–102.
 
 [^politics]: Rossing, *The Rapture Exposed*, Kap. 3 (die Gründung Israels 1948 als „prophetisches Super-Zeichen“ und das Left-Behind-Drehbuch für den Nahen Osten); im Vorwort zur Taschenbuchausgabe nennt sie „Unterstützung von Militarismus und Expansionismus im Nahen Osten“ unter den Richtungen, in die Entrückungstheologie führen kann.
+
+[^predict]: Bauckham, *The Theology of the Book of Revelation*, S. 148–149: Prophetie erkennt die Gegenwart, sagt voraus und verlangt eine Antwort; erst das dritte Element verhindert, dass die Vorhersage fatalistisch wird.

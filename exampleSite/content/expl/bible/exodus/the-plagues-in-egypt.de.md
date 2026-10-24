@@ -69,33 +69,33 @@ Die Offenbarung behält dasselbe Muster bei. Wie Goschen verschont wurde, so wer
 
 ## Die Plagen im Detail
 
-## {{% bible val="1, Wasser wird zu Blut" link="exo:7,14-25" lang="de" %}}
+### {{% bible val="1, Wasser wird zu Blut" link="exo:7,14-25" lang="de" %}}
 
 <a name="b532"></a>
 Der Nil verwandelt sich in Blut, und sein gesamtes Wasser wird unbrauchbar.
 
 Der Nil ist die Lebensader Ägyptens: seine jährliche Überschwemmung macht die Felder fruchtbar, und sein Wasser ist die Lebensgrundlage der Menschen. Der Gott des Nils galt als Vater aller Götter Ägyptens[^nile] — doch diesmal sieht es aus, als sei er abgeschlachtet worden.
 
-## {{% bible val="2, Frösche" link="exo:8,1-15" lang="de" %}}
+### {{% bible val="2, Frösche" link="exo:8,1-15" lang="de" %}}
 
 <a name="83d5"></a>
 Frösche überschwemmen das Land, und diesmal erkennt der Pharao Gottes Hand dahinter und bittet Mose, es zu beenden.
 
 Die Froschgöttin Heqet, Gefährtin des Töpfergottes Chnum, half bei Geburten und stand für neues Leben.[^heqet] Da der Pharao derjenige gewesen war, der die Geburten unter den israelitischen Kindern kontrollierte, macht Gott hier, ausgerechnet durch ihr eigenes Symbol, deutlich, wer wirklich die Kontrolle über neues Leben hat.
 
-## {{% bible val="3, Mücken" link="exo:8,16-19" lang="de" %}}
+### {{% bible val="3, Mücken" link="exo:8,16-19" lang="de" %}}
 
 <a name="7c93"></a>
 Diesmal können die Zauberer die Plage nicht nachbilden, und sie erkennen darin den Finger Gottes.
 
 Diese Formulierung greift eine Geschichte aus der ägyptischen Mythologie auf, in der ein Gott einen anderen blendet, indem er sich ihm unbemerkt nähert.[^finger] „Der Finger Gottes“ trägt den Sinn eines unheilvollen Ereignisses, dessen Ursprung sich nicht zurückverfolgen oder abwehren lässt — und indem sie diesen Ausdruck verwenden, geben die Zauberer selbst zu, dass Gott stärker ist als sie.
 
-## {{% bible val="4, Fliegen" link="exo:8,20-32" lang="de" %}}
+### {{% bible val="4, Fliegen" link="exo:8,20-32" lang="de" %}}
 
 <a name="ec69"></a>
 „Fliegen“ ist vielleicht eine zu enge Übersetzung — „Ungeziefer“ trifft es wohl besser, und es wird für die Ägypter zu einer echten Plage. Von diesem Punkt an zieht Gott selbst eine Grenze zwischen Israel und Ägypten, eine Unterscheidung, die {{% bible val="vorher nur der Pharao gemacht hatte" link="exo:1,22" lang="de" %}}.
 
-## {{% bible val="5, Viehseuche" link="exo:9,1-7" lang="de" %}}
+### {{% bible val="5, Viehseuche" link="exo:9,1-7" lang="de" %}}
 
 <a name="4f61"></a>
 Das von dieser Plage betroffene Vieh war für fast jeden Bereich der ägyptischen Gesellschaft unverzichtbar:
@@ -104,24 +104,24 @@ Das von dieser Plage betroffene Vieh war für fast jeden Bereich der ägyptische
 - Kamele, {{% bible val="genutzt für den Handel" link="gen:37,25" lang="de" %}}
 - Rinder, Schafe und Ziegen, unverzichtbar für die tägliche Arbeit, Nahrung und Kleidungsherstellung
 
-## {{% bible val="6, Geschwüre" link="exo:9,8-12" lang="de" %}}
+### {{% bible val="6, Geschwüre" link="exo:9,8-12" lang="de" %}}
 
 <a name="c6b1"></a>
 Mose und Aaron werfen Staub in die Luft, und er verwandelt sich in Geschwüre bei Menschen und Tieren gleichermaßen. Diesmal können die Zauberer nicht einmal mehr vor dem Pharao erscheinen, da sie rituell unrein sind. Die Ironie sitzt tief: Das Werfen von Staub in die Luft spielt sehr wahrscheinlich auf ein Sühneritual an, das genau diese Zauberer selbst durchführten. Sie können es nicht nur nicht mehr ausführen — das Ritual selbst ist nun gründlich diskreditiert.[^dust]
 
-## {{% bible val="7, Hagel" link="exo:9,13-35" lang="de" %}}
+### {{% bible val="7, Hagel" link="exo:9,13-35" lang="de" %}}
 
 <a name="70b2"></a>
 Hier wird es ernst: {{% bible val="Gott schlägt mit der vollen Wucht zu, die er ankündigt" link="exo:9,14" lang="de" %}}, und dennoch {{% bible val="warnt er die Menschen, Schutz zu suchen" link="exo:9,20-21" lang="de" %}}. Der Hagel, der fällt, ist verheerend — der schlimmste, den sie je gesehen hatten —, und kein ägyptischer Gott beschützt sie davor. Zum ersten Mal {{% bible val="gibt der Pharao zu, gesündigt zu haben" link="exo:9,27" lang="de" %}}, und benutzt dabei [dasselbe Wort, das verwendet wird, als Abimelech unwissentlich Abrahams Frau nahm](https://biblehub.com/hebrew/2398.htm) — aber sobald der Hagel aufhört, {{% bible val="sündigt er erneut, indem er sein Herz verhärtet" link="exo:9,34" lang="de" %}}.
 
-## {{% bible val="8, Heuschrecken" link="exo:10,1-20" lang="de" %}}
+### {{% bible val="8, Heuschrecken" link="exo:10,1-20" lang="de" %}}
 
 <a name="ae09"></a>
 Die {{% bible val="Heuschrecken kommen und vernichten alles, was der Hagel übrig gelassen hatte" link="exo:10,5" lang="de" %}}. Diesmal {{% bible val="flehen die eigenen Beamten des Pharao ihn an, zu tun, was Mose verlangt" link="exo:10,7" lang="de" %}} — aber er weigert sich weiterhin, das Volk ziehen zu lassen, selbst als {{% bible val="die Plagen andauern und der Pharao seine Sünde eingesteht" link="exo:10,16-17" lang="de" %}}.
 
 Ägypten hatte sogar einen Gott, dessen einzige Aufgabe der Schutz vor Heuschrecken war, dazu spezielle Heuschreckenamulette mit demselben Zweck — nichts davon hatte funktioniert.[^locust]
 
-## {{% bible val="9, Finsternis" link="exo:10,21-29" lang="de" %}}
+### {{% bible val="9, Finsternis" link="exo:10,21-29" lang="de" %}}
 
 <a name="49ef"></a>
 Die letzte dieser Plagen ist die Finsternis — sie wird als äußerst ernstes Zeichen aufgefasst, eines, das das Leben in Ägypten vollständig zum Stillstand bringt. Ra, der Sonnengott, war [einer der bedeutendsten Götter Ägyptens](https://de.wikipedia.org/wiki/Re_(%C3%A4gyptische_Mythologie)#Bedeutung), was die Finsternis zu einem direkten Schlag gegen ihn macht. Diesmal gesteht der Pharao seine Sünde nicht ein; stattdessen {{% bible val="stärkt Gott sein Herz so sehr, dass er droht, Mose, Gottes eigenen Boten, beim nächsten Wiedersehen zu töten" link="exo:10,27-28" lang="de" %}}.
@@ -131,7 +131,7 @@ Die letzte dieser Plagen ist die Finsternis — sie wird als äußerst ernstes Z
 <a name="ae4a"></a>
 Die zehnte Plage steht abseits der übrigen, verzögert und in einer eigenen Kategorie: der Tod der Erstgeburt.
 
-## Der Tod der Erstgeburt
+### Der Tod der Erstgeburt
 
 <a name="4f21"></a>
 Um zu verstehen, warum diese Plage anders ist, hilft ein Blick auf den Hintergrund. Als Gott Mose zum ersten Mal berief, {{% bible val="offenbarte er sich als Vater und nannte Israel seinen Erstgeborenen" link="exo:4,22-23" lang="de" %}}. Als der Pharao also versucht, Israel zu töten, antwortet Gott in gleicher Münze, indem er die Erstgeborenen Ägyptens tötet.
