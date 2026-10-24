@@ -89,7 +89,7 @@ Once again, this passage gets read as an argument for the rapture: one person ra
 <a name="b246"></a>
 Through rapture-tinted glasses, being taken looks like the good outcome and being left behind looks bad. But the surrounding language doesn't actually support that reading. Here, Jesus compares his coming to the flood in Noah's day, and in that flood story, being "taken away" means being taken by judgment, swept off by the waters. If the same sense carries over to the coming of the Son of Man, then "taken away" in this context most likely marks the wicked, while the ones left behind are the ones who are safe.
 
-Notice, too, that the text never says where the "taken" ones are taken to. The image could just as easily be the secret police of the Roman Empire, arresting believers for their faith, as it could anything to do with heaven.
+Notice, too, that the text never says where the "taken" ones are taken to. N. T. Wright reads the image as being taken in judgment: "a matter, rather, of secret police coming in the night, or of enemies sweeping through a village or city and seizing all they can", which for people under Roman occupation would have been a constant fear.[^wright] Either way, the heavenly destination is something the rapture view brings to the passage.
 
 ### The context
 
@@ -132,4 +132,6 @@ Instead, it echoes the Old Testament pattern of the heavenly council, the same s
 <a name="5a06"></a>
 Every argument for the rapture rests on passages describing something else entirely — passages that get misinterpreted, taken out of context, or read past the actual meaning of their key words. Put together, there is no biblical evidence for a secret rapture before the tribulation. Believers will be {{% bible val="caught up to meet the Lord" link="1th:4,17" lang="en" %}}, but at his one, visible return, and to welcome him here.
 
-[^apantesis]: Erik Peterson, in the *Theological Dictionary of the New Testament*, vol. 1, pp. 380–381; N. T. Wright takes it the same way. Michael Cosby thinks this background is overstated (*Bulletin for Biblical Research* 4, 1994, pp. 15–34).
+[^apantesis]: Erik Peterson, in the *Theological Dictionary of the New Testament*, vol. 1, pp. 380–381; N. T. Wright takes it the same way. Michael Cosby thinks this background is overstated (*Bulletin for Biblical Research* 4, 1994, pp. 15–34). Rossing reads it as Peterson does (*The Rapture Exposed*, Epilogue): in no use of the word does the arriving dignitary turn round and go back where he came from.
+
+[^wright]: N. T. Wright, *Jesus and the Victory of God* (SPCK, 1996), p. 366, as quoted in Rossing, *The Rapture Exposed*, Epilogue. Rossing agrees, notes that both Greek verbs, *paralambanō* ("take") and *aphiēmi* ("leave"), can be positive or negative in Matthew, and cites the Lutheran critic B. Brent McGuire, who says Left Behind has the passage "entirely backward".

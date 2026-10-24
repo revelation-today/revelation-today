@@ -89,7 +89,7 @@ Bu pasaj da yine göğe alınma lehine bir argüman olarak okunur: biri göğe a
 <a name="b358"></a>
 Göğe alınma gözlüğüyle bakıldığında, alınmak iyi bir sonuç, geride bırakılmak ise kötü bir sonuç gibi görünür. Ama çevredeki ifadeler bu okumayı gerçekte desteklemez. Burada İsa, kendi gelişini Nuh'un günlerindeki tufanla karşılaştırır; o tufan öyküsünde "alınıp götürülmek", yargı tarafından alınmak, sulara kapılıp götürülmek anlamına gelir. Aynı anlam İnsanoğlu'nun gelişine de taşınıyorsa, bu bağlamda "alınıp götürülenler" büyük olasılıkla kötüleri işaret ederken, geride bırakılanlar güvende olanlardır.
 
-Ayrıca metnin, "alınanların" nereye götürüldüğünü hiçbir yerde söylemediğine dikkat edin. Bu imge, gökle ilgili herhangi bir şey kadar rahatlıkla, Roma İmparatorluğu'nun gizli polisinin imanlıları imanlarından ötürü tutuklamasını da betimliyor olabilir.
+Ayrıca metnin, "alınanların" nereye götürüldüğünü hiçbir yerde söylemediğine dikkat edin. N. T. Wright bu imgeyi yargıda alınma olarak okur: "gece gelen gizli polis ya da bir köyü veya şehri süpürüp ele geçirebildiği her şeyi alan düşmanlar"; Roma işgali altındaki insanlar için bu sürekli bir korku olurdu.[^wright] Her halükârda göğe ait varış noktasını metne göğe alınma görüşü getirir.
 
 ### Bağlam
 
@@ -132,4 +132,6 @@ Bunun yerine, {{% bible val="Yeşaya'da" link="isa:6,1-13" lang="tr" %}} ya da {
 <a name="bfec"></a>
 Göğe alınma için öne sürülen her argüman, aslında bambaşka bir şeyi betimleyen pasajlara dayanır — bu pasajlar yanlış yorumlanmış, bağlamından koparılmış ya da anahtar kelimelerinin gerçek anlamının ötesinde okunmuştur. Hepsi bir araya getirildiğinde, sıkıntıdan önce gizli bir göğe alınma için Kutsal Kitap'ta hiçbir kanıt yoktur. İnananlar {{% bible val="Rab'bi karşılamak üzere alınıp götürülecek" link="1th:4,17" lang="tr" %}}, ama O'nun tek ve görünür gelişinde, O'nu burada karşılamak için.
 
-[^apantesis]: Erik Peterson, *Theological Dictionary of the New Testament*, c. 1, s. 380–381; N. T. Wright da böyle anlar. Michael Cosby bu arka planın abartıldığını düşünür (*Bulletin for Biblical Research* 4, 1994, s. 15–34).
+[^apantesis]: Erik Peterson, *Theological Dictionary of the New Testament*, c. 1, s. 380–381; N. T. Wright da böyle anlar. Michael Cosby bu arka planın abartıldığını düşünür (*Bulletin for Biblical Research* 4, 1994, s. 15–34). Rossing de Peterson gibi okur (*The Rapture Exposed*, Sonsöz): sözcüğün hiçbir kullanımında gelen saygın kişi geri dönüp geldiği yere gitmez.
+
+[^wright]: N. T. Wright, *Jesus and the Victory of God* (SPCK, 1996), s. 366; Rossing'in alıntısıyla, *The Rapture Exposed*, Sonsöz. Rossing katılır, Matta'da her iki Yunanca fiilin, *paralambanō* ("almak") ve *aphiēmi* ("bırakmak"), olumlu ya da olumsuz olabileceğini belirtir ve Lutherci eleştirmen B. Brent McGuire'ı anar; ona göre Left Behind bu pasajı "tamamen tersine" okur.

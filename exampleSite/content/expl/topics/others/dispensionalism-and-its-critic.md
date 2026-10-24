@@ -27,7 +27,7 @@ Dispensationalism prides itself on reading the Bible literally, which sounds res
 
 Take the Song of Songs, which is poetic literature through and through. Read it with a flat literalism and Sulamith ends up with {{% bible val="doves for eyes and a tower for a neck" link="sng:4,1-4" lang="en" %}} — plainly not the intent. Several other passages carry the same warning sign, including one where the text itself signals it isn't meant {{% bible val="literally" link="isa:55,12" lang="en" %}}.
 
-More tellingly, dispensationalists don't even apply their own principle consistently. They agree, for instance, that the {{% bible val="beast will not have seven heads and ten horns" link="rev:13,1" lang="en" %}} in any literal, visible sense. And when {{% bible val="Gog and Magog" link="rev:20,8" lang="en" %}} show up alongside a reference to {{% bible val="God destroying the bow and arrows" link="ezk:39,3" lang="en" %}}, dispensationalists happily read "bow and arrows" as aircraft and missiles — a thoroughly non-literal move for a hermeneutic that claims literalism as its badge.
+More tellingly, dispensationalists don't even apply their own principle consistently. They agree, for instance, that the {{% bible val="beast will not have seven heads and ten horns" link="rev:13,1" lang="en" %}} in any literal, visible sense. And the weapons of Revelation are read as modern ones: Hal Lindsey takes the "great mountain burning with fire" thrown into the sea ({{% bible val="Rev 8:8–9" link="rev:8,8-9" lang="en" %}}) as John's first-century description of a thermonuclear naval battle, and explains how John could know by saying God carried him forward in time to see it[^lindsey] — a thoroughly non-literal move for a hermeneutic that claims literalism as its badge.
 
 ### A theory that misreads the literature itself
 
@@ -104,7 +104,7 @@ The rapture — the specific idea of believers being physically caught up and re
 <a name="9d26"></a>
 The reason for faith that this theory ultimately holds out is fear: believe, or you will miss the rapture and be left behind. But fear is {{% int_link val="a trait of the beast, not of the church" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. On top of that, faith gets reduced to a single transaction — being saved — with little left over for becoming like Christ, loving one's neighbor, or shaping society for good.
 
-This isn't only a theological abstraction. Rossing documents real, reported cases of children in rapture-anticipating households coming home from school to an empty house and panicking that the rapture had happened without them — a concrete, human cost of building faith's motivation on the fear of being left behind, rather than on love.
+This isn't only a theological abstraction. Rossing opens her chapter on the invention of the rapture with a grown man who, as a ten-year-old, came home from school to an empty house and was terrified that his family had been raptured without him, and she reports that others tell the same story of childhood fear.[^josh] It is a concrete, human cost of building faith's motivation on the fear of being left behind, rather than on love.
 
 ### The weapons of warfare it imagines
 
@@ -118,4 +118,10 @@ The theory also makes political claims that the Bible does not support, and that
 
 - It tends toward anti-Catholicism.
 - In its popular forms it can be uncritically pro-American and pro-Israel, even though the Old Testament itself is frequently critical of Israel.
-- In its popular forms it can treat the current wars in the Middle East as part of God's plan, and therefore as something to welcome rather than mourn.
+- In its popular forms it can treat the current wars in the Middle East as part of God's plan, and therefore as something to welcome rather than mourn.[^politics]
+
+[^josh]: Rossing, *The Rapture Exposed*, ch. 2 (opening). The stories are told by students in her seminary class on Revelation.
+
+[^lindsey]: Rossing, *The Rapture Exposed*, ch. 2, quoting Hal Lindsey, *The Rapture: Truth or Consequences*, pp. 101–102.
+
+[^politics]: Rossing, *The Rapture Exposed*, ch. 3 (the founding of Israel in 1948 as a "prophetic super-sign", and the Left Behind script for the Middle East); in the preface to the paperback edition she names "support for militarism and expansionism in the Middle East" among the directions rapture theology can lead.

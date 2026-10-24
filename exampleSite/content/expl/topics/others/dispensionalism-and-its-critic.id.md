@@ -27,7 +27,7 @@ Dispensasionalisme bangga membaca Alkitab secara harfiah, yang di permukaan terd
 
 Ambil contoh Kidung Agung, yang merupakan sastra puitis sepenuhnya. Bacalah dengan literalisme yang datar, maka Sulamit akan mempunyai {{% bible val="merpati sebagai mata dan menara sebagai leher" link="sng:4,1-4" lang="ind" %}} — jelas bukan itu maksudnya. Beberapa bagian lain membawa tanda peringatan yang sama, termasuk satu ayat yang teksnya sendiri menandakan bahwa ayat itu tidak dimaksudkan {{% bible val="secara harfiah" link="isa:55,12" lang="ind" %}}.
 
-Yang lebih mengungkap lagi, kaum dispensasionalis sendiri tidak menerapkan prinsip mereka secara konsisten. Mereka sepakat, misalnya, bahwa {{% bible val="binatang itu tidak akan memiliki tujuh kepala dan sepuluh tanduk" link="rev:13,1" lang="ind" %}} dalam pengertian harfiah yang kelihatan. Dan ketika {{% bible val="Gog dan Magog" link="rev:20,8" lang="ind" %}} muncul berdampingan dengan sebuah acuan tentang {{% bible val="Allah menghancurkan busur dan anak panah" link="ezk:39,3" lang="ind" %}}, kaum dispensasionalis dengan senang hati membaca "busur dan anak panah" sebagai pesawat terbang dan peluru kendali — sebuah langkah yang sama sekali tidak harfiah bagi sebuah hermeneutika yang mengklaim literalisme sebagai lencananya.
+Yang lebih mengungkap lagi, kaum dispensasionalis sendiri tidak menerapkan prinsip mereka secara konsisten. Mereka sepakat, misalnya, bahwa {{% bible val="binatang itu tidak akan memiliki tujuh kepala dan sepuluh tanduk" link="rev:13,1" lang="ind" %}} dalam pengertian harfiah yang kelihatan. Dan senjata-senjata dalam Wahyu dibaca sebagai senjata modern: Hal Lindsey memahami "gunung besar yang menyala-nyala dengan api" yang dilemparkan ke laut ({{% bible val="Wahyu 8:8–9" link="rev:8,8-9" lang="ind" %}}) sebagai gambaran Yohanes, dalam bahasa abad pertama, tentang sebuah pertempuran laut termonuklir, dan menjelaskan bagaimana Yohanes bisa tahu dengan mengatakan bahwa Allah membawanya maju menembus waktu untuk melihatnya[^lindsey] — sebuah langkah yang sama sekali tidak harfiah bagi sebuah hermeneutika yang mengklaim literalisme sebagai lencananya.
 
 ### Sebuah Teori yang Salah Membaca Sastranya Sendiri
 
@@ -104,7 +104,7 @@ Pengangkatan — gagasan spesifik bahwa orang-orang percaya akan diangkat secara
 <a name="ab07"></a>
 Alasan beriman yang pada akhirnya ditawarkan oleh teori ini adalah ketakutan: percayalah, atau Anda akan kehilangan kesempatan diangkat dan tertinggal. Tetapi ketakutan {{% int_link val="adalah sifat binatang itu, bukan sifat gereja" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. Selain itu, iman direduksi menjadi sekadar satu transaksi tunggal — yaitu diselamatkan — dengan sedikit ruang yang tersisa untuk menjadi serupa dengan Kristus, mengasihi sesama, atau membentuk masyarakat menjadi lebih baik.
 
-Ini bukan sekadar abstraksi teologis. Rossing mendokumentasikan kasus-kasus nyata yang dilaporkan tentang anak-anak dalam rumah tangga yang menantikan pengangkatan, yang pulang sekolah mendapati rumah kosong dan panik karena mengira pengangkatan telah terjadi tanpa mereka — sebuah ongkos manusiawi yang konkret dari membangun motivasi iman di atas ketakutan akan ditinggalkan, bukan di atas kasih.
+Ini bukan sekadar abstraksi teologis. Rossing membuka bab tentang penemuan pengangkatan dengan seorang pria dewasa yang, saat berusia sepuluh tahun, pulang sekolah ke rumah yang kosong dan ketakutan bahwa keluarganya telah diangkat tanpa dirinya, dan Rossing melaporkan bahwa orang lain menceritakan kisah ketakutan masa kecil yang sama.[^josh] Itu adalah ongkos manusiawi yang konkret dari membangun motivasi iman di atas ketakutan akan ditinggalkan, bukan di atas kasih.
 
 ### Senjata Peperangan yang Dibayangkannya
 
@@ -118,4 +118,10 @@ Teori ini juga membuat klaim-klaim politik yang tidak didukung oleh Alkitab, dan
 
 - Teori ini cenderung anti-Katolik.
 - Dalam bentuk-bentuk populernya, teori ini dapat secara tidak kritis pro-Amerika dan pro-Israel, meskipun Perjanjian Lama sendiri sering kali kritis terhadap Israel.
-- Dalam bentuk-bentuk populernya, teori ini dapat memperlakukan perang-perang yang sedang berlangsung di Timur Tengah sebagai bagian dari rencana Allah, dan karena itu sebagai sesuatu yang patut disambut, bukan diratapi.
+- Dalam bentuk-bentuk populernya, teori ini dapat memperlakukan perang-perang yang sedang berlangsung di Timur Tengah sebagai bagian dari rencana Allah, dan karena itu sebagai sesuatu yang patut disambut, bukan diratapi.[^politics]
+
+[^josh]: Rossing, *The Rapture Exposed*, bab 2 (awal). Kisah-kisah itu diceritakan oleh mahasiswa di kelas seminarinya tentang Wahyu.
+
+[^lindsey]: Rossing, *The Rapture Exposed*, bab 2, mengutip Hal Lindsey, *The Rapture: Truth or Consequences*, hlm. 101–102.
+
+[^politics]: Rossing, *The Rapture Exposed*, bab 3 (berdirinya Israel tahun 1948 sebagai "tanda super profetis", dan naskah Left Behind untuk Timur Tengah); dalam kata pengantar edisi paperback ia menyebut "dukungan terhadap militerisme dan ekspansionisme di Timur Tengah" di antara arah yang dapat ditempuh teologi pengangkatan.

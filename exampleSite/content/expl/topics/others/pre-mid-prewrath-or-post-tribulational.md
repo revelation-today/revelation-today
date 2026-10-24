@@ -102,7 +102,7 @@ There is no separate rapture event at all, secret or otherwise. Believers are ga
 <a name="prac1"></a>
 These aren't only four ways to read a calendar — each carries real weight for how someone facing actual hardship today makes sense of it.
 
-A pre-tribulational reading offers the comfort of an exit before things get worse. But in its popular form it has also fed a political posture — {{% int_link val="detailed in the critique of dispensationalism" link="/expl/topics/others/dispensionalism-and-its-critic" %}} — that treats Middle East conflict as something to welcome rather than mourn, since conflict there is read as hastening a longed-for escape. It has also, on Barbara Rossing's account, quietly undercut long-term care for creation: why invest in a planet you expect to leave behind soon?
+A pre-tribulational reading offers the comfort of an exit before things get worse. But in its popular form it has also fed a political posture — {{% int_link val="detailed in the critique of dispensationalism" link="/expl/topics/others/dispensionalism-and-its-critic" %}} — that treats Middle East conflict as something to welcome rather than mourn, since conflict there is read as hastening a longed-for escape. It has also, on Barbara Rossing's account, quietly undercut long-term care for creation: why invest in a planet you expect to leave behind soon?[^watt]
 
 A post-tribulational reading offers no such exit — which is exactly its pastoral cost. {{% int_link val="Endure to the end is a harder message to sit with than you'll be gone before it gets bad" link="/expl/topics/others/why-so-many-believe-in-the-rapture" %}}, especially for someone already suffering. That doesn't make it less true. It does mean this was never only a debate about Greek verbs and Daniel's calendar.
 
@@ -122,3 +122,5 @@ A few closing questions worth sitting with:
 [^before]: The texts are a sermon attributed to Ephraem the Syrian ("Pseudo-Ephraem") and the Baptist Morgan Edwards (1788). They are put forward by Thomas Ice and Timothy Demy, *Bibliotheca Sacra* 152 (1995), pp. 306–317.
 
 [^hour]: Jeffrey Townsend, "The Rapture in Revelation 3:10", in Thomas Ice and Timothy Demy (eds.), *When the Trumpet Sounds* (Harvest House, 1995), and Andy Woods, "A Closer Look at Pretribulationism and Revelation 3:10" (Pre-Trib Research Center, 2025), pp. 9–13, who argue from the Greek article before "hour" and from *ek* in John 17:15. Robert Gundry's contrast between "take them out of the world" and "keep them from the evil one" (*The Church and the Tribulation*, 1973, p. 59) is the other side of the same argument.
+
+[^watt]: Rossing, *The Rapture Exposed*, ch. 1. Her example is James Watt, Reagan's Secretary of the Interior, who told Congress in 1981: "I do not know how many future generations we can count on before the Lord returns."

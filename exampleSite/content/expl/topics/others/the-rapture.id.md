@@ -89,7 +89,7 @@ Sekali lagi, bagian ini dibaca sebagai argumen untuk pengangkatan: satu orang di
 <a name="7b1d"></a>
 Melalui kacamata tafsiran pengangkatan, dibawa pergi tampak seperti hasil yang baik dan ditinggalkan tampak seperti hasil yang buruk. Tetapi bahasa di sekitarnya sebenarnya tidak mendukung pembacaan itu. Di sini, Yesus membandingkan kedatangan-Nya dengan air bah pada zaman Nuh, dan dalam kisah air bah itu, "dibawa pergi" berarti dibawa oleh penghakiman, dihanyutkan oleh air. Jika makna yang sama berlaku pada kedatangan Anak Manusia, maka "dibawa pergi" dalam konteks ini kemungkinan besar menandai orang-orang jahat, sementara mereka yang ditinggalkan justru adalah orang-orang yang selamat.
 
-Perhatikan juga bahwa teks ini tidak pernah menyebutkan ke mana orang-orang yang "dibawa" itu dibawa. Gambaran ini bisa jadi sama mudahnya merujuk pada polisi rahasia Kekaisaran Romawi yang menangkap orang-orang percaya karena iman mereka, seperti halnya merujuk pada apa pun yang berkaitan dengan surga.
+Perhatikan juga bahwa teks ini tidak pernah menyebutkan ke mana orang-orang yang "dibawa" itu dibawa. N. T. Wright membaca gambaran ini sebagai dibawa dalam penghakiman: "soal polisi rahasia yang datang pada malam hari, atau musuh yang menyapu sebuah desa atau kota dan menangkap apa saja yang bisa mereka tangkap", yang bagi orang di bawah pendudukan Romawi merupakan ketakutan yang terus-menerus.[^wright] Bagaimanapun, tujuan surgawi dibawa masuk ke dalam bagian ini oleh pandangan pengangkatan.
 
 ### Konteksnya
 
@@ -132,4 +132,6 @@ Sebaliknya, ini menggemakan pola Perjanjian Lama tentang sidang surgawi, adegan 
 <a name="ec29"></a>
 Setiap argumen untuk pengangkatan bertumpu pada ayat-ayat yang sebenarnya menggambarkan sesuatu yang sama sekali berbeda — ayat-ayat yang ditafsirkan secara keliru, dilepaskan dari konteksnya, atau dibaca melampaui makna sesungguhnya dari kata-kata kuncinya. Jika digabungkan, tidak ada bukti alkitabiah untuk pengangkatan rahasia sebelum kesengsaraan. Orang-orang percaya akan {{% bible val="diangkat untuk menyongsong Tuhan" link="1th:4,17" lang="ind" %}}, tetapi pada kedatangan-Nya yang satu dan kelihatan itu, untuk menyambut Dia di sini.
 
-[^apantesis]: Erik Peterson, dalam *Theological Dictionary of the New Testament*, jld. 1, hlm. 380–381; N. T. Wright memahaminya dengan cara yang sama. Michael Cosby berpendapat bahwa latar belakang ini dilebih-lebihkan (*Bulletin for Biblical Research* 4, 1994, hlm. 15–34).
+[^apantesis]: Erik Peterson, dalam *Theological Dictionary of the New Testament*, jld. 1, hlm. 380–381; N. T. Wright memahaminya dengan cara yang sama. Michael Cosby berpendapat bahwa latar belakang ini dilebih-lebihkan (*Bulletin for Biblical Research* 4, 1994, hlm. 15–34). Rossing membacanya seperti Peterson (*The Rapture Exposed*, Epilog): dalam penggunaan kata itu mana pun, pembesar yang tiba tidak berbalik dan kembali ke tempat asalnya.
+
+[^wright]: N. T. Wright, *Jesus and the Victory of God* (SPCK, 1996), hlm. 366, dikutip dalam Rossing, *The Rapture Exposed*, Epilog. Rossing setuju, mencatat bahwa kedua kata kerja Yunani, *paralambanō* ("mengambil") dan *aphiēmi* ("meninggalkan"), dapat bermakna positif atau negatif dalam Matius, dan mengutip kritikus Lutheran B. Brent McGuire, yang mengatakan bahwa Left Behind memahami bagian itu "sepenuhnya terbalik".

@@ -27,7 +27,7 @@ Dispansiyonalizm, Kutsal Kitap'ı harfiyen okumakla övünür; bu, yüzeyde oldu
 
 Baştan sona şiirsel bir edebiyat olan Ezgiler Ezgisi'ni ele alalım. Onu düz bir harfiyenlikle okursanız, Sulamit'in {{% bible val="gözleri güvercin, boynu kule" link="sng:4,1-4" lang="tr" %}} olur — ki bu açıkça amaçlanan anlam değildir. Başka birkaç pasaj da aynı uyarı işaretini taşır; bunlardan birinde metnin kendisi {{% bible val="harfiyen" link="isa:55,12" lang="tr" %}} anlaşılmasının amaçlanmadığını belirtir.
 
-Daha da çarpıcı olanı, dispansiyonalistlerin kendi ilkelerini bile tutarlı biçimde uygulamamalarıdır. Örneğin, {{% bible val="canavarın hiçbir gerçek, görünür anlamda yedi başı ve on boynuzu olmayacağı" link="rev:13,1" lang="tr" %}} konusunda hemfikirdirler. Ve {{% bible val="Gog ve Magog" link="rev:20,8" lang="tr" %}}, {{% bible val="Tanrı'nın yay ve okları yok edeceğine" link="ezk:39,3" lang="tr" %}} dair bir ifadeyle birlikte geçtiğinde, dispansiyonalistler "yay ve oklar" ifadesini seve seve uçaklar ve füzeler olarak okurlar — harfiyenliği rozet gibi taşıyan bir yorum yöntemi için hiç de harfi harfine olmayan bir hamle.
+Daha da çarpıcı olanı, dispansiyonalistlerin kendi ilkelerini bile tutarlı biçimde uygulamamalarıdır. Örneğin, {{% bible val="canavarın hiçbir gerçek, görünür anlamda yedi başı ve on boynuzu olmayacağı" link="rev:13,1" lang="tr" %}} konusunda hemfikirdirler. Ve Vahiy'deki silahlar modern silahlar olarak okunur: Hal Lindsey, denize atılan "ateşle yanan büyük dağı" ({{% bible val="Vahiy 8:8–9" link="rev:8,8-9" lang="tr" %}}) Yuhanna'nın birinci yüzyıl diliyle bir termonükleer deniz savaşını anlatması olarak yorumlar ve Yuhanna'nın bunu nasıl bildiğini, Tanrı'nın onu zamanda ileriye taşıyıp bunu göstermesiyle açıklar[^lindsey] — harfiyenliği rozet gibi taşıyan bir yorum yöntemi için hiç de harfi harfine olmayan bir hamle.
 
 ## Literatür anlayışının eksikliği
 
@@ -104,7 +104,7 @@ Göğe alınma — inananların bir sıkıntı döneminden önce bedenen yakalan
 <a name="d9ea"></a>
 Bu teorinin nihayetinde sunduğu iman sebebi korkudur: ya inanırsınız, ya da göğe alınmayı kaçırıp geride bırakılırsınız. Ama korku, {{% int_link val="kilisenin değil, canavarın bir özelliğidir" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. Üstelik böylece iman, kurtulmak gibi tek bir işleme indirgenir; Mesih'e benzemeye, komşuyu sevmeye ya da toplumu iyiye doğru şekillendirmeye pek yer kalmaz.
 
-Bu yalnızca teolojik bir soyutlama değildir. Rossing, göğe alınmayı bekleyen hanelerdeki çocukların okuldan eve dönüp boş bir evle karşılaştıklarında, göğe alınmanın kendileri olmadan gerçekleştiğini düşünerek paniğe kapıldıkları gerçek, bildirilmiş vakaları belgeler — imanın motivasyonunu sevgi yerine geride bırakılma korkusu üzerine kurmanın somut, insani bir bedelidir bu.
+Bu yalnızca teolojik bir soyutlama değildir. Rossing, göğe alınmanın icadına ayırdığı bölüme, on yaşındayken okuldan boş bir eve dönüp ailesinin kendisi olmadan göğe alındığından korkan yetişkin bir adamla başlar ve başkalarının da aynı çocukluk korkusunu anlattığını aktarır.[^josh] İmanın motivasyonunu sevgi yerine geride bırakılma korkusu üzerine kurmanın somut, insani bir bedelidir bu.
 
 ## Savaş silahları
 
@@ -118,9 +118,15 @@ Teori ayrıca, Kutsal Kitap'ın desteklemediği ve zaman zaman kendi içinde çe
 
 - Katolik karşıtlığına eğilimlidir.
 - Eski Ahit'in kendisi İsrail'e sıkça eleştirel yaklaşsa da, teori popüler biçimlerinde eleştirisiz biçimde Amerikan ve İsrail yanlısı olabilir.
-- Popüler biçimlerinde, Orta Doğu'daki mevcut savaşları Tanrı'nın planının bir parçası olarak görebilir ve bu yüzden onları yas tutulacak değil, hoş karşılanacak bir şey sayabilir.
+- Popüler biçimlerinde, Orta Doğu'daki mevcut savaşları Tanrı'nın planının bir parçası olarak görebilir ve bu yüzden onları yas tutulacak değil, hoş karşılanacak bir şey sayabilir.[^politics]
 
 ## Daha fazla okuma
 
 <a name="b176"></a>
 Konuya çok daha ayrıntılı girmek isterseniz, "[The rapture exposed](https://www.amazon.de/Rapture-Exposed-Message-Hope-Revelation/dp/0813343143)" başlıklı esere bir göz atın.
+
+[^josh]: Rossing, *The Rapture Exposed*, 2. bölüm (başlangıç). Öyküleri, Vahiy üzerine verdiği seminer dersindeki öğrenciler anlatır.
+
+[^lindsey]: Rossing, *The Rapture Exposed*, 2. bölüm, Hal Lindsey'den alıntılar: *The Rapture: Truth or Consequences*, s. 101–102.
+
+[^politics]: Rossing, *The Rapture Exposed*, 3. bölüm (1948'de İsrail'in kuruluşu bir "kehanet süper-işareti" olarak ve Left Behind'ın Orta Doğu senaryosu); ciltsiz baskının önsözünde, göğe alınma teolojisinin götürebileceği yönler arasında "Orta Doğu'da militarizme ve yayılmacılığa destek"i sayar.

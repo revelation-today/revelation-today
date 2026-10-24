@@ -27,7 +27,7 @@ Der Dispensationalismus ist stolz darauf, die Bibel wörtlich zu lesen, was auf 
 
 Man nehme das Hohelied, das durch und durch poetische Literatur ist. Liest man es mit flacher Wörtlichkeit, hat Sulamith am Ende {{% bible val="Tauben als Augen und einen Turm als Hals" link="sng:4,1-4" lang="de" %}} — offenkundig nicht die Absicht des Textes. Mehrere andere Stellen tragen dasselbe Warnsignal, darunter eine, bei der der Text selbst anzeigt, dass er nicht {{% bible val="wörtlich" link="isa:55,12" lang="de" %}} gemeint ist.
 
-Bezeichnender noch: Dispensationalisten wenden ihr eigenes Prinzip nicht einmal konsequent an. Sie stimmen zum Beispiel zu, dass {{% bible val="das Tier keine sieben Köpfe und zehn Hörner haben wird" link="rev:13,1" lang="de" %}} in irgendeinem wörtlichen, sichtbaren Sinn. Und wenn {{% bible val="Gog und Magog" link="rev:20,8" lang="de" %}} zusammen mit einem Hinweis darauf auftauchen, dass {{% bible val="Gott Bogen und Pfeile zerstört" link="ezk:39,3" lang="de" %}}, deuten Dispensationalisten „Bogen und Pfeile” bereitwillig als Flugzeuge und Raketen — ein durch und durch unwörtlicher Schritt für eine Hermeneutik, die Wörtlichkeit als ihr Markenzeichen beansprucht.
+Bezeichnender noch: Dispensationalisten wenden ihr eigenes Prinzip nicht einmal konsequent an. Sie stimmen zum Beispiel zu, dass {{% bible val="das Tier keine sieben Köpfe und zehn Hörner haben wird" link="rev:13,1" lang="de" %}} in irgendeinem wörtlichen, sichtbaren Sinn. Und die Waffen der Offenbarung werden als moderne gelesen: Hal Lindsey versteht den „großen, mit Feuer brennenden Berg“, der ins Meer geworfen wird ({{% bible val="Offb 8,8–9" link="rev:8,8-9" lang="de" %}}), als Beschreibung einer thermonuklearen Seeschlacht in der Sprache des ersten Jahrhunderts und erklärt das Wissen des Johannes damit, dass Gott ihn in der Zeit vorwärts getragen habe, um sie zu sehen[^lindsey] — ein durch und durch unwörtlicher Schritt für eine Hermeneutik, die Wörtlichkeit als ihr Markenzeichen beansprucht.
 
 ## Eine Theorie, die die Literatur selbst missversteht
 
@@ -104,7 +104,7 @@ Die Entrückung — die konkrete Vorstellung, dass Gläubige buchstäblich entr�
 <a name="ab07"></a>
 Der Beweggrund für den Glauben, den diese Theorie letztlich anbietet, ist die Angst: Glaube, sonst verpasst du die Entrückung und wirst zurückgelassen. Aber Angst ist {{% int_link val="ein Merkmal des Tieres, nicht der Gemeinde" link="/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation" %}}. Hinzu kommt, dass der Glaube auf eine einzige Transaktion reduziert wird — gerettet zu sein —, während wenig übrig bleibt für das Christuswerden, das Lieben des Nächsten oder das Gestalten der Gesellschaft zum Guten.
 
-Das ist keine bloß theologische Abstraktion. Rossing dokumentiert reale, berichtete Fälle von Kindern in auf die Entrückung wartenden Haushalten, die von der Schule nach Hause kamen, ein leeres Haus vorfanden und in Panik gerieten, weil sie dachten, die Entrückung sei ohne sie geschehen — ein konkreter, menschlicher Preis dafür, den Beweggrund des Glaubens auf die Angst vor dem Zurückgelassenwerden zu bauen, statt auf die Liebe.
+Das ist keine bloß theologische Abstraktion. Rossing eröffnet ihr Kapitel über die Erfindung der Entrückung mit einem erwachsenen Mann, der als Zehnjähriger von der Schule in ein leeres Haus kam und voller Angst war, seine Familie sei ohne ihn entrückt worden, und sie berichtet, dass andere dieselbe Geschichte kindlicher Angst erzählen.[^josh] Es ist ein konkreter, menschlicher Preis dafür, den Beweggrund des Glaubens auf die Angst vor dem Zurückgelassenwerden zu bauen, statt auf die Liebe.
 
 ## Die Waffen der Kriegsführung, die sie sich vorstellt
 
@@ -118,4 +118,10 @@ Die Theorie stellt außerdem politische Behauptungen auf, die die Bibel nicht st
 
 - Sie neigt zu Antikatholizismus.
 - In ihren populären Formen kann sie unkritisch pro-amerikanisch und pro-israelisch sein, obwohl das Alte Testament selbst häufig kritisch gegenüber Israel ist.
-- In ihren populären Formen kann sie die gegenwärtigen Kriege im Nahen Osten als Teil von Gottes Plan behandeln und damit als etwas, das man begrüßen statt betrauern sollte.
+- In ihren populären Formen kann sie die gegenwärtigen Kriege im Nahen Osten als Teil von Gottes Plan behandeln und damit als etwas, das man begrüßen statt betrauern sollte.[^politics]
+
+[^josh]: Rossing, *The Rapture Exposed*, Kap. 2 (Anfang). Die Geschichten erzählen Studierende in ihrem Seminar über die Offenbarung.
+
+[^lindsey]: Rossing, *The Rapture Exposed*, Kap. 2, zitiert Hal Lindsey, *The Rapture: Truth or Consequences*, S. 101–102.
+
+[^politics]: Rossing, *The Rapture Exposed*, Kap. 3 (die Gründung Israels 1948 als „prophetisches Super-Zeichen“ und das Left-Behind-Drehbuch für den Nahen Osten); im Vorwort zur Taschenbuchausgabe nennt sie „Unterstützung von Militarismus und Expansionismus im Nahen Osten“ unter den Richtungen, in die Entrückungstheologie führen kann.

@@ -89,7 +89,7 @@ Auch diese Stelle wird wieder als Argument für die Entrückung gelesen: der ein
 <a name="7b1d"></a>
 Durch die Brille der Entrückung betrachtet, erscheint das Mitgenommenwerden als das gute Ergebnis und das Zurückbleiben als schlecht. Aber die umgebende Sprache stützt diese Lesart eigentlich nicht. Hier vergleicht Jesus sein Kommen mit der Flut zur Zeit Noahs, und in dieser Fluterzählung bedeutet „hinweggenommen werden”, vom Gericht erfasst und von den Wassern fortgespült zu werden. Überträgt sich dieser Sinn auf das Kommen des Menschensohnes, dann kennzeichnet „hinweggenommen” in diesem Zusammenhang höchstwahrscheinlich die Gottlosen, während die Zurückgelassenen die sind, die in Sicherheit sind.
 
-Zu beachten ist auch, dass der Text nirgends sagt, wohin die „Genommenen” gebracht werden. Das Bild könnte ebenso gut die Geheimpolizei des Römischen Reiches meinen, die Gläubige wegen ihres Glaubens verhaftet, wie irgendetwas mit dem Himmel.
+Zu beachten ist auch, dass der Text nirgends sagt, wohin die „Genommenen” gebracht werden. N. T. Wright liest das Bild als Hinwegnahme im Gericht: „eine Sache von Geheimpolizei, die in der Nacht kommt, oder von Feinden, die durch ein Dorf oder eine Stadt fegen und ergreifen, was sie kriegen können“, was für Menschen unter römischer Besatzung eine ständige Furcht gewesen wäre.[^wright] So oder so bringt erst die Entrückungslehre das himmlische Ziel in den Text mit.
 
 ### Der Kontext
 
@@ -132,4 +132,6 @@ Stattdessen greift sie das alttestamentliche Muster des himmlischen Rates auf, d
 <a name="ec29"></a>
 Jedes Argument für die Entrückung stützt sich auf Stellen, die von etwas ganz anderem handeln — Stellen, die fehlgedeutet, aus dem Zusammenhang gerissen oder über die eigentliche Bedeutung ihrer Schlüsselwörter hinweggelesen werden. Zusammengenommen gibt es keinen biblischen Beleg für eine geheime Entrückung vor der Trübsal. Die Gläubigen werden {{% bible val="dem Herrn entgegengerückt" link="1th:4,17" lang="de" %}}, aber bei seiner einen, sichtbaren Wiederkunft, und um ihn hier zu empfangen.
 
-[^apantesis]: Erik Peterson, im *Theologischen Wörterbuch zum Neuen Testament* (engl. *TDNT*), Bd. 1, S. 380–381; N. T. Wright versteht es ebenso. Michael Cosby hält diesen Hintergrund für überbewertet (*Bulletin for Biblical Research* 4, 1994, S. 15–34).
+[^apantesis]: Erik Peterson, im *Theologischen Wörterbuch zum Neuen Testament* (engl. *TDNT*), Bd. 1, S. 380–381; N. T. Wright versteht es ebenso. Michael Cosby hält diesen Hintergrund für überbewertet (*Bulletin for Biblical Research* 4, 1994, S. 15–34). Rossing liest es wie Peterson (*The Rapture Exposed*, Epilog): In keinem Gebrauch des Wortes kehrt der ankommende Würdenträger um und geht dorthin zurück, woher er kam.
+
+[^wright]: N. T. Wright, *Jesus and the Victory of God* (SPCK, 1996), S. 366, zitiert bei Rossing, *The Rapture Exposed*, Epilog. Rossing stimmt zu, weist darauf hin, dass beide griechischen Verben, *paralambanō* („nehmen“) und *aphiēmi* („lassen“), bei Matthäus positiv oder negativ sein können, und führt den lutherischen Kritiker B. Brent McGuire an, nach dem Left Behind die Stelle „völlig verkehrt herum“ liest.

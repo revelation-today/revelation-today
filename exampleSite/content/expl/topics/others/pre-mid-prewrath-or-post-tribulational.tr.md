@@ -102,7 +102,7 @@ Gizli ya da başka türlü, ayrı bir göğe alınma olayı yoktur. İnananlar, 
 <a name="prac1"></a>
 Bunlar yalnızca bir takvimi okumanın dört yolu değil — her biri, bugün gerçek bir zorlukla yüzleşen birinin bundan nasıl bir anlam çıkaracağı için gerçek bir ağırlık taşır.
 
-Pretribülasyonist bir okuma, işler kötüleşmeden önce bir çıkış rahatlığı sunar. Ama popüler biçiminde, {{% int_link val="dispansiyonalizm eleştirisinde ayrıntılı biçimde ele alınan" link="/expl/topics/others/dispensionalism-and-its-critic" %}} bir siyasi tutumu da beslemiştir: Orta Doğu'daki çatışmayı, özlenen bir kaçışı hızlandırdığı okunduğu için, yas tutulacak değil hoş karşılanacak bir şey olarak ele alan bir tutum. Barbara Rossing'in anlatımına göre, bu görüş aynı zamanda yaratılışa uzun vadeli özenin sessizce zayıflamasına da yol açmıştır: Yakında terk edeceğinizi düşündüğünüz bir gezegene neden yatırım yapasınız ki?
+Pretribülasyonist bir okuma, işler kötüleşmeden önce bir çıkış rahatlığı sunar. Ama popüler biçiminde, {{% int_link val="dispansiyonalizm eleştirisinde ayrıntılı biçimde ele alınan" link="/expl/topics/others/dispensionalism-and-its-critic" %}} bir siyasi tutumu da beslemiştir: Orta Doğu'daki çatışmayı, özlenen bir kaçışı hızlandırdığı okunduğu için, yas tutulacak değil hoş karşılanacak bir şey olarak ele alan bir tutum. Barbara Rossing'in anlatımına göre, bu görüş aynı zamanda yaratılışa uzun vadeli özenin sessizce zayıflamasına da yol açmıştır: Yakında terk edeceğinizi düşündüğünüz bir gezegene neden yatırım yapasınız ki?[^watt]
 
 Posttribülasyonist bir okuma böyle bir çıkış sunmaz — ve bu tam olarak onun ruhsal bedelidir. {{% int_link val="Sona kadar dayanmak, kötüleşmeden önce gideceksin demekten daha ağır bir mesajdır" link="/expl/topics/others/why-so-many-believe-in-the-rapture" %}}, özellikle zaten acı çekmekte olan biri için. Bu, onu daha az doğru yapmaz. Ama bunun hiçbir zaman yalnızca Yunanca fiiller ve Daniel'in takvimi üzerine bir tartışma olmadığı anlamına gelir.
 
@@ -120,3 +120,5 @@ Bu, {{% int_link val="milenyum tartışmasından" link="/expl/content/1000y/pre-
 - {{% int_link val="Bock, Three Views on the Millennium and Beyond" link="/about/ressources#bock_millennium" %}}, her görüşü onu gerçekten savunan bir bilim insanından dinleyerek pozisyonları adil biçimde karşılaştırmanın bir örneğini sunar — {{% int_link val="göğe alınmanın zamanlaması tartışması için de benzer bir kitap var" link="/about/ressources#rapture_views" %}}, bu özetten daha derine inmek isterseniz.
 
 [^before]: Bu metinler, Süryani Efrem'e atfedilen bir vaaz ("Sözde Efrem") ile Baptist Morgan Edwards'ın (1788) yazısıdır. Bunları Thomas Ice ve Timothy Demy öne sürer: *Bibliotheca Sacra* 152 (1995), s. 306–317.
+
+[^watt]: Rossing, *The Rapture Exposed*, 1. bölüm. Örneği, Reagan'ın İçişleri Bakanı James Watt'tır; 1981'de Kongre'ye şöyle demiştir: "Rab dönmeden önce kaç gelecek nesle güvenebileceğimizi bilmiyorum."
