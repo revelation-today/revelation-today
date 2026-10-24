@@ -40,15 +40,15 @@ Taken together, these allusions show that the structure of Mark's gospel mirrors
 | Mark | Isaiah 40-66 | Explanation |
 |------|--------------|-------------|
 | Jesus' ministry in Galilee and beyond (1/16–8/21 or 8/26) </br> People are set free from demons. </br> {{% bible val="Rejection of Jesus (Beelzebub)" link="mrk:3,22-30" lang="en" %}} results {{% bible val="in hardening of hearts" link="mrk:4,11-13" lang="en" %}}. | Israel is set free from slavery by God the Warrior and Healer</br> Israel is freed from Babel </br> {{% bible val="Rejecting God: God becomes their enemy" link="isa:63,10" lang="en" %}} | Deliverance from demons shows the authority of Jesus, presenting God as the warrior who releases people from captivity.</br> People are held captive by demons. |
-| Mk 8:22,27-10:15,52: Jesus leads the "blind" disciples on the "way" </br> Healing the blind and deaf, disciples are also blind at first, but see again. | {{% bible val="God guides the \"blind\" on the \"way\"" link="isa:42,16" lang="en" %}} | Jesus suffering is the way in which the exodus happens (Is.53: servant goes the way through his death (Mk 10:45)) |
-| Mk 10:46;11:1-16:8: Jesus eventual arrival in Jerusalem | Israel's eventual arrival in Jerusalem | Jesus curses the fig tree: reference to beginning: {{% bible val="judgment or promise, only if bears fruit" link="mrk:11,12-21" lang="en" %}} |
+| Mk 8:22,27-10:15,52: Jesus leads the "blind" disciples on the "way" </br> Healing the blind and deaf, disciples are also blind at first, but see again. | {{% bible val="God guides the \"blind\" on the \"way\"" link="isa:42,16" lang="en" %}} | Jesus suffering is the way in which the exodus happens ({{% bible val="Isa 53" link="isa:53" lang="en" %}}: the servant goes the way through his death, {{% bible val="Mark 10:45" link="mrk:10,45" lang="en" %}}) |
+| Mk 10:46;11:1-16:8: Jesus eventual arrival in Jerusalem | Israel's eventual arrival in Jerusalem | Jesus curses the fig tree and cleanses the temple: the threat in the Malachi quotation of Mark 1:2 comes true — {{% bible val="a tree with leaves but no fruit is judged" link="mrk:11,12-21" lang="en" %}} |
 
 ## The new Exodus in Luke
 
 <a name="1f7d"></a>
 The key to the Gospel of Luke is “{{% bible val="As it is written in the book of the words of the prophet Isaiah: ‘A voice of one calling in the wilderness, “Prepare the way for the Lord, make straight paths for him. Every valley shall be filled in, every mountain and hill made low. The crooked roads shall become straight, the rough ways smooth. And all people will see God’s salvation.” ’" link="luk:3,4-6" lang="en" %}}” — {{% bible val="the same reference used at the beginning of Mark" link="isa:40,2-3" lang="en" %}}.
 
-"The way," in both gospels, is the Exodus: it is God's way of restoring Israel, and it runs through the church.
+"The way," in both gospels, is the Exodus: it is God's way of restoring Israel; in Acts the church itself will be called "the Way".
 
 When {{% bible val="Jesus read from Isaiah, he stated its fulfillment" link="luk:4,16-30" lang="en" %}}, {{% bible val="that was the sign of the second Exodus" link="isa:61,1-2" lang="en" %}}. Fittingly, then, the Gospel of {{% bible val="Luke ends with the fulfillment of the Scripture" link="luk:24,44-49" lang="en" %}} that {{% bible val="refers to the restoration of Israel and the inclusion of the Gentiles in Isaiah" link="isa:49,6" lang="en" %}}.
 
@@ -96,9 +96,9 @@ So the second exodus the prophets promised, and the gospels see beginning in Jes
 ## Summary
 
 <a name="f43c"></a>
-The new Exodus for which Israel had been waiting so long finally happens — and it is tied inseparably to Jesus. What remains open is whether Israel and the Gentiles will choose God, or keep clinging to their idols instead; the book of Acts treats that as no small question.
+The new Exodus for which Israel had been waiting so long finally happens — and it is tied inseparably to Jesus. What remains open is whether Israel and the nations will accept the Servant's light. Acts ends with the question still open: some are persuaded and some are not, and the message goes on to the Gentiles ({{% bible val="Acts 28:24–28" link="act:28,24-28" lang="en" %}}).
 
-Read this way, the Gospel and Acts trace a single, ongoing tension: the restoration of the Israel that believes in Christ, running alongside the salvation of the Gentiles who are being drawn in together with them.
+Read this way, Luke and Acts trace a single, ongoing tension: the restoration of the Israel that believes in Christ, running alongside the salvation of the Gentiles who are being drawn in together with them.
 
 [^exile]: Beale, p. 19; N. T. Wright, *The New Testament and the People of God*, pp. 268–272. The thesis is debated: see J. M. Scott (ed.), *Exile: A Conversation with N. T. Wright* (2017).
 

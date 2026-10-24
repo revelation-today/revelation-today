@@ -47,7 +47,7 @@ Burada hizmetkâr İsrail olarak adlandırılır, ama yine de sadece İsrail ola
 
 Bir sonraki adım Mezmur 87'dir:
 
-“{{% bible val="RAB Siyon’u kutsal dağlar üzerine kurdu. Siyon’un kapılarını Yakup soyunun bütün konutlarından daha çok sever. Ey Tanrı kenti, senin için ne yüce sözler söylenir: Sela ‹‹Beni tanıyanlar arasında Rahav ve Babil’i anacağım, Filist’i, Sur’u, Kûş’u da; ‹Bu da Siyon’da doğdu› diyeceğim.›› 5 Evet, Siyon için şöyle denecek: ‹‹Şu da orada doğmuş, bu da, Yüceler Yücesi onu sarsılmaz kılacak.›› 6 RAB halkları kaydederken, ‹‹Bu da Siyon’da doğmuş›› diye yazacak." link="psa:87,1-6" lang="tr" %}}”
+“{{% bible val="RAB Siyon’u kutsal dağlar üzerine kurdu. Siyon’un kapılarını Yakup soyunun bütün konutlarından daha çok sever. Ey Tanrı kenti, senin için ne yüce sözler söylenir: Sela ‹‹Beni tanıyanlar arasında Rahav ve Babil’i anacağım, Filist’i, Sur’u, Kûş’u da; ‹Bu da Siyon’da doğdu› diyeceğim.›› Evet, Siyon için şöyle denecek: ‹‹Şu da orada doğmuş, bu da, Yüceler Yücesi onu sarsılmaz kılacak.›› RAB halkları kaydederken, ‹‹Bu da Siyon’da doğmuş›› diye yazacak." link="psa:87,1-6" lang="tr" %}}”
 
 Burada Yahudi olmayanların İsrail'de doğmuş sayıldığı görülür. 6. ayette geçen kayıt, O'nu tanıyan herkesi kapsayacak, tıpkı 4. ayette anlatıldığı gibi bir son zaman kayıt eylemidir.
 
@@ -95,7 +95,7 @@ Zekeriya, Yahudi olmayanların "halkım" olarak adlandırıldığı bir başka p
 
 Son olarak Hezekiel'den bir pasaj, Yahudi olmayanların fiilen nasıl doğuştan İsrailli hâline geldiğini anlatır:
 
-“{{% bible val="‹‹Bu ülkeyi İsrail oymaklarına göre aranızda paylaşacaksınız. 22 Ülkeyi içinizde yaşayan ve içinizdeyken çocukları olan yabancılarla kendiniz arasında mülk olarak bölüşeceksiniz. Onları İsrail’de doğan yerliler sayacaksınız. Onların da İsrail oymakları arasında sizin gibi mülkleri olacak. 23 Yabancı hangi oymağa yerleşmişse, orada ona düşen payı mülk olarak vereceksiniz.›› Egemen RAB böyle diyor." link="ezk:47,21-23" lang="tr" %}}”
+“{{% bible val="‹‹Bu ülkeyi İsrail oymaklarına göre aranızda paylaşacaksınız. Ülkeyi içinizde yaşayan ve içinizdeyken çocukları olan yabancılarla kendiniz arasında mülk olarak bölüşeceksiniz. Onları İsrail’de doğan yerliler sayacaksınız. Onların da İsrail oymakları arasında sizin gibi mülkleri olacak. Yabancı hangi oymağa yerleşmişse, orada ona düşen payı mülk olarak vereceksiniz.›› Egemen RAB böyle diyor." link="ezk:47,21-23" lang="tr" %}}”
 
 Buradaki yabancılar, orada doğanlarla aynı haklara sahip olarak İsrail'in tam bir parçası sayılır. Bu model İsrail'in tarihi boyunca tekrar tekrar görülür: {{% bible val="Mısırlılar" link="exo:12,38" lang="tr" %}} yerli İsraillilerle {{% bible val="aynı haklara" link="exo:12,48-51" lang="tr" %}} kavuştu; {{% bible val="Rahav" link="jos:6,25" lang="tr" %}} {{% bible val="dahil edildi" link="mat:1,5" lang="tr" %}}; ve {{% bible val="Moavlı" link="rut:1,1-4" lang="tr" %}} {{% bible val="Rut" link="rut:1,16" lang="tr" %}} yalnızca dahil edilmekle kalmadı, {{% bible val="Davut'un" link="rut:4,10-16" lang="tr" %}} ve {{% bible val="İsa'nın" link="mat:1,5" lang="tr" %}} atası oldu.
 

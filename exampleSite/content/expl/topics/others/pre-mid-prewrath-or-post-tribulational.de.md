@@ -31,7 +31,7 @@ Die Gemeinde wird von der Erde entfernt, bevor irgendein Teil einer künftigen s
 
 **Dafür spricht:**
 
-- Sie liest {{% bible val="'bewahrt vor der Stunde der Versuchung, die über den ganzen Erdkreis kommen wird'" link="rev:3,10" lang="de" %}} als Versprechen der Entfernung, bevor die Prüfung beginnt, nicht des Durchstehens.
+- Sie liest {{% bible val="'bewahrt vor der Stunde der Versuchung, die über den ganzen Erdkreis kommen wird'" link="rev:3,10" lang="de" %}} als Versprechen der Entfernung, bevor die Prüfung beginnt, nicht des Durchstehens. Ihr bester Punkt liegt im Wortlaut: Die Zusage gilt dem Bewahrtwerden vor *der Stunde*, nicht nur vor der Prüfung darin.[^hour]
 - Sie nimmt {{% bible val="'Gott hat uns nicht zum Zorn bestimmt'" link="1th:5,9" lang="de" %}} als Garantie, von der gesamten Trübsalszeit verschont zu bleiben, nicht nur von ihrem abschließenden Gerichtsausbruch.
 - Die Gemeinde wird {{% bible val="von Kapitel 4 bis zu den letzten Versen der Offenbarung" link="rev:4,1" lang="de" %}} nie wieder namentlich erwähnt, was manchen als Beleg dafür gilt, dass sie die Szene bereits verlassen hat.
 - Sie bewahrt ein klares Gefühl der Unmittelbarkeit — Christus könnte jederzeit wiederkommen, ohne dass noch etwas vorher geschehen müsste.
@@ -43,7 +43,7 @@ Die Gemeinde wird von der Erde entfernt, bevor irgendein Teil einer künftigen s
 - Paulus nennt den Zurückhaltenden in 2. Thessalonicher 2 nie beim Namen. Ernstzunehmende Ausleger identifizieren ihn unterschiedlich als die zurückhaltende Gegenwart des Heiligen Geistes in der Welt, die fortgesetzte Verkündigung des Evangeliums, menschliche Regierung oder sogar den Erzengel Michael (vergleiche {{% bible val="Michaels eigene zurückhaltende Rolle" link="dan:12,1" lang="de" %}}) — nichts davon erfordert, dass die Gemeinde selbst buchstäblich von der Erde entfernt wird, nur dass ein bestimmter zurückhaltender Einfluss zurücktritt oder beiseitegesetzt wird.
 - Das Fehlen des Begriffs „Gemeinde" in den Kapiteln 4–19 ist ein Argument aus dem Schweigen; dieselben Kapitel sprechen Gläubige durchgehend unter anderen Namen direkt an — {{% bible val="die Heiligen" link="rev:13,7" lang="de" %}}, {{% bible val="die Gottes Gebote halten und am Zeugnis Jesu festhalten" link="rev:12,17" lang="de" %}}, {{% bible val="die um des Wortes Gottes willen getötet wurden" link="rev:6,9" lang="de" %}}.
 - Vor den 1830er-Jahren gibt es keine klare Lehre von einer prätribulationalen Entrückung. Die wenigen früheren Texte, die ihre Verfechter anführen, sind umstritten.[^before] Das ist eine auffällige Lücke für etwas, das als klare Lehre des Neuen Testaments selbst beansprucht wird.
-- „Bewahrt vor der Stunde der Versuchung" verwendet dieselbe Konstruktion andernorts für {{% bible val="Bewahrung inmitten der Gefahr, nicht Entfernung aus dem Ort der Gefahr" link="jhn:17,15" lang="de" %}}, wo Jesus betet, der Vater möge die Gläubigen *vor dem Bösen* bewahren, während er ausdrücklich *nicht* darum bittet, sie aus der Welt herauszunehmen.
+- „Bewahrt vor der Stunde der Versuchung" verwendet dieselbe Konstruktion andernorts für {{% bible val="Bewahrung inmitten der Gefahr, nicht Entfernung aus dem Ort der Gefahr" link="jhn:17,15" lang="de" %}}, wo Jesus betet, der Vater möge die Gläubigen *vor dem Bösen* bewahren, während er ausdrücklich *nicht* darum bittet, sie aus der Welt herauszunehmen. Prätribulationalisten lesen diesen Vers umgekehrt, als Bewahrung aus dem Herrschaftsbereich des Bösen heraus; es ist also ein Argument, keine entschiedene Sache.[^hour]
 
 ## Midtribulational
 
@@ -122,3 +122,5 @@ Ein paar abschließende Fragen, bei denen es sich lohnt zu verweilen:
 [^before]: Es handelt sich um eine Ephraem dem Syrer zugeschriebene Predigt („Pseudo-Ephraem“) und den Baptisten Morgan Edwards (1788). Angeführt werden sie von Thomas Ice und Timothy Demy, *Bibliotheca Sacra* 152 (1995), S. 306–317.
 
 [^watt]: Rossing, *The Rapture Exposed*, Kap. 1. Ihr Beispiel ist James Watt, Reagans Innenminister, der 1981 vor dem Kongress sagte: „Ich weiß nicht, wie viele künftige Generationen wir erwarten können, bevor der Herr wiederkommt.“
+
+[^hour]: Jeffrey Townsend, „The Rapture in Revelation 3:10“, in: Thomas Ice und Timothy Demy (Hg.), *When the Trumpet Sounds* (Harvest House, 1995), und Andy Woods, „A Closer Look at Pretribulationism and Revelation 3:10“ (Pre-Trib Research Center, 2025), S. 9–13, die vom griechischen Artikel vor „Stunde“ und von *ek* in Joh 17,15 her argumentieren. Robert Gundrys Gegenüberstellung von „aus der Welt nehmen“ und „vor dem Bösen bewahren“ (*The Church and the Tribulation*, 1973, S. 59) ist die andere Seite desselben Arguments.

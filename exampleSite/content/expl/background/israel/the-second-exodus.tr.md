@@ -40,15 +40,15 @@ Bunlar bir araya geldiğinde, bu göndermeler Markos Müjdesi'nin yapısının Y
 | Markos | Yeşaya 40-66 | Açıklama |
 |------|----------------|----------|
 | İsa'nın Celile ve ötesindeki hizmeti (1/16–8/21 veya 8/26) </br> İnsanlar cinler tarafından serbest bırakılır. </br> {{% bible val="İsa'nın (Beelzebub) reddedilmesi" link="mrk:3,22-30" lang="tr" %}} {{% bible val="yüreklerin katılaşmasıyla" link="mrk:4,11-13" lang="tr" %}} sonuçlanır. | İsrail, Savaşçı ve Şifacı Tanrı tarafından kölelikten kurtarılır</br> İsrail Babil'den kurtarılır </br> {{% bible val="Tanrı'yı reddetmek: Tanrı onların düşmanı olur" link="isa:63,10" lang="tr" %}} | Cinlerden kurtuluş İsa'nın yetkisini gösterir, Tanrı'ya insanları hapisten kurtaran savaşçı olarak gönderme yapar.</br> İnsanlar cinler tarafından tutsak edilir. |
-| Mk.8/22,27-10/15,52: İsa "kör" öğrencilerine "yolda" rehberlik eder </br> Kör ve sağırları iyileştirir, öğrenciler de ilk başta kördür, ancak tekrar görürler. | {{% bible val="Tanrı \"körlere\" \"yolda\" rehberlik eder" link="isa:42,16" lang="tr" %}} | İsa'nın acı çekmesi, çıkışının gerçekleştiği yoldur (Yşa.53: hizmetkâr ölümüyle yol alır (Mk.10/45)) |
-| Mk.10/46;11/1-16/8: İsa'nın Kudüs'e nihai varışı | İsrail'in Kudüs'e nihai varışı | İsa incir ağacını lanetler: başlangıca gönderme: {{% bible val="yargı ya da vaat, yalnızca meyve verirse" link="mrk:11,12-21" lang="tr" %}} |
+| Mk.8/22,27-10/15,52: İsa "kör" öğrencilerine "yolda" rehberlik eder </br> Kör ve sağırları iyileştirir, öğrenciler de ilk başta kördür, ancak tekrar görürler. | {{% bible val="Tanrı \"körlere\" \"yolda\" rehberlik eder" link="isa:42,16" lang="tr" %}} | İsa'nın acı çekmesi, çıkışının gerçekleştiği yoldur ({{% bible val="Yeşaya 53" link="isa:53" lang="tr" %}}: hizmetkâr ölümüyle yol alır, {{% bible val="Mk 10:45" link="mrk:10,45" lang="tr" %}}) |
+| Mk.10/46;11/1-16/8: İsa'nın Kudüs'e nihai varışı | İsrail'in Kudüs'e nihai varışı | İsa incir ağacını lanetler ve tapınağı temizler: Markos 1:2'deki Malaki alıntısında yer alan tehdit gerçekleşir — {{% bible val="yaprağı olup meyvesi olmayan ağaç yargılanır" link="mrk:11,12-21" lang="tr" %}} |
 
 ## Luka'daki yeni Çıkış
 
 <a name="bfa6"></a>
 Luka İncili'nin anahtarı şudur: {{% bible val="“Peygamber Yeşaya’nın sözlerinin yazılı olduğu kitapta denildiği gibi: ‘Çölde bir ses şöyle sesleniyor: “Rab’bin yolunu hazırlayın, O’na düz yollar açın. Her vadi doldurulacak, her dağ ve tepe alçaltılacak. Eğri büğrü yollar düzleşecek, engebeli yollar pürüzsüzleşecek. Ve bütün insanlar Tanrı’nın kurtuluşunu görecek.” ‘“" link="luk:3,4-6" lang="tr" %}} — {{% bible val="Markos'un başlangıcında kullanılanla aynı referans" link="isa:40,2-3" lang="tr" %}}.
 
-Her iki müjdede de "yol", Mısır'dan Çıkış'ın kendisidir: Tanrı'nın İsrail'i yeniden kurma yoludur ve bu yol kiliseden geçer.
+Her iki müjdede de "yol", Mısır'dan Çıkış'ın kendisidir: Tanrı'nın İsrail'i yeniden kurma yoludur; Elçilerin İşleri'nde kilisenin kendisi "Yol" diye anılacaktır.
 
 {{% bible val="İsa Yeşaya'dan okuduğunda, onun gerçekleştiğini bildirdi" link="luk:4,16-30" lang="tr" %}}; {{% bible val="bu, ikinci Çıkış'ın işaretiydi" link="isa:61,1-2" lang="tr" %}}. Buna uygun olarak, {{% bible val="Luka Müjdesi, Kutsal Yazı'nın yerine gelmesiyle sona erer" link="luk:24,44-49" lang="tr" %}} — {{% bible val="Yeşaya'da İsrail'in restorasyonuna ve Yahudi olmayanların dahil edilmesine atıfta bulunan" link="isa:49,6" lang="tr" %}} bir yerine gelmedir.
 
@@ -96,9 +96,9 @@ Böylece peygamberlerin vaat ettiği ve Müjdeler'in İsa'yla başladığını g
 ## Özet
 
 <a name="3d5f"></a>
-İsrail'in uzun süredir beklediği yeni Çıkış nihayet gerçekleşir — ve bu, ayrılmaz biçimde İsa'ya bağlıdır. Açık kalan soru, İsrail'in ve Yahudi olmayanların Tanrı'yı mı seçeceği, yoksa bunun yerine putlarına tutunmaya mı devam edeceğidir; Elçilerin İşleri kitabı bunu hafife alınacak bir soru olarak görmez.
+İsrail'in uzun süredir beklediği yeni Çıkış nihayet gerçekleşir — ve bu, ayrılmaz biçimde İsa'ya bağlıdır. Açık kalan soru, İsrail'in ve ulusların Hizmetkâr'ın ışığını kabul edip etmeyeceğidir. Elçilerin İşleri bu sorunun hâlâ açık olduğu bir noktada biter: kimileri ikna olur, kimileri olmaz ve haber Yahudi olmayanlara doğru ilerler ({{% bible val="Elç. 28:24–28" link="act:28,24-28" lang="tr" %}}).
 
-Bu şekilde okunduğunda, Müjde ve Elçilerin İşleri tek, sürekli bir gerilimi izler: Mesih'e iman eden İsrail'in restorasyonu, onlarla birlikte içeri çekilen Yahudi olmayanların kurtuluşuyla el ele yürür.
+Bu şekilde okunduğunda, Luka Müjdesi ve Elçilerin İşleri tek, sürekli bir gerilimi izler: Mesih'e iman eden İsrail'in restorasyonu, onlarla birlikte içeri çekilen Yahudi olmayanların kurtuluşuyla el ele yürür.
 
 [^exile]: Beale, s. 19; N. T. Wright, *The New Testament and the People of God*, s. 268–272. Bu tez tartışmalıdır: bkz. J. M. Scott (ed.), *Exile: A Conversation with N. T. Wright* (2017).
 

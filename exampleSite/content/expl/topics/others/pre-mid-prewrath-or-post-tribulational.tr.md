@@ -31,7 +31,7 @@ Kilise, gelecekteki yedi yıllık sıkıntının herhangi bir kısmı başlamada
 
 **Lehinde olan:**
 
-- {{% bible val="'bütün dünyanın üzerine gelecek olan deneme saatinden korunacaksın'" link="rev:3,10" lang="tr" %}} ifadesini, deneme başlamadan önce ortadan kaldırılma vaadi olarak okur, ona dayanma vaadi olarak değil.
+- {{% bible val="'bütün dünyanın üzerine gelecek olan deneme saatinden korunacaksın'" link="rev:3,10" lang="tr" %}} ifadesini, deneme başlamadan önce ortadan kaldırılma vaadi olarak okur, ona dayanma vaadi olarak değil. En güçlü noktası sözcük seçimindedir: vaat, yalnızca içindeki denemeden değil, *saatin kendisinden* korunmaktır.[^hour]
 - {{% bible val="'Tanrı bizi gazaba uğramamıza değil'" link="1th:5,9" lang="tr" %}} ifadesini, yalnızca sıkıntının son yargı dökümünden değil, tüm sıkıntı döneminden korunma güvencesi olarak alır.
 - Kilise, {{% bible val="Vahiy'in 4. bölümünden son ayetlerine kadar" link="rev:4,1" lang="tr" %}} bir daha hiç adıyla anılmaz; bu da bazılarına göre kilisenin sahneyi çoktan terk ettiğinin kanıtıdır.
 - Netlik dolu bir yakınlık duygusunu korur — Mesih önce gerçekleşmesi gereken hiçbir şey olmadan her an geri dönebilir.
@@ -43,7 +43,7 @@ Kilise, gelecekteki yedi yıllık sıkıntının herhangi bir kısmı başlamada
 - Pavlus, 2. Selanikliler 2'de engelleyeni hiçbir zaman adıyla anmaz. Ciddi yorumcular bunu farklı biçimlerde tanımlar: Kutsal Ruh'un dünyadaki engelleyici varlığı, müjdenin sürmekte olan vaazı, insan hükümeti, ya da hatta başmelek Mikail ({{% bible val="Mikail'in kendi engelleyici rolüyle karşılaştırın" link="dan:12,1" lang="tr" %}}) — bunların hiçbiri kilisenin kendisinin yeryüzünden bedenen kaldırılmasını gerektirmez, yalnızca belirli bir engelleyici etkinin geri çekilmesini ya da bir kenara konmasını gerektirir.
 - Kilisenin 4-19. bölümlerde "kilise" adıyla anılmaması bir sessizlik argümanıdır; aynı bölümler inananlara sürekli başka isimlerle doğrudan seslenir — {{% bible val="kutsallar" link="rev:13,7" lang="tr" %}}, {{% bible val="Tanrı'nın buyruklarını tutan ve İsa'ya tanıklığa sarılanlar" link="rev:12,17" lang="tr" %}}, {{% bible val="Tanrı'nın sözü uğruna öldürülenler" link="rev:6,9" lang="tr" %}}.
 - 1830'lardan önce pretribülasyonist bir göğe alınmaya dair açık bir öğreti yoktur. Savunucularının andığı birkaç erken metin tartışmalıdır.[^before] Bu, Yeni Antlaşma'nın kendi açık öğretisi olduğu iddia edilen bir şey için çarpıcı bir boşluktur.
-- "Deneme saatinden korunmak" ifadesi, başka yerlerde aynı yapıyı, {{% bible val="tehlikenin olduğu yerden alınmak değil, tehlike ortasında güvende tutulmak" link="jhn:17,15" lang="tr" %}} için kullanır; orada İsa, Baba'nın inananları *kötü olandan* korumasını diler, ama açıkça onları dünyadan almamasını *istemez*.
+- "Deneme saatinden korunmak" ifadesi, başka yerlerde aynı yapıyı, {{% bible val="tehlikenin olduğu yerden alınmak değil, tehlike ortasında güvende tutulmak" link="jhn:17,15" lang="tr" %}} için kullanır; orada İsa, Baba'nın inananları *kötü olandan* korumasını diler, ama açıkça onları dünyadan almamasını *istemez*. Pretribülasyonist yazarlar bu ayeti tersine, kötü olanın egemenlik alanının dışında tutulmak olarak okurlar; dolayısıyla bu bir argümandır, kesinleşmiş bir nokta değil.[^hour]
 
 ## Midtribülasyonist
 
@@ -122,3 +122,5 @@ Bu, {{% int_link val="milenyum tartışmasından" link="/expl/content/1000y/pre-
 [^before]: Bu metinler, Süryani Efrem'e atfedilen bir vaaz ("Sözde Efrem") ile Baptist Morgan Edwards'ın (1788) yazısıdır. Bunları Thomas Ice ve Timothy Demy öne sürer: *Bibliotheca Sacra* 152 (1995), s. 306–317.
 
 [^watt]: Rossing, *The Rapture Exposed*, 1. bölüm. Örneği, Reagan'ın İçişleri Bakanı James Watt'tır; 1981'de Kongre'ye şöyle demiştir: "Rab dönmeden önce kaç gelecek nesle güvenebileceğimizi bilmiyorum."
+
+[^hour]: Jeffrey Townsend, "The Rapture in Revelation 3:10", Thomas Ice ve Timothy Demy (ed.), *When the Trumpet Sounds* (Harvest House, 1995) içinde, ve Andy Woods, "A Closer Look at Pretribulationism and Revelation 3:10" (Pre-Trib Research Center, 2025), s. 9–13; bunlar "saat" öncesindeki Yunanca tanımlıktan ve Yuh. 17:15'teki *ek*'ten hareketle savunur. Robert Gundry'nin "onları dünyadan almak" ile "onları kötü olandan korumak" arasındaki karşıtlığı (*The Church and the Tribulation*, 1973, s. 59) aynı argümanın öbür yüzüdür.

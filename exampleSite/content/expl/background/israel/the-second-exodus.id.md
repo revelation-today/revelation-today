@@ -40,15 +40,15 @@ Jika digabungkan, kiasan-kiasan ini menunjukkan bahwa struktur Injil Markus menc
 | Markus | Yesaya 40-66 | Penjelasan |
 |--------|--------------|-------------|
 | Pelayanan Yesus di Galilea dan sekitarnya (1/16–8/21 atau 8/26) </br> Orang-orang dibebaskan dari setan. </br> {{% bible val="Penolakan terhadap Yesus (Beelzebul)" link="mrk:3,22-30" lang="ind" %}} membawa {{% bible val="pengerasan hati" link="mrk:4,11-13" lang="ind" %}}. | Israel dibebaskan dari perbudakan oleh Allah, sang pahlawan dan penyembuh </br> Israel dibebaskan dari Babel </br> {{% bible val="Penolakan terhadap Allah: Allah menjadi musuh mereka" link="isa:63,10" lang="ind" %}} | Pengusiran setan menunjukkan otoritas Yesus, menghadirkan Allah sebagai sang pahlawan yang membebaskan orang dari penawanan.</br> Orang-orang ditawan oleh setan-setan. |
-| Mrk.8/22,27-10/15,52: Yesus menuntun murid-murid yang "buta" di "jalan" </br> Penyembuhan orang buta dan tuli, murid-murid pada awalnya juga buta, tetapi kembali dapat melihat. | {{% bible val="Allah menuntun orang 'buta' di 'jalan'" link="isa:42,16" lang="ind" %}} | Penderitaan Yesus adalah jalan tempat eksodus itu terjadi (Yes.53: Sang Hamba menempuh jalan itu melalui kematian-Nya (Mrk.10/45)) |
-| Mrk.10/46;11/1-16/8: Kedatangan akhir Yesus ke Yerusalem | Kedatangan akhir Israel ke Yerusalem | Yesus mengutuk pohon ara: sebuah rujukan kembali ke permulaan: {{% bible val="penghakiman atau janji, hanya jika ia berbuah" link="mrk:11,12-21" lang="ind" %}} |
+| Mrk.8/22,27-10/15,52: Yesus menuntun murid-murid yang "buta" di "jalan" </br> Penyembuhan orang buta dan tuli, murid-murid pada awalnya juga buta, tetapi kembali dapat melihat. | {{% bible val="Allah menuntun orang 'buta' di 'jalan'" link="isa:42,16" lang="ind" %}} | Penderitaan Yesus adalah jalan tempat eksodus itu terjadi ({{% bible val="Yes 53" link="isa:53" lang="ind" %}}: Sang Hamba menempuh jalan itu melalui kematian-Nya, {{% bible val="Mrk 10:45" link="mrk:10,45" lang="ind" %}}) |
+| Mrk.10/46;11/1-16/8: Kedatangan akhir Yesus ke Yerusalem | Kedatangan akhir Israel ke Yerusalem | Yesus mengutuk pohon ara dan menyucikan Bait Allah: ancaman dalam kutipan Maleakhi di Markus 1:2 menjadi kenyataan — {{% bible val="pohon yang berdaun tetapi tidak berbuah dihakimi" link="mrk:11,12-21" lang="ind" %}} |
 
 ## Eksodus Baru dalam Injil Lukas
 
 <a name="f2e1"></a>
 Kunci untuk memahami Injil Lukas adalah "{{% bible val="Seperti ada tertulis dalam kitab nubuat-nubuat nabi Yesaya: Ada suara orang yang berseru-seru di padang gurun: Persiapkanlah jalan untuk Tuhan, luruskanlah jalan bagi-Nya. Setiap lembah harus ditimbun dan setiap gunung dan bukit harus diratakan, yang berkelok-kelok harus diluruskan dan yang berlekuk-lekuk harus diratakan, dan semua orang akan melihat keselamatan yang dari Allah." link="luk:3,4-6" lang="ind" %}}" — {{% bible val="rujukan yang sama yang dipakai pada awal Injil Markus" link="isa:40,2-3" lang="ind" %}}.
 
-"Jalan," dalam kedua Injil ini, adalah eksodus itu sendiri: itulah jalan Allah untuk memulihkan Israel, dan jalan itu berjalan melalui gereja.
+"Jalan," dalam kedua Injil ini, adalah eksodus itu sendiri: itulah jalan Allah untuk memulihkan Israel; dalam Kisah Para Rasul gereja sendiri akan disebut "Jalan".
 
 Ketika {{% bible val="Yesus membaca dari Kitab Yesaya, Ia menyatakan penggenapannya" link="luk:4,16-30" lang="ind" %}}, {{% bible val="itulah tanda eksodus kedua" link="isa:61,1-2" lang="ind" %}}. Sangat tepat, kalau begitu, bahwa Injil {{% bible val="Lukas berakhir dengan penggenapan Kitab Suci" link="luk:24,44-49" lang="ind" %}} yang {{% bible val="merujuk kepada pemulihan Israel dan dimasukkannya bangsa-bangsa lain dalam Kitab Yesaya" link="isa:49,6" lang="ind" %}}.
 
@@ -96,9 +96,9 @@ Jadi eksodus kedua yang dijanjikan para nabi, dan yang menurut Injil mulai denga
 ## Ringkasan
 
 <a name="135c"></a>
-Eksodus baru yang telah lama dinantikan Israel akhirnya terjadi — dan itu terikat tidak terpisahkan dengan Yesus. Yang masih terbuka adalah apakah Israel dan bangsa-bangsa lain akan memilih Allah, atau tetap berpegang pada berhala-berhala mereka; kitab Kisah Para Rasul memperlakukan hal itu sebagai pertanyaan yang sama sekali tidak kecil.
+Eksodus baru yang telah lama dinantikan Israel akhirnya terjadi — dan itu terikat tidak terpisahkan dengan Yesus. Yang masih terbuka adalah apakah Israel dan bangsa-bangsa akan menerima terang Sang Hamba. Kisah Para Rasul berakhir dengan pertanyaan itu yang masih terbuka: sebagian diyakinkan dan sebagian tidak, dan berita itu terus berjalan kepada bangsa-bangsa lain ({{% bible val="Kis 28:24–28" link="act:28,24-28" lang="ind" %}}).
 
-Jika dibaca dengan cara ini, Injil dan Kisah Para Rasul menelusuri satu ketegangan tunggal yang berkelanjutan: pemulihan Israel yang percaya kepada Kristus, berjalan berdampingan dengan keselamatan bangsa-bangsa lain yang sedang ditarik masuk bersama-sama dengan mereka.
+Jika dibaca dengan cara ini, Injil Lukas dan Kisah Para Rasul menelusuri satu ketegangan tunggal yang berkelanjutan: pemulihan Israel yang percaya kepada Kristus, berjalan berdampingan dengan keselamatan bangsa-bangsa lain yang sedang ditarik masuk bersama-sama dengan mereka.
 
 [^exile]: Beale, hlm. 19; N. T. Wright, *The New Testament and the People of God*, hlm. 268–272. Tesis ini diperdebatkan: lihat J. M. Scott (ed.), *Exile: A Conversation with N. T. Wright* (2017).
 
