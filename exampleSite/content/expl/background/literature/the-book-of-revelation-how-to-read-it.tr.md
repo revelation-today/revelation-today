@@ -75,7 +75,7 @@ Bu düşünce tam olarak yanlış değil, ama Kutsal Kitap'ın peygamberlik kita
 
 Eski Antlaşma peygamberlik edebiyatı, Sina Dağı'nda yapılan antlaşmaya dayanıyordu. Orada Tanrı insanlara sadece bir kurallar listesi vermedi — onlara bütün bir düşünme biçimi kazandırdı. Şunu belirledi:
 
-- yasa önünde hepimiz eşitiz,
+- yasa önünde hepimiz eşitiz ({{% bible val="Lev 19:15" link="lev:19,15" lang="tr" %}}; {{% bible val="24:22" link="lev:24,22" lang="tr" %}}),
 - {{% bible val="İsrail'in kendisi bir zamanlar köle olduğu gibi" link="exo:20,2" lang="tr" %}} çaresizlere merhamet göstermeliyiz ve {{% bible val="Tanrı çaresizleri korur" link="deu:10,18" lang="tr" %}}, {{% bible val="Lev 23:22'de" link="lev:23,22" lang="tr" %}} olduğu gibi,
 - ve en önemli yasa {{% bible val="Tanrı'yı sevmek" link="deu:6,5" lang="tr" %}} ve {{% bible val="komşunu sevmektir" link="lev:19,18" lang="tr" %}} — {{% bible val="Yeni Antlaşma'da doğrulanan ve herkesin bizim komşumuz olduğunu öğrendiğimiz" link="luk:10,25-37" lang="tr" %}} bir buyruk.
 
@@ -99,7 +99,7 @@ Vahiy bu peygamberlik unsurlarının çoğundan yararlanır. Kitap:
 - Eski Antlaşma'nın birçok peygamberlik kitabının açılışını yansıtan {{% bible val="bir bölümle başlar" link="rev:1,1-3" lang="tr" %}}.
 - {{% bible val="Yeşaya 6'da" link="isa:6" lang="tr" %}} bulunanla aynı örüntüyü izleyen, {{% bible val="bir görümle eşleşen bir çağrıyı" link="rev:1,9-20" lang="tr" %}} içerir.
 - Yeşaya, Yeremya, Daniel, Zekeriya ve Hezekiel de dahil olmak üzere sayısız Eski Antlaşma peygamberlik kitabına gönderme yapar.
-- okuyucularını Babil'den çıkmaya çağırır — {{% bible val="sevginiz soğumasın" link="rev:2,4" lang="tr" %}}, {{% bible val="sahte öğretiye hoşgörü göstermeyin" link="rev:2,14-15" lang="tr" %}} ve benzeri.
+- okuyucularını uyarır — {{% bible val="sevginiz soğumasın" link="rev:2,4" lang="tr" %}}, {{% bible val="sahte öğretiye hoşgörü göstermeyin" link="rev:2,14-15" lang="tr" %}} ve benzeri — ve onları {{% bible val="Babil'den çıkmaya" link="rev:18,4" lang="tr" %}} çağırır.
 - teselli sunar: {{% bible val="Tanrı'nın halkı korunur" link="rev:7,1-4" lang="tr" %}}, {{% bible val="hiç kimse kaybolmayacak" link="rev:7,5-8" lang="tr" %}}, {{% bible val="Tanrı'nın krallığı mutlaka gelecek" link="rev:21" lang="tr" %}}.
 
 Peygamberliğin amacı davranışı değiştirmektir ve genellikle okuyucularından ya da dinleyicilerinden bir tepki uyandırmak için canlı imgelere dayanır.
@@ -111,7 +111,7 @@ Vahiy'in peygamberliği de biçim olarak standart Eski Antlaşma örüntüsünü
 ## Bir kıyamet {#apocalypse}
 
 <a name="apocalypse"></a>
-Kitabın açılış sözleri "_Apokalypsis Iesou Christou_"dur, "İsa Mesih'in vahyi" olarak çevrilir. "_Apokalypsis_" kelimesi kelimenin tam anlamıyla "vahiy" demektir, ama doğrudan bir çeviri burada yanıltıcıdır, çünkü yakın ya da uzak gelecekteki bir olayın gizli bir şekilde önceden bildirilmesine işaret etmez. Dünyanın sonuyla da gerçekte ilgili değildir — kötü yöneticilerin ve onların etrafında kurulmuş toplumların sonuyla ilgilidir. Kutsal Kitap'taki başka kıyamet metinleri yalnızca {{% bible val="Daniel 7-12" link="dan:7" lang="tr" %}}, {{% bible val="Markos 13" link="mrk:13" lang="tr" %}}, {{% bible val="Matta 24" link="mat:24" lang="tr" %}} ve {{% bible val="Luka 21'de" link="luk:21" lang="tr" %}} yer alır — ve bunları anlamak da ünlü bir şekilde zordur.
+Kitabın açılış sözleri "_Apokalypsis Iesou Christou_"dur, "İsa Mesih'in vahyi" olarak çevrilir. "_Apokalypsis_" kelimesi kelimenin tam anlamıyla "vahiy" demektir, ama doğrudan bir çeviri burada yanıltıcıdır, çünkü yakın ya da uzak gelecekteki bir olayın gizli bir şekilde önceden bildirilmesine işaret etmez. Salt dünyanın sonuyla ilgili de değildir — kötü yöneticilerin ve onların etrafında kurulmuş toplumların sonuyla da aynı ölçüde ilgilidir. Kutsal Kitap'taki başka kıyamet metinleri yalnızca {{% bible val="Daniel 7-12" link="dan:7" lang="tr" %}}, {{% bible val="Markos 13" link="mrk:13" lang="tr" %}}, {{% bible val="Matta 24" link="mat:24" lang="tr" %}} ve {{% bible val="Luka 21'de" link="luk:21" lang="tr" %}} yer alır — ve bunları anlamak da ünlü bir şekilde zordur.
 
 Baştan başlayalım: kıyamet, diğerleri gibi bir türdür. Bir kitabı kıyamet yapan şeyin tek, eksiksiz bir tanımına sahip değiliz, ama bir tanesini iyi okumamıza yardımcı olacak yeterince bilgi var.
 

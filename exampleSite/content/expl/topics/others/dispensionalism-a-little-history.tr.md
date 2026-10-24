@@ -20,7 +20,7 @@ Bu tuhaf kelimeyi daha önce hiç duydunuz mu? Muhtemelen hayır — ama üçün
 ## Tarih boyunca birkaç adım
 
 <a name="abac"></a>
-Dispansiyonalizmi daha iyi anlamak için, hareketin kendisi henüz bir isme sahip olmadan çok önce, Vahiy Kitabı'nın yüzyıllar boyunca nasıl okunduğuna dair bazı kilometre taşlarına bakmakta fayda var.
+Dispansiyonalizmi daha iyi anlamak için, hareketin kendisi henüz bir isme sahip olmadan çok önce, Vahiy Kitabı'nın yüzyıllar boyunca nasıl okunduğuna dair bazı kilometre taşlarına bakmakta fayda var. Bu kilometre taşlarının çoğu, Darby'nin sisteminin değil, tarih belirlemenin, yani Vahiy Kitabı'nı bir zaman çizelgesi olarak okumanın öncülleridir; sistemin kendisi sonda gelir.
 
 Justin Martyr (yaklaşık 100–165) ile başlıyoruz. O, {{% bible val="1000 yıllık krallığı" link="rev:20,4" lang="tr" %}}, Yeşaya'nın {{% bible val="yeryüzünde daha iyi bir yaşamdan ve doğada uyumdan söz eden kehanetinin" link="isa:65,17-25" lang="tr" %}} gerçekleşmesi olarak okudu; nihai yargının ise ancak bundan sonra geleceğini düşündü. Sorun şu ki {{% bible val="bu pasaj açıkça Yeni Gökler ve Yeni Yeryüzü'ndeki gerçekleşmeden söz etmektedir" link="isa:65,17" lang="tr" %}} — {{% bible val="Vahiy'de bir bölüm sonra" link="rev:21" lang="tr" %}} anlatılan gerçekleşmeden — yani bin yıllık krallıktan önce değil, sonra. Yine de Justin'in bu okuması, kendisinden sonra gelen pek çok Kutsal Kitap okuyucusu tarafından onayla aktarılmıştır.
 

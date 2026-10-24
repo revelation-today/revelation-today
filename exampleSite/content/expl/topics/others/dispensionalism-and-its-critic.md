@@ -117,5 +117,5 @@ Faith, in this framework, gets cast in heavily militaristic terms, complete with
 The theory also makes political claims that the Bible does not support, and that are sometimes self-contradictory:
 
 - It tends toward anti-Catholicism.
-- It is uncritically pro-American and pro-Israel, even though the Old Testament itself is frequently critical of Israel.
-- It treats the current wars in the Middle East as part of God's plan, and therefore as something to welcome rather than mourn.
+- In its popular forms it can be uncritically pro-American and pro-Israel, even though the Old Testament itself is frequently critical of Israel.
+- In its popular forms it can treat the current wars in the Middle East as part of God's plan, and therefore as something to welcome rather than mourn.

@@ -10,5 +10,5 @@ Berikut contoh sederhananya: ketika Paulus mengatakan bahwa Yesus bangkit dari k
 
 Kitab Wahyu juga tidak memberi kita jawaban yang sederhana, sebab kitab ini sesungguhnya terdiri dari tiga genre sekaligus:
 - sebuah surat — apa pun yang tertulis di dalamnya pasti berlaku bagi para pembaca pertama, termasuk materi dalam pasal 4–20, bukan hanya pasal 1–3
-- sebuah nubuat — yang tujuannya bukan untuk meramalkan masa depan, melainkan untuk memicu perubahan yang mencegah masa depan yang diberitakan itu, seperti dalam kisah Yunus
+- sebuah nubuat — yang tujuannya bukan terutama untuk meramalkan masa depan, melainkan untuk memicu perubahan yang mencegah masa depan yang diberitakan itu, seperti dalam kisah Yunus
 - sebuah apokalips — bukan seperti yang biasanya dipahami orang, melainkan sebuah genre sastra perlawanan yang provokatif

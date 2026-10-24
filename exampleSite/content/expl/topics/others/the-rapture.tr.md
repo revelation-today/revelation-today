@@ -87,7 +87,7 @@ Bu pasaj da yine göğe alınma lehine bir argüman olarak okunur: biri göğe a
 ### Varsayımlar
 
 <a name="b358"></a>
-Göğe alınma gözlüğüyle bakıldığında, alınmak iyi bir sonuç, geride bırakılmak ise kötü bir sonuç gibi görünür. Ama çevredeki ifadeler bu okumayı gerçekte desteklemez — {{% bible val="örneğin, İsa'yı ayartıldıktan sonra terk eden şeytandır" link="mat:4,11" lang="tr" %}}, ki bu hiç de bir lütuf işareti değildir. Burada İsa, kendi gelişini Nuh'un günlerindeki tufanla karşılaştırır; o tufan öyküsünde "alınıp götürülmek", yargı tarafından alınmak, sulara kapılıp götürülmek anlamına gelir. Aynı anlam İnsanoğlu'nun gelişine de taşınıyorsa, bu bağlamda "alınıp götürülenler" büyük olasılıkla kötüleri işaret ederken, geride bırakılanlar güvende olanlardır.
+Göğe alınma gözlüğüyle bakıldığında, alınmak iyi bir sonuç, geride bırakılmak ise kötü bir sonuç gibi görünür. Ama çevredeki ifadeler bu okumayı gerçekte desteklemez. Burada İsa, kendi gelişini Nuh'un günlerindeki tufanla karşılaştırır; o tufan öyküsünde "alınıp götürülmek", yargı tarafından alınmak, sulara kapılıp götürülmek anlamına gelir. Aynı anlam İnsanoğlu'nun gelişine de taşınıyorsa, bu bağlamda "alınıp götürülenler" büyük olasılıkla kötüleri işaret ederken, geride bırakılanlar güvende olanlardır.
 
 Ayrıca metnin, "alınanların" nereye götürüldüğünü hiçbir yerde söylemediğine dikkat edin. Bu imge, gökle ilgili herhangi bir şey kadar rahatlıkla, Roma İmparatorluğu'nun gizli polisinin imanlıları imanlarından ötürü tutuklamasını da betimliyor olabilir.
 
@@ -103,7 +103,7 @@ Matta {{% bible val="24" link="mat:24" lang="tr" %}} ve {{% bible val="25" link=
 
 Ama İsa'nın burada gerçekte ele aldığı temalar, 66–73 Yahudi savaşının tüm travmasıyla birlikte tapınağın yıkılışı ve önümüzdeki zulüm ve sıkıntılar boyunca sadık kalma çağrısıdır. Bu benzetmelerin hiçbiri kendini belirli bir gelecek tarihe bağlamaz; bunun yerine İsa'ya sürekli bir bağlılık çağrısı yaparlar. Aynı şekilde, koyunlarla keçilerin ahlaki ölçütü de özel bir son-zaman gerekliliği değildir — bu, imanlıların Tanrı'nın buyruklarını nasıl yerine getireceğine dair Eski Ahit boyunca işleyen standart bir ölçütün yankısıdır.
 
-{{% bible val="İncir ağacı benzetmesini" link="mat:24,32" lang="tr" %}} 1948'e ve İsrail'in kuruluşuna şifreli bir gönderme olarak okumak hayli zorlama bir yorumdur ve Kutsal Kitap'ta başka hiçbir şey bunu desteklemez. İmge, modern İsrail devletine değil kiliseye işaret eder, çünkü Yeni Ahit'te kilise, {{% int_link val="bir zamanlar İsrail'e uygulanan pek çok Eski Ahit imgesinin mirasçısıdır" link="/expl/background/israel/the-church-is-part-of-israel" %}}.
+{{% bible val="İncir ağacı benzetmesini" link="mat:24,32" lang="tr" %}} 1948'e ve İsrail'in kuruluşuna şifreli bir gönderme olarak okumak hayli zorlama bir yorumdur ve Kutsal Kitap'ta başka hiçbir şey bunu desteklemez. İmge, modern İsrail devletine işaret etmez. İsa'nın benzetmesi sadedir: incir ağacının yaprakları çıkınca yazın yakın olduğunu bilirsiniz; aynı şekilde bütün bunları gördüğünüzde de {{% bible val="onun yakın olduğunu bilin" link="mat:24,32-33" lang="tr" %}}. Pasajda hiçbir şey bunu bir takvime dönüştürmez.
 
 ## Bizim için bir yer
 

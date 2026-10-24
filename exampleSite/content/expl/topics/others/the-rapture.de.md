@@ -87,7 +87,7 @@ Auch diese Stelle wird wieder als Argument für die Entrückung gelesen: der ein
 ### Annahmen
 
 <a name="7b1d"></a>
-Durch die Brille der Entrückung betrachtet, erscheint das Mitgenommenwerden als das gute Ergebnis und das Zurückbleiben als schlecht. Aber die umgebende Sprache stützt diese Lesart eigentlich nicht — {{% bible val="der Teufel etwa ist derjenige, der Jesus nach der Versuchung verlässt" link="mat:4,11" lang="de" %}}, kaum ein Zeichen der Gunst. Hier vergleicht Jesus sein Kommen mit der Flut zur Zeit Noahs, und in dieser Fluterzählung bedeutet „hinweggenommen werden”, vom Gericht erfasst und von den Wassern fortgespült zu werden. Überträgt sich dieser Sinn auf das Kommen des Menschensohnes, dann kennzeichnet „hinweggenommen” in diesem Zusammenhang höchstwahrscheinlich die Gottlosen, während die Zurückgelassenen die sind, die in Sicherheit sind.
+Durch die Brille der Entrückung betrachtet, erscheint das Mitgenommenwerden als das gute Ergebnis und das Zurückbleiben als schlecht. Aber die umgebende Sprache stützt diese Lesart eigentlich nicht. Hier vergleicht Jesus sein Kommen mit der Flut zur Zeit Noahs, und in dieser Fluterzählung bedeutet „hinweggenommen werden”, vom Gericht erfasst und von den Wassern fortgespült zu werden. Überträgt sich dieser Sinn auf das Kommen des Menschensohnes, dann kennzeichnet „hinweggenommen” in diesem Zusammenhang höchstwahrscheinlich die Gottlosen, während die Zurückgelassenen die sind, die in Sicherheit sind.
 
 Zu beachten ist auch, dass der Text nirgends sagt, wohin die „Genommenen” gebracht werden. Das Bild könnte ebenso gut die Geheimpolizei des Römischen Reiches meinen, die Gläubige wegen ihres Glaubens verhaftet, wie irgendetwas mit dem Himmel.
 
@@ -103,7 +103,7 @@ Auch Matthäus {{% bible val="24" link="mat:24" lang="de" %}} und {{% bible val=
 
 Die Themen aber, die Jesus hier tatsächlich anspricht, sind die Zerstörung des Tempels mit dem ganzen Trauma des jüdischen Krieges von 66–73 sowie der Aufruf, in den noch bevorstehenden Verfolgungen und Bedrängnissen treu zu bleiben. Keines dieser Gleichnisse macht sich an einem bestimmten künftigen Datum fest; sie rufen stattdessen zu einer fortdauernden Bindung an Jesus auf. Ebenso ist die Ethik von den Schafen und den Böcken keine besondere Forderung der Endzeit — sie greift einen Maßstab auf, der sich durch das ganze Alte Testament zieht, wie Gläubige Gottes Geboten gerecht werden sollen.
 
-{{% bible val="Das Gleichnis vom Feigenbaum" link="mat:24,32" lang="de" %}} als verschlüsselten Hinweis auf 1948 und die Gründung Israels zu lesen, ist eine erhebliche Überinterpretation, für die sich sonst nirgends in der Bibel eine Stütze findet. Das Bild verweist nicht auf den modernen Staat Israel; es verweist auf die Gemeinde, denn im Neuen Testament ist die Gemeinde {{% int_link val="Empfängerin vieler alttestamentlicher Bilder, die einst auf Israel bezogen waren" link="/expl/background/israel/the-church-is-part-of-israel" %}}.
+{{% bible val="Das Gleichnis vom Feigenbaum" link="mat:24,32" lang="de" %}} als verschlüsselten Hinweis auf 1948 und die Gründung Israels zu lesen, ist eine erhebliche Überinterpretation, für die sich sonst nirgends in der Bibel eine Stütze findet. Das Bild verweist nicht auf den modernen Staat Israel. Jesu Vergleich ist schlicht: Wenn die Blätter des Feigenbaums herauskommen, weiß man, dass der Sommer nah ist; ebenso wisst ihr, wenn ihr dies alles seht, {{% bible val="dass er nahe ist" link="mat:24,32-33" lang="de" %}}. Nichts in dem Abschnitt macht daraus einen Kalender.
 
 ## Ein Platz für uns
 

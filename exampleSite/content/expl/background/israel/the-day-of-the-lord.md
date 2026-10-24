@@ -35,7 +35,7 @@ So by every measure that mattered, Israel was still in exile[^exile] — and the
 <a name="1d83"></a>
 The Day of the Lord, then, is not simply "the end of the world" — it's the day that finally delivers what the covenant always promised. It brings {{% bible val="judgment on the enemies of Israel" link="jol:3,1-16" lang="en" %}}, the {{% bible val="restoration of Israel" link="jol:2,12-27" lang="en" %}}, {{% bible val="judgment on the wicked in Israel" link="zep:1,4-9" lang="en" %}}, and the fulfillment of God's remaining promises, such as the outpouring of the Holy Spirit.
 
-But this will happen only to the {{% int_link val="remnant of Israel" link="/expl/background/israel/the-remnant-of-israel" %}} — not to the nation as a whole.
+But this restoration will come only to the {{% int_link val="remnant of Israel" link="/expl/background/israel/the-remnant-of-israel" %}} — not to the nation as a whole.
 
 ## The Day of the Lord in Revelation
 

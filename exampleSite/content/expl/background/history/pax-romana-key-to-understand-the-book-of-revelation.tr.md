@@ -70,7 +70,7 @@ Birçok şehir — özellikle Vahiy'deki mektupların gönderildiği Küçük As
 
 Bu sistem altında yaşayan Hıristiyanlar için birkaç ciddi sorun ortaya çıkıyordu:
 
-- İsa onların imparatoruydu — kralların kralı — özellikle de İncillerin kendisi *euangelion*, yani yeni bir imparatorun hükümdarlığının ilanı olarak yazıldığı için.
+- İsa onların imparatoruydu — kralların kralı — özellikle de İncillerin müjdeleri için kullandığı sözcük, *euangelion* ("müjde"), yeni bir imparatorun doğumu ya da tahta çıkışı gibi imparatorluk duyuruları için de kullanılan sözcüktü.[^euangelion]
 - Onlar {{% bible val="ihtiyaçlarını İsa'dan sağlıyorlardı" link="mat:6,25-34" lang="tr" %}}, imparatordan değil.
 - Pax Romana'nın kentsel yaşamına örülmüş bazı etkinlikler doğrudan inançlarına aykırıydı — özellikle de loncaların koruyucu tanrıları onuruna verilen, putlara sunulmuş etlerin yendiği ve çoğu kez cinsel ahlaksızlığın yaşandığı, her esnaf ve zanaatkârın katılması beklenen ziyafetler ({{% bible val="Vahiy 2:14" link="rev:2,14" lang="tr" %}}, {{% bible val="20" link="rev:2,20" lang="tr" %}}).
 - Roma'nın imparatorluğu "sindirmek" için kullandığı araçların kendisi Hıristiyan inancıyla bağdaştırılamazdı.
@@ -80,9 +80,9 @@ Dıştan uyum sağlamak kolay yoldu.
 
 Bu da Hıristiyanlara temelde üç seçenek bırakıyordu:
 
-- İmanı tamamen inkâr etmek, çünkü {{% bible val="yalnızca tek bir efendiye hizmet edebilirsiniz" link="mat:6,24" lang="tr" %}} — İsa ya da imparator, ikisi birden değil.
+- İmanı tamamen inkâr etmek ve imparatorun istediğini ona vermek.
 - İmanı tam olarak yaşamak, sosyal ve ekonomik dışlanma, yıkım, hapis ve hatta ölüm riskini göze almak.
-- Dıştan uyum sağlamak — imparatoru ağızla ikrar ederken — içten İsa'ya sadık kalmak, onu yürekle ikrar etmek. Bu seçeneğin bedeli, imanı ikiyüzlü hale getirmesidir.
+- Dıştan uyum sağlamak — imparatoru ağızla ikrar ederken — içten İsa'ya sadık kalmak, onu yürekle ikrar etmek. Bu seçeneğin bedeli, imanı ikiyüzlü hale getirmesidir; üstelik {{% bible val="yalnızca tek bir efendiye hizmet edebilirsiniz" link="mat:6,24" lang="tr" %}} — İsa ya da imparator, ikisi birden değil.
 
 Bu üçüncü seçenek tarih boyunca birçok insan için cazip olmuştur ve Vahiy Kitabı boyunca işlenen ana temalardan biridir. {{% int_link val="Vahiy bir kıyamet olduğu için, sadece iki seçeneğe izin verir — ya tamamen Tanrı'dan yana ya da tamamen ona karşı" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}, rahat bir orta yol yoktur. Bu anlamda tüm kitap, Pax Romana'ya karşı bir karşı propaganda işlevi görür.
 
@@ -100,3 +100,5 @@ Yahudiler bir başka çatışma kaynağıydı. Roma inançlarını yaşamaların
 - Sizinle aynı fikirde olmayan diğer insanları nasıl tehdit ediyorsunuz?
 - Hayatınızın belirli alanlarında rol yapma ihtiyacı hissediyor musunuz? Neden? Rol yapmasaydınız ne olurdu?
 - Kişisel görüşünüzün/inancınızın size çok pahalıya mal olacağı bir durumda olsaydınız, yine de onu savunur muydunuz? Ne ölçüde? Pratikte ne yapardınız?
+
+[^euangelion]: Priene takvim yazıtı (MÖ 9, OGIS 458), Augustus’un doğum gününü dünya için “müjdelerin” (*euangelia*) başlangıcı olarak adlandırır. Josephus aynı sözcüğü Vespasianus’un imparator ilan edildiği haber için kullanır; her şehir bunu kurbanlarla kutlamıştı (*Yahudi Savaşı* 4.618).

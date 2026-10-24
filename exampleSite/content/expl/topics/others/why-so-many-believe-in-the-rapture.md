@@ -39,9 +39,11 @@ Dispensationalism's "literal wherever possible" instinct didn't come from nowher
 <a name="c8d5"></a>
 Dispensationalism reads current events — the modern state of Israel, wars in the Middle East, geopolitical instability — as meaningful, even as confirming signs. That is a profoundly compelling offer in genuinely unsettled times: it says the anxiety you already feel about the world is not just noise, it is *significant*, part of a plan that is actively moving toward resolution. That pull operates through real communities — churches, conferences, bestselling books and films — not through some deficiency in individual reasoning. Smart people are exactly as capable as anyone else of being formed by the community and media they trust.
 
-The scale is worth naming concretely: the *Left Behind* novels alone sold more than 65 million copies. This isn't a fringe curiosity — it's one of the most commercially successful theological frameworks in modern publishing history.
+The scale is worth naming concretely: the *Left Behind* series and its spin-offs have sold, by their publisher's count, well over 60 million copies.[^leftbehind] This isn't a fringe curiosity — it's one of the most commercially successful theological frameworks in modern publishing history.
 
 ## Holding the disagreement honestly
 
 <a name="7f6e"></a>
 None of this closes the exegetical case. {{% int_link val="The specific arguments already made" link="/expl/topics/others/dispensionalism-and-its-critic" %}} about genre, consistency, and what the relevant texts actually say still stand, and this site doesn't walk them back. But disagreeing with a system of interpretation is a different thing from doubting the sincerity, intelligence, or faith of the people who hold it. Most people who believe in the rapture arrived there through trusted teachers, a beloved study Bible, or a sincere desire to take God's word seriously — not through carelessness. That's worth remembering before assuming a disagreement about eschatology is really a disagreement about someone's faith.
+
+[^leftbehind]: Figures from Tyndale House, which publishes the series: over 63 million copies of the product line in 2011, over 80 million later (reported by *Publishers Weekly*). The total depends on what is counted.

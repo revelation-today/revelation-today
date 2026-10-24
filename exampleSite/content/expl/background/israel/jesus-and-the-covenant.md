@@ -20,12 +20,12 @@ When Jesus came to earth, His message and behavior "surprised" people — and fo
 ## The expectation of the Day of the Lord
 
 <a name="d8b5"></a>
-At the time of Jesus, the Jews were awaiting the Day of the Lord, but they disagreed sharply on how it would actually arrive. Qumran expected a (partial) withdrawal from society paired with increased observance of the law. The Pharisees pushed for increased observance of the law within society as it stood. The Jewish historian Josephus concluded that Israel had been rejected and that God had instead chosen the Romans. The Sadducees held to the written law alone, rejecting the Pharisees' oral tradition, and favoured submission to and cooperation with Roman leadership. And the Zealots wanted increased observance of the law combined with active resistance against Rome.
+At the time of Jesus, the Jews were awaiting the Day of the Lord, but they disagreed sharply on how it would actually arrive. Qumran expected a (partial) withdrawal from society paired with increased observance of the law. The Pharisees pushed for increased observance of the law within society as it stood. The Jewish historian Josephus concluded that God's favour had passed from Jerusalem to Rome.[^josephus] The Sadducees held to the written law alone, rejecting the Pharisees' oral tradition, and favoured submission to and cooperation with Roman leadership. And the Zealots wanted increased observance of the law combined with active resistance against Rome.
 
 ## The challenge
 
 <a name="298a"></a>
-Reading how the New Testament actually presents Jesus is genuinely challenging against that backdrop. Take the [beginning of the gospel of Mark](https://biblehub.com/interlinear/mark/1-1.htm): the Greek word for "gospel" there is *evangeliou*, a term normally used to announce the birth of a new emperor. That word choice alone was already a political challenge aimed at the emperor in Rome — the real king, Mark is saying, is Jesus.
+Reading how the New Testament actually presents Jesus is genuinely challenging against that backdrop. Take the [beginning of the gospel of Mark](https://biblehub.com/interlinear/mark/1-1.htm): the Greek word for "gospel" there is *evangeliou*, a term also used in imperial announcements, such as the birth or accession of an emperor. That word choice alone was already a political challenge aimed at the emperor in Rome — the real king, Mark is saying, is Jesus.
 
 And Mark doesn't stop there. Immediately afterward he quotes Isaiah, at the exact point where the Day of the Lord is announced. From there, Jesus does a whole series of things tied directly to Israel's history and its promises:
 
@@ -40,7 +40,7 @@ And Mark doesn't stop there. Immediately afterward he quotes Isaiah, at the exac
 ## The teachings of Jesus
 
 <a name="b343"></a>
-Jesus's teaching was also deeply confrontational toward Israel. He picks up Isaiah's {{% bible val="parable of the vineyard that bears no fruit" link="isa:5,1-7" lang="en" %}}, itself a picture of Israel being pruned, but Jesus {{% bible val="reuses this parable with the judgment to completely destroy Israel if they reject him" link="mat:21,33-45" lang="en" %}} — raising the stakes far beyond pruning.
+Jesus's teaching was also deeply confrontational toward Israel. He picks up Isaiah's {{% bible val="parable of the vineyard that bears no fruit" link="isa:5,1-7" lang="en" %}}, which already ends in judgment: the owner tears down the vineyard's wall and lets it go to waste ({{% bible val="5:5–6" link="isa:5,5-6" lang="en" %}}). Jesus {{% bible val="reuses this parable" link="mat:21,33-45" lang="en" %}} with a sharper charge: the tenants in charge of the vineyard do not merely fail to deliver its fruit, they kill the owner's son, and the vineyard is taken from them and given to others ({{% bible val="21:38–43" link="mat:21,38-43" lang="en" %}}).
 
 In the same vein, the Day of the Lord Jesus announces will not bring the restoration of Jerusalem and the temple pictured in Ezekiel 40–48, but rather {{% bible val="the destruction of Jerusalem and the temple" link="mrk:13" lang="en" %}}.
 
@@ -89,3 +89,5 @@ Why did he stop there? Because he had not come to judge — not yet. "God did no
 So the Day of the Lord comes in two parts. The year of the Lord's favour began with his first coming; the day of vengeance waits for his return. The kingdom is already here, and not yet complete.[^already]
 
 [^already]: Beale, pp. 37–39.
+
+[^josephus]: Josephus, *War* 5.367, in his speech to the defenders of Jerusalem: fortune has gone over to the Romans, and God, "when he had gone round the nations with this dominion, is now settled in Italy" (Whiston’s translation).

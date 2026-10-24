@@ -70,7 +70,7 @@ Many cities — especially in Asia Minor, to which the letters in Revelation wer
 
 For Christians living under this system, several serious problems arose:
 
-- Jesus was their emperor — king of kings — especially since the gospels themselves were written as *euangelion*, the proclamation of a new emperor's reign.
+- Jesus was their emperor — king of kings — especially since the word the gospels use for their message, *euangelion* ("good news"), was also the word for imperial announcements such as a new emperor's birth or accession.[^euangelion]
 - They {{% bible val="received their provision from Jesus" link="mat:6,25-34" lang="en" %}}, not from the emperor.
 - Some of the activities woven into Pax Romana civic life ran directly against their beliefs — above all the trade-guild banquets honouring the guild's patron god, with meat offered to idols and often sexual immorality, which every tradesman was expected to attend ({{% bible val="Rev 2:14" link="rev:2,14" lang="en" %}}, {{% bible val="20" link="rev:2,20" lang="en" %}}).
 - The very means Rome used to "pacify" the empire could not be reconciled with Christian conviction.
@@ -80,9 +80,9 @@ Outward conformity was the easy path.
 
 That left Christians with essentially three choices:
 
-- Deny the faith completely, since {{% bible val="you can only serve one master" link="mat:6,24" lang="en" %}} — Jesus or the emperor, not both.
+- Deny the faith completely and give the emperor what he asks.
 - Live out the faith fully, risking social and economic isolation, ruin, imprisonment, and even death.
-- Conform outwardly — confessing the emperor with the mouth — while remaining inwardly faithful to Jesus, confessing him with the heart. The cost of this option is that it makes the faith hypocritical.
+- Conform outwardly — confessing the emperor with the mouth — while remaining inwardly faithful to Jesus, confessing him with the heart. The cost of this option is that it makes the faith hypocritical, and {{% bible val="you can only serve one master" link="mat:6,24" lang="en" %}} — Jesus or the emperor, not both.
 
 That third option has proven compelling to many people across history, and it's a major theme running through Revelation. {{% int_link val="Because Revelation is an apocalypse, it allows only two options — all for God or all against him" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}, no comfortable middle ground. In that sense, the whole book functions as counter-propaganda against the Pax Romana.
 
@@ -100,3 +100,5 @@ Here are some questions for reflection:
 - How do you treat people who disagree with you? Do you ever put pressure on them?
 - Do you feel the need to pretend in certain areas of your life? Why? What would happen if you didn’t pretend?
 - If you were in a situation where your personal opinion/belief would cost you a lot, would you still stand up for it? To what extent? What would you do in practice?
+
+[^euangelion]: The calendar inscription from Priene (9 BC, OGIS 458) calls the birthday of Augustus the beginning of the "good news" (*euangelia*) for the world. Josephus uses the same word for the report of Vespasian's acclamation as emperor, which every city celebrated with sacrifices (*War* 4.618).

@@ -75,7 +75,7 @@ That thought isn't wrong exactly, but when it comes to the prophetic books of th
 
 Old Testament prophetic literature was grounded in the covenant made at Mount Sinai. There, God didn't hand people a mere list of rules — he gave them an entire way of thinking. He established that:
 
-- we are all equal before the law,
+- we are all equal before the law ({{% bible val="Lev 19:15" link="lev:19,15" lang="en" %}}; {{% bible val="24:22" link="lev:24,22" lang="en" %}}),
 - we should show mercy to the helpless, as in {{% bible val="Lev 23:22" link="lev:23,22" lang="en" %}}: {{% bible val="Israel itself was once enslaved" link="exo:20,2" lang="en" %}}, and {{% bible val="God protects the helpless" link="deu:10,18" lang="en" %}},
 - and the most important law is {{% bible val="to love God" link="deu:6,5" lang="en" %}} and {{% bible val="to love your neighbor" link="lev:19,18" lang="en" %}} — a command {{% bible val="confirmed in the New Testament, where we learn that everyone is our neighbor" link="luk:10,25-37" lang="en" %}}.
 
@@ -99,7 +99,7 @@ Revelation draws on many of these prophetic elements. It:
 - {{% bible val="begins with a section" link="rev:1,1-3" lang="en" %}} that mirrors the opening of many Old Testament prophetic books.
 - includes {{% bible val="a vision paired with a calling" link="rev:1,9-20" lang="en" %}}, the same pattern found in {{% bible val="Isaiah 6" link="isa:6" lang="en" %}}.
 - references numerous Old Testament prophetic books, including Isaiah, Jeremiah, Daniel, Zechariah, and Ezekiel.
-- warns its readers to come out of Babel — {{% bible val="don't let your love grow cold" link="rev:2,4" lang="en" %}}, {{% bible val="don't tolerate false teaching" link="rev:2,14-15" lang="en" %}}, and so on.
+- warns its readers — {{% bible val="don't let your love grow cold" link="rev:2,4" lang="en" %}}, {{% bible val="don't tolerate false teaching" link="rev:2,14-15" lang="en" %}}, and so on — and calls them to {{% bible val="come out of Babel" link="rev:18,4" lang="en" %}}.
 - offers comfort: {{% bible val="God's people are protected" link="rev:7,1-4" lang="en" %}}, {{% bible val="no one will be lost" link="rev:7,5-8" lang="en" %}}, {{% bible val="God's kingdom will surely come" link="rev:21" lang="en" %}}.
 
 The goal of prophecy is to change behavior, and it typically leans on vivid imagery to provoke a response from its readers or listeners.
@@ -111,7 +111,7 @@ Revelation's prophecy also doesn't follow the standard Old Testament pattern in 
 ## An apocalypse {#apocalypse}
 
 <a name="apocalypse"></a>
-The book's opening words are "_Apokalypsis Iesou Christou_," translated as "The revelation of Jesus Christ." The word "_apokalypsis_" literally means "revelation," but a direct translation is misleading here, because it doesn't refer to some secret foretelling of an event in the near or distant future. Nor is it really about the end of the world — it's about the end of evil rulers and the societies built around them. The only other apocalyptic texts in the Bible appear in {{% bible val="Daniel 7-12" link="dan:7" lang="en" %}}, {{% bible val="Mark 13" link="mrk:13" lang="en" %}}, {{% bible val="Matthew 24" link="mat:24" lang="en" %}}, and {{% bible val="Luke 21" link="luk:21" lang="en" %}} — and these, too, are notoriously difficult to understand.
+The book's opening words are "_Apokalypsis Iesou Christou_," translated as "The revelation of Jesus Christ." The word "_apokalypsis_" literally means "revelation," but a direct translation is misleading here, because it doesn't refer to some secret foretelling of an event in the near or distant future. Nor is it only about the end of the world — it is just as much about the end of evil rulers and the societies built around them. The only other apocalyptic texts in the Bible appear in {{% bible val="Daniel 7-12" link="dan:7" lang="en" %}}, {{% bible val="Mark 13" link="mrk:13" lang="en" %}}, {{% bible val="Matthew 24" link="mat:24" lang="en" %}}, and {{% bible val="Luke 21" link="luk:21" lang="en" %}} — and these, too, are notoriously difficult to understand.
 
 Let's start at the beginning: apocalypse is a genre like any other. We don't have one tidy, complete definition of what makes a book apocalyptic, but there's enough information available to help us read one well.
 

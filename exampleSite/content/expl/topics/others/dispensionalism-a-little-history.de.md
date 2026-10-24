@@ -20,7 +20,7 @@ Hast du dieses seltsame Wort schon einmal gehört? Wahrscheinlich nicht — aber
 ## Ein kurzer Streifzug durch die Geschichte
 
 <a name="0f48"></a>
-Um den Dispensationalismus besser zu verstehen, hilft ein Blick auf einige Meilensteine, wie die Offenbarung im Lauf der Jahrhunderte gelesen wurde — lange bevor die Bewegung selbst einen Namen hatte.
+Um den Dispensationalismus besser zu verstehen, hilft ein Blick auf einige Meilensteine, wie die Offenbarung im Lauf der Jahrhunderte gelesen wurde — lange bevor die Bewegung selbst einen Namen hatte. Die meisten dieser Meilensteine sind Vorläufer der Terminberechnung, des Lesens der Offenbarung als Fahrplan, und nicht von Darbys System selbst, das am Ende steht.
 
 Wir beginnen mit Justin Martyr (ca. 100–165). Er las {{% bible val="das Tausendjährige Reich" link="rev:20,4" lang="de" %}} als Erfüllung der Prophezeiung Jesajas{{% bible val=", die von einem besseren Leben und von Harmonie in der Natur auf Erden spricht" link="isa:65,17-25" lang="de" %}}, wobei das letzte Gericht erst danach kommt. Das Problem dabei ist, dass {{% bible val="diese Stelle eindeutig von der Erfüllung im Neuen Himmel und der Neuen Erde spricht" link="isa:65,17" lang="de" %}},{{% bible val=" ein Kapitel später in der Offenbarung" link="rev:21" lang="de" %}} — also nicht vor dem Tausendjährigen Reich, sondern danach. Trotzdem wurde Justins Deutung von vielen späteren Bibellesern zustimmend zitiert.
 

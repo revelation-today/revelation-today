@@ -39,9 +39,11 @@ Dispansiyonalizmin "mümkün olan her yerde harfiyen" içgüdüsü hiçbir yerde
 <a name="d84e"></a>
 Dispansiyonalizm, güncel olayları — modern İsrail devletini, Orta Doğu'daki savaşları, jeopolitik istikrarsızlığı — anlamlı, hatta doğrulayıcı işaretler olarak okur. Bu, gerçekten çalkantılı zamanlarda son derece ikna edici bir tekliftir: Dünya hakkında zaten hissettiğiniz kaygının sadece gürültü olmadığını, *anlamlı* olduğunu, aktif biçimde bir çözüme doğru ilerleyen bir planın parçası olduğunu söyler. Bu çekim gücü, bireysel akıl yürütmedeki bir eksiklik yoluyla değil, gerçek topluluklar — kiliseler, konferanslar, çok satan kitaplar ve filmler — aracılığıyla işler. Zeki insanlar, güvendikleri topluluk ve medya tarafından şekillendirilmeye tıpkı herkes kadar açıktır.
 
-Ölçeği somut biçimde belirtmekte fayda var: yalnızca *Left Behind* romanları 65 milyondan fazla sattı. Bu marjinal bir merak konusu değil — modern yayıncılık tarihinin ticari olarak en başarılı teolojik çerçevelerinden biridir.
+Ölçeği somut biçimde belirtmekte fayda var: *Left Behind* serisi ve yan ürünleri, yayıncısının hesabına göre, 60 milyondan çok daha fazla sattı.[^leftbehind] Bu marjinal bir merak konusu değil — modern yayıncılık tarihinin ticari olarak en başarılı teolojik çerçevelerinden biridir.
 
 ## Anlaşmazlığı dürüstçe ele almak
 
 <a name="e6a3"></a>
 Bunların hiçbiri yorumbilimsel meseleyi kapatmaz. {{% int_link val="Daha önce ortaya konan somut argümanlar" link="/expl/topics/others/dispensionalism-and-its-critic" %}} — tür, tutarlılık ve ilgili metinlerin gerçekte ne söylediği hakkında — geçerliliğini korur, ve bu site onlardan geri adım atmıyor. Ama bir yorum sistemiyle aynı fikirde olmamak, onu benimseyen insanların içtenliğinden, zekâsından ya da imanından şüphe etmekten farklı bir şeydir. Göğe alınmaya inanan çoğu insan buraya güvendikleri öğretmenler, sevdikleri bir çalışma İncili ya da Tanrı'nın sözünü ciddiye alma konusundaki içten bir arzu aracılığıyla gelmiştir — dikkatsizlik yoluyla değil. Bir eskatoloji anlaşmazlığının aslında birinin imanı hakkında bir anlaşmazlık olduğunu varsaymadan önce, bunu hatırlamakta fayda var.
+
+[^leftbehind]: Serinin yayıncısı Tyndale House’un rakamları: 2011’de ürün hattı için 63 milyonun üzerinde kopya, daha sonra 80 milyonun üzerinde (*Publishers Weekly* aktardı). Toplam, neyin sayıldığına bağlıdır.

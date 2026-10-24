@@ -75,7 +75,7 @@ Pemikiran itu tidak sepenuhnya salah, tetapi ketika menyangkut kitab-kitab nubua
 
 Sastra kenabian Perjanjian Lama berakar pada perjanjian yang dibuat di Gunung Sinai. Di sana, Allah tidak sekadar memberikan orang-orang sebuah daftar aturan — Ia memberi mereka seluruh cara berpikir yang baru. Ia menetapkan bahwa:
 
-- kita semua setara di hadapan hukum,
+- kita semua setara di hadapan hukum ({{% bible val="Im 19:15" link="lev:19,15" lang="ind" %}}; {{% bible val="24:22" link="lev:24,22" lang="ind" %}}),
 - kita harus menunjukkan belas kasihan kepada mereka yang tidak berdaya, {{% bible val="sama seperti Israel sendiri pernah diperbudak" link="exo:20,2" lang="ind" %}} dan {{% bible val="Allah melindungi mereka yang tidak berdaya" link="deu:10,18" lang="ind" %}}, seperti dalam {{% bible val="Im 23:22" link="lev:23,22" lang="ind" %}},
 - dan hukum yang terpenting adalah {{% bible val="mengasihi Allah" link="deu:6,5" lang="ind" %}} dan {{% bible val="mengasihi sesama" link="lev:19,18" lang="ind" %}} — sebuah perintah {{% bible val="yang ditegaskan dalam Perjanjian Baru, di mana kita belajar bahwa setiap orang adalah sesama kita" link="luk:10,25-37" lang="ind" %}}.
 
@@ -99,7 +99,7 @@ Kitab Wahyu memanfaatkan banyak unsur kenabian ini. Kitab ini:
 - {{% bible val="dimulai dengan sebuah bagian" link="rev:1,1-3" lang="ind" %}} yang mencerminkan pembukaan banyak kitab nubuat Perjanjian Lama.
 - mencakup {{% bible val="sebuah penglihatan yang dipasangkan dengan sebuah panggilan" link="rev:1,9-20" lang="ind" %}}, pola yang sama yang ditemukan dalam {{% bible val="Yesaya 6" link="isa:6" lang="ind" %}}.
 - merujuk pada banyak kitab nubuat Perjanjian Lama, termasuk Yesaya, Yeremia, Daniel, Zakharia, dan Yehezkiel.
-- memperingatkan para pembacanya untuk keluar dari Babel — {{% bible val="jangan biarkan kasihmu menjadi dingin" link="rev:2,4" lang="ind" %}}, {{% bible val="jangan tolerir ajaran sesat" link="rev:2,14-15" lang="ind" %}}, dan seterusnya.
+- memperingatkan para pembacanya — {{% bible val="jangan biarkan kasihmu menjadi dingin" link="rev:2,4" lang="ind" %}}, {{% bible val="jangan tolerir ajaran sesat" link="rev:2,14-15" lang="ind" %}}, dan seterusnya — dan memanggil mereka untuk {{% bible val="keluar dari Babel" link="rev:18,4" lang="ind" %}}.
 - menawarkan penghiburan: {{% bible val="umat Allah dilindungi" link="rev:7,1-4" lang="ind" %}}, {{% bible val="tidak seorang pun akan hilang" link="rev:7,4-8" lang="ind" %}}, {{% bible val="Kerajaan Allah pasti akan datang" link="rev:21" lang="ind" %}}.
 
 Tujuan nubuat adalah mengubah perilaku, dan nubuat biasanya mengandalkan gambaran yang hidup untuk memprovokasi sebuah reaksi dari para pembaca atau pendengarnya.
@@ -111,7 +111,7 @@ Nubuat dalam Kitab Wahyu juga tidak mengikuti pola baku Perjanjian Lama dalam be
 ## Sebuah Apokalips {#apocalypse}
 
 <a name="apocalypse"></a>
-Kata-kata pembuka kitab ini adalah "_Apokalypsis Iesou Christou_," diterjemahkan sebagai "Wahyu Yesus Kristus." Kata "_apokalypsis_" secara harfiah berarti "wahyu," tetapi terjemahan langsung ini menyesatkan di sini, karena kata itu tidak merujuk pada semacam ramalan rahasia tentang sebuah peristiwa di masa depan yang dekat atau jauh. Kata itu juga bukan sungguh-sungguh tentang akhir dunia — melainkan tentang akhir dari para penguasa yang jahat dan masyarakat yang dibangun di sekitar mereka. Satu-satunya teks apokaliptik lain dalam Alkitab muncul dalam {{% bible val="Daniel 7-12" link="dan:7" lang="ind" %}}, {{% bible val="Markus 13" link="mrk:13" lang="ind" %}}, {{% bible val="Matius 24" link="mat:24" lang="ind" %}}, dan {{% bible val="Lukas 21" link="luk:21" lang="ind" %}} — dan teks-teks ini pun terkenal sulit dipahami.
+Kata-kata pembuka kitab ini adalah "_Apokalypsis Iesou Christou_," diterjemahkan sebagai "Wahyu Yesus Kristus." Kata "_apokalypsis_" secara harfiah berarti "wahyu," tetapi terjemahan langsung ini menyesatkan di sini, karena kata itu tidak merujuk pada semacam ramalan rahasia tentang sebuah peristiwa di masa depan yang dekat atau jauh. Kata itu juga bukan hanya tentang akhir dunia — melainkan sama pentingnya tentang akhir dari para penguasa yang jahat dan masyarakat yang dibangun di sekitar mereka. Satu-satunya teks apokaliptik lain dalam Alkitab muncul dalam {{% bible val="Daniel 7-12" link="dan:7" lang="ind" %}}, {{% bible val="Markus 13" link="mrk:13" lang="ind" %}}, {{% bible val="Matius 24" link="mat:24" lang="ind" %}}, dan {{% bible val="Lukas 21" link="luk:21" lang="ind" %}} — dan teks-teks ini pun terkenal sulit dipahami.
 
 Mari kita mulai dari awal: apokalips adalah sebuah genre seperti genre lainnya. Kita tidak memiliki satu definisi yang rapi dan lengkap tentang apa yang membuat sebuah kitab bersifat apokaliptik, tetapi ada cukup informasi yang tersedia untuk membantu kita membacanya dengan baik.
 

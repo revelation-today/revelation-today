@@ -87,7 +87,7 @@ Once again, this passage gets read as an argument for the rapture: one person ra
 ### Assumptions
 
 <a name="b246"></a>
-Through rapture-tinted glasses, being taken looks like the good outcome and being left behind looks bad. But the surrounding language doesn't actually support that reading — {{% bible val="the devil, for instance, is the one who leaves Jesus after the temptation" link="mat:4,11" lang="en" %}}, hardly a mark of favor. Here, Jesus compares his coming to the flood in Noah's day, and in that flood story, being "taken away" means being taken by judgment, swept off by the waters. If the same sense carries over to the coming of the Son of Man, then "taken away" in this context most likely marks the wicked, while the ones left behind are the ones who are safe.
+Through rapture-tinted glasses, being taken looks like the good outcome and being left behind looks bad. But the surrounding language doesn't actually support that reading. Here, Jesus compares his coming to the flood in Noah's day, and in that flood story, being "taken away" means being taken by judgment, swept off by the waters. If the same sense carries over to the coming of the Son of Man, then "taken away" in this context most likely marks the wicked, while the ones left behind are the ones who are safe.
 
 Notice, too, that the text never says where the "taken" ones are taken to. The image could just as easily be the secret police of the Roman Empire, arresting believers for their faith, as it could anything to do with heaven.
 
@@ -103,7 +103,7 @@ Matthew {{% bible val="24" link="mat:24" lang="en" %}} and {{% bible val="25" li
 
 But the themes Jesus actually addresses here are the destruction of the temple, with all the trauma of the Jewish war of 66–73, and a call to remain faithful through the persecutions and tribulations still to come. None of these parables anchor themselves to a specific future date; they call for an ongoing commitment to Jesus instead. Likewise, the ethic of the sheep and the goats isn't a special end-times requirement — it echoes a standard that runs throughout the Old Testament for how believers are to fulfill God's commands.
 
-Reading {{% bible val="the parable of the fig tree" link="mat:24,32" lang="en" %}} as a coded reference to 1948 and the founding of Israel is a considerable stretch, and nothing else in the Bible supports it. The image doesn't point to the modern state of Israel; it points to the church, since in the New Testament the church is {{% int_link val="the recipient of many Old Testament images once applied to Israel" link="/expl/background/israel/the-church-is-part-of-israel" %}}.
+Reading {{% bible val="the parable of the fig tree" link="mat:24,32" lang="en" %}} as a coded reference to 1948 and the founding of Israel is a considerable stretch, and nothing else in the Bible supports it. The image doesn't point to the modern state of Israel. Jesus' comparison is a plain one: when the fig tree's leaves come out, you know summer is near; in the same way, when you see these things, {{% bible val="you know that he is near" link="mat:24,32-33" lang="en" %}}. Nothing in the passage turns that into a calendar.
 
 ## A place for us
 

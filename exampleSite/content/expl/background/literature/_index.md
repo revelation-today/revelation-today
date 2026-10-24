@@ -10,5 +10,5 @@ Here's a simple example: when Paul says that Jesus was resurrected from the dead
 
 Revelation doesn't give us a simple answer either, because the book is actually composed of three genres at once:
 - a letter — whatever is written must have been applicable to the first readers, which includes the material in chapters 4–20, not just 1–3
-- a prophecy — whose purpose isn't to predict the future but to provoke a change that prevents the announced future, as in the story of Jonah
+- a prophecy — whose purpose is not mainly to predict the future but to provoke a change that prevents the announced future, as in the story of Jonah
 - an apocalypse — not what most people assume that word means, but a genre of provocative resistance literature

@@ -39,9 +39,11 @@ Der Instinkt des Dispensationalismus, „wörtlich, wo immer möglich" zu lesen,
 <a name="d84e"></a>
 Der Dispensationalismus liest aktuelle Ereignisse — den modernen Staat Israel, Kriege im Nahen Osten, geopolitische Instabilität — als bedeutsam, ja sogar als bestätigende Zeichen. Das ist ein zutiefst überzeugendes Angebot in wirklich unruhigen Zeiten: Es sagt, die Angst, die du ohnehin schon angesichts der Welt spürst, sei nicht bloß Lärm, sondern *bedeutsam*, Teil eines Plans, der aktiv auf seine Auflösung zusteuert. Diese Anziehungskraft wirkt durch reale Gemeinschaften — Gemeinden, Konferenzen, Bestsellerbücher und Filme —, nicht durch irgendein Defizit im individuellen Denken. Kluge Menschen sind genauso wie alle anderen dazu fähig, von der Gemeinschaft und den Medien geprägt zu werden, denen sie vertrauen.
 
-Das Ausmaß lohnt sich konkret zu benennen: Allein die *Left Behind*-Romane verkauften sich mehr als 65 Millionen Mal. Das ist keine Randerscheinung — es ist eines der kommerziell erfolgreichsten theologischen Konzepte der modernen Verlagsgeschichte.
+Das Ausmaß lohnt sich konkret zu benennen: Die *Left Behind*-Reihe und ihre Ableger haben sich nach Angaben des Verlags weit über 60 Millionen Mal verkauft.[^leftbehind] Das ist keine Randerscheinung — es ist eines der kommerziell erfolgreichsten theologischen Konzepte der modernen Verlagsgeschichte.
 
 ## Die Uneinigkeit ehrlich halten
 
 <a name="e6a3"></a>
 Nichts davon schließt den exegetischen Fall ab. {{% int_link val="Die bereits vorgebrachten konkreten Argumente" link="/expl/topics/others/dispensionalism-and-its-critic" %}} zu Gattung, Konsequenz und dem, was die betreffenden Texte tatsächlich sagen, bleiben bestehen, und diese Seite nimmt sie nicht zurück. Aber mit einem Auslegungssystem nicht übereinzustimmen ist etwas anderes, als die Aufrichtigkeit, Intelligenz oder den Glauben der Menschen anzuzweifeln, die es vertreten. Die meisten Menschen, die an die Entrückung glauben, sind über vertrauenswürdige Lehrer, eine geliebte Studienbibel oder den aufrichtigen Wunsch, Gottes Wort ernst zu nehmen, dorthin gelangt — nicht durch Unachtsamkeit. Das lohnt es sich zu bedenken, bevor man annimmt, eine Uneinigkeit über Eschatologie sei eigentlich eine Uneinigkeit über den Glauben eines Menschen.
+
+[^leftbehind]: Zahlen von Tyndale House, dem Verlag der Reihe: 2011 über 63 Millionen verkaufte Exemplare der Produktlinie, später über 80 Millionen (berichtet von *Publishers Weekly*). Die Gesamtzahl hängt davon ab, was mitgezählt wird.

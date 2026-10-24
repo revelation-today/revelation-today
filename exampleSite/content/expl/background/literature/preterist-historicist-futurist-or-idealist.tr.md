@@ -120,7 +120,7 @@ Bu site, dört görüşten birini seçmek yerine, Vahiy'i hepsini aynı anda yap
 ## Peki hangisi?
 
 <a name="s6g7"></a>
-Bu site eklektisizmi izler; başlıca nedeni, Vahiy'in kendisinin tek bir zaman dilimine sığmayı sürekli reddetmesidir — gerçek kiliselere yazılmış birinci yüzyıla ait bir mektup, hâlâ önümüzde duran gerçek sonuçları olan bir peygamberlik ve düalizmi hiçbir zaman geçerliliğini yitirmesi amaçlanmamış bir kıyamet. Bu, {{% int_link val="bin yıllık krallık tartışmasından" link="/expl/content/1000y/pre-post-and-amillennialism" %}} farklı bir sorudur, ama ikisi pratikte örtüşür: historisistler postmilenyalizme, dispensasyonalist fütüristler premilenyalizme ve idealistler amilenyalizme yönelir — ama bu eşleşmelerden hiçbiri zorunlu değildir ve bu iki soruyu kendi zihninde ayrı tutmakta fayda vardır.
+Bu site eklektisizmi izler; başlıca nedeni, Vahiy'in kendisinin tek bir zaman dilimine sığmayı sürekli reddetmesidir — gerçek kiliselere yazılmış birinci yüzyıla ait bir mektup, hâlâ önümüzde duran gerçek sonuçları olan bir peygamberlik ve düalizmi hiçbir zaman geçerliliğini yitirmesi amaçlanmamış bir kıyamet. Bu, {{% int_link val="bin yıllık krallık tartışmasından" link="/expl/content/1000y/pre-post-and-amillennialism" %}} farklı bir sorudur, ama ikisi pratikte örtüşür: dispensasyonalist fütüristler premilenyalizme, idealistler amilenyalizme yönelir; historisistler ise her iki yöne de yönelmiştir — Joseph Mede ve E. B. Elliott premilenyalistti — dolayısıyla bu eşleşmelerden hiçbiri zorunlu değildir ve bu iki soruyu kendi zihninde ayrı tutmakta fayda vardır.
 
 Üzerinde düşünmeye değer birkaç kapanış sorusu:
 

@@ -120,7 +120,7 @@ Rather than picking one of the four, this site reads Revelation as doing all fou
 ## So which one?
 
 <a name="s6g7"></a>
-This site follows eclecticism, mainly because Revelation itself keeps refusing to sit still in only one timeframe — a first-century letter to real churches, a prophecy with real consequences still ahead, and an apocalypse whose dualism was never meant to expire. That's a different question from the {{% int_link val="millennium debate" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, though the two overlap in practice: historicists lean postmillennial, dispensational futurists lean premillennial, and idealists lean amillennial — but none of those pairings is required, and it's worth keeping the two questions separate in your own mind.
+This site follows eclecticism, mainly because Revelation itself keeps refusing to sit still in only one timeframe — a first-century letter to real churches, a prophecy with real consequences still ahead, and an apocalypse whose dualism was never meant to expire. That's a different question from the {{% int_link val="millennium debate" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, though the two overlap in practice: dispensational futurists lean premillennial, idealists lean amillennial, and historicists have been both — Joseph Mede and E. B. Elliott were premillennial — so none of those pairings is required, and it's worth keeping the two questions separate in your own mind.
 
 A few closing questions worth sitting with:
 

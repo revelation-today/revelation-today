@@ -117,8 +117,8 @@ Bu çerçevede iman, katılınacak bir ordusuyla birlikte, ağır biçimde milit
 Teori ayrıca, Kutsal Kitap'ın desteklemediği ve zaman zaman kendi içinde çelişen siyasi iddialarda da bulunur:
 
 - Katolik karşıtlığına eğilimlidir.
-- Eski Ahit'in kendisi İsrail'e sıkça eleştirel yaklaşsa da, teori eleştirisiz biçimde Amerikan ve İsrail yanlısıdır.
-- Orta Doğu'daki mevcut savaşları Tanrı'nın planının bir parçası olarak görür ve bu yüzden onları yas tutulacak değil, hoş karşılanacak bir şey sayar.
+- Eski Ahit'in kendisi İsrail'e sıkça eleştirel yaklaşsa da, teori popüler biçimlerinde eleştirisiz biçimde Amerikan ve İsrail yanlısı olabilir.
+- Popüler biçimlerinde, Orta Doğu'daki mevcut savaşları Tanrı'nın planının bir parçası olarak görebilir ve bu yüzden onları yas tutulacak değil, hoş karşılanacak bir şey sayabilir.
 
 ## Daha fazla okuma
 

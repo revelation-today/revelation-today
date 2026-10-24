@@ -41,7 +41,7 @@ In the aftermath, {{% bible val="God commands Moses to destroy the Midianites" l
 
 Moses was slow to act, and the people paid for it.
 
-Even so, it takes a long time before {{% bible val="Israel finally fights against the Midianites" link="num:31" lang="en" %}} — {{% bible val="Moses’ last action before he dies" link="num:31,2" lang="en" %}}. Israel kills all the Midianite {{% bible val="men" link="num:31,2" lang="en" %}} and the {{% bible val="women" link="num:31,15-17" lang="en" %}} who had deceived them.
+Even so, it takes a long time before {{% bible val="Israel finally fights against the Midianites" link="num:31" lang="en" %}} — {{% bible val="Moses’ last action before he dies" link="num:31,2" lang="en" %}}. Israel kills {{% bible val="every Midianite man" link="num:31,7-8" lang="en" %}}. Moses is angry that the women were taken alive, since it was they who, on Balaam's counsel, had led Israel into unfaithfulness at Peor, and he orders that {{% bible val="every boy and every woman who has slept with a man be killed" link="num:31,14-18" lang="en" %}}; the girls who have not are kept alive.
 
 But there is a surprise waiting in the account: {{% bible val="Balaam is among those killed — he had been staying with the Midianites all along" link="num:31,8" lang="en" %}}.
 

@@ -20,12 +20,12 @@ Ketika Yesus datang ke bumi, pesan dan perilaku-Nya "mengejutkan" orang-orang �
 ## Penantian akan Hari Tuhan
 
 <a name="f713"></a>
-Pada zaman Yesus, orang Yahudi sedang menantikan Hari Tuhan, tetapi mereka sangat tidak sepakat tentang bagaimana hari itu akan tiba. Qumran mengharapkan sebuah penarikan diri (sebagian) dari masyarakat disertai dengan ketaatan yang semakin ketat terhadap hukum Taurat. Orang Farisi mendorong ketaatan yang semakin ketat terhadap hukum Taurat di dalam masyarakat sebagaimana adanya. Sejarawan Yahudi Yosefus menyimpulkan bahwa Israel telah ditolak dan bahwa Allah sebaliknya telah memilih orang Romawi. Orang Saduki memegang hukum yang tertulis saja, menolak tradisi lisan orang Farisi, dan lebih memilih ketundukan serta kerja sama dengan pemerintahan Romawi. Dan kaum Zelot menginginkan ketaatan yang semakin ketat terhadap hukum Taurat dipadukan dengan perlawanan aktif terhadap Roma.
+Pada zaman Yesus, orang Yahudi sedang menantikan Hari Tuhan, tetapi mereka sangat tidak sepakat tentang bagaimana hari itu akan tiba. Qumran mengharapkan sebuah penarikan diri (sebagian) dari masyarakat disertai dengan ketaatan yang semakin ketat terhadap hukum Taurat. Orang Farisi mendorong ketaatan yang semakin ketat terhadap hukum Taurat di dalam masyarakat sebagaimana adanya. Sejarawan Yahudi Yosefus menyimpulkan bahwa kemurahan Allah telah beralih dari Yerusalem kepada Roma.[^josephus] Orang Saduki memegang hukum yang tertulis saja, menolak tradisi lisan orang Farisi, dan lebih memilih ketundukan serta kerja sama dengan pemerintahan Romawi. Dan kaum Zelot menginginkan ketaatan yang semakin ketat terhadap hukum Taurat dipadukan dengan perlawanan aktif terhadap Roma.
 
 ## Tantangannya
 
 <a name="c232"></a>
-Membaca bagaimana Perjanjian Baru sebenarnya menampilkan Yesus sungguh menantang jika dilihat dari latar belakang itu. Perhatikan [awal Injil Markus](https://biblehub.com/interlinear/mark/1-1.htm): kata Yunani untuk "injil" di sana adalah *evangeliou*, sebuah istilah yang biasanya dipakai untuk mengumumkan kelahiran seorang kaisar baru. Pilihan kata itu saja sudah menjadi sebuah tantangan politik yang ditujukan kepada kaisar di Roma — raja yang sesungguhnya, kata Markus, adalah Yesus.
+Membaca bagaimana Perjanjian Baru sebenarnya menampilkan Yesus sungguh menantang jika dilihat dari latar belakang itu. Perhatikan [awal Injil Markus](https://biblehub.com/interlinear/mark/1-1.htm): kata Yunani untuk "injil" di sana adalah *evangeliou*, sebuah istilah yang juga dipakai dalam pengumuman kekaisaran, seperti kelahiran atau naik takhtanya seorang kaisar. Pilihan kata itu saja sudah menjadi sebuah tantangan politik yang ditujukan kepada kaisar di Roma — raja yang sesungguhnya, kata Markus, adalah Yesus.
 
 Dan Markus tidak berhenti di situ. Segera sesudahnya ia mengutip Yesaya, tepat pada titik di mana Hari Tuhan diberitakan. Dari situ, Yesus melakukan serangkaian hal yang terkait langsung dengan sejarah Israel dan janji-janjinya:
 
@@ -40,7 +40,7 @@ Dan Markus tidak berhenti di situ. Segera sesudahnya ia mengutip Yesaya, tepat p
 ## Ajaran-Ajaran Yesus
 
 <a name="221c"></a>
-Ajaran Yesus juga sangat konfrontatif terhadap Israel. Ia mengambil {{% bible val="perumpamaan Yesaya tentang kebun anggur yang tidak berbuah" link="isa:5,1-7" lang="ind" %}}, yang sendirinya merupakan gambaran tentang Israel yang dipangkas, tetapi Yesus {{% bible val="menggunakan kembali perumpamaan ini dengan penghakiman untuk membinasakan Israel sepenuhnya jika mereka menolak Dia" link="mat:21,33-45" lang="ind" %}} — menaikkan taruhannya jauh melampaui sekadar pemangkasan.
+Ajaran Yesus juga sangat konfrontatif terhadap Israel. Ia mengambil {{% bible val="perumpamaan Yesaya tentang kebun anggur yang tidak berbuah" link="isa:5,1-7" lang="ind" %}}, yang sendirinya sudah berakhir dengan penghakiman: sang pemilik merobohkan tembok kebun anggur itu dan membiarkannya menjadi tandus ({{% bible val="5:5–6" link="isa:5,5-6" lang="ind" %}}). Yesus {{% bible val="menggunakan kembali perumpamaan ini" link="mat:21,33-45" lang="ind" %}} dengan tuduhan yang lebih tajam: para penggarap yang dipercayai kebun anggur itu bukan hanya gagal menyerahkan buahnya, mereka membunuh anak sang pemilik, dan kebun itu diambil dari mereka lalu diberikan kepada orang lain ({{% bible val="21:38–43" link="mat:21,38-43" lang="ind" %}}).
 
 Senada dengan itu, Hari Tuhan yang diberitakan Yesus tidak akan membawa pemulihan Yerusalem dan bait Allah seperti yang digambarkan dalam Yehezkiel 40–48, melainkan {{% bible val="kehancuran Yerusalem dan bait Allah" link="mrk:13" lang="ind" %}}.
 
@@ -89,3 +89,5 @@ Mengapa Ia berhenti di situ? Karena Ia tidak datang untuk menghakimi — belum. 
 Jadi Hari Tuhan datang dalam dua bagian. Tahun rahmat Tuhan dimulai dengan kedatangan-Nya yang pertama; hari pembalasan menantikan kedatangan-Nya kembali. Kerajaan itu sudah hadir, dan belum sempurna.[^already]
 
 [^already]: Beale, hlm. 37–39.
+
+[^josephus]: Yosefus, *Perang Yahudi* 5.367, dalam pidatonya kepada para pembela Yerusalem: keberuntungan telah beralih kepada orang Romawi, dan Allah, yang telah berkeliling dari bangsa ke bangsa membawa kekuasaan ini, kini menetap di Italia.

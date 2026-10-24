@@ -20,7 +20,7 @@ Pernahkah Anda mendengar kata yang asing ini sebelumnya? Mungkin belum — tetap
 ## Sekilas Perjalanan Sejarah
 
 <a name="0f48"></a>
-Untuk memahami dispensasionalisme dengan lebih baik, ada baiknya kita melihat beberapa tonggak penting dalam cara Kitab Wahyu ditafsirkan sepanjang berabad-abad — jauh sebelum gerakan ini sendiri memiliki nama.
+Untuk memahami dispensasionalisme dengan lebih baik, ada baiknya kita melihat beberapa tonggak penting dalam cara Kitab Wahyu ditafsirkan sepanjang berabad-abad — jauh sebelum gerakan ini sendiri memiliki nama. Sebagian besar tonggak ini adalah pendahulu dari penetapan tanggal, dari pembacaan Kitab Wahyu sebagai jadwal, bukan dari sistem Darby sendiri, yang baru muncul di bagian akhir.
 
 Kita mulai dengan Justin Martir (sekitar 100–165). Ia membaca {{% bible val="Kerajaan Seribu Tahun" link="rev:20,4" lang="ind" %}} sebagai penggenapan nubuat Yesaya{{% bible val=", yang berbicara tentang kehidupan yang lebih baik dan keselarasan alam di bumi" link="isa:65,17-25" lang="ind" %}}, dengan penghakiman terakhir baru datang setelah itu. Persoalannya, {{% bible val="ayat ini justru dengan jelas berbicara tentang penggenapan dalam langit baru dan bumi baru" link="isa:65,17" lang="ind" %}}, yaitu {{% bible val="satu pasal setelahnya dalam Kitab Wahyu" link="rev:21" lang="ind" %}} — bukan sebelum kerajaan seribu tahun itu, melainkan sesudahnya. Meskipun demikian, tafsiran Justin ini banyak dikutip secara positif oleh banyak pembaca Alkitab di kemudian hari.
 

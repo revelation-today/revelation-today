@@ -41,7 +41,7 @@ Sesudah itu, {{% bible val="Allah memerintahkan Musa untuk memusnahkan orang Mid
 
 Musa tidak segera bertindak, dan umat itulah yang menanggung akibatnya.
 
-Meski begitu, butuh waktu lama sebelum {{% bible val="Israel akhirnya memerangi orang Midian" link="num:31" lang="ind" %}} — {{% bible val="tindakan terakhir Musa sebelum kematiannya" link="num:31,1-2" lang="ind" %}}. Israel membunuh semua {{% bible val="laki-laki" link="num:31,1-2" lang="ind" %}} Midian dan {{% bible val="perempuan" link="num:31,15-17" lang="ind" %}} yang telah menyesatkan mereka.
+Meski begitu, butuh waktu lama sebelum {{% bible val="Israel akhirnya memerangi orang Midian" link="num:31" lang="ind" %}} — {{% bible val="tindakan terakhir Musa sebelum kematiannya" link="num:31,1-2" lang="ind" %}}. Israel membunuh {{% bible val="setiap laki-laki Midian" link="num:31,7-8" lang="ind" %}}. Musa marah karena para perempuan dibiarkan hidup, sebab merekalah yang, atas nasihat Bileam, telah menyeret Israel kepada ketidaksetiaan di Peor, dan ia memerintahkan agar {{% bible val="setiap anak laki-laki dan setiap perempuan yang pernah tidur dengan laki-laki dibunuh" link="num:31,14-18" lang="ind" %}}; anak-anak perempuan yang belum pernah, dibiarkan hidup.
 
 Tetapi ada kejutan yang menanti dalam kisah ini: {{% bible val="Bileam termasuk di antara mereka yang dibunuh — ia ternyata tetap tinggal bersama orang Midian selama ini" link="num:31,8" lang="ind" %}}.
 

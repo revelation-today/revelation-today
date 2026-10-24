@@ -71,7 +71,7 @@ Banyak kota — khususnya di Asia Kecil, tujuan surat-surat dalam Kitab Wahyu �
 <a name="3005"></a>
 Bagi orang Kristen yang hidup di bawah sistem ini, muncul beberapa masalah serius:
 
-- Yesus adalah kaisar mereka — Raja di atas segala raja — terlebih lagi karena Injil-Injil sendiri ditulis sebagai *euangelion*, proklamasi pemerintahan seorang kaisar baru.
+- Yesus adalah kaisar mereka — Raja di atas segala raja — terlebih lagi karena kata yang dipakai Injil-Injil untuk berita mereka, *euangelion* ("kabar baik"), juga merupakan kata untuk pengumuman kekaisaran, seperti kelahiran atau naik takhtanya seorang kaisar baru.[^euangelion]
 - Mereka {{% bible val="menerima penyediaan kebutuhan mereka dari Yesus" link="mat:6,25-34" lang="ind" %}}, bukan dari sang kaisar.
 - Beberapa kegiatan yang menjadi bagian dari kehidupan bermasyarakat dalam Pax Romana bertentangan langsung dengan keyakinan mereka — terutama perjamuan serikat-serikat dagang untuk menghormati dewa pelindung mereka, dengan daging persembahan berhala dan sering kali percabulan, yang diharapkan dihadiri oleh setiap pedagang dan tukang ({{% bible val="Wahyu 2:14" link="rev:2,14" lang="ind" %}}, {{% bible val="20" link="rev:2,20" lang="ind" %}}).
 - Cara-cara yang digunakan Roma untuk "mendamaikan" kekaisaran tidak dapat diselaraskan dengan keyakinan Kristen.
@@ -81,9 +81,9 @@ Kesesuaian lahiriah adalah jalan yang mudah.
 
 Hal itu menyisakan tiga pilihan bagi orang Kristen:
 
-- Menyangkal iman sepenuhnya, sebab {{% bible val="engkau hanya dapat mengabdi kepada satu tuan" link="mat:6,24" lang="ind" %}} — Yesus atau sang kaisar, bukan keduanya.
+- Menyangkal iman sepenuhnya dan memberikan kepada kaisar apa yang ia minta.
 - Menghidupi iman sepenuhnya, dengan risiko isolasi sosial dan ekonomi, kehancuran, penjara, bahkan kematian.
-- Menyesuaikan diri secara lahiriah — mengakui kaisar dengan mulut — sambil tetap setia kepada Yesus secara batiniah, mengakui Dia dengan hati. Konsekuensi dari pilihan ini adalah membuat iman menjadi munafik.
+- Menyesuaikan diri secara lahiriah — mengakui kaisar dengan mulut — sambil tetap setia kepada Yesus secara batiniah, mengakui Dia dengan hati. Konsekuensi dari pilihan ini adalah membuat iman menjadi munafik, dan {{% bible val="engkau hanya dapat mengabdi kepada satu tuan" link="mat:6,24" lang="ind" %}} — Yesus atau sang kaisar, bukan keduanya.
 
 Pilihan ketiga itu terbukti menarik bagi banyak orang sepanjang sejarah, dan hal ini menjadi tema utama yang mengalir di sepanjang Kitab Wahyu. {{% int_link val="Karena Kitab Wahyu adalah sebuah apokalips, kitab ini hanya memberi dua pilihan — sepenuhnya bagi Allah atau sepenuhnya menentang-Nya" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}, tanpa jalan tengah yang nyaman. Dalam pengertian itu, seluruh kitab ini berfungsi sebagai propaganda tandingan terhadap Pax Romana.
 
@@ -103,3 +103,5 @@ Berikut beberapa pertanyaan untuk direnungkan:
 - Bagaimana Anda mengancam orang lain yang tidak sependapat dengan Anda?
 - Apakah Anda merasa perlu berpura-pura di bidang-bidang tertentu dalam hidup Anda? Mengapa? Apa yang akan terjadi jika Anda tidak berpura-pura?
 - Jika Anda berada dalam situasi di mana pendapat/keyakinan pribadi Anda akan menuntut biaya yang besar, apakah Anda akan tetap mempertahankannya? Sejauh mana? Apa yang akan Anda lakukan secara praktis?
+
+[^euangelion]: Prasasti kalender dari Priene (9 SM, OGIS 458) menyebut hari kelahiran Augustus sebagai awal dari "kabar baik" (*euangelia*) bagi dunia. Yosefus memakai kata yang sama untuk kabar tentang diangkatnya Vespasianus menjadi kaisar, yang dirayakan setiap kota dengan persembahan (*Perang Yahudi* 4.618).

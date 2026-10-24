@@ -20,12 +20,12 @@ depth: 2
 ## Rab'bin Günü beklentisi
 
 <a name="b6b5"></a>
-İsa'nın zamanında Yahudiler Rab'bin Günü'nü bekliyorlardı, ama bu günün nasıl gerçekleşeceği konusunda derin görüş ayrılıkları vardı. Kumran, toplumdan (kısmi) bir çekilmeyle birlikte yasaya bağlılığın artmasını bekliyordu. Ferisiler, mevcut toplum düzeni içinde yasaya bağlılığın artırılmasını savunuyordu. Yahudi tarihçi Josephus, İsrail'in reddedildiği ve Tanrı'nın onun yerine Romalıları seçtiği sonucuna varmıştı. Sadukiler yalnızca yazılı yasaya bağlı kalıyor, Ferisilerin sözlü geleneğini reddediyor ve Roma liderliğine boyun eğmeyi ve onunla iş birliği yapmayı tercih ediyordu. Zelotlar ise yasaya bağlılığın artırılmasını Roma'ya karşı etkin direnişle birleştirmek istiyordu.
+İsa'nın zamanında Yahudiler Rab'bin Günü'nü bekliyorlardı, ama bu günün nasıl gerçekleşeceği konusunda derin görüş ayrılıkları vardı. Kumran, toplumdan (kısmi) bir çekilmeyle birlikte yasaya bağlılığın artmasını bekliyordu. Ferisiler, mevcut toplum düzeni içinde yasaya bağlılığın artırılmasını savunuyordu. Yahudi tarihçi Josephus, Tanrı'nın lütfunun Yeruşalim'den Roma'ya geçtiği sonucuna varmıştı.[^josephus] Sadukiler yalnızca yazılı yasaya bağlı kalıyor, Ferisilerin sözlü geleneğini reddediyor ve Roma liderliğine boyun eğmeyi ve onunla iş birliği yapmayı tercih ediyordu. Zelotlar ise yasaya bağlılığın artırılmasını Roma'ya karşı etkin direnişle birleştirmek istiyordu.
 
 ## Meydan okuma
 
 <a name="1481"></a>
-Yeni Antlaşma'nın İsa'yı nasıl sunduğunu bu arka plana karşı okumak gerçekten zorlayıcıdır. [Markos Müjdesi'nin başlangıcını ele alalım](https://biblehub.com/interlinear/mark/1-1.htm): burada "müjde" için kullanılan Yunanca sözcük *evangeliou*'dur; bu terim normalde yeni bir imparatorun doğumunu duyurmak için kullanılırdı. Bu sözcük seçimi tek başına bile Roma'daki imparatora yönelik siyasi bir meydan okumaydı — Markos, gerçek kralın İsa olduğunu söylüyordu.
+Yeni Antlaşma'nın İsa'yı nasıl sunduğunu bu arka plana karşı okumak gerçekten zorlayıcıdır. [Markos Müjdesi'nin başlangıcını ele alalım](https://biblehub.com/interlinear/mark/1-1.htm): burada "müjde" için kullanılan Yunanca sözcük *evangeliou*'dur; bu terim imparatorluk duyurularında, örneğin bir imparatorun doğumu ya da tahta çıkışı için de kullanılırdı. Bu sözcük seçimi tek başına bile Roma'daki imparatora yönelik siyasi bir meydan okumaydı — Markos, gerçek kralın İsa olduğunu söylüyordu.
 
 Markos burada durmaz. Hemen ardından, Rab'bin Günü'nün duyurulduğu tam noktada Yeşaya'dan alıntı yapar. Oradan itibaren İsa, İsrail'in tarihine ve vaatlerine doğrudan bağlı bir dizi şey yapar:
 
@@ -40,7 +40,7 @@ Markos burada durmaz. Hemen ardından, Rab'bin Günü'nün duyurulduğu tam nokt
 ## İsa'nın öğretileri
 
 <a name="9f5f"></a>
-İsa'nın öğretisi de İsrail'e karşı derinden yüzleştiriciydi. {{% bible val="Yeşaya'nın, meyve vermeyen bağ benzetmesini ele alır" link="isa:5,1-7" lang="tr" %}}; bu benzetme zaten İsrail'in budanmasının bir resmiydi, ama {{% bible val="İsa bu benzetmeyi, kendisini reddetmeleri hâlinde İsrail'i tamamen yok edecek bir yargıyla birlikte yeniden kullanır" link="mat:21,33-45" lang="tr" %}} — bahisleri budamanın çok ötesine taşıyarak.
+İsa'nın öğretisi de İsrail'e karşı derinden yüzleştiriciydi. {{% bible val="Yeşaya'nın, meyve vermeyen bağ benzetmesini ele alır" link="isa:5,1-7" lang="tr" %}}; bu benzetme zaten bir yargıyla biter: bağ sahibi bağın duvarını yıkar ve onu çorak bırakır ({{% bible val="5:5–6" link="isa:5,5-6" lang="tr" %}}). İsa {{% bible val="bu benzetmeyi yeniden kullanır" link="mat:21,33-45" lang="tr" %}} ve suçlamayı keskinleştirir: bağın sorumluluğu verilen kiracılar yalnızca meyvesini teslim etmemekle kalmaz, sahibinin oğlunu öldürürler; bağ da onlardan alınıp başkalarına verilir ({{% bible val="21:38–43" link="mat:21,38-43" lang="tr" %}}).
 
 Aynı doğrultuda, İsa'nın duyurduğu Rab'bin Günü, Hezekiel 40–48'de tasvir edilen Yeruşalim ve tapınağın restorasyonunu değil, {{% bible val="Yeruşalim'in ve tapınağın yıkımını" link="mrk:13" lang="tr" %}} getirecektir.
 
@@ -89,3 +89,5 @@ Neden orada durdu? Çünkü yargılamak için gelmemişti — henüz değil. "Ta
 Demek ki Rab'bin Günü iki bölümde gelir. Rab'bin lütuf yılı O'nun ilk gelişiyle başladı; öç günü ise dönüşünü bekliyor. Egemenlik şimdiden buradadır, ama henüz tamamlanmamıştır.[^already]
 
 [^already]: Beale, s. 37–39.
+
+[^josephus]: Josephus, *Yahudi Savaşı* 5.367, Yeruşalim’i savunanlara yaptığı konuşmada: talih Romalıların yanına geçmiş, bu egemenlikle ulusları dolaşan Tanrı da artık İtalya’ya yerleşmiştir.

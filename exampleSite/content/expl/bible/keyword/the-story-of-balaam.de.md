@@ -41,7 +41,7 @@ Im Nachgang {{% bible val="befiehlt Gott Mose, die Midianiter zu vernichten" lin
 
 Mose handelte nicht sofort, und das Volk bezahlte dafür.
 
-Dennoch dauert es lange, bis {{% bible val="Israel schließlich gegen die Midianiter kämpft" link="num:31" lang="de" %}} — {{% bible val="Moses letzte Tat vor seinem Tod" link="num:31,2" lang="de" %}}. Israel tötet alle midianitischen {{% bible val="Männer" link="num:31,2" lang="de" %}} und die {{% bible val="Frauen" link="num:31,15-17" lang="de" %}}, die sie verführt hatten.
+Dennoch dauert es lange, bis {{% bible val="Israel schließlich gegen die Midianiter kämpft" link="num:31" lang="de" %}} — {{% bible val="Moses letzte Tat vor seinem Tod" link="num:31,2" lang="de" %}}. Israel tötet {{% bible val="jeden midianitischen Mann" link="num:31,7-8" lang="de" %}}. Mose ist zornig, dass die Frauen am Leben gelassen wurden, denn sie waren es, die Israel auf Bileams Rat hin bei Peor zur Untreue verführt hatten, und er befiehlt, dass {{% bible val="jeder Junge und jede Frau, die mit einem Mann geschlafen hat, getötet werden soll" link="num:31,14-18" lang="de" %}}; die Mädchen, die das nicht getan haben, bleiben am Leben.
 
 Doch es gibt eine Überraschung am Ende des Berichts: {{% bible val="Bileam ist unter den Getöteten — er hatte sich die ganze Zeit bei den Midianitern aufgehalten" link="num:31,8" lang="de" %}}.
 

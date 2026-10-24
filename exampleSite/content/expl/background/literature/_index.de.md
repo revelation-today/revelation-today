@@ -10,5 +10,5 @@ Hier ein einfaches Beispiel: Wenn Paulus sagt, dass Jesus von den Toten aufersta
 
 Auch die Offenbarung gibt uns keine einfache Antwort, denn das Buch besteht eigentlich gleichzeitig aus drei Gattungen:
 - ein Brief - was darin geschrieben steht, muss für die ersten Leser anwendbar gewesen sein, was den Stoff in den Kapiteln 4-20 mit einschließt, nicht nur 1-3
-- eine Prophezeiung - deren Zweck nicht ist, die Zukunft vorherzusagen, sondern eine Veränderung zu bewirken, die die angekündigte Zukunft verhindert, wie in der Geschichte von Jona
+- eine Prophezeiung - deren Zweck nicht in erster Linie ist, die Zukunft vorherzusagen, sondern eine Veränderung zu bewirken, die die angekündigte Zukunft verhindert, wie in der Geschichte von Jona
 - eine Apokalypse - nicht das, was die meisten Leute unter diesem Wort verstehen, sondern eine Gattung provokativer Widerstandsliteratur

@@ -20,7 +20,7 @@ Have you ever heard this strange word before? Probably not — but you have like
 ## A few steps through history
 
 <a name="f0fa"></a>
-To better understand dispensationalism, it helps to look at some milestones in how the book of Revelation has been read over the centuries — long before the movement itself had a name.
+To better understand dispensationalism, it helps to look at some milestones in how the book of Revelation has been read over the centuries — long before the movement itself had a name. Most of these milestones are forerunners of date-setting, of reading Revelation as a timetable, rather than of Darby's system itself, which comes at the end.
 
 We begin with Justin Martyr (ca. 100–165). He read the {{% bible val="1000 year kingdom" link="rev:20,4" lang="en" %}} as the fulfillment of Isaiah's prophecy, which {{% bible val="speaks of a better life and harmony in nature on earth" link="isa:65,17-25" lang="en" %}}, with the final judgment only coming after that. The problem is that {{% bible val="this passage clearly speaks of the fulfillment in the New Heaven and New Earth" link="isa:65,17" lang="en" %}}, {{% bible val="one chapter later in Revelation" link="rev:21" lang="en" %}} — not before the millennium, but after it. Even so, Justin's reading was quoted approvingly by many later Bible readers.
 

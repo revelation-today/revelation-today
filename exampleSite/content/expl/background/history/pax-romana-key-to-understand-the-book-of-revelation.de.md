@@ -71,7 +71,7 @@ Viele Städte — besonders in Kleinasien, wohin die Sendschreiben der Offenbaru
 <a name="3005"></a>
 Für Christen, die unter diesem System lebten, ergaben sich mehrere ernste Probleme:
 
-- Jesus war ihr Kaiser — König der Könige —, zumal die Evangelien selbst als *euangelion* verfasst wurden, die Verkündigung der Herrschaft eines neuen Kaisers.
+- Jesus war ihr Kaiser — König der Könige —, zumal das Wort, das die Evangelien für ihre Botschaft verwenden, *euangelion* („gute Nachricht“), auch das Wort für kaiserliche Verlautbarungen war, etwa über die Geburt oder den Amtsantritt eines neuen Kaisers.[^euangelion]
 - Sie {{% bible val="empfingen ihre Versorgung von Jesus" link="mat:6,25-34" lang="de" %}}, nicht vom Kaiser.
 - Manche Aktivitäten, die fest zum bürgerlichen Leben unter der Pax Romana gehörten, widersprachen unmittelbar ihrem Glauben — vor allem die Festmähler der Zünfte zu Ehren ihres Schutzgottes, mit Götzenopferfleisch und oft sexueller Unmoral, an denen jeder Handwerker und Händler teilnehmen sollte ({{% bible val="Offb 2,14" link="rev:2,14" lang="de" %}}, {{% bible val="20" link="rev:2,20" lang="de" %}}).
 - Gerade die Mittel, mit denen Rom das Reich "befriedete", ließen sich nicht mit christlicher Überzeugung vereinbaren.
@@ -81,9 +81,9 @@ Für Christen, die unter diesem System lebten, ergaben sich mehrere ernste Probl
 
 Damit blieben den Christen im Wesentlichen drei Möglichkeiten:
 
-- Den Glauben ganz verleugnen, denn {{% bible val="man kann nur einem Herrn dienen" link="mat:6,24" lang="de" %}} — Jesus oder dem Kaiser, nicht beiden.
+- Den Glauben ganz verleugnen und dem Kaiser geben, was er verlangt.
 - Den Glauben voll und ganz leben und dabei soziale und wirtschaftliche Isolation, Ruin, Gefängnis oder sogar den Tod riskieren.
-- Sich äußerlich anpassen — den Kaiser mit dem Mund bekennen — und dabei innerlich Jesus treu bleiben, ihn mit dem Herzen bekennen. Der Preis dieser Option ist, dass sie den Glauben zur Heuchelei macht.
+- Sich äußerlich anpassen — den Kaiser mit dem Mund bekennen — und dabei innerlich Jesus treu bleiben, ihn mit dem Herzen bekennen. Der Preis dieser Option ist, dass sie den Glauben zur Heuchelei macht, und {{% bible val="man kann nur einem Herrn dienen" link="mat:6,24" lang="de" %}} — Jesus oder dem Kaiser, nicht beiden.
 
 Diese dritte Option hat sich für viele Menschen im Lauf der Geschichte als verlockend erwiesen, und sie ist ein zentrales Thema, das sich durch die ganze Offenbarung zieht. {{% int_link val="Weil die Offenbarung eine Apokalypse ist, lässt sie nur zwei Optionen zu — ganz für Gott oder ganz gegen ihn" link="/expl/background/literature/the-book-of-revelation-how-to-read-it" %}}, keinen bequemen Mittelweg. In diesem Sinn funktioniert das ganze Buch als Gegenpropaganda zur Pax Romana.
 
@@ -102,3 +102,5 @@ Hier einige Fragen zum Nachdenken:
 - Wie bedrohst du andere Menschen, die anderer Meinung sind als du?
 - Hast du das Gefühl, in bestimmten Bereichen deines Lebens etwas vortäuschen zu müssen? Warum? Was würde passieren, wenn du es nicht tätest?
 - Wenn du in einer Situation wärst, in der dich deine persönliche Meinung oder Überzeugung viel kosten würde, würdest du trotzdem dazu stehen? In welchem Maß? Was würdest du in der Praxis tun?
+
+[^euangelion]: Die Kalenderinschrift von Priene (9 v. Chr., OGIS 458) nennt den Geburtstag des Augustus den Anfang der „guten Nachrichten“ (*euangelia*) für die Welt. Josephus verwendet dasselbe Wort für die Meldung von der Ausrufung Vespasians zum Kaiser, die jede Stadt mit Opfern feierte (*Jüdischer Krieg* 4,618).

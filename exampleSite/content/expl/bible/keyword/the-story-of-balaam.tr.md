@@ -41,7 +41,7 @@ Bunun ardından {{% bible val="Tanrı, Musa’ya Midyanlılar’ı yok etmesini 
 
 Musa hemen harekete geçmedi ve bunun bedelini halk ödedi.
 
-Yine de {{% bible val="İsrail’in sonunda Midyanlılar’a karşı savaşması" link="num:31" lang="tr" %}} — {{% bible val="Musa’nın ölümünden önceki son eylemi" link="num:31,1-2" lang="tr" %}} — uzun zaman alır. İsrail, Midyanlı {{% bible val="erkeklerin" link="num:31,1-2" lang="tr" %}} hepsini ve kendilerini ayartmış olan {{% bible val="kadınları" link="num:31,15-17" lang="tr" %}} öldürür.
+Yine de {{% bible val="İsrail’in sonunda Midyanlılar’a karşı savaşması" link="num:31" lang="tr" %}} — {{% bible val="Musa’nın ölümünden önceki son eylemi" link="num:31,1-2" lang="tr" %}} — uzun zaman alır. İsrail, {{% bible val="her Midyanlı erkeği" link="num:31,7-8" lang="tr" %}} öldürür. Musa, kadınların sağ bırakılmasına öfkelenir, çünkü Balam'ın öğüdüyle İsrail'i Peor'da sadakatsizliğe sürükleyenler onlardır; {{% bible val="her erkek çocuğun ve bir erkekle yatmış her kadının öldürülmesini" link="num:31,14-18" lang="tr" %}} emreder; yatmamış kızlar ise sağ bırakılır.
 
 Ama anlatıda bir sürpriz daha vardır: {{% bible val="öldürülenler arasında Balam da bulunur — meğer o zamana dek Midyanlılar’ın yanında kalıyormuş" link="num:31,8" lang="tr" %}}.
 

@@ -35,7 +35,7 @@ Yani önemli olan her ölçüte göre İsrail hâlâ sürgündeydi[^exile] — v
 <a name="e5f1"></a>
 O hâlde Rab'bin Günü, basitçe "dünyanın sonu" değildir — antlaşmanın baştan beri vaat ettiği şeyi nihayet gerçekleştiren gündür. Bu gün {{% bible val="İsrail'in düşmanları üzerine yargı" link="jol:3,1-16" lang="tr" %}}, {{% bible val="İsrail'in restorasyonunu" link="jol:2,12-27" lang="tr" %}}, {{% bible val="İsrail'deki kötülerin yargılanmasını" link="zep:1,4-9" lang="tr" %}} ve Kutsal Ruh'un dökülmesi gibi Tanrı'nın geri kalan vaatlerinin yerine gelmesini getirir.
 
-Ama bu yalnızca {{% int_link val="İsrail'in kalıntısının" link="/expl/background/israel/the-remnant-of-israel" %}} başına gelecektir — ulusun tamamının değil.
+Ama bu yenilenme yalnızca {{% int_link val="İsrail'in kalıntısının" link="/expl/background/israel/the-remnant-of-israel" %}} başına gelecektir — ulusun tamamının değil.
 
 ## Vahiy'de Rab'bin günü
 

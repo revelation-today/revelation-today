@@ -75,7 +75,7 @@ Dieser Gedanke ist nicht grundsätzlich falsch, aber bei den prophetischen Büch
 
 Die prophetische Literatur des Alten Testaments war im Bund am Berg Sinai verwurzelt. Dort gab Gott den Menschen nicht bloß eine Liste von Regeln — er gab ihnen eine ganze Denkweise. Er legte fest:
 
-- Wir alle sind vor dem Gesetz gleich,
+- Wir alle sind vor dem Gesetz gleich ({{% bible val="3. Mose 19,15" link="lev:19,15" lang="de" %}}; {{% bible val="24,22" link="lev:24,22" lang="de" %}}),
 - wir sollen den Hilflosen Barmherzigkeit erweisen, {{% bible val="so wie Israel selbst einst versklavt war" link="exo:20,2" lang="de" %}} und {{% bible val="Gott die Hilflosen schützt" link="deu:10,18" lang="de" %}}, wie in {{% bible val="3. Mose 23,22" link="lev:23,22" lang="de" %}},
 - und das wichtigste Gebot ist {{% bible val="Gott zu lieben" link="deu:6,5" lang="de" %}} und {{% bible val="den Nächsten zu lieben" link="lev:19,18" lang="de" %}} — ein Gebot, das {{% bible val="im Neuen Testament bestätigt wird, wo wir erfahren, dass jeder Mensch unser Nächster ist" link="luk:10,25-37" lang="de" %}}.
 
@@ -99,7 +99,7 @@ Die Offenbarung greift viele dieser prophetischen Elemente auf. Sie:
 - {{% bible val="beginnt mit einem Abschnitt" link="rev:1,1-3" lang="de" %}}, der den Anfang vieler alttestamentlicher prophetischer Bücher widerspiegelt.
 - enthält {{% bible val="eine Vision verbunden mit einer Berufung" link="rev:1,9-20" lang="de" %}}, dasselbe Muster, das sich auch in {{% bible val="Jesaja 6" link="isa:6" lang="de" %}} findet.
 - nimmt Bezug auf zahlreiche prophetische Bücher des Alten Testaments, darunter Jesaja, Jeremia, Daniel, Sacharja und Hesekiel.
-- warnt ihre Leser, aus Babel auszuziehen — {{% bible val="lasst eure Liebe nicht erkalten" link="rev:2,4" lang="de" %}}, {{% bible val="duldet keine falsche Lehre" link="rev:2,14-15" lang="de" %}}, und so weiter.
+- warnt ihre Leser — {{% bible val="lasst eure Liebe nicht erkalten" link="rev:2,4" lang="de" %}}, {{% bible val="duldet keine falsche Lehre" link="rev:2,14-15" lang="de" %}}, und so weiter — und ruft sie auf, {{% bible val="aus Babel auszuziehen" link="rev:18,4" lang="de" %}}.
 - spendet Trost: {{% bible val="Gottes Volk ist geschützt" link="rev:7,1-4" lang="de" %}}, {{% bible val="niemand wird verloren gehen" link="rev:7,5-8" lang="de" %}}, {{% bible val="Gottes Reich wird gewiss kommen" link="rev:21" lang="de" %}}.
 
 Das Ziel der Prophetie ist es, Verhalten zu verändern, und sie setzt dabei typischerweise auf eindrückliche Bilder, um bei ihren Lesern oder Hörern eine Reaktion hervorzurufen.
@@ -111,7 +111,7 @@ Auch die Prophetie der Offenbarung folgt in ihrer Form nicht dem gewöhnlichen a
 ## Eine Apokalypse {#apocalypse}
 
 <a name="apocalypse"></a>
-Die ersten Worte des Buches lauten „_Apokalypsis Iesou Christou_", übersetzt „Die Offenbarung Jesu Christi". Das Wort „_apokalypsis_" bedeutet wörtlich „Offenbarung", aber eine direkte Übersetzung führt hier in die Irre, denn es geht nicht um eine geheime Vorhersage eines Ereignisses in naher oder ferner Zukunft. Es geht auch nicht wirklich um das Ende der Welt — sondern um das Ende böser Herrscher und der Gesellschaften, die um sie herum aufgebaut sind. Die einzigen weiteren apokalyptischen Texte der Bibel finden sich in {{% bible val="Daniel 7–12" link="dan:7" lang="de" %}}, {{% bible val="Markus 13" link="mrk:13" lang="de" %}}, {{% bible val="Matthäus 24" link="mat:24" lang="de" %}} und {{% bible val="Lukas 21" link="luk:21" lang="de" %}} — und auch diese sind notorisch schwer zu verstehen.
+Die ersten Worte des Buches lauten „_Apokalypsis Iesou Christou_", übersetzt „Die Offenbarung Jesu Christi". Das Wort „_apokalypsis_" bedeutet wörtlich „Offenbarung", aber eine direkte Übersetzung führt hier in die Irre, denn es geht nicht um eine geheime Vorhersage eines Ereignisses in naher oder ferner Zukunft. Es geht auch nicht nur um das Ende der Welt — es geht ebenso um das Ende böser Herrscher und der Gesellschaften, die um sie herum aufgebaut sind. Die einzigen weiteren apokalyptischen Texte der Bibel finden sich in {{% bible val="Daniel 7–12" link="dan:7" lang="de" %}}, {{% bible val="Markus 13" link="mrk:13" lang="de" %}}, {{% bible val="Matthäus 24" link="mat:24" lang="de" %}} und {{% bible val="Lukas 21" link="luk:21" lang="de" %}} — und auch diese sind notorisch schwer zu verstehen.
 
 Fangen wir am Anfang an: Die Apokalypse ist ein Genre wie jedes andere. Es gibt keine einzige, vollständige Definition dessen, was ein Buch apokalyptisch macht, aber es gibt genug Anhaltspunkte, die uns helfen, ein solches Buch gut zu lesen.
 

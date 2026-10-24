@@ -20,12 +20,12 @@ Als Jesus auf die Erde kam, „überraschten“ seine Botschaft und sein Verhalt
 ## Die Erwartung an den Tag des Herrn
 
 <a name="f713"></a>
-Zur Zeit Jesu warteten die Juden auf den Tag des Herrn, waren sich aber uneinig, wie er tatsächlich kommen würde. Qumran erwartete einen (teilweisen) Rückzug aus der Gesellschaft, verbunden mit stärkerer Befolgung des Gesetzes. Die Pharisäer drängten auf eine stärkere Befolgung des Gesetzes innerhalb der bestehenden Gesellschaft. Der jüdische Historiker Josephus kam zu dem Schluss, dass Israel verworfen worden war und Gott stattdessen die Römer erwählt hatte. Die Sadduzäer hielten allein am geschriebenen Gesetz fest, lehnten die mündliche Überlieferung der Pharisäer ab und bevorzugten Unterordnung und Zusammenarbeit mit der römischen Führung. Und die Zeloten wollten stärkere Befolgung des Gesetzes verbunden mit aktivem Widerstand gegen Rom.
+Zur Zeit Jesu warteten die Juden auf den Tag des Herrn, waren sich aber uneinig, wie er tatsächlich kommen würde. Qumran erwartete einen (teilweisen) Rückzug aus der Gesellschaft, verbunden mit stärkerer Befolgung des Gesetzes. Die Pharisäer drängten auf eine stärkere Befolgung des Gesetzes innerhalb der bestehenden Gesellschaft. Der jüdische Historiker Josephus kam zu dem Schluss, dass Gottes Gunst von Jerusalem auf Rom übergegangen war.[^josephus] Die Sadduzäer hielten allein am geschriebenen Gesetz fest, lehnten die mündliche Überlieferung der Pharisäer ab und bevorzugten Unterordnung und Zusammenarbeit mit der römischen Führung. Und die Zeloten wollten stärkere Befolgung des Gesetzes verbunden mit aktivem Widerstand gegen Rom.
 
 ## Die Herausforderung
 
 <a name="c232"></a>
-Liest man, wie das Neue Testament Jesus tatsächlich darstellt, ist das vor diesem Hintergrund wirklich herausfordernd. Man nehme den [Anfang des Markusevangeliums](https://biblehub.com/interlinear/mark/1-1.htm): Das griechische Wort für „Evangelium“ ist dort *evangeliou*, ein Begriff, der normalerweise benutzt wurde, um die Geburt eines neuen Kaisers zu verkünden. Allein diese Wortwahl war bereits eine politische Herausforderung an den Kaiser in Rom — der wahre König, so sagt Markus, ist Jesus.
+Liest man, wie das Neue Testament Jesus tatsächlich darstellt, ist das vor diesem Hintergrund wirklich herausfordernd. Man nehme den [Anfang des Markusevangeliums](https://biblehub.com/interlinear/mark/1-1.htm): Das griechische Wort für „Evangelium“ ist dort *evangeliou*, ein Begriff, der auch in kaiserlichen Verlautbarungen benutzt wurde, etwa über die Geburt oder den Amtsantritt eines Kaisers. Allein diese Wortwahl war bereits eine politische Herausforderung an den Kaiser in Rom — der wahre König, so sagt Markus, ist Jesus.
 
 Und Markus bleibt nicht dabei stehen. Unmittelbar danach zitiert er Jesaja, genau an der Stelle, an der der Tag des Herrn angekündigt wird. Von da an tut Jesus eine ganze Reihe von Dingen, die direkt mit der Geschichte Israels und ihren Verheißungen verknüpft sind:
 
@@ -40,7 +40,7 @@ Und Markus bleibt nicht dabei stehen. Unmittelbar danach zitiert er Jesaja, gena
 ## Die Lehren Jesu
 
 <a name="221c"></a>
-Auch die Lehre Jesu war zutiefst konfrontativ gegenüber Israel. Er greift Jesajas {{% bible val="Gleichnis vom Weinberg, der keine Frucht bringt" link="isa:5,1-7" lang="de" %}} auf, selbst ein Bild für das Beschneiden Israels, doch Jesus {{% bible val="verwendet dieses Gleichnis erneut, verbunden mit dem Gericht, Israel vollständig zu vernichten, sollte es ihn ablehnen" link="mat:21,33-45" lang="de" %}} — und erhöht damit den Einsatz weit über das bloße Beschneiden hinaus.
+Auch die Lehre Jesu war zutiefst konfrontativ gegenüber Israel. Er greift Jesajas {{% bible val="Gleichnis vom Weinberg, der keine Frucht bringt" link="isa:5,1-7" lang="de" %}} auf, das schon mit einem Gericht endet: Der Besitzer reißt die Mauer des Weinbergs nieder und lässt ihn verwildern ({{% bible val="5,5–6" link="isa:5,5-6" lang="de" %}}). Jesus {{% bible val="greift dieses Gleichnis erneut auf" link="mat:21,33-45" lang="de" %}} mit einem schärferen Vorwurf: Die Pächter, denen der Weinberg anvertraut ist, liefern nicht nur die Frucht nicht ab, sie töten den Sohn des Besitzers, und der Weinberg wird ihnen genommen und anderen gegeben ({{% bible val="21,38–43" link="mat:21,38-43" lang="de" %}}).
 
 Ebenso wird der Tag des Herrn, den Jesus ankündigt, nicht die in Hesekiel 40–48 dargestellte Wiederherstellung Jerusalems und des Tempels bringen, sondern vielmehr {{% bible val="die Zerstörung Jerusalems und des Tempels" link="mrk:13" lang="de" %}}.
 
@@ -89,3 +89,5 @@ Warum hörte er dort auf? Weil er nicht gekommen war, um zu richten — noch nic
 So kommt der Tag des Herrn in zwei Teilen. Das Gnadenjahr des Herrn begann mit seinem ersten Kommen; der Tag der Vergeltung wartet auf seine Wiederkunft. Das Reich ist schon da und noch nicht vollendet.[^already]
 
 [^already]: Beale, S. 37–39.
+
+[^josephus]: Josephus, *Jüdischer Krieg* 5,367, in seiner Rede an die Verteidiger Jerusalems: Das Glück habe sich den Römern zugewandt, und Gott, der mit dieser Herrschaft von Volk zu Volk gezogen sei, habe sich nun in Italien niedergelassen.

@@ -117,5 +117,5 @@ Iman, dalam kerangka ini, digambarkan dengan istilah yang sangat militeristik, l
 Teori ini juga membuat klaim-klaim politik yang tidak didukung oleh Alkitab, dan yang terkadang saling bertentangan satu sama lain:
 
 - Teori ini cenderung anti-Katolik.
-- Teori ini secara tidak kritis pro-Amerika dan pro-Israel, meskipun Perjanjian Lama sendiri sering kali kritis terhadap Israel.
-- Teori ini memperlakukan perang-perang yang sedang berlangsung di Timur Tengah sebagai bagian dari rencana Allah, dan karena itu sebagai sesuatu yang patut disambut, bukan diratapi.
+- Dalam bentuk-bentuk populernya, teori ini dapat secara tidak kritis pro-Amerika dan pro-Israel, meskipun Perjanjian Lama sendiri sering kali kritis terhadap Israel.
+- Dalam bentuk-bentuk populernya, teori ini dapat memperlakukan perang-perang yang sedang berlangsung di Timur Tengah sebagai bagian dari rencana Allah, dan karena itu sebagai sesuatu yang patut disambut, bukan diratapi.

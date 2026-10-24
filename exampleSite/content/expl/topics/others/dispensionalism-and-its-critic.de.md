@@ -117,5 +117,5 @@ Der Glaube wird in diesem Rahmen in stark militaristischen Begriffen gefasst, ei
 Die Theorie stellt außerdem politische Behauptungen auf, die die Bibel nicht stützt und die sich mitunter selbst widersprechen:
 
 - Sie neigt zu Antikatholizismus.
-- Sie ist unkritisch pro-amerikanisch und pro-israelisch, obwohl das Alte Testament selbst häufig kritisch gegenüber Israel ist.
-- Sie behandelt die gegenwärtigen Kriege im Nahen Osten als Teil von Gottes Plan und damit als etwas, das man begrüßen statt betrauern sollte.
+- In ihren populären Formen kann sie unkritisch pro-amerikanisch und pro-israelisch sein, obwohl das Alte Testament selbst häufig kritisch gegenüber Israel ist.
+- In ihren populären Formen kann sie die gegenwärtigen Kriege im Nahen Osten als Teil von Gottes Plan behandeln und damit als etwas, das man begrüßen statt betrauern sollte.

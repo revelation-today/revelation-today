@@ -35,7 +35,7 @@ Nach jedem Maßstab, der zählte, befand sich Israel also immer noch im Exil[^ex
 <a name="af7c"></a>
 Der Tag des Herrn ist also nicht einfach „das Ende der Welt“ — es ist der Tag, der endlich das bringt, was der Bund schon immer verheißen hat. Er bringt {{% bible val="Gericht über die Feinde Israels" link="jol:3,1-16" lang="de" %}}, die {{% bible val="Wiederherstellung Israels" link="jol:2,12-27" lang="de" %}}, {{% bible val="Gericht über die Ungerechten in Israel" link="zep:1,4-9" lang="de" %}}, und die Erfüllung der verbleibenden Verheißungen Gottes, wie die Ausgießung des Heiligen Geistes.
 
-Aber das wird nur dem {{% int_link val="Überrest Israels" link="/expl/background/israel/the-remnant-of-israel" %}} geschehen — nicht der Nation als Ganzes.
+Aber diese Wiederherstellung wird nur dem {{% int_link val="Überrest Israels" link="/expl/background/israel/the-remnant-of-israel" %}} zuteilwerden — nicht der Nation als Ganzes.
 
 ## Der Tag des Herrn in der Offenbarung
 

@@ -35,7 +35,7 @@ Jadi, dengan ukuran apa pun yang penting, Israel sebenarnya masih dalam pembuang
 <a name="af7c"></a>
 Hari Tuhan, kalau begitu, bukan sekadar "akhir dunia" — melainkan hari yang akhirnya mendatangkan apa yang selalu dijanjikan oleh perjanjian itu. Hari itu membawa {{% bible val="penghakiman atas musuh-musuh Israel" link="jol:3,1-16" lang="ind" %}}, {{% bible val="pemulihan Israel" link="jol:2,12-27" lang="ind" %}}, {{% bible val="penghakiman atas orang-orang fasik di Israel" link="zep:1,4-9" lang="ind" %}}, dan penggenapan janji-janji Allah yang tersisa, seperti pencurahan Roh Kudus.
 
-Tetapi hal ini hanya akan terjadi bagi {{% int_link val="sisa Israel" link="/expl/background/israel/the-remnant-of-israel" %}} — bukan bagi bangsa itu secara keseluruhan.
+Tetapi pemulihan ini hanya akan terjadi bagi {{% int_link val="sisa Israel" link="/expl/background/israel/the-remnant-of-israel" %}} — bukan bagi bangsa itu secara keseluruhan.
 
 ## Hari Tuhan dalam Kitab Wahyu
 

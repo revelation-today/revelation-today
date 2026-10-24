@@ -10,5 +10,5 @@ Bir kitabın hangi tür edebiyata ait olduğunu anlamak, birçok yanlış anlama
 
 Vahiy Kitabı da bize basit bir yanıt vermez, çünkü kitap aslında aynı anda üç türden oluşur:
 - bir mektup — yazılan her şey ilk okuyucular için geçerli olmalıydı; bu da yalnızca 1–3. bölümleri değil, 4–20. bölümlerdeki malzemeyi de kapsar
-- bir kehanet — amacı geleceği önceden bildirmek değil, bildirilen geleceği önleyecek bir değişimi kışkırtmaktır; Yunus'un öyküsünde olduğu gibi
+- bir kehanet — amacı esas olarak geleceği önceden bildirmek değil, bildirilen geleceği önleyecek bir değişimi kışkırtmaktır; Yunus'un öyküsünde olduğu gibi
 - bir kıyamet — çoğu insanın bu kelimeden anladığı şey değil, kışkırtıcı bir direniş edebiyatı türü
