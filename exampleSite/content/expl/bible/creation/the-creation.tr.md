@@ -84,7 +84,7 @@ Bahçeden ayrıldıktan sonra Havva hamile kalır ve çarpıcı bir açıklama y
 ## Patlama
 
 <a name="bf83"></a>
-Kabil için ebeveynlerinin tüm beklentisini taşımak zordu, Habil için ise üzerine hiçbir beklenti konulmaması bir o kadar zordu. Her iki kardeş de ebeveynlerinin onlara yüklediği kayıptan acı çekti ve bu kayıp onları birbirleriyle kıyaslanmaya itti.
+Kabil için ebeveynlerinin tüm beklentisini taşımak zordu, Habil için ise üzerine hiçbir beklenti konulmaması bir o kadar zordu. Her iki kardeş de ebeveynlerinin aileye getirdiği kayba, yani bahçenin dışındaki bir yaşama doğdu ve bu kayıp onları birbirleriyle kıyaslanmaya itti.
 
 Bir gün ikisi de birer sunu getirir — Kabil ekinden, Habil sürüsünden — ve Tanrı Habil'inkini kabul eder, Kabil'inkini etmez. Kabil öfkeyle dolar.
 

@@ -84,7 +84,7 @@ Setelah mereka meninggalkan taman itu, Hawa mengandung dan membuat sebuah pernya
 ## Ledakan Itu
 
 <a name="6a1a"></a>
-Berat bagi Kain untuk menanggung seluruh harapan orang tuanya, dan sama beratnya bagi Habel untuk sama sekali tidak dibebani harapan apa pun. Kedua bersaudara ini sama-sama menderita akibat kehilangan yang dibebankan orang tua mereka, dan kehilangan itu mendorong mereka untuk saling membandingkan diri.
+Berat bagi Kain untuk menanggung seluruh harapan orang tuanya, dan sama beratnya bagi Habel untuk sama sekali tidak dibebani harapan apa pun. Kedua bersaudara ini lahir ke dalam kehilangan yang didatangkan orang tua mereka atas keluarga, yaitu hidup di luar taman, dan kehilangan itu mendorong mereka untuk saling membandingkan diri.
 
 Suatu hari mereka masing-masing membawa persembahan — Kain dari hasil ladang, Habel dari kawanan ternaknya — dan Allah menerima persembahan Habel, tetapi tidak menerima persembahan Kain. Kain pun menjadi sangat marah.
 

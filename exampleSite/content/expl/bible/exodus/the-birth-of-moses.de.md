@@ -28,7 +28,7 @@ Der Pharao tut alles, was in seiner Macht steht, um zu verhindern, dass die Isra
 | Der Pharao lässt die israelitischen Sklaven so hart arbeiten, dass sie sterben sollen. | Stattdessen wächst das Volk immer weiter, und als sie Ägypten verlassen, sind sie {{% bible val="beim Auszug aus Ägypten" link="exo:12,35-36" lang="de" %}} mit Reichtümern beladen. Am Ende sind sie nicht nur frei, sondern auch in ihrer Würde wiederhergestellt. |
 | Den Hebammen wird befohlen, die neugeborenen Jungen zu töten. | Sie widersetzen sich dem Pharao — als fremde asiatische Frauen noch dazu — und werden dafür nicht bestraft, sondern {{% bible val="von Gott mit eigenen Kindern gesegnet" link="exo:1,21" lang="de" %}}.[^midwives] |
 | Neugeborene Jungen sollen in den Nil geworfen werden. | Mose wird in einem Korb in den Nil gesetzt, mit [demselben Wort](https://biblehub.com/hebrew/strongs_8392.htm), das auch für die Arche Noah verwendet wird, und wird gerettet. |
-| Mose ist die Schlüsselfigur der Geschichte, derjenige, der den Pharao stürzen wird. | Stattdessen wird er {{% bible val="von der Tochter des Pharao aufgezogen, während seine eigene Mutter dafür bezahlt wird, ihn zu stillen" link="exo:2,5-10" lang="de" %}}. |
+| Aus dem Haus des Pharao selbst kann kein israelitischer Befreier hervorgehen. | Stattdessen wird er {{% bible val="von der Tochter des Pharao aufgezogen, während seine eigene Mutter dafür bezahlt wird, ihn zu stillen" link="exo:2,5-10" lang="de" %}}. |
 
 ## Die Geschichte des Mose
 

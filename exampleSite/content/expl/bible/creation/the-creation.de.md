@@ -84,7 +84,7 @@ Nachdem sie den Garten verlassen haben, wird Eva schwanger und macht eine bemerk
 ## Die Explosion
 
 <a name="6a1a"></a>
-Es war schwer für Kain, all die Erwartungen seiner Eltern zu tragen, und ebenso schwer für Abel, dass ihm gar keine auferlegt wurden. Beide Brüder litten unter dem Verlust, den ihre Eltern ihnen aufgebürdet hatten, und dieser Verlust trieb sie dazu, sich miteinander zu vergleichen.
+Es war schwer für Kain, all die Erwartungen seiner Eltern zu tragen, und ebenso schwer für Abel, dass ihm gar keine auferlegt wurden. Beide Brüder wurden in den Verlust hineingeboren, den ihre Eltern über die Familie gebracht hatten, ein Leben außerhalb des Gartens, und dieser Verlust trieb sie dazu, sich miteinander zu vergleichen.
 
 Eines Tages bringen sie beide ein Opfer dar — Kain vom Getreide, Abel von der Herde —, und Gott nimmt Abels Opfer an, aber nicht das von Kain. Kain wird wütend.
 

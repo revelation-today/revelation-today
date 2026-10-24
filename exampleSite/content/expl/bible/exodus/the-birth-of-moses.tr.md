@@ -28,7 +28,7 @@ Firavun, İsrailliler’in büyük bir halk olmasını engellemek için elinden 
 | Firavun, İsrailli köleleri ölesiye çalıştırmak ister. | Bunun yerine halk sayıca artmaya devam eder ve Mısır’dan {{% bible val="ayrıldıklarında" link="exo:12,35-36" lang="tr" %}} servetle yüklüdürler. Sonunda yalnızca özgür kalmakla kalmaz, onurları da geri verilmiş olur. |
 | Ebelere yeni doğan bebekleri öldürmeleri emredilir. | Onlar ise — üstelik yabancı Asyalı kadınlar olarak — Firavun’a karşı gelirler ve cezalandırılmak yerine {{% bible val="Tanrı tarafından çocuklarla kutsanırlar" link="exo:1,21" lang="tr" %}}.[^midwives] |
 | Yeni doğan bebekler Nil’e atılmalıdır. | Musa, Nuh’un Gemisi için kullanılanla [aynı sözcükle](https://biblehub.com/hebrew/strongs_8392.htm) anılan bir sepetin içinde Nil’e bırakılır ve kurtarılır. |
-| Musa öyküdeki kilit kişidir, Firavun’u alaşağı edecek olandır. | Bunun yerine {{% bible val="Firavun’un kızı tarafından büyütülür, üstelik kendi annesine onu emzirmesi için para ödenir" link="exo:2,5-10" lang="tr" %}}. |
+| Firavun’un kendi evinden hiçbir İsrailli kurtarıcı çıkamaz. | Bunun yerine {{% bible val="Firavun’un kızı tarafından büyütülür, üstelik kendi annesine onu emzirmesi için para ödenir" link="exo:2,5-10" lang="tr" %}}. |
 
 ## Musa’nın hikayesi
 

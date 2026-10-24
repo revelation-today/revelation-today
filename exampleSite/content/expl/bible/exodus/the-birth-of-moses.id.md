@@ -28,7 +28,7 @@ Firaun melakukan segala yang ia bisa untuk mencegah orang Israel menjadi bangsa 
 | Firaun mempekerjakan budak-budak Israel begitu berat sehingga mereka mati. | Sebaliknya, bangsa itu terus bertambah banyak, dan pada saat mereka meninggalkan Mesir, mereka {{% bible val="dipenuhi kekayaan" link="exo:12,35-36" lang="ind" %}}. Mereka akhirnya bukan hanya bebas, tetapi juga dipulihkan martabatnya. |
 | Para bidan diperintahkan untuk membunuh bayi-bayi yang baru lahir. | Mereka menentang Firaun — meskipun mereka perempuan asing dari Asia — dan alih-alih dihukum, mereka {{% bible val="diberkati Allah dengan anak-anak" link="exo:1,21" lang="ind" %}}.[^midwives] |
 | Bayi-bayi yang baru lahir harus dibuang ke sungai Nil. | Musa diletakkan di sungai Nil dalam sebuah peti, menggunakan [kata yang sama](https://biblehub.com/hebrew/strongs_8392.htm) seperti bahtera Nuh, dan ia diselamatkan. |
-| Musa adalah tokoh kunci dalam kisah ini, orang yang akan menjatuhkan Firaun. | Sebaliknya, ia {{% bible val="dibesarkan oleh putri Firaun, sementara ibunya sendiri dibayar untuk menyusuinya" link="exo:2,5-10" lang="ind" %}}. |
+| Tidak ada pembebas Israel yang dapat muncul dari rumah Firaun sendiri. | Sebaliknya, ia {{% bible val="dibesarkan oleh putri Firaun, sementara ibunya sendiri dibayar untuk menyusuinya" link="exo:2,5-10" lang="ind" %}}. |
 
 ## Kisah Musa
 

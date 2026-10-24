@@ -84,7 +84,7 @@ After they leave the garden, Eve becomes pregnant and makes a striking statement
 ## The explosion
 
 <a name="bf83"></a>
-It was hard for Cain to carry all his parents' expectation, and just as hard for Abel to have none placed on him at all. Both brothers suffered from the loss their parents had imposed on them, and that loss pushed them to compare themselves with each other.
+It was hard for Cain to carry all his parents' expectation, and just as hard for Abel to have none placed on him at all. Both brothers were born into the loss their parents had brought on the family, life outside the garden, and that loss pushed them to compare themselves with each other.
 
 One day they each bring a sacrifice — Cain from the grain, Abel from the flock — and God accepts Abel's but not Cain's. Cain becomes furious.
 

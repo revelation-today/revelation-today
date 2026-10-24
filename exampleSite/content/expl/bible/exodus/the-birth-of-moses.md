@@ -28,7 +28,7 @@ Pharaoh does everything he can to prevent the Israelites from becoming a great p
 | Pharaoh works the Israelite slaves so hard that they die off. | Instead, the people keep increasing in number, and by the time they leave Egypt they are loaded with riches {{% bible val="when they leave Egypt" link="exo:12,35-36" lang="en" %}}. They end up not only free but restored in dignity. |
 | The midwives are ordered to kill the newborn babies. | They defy Pharaoh — as foreign Asian women, no less — and instead of being punished, they are {{% bible val="blessed by God with children" link="exo:1,21" lang="en" %}}.[^midwives] |
 | Newborn babies should be thrown into the Nile. | Moses is placed into the Nile in a basket, using [the same word](https://biblehub.com/hebrew/strongs_8392.htm) as Noah’s Ark, and he is saved. |
-| Moses is the key figure in the story, the one who will bring down Pharaoh. | Instead he is {{% bible val="raised by Pharaoh’s daughter, with his own mother paid to nurse him" link="exo:2,5-10" lang="en" %}}. |
+| No Israelite deliverer can come out of Pharaoh’s own house. | Instead he is {{% bible val="raised by Pharaoh’s daughter, with his own mother paid to nurse him" link="exo:2,5-10" lang="en" %}}. |
 
 ## The story of Moses
 
