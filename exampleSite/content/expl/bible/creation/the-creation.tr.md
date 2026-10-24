@@ -44,7 +44,7 @@ Adamın tam bir özgürlüğü vardı, tek bir kısıtlama dışında: iyiyle k�
 
 Geri kalan her şeye sahipti — bahçeyi işleyip koruma görevi, hayvanlara isim vererek (ve böylece onlara kimlik kazandırarak) ifade edilen yaratıcı bir sahiplik, ve Tanrı'yla yakın bir ilişki. Ama tek bir şey hâlâ eksikti, Tanrı'nın iyi demediği tek şey: yalnızdı.
 
-Tanrı'nın kendisi ilişki içinde var olur ve bununla tanımlanır — Tanrı sevgidir, ve sevgi ancak ilişki içinde anlam kazanır — bu yüzden adam için bir eş aradı, hayvanlar arasında uygun birini bulamadı ve onun yerine ondan kadını yarattı. Adam sevindi ve ona "kadın" adını verdi; Tanrı ona "yardımcı" demişti — daha iyi bir çeviriyle "hayat kurtarıcı." Ve düşüş tam da burada başlar: geriye kalan tek şey bir kırılma noktası ve bir yılanın biçimidir.
+Tanrı'nın kendisi ilişki içinde var olur ve bununla tanımlanır — Tanrı sevgidir, ve sevgi ancak ilişki içinde anlam kazanır — bu yüzden adam için bir eş aradı, hayvanlar arasında uygun birini bulamadı ve onun yerine ondan kadını yarattı. Adam sevindi ve ona "kadın" adını verdi; Tanrı ona "yardımcı" demişti — İbranice sözcük, *ezer*, Mezmurlar'ın Tanrı'nın kendi yardımı için kullandığı sözcükle aynıdır ({{% bible val="Mezmur 121:1–2" link="psa:121,1-2" lang="tr" %}}); bu yüzden "hayat kurtarıcı", "yardımcı"dan anlamına daha yakındır. Ve düşüş tam da burada başlar: geriye kalan tek şey bir kırılma noktası ve bir yılanın biçimidir.
 
 ## Kırılma noktası
 

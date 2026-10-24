@@ -121,7 +121,7 @@ Musa ile Harun havaya kül savurur ve bu kül hem insanların hem hayvanların �
 <a name="ef77"></a>
 {{% bible val="Çekirgeler gelir ve dolunun bıraktığı her şeyi yok eder" link="exo:10,5" lang="tr" %}}. Bu kez Firavun’un {{% bible val="kendi görevlileri bile ona Musa’nın istediğini yapması için yalvarır" link="exo:10,7" lang="tr" %}} — yine de halkı bırakmayı reddeder, {{% bible val="belalar sürüp Firavun günahını itiraf ederken bile" link="exo:10,16-17" lang="tr" %}}.
 
-Mısırlılar zaten dolu belasıyla ifşa olmuştu, çünkü tek görevi çekirgelerden koruma sağlamak olan bir tanrıları ve aynı amaca hizmet etmesi gereken özel çekirge tılsımları vardı — hiçbiri işe yaramadı.[^locust]
+Mısır'ın çekirgelerden koruma sağlamak tek görevi olan bir tanrısı bile vardı, ayrıca aynı amaca hizmet etmesi gereken özel çekirge tılsımları — hiçbiri işe yaramadı.[^locust]
 
 ## {{% bible val="9, Karanlık" link="exo:10,21-29" lang="tr" %}}
 

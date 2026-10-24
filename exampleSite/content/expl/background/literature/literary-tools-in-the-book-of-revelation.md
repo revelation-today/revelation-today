@@ -126,7 +126,7 @@ Parallel patterns follow a scheme like a-b-c-a'-b'-c', where each x' shares a si
 
 Some parts may not fit the pattern at all — they can trail off at the end (a-b-c-a'-b'-c', d), sit in the middle (a-b-c-d-a'-b'-c'), or, more rarely, appear at the beginning (d-a-b-c-a'-b'-c').
 
-Parallel patterns aren't always easy to spot, but they create a real sense of anticipation and satisfaction once recognized. We see the same effect in fairy tales like The Three Little Pigs: by the second house we think we've learned the pattern, and the author can then surprise us in the third, where he delivers the lecture.
+Parallel patterns aren't always easy to spot, but they create a real sense of anticipation and satisfaction once recognized. We see the same effect in fairy tales like The Three Little Pigs: by the second house we think we've learned the pattern, and the author can then surprise us at the third house with a contrasting outcome.
 
 A parallel pattern:
 
@@ -138,10 +138,10 @@ Take Jonah as an example. In the tables below, **bold** marks one recurring them
 - a: Jonah's **commission** and *disobedience* (1:1–3)
 	- b: Jonah and the *Gentile Sailors*: **YHWH is merciful** (1:4–16)
 		- c: **Jonah's Response to YHWH's Mercy**: *Praise* (1:17–2:10)
-- a': Jonah's **Recommitment** and *Obedience* (3/1–3a)
-	- b': Jonah and the *pagan Ninevites*: **YHWH is merciful** (3/3b-10)
-		- c': **Jonah's response to YHWH's mercy**: *resentment* (4/1–4)
-- d: YHWH's lesson (4/5–11)
+- a': Jonah's **recommitment** and *obedience* (3:1–3a)
+	- b': Jonah and the *pagan Ninevites*: **YHWH is merciful** (3:3b–10)
+		- c': **Jonah's response to YHWH's mercy**: *resentment* (4:1–4)
+- d: YHWH's lesson (4:5–11)
 
 This structure leaves the impression that Jonah's first prayer was hypocritical and his second selfish — a judgment the story never states outright but conveys entirely through its own arrangement, without ever moralizing.
 
@@ -155,7 +155,7 @@ These follow a pattern like a-b-b'-a', as in {{% bible val="Isa 22:22" link="isa
 	- b': he shall shut
 - a': and no one will open
 
-Traced out, this forms the left half of an X — the Greek letter Chi — which is why this kind of pattern is called a chiasm.
+Connect the matching lines (a with a', b with b') and they cross in an X — the Greek letter Chi — which is why this kind of pattern is called a chiasm.
 
 The same technique can shape entire books of the Bible, as in {{% bible val="Judg 3:7–16:31" link="jdg:3,7-16,31" lang="en" %}}. Here too, **bold** marks one recurring theme and *italic* marks its paired counterpart, so you can see how the outer units answer each other around the central turning point:
 

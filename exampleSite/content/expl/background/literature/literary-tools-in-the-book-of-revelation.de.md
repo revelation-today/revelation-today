@@ -126,7 +126,7 @@ Parallele Muster folgen einem Schema wie a-b-c-a'-b'-c', wobei jedes x' ein ähn
 
 Manche Teile passen überhaupt nicht in das Muster — sie können am Ende auslaufen (a-b-c-a'-b'-c', d), in der Mitte stehen (a-b-c-d-a'-b'-c') oder, seltener, am Anfang erscheinen (d-a-b-c-a'-b'-c').
 
-Parallele Muster sind nicht immer leicht zu erkennen, erzeugen aber, einmal entdeckt, ein echtes Gefühl von Erwartung und Befriedigung. Denselben Effekt finden wir in Märchen wie den Drei kleinen Schweinchen: Beim zweiten Haus glauben wir, das Muster erkannt zu haben, und der Autor kann uns dann beim dritten Haus überraschen, wo er die eigentliche Lektion liefert.
+Parallele Muster sind nicht immer leicht zu erkennen, erzeugen aber, einmal entdeckt, ein echtes Gefühl von Erwartung und Befriedigung. Denselben Effekt finden wir in Märchen wie den Drei kleinen Schweinchen: Beim zweiten Haus glauben wir, das Muster erkannt zu haben, und der Autor kann uns dann beim dritten Haus mit einem gegenläufigen Ausgang überraschen.
 
 Ein paralleles Muster:
 
@@ -138,10 +138,10 @@ Nimm Jona als Beispiel. In den Aufstellungen unten kennzeichnet **fett** ein wie
 - a: Jonas **Auftrag** und *Ungehorsam* (1/1–3)
 	- b: Jona und die *heidnischen Seeleute*: **JHWH ist gnädig** (1/4–16)
 		- c: **Jonas Reaktion auf JHWHs Gnade**: *Lobpreis* (1/17–2/10)
-- a': Jonas erneuter **Auftrag** und *Gehorsam* (3/1–3a)
-	- b': Jona und die *heidnischen Niniviten*: **JHWH ist gnädig** (3/3b-10)
-		- c': **Jonas Reaktion auf JHWHs Gnade**: *Groll* (4/1–4)
-- d: JHWHs Lektion (4/5–11)
+- a': Jonas erneuter **Auftrag** und *Gehorsam* (3:1–3a)
+	- b': Jona und die *heidnischen Niniviten*: **JHWH ist gnädig** (3:3b–10)
+		- c': **Jonas Reaktion auf JHWHs Gnade**: *Groll* (4:1–4)
+- d: JHWHs Lektion (4:5–11)
 
 Diese Struktur erweckt den Eindruck, dass Jonas erstes Gebet heuchlerisch und sein zweites selbstsüchtig war — ein Urteil, das die Geschichte nirgends ausdrücklich ausspricht, sondern allein durch ihre eigene Anordnung vermittelt, ohne je zu moralisieren.
 
@@ -155,7 +155,7 @@ Diese folgen einem Muster wie a-b-b'-a', wie in {{% bible val="Jes 22,22" link="
 	- b': er wird schließen
 - a': und niemand wird öffnen
 
-Grafisch dargestellt bildet das die linke Hälfte eines X — des griechischen Buchstabens Chi —, weshalb diese Art von Muster Chiasmus genannt wird.
+Verbindet man die zusammengehörigen Zeilen (a mit a', b mit b'), kreuzen sie sich zu einem X — dem griechischen Buchstaben Chi —, weshalb diese Art von Muster Chiasmus genannt wird.
 
 Dieselbe Technik kann ganze Bücher der Bibel prägen, wie in {{% bible val="Ri 3,7–16,31" link="jdg:3,7-16,31" lang="de" %}}. Auch hier kennzeichnet **fett** ein wiederkehrendes Thema und *kursiv* sein zugehöriges Gegenstück, sodass du sehen kannst, wie die äußeren Einheiten einander um den zentralen Wendepunkt herum entsprechen:
 

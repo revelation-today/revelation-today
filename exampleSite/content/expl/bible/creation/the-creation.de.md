@@ -44,7 +44,7 @@ Der Mann hatte völlige Freiheit bis auf eine Einschränkung: Er sollte nicht vo
 
 Alles andere hatte er — eine Aufgabe, den Garten zu bebauen und zu bewahren, kreative Verantwortung, die sich darin ausdrückte, dass er den Tieren Namen gab (und ihnen damit eine Identität verlieh), und eine innige Beziehung zu Gott. Aber eines fehlte noch, das Einzige, was Gott nicht gut nennt: Er war allein.
 
-Gott selbst existiert in Beziehung und wird durch sie definiert — Gott ist Liebe, und Liebe ergibt nur in Beziehung einen Sinn —, darum suchte er ein Gegenüber für den Mann, fand aber keines, das unter den Tieren passend war, und machte stattdessen die Frau aus ihm. Der Mann war voller Freude und nannte sie „Frau“; Gott hatte sie „Hilfe“ genannt — ein Wort, das man besser mit „Lebensretterin“ übersetzt. Und genau dort beginnt der Sündenfall: Von da an braucht es nur noch einen Auslöser — und die Gestalt einer Schlange.
+Gott selbst existiert in Beziehung und wird durch sie definiert — Gott ist Liebe, und Liebe ergibt nur in Beziehung einen Sinn —, darum suchte er ein Gegenüber für den Mann, fand aber keines, das unter den Tieren passend war, und machte stattdessen die Frau aus ihm. Der Mann war voller Freude und nannte sie „Frau“; Gott hatte sie „Hilfe“ genannt — das hebräische Wort, *ezer*, ist dasselbe, das die Psalmen für Gottes eigene Hilfe verwenden ({{% bible val="Psalm 121,1–2" link="psa:121,1-2" lang="de" %}}), sodass „Lebensretterin“ seinem Sinn näherkommt als „Gehilfin“. Und genau dort beginnt der Sündenfall: Von da an braucht es nur noch einen Auslöser — und die Gestalt einer Schlange.
 
 ## Der Auslöser
 

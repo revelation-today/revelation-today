@@ -20,7 +20,7 @@ Kitab Wahyu penuh dengan gambaran-gambaran yang tampak sepenuhnya berasal dari d
 <a name="1d9a"></a>
 Tidak ada jawaban tunggal yang sederhana dan berlaku untuk semua kasus mengenai apakah sesuatu dalam Alkitab itu simbolis, harfiah, atau keduanya sekaligus.
 
-Sesuatu bisa bersifat simbolis sekaligus benar-benar terjadi dalam kenyataan — sungai Nil yang berubah menjadi darah, misalnya, merujuk pada {{% bible val="pembunuhan simbolis atas dewa sungai Nil, sementara air itu sendiri benar-benar berubah menjadi merah seperti darah" link="exo:7,14-24" lang="ind" %}}. Sebuah fakta harfiah juga bisa menjadi simbol tersendiri: kedua belas anak Yakub yang sesungguhnya, yang membentuk dua belas suku yang dipilih Allah, kemudian menjadi simbol abadi dari keadaan terpilih itu sendiri. Dengan fleksibilitas ini dalam pikiran, artikel ini akan melihat bagaimana cara membaca dan menafsirkan Kitab Wahyu.
+Sesuatu bisa bersifat simbolis sekaligus benar-benar terjadi dalam kenyataan — sungai Nil yang berubah menjadi darah, misalnya, merujuk pada {{% bible val="pembunuhan simbolis atas dewa sungai Nil, sementara air itu sendiri benar-benar berubah menjadi darah" link="exo:7,14-24" lang="ind" %}}. Sebuah fakta harfiah juga bisa menjadi simbol tersendiri: kedua belas anak Yakub yang sesungguhnya, yang membentuk dua belas suku yang dipilih Allah, kemudian menjadi simbol abadi dari keadaan terpilih itu sendiri. Dengan fleksibilitas ini dalam pikiran, artikel ini akan melihat bagaimana cara membaca dan menafsirkan Kitab Wahyu.
 
 ## Fokus Kitab Ini
 
@@ -52,7 +52,7 @@ Pembukaan Kitab Wahyu sendiri, "untuk menunjukkan ... apa yang harus segera terj
 
 Pengantar yang menyusul surat-surat itu menggunakan rumusan yang sama lagi: "{{% bible val="Aku akan menunjukkan kepadamu apa yang harus terjadi sesudah ini" link="rev:4,1" lang="ind" %}}."
 
-Semua ini mencerminkan pembukaan penglihatan Daniel — "{{% bible val="telah menunjukkan kepada raja apa yang akan terjadi di masa depan" link="dan:2,45" lang="ind" %}}" — sementara penutup penglihatan Kitab Wahyu sangat mendekati akhir penglihatan Daniel: "{{% bible val="untuk menunjukkan kepada hamba-hamba-Nya apa yang harus segera terjadi" link="rev:22,6" lang="ind" %}}."
+Semua ini mencerminkan pembukaan penglihatan Daniel — "{{% bible val="telah menunjukkan kepada Raja Nebukadnezar apa yang akan terjadi pada hari-hari yang akan datang" link="dan:2,28-29" lang="ind" %}}" — sementara penutup penglihatan Kitab Wahyu sama dekatnya dengan akhir penglihatan Daniel, "{{% bible val="Allah yang besar telah menunjukkan kepada raja apa yang akan terjadi di masa depan" link="dan:2,45" lang="ind" %}}": "{{% bible val="untuk menunjukkan kepada hamba-hamba-Nya apa yang harus segera terjadi" link="rev:22,6" lang="ind" %}}."
 
 Dalam terjemahan bahasa Indonesia, kesejajaran ini mungkin tampak agak samar, tetapi menjadi jauh lebih jelas begitu kita membandingkan langsung teks Yunani terjemahan Septuaginta Daniel dengan teks Yunani Kitab Wahyu.
 
@@ -79,7 +79,7 @@ Kata benda yang terkait sering digunakan untuk mukjizat-mukjizat Yesus sebagai t
 - Kata ini menandai {{% bible val="kuasa-Nya untuk memberikan kehidupan rohani" link="jhn:4,46-54" lang="ind" %}}, sekaligus {{% bible val="kebangkitan rohani" link="jhn:5,19-29" lang="ind" %}}.
 - {{% bible val="Pemberian makan kepada 5000 orang" link="jhn:6,5-14" lang="ind" %}} menunjukkan kuasa Yesus untuk memberikan makanan rohani.
 
-Kata *semaino* juga bisa sekadar berarti "menyatakan" atau "mengumumkan," tetapi jika Yohanes ingin menekankan makna itu di sini, ia memiliki kata yang lebih wajar untuk itu — *gnorizo* — dan ia memilih untuk tidak menggunakannya.
+Kata *semaino* juga bisa sekadar berarti "menyatakan" atau "mengumumkan," tetapi jika Yohanes ingin menekankan makna itu di sini, ia memiliki kata yang lebih wajar untuk itu — *gnorizo* — dan ia memilih untuk tidak menggunakannya.[^gnorizo]
 
 ## [deiknumi](https://biblehub.com/greek/1166.htm)
 
@@ -111,3 +111,5 @@ Dan memang, kitab ini penuh dengan hal-hal yang jelas-jelas simbolis: anak domba
 [^daniel]: "Sesudah ini" adalah rumusan Dan. 2:29, 45 dalam terjemahan Yunani Theodotion; Yohanes memakainya lagi dalam 4:1. Lihat Beale, hlm. 137–139, 152–159.
 [^signs]: Beale, hlm. 50–52.
 [^levels]: Beale, hlm. 53, membedakan apa yang dilihat Yohanes (penglihatan), apa yang ditunjuknya dalam sejarah, dan apa artinya. Menentang aturan sebaliknya, "harfiah kecuali jelas simbolis", lihat hlm. 52–55; contohnya adalah hujan es pada sangkakala pertama (hlm. 54).
+
+[^gnorizo]: Beale, hlm. 51.

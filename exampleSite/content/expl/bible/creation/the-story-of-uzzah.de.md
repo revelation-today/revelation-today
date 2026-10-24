@@ -27,11 +27,11 @@ David ist darüber erschüttert, und es dauert drei Monate, bis er es erneut ver
 
 Um das zu verstehen, müssen wir in der Geschichte etwas weiter zurückgehen. Als Gott die Anweisungen für die Bundeslade und das Heiligtum gab, war er sehr klar darüber, wie sie transportiert werden sollte — schon in den Tagen des Exodus, als das Zelt ständig unterwegs war.
 
-Die innersten Ausstattungsstücke durften nur von den Leviten getragen werden, die zu diesem Zweck stellvertretend für ganz Israel geweiht waren. Die Bundeslade war der Ort, an dem Gott wohnte, und er hatte kein Interesse daran, von einem Tier herumgeschleppt zu werden — er wollte auf der Reise in körperlichem Kontakt mit seinem geliebten Volk bleiben.
+Die innersten Ausstattungsstücke durften nur von den Leviten getragen werden, die zu diesem Zweck stellvertretend für ganz Israel geweiht waren ({{% bible val="4. Mose 4,4–15" link="num:4,4-15" lang="de" %}}). Die Bundeslade war der Ort, an dem Gott wohnte, und er hatte kein Interesse daran, von einem Tier herumgeschleppt zu werden — er wollte auf der Reise in körperlichem Kontakt mit seinem geliebten Volk bleiben.
 
 Als die Bundeslade aus dem Gebiet der Philister zurückkam, konnte man den Philistern noch nachsehen, dass sie es nicht besser wussten und sie auf einen Wagen setzten. Israel hatte diese Entschuldigung nicht, und Usa am allerwenigsten — die Bundeslade hatte etwa 20 Jahre lang im Haus seines Vaters gestanden.
 
-Gott, so scheint es, wollte aus dieser Ordnung ausbrechen, indem er die Bundeslade vom Wagen rutschen ließ. Usa hielt ihn davon ab, und Gott bestrafte ihn dafür.
+Der Text nennt selbst die Gründe. Die heiligen Dinge zu berühren bedeutete den Tod ({{% bible val="4. Mose 4,15" link="num:4,15" lang="de" %}}); David räumt später ein, dass Israel nicht {{% bible val="bei Gott danach gefragt hatte, wie die Lade zu tragen sei" link="1ch:15,13-15" lang="de" %}}; und das zweite Buch Samuel sagt, Gott habe Usa {{% bible val="für seinen Fehler" link="2sa:6,7" lang="de" %}} erschlagen. Diese Seite fügt einen Gedanken hinzu, den der Text nicht ausspricht: dass Gott sich nicht damit zufriedengab, auf einem Wagen zu reisen, und dass der Augenblick, in dem die Lade ins Rutschen kam, das deutlich machte.
 
 ## Und heute?
 

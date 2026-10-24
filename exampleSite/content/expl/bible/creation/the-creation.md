@@ -44,7 +44,7 @@ The man had complete freedom except for one restriction: he was not to eat from 
 
 He had everything else — a task to cultivate and protect the garden, creative ownership expressed in naming the animals (and so giving them identity), and an intimate relationship with God. But one thing was still missing, the one thing God does not call good: he was alone.
 
-God himself exists in relationship and is defined by it — God is love, and love only makes sense in relationship — so he looked for a counterpart for the man, found none suitable among the animals, and made the woman out of him instead. The man was delighted and named her "woman"; God had called her "helper" — a word better translated "life-saver." And that is exactly where the fall begins: all it takes from there is a tipping point, and the shape of a serpent.
+God himself exists in relationship and is defined by it — God is love, and love only makes sense in relationship — so he looked for a counterpart for the man, found none suitable among the animals, and made the woman out of him instead. The man was delighted and named her "woman"; God had called her "helper" — the Hebrew word, *ezer*, is the one the Psalms use for God's own help ({{% bible val="Psalm 121:1–2" link="psa:121,1-2" lang="en" %}}), so "life-saver" is nearer to its sense than "assistant." And that is exactly where the fall begins: all it takes from there is a tipping point, and the shape of a serpent.
 
 ## The tipping stone
 

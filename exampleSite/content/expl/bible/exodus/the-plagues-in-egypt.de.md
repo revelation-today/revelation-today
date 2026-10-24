@@ -119,7 +119,7 @@ Hier wird es ernst: {{% bible val="Gott schlägt mit der vollen Wucht zu, die er
 <a name="ae09"></a>
 Die {{% bible val="Heuschrecken kommen und vernichten alles, was der Hagel übrig gelassen hatte" link="exo:10,5" lang="de" %}}. Diesmal {{% bible val="flehen die eigenen Beamten des Pharao ihn an, zu tun, was Mose verlangt" link="exo:10,7" lang="de" %}} — aber er weigert sich weiterhin, das Volk ziehen zu lassen, selbst als {{% bible val="die Plagen andauern und der Pharao seine Sünde eingesteht" link="exo:10,16-17" lang="de" %}}.
 
-Die Ägypter waren bereits durch den Hagel bloßgestellt worden, denn es gab einen Gott, dessen einzige Aufgabe der Schutz vor Heuschrecken war, dazu spezielle Heuschreckenamulette mit demselben Zweck — nichts davon hatte funktioniert.[^locust]
+Ägypten hatte sogar einen Gott, dessen einzige Aufgabe der Schutz vor Heuschrecken war, dazu spezielle Heuschreckenamulette mit demselben Zweck — nichts davon hatte funktioniert.[^locust]
 
 ## {{% bible val="9, Finsternis" link="exo:10,21-29" lang="de" %}}
 

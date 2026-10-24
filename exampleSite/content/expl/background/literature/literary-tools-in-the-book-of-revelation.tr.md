@@ -126,7 +126,7 @@ Paralel örüntüler, a-b-c-a'-b'-c' gibi bir şema izler; burada her x', karş�
 
 Bazı kısımlar örüntüye hiç uymayabilir — sonda sarkabilirler (a-b-c-a'-b'-c', d), ortada oturabilirler (a-b-c-d-a'-b'-c') ya da daha nadiren başta görünebilirler (d-a-b-c-a'-b'-c').
 
-Paralel örüntüleri fark etmek her zaman kolay değildir, ama fark edildiğinde gerçek bir beklenti ve tatmin duygusu yaratırlar. Aynı etkiyi Üç Küçük Domuz gibi masallarda da görürüz: ikinci evde örüntüyü öğrendiğimizi düşünürüz, sonra yazar üçüncü evde bizi şaşırtarak dersi verir.
+Paralel örüntüleri fark etmek her zaman kolay değildir, ama fark edildiğinde gerçek bir beklenti ve tatmin duygusu yaratırlar. Aynı etkiyi Üç Küçük Domuz gibi masallarda da görürüz: ikinci evde örüntüyü öğrendiğimizi düşünürüz, sonra yazar üçüncü evde bizi zıt bir sonuçla şaşırtabilir.
 
 Bir paralel örüntü:
 
@@ -138,10 +138,10 @@ Bir paralel örüntü:
 - a: Yunus'un **görevlendirilmesi** ve *itaatsizliği* (1/1–3)
 	- b: Yunus ve *pagan denizciler*: **YHWH merhametlidir** (1/4–16)
 		- c: **Yunus'un YHWH'nin merhametine tepkisi**: *övgü* (1/17–2/10)
-- a': Yunus'un **yeniden görevlendirilmesi** ve *itaati* (3/1–3a)
-	- b': Yunus ve *pagan Ninovalılar*: **YHWH merhametlidir** (3/3b-10)
-		- c': **Yunus'un YHWH'nin merhametine tepkisi**: *kızgınlık* (4/1–4)
-- d: YHWH'nin dersi (4/5–11)
+- a': Yunus'un **yeniden görevlendirilmesi** ve *itaati* (3:1–3a)
+	- b': Yunus ve *pagan Ninovalılar*: **YHWH merhametlidir** (3:3b–10)
+		- c': **Yunus'un YHWH'nin merhametine tepkisi**: *kızgınlık* (4:1–4)
+- d: YHWH'nin dersi (4:5–11)
 
 Bu yapı, Yunus'un ilk duasının ikiyüzlü, ikincisinin ise bencilce olduğu izlenimini bırakır — öykünün hiçbir zaman açıkça dile getirmediği, ama tamamen kendi düzenlemesi aracılığıyla, hiç ahlak dersi vermeden ilettiği bir yargı.
 
@@ -155,7 +155,7 @@ Bunlar a-b-b'-a' gibi bir örüntü izler; örneğin "açık/kapalı" fikri üze
 	- b': o kapatacak
 - a': ve kimse açmayacak
 
-İzlendiğinde, bu bir X'in — Yunanca Ki harfinin — sol yarısını oluşturur; bu yüzden bu tür bir örüntüye kiazm denir.
+Eşleşen satırları birleştirdiğinizde (a ile a', b ile b') bir X'te — Yunanca Ki harfinde — kesişirler; bu yüzden bu tür bir örüntüye kiazm denir.
 
 Aynı teknik, İncil'in koca kitaplarını da biçimlendirebilir; örneğin {{% bible val="Hak 3:7–16:31" link="jdg:3,7-16,31" lang="tr" %}}. Burada da **kalın yazı** tekrarlayan bir temayı, *italik yazı* ise onun eşleşen karşılığını işaret eder; böylece dış birimlerin merkezi dönüm noktasının çevresinde birbirine nasıl karşılık verdiğini görebilirsiniz:
 

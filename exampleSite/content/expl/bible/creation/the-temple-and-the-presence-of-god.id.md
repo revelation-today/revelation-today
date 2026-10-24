@@ -34,7 +34,7 @@ Para pembangun di Babel ingin membuat nama bagi diri mereka sendiri, tetapi seba
 <a name="5add"></a>
 Allah tetap merindukan hubungan dengan manusia. Maka ketika Ia membawa Israel keluar dari Mesir (Keluaran 1–14), Ia memilih untuk hidup bersama mereka menurut syarat-syarat mereka sendiri, dengan bergabung bersama mereka mula-mula di dalam sebuah kemah dan kemudian di dalam sebuah rumah — bait Allah.
 
-Bait Allah itu dipenuhi dengan citra yang dipinjam dari Taman Eden, mencerminkan sebuah logika sederhana: karena manusia tidak lagi dapat bersekutu dengan Allah di taman, maka Allah sebaliknya akan bersekutu dengan manusia di dalam bait-Nya. Dan sejak awal, bait Allah itu dimaksudkan agar orang-orang bukan Israel pun dapat turut ambil bagian di dalamnya.
+Bait Allah itu dipenuhi dengan citra yang dipinjam dari Taman Eden, mencerminkan sebuah logika sederhana: karena manusia tidak lagi dapat bersekutu dengan Allah di taman, maka Allah sebaliknya akan bersekutu dengan manusia di dalam bait-Nya. Dan sejak awal, bait Allah itu dimaksudkan agar orang-orang bukan Israel pun dapat turut ambil bagian di dalamnya: Salomo berdoa agar Allah mendengarkan orang asing yang datang berdoa menghadap rumah ini ({{% bible val="1Raj 8:41–43" link="1ki:8,41-43" lang="ind" %}}), dan Yesaya menyebutnya {{% bible val="rumah doa bagi segala bangsa" link="isa:56,7" lang="ind" %}}.
 
 Bagian terdalam dari bait Allah adalah tempat mahakudus, yang hanya boleh dimasuki oleh imam besar, dan hanya sekali setahun, pada Hari Pendamaian. Di sinilah kehadiran Allah berdiam; sebelumnya, di Kemah Suci, Allah berbicara dengan Musa dari atas tabut (Kel 25:22).
 

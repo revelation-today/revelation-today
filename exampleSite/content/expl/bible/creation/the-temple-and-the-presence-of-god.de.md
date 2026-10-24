@@ -37,7 +37,7 @@ Die Erbauer von Babel wollten sich selbst einen Namen machen, doch stattdessen {
 <a name="5add"></a>
 Gott sehnte sich immer noch nach Gemeinschaft mit den Menschen. Als er also Israel aus Ägypten herausführte (2. Mose 1–14), entschied er sich, mit ihnen zu ihren eigenen Bedingungen zu leben, indem er sich ihnen zunächst in einem Zelt und später in einem Haus — dem Tempel — anschloss.
 
-Der Tempel war mit Bildsprache aus dem Garten Eden überzogen, was einer einfachen Logik folgte: Da der Mensch nicht mehr im Garten Gemeinschaft mit Gott haben konnte, würde Gott stattdessen im Tempel Gemeinschaft mit dem Menschen haben. Und der Tempel war von Anfang an dazu bestimmt, auch Nichtisraeliten teilhaben zu lassen.
+Der Tempel war mit Bildsprache aus dem Garten Eden überzogen, was einer einfachen Logik folgte: Da der Mensch nicht mehr im Garten Gemeinschaft mit Gott haben konnte, würde Gott stattdessen im Tempel Gemeinschaft mit dem Menschen haben. Und der Tempel war von Anfang an dazu bestimmt, auch Nichtisraeliten teilhaben zu lassen: Salomo bittet, dass Gott den Fremden erhört, der zu diesem Haus hin betet ({{% bible val="1. Könige 8,41–43" link="1ki:8,41-43" lang="de" %}}), und Jesaja nennt es {{% bible val="ein Haus des Gebets für alle Völker" link="isa:56,7" lang="de" %}}.
 
 Der innerste Teil des Tempels war das Allerheiligste, das nur der Hohepriester betreten durfte, und das auch nur einmal im Jahr, am Versöhnungstag. Hier wohnte Gottes Gegenwart; schon in der Stiftshütte hatte Gott von der Lade her mit Mose gesprochen (2. Mose 25,22).
 

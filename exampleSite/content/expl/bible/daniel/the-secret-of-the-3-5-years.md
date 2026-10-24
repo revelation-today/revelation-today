@@ -55,7 +55,7 @@ After that intervention on Jezebel's home turf comes the {{% bible val="great po
 ## The year week in Daniel
 
 <a name="96cb"></a>
-Daniel gives us the {{% int_link val="70 weeks, which resolve into two half-weeks of 3.5 years each" link="/expl/bible/daniel/the-70-year-weeks" %}}. The first half-week covers Jesus' time on earth, and the second, perhaps, the work of the church. Jesus' covenant is itself {{% bible val="described as being established within this week" link="dan:9,27" lang="en" %}}.
+Daniel gives us the {{% int_link val="70 weeks, whose last week divides into two half-weeks of 3.5 years each" link="/expl/bible/daniel/the-70-year-weeks" %}}. The first half-week covers Jesus' time on earth, and the second, perhaps, the work of the church. Jesus' covenant is itself {{% bible val="described as being established within this week" link="dan:9,27" lang="en" %}}.
 
 These 3.5 years, then, are the period in which God is quietly building something that will overthrow the kingdoms of this world.
 
@@ -69,6 +69,8 @@ At the same time, the woman is {{% bible val="protected from the devil’s attac
 Then there is {{% bible val="the temple" link="rev:11,1-2" lang="en" %}}, no longer used for sacrifices but as a place of worship. That, too, begins with the death of Jesus, and there's no indication it will end before he returns.
 
 That leaves the {{% bible val="1260 days of the two witnesses" link="rev:11,3" lang="en" %}}, which must span the whole time between Jesus' first and second coming.[^whole] That length alone suggests the "witnesses" aren't really two individuals but most likely the Church.
+
+That also answers the second question: for Revelation these are not meant as an exact count of 1,260 days — each of them runs from the cross to the return — but as the name of the whole period, shaped by Daniel's half-week and Elijah's drought.
 
 So why does the text switch units — days here, months there? For two of them Richard Bauckham has shown the reason: 42 months marks the beast's time, 1260 days the church's — and the two numbers belong to 36, the root of the beast's 666, and to 1225, the number of the people of God (Bauckham, *Climax of Prophecy*, pp. 400–402; see {{% int_link val="numbers with shapes" link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#6395" %}}). So the days mark the testimony of the witnesses and the provision for Israel, and the months mark the devil's reign and the trampling of the temple's outer court. The third unit, the "times" or years, I read as God's hidden work — that one is my own observation, not something the commentaries carry.[^units] What the parallel does make clear is this: the devil's rule and the Church's God-given rule run side by side, and even though the world looks as though the devil is in charge, the Church remains the one truly in charge.
 

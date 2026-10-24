@@ -32,7 +32,7 @@ The builders at Babel wanted to make a name for themselves, but instead {{% bibl
 
 God still longed to be in relationship with people. So when he brought Israel out of Egypt (Exodus 1–14), he chose to live with them on their own terms, joining them first in a tent and later in a house — the temple.
 
-The temple was covered with imagery borrowed from the Garden of Eden, reflecting a simple logic: since man could no longer have fellowship with God in the garden, God would instead have fellowship with man in the temple. And the temple was intended from the start to allow non-Israelites to take part as well.
+The temple was covered with imagery borrowed from the Garden of Eden, reflecting a simple logic: since man could no longer have fellowship with God in the garden, God would instead have fellowship with man in the temple. And the temple was intended from the start to allow non-Israelites to take part as well: Solomon prays that God would hear the foreigner who comes to pray toward this house ({{% bible val="1 Kgs 8:41–43" link="1ki:8,41-43" lang="en" %}}), and Isaiah calls it {{% bible val="a house of prayer for all peoples" link="isa:56,7" lang="en" %}}.
 
 The innermost part of the temple was the Holy of Holies, which only the High Priest could enter, and only once a year, on the Day of Atonement. This was where God's presence dwelt; in the tabernacle before it, God had spoken with Moses from above the ark (Exod 25:22).
 

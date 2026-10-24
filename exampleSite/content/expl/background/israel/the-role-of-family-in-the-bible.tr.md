@@ -22,11 +22,11 @@ Antik dünyada bir yere ait olmak, bir aileye ait olmak demekti — ve Kutsal Ki
 ## Ailenin önemi
 
 <a name="524d"></a>
-Antik dünyada gerçek bir hukuk sistemi, sigorta ya da sosyal güvenlik ağı yoktu. Her şey doğduğunuz aile üzerinden yürürdü. Aile, klan içinde (o ailenin ne kadar önemli olduğuna göre ağırlıklandırılmış) kararlar alır, klan kabile içinde, kabile de ulus içinde işlerdi.
+Antik dünyada devlet yardımı, polis gücü ve sigorta yoktu. Hukuk vardı — Hammurabi yasaları, Tevrat, kapıdaki yaşlılar — ama geri kalan her şey doğduğunuz aile üzerinden yürürdü. Aile, klan içinde (o ailenin ne kadar önemli olduğuna göre ağırlıklandırılmış) kararlar alır, klan kabile içinde, kabile de ulus içinde işlerdi.
 
 Toplum aşağıdan yukarıya, en küçük birim olarak aile üzerine kurulmuştu. Bu yüzden yalnızca bir aileye ait olmanız değil, hangi aileye ait olduğunuz, o ailede hangi rolü oynadığınız, cinsiyetiniz ve doğum sıranız da son derece önemliydi.
 
-Kutsal Kitap bu sistemi keskin biçimde eleştirir, çünkü bu sistem arkasında ailesi olmayan herkesi — dulları, yetimleri ve zayıf konumdaki aileleri — açıkça güvencesiz bırakıyordu. Kutsal Kitap'ın Tanrı'yı defalarca [dulların](https://www.bibleserver.com/search/NIV/widows) ve yetimlerin savunucusu olarak öne çıkarmasının, hatta onlara bakmayı {{% bible val="imanın temel bir unsuru" link="jas:1,27" lang="tr" %}} hâline getirmesinin nedeni budur.
+Kutsal Kitap bu sistemi başlı başına reddetmez, ama bıraktığı boşlukları keskin biçimde eleştirir: arkasında ailesi olmayan herkes — dullar, yetimler ve zayıf konumdaki aileler — güvencesiz kalıyordu. Kutsal Kitap'ın Tanrı'yı defalarca [dulların](https://www.bibleserver.com/search/NIV/widows) ve yetimlerin savunucusu olarak öne çıkarmasının, hatta onlara bakmayı {{% bible val="imanın temel bir unsuru" link="jas:1,27" lang="tr" %}} hâline getirmesinin nedeni budur.
 
 Tanrı'nın ayrıca önemli kişileri — hem de kralları — tam olarak kültürün göz ardı edeceği ailelerden seçme alışkanlığı vardır:
 

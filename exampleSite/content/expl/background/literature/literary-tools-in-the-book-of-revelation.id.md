@@ -126,7 +126,7 @@ Pola paralel mengikuti skema seperti a-b-c-a'-b'-c', di mana setiap x' memiliki 
 
 Beberapa bagian mungkin sama sekali tidak sesuai dengan pola — bagian itu bisa muncul di akhir (a-b-c-a'-b'-c', d), berada di tengah (a-b-c-d-a'-b'-c'), atau, lebih jarang, muncul di awal (d-a-b-c-a'-b'-c').
 
-Pola paralel tidak selalu mudah dikenali, tetapi menciptakan rasa antisipasi dan kepuasan yang nyata begitu dikenali. Kita melihat efek yang sama dalam dongeng-dongeng seperti Tiga Babi Kecil: pada rumah kedua kita mengira sudah mempelajari polanya, dan pengarang kemudian dapat mengejutkan kita pada rumah ketiga, tempat ia menyampaikan pelajarannya.
+Pola paralel tidak selalu mudah dikenali, tetapi menciptakan rasa antisipasi dan kepuasan yang nyata begitu dikenali. Kita melihat efek yang sama dalam dongeng-dongeng seperti Tiga Babi Kecil: pada rumah kedua kita mengira sudah mempelajari polanya, dan pengarang kemudian dapat mengejutkan kita pada rumah ketiga dengan hasil yang berlawanan.
 
 Sebuah pola paralel:
 
@@ -138,10 +138,10 @@ Ambil Yunus sebagai contoh. Dalam tabel-tabel di bawah ini, **tebal** menandai s
 - a: **tugas** Yunus dan *ketidaktaatannya* (1/1–3)
 	- b: Yunus dan *para pelaut kafir*: **TUHAN itu murah hati** (1/4–16)
 		- c: **tanggapan Yunus atas belas kasihan TUHAN**: *puji-pujian* (1/17–2/10)
-- a': **penugasan kembali** Yunus dan *ketaatannya* (3/1–3a)
-	- b': Yunus dan *orang-orang Niniwe yang kafir*: **TUHAN itu murah hati** (3/3b-10)
-		- c': **tanggapan Yunus atas belas kasihan TUHAN**: *kejengkelan* (4/1–4)
-- d: pelajaran dari TUHAN (4/5–11)
+- a': **penugasan kembali** Yunus dan *ketaatannya* (3:1–3a)
+	- b': Yunus dan *orang-orang Niniwe yang kafir*: **TUHAN itu murah hati** (3:3b–10)
+		- c': **tanggapan Yunus atas belas kasihan TUHAN**: *kejengkelan* (4:1–4)
+- d: pelajaran dari TUHAN (4:5–11)
 
 Struktur ini meninggalkan kesan bahwa doa Yunus yang pertama bersifat munafik dan doa keduanya bersifat egois — sebuah penilaian yang tidak pernah dinyatakan secara langsung oleh kisah ini, tetapi disampaikan sepenuhnya melalui susunannya sendiri, tanpa pernah bersifat menggurui.
 
@@ -155,7 +155,7 @@ Pola ini mengikuti skema seperti a-b-b'-a', seperti dalam {{% bible val="Yes 22:
 	- b': ia akan menutup
 - a': dan tidak seorang pun akan membuka
 
-Jika digambarkan, pola ini membentuk separuh kiri dari huruf X — huruf Yunani Chi — itulah sebabnya pola semacam ini disebut kiasme (chiasmus).
+Jika garis-garis yang berpasangan dihubungkan (a dengan a', b dengan b'), garis-garis itu bersilangan membentuk huruf X — huruf Yunani Chi — itulah sebabnya pola semacam ini disebut kiasme (chiasmus).
 
 Teknik yang sama dapat membentuk seluruh kitab dalam Alkitab, seperti dalam {{% bible val="Hak 3:7–16:31" link="jdg:3,7-16,31" lang="ind" %}}. Di sini juga, **tebal** menandai satu tema yang berulang dan *miring* menandai pasangannya, sehingga Anda dapat melihat bagaimana satuan-satuan luar saling menjawab di sekitar titik balik pusatnya:
 

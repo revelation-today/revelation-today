@@ -44,7 +44,7 @@ Laki-laki itu memiliki kebebasan penuh, kecuali satu larangan: ia tidak boleh ma
 
 Ia memiliki segala hal lainnya — sebuah tugas untuk mengolah dan menjaga taman itu, kepemilikan kreatif yang diwujudkan dengan memberi nama kepada binatang-binatang (dan dengan demikian memberi mereka identitas), serta hubungan yang akrab dengan Allah. Tetapi satu hal masih kurang, satu-satunya hal yang tidak disebut baik oleh Allah: ia sendirian.
 
-Allah sendiri hidup dalam relasi dan didefinisikan olehnya — Allah adalah kasih, dan kasih hanya bermakna dalam relasi — maka Ia mencari padanan bagi laki-laki itu, tidak menemukan yang cocok di antara binatang-binatang, dan sebagai gantinya menciptakan perempuan dari dirinya. Laki-laki itu bersukacita dan menamainya "perempuan"; Allah telah menyebutnya "penolong" — sebuah kata yang lebih tepat diterjemahkan "penyelamat hidup." Dan di situlah tepatnya kejatuhan itu dimulai: yang dibutuhkan sejak itu hanyalah satu titik balik, dan wujud seekor ular.
+Allah sendiri hidup dalam relasi dan didefinisikan olehnya — Allah adalah kasih, dan kasih hanya bermakna dalam relasi — maka Ia mencari padanan bagi laki-laki itu, tidak menemukan yang cocok di antara binatang-binatang, dan sebagai gantinya menciptakan perempuan dari dirinya. Laki-laki itu bersukacita dan menamainya "perempuan"; Allah telah menyebutnya "penolong" — kata Ibraninya, *ezer*, adalah kata yang sama yang dipakai Mazmur untuk pertolongan Allah sendiri ({{% bible val="Mazmur 121:1–2" link="psa:121,1-2" lang="ind" %}}), sehingga "penyelamat hidup" lebih dekat pada maknanya daripada "pembantu." Dan di situlah tepatnya kejatuhan itu dimulai: yang dibutuhkan sejak itu hanyalah satu titik balik, dan wujud seekor ular.
 
 ## Dorongan Terakhir
 

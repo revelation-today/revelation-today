@@ -27,11 +27,11 @@ David is shaken by this, and it takes him three months before he tries again —
 
 To make sense of this, we need to go back a bit further in the story. When God gave instructions for the ark and the sanctuary, he was very clear about how it should be transported, back in the days of the Exodus, when the tent was constantly on the move.
 
-The innermost furnishings were to be carried only by the Levites, consecrated for this purpose on behalf of all Israel. The ark was where God lived, and he had no interest in being hauled around by an animal — he wanted to stay in physical contact, on the journey, with his own beloved people.
+The innermost furnishings were to be carried only by the Levites, consecrated for this purpose on behalf of all Israel ({{% bible val="Num 4:4–15" link="num:4,4-15" lang="en" %}}). The ark was where God lived, and he had no interest in being hauled around by an animal — he wanted to stay in physical contact, on the journey, with his own beloved people.
 
 By the time the ark came back from Philistine territory, the Philistines could be forgiven for not knowing better and setting it on a cart. Israel had no such excuse, and Uzzah least of all — the ark had sat at his father's house for roughly 20 years.
 
-God, it seems, wanted to break out of this arrangement by letting the ark slide off the cart. Uzzah stopped him, and God punished him for it.
+The text gives its own reasons. Touching the holy things meant death ({{% bible val="Num 4:15" link="num:4,15" lang="en" %}}); David later admits that Israel had not {{% bible val="sought God about how to carry the ark" link="1ch:15,13-15" lang="en" %}}; and Second Samuel says God struck Uzzah down {{% bible val="for his error" link="2sa:6,7" lang="en" %}}. This page adds a thought of its own, which the text does not state: that God was not content to travel on a cart, and that the moment the ark slipped made this plain.
 
 ## And today?
 

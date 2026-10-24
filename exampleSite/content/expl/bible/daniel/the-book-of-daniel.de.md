@@ -63,7 +63,7 @@ Dieses Muster legt nahe, dass diese sechs Kapitel das Zentrum des Buches bilden,
 
 {{% bible val="Dan 11,1–35" link="dan:11,1-35" lang="de" %}} ist ein Abschnitt, in dem sich die Kommentatoren weitgehend einig sind, weil sein Bezug zu den Geschichtsbüchern zu stark ist, um ihn zu leugnen: Er zeichnet die Zeit von den persischen Königen zu Daniels eigener Zeit bis zur jüdischen Antichrist-Gestalt, Antiochus IV. Epiphanes, nach.
 
-{{% bible val="Dan 11,36–45" link="dan:11,36-45" lang="de" %}} scheint nahtlos an den vorherigen Abschnitt anzuknüpfen, hat aber tatsächlich keinen klaren Bezug zu historischen Ereignissen.[^v36] Stattdessen beschreibt er die Mächte und Potenziale hinter dieser Art von König und Königtum im Allgemeinen, ähnlich wie {{% bible val="Tyrus" link="ezk:28,13-17" lang="de" %}} anderswo eher als Typus denn als strikte historische Referenz verwendet wird.
+{{% bible val="Dan 11,36–45" link="dan:11,36-45" lang="de" %}} scheint nahtlos an den vorherigen Abschnitt anzuknüpfen, aber die Einzelheiten passen zu keinen bekannten Ereignissen: Viele Ausleger lesen es weiterhin als Fortsetzung von Antiochus, doch es entspricht nicht dem, was in den 160er Jahren v. Chr. geschah.[^v36] Stattdessen beschreibt er die Mächte und Potenziale hinter dieser Art von König und Königtum im Allgemeinen, ähnlich wie {{% bible val="Tyrus" link="ezk:28,13-17" lang="de" %}} anderswo eher als Typus denn als strikte historische Referenz verwendet wird.
 
 {{% bible val="Dan.12" link="dan:12" lang="de" %}} schließt das Buch mit einer Ermutigung an die Heiligen ab, all das durchzuhalten.
 

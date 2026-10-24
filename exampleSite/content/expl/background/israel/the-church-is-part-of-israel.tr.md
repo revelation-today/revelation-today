@@ -108,7 +108,7 @@ Titus'a bakalım: "{{% bible val="Mesih bizi her suçtan kurtarmak, arıtıp ken
 
 Tanrı İsrail'i kendi {{% bible val="öz değerli mülkü olarak adlandırır" link="exo:19,5" lang="tr" %}}, çünkü {{% bible val="İsrail'i seçmiştir" link="deu:7,6" lang="tr" %}}; onu {{% bible val="pak olması için" link="deu:14,2" lang="tr" %}} seçmiştir, öyle ki {{% bible val="İsrail O'nun buyruklarını yerine getirsin" link="deu:26,18" lang="tr" %}}.
 
-"İyi olanı yapmaya istekli" ifadesi, İsrail'in Tanrı'ya itaat etmesi için bir çağrıdır ve "her türlü kötülükten kurtarılmış" ifadesi, {{% bible val="İsrail'e her türlü kötülükten kurtuluş vaat edilen Mezmurlar'ı" link="psa:130,8" lang="tr" %}} yankılar.
+Bu Eski Antlaşma pasajlarının her birinde unvan, İsrail'in itaatine bağlıdır ve Pavlus'un kapanış ifadesi, "iyi olanı yapmaya istekli", bunu kilise için özetler. "Her türlü kötülükten kurtarılmış" ifadesi, {{% bible val="İsrail'e her türlü kötülükten kurtuluş vaat edilen Mezmurlar'ı" link="psa:130,8" lang="tr" %}} yankılar; Pavlus bu vaadin kilisede gerçekleşmeye başladığını görür.[^titus]
 
 ## Bakanlık
 
@@ -127,7 +127,7 @@ Ruh'un dökülüşüyle ilgili {{% bible val="Yoel'in peygamberlik sözünün" l
 
 Yoel'in peygamberlik sözü, {{% bible val="18. ayetten" link="jol:2,18" lang="tr" %}} itibaren İsrail'in restorasyonunu anlatır, özellikle de {{% bible val="hemen ardından gelen ve açıkça İsrail'e atıfta bulunan ayeti" link="jol:3,1" lang="tr" %}}. Dahası, Ruh'un dökülmesi {{% bible val="İsrail'e" link="ezk:36,27" lang="tr" %}} ve {{% bible val="hizmetkâra" link="isa:42,1" lang="tr" %}} vaat edilmiştir; uluslar bu vaade onun aracılığıyla girer.[^spirit]
 
-Bu dökülme {{% bible val="son günlerde" link="act:2,16-17" lang="tr" %}} gerçekleşecekti; bu ifade tam olarak bu anlamda {{% bible val="Yeşaya'da" link="isa:2,2" lang="tr" %}} ve aynı bildiride Mika 4:1'de, ulusların Yeruşalim'e akın etmesini anlatırken kullanılır. Pentikost'ta {{% bible val="sayılan uluslar" link="act:2,5-11" lang="tr" %}}, {{% bible val="Babil Kulesi'nden dağılan listenin daha küçük bir versiyonudur" link="gen:10" lang="tr" %}}; bu da burada olanın tüm uluslara uygulanmak üzere tasarlandığını gösterir.
+Bu dökülme {{% bible val="son günlerde" link="act:2,16-17" lang="tr" %}} gerçekleşecekti; bu ifade tam olarak bu anlamda {{% bible val="Yeşaya'da" link="isa:2,2" lang="tr" %}} ve aynı bildiride Mika 4:1'de, ulusların Yeruşalim'e akın etmesini anlatırken kullanılır. Pentikost'ta {{% bible val="sayılan uluslar" link="act:2,5-11" lang="tr" %}}, {{% bible val="yetmiş ulusun kısaltılmış bir listesidir" link="gen:10" lang="tr" %}} (Yaratılış 10–11); bu uluslar Babil Kulesi'nde dağılmıştı. Bu da burada olanın tüm uluslara uygulanmak üzere tasarlandığını gösterir.[^pentecost]
 
 Bu, {{% bible val="Kornelius ve ev halkı Kutsal Ruh'u aldığında" link="act:10,44-48" lang="tr" %}} doğrulanır — bu öyle {{% bible val="şaşırtıcı bir olaydı ki, Petrus'u bir Yahudi olmayanın evine girdiği için eleştirenler sustular ve Tanrı'yı yücelttiler" link="act:11,1-18" lang="tr" %}}.
 
@@ -138,3 +138,7 @@ Başka bir deyişle, Elçilerin İşleri 2, Elçilerin İşleri 1'in (Kutsal Ruh
 | ta ki *yücelerden Ruh üzerimize dökülene kadar*. O zaman çöl meyve bahçesine, meyve bahçesi de ormana dönüşecek {{% bible val="(Yeş 32:15)" link="isa:32,15" lang="tr" %}} </br> **Siz benim tanıklarımsınız**, diyor RAB ve seçtiğim kulum, beni tanıyıp inanasınız ve O olduğumu göresiniz diye; benden önce hiçbir Tanrı oluşmadı ve benden sonra da olmayacak {{% bible val="(Yeş 43:10)" link="isa:43,10" lang="tr" %}}. </br> **Ve sizler tanıklarımsınız**, diyor RAB, ben Tanrıyım {{% bible val="(Yeş 43:12)" link="isa:43,12" lang="tr" %}}. </br> Ama sizi öteki uluslara ışık olmanız için de görevlendirdim, öyle ki, *dünyanın uçlarına kadar kurtuluşum olasınız*! {{% bible val="(Yeş 49:6)" link="isa:49,6" lang="tr" %}} | ama güç alacaksınız (bu {{% bible val="Luka'nın" link="luk:24,49" lang="tr" %}} yerine gelmesidir) *Kutsal Ruh üzerinize geldiğinde*, Yeruşalim'de, bütün Yahudiye ve Samiriye'de ve *dünyanın sonuna kadar* **tanıklarım** olacaksınız! (Bkz. {{% bible val="Yeşaya'ya" link="isa:49,6" lang="tr" %}} atıfta bulunan {{% bible val="Elçilerin İşleri" link="act:13,47" lang="tr" %}}). |
 
 [^spirit]: Ulusların hizmetkârın yanında değil, *onun aracılığıyla* içeri alınması, Vahiy’in kendi argümanının biçimidir. Bauckham, *Theology*, s. 84–87, 98, 103: kilisenin sadık tanıklığı "dünya uluslarının dönüşünde belirleyici" olur; öyle ki kiliseler "dünyadaki tanıklıklarıyla, bütün ulusları Tanrı’nın ve Mesihi’nin krallığına getirmeye katılabilsin".
+
+[^pentecost]: Beale, *A New Testament Biblical Theology*, Elç. 2:5–11 üzerine, James M. Scott’ı izleyerek, "Luke’s Geographical Horizon" (1994), s. 483–544, ve *Paul and the Nations* (1995), s. 162–80.
+
+[^titus]: Beale, *A New Testament Biblical Theology*, Tit. 2:14 üzerine ("Christians as Redeemed from Iniquity and a Special People for God").

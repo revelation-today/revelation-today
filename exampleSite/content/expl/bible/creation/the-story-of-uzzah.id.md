@@ -27,11 +27,11 @@ Daud sangat terguncang karena peristiwa itu, dan butuh waktu tiga bulan baginya 
 
 Untuk memahami hal ini, kita perlu kembali sedikit lebih jauh dalam kisah ini. Ketika Allah memberikan petunjuk-petunjuk tentang tabut dan tempat kudus itu, Ia sangat jelas tentang bagaimana benda-benda itu harus diangkut, jauh sejak masa Keluaran, ketika kemah itu senantiasa berpindah-pindah.
 
-Perlengkapan bagian dalam hanya boleh diangkut oleh orang-orang Lewi, yang dikuduskan untuk tugas ini atas nama seluruh Israel. Tabut itu adalah tempat kediaman Allah, dan Ia sama sekali tidak berkenan diangkut oleh seekor binatang — Ia ingin tetap bersentuhan langsung, sepanjang perjalanan, dengan umat-Nya yang terkasih.
+Perlengkapan bagian dalam hanya boleh diangkut oleh orang-orang Lewi, yang dikuduskan untuk tugas ini atas nama seluruh Israel ({{% bible val="Bilangan 4:4–15" link="num:4,4-15" lang="ind" %}}). Tabut itu adalah tempat kediaman Allah, dan Ia sama sekali tidak berkenan diangkut oleh seekor binatang — Ia ingin tetap bersentuhan langsung, sepanjang perjalanan, dengan umat-Nya yang terkasih.
 
 Pada saat tabut itu kembali dari wilayah Filistin, orang Filistin masih bisa dimaafkan karena tidak mengetahui hal yang lebih baik dan menaruhnya di atas kereta. Israel tidak memiliki alasan semacam itu, dan Uza yang paling tidak memilikinya — tabut itu telah berada di rumah ayahnya selama kurang lebih 20 tahun.
 
-Tampaknya Allah ingin membebaskan diri-Nya dari susunan ini dengan membiarkan tabut itu tergelincir dari kereta. Uza mencegah-Nya melakukan hal itu, dan Allah menghukumnya karena perbuatan itu.
+Teks itu sendiri menyebutkan alasannya. Menyentuh benda-benda kudus berarti kematian ({{% bible val="Bilangan 4:15" link="num:4,15" lang="ind" %}}); Daud kemudian mengakui bahwa Israel tidak {{% bible val="mencari Allah tentang cara mengangkut tabut" link="1ch:15,13-15" lang="ind" %}}; dan 2 Samuel mengatakan Allah menghantam Uza {{% bible val="karena kesalahannya" link="2sa:6,7" lang="ind" %}}. Halaman ini menambahkan sebuah pemikiran sendiri, yang tidak dinyatakan oleh teks: bahwa Allah tidak puas bepergian di atas kereta, dan bahwa saat tabut itu tergelincir membuat hal itu jelas.
 
 ## Dan Bagaimana dengan Zaman Kita?
 

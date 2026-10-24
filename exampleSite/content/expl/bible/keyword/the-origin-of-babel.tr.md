@@ -33,7 +33,7 @@ Ve gerçekten de, iki hedeflerinden hiçbiri gerçekleşmez — tam tersi olur.
 ## Daniel Babil’de
 
 <a name="1c74"></a>
-İsrail Babil’e sürgüne gittiğinde, metin bu Babil’in, ilk kulenin inşa edildiği yer olan Şinar topraklarında bulunduğunu belirtir. Bu ayrıntı, iki öyküyü birbirine bağlar.
+İsrail Babil’e sürgüne gittiğinde, metin bu Babil’in, ilk kulenin inşa edildiği yer olan Şinar topraklarında ({{% bible val="Daniel 1:2" link="dan:1,2" lang="tr" %}}) bulunduğunu belirtir. Bu ayrıntı, iki öyküyü birbirine bağlar.
 
 Gurur da aralarındaki ortak bir bağdır, tıpkı Tanrı’nın her iki imparatorluğun da ömrünü kısa kesmiş olması gibi. Daniel’in Babil’i, bu amaç için Tanrı’nın çağırdığı Koreş tarafından yenilgiye uğratılana kadar 100 yıldan daha az sürdü.
 
@@ -42,9 +42,9 @@ Gurur da aralarındaki ortak bir bağdır, tıpkı Tanrı’nın her iki imparat
 <a name="082d"></a>
 Vahiy kitabında da Babil, Daniel’in Babil’iyle aynı temel özellikleri paylaşarak yakından bağlantılıdır:
 
-- gurur teması
-- ani bir çöküş
-- Tanrı’nın halkının sürgünde yaşaması
+- gurur teması ({{% bible val="Vahiy 18:7" link="rev:18,7" lang="tr" %}}, "Kraliçe olarak tahtta oturuyorum"; Daniel'deki Babil: {{% bible val="Daniel 4:30" link="dan:4,30" lang="tr" %}})
+- ani bir çöküş ({{% bible val="Vahiy 18:10" link="rev:18,10" lang="tr" %}}, "bir saat içinde hükmün geldi"; Daniel'deki Babil: {{% bible val="Daniel 5:30" link="dan:5,30" lang="tr" %}})
+- Tanrı’nın halkının sürgünde yaşaması ({{% bible val="Vahiy 18:4" link="rev:18,4" lang="tr" %}}, "Ey halkım, ondan çıkın"; bu söz {{% bible val="Yeremya 51:45" link="jer:51,45" lang="tr" %}} ile örtüşür)
 
 Vahiy kuleyi tersine çevirir. Babil'de insanlar {{% bible val="göğe erişmek ve kendilerine ün salmak için" link="gen:11,4" lang="tr" %}} yukarıya doğru inşa ettiler; son Babil ise {{% bible val="günahlarını göğe dek yığar" link="rev:18,5" lang="tr" %}}. Yeni Yeruşalim hiç de aşağıdan kurulmaz: {{% bible val="gökten, Tanrı'nın yanından iner" link="rev:21,2" lang="tr" %}}.[^tower]
 

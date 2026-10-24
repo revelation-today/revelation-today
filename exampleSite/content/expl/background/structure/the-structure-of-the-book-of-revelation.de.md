@@ -46,7 +46,7 @@ Dieser Herausforderung stellt Gott einen Anker für unser Leben gegenüber: den 
 
 Alles, was danach folgt — die Siegel, die Posaunen und die Schalen — geht von diesem Ort aus, und jede dieser Reihen endet mit ihrer eigenen Abfolge von Donner, Blitz und Erdbeben, ein Echo dessen, was im Thronsaal bereits Wirklichkeit ist. Zusammen zeigen die drei Reihen unterschiedliche Aspekte davon, wie das Reich Gottes kommen wird.
 
-Jede der drei Reihen trägt zudem ihre eigene Unterbrechung in sich: Siegel und Posaunen halten jeweils inne, um ein Thema zu vertiefen, während Posaunen und Schalen jeweils einen Anhang anfügen, der es weiter entfaltet. Der Anhang der Schalen reicht dabei bis zum letzten Kapitel, dem Neuen Jerusalem selbst.
+Jede der drei Reihen trägt zudem ihre eigene Unterbrechung in sich: Siegel und Posaunen halten jeweils inne, um ein Thema zu vertiefen (Kapitel 7; 10,1–11,14), während Posaunen und Schalen jeweils einen längeren Abschnitt anfügen, der es weiter entfaltet (Kapitel 12–14 nach den Posaunen; 17,1–22,5 nach den Schalen). Der Anhang der Schalen reicht dabei bis zum letzten Kapitel, dem Neuen Jerusalem selbst.
 
 ## Die Siegel
 
@@ -87,7 +87,7 @@ Jedes Kapitel der Offenbarung und wo diese Seite es auslegt. Zu den literarische
 
 - **1,1–8** — Eröffnung: der Gruß eines Briefes an sieben Gemeinden: {{% int_link val="Die Grundlage legen" link="/expl/content/vision/setting-the-foundation" %}}
 - **1,9–20** — Christus unter den Leuchtern: {{% int_link val="Die Vision" link="/expl/content/vision/the-vision" %}}, {{% int_link val="Der Engel der Gemeinden" link="/expl/content/letters/the-angel-of-the-churches" %}}
-- **2–3** — Die sieben Sendschreiben (als 3 + 4 gebaut): {{% int_link val="Die sieben Sendschreiben" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
+- **2–3** — Die sieben Sendschreiben (als 3 + 4 gebaut: bei den ersten drei steht der Ruf „Wer Ohren hat, der höre“ vor der Verheißung an den Überwinder, bei den letzten vier danach): {{% int_link val="Die sieben Sendschreiben" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
 - **4–5** — Der Thronsaal und das Lamm: {{% int_link val="Anbetung im Thronsaal" link="/expl/content/worship/worship-in-the-throne-room" %}}, {{% int_link val="Ein Buch mit sieben Siegeln" link="/expl/content/worship/the-book-with-the-seven-seals" %}}
 - **6,1–8,5** — Sieben Siegel: vier Reiter, zwei weitere Siegel, ein Zwischenstück (Kap. 7), das siebte Siegel: {{% int_link val="Die vier Reiter" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}, {{% int_link val="Der Zorn des Lammes" link="/expl/content/seals/the-wrath-of-the-lamb" %}}, {{% int_link val="Die 144.000" link="/expl/content/army/the-144000" %}}, {{% int_link val="Die große Trübsal" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}
 - **8,6–11,19** — Sieben Posaunen: vier, dann zwei, ein Zwischenstück (10,1–11,14), die siebte Posaune: {{% int_link val="Die sieben Posaunen" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}, {{% int_link val="Die kleine Buchrolle" link="/expl/content/scroll/the-little-scroll" %}}, {{% int_link val="Die beiden Zeugen" link="/expl/content/witnesses/the-two-witnesses" %}}
@@ -103,7 +103,7 @@ Jedes Kapitel der Offenbarung und wo diese Seite es auslegt. Zu den literarische
 <a name="chiasm"></a>
 Wer die Offenbarung am Stück liest, hat den Eindruck, sie erreiche mehrmals das Ende der Welt. Das liegt daran, dass ihre Reihen keinen langen Fahrplan bilden: Sie erzählen dieselbe Zeit noch einmal, jedes Mal aus einem neuen Blickwinkel und mit steigender Wucht — Fachleute sprechen von Rekapitulation. Das deutlichste Zeichen ist, dass jede Reihe in derselben Szene von Endgericht und Rettung endet: Man vergleiche das sechste Siegel ({{% bible val="6,12–17" link="rev:6,12-17" lang="de" %}}) mit der siebten Schale ({{% bible val="16,17–21" link="rev:16,17-21" lang="de" %}}). Die Zahlen geben die Reihenfolge der Visionen des Johannes an, nicht unbedingt die Reihenfolge der Ereignisse in der Geschichte (Beale, S. 121–129).
 
-Dasselbe gilt für die letzten Kapitel. Beale stellt die Kapitel 17–22 als Chiasmus dar (Beale, S. 983):
+Dasselbe gilt für die letzten Kapitel. Beale stellt die Kapitel 17–22 als Chiasmus dar, im Anschluss an Snyder (Beale, S. 983):
 
 - A — das Gericht über die Hure (17,1–19,6)
 - B — der göttliche Richter (19,11–16)
@@ -112,7 +112,7 @@ Dasselbe gilt für die letzten Kapitel. Beale stellt die Kapitel 17–22 als Chi
 - D′ — die Heiligen herrschen und richten 1.000 Jahre (20,4–6)
 - C′ — das Gericht über Gog und Magog (20,7–10; vgl. Hesekiel 38–39)
 - B′ — der göttliche Richter (20,11–15)
-- A′ — die Rechtfertigung der Braut (21,1–22,5)
+- A′ — die Rechtfertigung der Braut (21,1–22,5; vgl. 19,7–9)
 
 Die tausend Jahre stehen in der Mitte, eingerahmt von zwei Schlachten, die aus derselben Prophetie in Hesekiel 38–39 stammen. So gelesen kommt Kapitel 20 zeitlich nicht nach Kapitel 19; es tritt einen Schritt zurück und zeigt dieselbe Zeit von einer anderen Seite. → {{% int_link val="Das Tausendjährige Reich" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="Prä-, Post- und Amillennialismus" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="präteristisch, historisch, futuristisch oder idealistisch?" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}}
 

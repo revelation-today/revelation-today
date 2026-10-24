@@ -22,11 +22,11 @@ In der antiken Welt hieß Dazugehören, zu einer Familie zu gehören — und die
 ## Die Wichtigkeit der Familie
 
 <a name="7234"></a>
-In der antiken Welt gab es kein echtes Rechtssystem, keine Versicherung, kein soziales Sicherungsnetz. Alles lief über die Familie, in die man hineingeboren wurde. Die Familie traf Entscheidungen innerhalb des Clans (gewichtet danach, wie bedeutend diese Familie war), der Clan agierte innerhalb des Stammes, und der Stamm innerhalb der Nation.
+In der antiken Welt gab es keine staatliche Fürsorge, keine Polizei, keine Versicherung. Recht gab es durchaus — den Kodex Hammurabis, die Tora, die Ältesten im Tor —, aber alles andere lief über die Familie, in die man hineingeboren wurde. Die Familie traf Entscheidungen innerhalb des Clans (gewichtet danach, wie bedeutend diese Familie war), der Clan agierte innerhalb des Stammes, und der Stamm innerhalb der Nation.
 
 Die Gesellschaft war von unten nach oben aufgebaut, mit der Familie als ihrer kleinsten Einheit. Deshalb war es enorm wichtig, nicht nur, dass man einer Familie angehörte, sondern welcher Familie, welche Rolle man in ihr spielte, welches Geschlecht man hatte und welchen Platz man in der Geburtsreihenfolge einnahm.
 
-Die Bibel übt an diesem System scharfe Kritik, denn es ließ Menschen offensichtlich ohne Sicherungsnetz zurück, sobald sie keine Familie hinter sich hatten — Witwen, Waisen und Familien mit geringem Ansehen. Deshalb zeigt die Schrift immer wieder, wie Gott als Verteidiger der [Witwen](https://www.bibleserver.com/search/SLT/Witwen) und Waisen einschreitet und die Fürsorge für sie sogar zu einem {{% bible val="Schlüsselelement des Glaubens" link="jas:1,27" lang="de" %}} macht.
+Die Bibel lehnt dieses System nicht als solches ab, übt aber scharfe Kritik an den Lücken, die es ließ: Menschen ohne Sicherungsnetz, sobald sie keine Familie hinter sich hatten — Witwen, Waisen und Familien mit geringem Ansehen. Deshalb zeigt die Schrift immer wieder, wie Gott als Verteidiger der [Witwen](https://www.bibleserver.com/search/SLT/Witwen) und Waisen einschreitet und die Fürsorge für sie sogar zu einem {{% bible val="Schlüsselelement des Glaubens" link="jas:1,27" lang="de" %}} macht.
 
 Gott hat auch die Angewohnheit, wichtige Menschen — sogar Könige — gerade aus den Familien zu erwählen, die die Kultur übersehen hätte:
 

@@ -20,7 +20,7 @@ The book of Revelation is full of images that seem to belong to another world en
 <a name="95e0"></a>
 There's no simple, one-size-fits-all answer to whether something in the Bible is symbolic, literal, or both at once.
 
-Something can be symbolic and still occur in reality — the Nile turning to blood, for instance, refers to {{% bible val="the symbolic killing of the Nile god, while the water actually did turn red like blood" link="exo:7,14-24" lang="en" %}}. A literal fact can also become symbolic in its own right: the 12 actual sons of Jacob, who formed the twelve tribes chosen by God, went on to become a lasting symbol of being chosen at all. With that flexibility in mind, this article looks at how to read and interpret the book of Revelation.
+Something can be symbolic and still occur in reality — the Nile turning to blood, for instance, refers to {{% bible val="the symbolic killing of the Nile god, while the water actually did turn to blood" link="exo:7,14-24" lang="en" %}}. A literal fact can also become symbolic in its own right: the 12 actual sons of Jacob, who formed the twelve tribes chosen by God, went on to become a lasting symbol of being chosen at all. With that flexibility in mind, this article looks at how to read and interpret the book of Revelation.
 
 ## The scope of the book
 
@@ -46,7 +46,7 @@ Revelation's own opening, "to show … what things must take place quickly," sig
 
 The introduction that follows the letters uses the same formula again: "{{% bible val="I will show you what must take place after this" link="rev:4,1" lang="en" %}}."
 
-All of these mirror the opening of Daniel's vision — "{{% bible val="has shown the king what will take place in the future" link="dan:2,45" lang="en" %}}" — while the closing of Revelation's vision comes just as close to the ending of Daniel's: "{{% bible val="to show his servants the things that must soon take place" link="rev:22,6" lang="en" %}}."
+All of these mirror the opening of Daniel's vision — "{{% bible val="has shown King Nebuchadnezzar what will happen in days to come" link="dan:2,28-29" lang="en" %}}" — while the closing of Revelation's vision comes just as close to the ending of Daniel's, "{{% bible val="the great God has shown the king what will take place in the future" link="dan:2,45" lang="en" %}}": "{{% bible val="to show his servants the things that must soon take place" link="rev:22,6" lang="en" %}}."
 
 In English translation the parallels can look a little thin, but they become much clearer once you compare the Greek of Daniel's Septuagint translation directly against the Greek text of Revelation.
 
@@ -73,7 +73,7 @@ The related noun is often used for Jesus's miracles as signs pointing to his cha
 - It marks {{% bible val="his power to give spiritual life" link="jhn:4,46-54" lang="en" %}}, as well as {{% bible val="spiritual resurrection" link="jhn:5,19-29" lang="en" %}}.
 - {{% bible val="The feeding of the 5000" link="jhn:6,5-14" lang="en" %}} shows Jesus's power to give spiritual food.
 
-The word *semaino* can also simply mean "to make known" or "announce," but if John had wanted to emphasize that sense here, he had a more natural word available — *gnorizo* — and chose not to use it.
+The word *semaino* can also simply mean "to make known" or "announce," but if John had wanted to emphasize that sense here, he had a more natural word available — *gnorizo* — and chose not to use it.[^gnorizo]
 
 ### [deiknumi](https://biblehub.com/greek/1166.htm)
 
@@ -105,3 +105,5 @@ And indeed, the book is full of things that are obviously symbolic: the lamb, th
 [^daniel]: "After these things" is the wording of Dan 2:29, 45 in the Greek translation of Theodotion; John uses it again in 4:1. See Beale, pp. 137–139, 152–159.
 [^signs]: Beale, pp. 50–52.
 [^levels]: Beale, p. 53, distinguishes what John saw (the vision), what it refers to in history, and what it means. Against the opposite rule, "literal unless clearly symbolic", see pp. 52–55; his example is the hail of the first trumpet (p. 54).
+
+[^gnorizo]: Beale, p. 51.

@@ -46,7 +46,7 @@ Menghadapi tantangan itu, Allah memberikan sebuah jangkar bagi hidup kita: tempa
 
 Segala sesuatu yang menyusul — meterai-meterai, sangkakala-sangkakala, dan cawan-cawan — mengalir dari tempat itu, masing-masing rangkaian berakhir dengan rangkaiannya sendiri berupa guruh, kilat, dan gempa bumi, menggemakan apa yang telah ada di ruang takhta. Bersama-sama, ketiga rangkaian ini menyingkapkan aspek-aspek berbeda dari bagaimana Kerajaan Allah akan digenapi.
 
-Setiap dari ketiga rangkaian ini juga membawa selingannya sendiri: meterai-meterai dan sangkakala-sangkakala masing-masing berhenti sejenak untuk memperdalam tema itu, sementara sangkakala-sangkakala dan cawan-cawan masing-masing melampirkan sebuah lampiran yang mengembangkannya lebih jauh. Lampiran cawan-cawan itu berlangsung hingga pasal terakhir, yaitu Yerusalem Baru itu sendiri.
+Setiap dari ketiga rangkaian ini juga membawa selingannya sendiri: meterai-meterai dan sangkakala-sangkakala masing-masing berhenti sejenak untuk memperdalam tema itu (pasal 7; 10:1–11:14), sementara sangkakala-sangkakala dan cawan-cawan masing-masing melampirkan bagian yang lebih panjang yang mengembangkannya lebih jauh (pasal 12–14 setelah sangkakala; 17:1–22:5 setelah cawan). Lampiran cawan-cawan itu berlangsung hingga pasal terakhir, yaitu Yerusalem Baru itu sendiri.
 
 ## Meterai-Meterai Itu
 
@@ -87,7 +87,7 @@ Setiap pasal Kitab Wahyu, dan di mana situs ini menjelaskannya. Untuk alat-alat 
 
 - **1:1–8** — Pembukaan: salam sebuah surat kepada tujuh jemaat: {{% int_link val="Meletakkan Dasar" link="/expl/content/vision/setting-the-foundation" %}}
 - **1:9–20** — Kristus di tengah kaki-kaki dian: {{% int_link val="Penglihatan" link="/expl/content/vision/the-vision" %}}, {{% int_link val="Malaikat jemaat-jemaat" link="/expl/content/letters/the-angel-of-the-churches" %}}
-- **2–3** — Ketujuh surat (disusun 3 + 4): {{% int_link val="Ketujuh Surat kepada Gereja-gereja" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
+- **2–3** — Ketujuh surat (disusun 3 + 4: pada ketiga yang pertama seruan "Siapa bertelinga, hendaklah ia mendengar" mendahului janji bagi yang menang, pada keempat yang terakhir seruan itu mengikutinya): {{% int_link val="Ketujuh Surat kepada Gereja-gereja" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
 - **4–5** — Ruang takhta dan Anak Domba: {{% int_link val="Penyembahan di ruang takhta" link="/expl/content/worship/worship-in-the-throne-room" %}}, {{% int_link val="Kitab dengan Tujuh Meterai" link="/expl/content/worship/the-book-with-the-seven-seals" %}}
 - **6:1–8:5** — Tujuh meterai: empat penunggang kuda, dua meterai lagi, sebuah selingan (pasal 7), meterai ketujuh: {{% int_link val="Empat penunggang kuda" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}, {{% int_link val="Murka Anak Domba" link="/expl/content/seals/the-wrath-of-the-lamb" %}}, {{% int_link val="Yang 144.000" link="/expl/content/army/the-144000" %}}, {{% int_link val="Akhir zaman" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}
 - **8:6–11:19** — Tujuh sangkakala: empat, lalu dua, sebuah selingan (10:1–11:14), sangkakala ketujuh: {{% int_link val="Sangkakala-Sangkakala dalam Wahyu" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}, {{% int_link val="Gulungan kitab kecil" link="/expl/content/scroll/the-little-scroll" %}}, {{% int_link val="Kedua saksi" link="/expl/content/witnesses/the-two-witnesses" %}}
@@ -103,7 +103,7 @@ Setiap pasal Kitab Wahyu, dan di mana situs ini menjelaskannya. Untuk alat-alat 
 <a name="chiasm"></a>
 Jika dibaca dari awal sampai akhir, Kitab Wahyu tampak beberapa kali mencapai akhir dunia. Itu karena rangkaian-rangkaiannya tidak membentuk satu jadwal panjang: rangkaian itu menceritakan zaman yang sama lagi, setiap kali dari sudut baru dan dengan intensitas yang meningkat — para ahli menyebutnya rekapitulasi. Tanda yang paling jelas ialah bahwa setiap rangkaian berakhir dengan adegan yang sama, yaitu penghakiman terakhir dan keselamatan: bandingkan meterai keenam ({{% bible val="6:12–17" link="rev:6,12-17" lang="ind" %}}) dengan cawan ketujuh ({{% bible val="16:17–21" link="rev:16,17-21" lang="ind" %}}). Angka-angka itu menunjukkan urutan penglihatan Yohanes, belum tentu urutan peristiwa dalam sejarah (Beale, hlm. 121–129).
 
-Hal yang sama berlaku untuk pasal-pasal terakhir. Beale menyusun pasal 17–22 sebagai sebuah kiasme (Beale, hlm. 983):
+Hal yang sama berlaku untuk pasal-pasal terakhir. Beale menyusun pasal 17–22 sebagai sebuah kiasme, mengikuti Snyder (Beale, hlm. 983):
 
 - A — penghakiman atas pelacur itu (17:1–19:6)
 - B — Hakim ilahi (19:11–16)
@@ -112,7 +112,7 @@ Hal yang sama berlaku untuk pasal-pasal terakhir. Beale menyusun pasal 17–22 s
 - D′ — orang-orang kudus memerintah dan menghakimi selama 1.000 tahun (20:4–6)
 - C′ — penghakiman atas Gog dan Magog (20:7–10; bdk. Yehezkiel 38–39)
 - B′ — Hakim ilahi (20:11–15)
-- A′ — pembenaran pengantin perempuan (21:1–22:5)
+- A′ — pembenaran pengantin perempuan (21:1–22:5; bdk. 19:7–9)
 
 Seribu tahun itu berdiri di tengah, dibingkai oleh dua pertempuran yang diambil dari nubuat yang sama dalam Yehezkiel 38–39. Jika dibaca demikian, pasal 20 tidak datang sesudah pasal 19 secara waktu; pasal itu mundur selangkah dan menunjukkan zaman yang sama dari sisi lain. → {{% int_link val="Kerajaan seribu tahun" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="pra-, pasca-, dan amilenialisme" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="preteris, historisis, futuris, atau idealis?" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}}
 

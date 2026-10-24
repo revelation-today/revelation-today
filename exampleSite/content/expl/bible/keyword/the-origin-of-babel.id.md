@@ -33,7 +33,7 @@ Dan pada kenyataannya, tidak satu pun dari kedua tujuan mereka tercapai — yang
 ## Daniel di Babel
 
 <a name="644d"></a>
-Ketika Israel dibuang ke pengasingan di Babel, teks mencatat bahwa Babel ini berdiri di tanah Sinear — tempat yang persis sama dengan tempat menara yang asli dibangun. Detail itu menghubungkan kedua kisah ini.
+Ketika Israel dibuang ke pengasingan di Babel, teks mencatat bahwa Babel ini berdiri di tanah Sinear ({{% bible val="Daniel 1:2" link="dan:1,2" lang="ind" %}}) — tempat yang persis sama dengan tempat menara yang asli dibangun. Detail itu menghubungkan kedua kisah ini.
 
 Kesombongan juga menjadi benang merah di antara keduanya, begitu pula fakta bahwa Allah memotong pendek keberadaan kedua kerajaan itu. Babel pada zaman Daniel bertahan kurang dari 100 tahun sebelum dikalahkan oleh Koresh, yang telah dipanggil Allah untuk tujuan itu.
 
@@ -42,9 +42,9 @@ Kesombongan juga menjadi benang merah di antara keduanya, begitu pula fakta bahw
 <a name="d54a"></a>
 Dalam Kitab Wahyu, Babel sama eratnya terkait dengan Babel pada zaman Daniel, berbagi ciri-ciri kunci yang sama:
 
-- tema kesombongan
-- kejatuhan yang cepat
-- umat Allah yang hidup dalam pembuangan
+- tema kesombongan ({{% bible val="Wahyu 18:7" link="rev:18,7" lang="ind" %}}, "Aku duduk sebagai ratu"; Babel dalam Daniel: {{% bible val="Daniel 4:30" link="dan:4,30" lang="ind" %}})
+- kejatuhan yang cepat ({{% bible val="Wahyu 18:10" link="rev:18,10" lang="ind" %}}, "dalam satu jam penghakimanmu telah datang"; Babel dalam Daniel: {{% bible val="Daniel 5:30" link="dan:5,30" lang="ind" %}})
+- umat Allah yang hidup dalam pembuangan ({{% bible val="Wahyu 18:4" link="rev:18,4" lang="ind" %}}, "Keluarlah dari padanya, hai umat-Ku", yang menggemakan {{% bible val="Yeremia 51:45" link="jer:51,45" lang="ind" %}})
 
 Dan Kitab Wahyu membalik menara itu. Di Babel manusia membangun ke atas {{% bible val="untuk mencapai langit dan mencari nama bagi diri mereka" link="gen:11,4" lang="ind" %}}, dan Babel yang terakhir {{% bible val="menimbun dosanya sampai ke langit" link="rev:18,5" lang="ind" %}}. Yerusalem baru sama sekali tidak dibangun dari bawah: kota itu {{% bible val="turun dari surga, dari Allah" link="rev:21,2" lang="ind" %}}.[^tower]
 

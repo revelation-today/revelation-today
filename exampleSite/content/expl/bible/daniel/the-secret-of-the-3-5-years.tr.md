@@ -55,7 +55,7 @@ Bu yüzden Tanrı, {{% bible val="3,5 yıl süren" link="luk:4,25" lang="tr" %}}
 ## Daniel'deki yıl haftası
 
 <a name="eb7b"></a>
-Daniel bize {{% int_link val="her biri 3,5 yıl olan iki yarım haftaya ayrılan 70 haftayı" link="/expl/bible/daniel/the-70-year-weeks" %}} verir. İlk yarım hafta İsa'nın yeryüzündeki zamanını, ikincisi ise belki de kilisenin işini kapsar. İsa'nın antlaşmasının {{% bible val="bu hafta içinde kurulduğu" link="dan:9,27" lang="tr" %}} zaten anlatılır.
+Daniel bize {{% int_link val="son haftası her biri 3,5 yıl olan iki yarım haftaya ayrılan 70 haftayı" link="/expl/bible/daniel/the-70-year-weeks" %}} verir. İlk yarım hafta İsa'nın yeryüzündeki zamanını, ikincisi ise belki de kilisenin işini kapsar. İsa'nın antlaşmasının {{% bible val="bu hafta içinde kurulduğu" link="dan:9,27" lang="tr" %}} zaten anlatılır.
 
 Bu 3,5 yıl, öyleyse, Tanrı'nın bu dünyanın krallıklarını devirecek olan şeyi sessizce inşa ettiği dönemdir.
 
@@ -69,6 +69,8 @@ Aynı zamanda kadın, {{% bible val="şeytanın saldırısından korunur" link="
 Sonra {{% bible val="tapınak" link="rev:11,1-2" lang="tr" %}} vardır; artık kurbanlar için değil, bir ibadet yeri olarak kullanılır. Bu da İsa'nın ölümüyle başlar ve İsa geri dönmeden önce sona ereceğine dair hiçbir belirti yoktur.
 
 Geriye {{% bible val="iki tanığın 1260 günü" link="rev:11,3" lang="tr" %}} kalır; bu da İsa'nın birinci ve ikinci gelişi arasındaki tüm süreyi kapsamalıdır.[^whole] Bu uzunluğun kendisi, "tanıkların" gerçekte iki kişi değil, büyük olasılıkla Kilise olduğunu düşündürür.
+
+Bu aynı zamanda ikinci soruyu da yanıtlar: Vahiy için bu süreler tam olarak 1.260 günlük bir sayım olarak kastedilmemiştir — her biri çarmıhtan dönüşe kadar sürer — bütün dönemin adıdır; Daniel'in yarım haftası ve İlyas'ın kuraklığıyla biçimlenmiştir.
 
 Peki metin neden birim değiştiriyor — burada gün, orada ay? Bunlardan ikisinin nedenini Richard Bauckham göstermiştir: 42 ay canavarın zamanını, 1260 gün kilisenin zamanını belirtir — ve iki sayı, canavarın 666'sının kökü olan 36'ya ve Tanrı halkının sayısı olan 1225'e aittir (Bauckham, *Climax of Prophecy*, s. 400–402; bkz. {{% int_link val="şekilli sayılar" link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#bc16" %}}) Böylece günler tanıkların tanıklığını ve İsrail'in korunmasını, aylar da şeytanın egemenliğini ve dış avlunun çiğnenmesini işaret eder. Üçüncü birimi, "zamanlar" ya da yılları, Tanrı'nın gizli işi olarak okuyorum — bu benim kendi gözlemim, tefsirlerin taşıdığı bir şey değil.[^units]. Paralelliğin açıkça ortaya koyduğu şey ise şudur: şeytanın egemenliğiyle Kilise'nin Tanrı vergisi egemenliği yan yana yürür ve dünya sanki şeytan yönetiyormuş gibi görünse de, gerçekte yöneten hâlâ Kilise'dir.
 

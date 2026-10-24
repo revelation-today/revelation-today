@@ -32,7 +32,7 @@ Zur Zeit der frühen Gemeinde wurde die jüdische Religion vom Römischen Reich 
 
 Die Christen jedoch weigerten sich, dem Kaiser die Verehrung zu erweisen, die er erwartete — und, aus römischer Sicht noch schlimmer, sie zogen umher und überredeten Menschen, stattdessen einem Juden namens Jesus zu folgen.
 
-Eine Zeit lang stand das Christentum unter dem Schutz des Judentums, weil Rom es als jüdische Sekte ansah. Für die Synagogen wurde das zum Risiko: Seit dem Jahr 70 zahlte jeder Jude eine Sondersteuer an Rom, den *Fiscus Judaicus*, und unter Domitian wurde sie mit großer Härte eingetrieben, sogar bei Menschen, die jüdisch lebten, ohne es zu sagen. Das ist mit ein Grund, warum manche Juden den Behörden klarmachten, dass die Christen gar keine Juden waren — womit die Christen den Schutz des Judentums verloren und dem Kaiserkult ausgeliefert waren.
+Eine Zeit lang stand das Christentum unter dem Schutz des Judentums, weil Rom es als jüdische Sekte ansah. Für die Synagogen wurde das zum Risiko: Seit dem Jahr 70 zahlte jeder Jude eine Sondersteuer an Rom, den *Fiscus Judaicus*, und unter Domitian wurde sie mit großer Härte eingetrieben, sogar bei Menschen, die jüdisch lebten, ohne es zu sagen. Das ist wahrscheinlich mit ein Grund, warum manche Juden den Behörden klarmachten, dass die Christen gar keine Juden waren — womit die Christen den Schutz des Judentums verloren und dem Kaiserkult ausgeliefert waren.
 
 ## Juden in der Offenbarung
 

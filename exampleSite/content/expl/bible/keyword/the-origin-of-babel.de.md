@@ -33,7 +33,7 @@ Und tatsächlich erreichen sie keines ihrer beiden Ziele — es geschieht genau 
 ## Daniel in Babel
 
 <a name="644d"></a>
-Als Israel ins babylonische Exil zog, vermerkt der Text, dass dieses Babel im Land Schinar lag — genau dort, wo einst der ursprüngliche Turm gebaut worden war. Dieses Detail verknüpft die beiden Geschichten miteinander.
+Als Israel ins babylonische Exil zog, vermerkt der Text, dass dieses Babel im Land Schinar lag ({{% bible val="Daniel 1,2" link="dan:1,2" lang="de" %}}) — genau dort, wo einst der ursprüngliche Turm gebaut worden war. Dieses Detail verknüpft die beiden Geschichten miteinander.
 
 Stolz ist ein gemeinsames Motiv zwischen ihnen, ebenso die Tatsache, dass Gott die Existenz beider Reiche verkürzte. Daniels Babel bestand weniger als 100 Jahre, bevor es von Kyrus besiegt wurde, den Gott genau zu diesem Zweck berufen hatte.
 
@@ -42,9 +42,9 @@ Stolz ist ein gemeinsames Motiv zwischen ihnen, ebenso die Tatsache, dass Gott d
 <a name="d54a"></a>
 Im Buch der Offenbarung ist Babel ebenso eng mit dem Babel Daniels verbunden und teilt dieselben Schlüsselmerkmale:
 
-- das Motiv des Stolzes
-- einen raschen Fall
-- Gottes Volk, das im Exil lebt
+- das Motiv des Stolzes ({{% bible val="Offb 18,7" link="rev:18,7" lang="de" %}}, „Ich throne als Königin“; Daniels Babel: {{% bible val="Daniel 4,30" link="dan:4,30" lang="de" %}})
+- einen raschen Fall ({{% bible val="Offb 18,10" link="rev:18,10" lang="de" %}}, „in einer einzigen Stunde ist dein Gericht gekommen“; Daniels Babel: {{% bible val="Daniel 5,30" link="dan:5,30" lang="de" %}})
+- Gottes Volk, das im Exil lebt ({{% bible val="Offb 18,4" link="rev:18,4" lang="de" %}}, „Geht aus ihr hinaus, mein Volk“, was an {{% bible val="Jeremia 51,45" link="jer:51,45" lang="de" %}} anklingt)
 
 Und die Offenbarung kehrt den Turm um. In Babel bauten die Menschen nach oben, {{% bible val="um den Himmel zu erreichen und sich einen Namen zu machen" link="gen:11,4" lang="de" %}}, und das letzte Babel {{% bible val="türmt seine Sünden bis an den Himmel" link="rev:18,5" lang="de" %}}. Das neue Jerusalem wird überhaupt nicht von unten gebaut: Es {{% bible val="kommt von Gott aus dem Himmel herab" link="rev:21,2" lang="de" %}}.[^tower]
 

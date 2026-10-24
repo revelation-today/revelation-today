@@ -22,11 +22,11 @@ Di dunia kuno, menjadi bagian berarti menjadi bagian dari sebuah keluarga — da
 ## Pentingnya Keluarga
 
 <a name="7234"></a>
-Di dunia kuno, tidak ada sistem hukum yang sesungguhnya, tidak ada asuransi, tidak ada jaring pengaman sosial. Segala sesuatu berjalan melalui keluarga tempat seseorang dilahirkan. Keluarga mengambil keputusan di dalam klan (bobotnya tergantung seberapa penting keluarga itu), klan beroperasi di dalam suku, dan suku di dalam bangsa.
+Di dunia kuno, tidak ada kesejahteraan negara, tidak ada polisi, tidak ada asuransi. Hukum memang ada — kitab undang-undang Hammurabi, Taurat, para tua-tua di pintu gerbang — tetapi segala hal lain berjalan melalui keluarga tempat seseorang dilahirkan. Keluarga mengambil keputusan di dalam klan (bobotnya tergantung seberapa penting keluarga itu), klan beroperasi di dalam suku, dan suku di dalam bangsa.
 
 Masyarakat dibangun dari bawah ke atas, dengan keluarga sebagai satuan terkecilnya. Karena itu, yang penting bukan hanya bahwa seseorang termasuk dalam sebuah keluarga, tetapi juga keluarga yang mana, peran apa yang dimainkannya di dalamnya, jenis kelamin apa yang dimilikinya, dan di mana posisinya dalam urutan kelahiran.
 
-Alkitab secara tajam mengkritik sistem ini, sebab sistem ini jelas meninggalkan orang tanpa jaring pengaman setiap kali mereka tidak memiliki keluarga yang mendukung — para janda, anak yatim, dan keluarga-keluarga dengan kedudukan yang rendah. Itulah sebabnya Alkitab berulang kali menunjukkan Allah turun tangan sebagai pembela [para janda](https://www.bibleserver.com/search/NIV/widows) dan anak yatim, bahkan menjadikan perhatian bagi mereka sebagai {{% bible val="unsur kunci dari iman" link="jas:1,27" lang="ind" %}}.
+Alkitab tidak menolak sistem ini sebagai sistem, tetapi secara tajam mengkritik celah-celah yang ditinggalkannya: orang-orang tanpa jaring pengaman setiap kali mereka tidak memiliki keluarga yang mendukung — para janda, anak yatim, dan keluarga-keluarga dengan kedudukan yang rendah. Itulah sebabnya Alkitab berulang kali menunjukkan Allah turun tangan sebagai pembela [para janda](https://www.bibleserver.com/search/NIV/widows) dan anak yatim, bahkan menjadikan perhatian bagi mereka sebagai {{% bible val="unsur kunci dari iman" link="jas:1,27" lang="ind" %}}.
 
 Allah juga memiliki kebiasaan memilih orang-orang penting — bahkan raja-raja — justru dari keluarga-keluarga yang oleh budaya pada masa itu akan diabaikan:
 

@@ -35,9 +35,9 @@ En Yüce Olan'ın kutsal halkı İsrail halkıdır ve İnsanoğlu onları temsil
 <a name="487c"></a>
 Peki bu İnsanoğlu'nun — yani İsrail'in — çağrısı ve kaderi nedir? Okumaya devam edelim.
 
-"{{% bible val="Bunun yanı sıra başındaki on boynuzdan sonra çıkan öbür boynuzun ne olduğunu da öğrenmek istedim. Bu boynuzun önünden üçü düşmüştü; ötekilerden daha iri görünüyordu, gözleri ve böbürlenen bir ağzı vardı. Ben baktığım sırada bu boynuz kutsallarla savaşıyor ve onları yeniyordu; ta ki Eskiden Beri Var Olan gelip En Yüce Olan'ın kutsallarının lehine yargı verene ve kutsalların krallığı alma zamanı gelene dek." link="dan:7,20-27" lang="tr" %}}
+"{{% bible val="Bunun yanı sıra başındaki on boynuzdan sonra çıkan öbür boynuzun ne olduğunu da öğrenmek istedim. Bu boynuzun önünden üçü düşmüştü; ötekilerden daha iri görünüyordu, gözleri ve böbürlenen bir ağzı vardı. Ben baktığım sırada bu boynuz kutsallarla savaşıyor ve onları yeniyordu; ta ki Eskiden Beri Var Olan gelip En Yüce Olan'ın kutsallarının lehine yargı verene ve kutsalların krallığı alma zamanı gelene dek." link="dan:7,20-22" lang="tr" %}}"
 
-{{% bible val="Bana şu açıklamayı yaptı: ‹Dördüncü yaratık yeryüzünde ortaya çıkacak dördüncü krallıktır. Bütün öbür krallıklardan farklı olacak, bütün dünyayı yiyip bitirecek, çiğneyip parçalayacak. On boynuz bu krallıktan çıkacak on kraldır. Bunlardan sonra öncekilerden farklı bir başka kral ortaya çıkacak ve üç kralı boyun eğdirecek. Yüceler Yücesi'ne karşı sözler söyleyecek, O'nun kutsallarına baskı yapacak, belirlenen zamanları ve yasaları değiştirmeye çalışacak. Kutsallar bir zaman, iki zaman ve yarım zaman için onun eline teslim edilecek. Ama mahkeme kurulacak, onun egemenliği elinden alınacak ve büsbütün, sonsuza dek yok edilecek. Göklerin altındaki krallıklara özgü egemenlik, güç ve büyüklük, En Yüce Olan'ın kutsal halkına verilecek. O'nun krallığı sonsuza dek sürecek krallıktır, bütün yöneticiler O'na tapınıp itaat edecek.›" link="dan:7,20-27" lang="tr" %}}"
+{{% bible val="Bana şu açıklamayı yaptı: ‹Dördüncü yaratık yeryüzünde ortaya çıkacak dördüncü krallıktır. Bütün öbür krallıklardan farklı olacak, bütün dünyayı yiyip bitirecek, çiğneyip parçalayacak. On boynuz bu krallıktan çıkacak on kraldır. Bunlardan sonra öncekilerden farklı bir başka kral ortaya çıkacak ve üç kralı boyun eğdirecek. Yüceler Yücesi'ne karşı sözler söyleyecek, O'nun kutsallarına baskı yapacak, belirlenen zamanları ve yasaları değiştirmeye çalışacak. Kutsallar bir zaman, iki zaman ve yarım zaman için onun eline teslim edilecek. Ama mahkeme kurulacak, onun egemenliği elinden alınacak ve büsbütün, sonsuza dek yok edilecek. Göklerin altındaki krallıklara özgü egemenlik, güç ve büyüklük, En Yüce Olan'ın kutsal halkına verilecek. O'nun krallığı sonsuza dek sürecek krallıktır, bütün yöneticiler O'na tapınıp itaat edecek.›" link="dan:7,23-27" lang="tr" %}}"
 
 Bu, {{% int_link val="daha önce ele aldığımız" link="/expl/bible/daniel/the-four-kingdoms-in-daniel" %}} aynı dünya krallıklarını anlatır: ilk bölüm görümün unsurlarını ve eylemlerini verir, ikinci bölüm ise bunları yorumlar.
 
@@ -47,11 +47,11 @@ Yorumlanan unsurları sıralayalım:
 - başka bir boynuz = başka bir kral
 - boynuzlardan üçü düştü = üç kral boyun eğdirildi
 - Boynuz daha heybetli ve böbürlenerek konuşuyor = Yüceler Yücesi'ne karşı konuşuyor, halkına baskı yapıyor, zamanları ve yasaları değiştirmeye çalışıyor
-- boynuz onları yeniyor = kutsal halk 3,5 zaman için onun eline teslim ediliyor
+- boynuz onları yeniyor = kutsal halk bir zaman, zamanlar ve yarım zaman için onun eline teslim ediliyor
 - Eskiden Beri Var Olan kutsal halkın lehine yargı veriyor = kralın gücü elinden alınıyor ve büsbütün, sonsuza dek yok ediliyor
 - zaman gelince krallığa sahip oluyorlar = tüm krallıklar Kutsal Halka verilecek, sonsuza dek sürecek ve tüm yöneticiler O'na tapınıp itaat edecek
 
-Burada birkaç şey dikkat çekicidir. Böbürlenerek konuşmak aslında Tanrı'ya karşı konuşmaktır — O'nun halkını ve yasasını ezmek — bu yüzden O'nun halkına yapılan saldırı, O'na yapılan bir saldırıdır ve ardından gelen yargı, Tanrı'nın kendi tepkisidir. Kutsal halkın yenilgisi yalnızca geçicidir, sadece "3,5 zaman" sürer ve yenilgi her zaman zaferden önce gelir. Kutsal halkın lehine olan yargı, karşıt kralların bir kez ve sonsuza dek yok edildiği anlamına gelir. Ve krallığa sahip olmak, tüm yöneticilerin O'na — yani bir şekilde aynı zamanda İsrail de olan bu İnsanoğlu'na — tapınacağı gerçeğiyle iç içe geçmiştir.
+Burada birkaç şey dikkat çekicidir. Böbürlenerek konuşmak aslında Tanrı'ya karşı konuşmaktır — O'nun halkını ve yasasını ezmek — bu yüzden O'nun halkına yapılan saldırı, O'na yapılan bir saldırıdır ve ardından gelen yargı, Tanrı'nın kendi tepkisidir. Kutsal halkın yenilgisi yalnızca geçicidir, sadece "bir zaman, zamanlar ve yarım zaman" sürer ve yenilgi her zaman zaferden önce gelir. Kutsal halkın lehine olan yargı, karşıt kralların bir kez ve sonsuza dek yok edildiği anlamına gelir. Ve krallığa sahip olmak, tüm yöneticilerin O'na — yani bir şekilde aynı zamanda İsrail de olan bu İnsanoğlu'na — tapınacağı gerçeğiyle iç içe geçmiştir.
 
 ## Sorun
 

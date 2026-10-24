@@ -20,7 +20,7 @@ Vahiy Kitabı, tamamen başka bir dünyaya ait gibi görünen imgelerle doludur.
 <a name="d073"></a>
 Kutsal Kitap'taki bir şeyin sembolik mi, gerçek mi, yoksa her ikisi birden mi olduğuna dair basit, her duruma uyan bir cevap yoktur.
 
-Bir şey sembolik olabilir ve yine de gerçekte de meydana gelebilir — örneğin Nil'in kana dönüşmesi, {{% bible val="Nil tanrısının sembolik olarak öldürülmesine işaret ederken, su gerçekten de kan gibi kırmızıya dönüşmüştür" link="exo:7,14-24" lang="tr" %}}. Gerçek bir olgu da kendi başına sembolik hale gelebilir: Tanrı tarafından seçilen on iki kabileyi oluşturan Yakup'un on iki gerçek oğlu, zamanla seçilmiş olmanın kalıcı bir sembolüne dönüşmüştür. Bu esnekliği akılda tutarak, bu makale Vahiy Kitabı'nın nasıl okunması ve yorumlanması gerektiğine bakmaktadır.
+Bir şey sembolik olabilir ve yine de gerçekte de meydana gelebilir — örneğin Nil'in kana dönüşmesi, {{% bible val="Nil tanrısının sembolik olarak öldürülmesine işaret ederken, su gerçekten de kana dönüşmüştür" link="exo:7,14-24" lang="tr" %}}. Gerçek bir olgu da kendi başına sembolik hale gelebilir: Tanrı tarafından seçilen on iki kabileyi oluşturan Yakup'un on iki gerçek oğlu, zamanla seçilmiş olmanın kalıcı bir sembolüne dönüşmüştür. Bu esnekliği akılda tutarak, bu makale Vahiy Kitabı'nın nasıl okunması ve yorumlanması gerektiğine bakmaktadır.
 
 ## Kitabın kapsamı
 
@@ -46,7 +46,7 @@ Vahiy'in kendi açılışı, "hızla gerçekleşmesi gereken şeyleri … göste
 
 Mektuplardan sonra gelen giriş de aynı formülü tekrar kullanır: "{{% bible val="Bundan sonra olması gerekenleri sana göstereceğim" link="rev:4,1" lang="tr" %}}."
 
-Bunların hepsi, Daniel'in görümünün açılışını yansıtır — "{{% bible val="krala gelecekte olacakları gösterdi" link="dan:2,45" lang="tr" %}}" — Vahiy'in görümünün kapanışı ise Daniel'in görümünün sonuna oldukça yaklaşır: "{{% bible val="yakında gerçekleşmesi gereken şeyleri kullarına göstermek için" link="rev:22,6" lang="tr" %}}."
+Bunların hepsi, Daniel'in görümünün açılışını yansıtır — "{{% bible val="Kral Nebukadnessar'a ilerideki günlerde olacakları gösterdi" link="dan:2,28-29" lang="tr" %}}" — Vahiy'in görümünün kapanışı ise Daniel'in görümünün sonuna aynı derecede yaklaşır, "{{% bible val="büyük Tanrı krala gelecekte olacakları gösterdi" link="dan:2,45" lang="tr" %}}": "{{% bible val="yakında gerçekleşmesi gereken şeyleri kullarına göstermek için" link="rev:22,6" lang="tr" %}}."
 
 İngilizce çeviride paralellikler biraz zayıf görünebilir, ama Daniel'in Septuaginta çevirisinin Yunancasını Vahiy'in Yunanca metniyle doğrudan karşılaştırdığınızda çok daha net hale gelirler.
 
@@ -73,7 +73,7 @@ Bu, Daniel'in Yunancasında sembolik bir görümün yorumlanması için kullanı
 - {{% bible val="Ruhsal yaşam verme gücünü" link="jhn:4,46-54" lang="tr" %}} ve {{% bible val="ruhsal dirilişi" link="jhn:5,19-29" lang="tr" %}} işaret eder.
 - {{% bible val="5000 kişinin doyurulması" link="jhn:6,5-14" lang="tr" %}}, İsa'nın ruhsal yiyecek verme gücünü gösterir.
 
-*Semaino* kelimesi aynı zamanda basitçe "bildirmek" ya da "duyurmak" anlamına da gelebilir, ama Yuhanna burada bu anlamı vurgulamak isteseydi, kullanabileceği daha doğal bir kelime vardı — *gnorizo* — ve onu kullanmamayı tercih etti.
+*Semaino* kelimesi aynı zamanda basitçe "bildirmek" ya da "duyurmak" anlamına da gelebilir, ama Yuhanna burada bu anlamı vurgulamak isteseydi, kullanabileceği daha doğal bir kelime vardı — *gnorizo* — ve onu kullanmamayı tercih etti.[^gnorizo]
 
 ### [deiknumi](https://biblehub.com/greek/1166.htm)
 
@@ -105,3 +105,5 @@ Ve gerçekten de kitap, açıkça sembolik olan şeylerle doludur: kuzu, ejderha
 [^daniel]: "Bundan sonra" ifadesi, Dan. 2:29, 45'in Theodotion'un Yunanca çevirisindeki söyleyişidir; Yuhanna bunu 4:1'de yeniden kullanır. Bkz. Beale, s. 137–139, 152–159.
 [^signs]: Beale, s. 50–52.
 [^levels]: Beale, s. 53, Yuhanna'nın gördüğünü (görüm), bunun tarihte neye işaret ettiğini ve ne anlama geldiğini birbirinden ayırır. Karşıt kurala, "açıkça sembolik olmadıkça harfi" kuralına karşı bkz. s. 52–55; örneği ilk borazanın dolusudur (s. 54).
+
+[^gnorizo]: Beale, s. 51.

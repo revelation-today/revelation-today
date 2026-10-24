@@ -46,7 +46,7 @@ Against that challenge, God gives an anchor for our lives: the place of eternal,
 
 Everything that follows — the seals, the trumpets, and the bowls — flows out from that place, each series ending with its own sequence of thunder, lightning, and earthquakes, echoing what already exists in the throne room. Together, the three series reveal different aspects of how God's kingdom will come to pass.
 
-Each of the three series also carries its own interruption: the seals and trumpets each pause for a deepening of the theme, while the trumpets and bowls each attach an appendix that develops it further. The bowls' appendix runs all the way to the final chapter, the New Jerusalem itself.
+Each of the three series also carries its own interruption: the seals and the trumpets each pause for an interlude that deepens the theme (chapter 7; 10:1–11:14), while the trumpets and the bowls each have a longer section attached that develops it further (chapters 12–14 after the trumpets; 17:1–22:5 after the bowls). The bowls' appendix runs all the way to the final chapter, the New Jerusalem itself.
 
 ## The Seals
 
@@ -87,7 +87,7 @@ Every chapter of Revelation, and where this site explains it. For the literary t
 
 - **1:1–8** — Opening: a letter's greeting to seven churches: {{% int_link val="Setting the foundation" link="/expl/content/vision/setting-the-foundation" %}}
 - **1:9–20** — Christ among the lampstands: {{% int_link val="The vision" link="/expl/content/vision/the-vision" %}}, {{% int_link val="The angel of the churches" link="/expl/content/letters/the-angel-of-the-churches" %}}
-- **2–3** — The seven letters (built 3 + 4): {{% int_link val="The letters to the seven churches" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
+- **2–3** — The seven letters (built 3 + 4: in the first three the call "let anyone with ears hear" comes before the promise to the one who conquers, in the last four after it): {{% int_link val="The letters to the seven churches" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
 - **4–5** — The throne room and the Lamb: {{% int_link val="Worship in the throne room" link="/expl/content/worship/worship-in-the-throne-room" %}}, {{% int_link val="The book with the seven seals" link="/expl/content/worship/the-book-with-the-seven-seals" %}}
 - **6:1–8:5** — Seven seals: four horsemen, two more seals, an interlude (ch. 7), the seventh seal: {{% int_link val="The four horsemen" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}, {{% int_link val="The wrath of the Lamb" link="/expl/content/seals/the-wrath-of-the-lamb" %}}, {{% int_link val="The 144,000" link="/expl/content/army/the-144000" %}}, {{% int_link val="The end time and the great tribulation" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}
 - **8:6–11:19** — Seven trumpets: four, then two, an interlude (10:1–11:14), the seventh trumpet: {{% int_link val="The trumpets" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}, {{% int_link val="The little scroll" link="/expl/content/scroll/the-little-scroll" %}}, {{% int_link val="The two witnesses" link="/expl/content/witnesses/the-two-witnesses" %}}
@@ -103,7 +103,7 @@ Every chapter of Revelation, and where this site explains it. For the literary t
 <a name="chiasm"></a>
 Read straight through, Revelation seems to reach the end of the world several times. That is because its series do not form one long timetable: they tell the same age again, each time from a new angle and with rising intensity — what scholars call recapitulation. The strongest sign is that each series ends in the same scene of final judgment and salvation: compare the sixth seal ({{% bible val="6:12–17" link="rev:6,12-17" lang="en" %}}) with the seventh bowl ({{% bible val="16:17–21" link="rev:16,17-21" lang="en" %}}). The numbers give the order of John's visions, not necessarily the order of events in history (Beale, pp. 121–129).
 
-The same holds for the last chapters. Beale sets out chapters 17–22 as a chiasm (Beale, p. 983):
+The same holds for the last chapters. Beale sets out chapters 17–22 as a chiasm, following Snyder (Beale, p. 983):
 
 - A — the judgment of the harlot (17:1–19:6)
 - B — the divine Judge (19:11–16)
@@ -112,7 +112,7 @@ The same holds for the last chapters. Beale sets out chapters 17–22 as a chias
 - D′ — the saints reign and judge for 1,000 years (20:4–6)
 - C′ — the judgment of Gog and Magog (20:7–10; cf. Ezekiel 38–39)
 - B′ — the divine Judge (20:11–15)
-- A′ — the vindication of the bride (21:1–22:5)
+- A′ — the vindication of the bride (21:1–22:5; cf. 19:7–9)
 
 The thousand years stand at the centre, framed by two battles drawn from the same prophecy in Ezekiel 38–39. Read this way, chapter 20 does not come after chapter 19 in time; it steps back and shows the same age from another side. → {{% int_link val="The thousand-year kingdom" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="pre-, post- and amillennialism" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="preterist, historicist, futurist or idealist?" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}}
 

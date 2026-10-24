@@ -32,7 +32,7 @@ In the time of the early church, the Jewish religion was respected by the Roman 
 
 Christians, however, refused to pay the emperor the worship he expected — and worse, from Rome's point of view, they were going around persuading people to follow a Jew named Jesus instead.
 
-For a while Christianity sheltered under Judaism's protection, because Rome saw it as a Jewish sect. That became a risk for the synagogues: since AD 70 every Jew paid a special tax to Rome, the *Fiscus Judaicus*, and under Domitian it was collected harshly, even from people who lived as Jews without saying so. That is part of why some Jews made the authorities aware that the Christians were not Jews at all — which stripped the Christians of Judaism's protection and left them facing the emperor cult.
+For a while Christianity sheltered under Judaism's protection, because Rome saw it as a Jewish sect. That became a risk for the synagogues: since AD 70 every Jew paid a special tax to Rome, the *Fiscus Judaicus*, and under Domitian it was collected harshly, even from people who lived as Jews without saying so. That is probably part of why some Jews made the authorities aware that the Christians were not Jews at all — which stripped the Christians of Judaism's protection and left them facing the emperor cult.
 
 ## Jews in Revelation
 
@@ -51,7 +51,7 @@ That is because the church is part of Israel, not a replacement for it. Revelati
 
 The challenge for the church, then, is to hold both truths at once — being part of Israel while also, at times, being attacked by some in Israel.
 
-There is a lot we can learn from this book about how to navigate that same kind of tension today, whether between different church denominations or in our relationship with Jewish people.
+There is a lot we can learn from this book about how to navigate that same kind of tension today.
 
 [^bow]: Aune, *Revelation 1–5*, p. 238; Beale, p. 94: the promise of Isaiah 45:14; 49:23 and 60:14 is turned around. That conversion may be in view: Beale, p. 82.
 

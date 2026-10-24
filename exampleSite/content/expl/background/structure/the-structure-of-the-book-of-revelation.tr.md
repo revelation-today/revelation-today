@@ -46,7 +46,7 @@ Bu zorluğa karşı Tanrı, hayatlarımız için bir çapa verir: değişmeyen, 
 
 Bundan sonra gelen her şey — mühürler, borazanlar ve kaseler — bu yerden akar; her dizi, taht odasında zaten var olanı yankılayan kendi gök gürültüsü, şimşek ve deprem dizisiyle sona erer. Bu üç dizi birlikte, Tanrı'nın krallığının nasıl gerçekleşeceğinin farklı yönlerini ortaya koyar.
 
-Üç dizinin her biri kendi kesintisini de taşır: mühürler ve borazanlar her biri temayı derinleştirmek için durur, borazanlar ve kaseler ise her biri konuyu daha da geliştiren bir ek bölüm ekler. Kaselerin eki, son bölüme, Yeni Yeruşalim'in kendisine kadar uzanır.
+Üç dizinin her biri kendi kesintisini de taşır: mühürler ve borazanlar her biri temayı derinleştirmek için durur (7. bölüm; 10:1–11:14), borazanlar ve kaseler ise her biri konuyu daha da geliştiren daha uzun bir bölüm ekler (borazanlardan sonra 12–14. bölümler; kaselerden sonra 17:1–22:5). Kaselerin eki, son bölüme, Yeni Yeruşalim'in kendisine kadar uzanır.
 
 ## Mühürler
 
@@ -87,7 +87,7 @@ Vahiy'in her bölümü ve bu sitenin onu nerede açıkladığı. Bu planın ard�
 
 - **1:1–8** — Açılış: yedi kiliseye bir mektubun selamı: {{% int_link val="Temelin oluşturulması" link="/expl/content/vision/setting-the-foundation" %}}
 - **1:9–20** — Kandillikler arasındaki Mesih: {{% int_link val="Görüm" link="/expl/content/vision/the-vision" %}}, {{% int_link val="Kiliselerin meleği" link="/expl/content/letters/the-angel-of-the-churches" %}}
-- **2–3** — Yedi mektup (3 + 4 olarak kurulmuş): {{% int_link val="Yedi kiliseye gönderilen mektuplar" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
+- **2–3** — Yedi mektup (3 + 4 olarak kurulmuş: ilk üçünde "Kulağı olan işitsin" çağrısı galip gelene verilen vaadin önünde, son dördünde ise ardında gelir): {{% int_link val="Yedi kiliseye gönderilen mektuplar" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
 - **4–5** — Taht odası ve Kuzu: {{% int_link val="Taht odasında tapınma" link="/expl/content/worship/worship-in-the-throne-room" %}}, {{% int_link val="Yedi Mühürlü Kitap" link="/expl/content/worship/the-book-with-the-seven-seals" %}}
 - **6:1–8:5** — Yedi mühür: dört atlı, iki mühür daha, bir ara bölüm (7. bölüm), yedinci mühür: {{% int_link val="Dört atlı" link="/expl/content/seals/the-mystery-of-the-four-horse-men" %}}, {{% int_link val="Kuzu’nun Gazabı" link="/expl/content/seals/the-wrath-of-the-lamb" %}}, {{% int_link val="144.000" link="/expl/content/army/the-144000" %}}, {{% int_link val="Son zaman ve büyük sıkıntı" link="/expl/content/army/the-end-time-and-the-great-tribulation" %}}
 - **8:6–11:19** — Yedi borazan: dört, sonra iki, bir ara bölüm (10:1–11:14), yedinci borazan: {{% int_link val="Vahiy’deki trompetler" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}, {{% int_link val="Küçük tomar" link="/expl/content/scroll/the-little-scroll" %}}, {{% int_link val="İki Tanık" link="/expl/content/witnesses/the-two-witnesses" %}}
@@ -103,7 +103,7 @@ Vahiy'in her bölümü ve bu sitenin onu nerede açıkladığı. Bu planın ard�
 <a name="chiasm"></a>
 Baştan sona okunduğunda Vahiy, dünyanın sonuna birkaç kez ulaşıyormuş gibi görünür. Bunun nedeni, dizilerinin tek bir uzun zaman çizelgesi oluşturmamasıdır: aynı çağı her seferinde yeni bir açıdan ve artan bir şiddetle yeniden anlatırlar — uzmanlar buna rekapitülasyon der. En açık işaret, her dizinin aynı son yargı ve kurtuluş sahnesiyle bitmesidir: altıncı mührü ({{% bible val="6:12–17" link="rev:6,12-17" lang="tr" %}}) yedinci kâseyle ({{% bible val="16:17–21" link="rev:16,17-21" lang="tr" %}}) karşılaştırın. Sayılar, olayların tarihteki sırasını değil, Yuhanna'nın görümlerinin sırasını verir (Beale, s. 121–129).
 
-Aynısı son bölümler için de geçerlidir. Beale 17–22. bölümleri bir kiazma olarak düzenler (Beale, s. 983):
+Aynısı son bölümler için de geçerlidir. Beale 17–22. bölümleri bir kiazma olarak düzenler, Snyder'i izleyerek (Beale, s. 983):
 
 - A — fahişenin yargılanması (17:1–19:6)
 - B — ilahi Yargıç (19:11–16)
@@ -112,7 +112,7 @@ Aynısı son bölümler için de geçerlidir. Beale 17–22. bölümleri bir kia
 - D′ — kutsalların 1.000 yıl egemenlik sürmesi ve yargılaması (20:4–6)
 - C′ — Gog ile Magog'un yargılanması (20:7–10; krş. Hezekiel 38–39)
 - B′ — ilahi Yargıç (20:11–15)
-- A′ — gelinin haklı çıkarılması (21:1–22:5)
+- A′ — gelinin haklı çıkarılması (21:1–22:5; krş. 19:7–9)
 
 Bin yıl ortada durur ve Hezekiel 38–39'daki aynı peygamberlikten alınmış iki savaşla çerçevelenir. Böyle okunduğunda 20. bölüm zaman bakımından 19. bölümden sonra gelmez; bir adım geri çekilir ve aynı çağı başka bir yönden gösterir. → {{% int_link val="Bin yıllık krallık" link="/expl/content/1000y/the-thousand-year-kingdom" %}}, {{% int_link val="bin yıl öncesi, sonrası ve amilenyalizm" link="/expl/content/1000y/pre-post-and-amillennialism" %}}, {{% int_link val="preterist, historisist, fütürist ya da idealist?" link="/expl/background/literature/preterist-historicist-futurist-or-idealist" %}}
 

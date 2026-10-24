@@ -111,7 +111,7 @@ This is where it gets serious: {{% bible val="God strikes with the full force th
 
 The {{% bible val="locusts come and destroy everything the hail had left standing" link="exo:10,5" lang="en" %}}. This time, Pharaoh’s {{% bible val="own officials beg him to do as Moses wishes" link="exo:10,7" lang="en" %}} — but he still refuses to let the people go, even as the {{% bible val="plagues continue and Pharaoh admits his sin" link="exo:10,16-17" lang="en" %}}.
 
-The Egyptians had already been exposed by the hail, since there was a god whose only job was protection from locusts, along with special locust amulets meant to serve the same purpose — none of which worked.[^locust]
+Egypt even had a god whose only job was protection from locusts, along with special locust amulets meant to serve the same purpose — none of which worked.[^locust]
 
 ## {{% bible val="9, Darkness" link="exo:10,21-29" lang="en" %}}
 

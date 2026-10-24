@@ -55,7 +55,7 @@ Nach diesem Eingreifen mitten in Isebels Heimatgebiet kommt es zum {{% bible val
 ## Die Jahrwoche bei Daniel
 
 <a name="8ed0"></a>
-Daniel gibt uns die {{% int_link val="70 Wochen, die sich in zwei Halbwochen von je 3,5 Jahren auflösen" link="/expl/bible/daniel/the-70-year-weeks" %}}. Die erste Halbwoche umfasst Jesu Zeit auf der Erde, die zweite vielleicht das Wirken der Gemeinde. Jesu Bund wird selbst {{% bible val="als innerhalb dieser Woche errichtet beschrieben" link="dan:9,27" lang="de" %}}.
+Daniel gibt uns die {{% int_link val="70 Wochen, deren letzte Woche sich in zwei Halbwochen von je 3,5 Jahren teilt" link="/expl/bible/daniel/the-70-year-weeks" %}}. Die erste Halbwoche umfasst Jesu Zeit auf der Erde, die zweite vielleicht das Wirken der Gemeinde. Jesu Bund wird selbst {{% bible val="als innerhalb dieser Woche errichtet beschrieben" link="dan:9,27" lang="de" %}}.
 
 Diese 3,5 Jahre sind also die Zeitspanne, in der Gott im Verborgenen etwas aufbaut, das die Königreiche dieser Welt stürzen wird.
 
@@ -69,6 +69,8 @@ Zur gleichen Zeit wird die Frau {{% bible val="vor dem Angriff des Teufels besch
 Dann gibt es {{% bible val="den Tempel" link="rev:11,1-2" lang="de" %}}, der nicht mehr für Opfer, sondern als Ort der Anbetung genutzt wird. Auch das beginnt mit Jesu Tod, und nichts deutet darauf hin, dass es vor seiner Wiederkunft enden wird.
 
 Bleiben noch die {{% bible val="1260 Tage der beiden Zeugen" link="rev:11,3" lang="de" %}}, die die gesamte Zeit zwischen Jesu erstem und zweitem Kommen umfassen müssen.[^whole] Allein diese Länge legt nahe, dass die „Zeugen“ nicht wirklich zwei Einzelpersonen sind, sondern höchstwahrscheinlich die Gemeinde.
+
+Damit ist auch die zweite Frage beantwortet: Für die Offenbarung sind diese Angaben nicht als genaue Zählung von 1260 Tagen gemeint — jede von ihnen reicht vom Kreuz bis zur Wiederkunft —, sondern als Name für die ganze Zeitspanne, geprägt von Daniels Halbwoche und Elias Dürre.
 
 Warum also wechselt der Text zwischen den Einheiten — hier Tage, dort Monate? Für zwei davon hat Richard Bauckham den Grund gezeigt: 42 Monate bezeichnen die Zeit des Tieres, 1260 Tage die Zeit der Gemeinde — und die beiden Zahlen gehören zu 36, der Wurzel der 666 des Tieres, und zu 1225, der Zahl des Volkes Gottes (Bauckham, *Climax of Prophecy*, S. 400–402; siehe {{% int_link val="Zahlen mit Gestalt" link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#f042" %}}) So markieren die Tage das Zeugnis der Zeugen und die Versorgung Israels, die Monate die Herrschaft des Teufels und die Zertretung des äußeren Vorhofs. Die dritte Einheit, die „Zeiten" oder Jahre, deute ich auf Gottes verborgenes Wirken — das ist meine eigene Beobachtung, die die Kommentare nicht tragen.[^units].
 

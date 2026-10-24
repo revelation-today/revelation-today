@@ -20,7 +20,7 @@ Die Offenbarung ist voller Bilder, die einer ganz anderen Welt zu entstammen sch
 <a name="1d9a"></a>
 Es gibt keine einfache, pauschale Antwort auf die Frage, ob etwas in der Bibel symbolisch, wörtlich oder beides zugleich ist.
 
-Etwas kann symbolisch sein und trotzdem tatsächlich geschehen — dass sich der Nil in Blut verwandelte, verweist zum Beispiel auf {{% bible val="die symbolische Tötung des Nilgottes, während das Wasser tatsächlich blutrot wurde" link="exo:7,14-24" lang="de" %}}. Eine wörtliche Tatsache kann umgekehrt auch selbst zum Symbol werden: Die zwölf leiblichen Söhne Jakobs, aus denen die zwölf von Gott erwählten Stämme hervorgingen, wurden ihrerseits zu einem bleibenden Symbol für das Erwähltsein schlechthin. Mit dieser Flexibilität im Hinterkopf untersucht dieser Artikel, wie das Buch der Offenbarung zu lesen und zu deuten ist.
+Etwas kann symbolisch sein und trotzdem tatsächlich geschehen — dass sich der Nil in Blut verwandelte, verweist zum Beispiel auf {{% bible val="die symbolische Tötung des Nilgottes, während das Wasser tatsächlich zu Blut wurde" link="exo:7,14-24" lang="de" %}}. Eine wörtliche Tatsache kann umgekehrt auch selbst zum Symbol werden: Die zwölf leiblichen Söhne Jakobs, aus denen die zwölf von Gott erwählten Stämme hervorgingen, wurden ihrerseits zu einem bleibenden Symbol für das Erwähltsein schlechthin. Mit dieser Flexibilität im Hinterkopf untersucht dieser Artikel, wie das Buch der Offenbarung zu lesen und zu deuten ist.
 
 ## Das Anliegen des Buches
 
@@ -48,7 +48,7 @@ Die eigene Eröffnung der Offenbarung, „um zu zeigen … was bald geschehen mu
 
 Die Einleitung, die auf die Sendschreiben folgt, verwendet dieselbe Formel erneut: „{{% bible val="Ich will dir zeigen, was danach geschehen muss" link="rev:4,1" lang="de" %}}."
 
-All das spiegelt den Anfang von Daniels Vision wider — „{{% bible val="hat dem König gezeigt, was in der Zukunft geschehen wird" link="dan:2,45" lang="de" %}}" —, während der Schluss der Vision der Offenbarung dem Ende von Daniels Vision ebenso nahekommt: „{{% bible val="um seinen Knechten zu zeigen, was bald geschehen muss" link="rev:22,6" lang="de" %}}."
+All das spiegelt den Anfang von Daniels Vision wider — „{{% bible val="hat König Nebukadnezar gezeigt, was in künftigen Tagen geschehen wird" link="dan:2,28-29" lang="de" %}}" —, während der Schluss der Vision der Offenbarung dem Ende von Daniels Vision ebenso nahekommt, „{{% bible val="der große Gott hat dem König gezeigt, was in der Zukunft geschehen wird" link="dan:2,45" lang="de" %}}": „{{% bible val="um seinen Knechten zu zeigen, was bald geschehen muss" link="rev:22,6" lang="de" %}}."
 
 In der deutschen Übersetzung wirken die Parallelen vielleicht etwas dünn, aber sie werden deutlich klarer, sobald man das Griechisch der Septuaginta-Übersetzung von Daniel direkt mit dem griechischen Text der Offenbarung vergleicht.
 
@@ -75,7 +75,7 @@ Das verwandte Substantiv wird häufig für die Wunder Jesu verwendet, als Zeiche
 - Es kennzeichnet {{% bible val="seine Macht, geistliches Leben zu geben" link="jhn:4,46-54" lang="de" %}}, ebenso wie {{% bible val="geistliche Auferstehung" link="jhn:5,19-29" lang="de" %}}.
 - {{% bible val="Die Speisung der 5000" link="jhn:6,5-14" lang="de" %}} zeigt Jesu Macht, geistliche Nahrung zu geben.
 
-Das Wort *semaino* kann auch schlicht „bekanntmachen" oder „ankündigen" bedeuten, aber wenn Johannes hier diesen Sinn hätte betonen wollen, hätte ihm ein naheliegenderes Wort zur Verfügung gestanden — *gnorizo* — für das er sich jedoch nicht entschieden hat.
+Das Wort *semaino* kann auch schlicht „bekanntmachen" oder „ankündigen" bedeuten, aber wenn Johannes hier diesen Sinn hätte betonen wollen, hätte ihm ein naheliegenderes Wort zur Verfügung gestanden — *gnorizo* — für das er sich jedoch nicht entschieden hat.[^gnorizo]
 
 ### [deiknumi](https://biblehub.com/greek/1166.htm)
 
@@ -107,3 +107,5 @@ Und tatsächlich ist das Buch voll von Dingen, die offensichtlich symbolisch sin
 [^daniel]: „Danach" ist der Wortlaut von Dan 2,29.45 in der griechischen Übersetzung des Theodotion; Johannes verwendet ihn erneut in 4,1. Siehe Beale, S. 137–139, 152–159.
 [^signs]: Beale, S. 50–52.
 [^levels]: Beale, S. 53, unterscheidet, was Johannes sah (die Vision), worauf es sich in der Geschichte bezieht und was es bedeutet. Gegen die umgekehrte Regel „wörtlich, solange nicht eindeutig symbolisch“ siehe S. 52–55; sein Beispiel ist der Hagel der ersten Posaune (S. 54).
+
+[^gnorizo]: Beale, S. 51.

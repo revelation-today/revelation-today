@@ -55,7 +55,7 @@ Setelah campur tangan itu di wilayah asal Izebel, terjadilah {{% bible val="pert
 ## Minggu Tahun dalam Daniel
 
 <a name="8ed0"></a>
-Daniel memberi kita {{% int_link val="70 minggu, yang terurai menjadi dua setengah-minggu, masing-masing tiga setengah tahun" link="/expl/bible/daniel/the-70-year-weeks" %}}. Setengah-minggu pertama mencakup masa Yesus di bumi, dan yang kedua, mungkin, karya gereja. Perjanjian Yesus sendiri {{% bible val="digambarkan diteguhkan dalam minggu ini" link="dan:9,27" lang="ind" %}}.
+Daniel memberi kita {{% int_link val="70 minggu, yang minggu terakhirnya terbagi menjadi dua setengah-minggu, masing-masing tiga setengah tahun" link="/expl/bible/daniel/the-70-year-weeks" %}}. Setengah-minggu pertama mencakup masa Yesus di bumi, dan yang kedua, mungkin, karya gereja. Perjanjian Yesus sendiri {{% bible val="digambarkan diteguhkan dalam minggu ini" link="dan:9,27" lang="ind" %}}.
 
 Ketiga setengah tahun ini, dengan demikian, adalah masa ketika Allah diam-diam sedang membangun sesuatu yang akan menggulingkan kerajaan-kerajaan dunia ini.
 
@@ -69,6 +69,8 @@ Pada saat yang sama, perempuan itu {{% bible val="dilindungi dari serangan Iblis
 Kemudian ada {{% bible val="bait Allah" link="rev:11,1-2" lang="ind" %}}, yang tidak lagi digunakan untuk korban persembahan, melainkan sebagai tempat penyembahan. Ini pun dimulai dengan kematian Yesus, dan tidak ada petunjuk bahwa ini akan berakhir sebelum Ia kembali.
 
 Yang tersisa adalah {{% bible val="1260 hari kedua saksi itu" link="rev:11,3" lang="ind" %}}, yang pasti mencakup seluruh masa antara kedatangan Yesus yang pertama dan yang kedua.[^whole] Panjangnya masa ini saja menunjukkan bahwa "kedua saksi" itu sebenarnya bukan dua pribadi, melainkan kemungkinan besar adalah gereja.
+
+Itu juga menjawab pertanyaan kedua: bagi Kitab Wahyu, masa-masa ini tidak dimaksudkan sebagai hitungan tepat 1.260 hari — masing-masing berjalan dari salib sampai kedatangan kembali — melainkan sebagai nama bagi seluruh periode itu, yang dibentuk oleh setengah-minggu Daniel dan kemarau Elia.
 
 Lalu mengapa teks ini berpindah-pindah satuan — di sini hari, di sana bulan? Untuk dua di antaranya Richard Bauckham telah menunjukkan alasannya: 42 bulan menandai masa binatang itu, 1260 hari masa gereja — dan kedua bilangan itu terkait dengan 36, akar dari 666 milik binatang itu, dan dengan 1225, bilangan umat Allah (Bauckham, *Climax of Prophecy*, hlm. 400–402; lihat {{% int_link val="bilangan yang berbentuk" link="/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#f042" %}}) Jadi hari-hari itu menandai kesaksian kedua saksi dan pemeliharaan atas Israel, dan bulan-bulan itu menandai pemerintahan Iblis serta penginjakan pelataran luar. Satuan ketiga, "masa" atau tahun, saya baca sebagai karya Allah yang tersembunyi — itu pengamatan saya sendiri, bukan sesuatu yang ditopang para penafsir.[^units]. Namun yang jelas ditunjukkan oleh kesejajaran ini adalah: pemerintahan Iblis dan pemerintahan gereja yang diberikan Allah berjalan berdampingan, dan meskipun dunia tampak seolah-olah dikuasai Iblis, gerejalah yang sesungguhnya memegang kendali.
 

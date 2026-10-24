@@ -34,7 +34,7 @@ Babil'deki inşaatçılar kendilerine bir ad yapmak istediler, ama bunun yerine 
 <a name="ca70"></a>
 Tanrı yine de insanlarla ilişki içinde olmayı özlüyordu. Bu yüzden İsrail'i Mısır'dan çıkardığında (Çıkış 1–14), onlarla kendi koşullarında yaşamayı seçti; önce bir çadırda, sonra da bir evde — tapınakta — onlara katıldı.
 
-Tapınak, Aden bahçesinden ödünç alınan imgelerle kaplıydı; bu da basit bir mantığı yansıtıyordu: insan artık bahçede Tanrı'yla paydaşlık kuramadığına göre, Tanrı bunun yerine tapınakta insanla paydaşlık kuracaktı. Ve tapınak, en baştan itibaren İsrailli olmayanların da katılımına açık olacak şekilde tasarlanmıştı.
+Tapınak, Aden bahçesinden ödünç alınan imgelerle kaplıydı; bu da basit bir mantığı yansıtıyordu: insan artık bahçede Tanrı'yla paydaşlık kuramadığına göre, Tanrı bunun yerine tapınakta insanla paydaşlık kuracaktı. Ve tapınak, en baştan itibaren İsrailli olmayanların da katılımına açık olacak şekilde tasarlanmıştı: Süleyman, Tanrı'nın bu eve doğru dua eden yabancıyı da işitmesi için dua eder ({{% bible val="1 Krallar 8:41–43" link="1ki:8,41-43" lang="tr" %}}), Yeşaya ise ona {{% bible val="bütün halklar için bir dua evi" link="isa:56,7" lang="tr" %}} der.
 
 Tapınağın en iç bölümü, yalnızca Başkâhin'in ve yılda yalnızca bir kez, Kefaret Günü'nde girebildiği En Kutsal Yer'di. Tanrı'nın varlığının bulunduğu yer burasıydı; daha önce, Buluşma Çadırı'nda Tanrı Musa'yla sandığın üzerinden konuşmuştu (Çık 25:22).
 

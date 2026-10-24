@@ -27,11 +27,11 @@ Davut bundan derinden sarsılır ve yeniden denemesi — bu kez farklı bir şek
 
 Bunu anlamlandırmak için öyküde biraz daha geriye gitmemiz gerekir. Tanrı, çadırın sürekli hareket hâlinde olduğu Mısır'dan Çıkış günlerinde, sandık ve kutsal yerle ilgili buyruklarını verirken, bunların nasıl taşınması gerektiği konusunda çok açıktı.
 
-En içteki eşyalar, yalnızca tüm İsrail adına bu amaç için kutsanmış olan Levililer tarafından taşınacaktı. Sandık, Tanrı'nın yaşadığı yerdi ve O'nun bir hayvan tarafından taşınmaya hiç ilgisi yoktu — yolculuk boyunca kendi sevgili halkıyla fiziksel temas hâlinde kalmak istiyordu.
+En içteki eşyalar, yalnızca tüm İsrail adına bu amaç için kutsanmış olan Levililer tarafından taşınacaktı ({{% bible val="Sayılar 4:4–15" link="num:4,4-15" lang="tr" %}}). Sandık, Tanrı'nın yaşadığı yerdi ve O'nun bir hayvan tarafından taşınmaya hiç ilgisi yoktu — yolculuk boyunca kendi sevgili halkıyla fiziksel temas hâlinde kalmak istiyordu.
 
 Sandık Filistin topraklarından geri geldiğinde, Filistliler'in daha iyisini bilmeyip onu bir arabaya koymaları hoş görülebilirdi. Ama İsrail'in böyle bir mazereti yoktu, en azından Uzza'nın — sandık, babasının evinde yaklaşık 20 yıl boyunca durmuştu.
 
-Görünüşe göre Tanrı, sandığı arabadan kaydırarak bu düzenlemeden kurtulmak istedi. Uzza onu durdurdu ve Tanrı bunun için onu cezalandırdı.
+Metin gerekçeleri kendisi verir. Kutsal şeylere dokunmak ölüm demekti ({{% bible val="Sayılar 4:15" link="num:4,15" lang="tr" %}}); Davut sonradan İsrail'in sandığın nasıl taşınacağını {{% bible val="Tanrı'ya sormadığını" link="1ch:15,13-15" lang="tr" %}} kabul eder; 2. Samuel ise Tanrı'nın Uzza'yı {{% bible val="hatası yüzünden" link="2sa:6,7" lang="tr" %}} vurduğunu söyler. Bu sayfa, metnin söylemediği kendi düşüncesini ekler: Tanrı'nın bir arabada yolculuk etmekle yetinmediği ve sandığın kaydığı anın bunu açıkça gösterdiği.
 
 ## Peki ya bugün?
 

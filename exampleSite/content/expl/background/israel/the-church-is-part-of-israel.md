@@ -108,7 +108,7 @@ Consider Titus: “{{% bible val="Who gave Himself for us to redeem us from all 
 
 God calls Israel His {{% bible val="very own treasured possession" link="exo:19,5" lang="en" %}}, because he {{% bible val="chose Israel" link="deu:7,6" lang="en" %}} to be {{% bible val="pure" link="deu:14,2" lang="en" %}}, so that {{% bible val="Israel would follow His commandments" link="deu:26,18" lang="en" %}}.
 
-The phrase "eager to do what is good" is a call for Israel to be obedient to God, and "redeemed from all wickedness" echoes the {{% bible val="Psalms, where Israel is promised redemption from all wickedness" link="psa:130,8" lang="en" %}}.
+In every one of those Old Testament passages the title is tied to Israel's obedience, and Paul's closing phrase, "eager to do what is good," sums that up for the church. "Redeemed from all wickedness" echoes the {{% bible val="Psalms, where Israel is promised redemption from all wickedness" link="psa:130,8" lang="en" %}}, a promise that Paul sees beginning to be fulfilled in the church.[^titus]
 
 ## The ministry
 
@@ -127,7 +127,7 @@ You may already know that the {{% bible val="prophecy of Joel" link="jol:2,28-32
 
 Joel's prophecy describes the restoration of Israel starting from {{% bible val="verse 18" link="jol:2,18" lang="en" %}} onward, and especially the {{% bible val="verse right after that, which refers explicitly to Israel" link="jol:3,1" lang="en" %}}. What's more, the outpouring of the Spirit was promised to {{% bible val="Israel" link="ezk:36,27" lang="en" %}} and to the {{% bible val="servant" link="isa:42,1" lang="en" %}}; the nations come into it through him.[^spirit]
 
-The outpouring was to take place {{% bible val="in the last days" link="act:2,17" lang="en" %}}, a phrase used in exactly that sense in {{% bible val="Isaiah" link="isa:2,2" lang="en" %}} and in the same oracle in Micah 4:1, where it describes the nations streaming to Jerusalem. The {{% bible val="nations listed" link="act:2,5-11" lang="en" %}} at Pentecost are a {{% bible val="smaller version of the scattered list from the Tower of Babel" link="gen:10" lang="en" %}}, showing that what happens here is meant to apply to all nations.
+The outpouring was to take place {{% bible val="in the last days" link="act:2,17" lang="en" %}}, a phrase used in exactly that sense in {{% bible val="Isaiah" link="isa:2,2" lang="en" %}} and in the same oracle in Micah 4:1, where it describes the nations streaming to Jerusalem. The {{% bible val="nations listed" link="act:2,5-11" lang="en" %}} at Pentecost are a {{% bible val="abbreviated version of the seventy nations" link="gen:10" lang="en" %}} of Genesis 10–11, the peoples scattered at the Tower of Babel, showing that what happens here is meant to apply to all nations.[^pentecost]
 
 That is confirmed when {{% bible val="Cornelius and his household receive the Holy Spirit" link="act:10,44-48" lang="en" %}} — an event so {{% bible val="astonishing that those who criticised Peter for entering a Gentile house fell silent and praised God" link="act:11,1-18" lang="en" %}}.
 
@@ -138,3 +138,7 @@ Acts 2, in other words, is the fulfillment of Acts 1 (being filled with the Holy
 | until the *Spirit is poured on us from on high*, and the desert becomes a fertile field, and the fertile field seems like a forest. {{% bible val="Isa 32:15" link="isa:32,15" lang="en" %}} </br> **You are my witnesses**, declares the LORD, and my servant whom I have chosen, so that you may know and believe me and understand that I am he. Before me no god was formed, nor will there be one after me. {{% bible val="Isa 43:10" link="isa:43,10" lang="en" %}} </br> **You are my witnesses**, declares the LORD, that I am God. {{% bible val="Isa 43:12" link="isa:43,12" lang="en" %}} </br> I will also make you a light for the Gentiles, that *you may be my salvation to the ends of the earth*. {{% bible val="Isa 49:6" link="isa:49,6" lang="en" %}} | But you will receive power (the fulfilment of {{% bible val="Luke" link="luk:24,49" lang="en" %}}) when the *Holy Spirit comes on you*, and you will be **my witnesses** in Jerusalem, and in all Judea and Samaria, and *to the ends of the earth*. (See {{% bible val="Acts" link="act:13,47" lang="en" %}}, which quotes {{% bible val="Isaiah" link="isa:49,6" lang="en" %}}.) |
 
 [^spirit]: That the nations are brought in *through* the servant, and not alongside him, is the shape of Revelation’s own argument. Bauckham, *Theology*, pp. 84–87, 98, 103: the church’s faithful witness is "instrumental in the conversion of the nations of the world", so that the churches "by their witness in the world, could participate in bringing all the nations into the kingdom of God and his Christ".
+
+[^pentecost]: Beale, *A New Testament Biblical Theology*, on Acts 2:5–11, following James M. Scott, "Luke's Geographical Horizon" (1994), pp. 483–544, and *Paul and the Nations* (1995), pp. 162–80.
+
+[^titus]: Beale, *A New Testament Biblical Theology*, on Titus 2:14 ("Christians as Redeemed from Iniquity and a Special People for God").

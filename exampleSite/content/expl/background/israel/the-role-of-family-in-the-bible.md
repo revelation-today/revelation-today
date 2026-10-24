@@ -22,11 +22,11 @@ In the ancient world, to belong meant to belong to a family — and the Bible de
 ## The importance of family
 
 <a name="8181"></a>
-In the ancient world there was no real legal system, no insurance, no social safety net. Everything ran through the family you were born into. The family made decisions within the clan (weighted by how important that family was), the clan operated within the tribe, and the tribe within the nation.
+In the ancient world there was no state welfare, no police force, no insurance. Law existed — Hammurabi's code, the Torah, the elders at the gate — but everything else ran through the family you were born into. The family made decisions within the clan (weighted by how important that family was), the clan operated within the tribe, and the tribe within the nation.
 
 Society was built bottom-up, with the family as its smallest unit. So it mattered enormously not just that you belonged to a family, but which family, what role you played in it, what gender you were, and where you fell in the birth order.
 
-The Bible is sharply critical of this system, because it obviously left people without a safety net whenever they had no family behind them — widows, orphans, and families with little standing. That's why Scripture repeatedly shows God stepping in as the defender of [widows](https://www.bibleserver.com/search/NIV/widows) and orphans, even making care for them a {{% bible val="key element of faith" link="jas:1,27" lang="en" %}}.
+The Bible does not reject this system as such, but it is sharply critical of the gaps it left: people without a safety net whenever they had no family behind them — widows, orphans, and families with little standing. That's why Scripture repeatedly shows God stepping in as the defender of [widows](https://www.bibleserver.com/search/NIV/widows) and orphans, even making care for them a {{% bible val="key element of faith" link="jas:1,27" lang="en" %}}.
 
 God also chooses important people — kings, no less — from the very families the culture would have overlooked:
 
