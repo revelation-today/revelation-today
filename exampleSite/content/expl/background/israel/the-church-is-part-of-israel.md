@@ -127,7 +127,7 @@ You may already know that the {{% bible val="prophecy of Joel" link="jol:2,28-32
 
 Joel's prophecy describes the restoration of Israel starting from {{% bible val="verse 18" link="jol:2,18" lang="en" %}} onward, and especially the {{% bible val="verse right after that, which refers explicitly to Israel" link="jol:3,1" lang="en" %}}. What's more, the outpouring of the Spirit was promised to {{% bible val="Israel" link="ezk:36,27" lang="en" %}} and to the {{% bible val="servant" link="isa:42,1" lang="en" %}}; the nations come into it through him.[^spirit]
 
-The outpouring was to take place {{% bible val="in the last days" link="act:2,17" lang="en" %}}, a phrase used in exactly that sense in {{% bible val="Isaiah" link="isa:2,2" lang="en" %}} and in the same oracle in Micah 4:1, where it describes the nations streaming to Jerusalem. The {{% bible val="nations listed" link="act:2,5-11" lang="en" %}} at Pentecost are a {{% bible val="abbreviated version of the seventy nations" link="gen:10" lang="en" %}} of Genesis 10–11, the peoples scattered at the Tower of Babel, showing that what happens here is meant to apply to all nations.[^pentecost]
+The outpouring was to take place {{% bible val="in the last days" link="act:2,17" lang="en" %}}, a phrase used in exactly that sense in {{% bible val="Isaiah" link="isa:2,2" lang="en" %}} and in the same oracle in Micah 4:1, where it describes the nations streaming to Jerusalem. The {{% bible val="nations listed" link="act:2,5-11" lang="en" %}} at Pentecost are, on one reading, an {{% bible val="abbreviated version of the seventy nations" link="gen:10" lang="en" %}} of Genesis 10–11, the peoples scattered at the Tower of Babel, which would show that what happens here is meant to apply to all nations.[^pentecost]
 
 That is confirmed when {{% bible val="Cornelius and his household receive the Holy Spirit" link="act:10,44-48" lang="en" %}} — an event so {{% bible val="astonishing that those who criticised Peter for entering a Gentile house fell silent and praised God" link="act:11,1-18" lang="en" %}}.
 
@@ -139,6 +139,6 @@ Acts 2, in other words, is the fulfillment of Acts 1 (being filled with the Holy
 
 [^spirit]: That the nations are brought in *through* the servant, and not alongside him, is the shape of Revelation’s own argument. Bauckham, *Theology*, pp. 84–87, 98, 103: the church’s faithful witness is "instrumental in the conversion of the nations of the world", so that the churches "by their witness in the world, could participate in bringing all the nations into the kingdom of God and his Christ".
 
-[^pentecost]: Beale, *A New Testament Biblical Theology*, on Acts 2:5–11, following James M. Scott, "Luke's Geographical Horizon" (1994), pp. 483–544, and *Paul and the Nations* (1995), pp. 162–80.
+[^pentecost]: Beale, *A New Testament Biblical Theology*, pp. 605, 610, on Acts 2:5–11. He reports that "some commentators" read the list this way, and follows James M. Scott, "Luke's Geographical Horizon" (1994), pp. 483–544, and *Paul and the Nations* (1995), pp. 162–80.
 
-[^titus]: Beale, *A New Testament Biblical Theology*, on Titus 2:14 ("Christians as Redeemed from Iniquity and a Special People for God").
+[^titus]: Beale, *A New Testament Biblical Theology*, pp. 674–675, on Titus 2:14 ("Christians as Redeemed from Iniquity and a Special People for God").

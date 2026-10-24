@@ -26,7 +26,7 @@ Ada sebuah eksodus dari Mesir. Tetapi ketika Israel gagal menaati Hukum Taurat, 
 ## Eksodus dalam Injil Markus
 
 <a name="f526"></a>
-Baris-baris pembuka Injil Markus dipadati dengan gaung peristiwa Keluaran:
+Baris-baris pembuka Injil Markus dipadati dengan gaung peristiwa Keluaran:[^watts]
 
 - {{% bible val="Aku akan mengutus utusan-Ku" link="mrk:1,2" lang="ind" %}} sejajar dengan {{% bible val="malaikat pemimpin dalam peristiwa Keluaran" link="exo:23,20" lang="ind" %}} maupun {{% bible val="utusan bagi Hari Tuhan" link="mal:3,1" lang="ind" %}} — dalam kedua kasus itu, sesosok tokoh yang kedatangannya memperingatkan penghakiman atas ketidaktaatan.
 - {{% bible val="Ada suara orang yang berseru-seru di padang gurun, 'Persiapkanlah jalan untuk Tuhan, luruskanlah jalan bagi-Nya.'" link="mrk:1,3" lang="ind" %}} mengangkat kembali nubuat {{% bible val="Yesaya" link="isa:40,3" lang="ind" %}}, yang sendirinya adalah sebuah pesan pemulihan.
@@ -55,7 +55,7 @@ Ketika {{% bible val="Yesus membaca dari Kitab Yesaya, Ia menyatakan penggenapan
 ## Eksodus Baru dalam Kisah Para Rasul
 
 <a name="b683"></a>
-Lukas kembali menggunakan bahasa "jalan" yang sama ini sebanyak enam kali dalam Kisah Para Rasul:
+Lukas kembali menggunakan bahasa "jalan" yang sama ini sebanyak enam kali dalam Kisah Para Rasul:[^pao]
 
 - {{% bible val="pada pertobatan Saulus" link="act:9,2" lang="ind" %}},
 - {{% bible val="di Efesus" link="act:19,9" lang="ind" %}}, bahkan {{% bible val="dua kali" link="act:19,23" lang="ind" %}},
@@ -101,3 +101,7 @@ Eksodus baru yang telah lama dinantikan Israel akhirnya terjadi — dan itu teri
 Jika dibaca dengan cara ini, Injil dan Kisah Para Rasul menelusuri satu ketegangan tunggal yang berkelanjutan: pemulihan Israel yang percaya kepada Kristus, berjalan berdampingan dengan keselamatan bangsa-bangsa lain yang sedang ditarik masuk bersama-sama dengan mereka.
 
 [^exile]: Beale, hlm. 19; N. T. Wright, *The New Testament and the People of God*, hlm. 268–272. Tesis ini diperdebatkan: lihat J. M. Scott (ed.), *Exile: A Conversation with N. T. Wright* (2017).
+
+[^watts]: Pembacaan Injil Markus ini, termasuk tabel di bawah, berasal dari Rikki Watts, *Isaiah's New Exodus in Mark*, sebagaimana diringkas dalam Beale, *A New Testament Biblical Theology*, hlm. 694–698.
+
+[^pao]: Pembacaan Lukas dan Kisah Para Rasul di bagian ini dan bagian berikutnya, termasuk keenam tema di bawah, berasal dari David Pao, *Acts and the Isaianic New Exodus*, sebagaimana diringkas dalam Beale, *A New Testament Biblical Theology*, hlm. 699–703.

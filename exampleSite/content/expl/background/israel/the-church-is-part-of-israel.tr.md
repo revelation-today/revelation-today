@@ -127,7 +127,7 @@ Ruh'un dökülüşüyle ilgili {{% bible val="Yoel'in peygamberlik sözünün" l
 
 Yoel'in peygamberlik sözü, {{% bible val="18. ayetten" link="jol:2,18" lang="tr" %}} itibaren İsrail'in restorasyonunu anlatır, özellikle de {{% bible val="hemen ardından gelen ve açıkça İsrail'e atıfta bulunan ayeti" link="jol:3,1" lang="tr" %}}. Dahası, Ruh'un dökülmesi {{% bible val="İsrail'e" link="ezk:36,27" lang="tr" %}} ve {{% bible val="hizmetkâra" link="isa:42,1" lang="tr" %}} vaat edilmiştir; uluslar bu vaade onun aracılığıyla girer.[^spirit]
 
-Bu dökülme {{% bible val="son günlerde" link="act:2,16-17" lang="tr" %}} gerçekleşecekti; bu ifade tam olarak bu anlamda {{% bible val="Yeşaya'da" link="isa:2,2" lang="tr" %}} ve aynı bildiride Mika 4:1'de, ulusların Yeruşalim'e akın etmesini anlatırken kullanılır. Pentikost'ta {{% bible val="sayılan uluslar" link="act:2,5-11" lang="tr" %}}, {{% bible val="yetmiş ulusun kısaltılmış bir listesidir" link="gen:10" lang="tr" %}} (Yaratılış 10–11); bu uluslar Babil Kulesi'nde dağılmıştı. Bu da burada olanın tüm uluslara uygulanmak üzere tasarlandığını gösterir.[^pentecost]
+Bu dökülme {{% bible val="son günlerde" link="act:2,16-17" lang="tr" %}} gerçekleşecekti; bu ifade tam olarak bu anlamda {{% bible val="Yeşaya'da" link="isa:2,2" lang="tr" %}} ve aynı bildiride Mika 4:1'de, ulusların Yeruşalim'e akın etmesini anlatırken kullanılır. Pentikost'ta {{% bible val="sayılan uluslar" link="act:2,5-11" lang="tr" %}}, bir okumaya göre {{% bible val="yetmiş ulusun kısaltılmış bir listesidir" link="gen:10" lang="tr" %}} (Yaratılış 10–11); bu uluslar Babil Kulesi'nde dağılmıştı. Bu doğruysa burada olanın tüm uluslara uygulanmak üzere tasarlandığını gösterir.[^pentecost]
 
 Bu, {{% bible val="Kornelius ve ev halkı Kutsal Ruh'u aldığında" link="act:10,44-48" lang="tr" %}} doğrulanır — bu öyle {{% bible val="şaşırtıcı bir olaydı ki, Petrus'u bir Yahudi olmayanın evine girdiği için eleştirenler sustular ve Tanrı'yı yücelttiler" link="act:11,1-18" lang="tr" %}}.
 
@@ -139,6 +139,6 @@ Başka bir deyişle, Elçilerin İşleri 2, Elçilerin İşleri 1'in (Kutsal Ruh
 
 [^spirit]: Ulusların hizmetkârın yanında değil, *onun aracılığıyla* içeri alınması, Vahiy’in kendi argümanının biçimidir. Bauckham, *Theology*, s. 84–87, 98, 103: kilisenin sadık tanıklığı "dünya uluslarının dönüşünde belirleyici" olur; öyle ki kiliseler "dünyadaki tanıklıklarıyla, bütün ulusları Tanrı’nın ve Mesihi’nin krallığına getirmeye katılabilsin".
 
-[^pentecost]: Beale, *A New Testament Biblical Theology*, Elç. 2:5–11 üzerine, James M. Scott’ı izleyerek, "Luke’s Geographical Horizon" (1994), s. 483–544, ve *Paul and the Nations* (1995), s. 162–80.
+[^pentecost]: Beale, *A New Testament Biblical Theology*, s. 605, 610, Elç. 2:5–11 üzerine. "Bazı yorumcuların" listeyi böyle okuduğunu aktarır ve James M. Scott’ı izler, "Luke’s Geographical Horizon" (1994), s. 483–544, ve *Paul and the Nations* (1995), s. 162–80.
 
-[^titus]: Beale, *A New Testament Biblical Theology*, Tit. 2:14 üzerine ("Christians as Redeemed from Iniquity and a Special People for God").
+[^titus]: Beale, *A New Testament Biblical Theology*, s. 674–675, Tit. 2:14 üzerine ("Christians as Redeemed from Iniquity and a Special People for God").

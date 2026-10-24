@@ -71,7 +71,7 @@ Wenn Jesus von sich selbst spricht, [verwendet er vor allem den Titel Menschenso
 
 Wie also lässt sich die Prophezeiung auf ihn anwenden?
 
-Jesus ist der Überrest Israels — es gibt sonst niemanden mehr, der diese Rolle ausfüllen könnte. Wie das heilige Volk in der Vision wird er ausgeliefert, besiegt und getötet und dann ins Recht gesetzt: Das Gericht tritt zusammen, und das Königreich wird ihm gegeben. Die Niederlage kommt vor dem Sieg, für ihn wie für sie.
+Jesus ist der Überrest Israels — es gibt sonst niemanden mehr, der diese Rolle ausfüllen könnte.[^one] Wie das heilige Volk in der Vision wird er ausgeliefert, besiegt und getötet und dann ins Recht gesetzt: Das Gericht tritt zusammen, und das Königreich wird ihm gegeben. Die Niederlage kommt vor dem Sieg, für ihn wie für sie.
 
 Wer ist das Horn? Nicht Israel. Bei Daniel ist das Horn der letzte König des vierten Tieres, und die Offenbarung nimmt es in ihrem eigenen Tier auf, der Macht, die Krieg gegen die Heiligen führt (13,5–7).[^horn] Diese Macht war am Kreuz am Werk durch alle, die beteiligt waren: einen römischen Statthalter, der den Befehl gab, Soldaten, die ihn ausführten, und Führer seines eigenen Volkes, die {{% bible val="sich gegen ihn verschworen" link="jhn:11,45-54" lang="de" %}} und {{% bible val="auf seine Hinrichtung drängten" link="jhn:19,1-15" lang="de" %}}. {{% bible val="Die Seinen nahmen ihn nicht auf" link="jhn:1,11-14" lang="de" %}} — und das ist der Schmerz dieser Geschichte, nicht ihr Urteil.
 
@@ -98,6 +98,8 @@ Die Zeugen werden mit dem Menschensohn identifiziert, weil sie das Muster von Je
 - {{% bible val="Aber das ist nicht ihre Niederlage, denn sie werden auferweckt wie Jesus" link="rev:11,8-11" lang="de" %}}.
 - {{% bible val="Sie werden erhöht wie Jesus" link="rev:11,12" lang="de" %}}.
 
-[^corporate]: Beale, S. 221: der Menschensohn als korporativer Repräsentant der Heiligen. Frühe jüdische Ausleger verstanden ihn als Israel (Beale, S. 259). Andere sehen in der Gestalt einen Engel, Michael (so John J. Collins).
+[^corporate]: Beale, S. 221: der Menschensohn als korporativer Repräsentant der Heiligen. Frühe jüdische Ausleger verstanden ihn als Israel (Beale, S. 259). Andere sehen in der Gestalt einen Engel, Michael (so John J. Collins). In *A New Testament Biblical Theology*, S. 394–397, nennt Beale die Gestalt in erster Linie die Heiligen und in zweiter Linie einen einzelnen König, verbunden durch „korporative Repräsentation“.
 
 [^horn]: Beale, S. 90, 270, 633.
+
+[^one]: Beale, *A New Testament Biblical Theology*, S. 606, zu Joel 2,32: Die Weissagung eines Überrests erfüllt sich „zuerst im Überrest von Einem, Jesus, dem Messias“.

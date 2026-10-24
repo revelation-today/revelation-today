@@ -26,7 +26,7 @@ Es gab einen Auszug aus Ägypten. Aber als Israel es versäumte, das Gesetz zu h
 ## Der Auszug bei Markus
 
 <a name="f526"></a>
-Die einleitenden Zeilen des Markusevangeliums sind dicht gepackt mit Anklängen an den Auszug:
+Die einleitenden Zeilen des Markusevangeliums sind dicht gepackt mit Anklängen an den Auszug:[^watts]
 
 - {{% bible val="Ich werde meinen Boten senden" link="mrk:1,2" lang="de" %}} entspricht sowohl dem {{% bible val="leitenden Engel beim Auszug" link="exo:23,20" lang="de" %}} als auch dem {{% bible val="Boten für den Tag des Herrn" link="mal:3,1" lang="de" %}} — in beiden Fällen eine Gestalt, deren Kommen vor dem Gericht für Ungehorsam warnt.
 - {{% bible val="Eine Stimme ruft in der Wüste: „Bereitet den Weg des Herrn, macht seine Pfade gerade.“" link="mrk:1,3" lang="de" %}} greift die Prophetie {{% bible val="Jesajas" link="isa:40,3" lang="de" %}} auf, selbst eine Botschaft der Wiederherstellung.
@@ -55,7 +55,7 @@ Als {{% bible val="Jesus aus Jesaja vorlas, erklärte er dessen Erfüllung" link
 ## Der neue Auszug in der Apostelgeschichte
 
 <a name="a809"></a>
-Lukas greift diese Sprache vom „Weg“ in der Apostelgeschichte sechsmal wieder auf:
+Lukas greift diese Sprache vom „Weg“ in der Apostelgeschichte sechsmal wieder auf:[^pao]
 
 - {{% bible val="bei der Bekehrung des Saulus" link="act:9,2" lang="de" %}},
 - {{% bible val="in Ephesus" link="act:19,9" lang="de" %}}, sogar {{% bible val="zweimal" link="act:19,23" lang="de" %}},
@@ -101,3 +101,7 @@ Der neue Auszug, auf den Israel so lange gewartet hatte, geschieht endlich — u
 So gelesen, zeichnen Evangelium und Apostelgeschichte eine einzige, fortlaufende Spannung nach: die Wiederherstellung des Israel, das an Christus glaubt, zusammen mit der Rettung der Nationen, die gemeinsam mit ihnen hinzugezogen werden.
 
 [^exile]: Beale, S. 19; N. T. Wright, *The New Testament and the People of God*, S. 268–272. Die These ist umstritten: siehe J. M. Scott (Hg.), *Exile: A Conversation with N. T. Wright* (2017).
+
+[^watts]: Diese Lesart des Markusevangeliums, einschließlich der Tabelle unten, stammt von Rikki Watts, *Isaiah's New Exodus in Mark*, in der Zusammenfassung bei Beale, *A New Testament Biblical Theology*, S. 694–698.
+
+[^pao]: Die Lesart von Lukas und Apostelgeschichte in diesem und den folgenden Abschnitten, einschließlich der sechs Themen unten, stammt von David Pao, *Acts and the Isaianic New Exodus*, in der Zusammenfassung bei Beale, *A New Testament Biblical Theology*, S. 699–703.

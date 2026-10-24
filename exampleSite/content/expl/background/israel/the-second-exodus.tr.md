@@ -26,7 +26,7 @@ Mısır'dan bir Çıkış yaşandı. Ama İsrail yasayı tutmayı başaramayınc
 ## Markos'taki Çıkış
 
 <a name="098c"></a>
-Markos Müjdesi'nin açılış satırları Çıkış'a yapılan göndermelerle doludur:
+Markos Müjdesi'nin açılış satırları Çıkış'a yapılan göndermelerle doludur:[^watts]
 
 - {{% bible val="Habercimi göndereceğim" link="mrk:1,2" lang="tr" %}} ifadesi hem {{% bible val="Mısır'dan Çıkış'taki öncü meleği" link="exo:23,20" lang="tr" %}} hem de {{% bible val="Rab'bin Günü'ndeki haberciyi" link="mal:3,1" lang="tr" %}} yansıtır — her iki durumda da gelişi itaatsizlik için bir yargı uyarısı olan bir figürdür.
 - {{% bible val="“Çölde haykıran bir sesin sözleri: Rab’bin yolunu hazırlayın, geçeceği patikaları düzleyin.”" link="mrk:1,3" lang="tr" %}} ifadesi, kendisi de bir restorasyon mesajı olan {{% bible val="Yeşaya'nın" link="isa:40,3" lang="tr" %}} peygamberliğini yansıtır.
@@ -55,7 +55,7 @@ Her iki müjdede de "yol", Mısır'dan Çıkış'ın kendisidir: Tanrı'nın İs
 ## Elçilerin İşleri'ndeki yeni Çıkış
 
 <a name="f704"></a>
-Luka, Elçilerin İşleri kitabında bu aynı "yol" ifadesine altı kez döner:
+Luka, Elçilerin İşleri kitabında bu aynı "yol" ifadesine altı kez döner:[^pao]
 
 - {{% bible val="Saul'un din değiştirmesi sırasında" link="act:9,1-2" lang="tr" %}},
 - {{% bible val="Efes'te" link="act:19,9" lang="tr" %}}, hatta {{% bible val="iki kez" link="act:19,23" lang="tr" %}},
@@ -101,3 +101,7 @@ Böylece peygamberlerin vaat ettiği ve Müjdeler'in İsa'yla başladığını g
 Bu şekilde okunduğunda, Müjde ve Elçilerin İşleri tek, sürekli bir gerilimi izler: Mesih'e iman eden İsrail'in restorasyonu, onlarla birlikte içeri çekilen Yahudi olmayanların kurtuluşuyla el ele yürür.
 
 [^exile]: Beale, s. 19; N. T. Wright, *The New Testament and the People of God*, s. 268–272. Bu tez tartışmalıdır: bkz. J. M. Scott (ed.), *Exile: A Conversation with N. T. Wright* (2017).
+
+[^watts]: Markos Müjdesi'nin bu okuması, aşağıdaki tablo dâhil, Rikki Watts'a aittir (*Isaiah's New Exodus in Mark*); Beale'in özetiyle: *A New Testament Biblical Theology*, s. 694–698.
+
+[^pao]: Luka ve Elçilerin İşleri'nin bu ve sonraki bölümlerdeki okuması, aşağıdaki altı tema dâhil, David Pao'ya aittir (*Acts and the Isaianic New Exodus*); Beale'in özetiyle: *A New Testament Biblical Theology*, s. 699–703.

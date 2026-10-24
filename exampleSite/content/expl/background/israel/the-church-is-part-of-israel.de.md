@@ -127,7 +127,7 @@ Du kennst vielleicht schon die {{% bible val="Prophetie Joels" link="jol:2,27-32
 
 Joels Prophetie beschreibt die Wiederherstellung Israels ab {{% bible val="Vers 18" link="jol:2,18" lang="de" %}} und besonders ab dem {{% bible val="darauffolgenden Vers, der ausdrücklich von Israel spricht" link="jol:3,1" lang="de" %}}. Mehr noch: Die Ausgießung des Geistes war {{% bible val="Israel" link="ezk:36,27" lang="de" %}} und dem {{% bible val="Knecht" link="isa:42,1" lang="de" %}} verheißen; die Nationen kommen durch ihn hinein.[^spirit]
 
-Die Ausgießung sollte {{% bible val="in den letzten Tagen" link="act:2,17" lang="de" %}} geschehen, ein Ausdruck, der genau in diesem Sinn bei {{% bible val="Jesaja" link="isa:2,2" lang="de" %}} und im selben Spruch in Micha 4,1 verwendet wird, wo er beschreibt, wie die Nationen nach Jerusalem strömen. Die {{% bible val="an Pfingsten aufgezählten Nationen" link="act:2,5-11" lang="de" %}} sind eine kleinere Version der {{% bible val="verkürzte Fassung der siebzig Nationen" link="gen:10" lang="de" %}} aus 1. Mose 10–11, der am Turm zu Babel zerstreuten Völker, was zeigt, dass das Geschehen hier für alle Nationen gilt.[^pentecost]
+Die Ausgießung sollte {{% bible val="in den letzten Tagen" link="act:2,17" lang="de" %}} geschehen, ein Ausdruck, der genau in diesem Sinn bei {{% bible val="Jesaja" link="isa:2,2" lang="de" %}} und im selben Spruch in Micha 4,1 verwendet wird, wo er beschreibt, wie die Nationen nach Jerusalem strömen. Die {{% bible val="an Pfingsten aufgezählten Nationen" link="act:2,5-11" lang="de" %}} sind nach einer Lesart eine {{% bible val="verkürzte Fassung der siebzig Nationen" link="gen:10" lang="de" %}} aus 1. Mose 10–11, der am Turm zu Babel zerstreuten Völker, was zeigen würde, dass das Geschehen hier für alle Nationen gilt.[^pentecost]
 
 Das wird bestätigt, als {{% bible val="Kornelius und sein Haus den Heiligen Geist empfangen" link="act:10,44-48" lang="de" %}} — ein Ereignis, das so {{% bible val="erstaunlich war, dass die, die Petrus den Besuch im Haus eines Heiden vorwarfen, verstummten und Gott priesen" link="act:11,1-18" lang="de" %}}.
 
@@ -139,6 +139,6 @@ Apostelgeschichte 2 ist mit anderen Worten die Erfüllung von Apostelgeschichte 
 
 [^spirit]: Dass die Nationen *durch* den Knecht hereinkommen und nicht neben ihm, ist die Gestalt der Argumentation der Offenbarung selbst. Bauckham, *Theology*, S. 84–87, 98, 103: Das treue Zeugnis der Gemeinde ist „ausschlaggebend für die Bekehrung der Nationen der Welt", sodass die Gemeinden „durch ihr Zeugnis in der Welt daran teilhaben konnten, alle Nationen in das Reich Gottes und seines Christus zu bringen".
 
-[^pentecost]: Beale, *A New Testament Biblical Theology*, zu Apg 2,5–11, im Anschluss an James M. Scott, „Luke’s Geographical Horizon“ (1994), S. 483–544, und *Paul and the Nations* (1995), S. 162–80.
+[^pentecost]: Beale, *A New Testament Biblical Theology*, S. 605, 610, zu Apg 2,5–11. Er berichtet, dass „manche Kommentatoren“ die Liste so lesen, und folgt James M. Scott, „Luke’s Geographical Horizon“ (1994), S. 483–544, und *Paul and the Nations* (1995), S. 162–80.
 
-[^titus]: Beale, *A New Testament Biblical Theology*, zu Tit 2,14 („Christians as Redeemed from Iniquity and a Special People for God“).
+[^titus]: Beale, *A New Testament Biblical Theology*, S. 674–675, zu Tit 2,14 („Christians as Redeemed from Iniquity and a Special People for God“).

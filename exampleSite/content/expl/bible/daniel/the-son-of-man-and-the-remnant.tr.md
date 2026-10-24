@@ -71,7 +71,7 @@ Daniel'in kendi bağlamı bunun tam olarak ne zaman gerçekleşeceğini söyleme
 
 Peki bu peygamberlik O'na nasıl uygulanır?
 
-İsa, İsrail'in kalıntısıdır — bu rolü doldurmak için geriye başka kimse kalmamıştır. Görümdeki kutsal halk gibi O da teslim edilir, yenilir ve öldürülür, sonra aklanır: mahkeme toplanır ve krallık O'na verilir. Yenilgi zaferden önce gelir; O'nun için de onlar için de.
+İsa, İsrail'in kalıntısıdır — bu rolü doldurmak için geriye başka kimse kalmamıştır.[^one] Görümdeki kutsal halk gibi O da teslim edilir, yenilir ve öldürülür, sonra aklanır: mahkeme toplanır ve krallık O'na verilir. Yenilgi zaferden önce gelir; O'nun için de onlar için de.
 
 Boynuz kimdir? İsrail değil. Daniel'de boynuz dördüncü canavarın son kralıdır ve Vahiy onu kendi canavarında, kutsallara karşı savaşan güçte yeniden ele alır (13:5–7).[^horn] Bu güç çarmıhta, olaya katılan herkes aracılığıyla işbaşındaydı: buyruğu veren Romalı vali, onu yerine getiren askerler ve {{% bible val="O'na karşı düzen kuran" link="jhn:11,45-54" lang="tr" %}}, {{% bible val="idamını isteyen" link="jhn:19,1-15" lang="tr" %}} kendi halkının önderleri. {{% bible val="Kendilerininki O'nu kabul etmedi" link="jhn:1,11-14" lang="tr" %}} — ve bu, öykünün hükmü değil, acısıdır.
 
@@ -98,6 +98,8 @@ Tanıklar, İsa'nın kendi yaşamının örüntüsünü yaşadıkları için İn
 - {{% bible val="Ama bu onların yenilgisi değildir, çünkü İsa gibi diriltileceklerdir" link="rev:11,8-11" lang="tr" %}}.
 - {{% bible val="İsa gibi yüceltilirler" link="rev:11,12" lang="tr" %}}.
 
-[^corporate]: Beale, s. 221: kutsalların kolektif temsilcisi olarak İnsanoğlu. Erken dönem Yahudi okurlar onu İsrail olarak anlamıştır (Beale, s. 259). Başkaları bu figürü bir melek, Mikail olarak görür (John J. Collins böyle).
+[^corporate]: Beale, s. 221: kutsalların kolektif temsilcisi olarak İnsanoğlu. Erken dönem Yahudi okurlar onu İsrail olarak anlamıştır (Beale, s. 259). Başkaları bu figürü bir melek, Mikail olarak görür (John J. Collins böyle). Beale, *A New Testament Biblical Theology*, s. 394–397'de bu figürü öncelikle kutsallar, ikinci olarak tek bir kral olarak niteler; ikisini "kolektif temsil" bağlar.
 
 [^horn]: Beale, s. 90, 270, 633.
+
+[^one]: Beale, *A New Testament Biblical Theology*, s. 606, Yoel 2:32 üzerine: kalıntı vaadi "önce tek kişilik kalıntıda, Mesih İsa'da" gerçekleşir.

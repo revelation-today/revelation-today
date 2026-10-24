@@ -26,7 +26,7 @@ There was an exodus from Egypt. But when Israel failed to keep the law, they wen
 ## The exodus in Mark
 
 <a name="70f4"></a>
-The opening lines of Mark's gospel are dense with Exodus echoes:
+The opening lines of Mark's gospel are dense with Exodus echoes:[^watts]
 
 - {{% bible val="I will send my messenger" link="mrk:1,2" lang="en" %}} parallels both the {{% bible val="leading angel in the Exodus" link="exo:23,20" lang="en" %}} and the {{% bible val="messenger for the Day of the Lord" link="mal:3,1" lang="en" %}} — in both cases, a figure whose arrival warns of judgment for disobedience.
 - {{% bible val="A voice of one calling in the wilderness, “Prepare the way for the Lord, make straight paths for him.”" link="mrk:1,3" lang="en" %}} picks up the prophecy of {{% bible val="Isaiah" link="isa:40,3" lang="en" %}}, itself a message of restoration.
@@ -55,7 +55,7 @@ When {{% bible val="Jesus read from Isaiah, he stated its fulfillment" link="luk
 ## The new Exodus in Acts
 
 <a name="a809"></a>
-Luke returns to this same language of "the way" six times in the book of Acts:
+Luke returns to this same language of "the way" six times in the book of Acts:[^pao]
 
 - {{% bible val="during the conversion of Saul" link="act:9,2" lang="en" %}},
 - {{% bible val="in Ephesus" link="act:19,9" lang="en" %}}, in fact {{% bible val="twice" link="act:19,23" lang="en" %}},
@@ -101,3 +101,7 @@ The new Exodus for which Israel had been waiting so long finally happens — and
 Read this way, the Gospel and Acts trace a single, ongoing tension: the restoration of the Israel that believes in Christ, running alongside the salvation of the Gentiles who are being drawn in together with them.
 
 [^exile]: Beale, p. 19; N. T. Wright, *The New Testament and the People of God*, pp. 268–272. The thesis is debated: see J. M. Scott (ed.), *Exile: A Conversation with N. T. Wright* (2017).
+
+[^watts]: This reading of Mark, including the table below, is Rikki Watts, *Isaiah's New Exodus in Mark*, as summarised in Beale, *A New Testament Biblical Theology*, pp. 694–698.
+
+[^pao]: The reading of Luke and Acts in this and the next sections, including the six themes below, is David Pao, *Acts and the Isaianic New Exodus*, as summarised in Beale, *A New Testament Biblical Theology*, pp. 699–703.

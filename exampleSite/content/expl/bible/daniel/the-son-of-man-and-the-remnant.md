@@ -71,7 +71,7 @@ When Jesus refers to himself, he [uses above all the title Son of Man](https://w
 
 So how does the prophecy apply to him?
 
-Jesus is the remnant of Israel — there is no one else left to fill that role. Like the holy people in the vision, he is handed over, defeated and killed, and then vindicated: the court sits, and the kingdom is given to him. Defeat comes before victory, for him as for them.
+Jesus is the remnant of Israel — there is no one else left to fill that role.[^one] Like the holy people in the vision, he is handed over, defeated and killed, and then vindicated: the court sits, and the kingdom is given to him. Defeat comes before victory, for him as for them.
 
 Who is the horn? Not Israel. In Daniel the horn is the last king of the fourth beast, and Revelation takes it up in its own beast, the power that makes war on the saints (13:5–7).[^horn] That power was at work at the cross through everyone who took part: a Roman governor who gave the order, soldiers who carried it out, and leaders of his own people who {{% bible val="conspired against him" link="jhn:11,45-54" lang="en" %}} and {{% bible val="pressed for his execution" link="jhn:19,1-15" lang="en" %}}. {{% bible val="His own did not receive him" link="jhn:1,11-14" lang="en" %}} — and that is the grief of the story, not its verdict.
 
@@ -98,6 +98,8 @@ The witnesses are identified with the Son of Man because they live out the patte
 - {{% bible val="But this is not their defeat because they will be resurrected like Jesus" link="rev:11,8-11" lang="en" %}}.
 - {{% bible val="They are exalted like Jesus" link="rev:11,12" lang="en" %}}.
 
-[^corporate]: Beale, p. 221: the Son of Man as the corporate representative of the saints. Early Jewish readers took him as Israel (Beale, p. 259). Others take the figure as an angel, Michael (so John J. Collins).
+[^corporate]: Beale, p. 221: the Son of Man as the corporate representative of the saints. Early Jewish readers took him as Israel (Beale, p. 259). Others take the figure as an angel, Michael (so John J. Collins). In *A New Testament Biblical Theology*, pp. 394–397, Beale calls the figure primarily the saints and secondarily an individual king, joined by "corporate representation".
 
 [^horn]: Beale, pp. 90, 270, 633.
+
+[^one]: Beale, *A New Testament Biblical Theology*, p. 606, on Joel 2:32: the prophecy of a remnant is "first fulfilled in the remnant of one, Jesus the Messiah".

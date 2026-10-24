@@ -71,7 +71,7 @@ Ketika Yesus berbicara tentang diri-Nya sendiri, Ia [terutama menggunakan gelar 
 
 Jadi bagaimana nubuat ini diterapkan pada-Nya?
 
-Yesus adalah sisa Israel — tidak ada lagi orang lain yang tersisa untuk mengisi peran itu. Seperti umat kudus dalam penglihatan itu, Ia diserahkan, dikalahkan dan dibunuh, lalu dibenarkan: pengadilan bersidang, dan kerajaan diberikan kepada-Nya. Kekalahan mendahului kemenangan, bagi Dia sama seperti bagi mereka.
+Yesus adalah sisa Israel — tidak ada lagi orang lain yang tersisa untuk mengisi peran itu.[^one] Seperti umat kudus dalam penglihatan itu, Ia diserahkan, dikalahkan dan dibunuh, lalu dibenarkan: pengadilan bersidang, dan kerajaan diberikan kepada-Nya. Kekalahan mendahului kemenangan, bagi Dia sama seperti bagi mereka.
 
 Siapakah tanduk itu? Bukan Israel. Dalam Daniel, tanduk itu adalah raja terakhir dari binatang keempat, dan Kitab Wahyu mengangkatnya kembali dalam binatangnya sendiri, kuasa yang berperang melawan orang-orang kudus (13:5–7).[^horn] Kuasa itu bekerja di salib melalui semua yang terlibat: seorang gubernur Romawi yang memberi perintah, para prajurit yang melaksanakannya, dan para pemimpin dari bangsa-Nya sendiri yang {{% bible val="bersekongkol melawan Dia" link="jhn:11,45-54" lang="ind" %}} dan {{% bible val="mendesak agar Ia dieksekusi" link="jhn:19,1-15" lang="ind" %}}. {{% bible val="Orang-orang kepunyaan-Nya tidak menerima Dia" link="jhn:1,11-14" lang="ind" %}} — dan itulah dukacita kisah ini, bukan vonisnya.
 
@@ -98,6 +98,8 @@ Kedua saksi ini diidentifikasikan dengan Anak Manusia karena mereka menghidupi p
 - {{% bible val="Tetapi ini bukanlah kekalahan mereka, sebab mereka akan dibangkitkan seperti Yesus" link="rev:11,8-11" lang="ind" %}}.
 - {{% bible val="Mereka ditinggikan seperti Yesus" link="rev:11,12" lang="ind" %}}.
 
-[^corporate]: Beale, hlm. 221: Anak Manusia sebagai wakil korporatif orang-orang kudus. Para pembaca Yahudi awal memahaminya sebagai Israel (Beale, hlm. 259). Yang lain memahami sosok itu sebagai malaikat, Mikhael (demikian John J. Collins).
+[^corporate]: Beale, hlm. 221: Anak Manusia sebagai wakil korporatif orang-orang kudus. Para pembaca Yahudi awal memahaminya sebagai Israel (Beale, hlm. 259). Yang lain memahami sosok itu sebagai malaikat, Mikhael (demikian John J. Collins). Dalam *A New Testament Biblical Theology*, hlm. 394–397, Beale menyebut sosok itu terutama sebagai orang-orang kudus dan kedua sebagai seorang raja perorangan, yang dihubungkan oleh "perwakilan korporatif".
 
 [^horn]: Beale, hlm. 90, 270, 633.
+
+[^one]: Beale, *A New Testament Biblical Theology*, hlm. 606, tentang Yoel 2:32: nubuat tentang sisa itu "pertama-tama digenapi dalam sisa yang satu, Yesus, Mesias".
