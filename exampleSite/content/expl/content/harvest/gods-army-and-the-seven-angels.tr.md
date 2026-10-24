@@ -55,9 +55,13 @@ Bu tanımdaki her ifadenin bir ağırlığı vardır. Onlara "pak" denir — bu 
 
 “{{% bible val="onun, yeryüzünde yaşayanlara -her ulusa, her oymağa, her dile, her halka- iletmek üzere sonsuza dek kalıcı olan Müjde'si vardı. Yüksek sesle şöyle diyordu: ‹‹Tanrı'dan korkun! O'nu yüceltin! Çünkü O'nun yargılama saati geldi. Göğü, yeri, denizi, su pınarlarını yaratana tapının!" link="rev:14,6-7" lang="tr" %}}”
 
+{{% background %}}
+
 "Ebedi müjde" çarpıcı bir ifadedir ve kökeni Mezmur 96'ya dayanır: "[Kurtarışını gün be gün duyurun](https://biblehub.com/interlinear/psalms/96-2.htm)." Bu ayette "duyurun" olarak çevrilen İbranice fiil "[basar](https://biblehub.com/hebrew/1319.htm)"dır — iyi haber duyurmak anlamına gelir — ve Yunanca Eski Antlaşma metni bunu, evangelion'un (müjde) fiil biçimi olan euangelizō kelime grubuyla çevirir. "Gün be gün" ifadesi de, tıpkı {{% bible val="Süleyman'ın Özdeyişleri'ndeki" link="pro:8,30" lang="tr" %}} deyimsel "gün be gün" ifadesine benzer şekilde, "sonsuza dek" anlamı taşıyabilir.
 
 Mezmur 96, bu iyi haberi bütün {{% bible val="ulusları ve halkları" link="psa:96,3" lang="tr" %}} kapsayacak şekilde duyurmaya devam eder ve bu {{% bible val="haberin içeriği kısa mezmurun geri kalanında da" link="psa:96,7-10" lang="tr" %}} işlenir. Dikkat çekici olan şu ki, mezmur "Rab'be yeni bir ezgi söyleyin" diyerek başlar — az önce 144.000 için kullanılan aynı ifadeyle. Mezmurun baştan sona işlediği tema, Tanrı'nın kral olduğu ve bütün ulusların O'na tapınmaya davet edildiğidir.
+
+{{% /background %}}
 
 İkinci melek Babil'in düşüşünü duyururken, üçüncü melek canavara boyun eğen herkes için sert bir yargı uyarısı getirir. İkisi birlikte, iki tanığın çoktan verdiği {{% bible val="çul giyip peygamberlik etmeyi" link="rev:11,3" lang="tr" %}} ve {{% bible val="uyarı niteliğindeki yargıları" link="rev:11,5" lang="tr" %}} yansıtır.
 
@@ -72,7 +76,11 @@ Bu da şu soruyu gündeme getirir: Uluslar gerçekten dinleyecek mi? Tanıkları
 
 Yoel'de her iki görüntü de yargıya işaret eder, özellikle de şarap teknesi — Vahiy bunu açıkça {{% bible val="Tanrı'nın gazabının şarap teknesi" link="rev:14,19" lang="tr" %}} olarak adlandırır ve bu, {{% bible val="Yeşaya'daki intikam gününün" link="isa:63,1-6" lang="tr" %}} bir yankısıdır. Aynı zamanda {{% bible val="az önce duyurulan Babil'in düşüşünü" link="rev:14,8" lang="tr" %}} de yansıtır. Vahiy'deki her iki hasat görüntüsü de Yoel'deki aynı tek ayetten alındığından, birçok okur tahıl hasadını tıpkı şarap teknesi gibi ele alır: bir başka yargı tablosu olarak.[^harvest]
 
+{{% study %}}
+
 Bu site tahıl hasadını farklı okur: ulusların Tanrı'ya toplanması olarak. Onu ayıran üç ayrıntı var. Birincisi, 144.000 kişi bu bölümde daha önce ilk meyve olarak tanıtılmıştı ve ilk meyve {{% bible val="normalde tahıldan alınırdı" link="lev:23,9-14" lang="tr" %}} (bir kuzu sunusuyla birlikte) ve {{% bible val="gelecek olan tam hasadın bir güvencesi" link="1co:15,20-23" lang="tr" %}} olarak sunulurdu — yani burada hasat edilen tahıl, her ulustan kurtarılan 144.000 kişiyi anımsatmayı amaçlıyorsa ({{% int_link val="kilise ve İsrail" link="/expl/topics/others/dispensionalism-and-its-critic#5d19" %}} bölümünde ele alınan, kilisenin İsrail'in bir parçası olduğu okumasına göre), onlar bütün ulusların ilk meyvesi olarak durur. İlk meyve teknik olarak {{% bible val="üzümden de olabilirdi" link="exo:22,29" lang="tr" %}}, ama burada bu tuhaf bir okuma olurdu — şehitler gerçekten Tanrı'nın intikamının ilk meyvesi mi olacak? İkincisi, şarap teknesi hem toplamayı hem üzümleri ezmeyi içerirken, anlatıldığı haliyle tahıl hasadı sadece biçmekle sona erer; tahıl toplandıktan sonra gelenler — {{% bible val="harman dövme" link="jer:51,33" lang="tr" %}}, {{% bible val="samanın yakılması" link="mat:3,12" lang="tr" %}} ya da {{% bible val="rüzgârla savrulma" link="psa:1,4" lang="tr" %}} — hiç anılmaz; ayrıca Kutsal Kitap'ın başka yerlerinde {{% bible val="biçme, İsa'nın tarlaların hasat için olgunlaştığını söylediği gibi, insanların içeri toplanmasını da resmedebilir" link="jhn:4,35" lang="tr" %}}. Üçüncüsü, tahıl hasadını yapan "bulut üzerinde oturan, başında taç olan insanoğluna benzer biri"dir — bu ifade {{% bible val="Daniel'e" link="dan:7,13-14" lang="tr" %}} kadar uzanır; orada o kişi ebedi krallığı alır ve bütün uluslar ona tapınır.
+
+{{% /study %}}
 
 Demek ki iki hasat, uluslar için iki sonucu ortaya koyar: tahıl toplanır, üzümler Tanrı'nın gazabının teknesinde çiğnenir. Her ayrıntı aynı yönü göstermez — tahılı biçen Mesih, sonradan şarap teknesini çiğneyen de O'dur (19:15) — ama iki sahne arasındaki karşıtlık kasıtlıdır. İki tanığın öyküsü, insanların çoğunun Tanrı'ya yücelik vermesiyle sona ermişti; burada aynı iki sonuç bir kez daha görünür, bu kez çağın sonunda.
 
@@ -85,6 +93,8 @@ Bir sonraki sahne bizi yeni bir çıkışın içine çeker; bunun işareti hem c
 
 {{% bible val="Musa'nın asıl şarkısı, Kızıldeniz'deki mucizenin ardından söylenen övgüyü anlatır" link="exo:15,1-19" lang="tr" %}}, ama burada söylenen sözler Musa'nın gerçekte söylediklerinden oldukça farklıdır — yani "Musa'nın şarkısı" etiketi yalnızca bir kaynağı işaret etmekle kalmaz; bilinçli bir paralellik kurar.
 
+{{% background %}}
+
 Bu paralellik, Çıkış'ın kendisinden daha derine gider. Çıkış öyküsü {{% bible val="Yeşaya'da" link="isa:11,15-16" lang="tr" %}} yeniden ele alınır ve {{% bible val="yeni bir Çıkış" link="isa:12" lang="tr" %}} olarak, {{% bible val="Mezmur 105'i de yankılayan" link="isa:12,4" lang="tr" %}} {{% bible val="iki ilahi" link="psa:105,1" lang="tr" %}} boyunca işlenir; o mezmur da Çıkış'ı anımsatır. Bütün bunları birbirine bağlayan ortak iplik şudur: Uluslar da Tanrı'nın Kızıldeniz'deki eyleminden etkilenmiştir.
 
 "Ya Rab, senden kim korkmaz, adını kim yüceltmez? ... ey ulusların Kralı" satırına daha yakından bakıldığında, bunun {{% bible val="ulusların Kralı'na aynı sorunun sorulduğu Yeremya" link="jer:10,7" lang="tr" %}} ile Mezmur {{% bible val="86" link="psa:86,8-10" lang="tr" %}} ve {{% bible val="98" link="psa:98,1-2" lang="tr" %}}'e de bağlandığı görülür. Bir araya getirildiğinde, bütün bu iplikler Musa'nın ve Kuzu'nun şarkısının içeriğini tek bir savda birleştirir:
@@ -93,6 +103,8 @@ Bu paralellik, Çıkış'ın kendisinden daha derine gider. Çıkış öyküsü 
 - Bunu, kurtuluş eylemleri olan mucizeler yaparak gösterir.
 - Böylece tek gerçek Tanrı olduğunu kanıtlar.
 - Ve bu, bütün ulusları O'na tapınmaya getirir.
+
+{{% /background %}}
 
 Başka bir deyişle bu şarkı, bütün ulusların Tanrı'ya gelip O'na tapınacağının bir bildirisidir — bu da öncelikle halkının düşmanlarının yargılanmasıyla değil, Kuzu'nun zaferi ve O'nu izleyenlerin tanıklığıyla gerçekleşir.[^song] Kutlanan şey yalnızca şehitlerin kendi aklanması değildir; aynı zamanda Tanrı'nın eylemlerinin uluslardan çıkardığı övgüdür.
 

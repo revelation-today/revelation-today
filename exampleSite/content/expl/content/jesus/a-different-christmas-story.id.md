@@ -76,7 +76,11 @@ Tetapi siapakah perempuan aneh yang berselubungkan matahari, bulan, dan dua bela
 - Hawa, yang dijanjikan bahwa {{% bible val="keturunannya akan membinasakan si ular" link="gen:3,15" lang="ind" %}}.
 - Israel: Mikha menggambarkan {{% bible val="seorang perempuan yang menderita sakit bersalin melahirkan sang penguasa yang dijanjikan dari Betlehem" link="mic:5,2-3" lang="ind" %}}, dan Yesaya menggambarkan {{% bible val="Sion yang tiba-tiba melahirkan seorang anak - sebuah bangsa yang lahir kembali dalam sehari" link="isa:66,7" lang="ind" %}}.
 
+{{% study %}}
+
 Jadi, yang manakah yang sebenarnya dimaksud dalam kisah ini? Maria tampak seperti pilihan yang jelas, tetapi tidak ada satu tempat pun dalam Alkitab yang mengaitkan Maria dengan matahari, bulan, dan bintang-bintang — justru sebaliknya: tradisi gerejalah, bukan Kitab Suci, yang belakangan mengaitkan Maria dengan matahari, bulan, dan bintang, berdasarkan anggapan bahwa perempuan inilah pastilah Maria. Untuk Hawa, seseorang bisa berargumen ada hubungannya, karena Adam dan Hawa disebutkan bersama matahari, bulan, dan bintang-bintang dalam kisah penciptaan di Kejadian 1 — tetapi hal itu masih menyisakan pertanyaan mengapa kisah kita di sini menyebutkan dua belas bintang secara khusus.
+
+{{% /study %}}
 
 Kecocokan terbaik ada pada Israel. Israel memang tidak tampak jelas sebagai seorang "perempuan" pada pandangan pertama, tetapi Alkitab memang menyebutnya demikian, sebagai {{% bible val="putri Sion" link="isa:62,11" lang="ind" %}}. Namun, paralel yang lebih dekat adalah {{% bible val="mimpi kedua Yusuf" link="gen:37,9-10" lang="ind" %}}: di sana ia melihat matahari, bulan, dan sebelas bintang, dan ayahnya menafsirkan itu sebagai kesebelas saudaranya beserta kedua orang tuanya — dengan Yusuf sendiri melengkapi dua belas bintang itu. Kedua belas itu, kurang lebih, adalah kedua belas suku Israel.
 

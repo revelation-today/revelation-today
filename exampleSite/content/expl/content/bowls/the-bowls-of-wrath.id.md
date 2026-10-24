@@ -56,7 +56,11 @@ Cawan keenam ini layak untuk diamati lebih saksama secara tersendiri.
 
 {{% bible val="Sungai Efrat dikeringkan untuk membuka jalan bagi raja-raja dari timur." link="rev:16,12" lang="ind" %}} Ini adalah pernyataan ironis yang mengantisipasi kisah Harmagedon. Menurut sejarawan Herodotus, Babel jatuh ke tangan orang Persia (yang datang dari timur) setelah mereka [mengalihkan aliran Sungai Efrat, yang selama ini menjadi pertahanan alami kota itu](https://en.wikipedia.org/wiki/Fall_of_Babylon#Historiography). Catatan itu mungkin akurat secara sejarah, mungkin juga tidak, tetapi itulah gambaran yang umum dipercaya pada zaman Kitab Wahyu ditulis - dan justru karena itulah gambaran ini begitu mengena.
 
+{{% background %}}
+
 {{% bible val="Ketiga ekor katak yang keluar dari mulut sang naga dan para sekutunya" link="rev:16,13" lang="ind" %}} secara paling langsung menggemakan {{% bible val="tulah kedua di Mesir" link="exo:8,1-15" lang="ind" %}} - tetapi mereka juga membawa lapisan latar belakang kedua. Katak adalah hewan yang dikaitkan dengan Heqet, dewi kesuburan dan kelahiran, yang juga dipercaya memiliki kuasa kebangkitan - yang menjadikan katak juga sebagai simbol yang tepat di sini, sebab {{% bible val="di sinilah tepatnya binatang yang telah bangkit itu mengklaim dirinya tak terkalahkan" link="rev:13,3-4" lang="ind" %}}. Katak juga merupakan tulah yang dapat ditiru oleh para ahli sihir Firaun (Kel. 8:7) - cocok untuk roh-roh yang pekerjaannya adalah penyesatan.[^frogs]
+
+{{% /background %}}
 
 Satu ironi lagi menutup adegan ini. Berkumpulnya pasukan-pasukan di Harmagedon kelak tercermin dalam berkumpulnya burung-burung di pasal 19, dan kesejajaran itu membuat kekalahan Iblis semakin tajam: pasukannya yang telah dikumpulkan itu ditumbangkan oleh satu perkataan saja, pedang dari mulut Sang Penunggang, dan yang tersisa dari mereka hanyalah santapan bagi burung-burung (19:21).
 

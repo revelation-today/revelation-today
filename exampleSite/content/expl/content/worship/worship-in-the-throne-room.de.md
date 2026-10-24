@@ -35,6 +35,8 @@ Die Anbetung im Thronsaal ist die Antwort auf die Probleme, die in den Sendschre
 <a name="e638"></a>
 Der Vers am Ende des vorigen Kapitels erwähnte bereits den Thronsaal Gottes, aber die Verbindungen reichen tiefer: Der Abschnitt über den Thronsaal greift Formulierungen aus den ersten drei Kapiteln auf, die sich mit der Situation der Gemeinden befassen.
 
+{{% study %}}
+
 <table><thead><tr>
     <th>Thema</th>
     <th>Sendschreiben</th>
@@ -83,9 +85,13 @@ Der Vers am Ende des vorigen Kapitels erwähnte bereits den Thronsaal Gottes, ab
 </tbody>
 </table>
 
+{{% /study %}}
+
 Diese Parallelen geben der Gemeinde eine Vision ihrer eigenen geistlichen Wirklichkeit und ein Vorbild dafür, wie sie dem Beispiel Christi folgen soll. Die in dieser Vision gezeigte Wirklichkeit ist Teil dessen, wonach die Gemeinde handeln soll.
 
 {{% bible val="Daniel 7" link="dan:7" lang="de" %}} bietet eine auffällige Parallele zu den Kapiteln 4 und 5 der Offenbarung:
+
+{{% study %}}
 
 <table><thead><tr>
     <th>Thema</th>
@@ -167,10 +173,16 @@ Diese Parallelen geben der Gemeinde eine Vision ihrer eigenen geistlichen Wirkli
 
 So umfangreich die Parallelen sind, die Reihenfolge ist nicht dieselbe. Bei Daniel setzt sich das Gericht, die Bücher werden geöffnet, das Urteil wird gesprochen, und erst danach tritt der Menschensohn heran, um das Reich zu empfangen. In der Offenbarung ist es umgekehrt: Zuerst kommt das Lamm zum Thron und nimmt die Schriftrolle, und die Gerichte folgen daraus, dass es sie öffnet. (Die hier bereits verheißene gemeinsame Herrschaft der Heiligen wird oft mit der tausendjährigen Herrschaft aus Offenbarung 20 in Verbindung gebracht — wie beide zusammenhängen, ist eine eigene, umstrittene Frage; siehe {{% int_link val="Prämillennialismus, Postmillennialismus und Amillennialismus im Vergleich" link="/expl/content/1000y/pre-post-and-amillennialism" %}}.)
 
+{{% /study %}}
+
+{{% background %}}
+
 Diese Szene erinnert außerdem an das Bild des himmlischen Rates, wie zum Beispiel
 
 - {{% bible val="bei der Berufung Jesajas" link="isa:6,1-9" lang="de" %}}, oder
 - bei der {{% bible val="Entscheidung über Ahabs Tod" link="1ki:22,19-23" lang="de" %}}.
+
+{{% /background %}}
 
 ## Warum ist Lobpreis die Antwort?
 
@@ -217,6 +229,8 @@ Blicken wir voraus auf die kommenden Ereignisse, sehen wir:
 <a name="e545"></a>
 In der antiken Welt repräsentierte der Tempel — selbst ein Abbild des himmlischen Thronsaals — die ganze Welt. Gott steht im Zentrum, und alles um ihn herum findet seinen Platz in der Beziehung zu ihm.
 
+{{% background %}}
+
 Schöpfung ist eine traditionelle Deutung der {{% bible val="vier Lebewesen" link="rev:4,7" lang="de" %}}, die bereits {{% bible val="Hesekiel" link="ezk:1,5-21" lang="de" %}} beschrieben hat:
 - der Löwe, Herrscher der Landtiere,
 - der Ochse, stärkstes der Haustiere,
@@ -224,6 +238,8 @@ Schöpfung ist eine traditionelle Deutung der {{% bible val="vier Lebewesen" lin
 - der Adler, Herrscher der Lüfte.
 
 Doch Hesekiels eigene Parallelvision benennt diese Klasse von Wesen ausdrücklich als Cherubim (Hes 10,20) — die höchste Ordnung der engelhaften Throndiener. Beide Deutungen haben echte Grundlage: Die vier Lebewesen könnten das gesamte geschaffene Leben repräsentieren, das sich zur Anbetung versammelt, oder sie könnten die cherubischen Wesen sein, die diese Anbetung anführen, oder beides zugleich.
+
+{{% /background %}}
 
 Zu ihnen gesellen sich die {{% bible val="24 Ältesten" link="rev:4,4" lang="de" %}}, die an die {{% bible val="24 Priesterordnungen" link="1ch:24,3-19" lang="de" %}}, die {{% bible val="24 levitischen Torwächter" link="1ch:26,17-19" lang="de" %}} und die {{% bible val="24 von David eingesetzten ständigen Anbeter" link="1ch:25" lang="de" %}} erinnern — zugleich aber auch an die 12 Stämme Israels und die 12 Apostel als Fundament der Gemeinde. Wahrscheinlich sind sie Engel, die das ganze Volk Gottes vertreten, beide zusammen.[^elders] Israel und die Gemeinde sind mit anderen Worten trotz aller Konflikte als eine Einheit zu verstehen. Die Gemeinde ist im Kern als eine anbetende Gemeinde definiert.
 

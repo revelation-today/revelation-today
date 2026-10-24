@@ -35,6 +35,8 @@ Worship in the throne room is the answer to the issues laid out in the letters t
 <a name="3c72"></a>
 The verse at the end of the previous chapter already mentioned the throne room of God, but the links run deeper: the throne room section echoes phrases from the first three chapters that address the situation of the church.
 
+{{% study %}}
+
 <table><thead><tr>
     <th>Topic</th>
     <th>Letters</th>
@@ -83,9 +85,13 @@ The verse at the end of the previous chapter already mentioned the throne room o
 </tbody>
 </table>
 
+{{% /study %}}
+
 These parallels give the Church a vision of their own spiritual reality, and a model for how to follow Christ's example. The reality shown in this vision is part of what the church is meant to act upon.
 
 {{% bible val="Daniel 7" link="dan:7" lang="en" %}} offers a striking parallel to chapters 4 and 5 of the Book of Revelation:
+
+{{% study %}}
 
 <table><thead><tr>
     <th>Topic</th>
@@ -167,10 +173,16 @@ These parallels give the Church a vision of their own spiritual reality, and a m
 
 Although the parallels are extensive, the order is not the same. In Daniel the court sits, the books are opened and judgment is given, and only then does the one like a son of man approach to receive the kingdom. In Revelation it is the other way round: the Lamb comes to the throne and takes the scroll first, and the judgments follow from his opening of it. (The saints' shared reign, promised here already, is often connected to the thousand-year reign of Revelation 20 — how the two relate is a separate, debated question; see {{% int_link val="premillennialism, postmillennialism, and amillennialism compared" link="/expl/content/1000y/pre-post-and-amillennialism" %}}.)
 
+{{% /study %}}
+
+{{% background %}}
+
 This scene also recalls the image of the angelic council, as in
 
 - {{% bible val="the calling of Isaiah" link="isa:6,1-9" lang="en" %}}, or
 - the {{% bible val="decision about Ahab's death" link="1ki:22,19-23" lang="en" %}}.
+
+{{% /background %}}
 
 ## Why is worship the answer?
 
@@ -216,6 +228,8 @@ Looking ahead at the coming events, we see that:
 
 In the ancient world, the temple — itself a reflection of the heavenly throne room — represented the whole world. God is at the center, and everything around him finds its place in relation to him.
 
+{{% background %}}
+
 Creation is one traditional reading of {{% bible val="the four creatures" link="rev:4,7" lang="en" %}}, already described by {{% bible val="Ezekiel" link="ezk:1,5-21" lang="en" %}}:
 - the lion, ruler of the land animals,
 - the ox, strongest of the domesticated animals,
@@ -223,6 +237,8 @@ Creation is one traditional reading of {{% bible val="the four creatures" link="
 - the eagle, ruler of the air.
 
 But Ezekiel's own parallel vision explicitly names this class of being as cherubim (Ezek 10:20) — the highest order of angelic throne-attendants. Both readings have real support: the four creatures may represent all created life gathered in worship, or they may be the cherubic beings who lead that worship, or both together.
+
+{{% /background %}}
 
 They are joined by the {{% bible val="24 elders" link="rev:4,4" lang="en" %}}, echoing the {{% bible val="24 divisions of priests" link="1ch:24,3-19" lang="en" %}}, the {{% bible val="24 Levitical gatekeepers" link="1ch:26,17-19" lang="en" %}}, and the {{% bible val="24 permanent worshipers" link="1ch:25" lang="en" %}} that David established — but also evoking the 12 tribes of Israel and the 12 apostles as the foundation of the Church. They are probably angels who represent the whole people of God, both together.[^elders] Israel and the Church, in other words, should be seen as one entity despite all their conflicts. The Church, at its core, is defined as a church of worship.
 

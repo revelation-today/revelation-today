@@ -75,7 +75,11 @@ Diese Stellen machen ziemlich klar, dass das Kind Jesus ist und dass dies die Ge
 - Eva, der verheißen wurde, dass {{% bible val="ihr Nachkomme die Schlange vernichten würde" link="gen:3,15" lang="de" %}}.
 - Israel: Micha zeichnet {{% bible val="eine Frau in Geburtswehen, die den verheißenen Herrscher aus Bethlehem gebiert" link="mic:5,2-3" lang="de" %}}, und Jesaja zeichnet {{% bible val="Zion, die plötzlich einen Sohn zur Welt bringt – eine ganze Nation, an einem einzigen Tag neu geboren" link="isa:66,7" lang="de" %}}.
 
+{{% study %}}
+
 Von wem also handelt die Geschichte wirklich? Maria scheint die naheliegende Wahl zu sein, aber nirgendwo in der Bibel gibt es eine Verbindung zwischen Maria und Sonne, Mond und Sternen – im Gegenteil: Es ist die kirchliche Tradition, nicht die Schrift, die Maria später mit Sonne, Mond und Sternen in Verbindung brachte, ausgehend von der Annahme, diese Frau müsse Maria sein. Bei Eva ließe sich eine Verbindung herstellen, da Adam und Eva im Schöpfungsbericht von Genesis 1 gemeinsam mit Sonne, Mond und Sternen erwähnt werden – aber das lässt offen, warum unsere Geschichte hier ausdrücklich zwölf Sterne nennt.
+
+{{% /study %}}
 
 Die beste Übereinstimmung ist Israel. Israel sieht auf den ersten Blick nicht offensichtlich wie eine „Frau" aus, aber die Bibel bezeichnet sie tatsächlich so, etwa als {{% bible val="Tochter Zion" link="isa:62,11" lang="de" %}}. Die engere Parallele ist jedoch {{% bible val="Josefs zweiter Traum" link="gen:37,9-10" lang="de" %}}: Dort sieht er Sonne, Mond und elf Sterne, und sein Vater deutet dies auf seine elf Brüder und seine Eltern – wobei Josef selbst der zwölfte Stern ist. Diese zwölf entsprechen mehr oder weniger den zwölf Stämmen Israels.
 

@@ -56,7 +56,11 @@ The sixth bowl deserves a closer look on its own.
 
 {{% bible val="The river Euphrates was dried up to make way for the kings of the East." link="rev:16,12" lang="en" %}} It's an ironic statement that foreshadows the story of Armageddon. According to the historian Herodotus, Babel fell to the Persians (who came from the East) after they [diverted the Euphrates River, which had served as the city's natural defense](https://en.wikipedia.org/wiki/Fall_of_Babylon#Historiography). That account may or may not be historically accurate, but it was a common belief at the time Revelation was written — which is precisely why the image lands the way it does.
 
+{{% background %}}
+
 {{% bible val="The three frogs coming out of the mouth of the dragon and his companions" link="rev:16,13" lang="en" %}} echo, most directly, {{% bible val="the second plague of Egypt" link="exo:8,1-15" lang="en" %}} — but they carry a second layer of background too. Frogs were the animal associated with Heqet, the goddess of fertility and birth, who was also credited with the power of resurrection — which makes them an apt symbol here as well, since {{% bible val="this is exactly where the resurrected beast makes its claim to be unbeatable" link="rev:13,3-4" lang="en" %}}. Frogs were also a plague that Pharaoh's magicians could imitate (Exod 8:7) — fitting for spirits whose work is deception.[^frogs]
+
+{{% /background %}}
 
 One more irony closes out the scene. The gathering of the armies at Armageddon is mirrored later by the gathering of the birds in chapter 19, and that parallel makes Satan's defeat even more pointed: his assembled armies are cut down by a single word, the sword from the rider's mouth, and all that is left of them is a meal for the birds (19:21).
 

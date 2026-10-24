@@ -71,7 +71,11 @@ Bu referanslar, çocuğun İsa olduğunu ve bunun onun doğum hikâyesi olduğun
 - {{% bible val="Soyunun yılanı yok edeceği vaat edilen" link="gen:3,15" lang="tr" %}} Havva.
 - İsrail: Mika, {{% bible val="Beytlehem'den gelecek olan, vaat edilmiş yöneticiyi doğuran, doğum sancıları çeken bir kadını" link="mic:5,2-3" lang="tr" %}} betimler, Yeşaya ise {{% bible val="bir günde yeniden doğan koca bir ulus olarak, aniden bir oğul doğuran Siyon'u" link="isa:66,7" lang="tr" %}} betimler.
 
+{{% study %}}
+
 Peki hikâye gerçekte hangisinden söz ediyor? Meryem ilk bakışta bariz seçim gibi görünür, ama Kutsal Kitap'ta hiçbir yerde Meryem ile güneş, ay ve yıldızlar arasında bir bağlantı kurulmaz — tam tersine, Meryem'i güneş, ay ve yıldızlarla ilişkilendiren şey Kutsal Yazı değil, bu kadının Meryem olması gerektiği varsayımından yola çıkan kilise geleneğidir. Havva için bir bağlantı öne sürülebilir, çünkü Âdem ve Havva, Yaratılış 1'deki yaratılış anlatısında güneş, ay ve yıldızlarla birlikte anılır — ama bu, hikâyemizin neden özellikle on iki yıldızdan söz ettiğini açıklamadan bırakır.
+
+{{% /study %}}
 
 En iyi eşleşme İsrail'dir. İsrail ilk bakışta açıkça bir "kadın" değildir, ama Kutsal Kitap ondan {{% bible val="Siyon kızı" link="isa:62,11" lang="tr" %}} olarak söz eder. Daha yakın bir paralellik ise {{% bible val="Yusuf'un ikinci rüyasıdır" link="gen:37,9-10" lang="tr" %}}: orada güneşi, ayı ve on bir yıldızı görür, babası da bunu on bir kardeşi ve ebeveynleri olarak yorumlar — Yusuf'un kendisiyle birlikte toplamda on iki yıldız eder. Bu on iki, aşağı yukarı, İsrail'in on iki oymağıdır.
 

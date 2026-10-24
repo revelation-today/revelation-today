@@ -66,7 +66,11 @@ These references make it pretty clear that the child is Jesus and this is the st
 - Eve, who was promised that {{% bible val="her offspring would destroy the serpent" link="gen:3,15" lang="en" %}}.
 - Israel: Micah pictures {{% bible val="a woman in labor bearing the promised ruler from Bethlehem" link="mic:5,2-3" lang="en" %}}, and Isaiah pictures {{% bible val="Zion suddenly bringing forth a son — a whole nation reborn in a day" link="isa:66,7" lang="en" %}}.
 
+{{% study %}}
+
 So which one is the story actually talking about? Mary would seem the obvious choice, but nowhere in the Bible is there a connection between Mary and the sun, moon, and stars — quite the opposite: it's Church tradition, not Scripture, that later associated Mary with the sun, moon, and stars, based on the assumption that this woman must be Mary. For Eve, one could argue a connection, since Adam and Eve are mentioned alongside the sun, moon, and stars in the creation account of Genesis 1 — but that leaves open why our story here specifies twelve stars.
+
+{{% /study %}}
 
 The best match is Israel. Israel isn't obviously a "woman" at first sight, but the Bible does refer to her that way, as {{% bible val="daughter Zion" link="isa:62,11" lang="en" %}}. The closer parallel, though, is {{% bible val="Joseph's second dream" link="gen:37,9-10" lang="en" %}}: there he sees the sun, moon, and eleven stars, and his father interprets this as his eleven brothers and his parents — with Joseph himself making twelve stars in all. Those twelve are, more or less, the twelve tribes of Israel.
 

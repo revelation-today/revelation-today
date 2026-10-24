@@ -55,9 +55,13 @@ Der erste Engel kommt und verkündet das ewige Evangelium:
 
 „{{% bible val="er hatte das ewige Evangelium zu verkündigen denen, die auf der Erde wohnen – jeder Nation und jedem Stamm, jeder Sprache und jedem Volk. Er sprach mit lauter Stimme: 'Fürchtet Gott und gebt ihm die Ehre, denn die Stunde seines Gerichts ist gekommen. Betet den an, der den Himmel, die Erde, das Meer und die Wasserquellen gemacht hat.'" link="rev:14,6-7" lang="de" %}}"
 
+{{% background %}}
+
 „Ewiges Evangelium" ist ein bemerkenswerter Ausdruck, und er geht zurück auf Psalm 96: „[Verkündigt Tag für Tag sein Heil](https://biblehub.com/interlinear/psalms/96-2.htm)." Das hebräische Verb hinter „verkündigt" ist dort „[basar](https://biblehub.com/hebrew/1319.htm)" – gute Nachricht ankündigen –, und der griechische Text des Alten Testaments gibt es mit der euangelizō-Wortgruppe wieder, der Verbform von evangelion, Evangelium. Und der Ausdruck „Tag für Tag" kann auch die Bedeutung „ewig" tragen, ähnlich dem redensartlichen „Tag für Tag" in {{% bible val="den Sprüchen" link="pro:8,30" lang="de" %}}.
 
 Psalm 96 verkündet diese gute Nachricht im weiteren Verlauf allen {{% bible val="Nationen und Völkern" link="psa:96,3" lang="de" %}}, und der Inhalt dieser {{% bible val="Botschaft zieht sich auch durch den Rest dieses kurzen Psalms" link="psa:96,7-10" lang="de" %}}. Bemerkenswert ist, dass der Psalm mit „Singt dem Herrn ein neues Lied" beginnt – genau der Beschreibung, die vorher für die 144.000 verwendet wurde. Sein durchgehendes Argument ist, dass Gott König ist und alle Nationen eingeladen sind, ihn anzubeten.
+
+{{% /background %}}
 
 Der zweite Engel verkündet den Fall Babels, während der dritte eine ernste Warnung vor dem Gericht für jeden ausspricht, der dem Tier nachgibt. Zusammen spiegeln sie das {{% bible val="Weissagen im Trauergewand" link="rev:11,3" lang="de" %}} und die {{% bible val="warnenden Gerichte" link="rev:11,5" lang="de" %}} wider, die schon die beiden Zeugen überbracht haben.
 
@@ -72,7 +76,11 @@ Beide sind Joel entnommen: „{{% bible val="Schwingt die Sichel, denn die Ernte
 
 Bei Joel weisen beide Bilder auf Gericht hin, besonders die Kelter – die die Offenbarung ausdrücklich als {{% bible val="die Kelter des Zornes Gottes" link="rev:14,19" lang="de" %}} bezeichnet, ein Echo des {{% bible val="Tages der Rache bei Jesaja" link="isa:63,1-6" lang="de" %}}. Es spiegelt auch den {{% bible val="wenige Verse zuvor angekündigten Fall Babels" link="rev:14,8" lang="de" %}} wider. Weil beide Erntebilder in der Offenbarung auf denselben Vers bei Joel zurückgehen, verstehen viele Ausleger die Getreideernte auf dieselbe Weise wie die Kelter: als ein weiteres Bild des Gerichts.[^harvest]
 
+{{% study %}}
+
 Diese Seite liest die Getreideernte anders: als das Einsammeln der Nationen zu Gott. Drei Einzelheiten heben sie ab. Erstens wurden die 144.000 bereits früher in diesem Kapitel als Erstlinge vorgestellt, und Erstlinge wurden {{% bible val="normalerweise vom Getreide genommen" link="lev:23,9-14" lang="de" %}} (zusammen mit einem Lammopfer) und dienten als {{% bible val="Unterpfand für die noch ausstehende volle Ernte" link="1co:15,20-23" lang="de" %}} – wenn also das hier geerntete Getreide an die 144.000 erinnern soll, erkauft aus jeder Nation (nach der Lesart, dass die Gemeinde Teil Israels ist, wie sie unter {{% int_link val="Die Gemeinde und Israel" link="/expl/topics/others/dispensionalism-and-its-critic#049e" %}} besprochen wird), würden sie als Erstling aller Nationen dastehen. Ein Erstling könnte technisch auch {{% bible val="von Trauben stammen" link="exo:22,29" lang="de" %}}, aber das ergäbe hier eine merkwürdige Lesart – sollen die Märtyrer tatsächlich der Erstling von Gottes Rache sein? Zweitens umfasst die Kelter sowohl das Sammeln als auch das Zertreten der Trauben, während die Getreideernte, so wie sie erzählt wird, beim Schneiden endet; was nach dem Einbringen des Getreides folgt – {{% bible val="Dreschen" link="jer:51,33" lang="de" %}}, {{% bible val="das Verbrennen der Spreu" link="mat:3,12" lang="de" %}} oder das {{% bible val="Fortwehen" link="psa:1,4" lang="de" %}} – wird schlicht nicht erwähnt, und an anderer Stelle in der Schrift kann {{% bible val="das Ernten auch das Einsammeln von Menschen abbilden, so wie Jesus sagt, die Felder seien reif zur Ernte" link="jhn:4,35" lang="de" %}}. Drittens wird die Getreideernte von „einem wie dem Menschensohn, der auf einer Wolke sitzt und eine Krone trägt" eingebracht – eine Formulierung, die zurückreicht {{% bible val="zu Daniel, wo er das ewige Königreich empfängt und alle Nationen ihn anbeten" link="dan:7,13-14" lang="de" %}}.
+
+{{% /study %}}
 
 Die beiden Ernten zeigen also die zwei Ausgänge für die Nationen: Das Getreide wird eingesammelt, die Trauben werden in der Kelter des Zornes Gottes getreten. Nicht jede Einzelheit weist in eine Richtung – der Christus, der das Getreide erntet, ist auch der, der später die Kelter tritt (19,15) –, aber der Gegensatz zwischen den beiden Szenen ist gewollt. Die Geschichte der zwei Zeugen endete damit, dass die meisten Menschen Gott die Ehre gaben; hier erscheinen dieselben zwei Ausgänge noch einmal, nun am Ende des Zeitalters.
 
@@ -85,6 +93,8 @@ Die nächste Szene führt uns in einen neuen Exodus, angezeigt durch das gläser
 
 {{% bible val="Das ursprüngliche Lied des Mose beschreibt das Lob, das dem Wunder am Roten Meer folgte" link="exo:15,1-19" lang="de" %}}, aber die hier gesungenen Worte unterscheiden sich deutlich von dem, was Mose tatsächlich sagte – die Bezeichnung „Lied des Mose" tut also mehr, als nur eine Quelle zu benennen; sie zieht eine bewusste Parallele.
 
+{{% background %}}
+
 Diese Parallele reicht tiefer als der Exodus selbst. Die Exodus-Geschichte wird erneut in {{% bible val="Jesaja" link="isa:11,15-16" lang="de" %}} aufgegriffen und als {{% bible val="neuer Exodus" link="isa:12" lang="de" %}} in zwei Liedern verarbeitet, die auch {{% bible val="ein Echo" link="isa:12,4" lang="de" %}} von {{% bible val="Psalm 105" link="psa:105,1" lang="de" %}} sind, der ebenfalls an den Exodus erinnert. Der rote Faden, der all dies verbindet, ist, dass auch die Nationen von Gottes Handeln am Roten Meer betroffen sind.
 
 Schaut man noch genauer auf die Zeile „Wer wird dich nicht fürchten, Herr, und deinen Namen preisen? … König der Nationen", verbindet sie sich mit {{% bible val="Jeremia, wo dieselbe Frage über den König der Nationen gestellt wird" link="jer:10,7" lang="de" %}} sowie mit Psalm {{% bible val="86" link="psa:86,8-10" lang="de" %}} und {{% bible val="98" link="psa:98,1-2" lang="de" %}}. Zusammengenommen verweben diese Fäden den Inhalt des Liedes des Mose und des Lammes zu einem einzigen Argument:
@@ -93,6 +103,8 @@ Schaut man noch genauer auf die Zeile „Wer wird dich nicht fürchten, Herr, un
 - Er zeigt dies, indem er Wunder als Taten der Befreiung wirkt.
 - Damit erweist er sich als der eine wahre Gott.
 - Und das bringt alle Nationen dazu, ihn anzubeten.
+
+{{% /background %}}
 
 Das Lied ist mit anderen Worten eine Proklamation, dass alle Nationen zu Gott kommen und ihn anbeten werden – bewirkt nicht in erster Linie durch das Gericht über die Feinde seines Volkes, sondern durch den Sieg des Lammes und das Zeugnis derer, die ihm folgen.[^song] Sein Jubel gilt nicht nur der eigenen Rechtfertigung der Märtyrer; er gilt ebenso dem Lob, das Gottes Taten den Nationen entlockt haben.
 

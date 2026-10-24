@@ -35,6 +35,8 @@ Taht odasındaki ibadet, kiliselere yazılan mektuplarda ortaya konan sorunlara 
 <a name="3e33"></a>
 Önceki bölümün son ayeti Tanrı'nın taht odasından zaten söz etmişti, ama bağlantılar daha derindir: taht odası bölümü, kilisenin durumunu ele alan ilk üç bölümdeki ifadeleri yankılar.
 
+{{% study %}}
+
 <table><thead><tr>
     <th>Konu</th>
     <th>Mektuplar</th>
@@ -83,9 +85,13 @@ Taht odasındaki ibadet, kiliselere yazılan mektuplarda ortaya konan sorunlara 
 </tbody>
 </table>
 
+{{% /study %}}
+
 Bu paralellikler kiliseye kendi ruhsal gerçekliğine dair bir görüm ve Mesih'in örneğini nasıl izleyeceğine dair bir model sunar. Bu görümde gösterilen gerçeklik, kilisenin harekete geçmesi gereken şeyin bir parçasıdır.
 
 {{% bible val="Daniel 7" link="dan:7" lang="tr" %}}, Vahiy Kitabı'nın 4. ve 5. bölümleriyle çarpıcı bir paralellik taşır:
+
+{{% study %}}
 
 <table><thead><tr>
     <th>Konu</th>
@@ -167,10 +173,16 @@ Bu paralellikler kiliseye kendi ruhsal gerçekliğine dair bir görüm ve Mesih'
 
 Paralellikler çok kapsamlı olsa da sıra aynı değildir. Daniel'de mahkeme kurulur, kitaplar açılır, hüküm verilir ve ancak ondan sonra İnsanoğlu'na benzer biri krallığı almak üzere yaklaşır. Vahiy'de tersidir: Kuzu önce tahta gelip tomarı alır, yargılar da onu açmasından çıkar. (Burada zaten vaat edilen kutsalların ortak egemenliği, genellikle Vahiy 20'deki bin yıllık egemenlikle ilişkilendirilir - ikisinin nasıl ilişkili olduğu ayrı, tartışmalı bir sorudur; bkz. {{% int_link val="premilenyalizm, postmilenyalizm ve amilenyalizm karşılaştırması" link="/expl/content/1000y/pre-post-and-amillennialism" %}}.)
 
+{{% /study %}}
+
+{{% background %}}
+
 Bu sahne aynı zamanda melek meclisi imgesini de hatırlatır, örneğin:
 
 - {{% bible val="Yeşaya'nın çağrılışında" link="isa:6,1-9" lang="tr" %}}, ya da
 - {{% bible val="Ahav'ın ölümüyle ilgili kararda" link="1ki:22,19-23" lang="tr" %}}.
+
+{{% /background %}}
 
 ## İbadet neden cevaptır?
 
@@ -217,6 +229,8 @@ Bir araya getirildiğinde, camdan deniz Tanrı'nın halkına yakın olduğunu ve
 <a name="e932"></a>
 Eski dünyada, göksel taht odasının bir yansıması olan tapınağın kendisi, tüm dünyayı temsil ederdi. Tanrı merkezdedir, ve etrafındaki her şey O'nunla ilişkisinde kendi yerini bulur.
 
+{{% background %}}
+
 Yaratılış, {{% bible val="Hezekiel'in" link="ezk:1,5-21" lang="tr" %}} daha önce tasvir ettiği {{% bible val="dört yaratığın" link="rev:4,7" lang="tr" %}} geleneksel yorumlarından biridir:
 - kara hayvanlarının hükümdarı aslan,
 - evcil hayvanların en güçlüsü öküz,
@@ -224,6 +238,8 @@ Yaratılış, {{% bible val="Hezekiel'in" link="ezk:1,5-21" lang="tr" %}} daha �
 - havanın hükümdarı kartal.
 
 Ancak Hezekiel'in kendi paralel görümü bu yaratık sınıfını açıkça keruvlar olarak adlandırır (Hez 10:20) - meleksel taht hizmetkarlarının en yüksek düzeyi. Her iki yorumun da gerçek bir dayanağı vardır: dört yaratık, ibadette toplanan tüm yaratılmış yaşamı temsil ediyor olabilir, ya da bu ibadete öncülük eden keruvsal varlıklar olabilirler, ya da her ikisi birden.
+
+{{% /background %}}
 
 Onlara, Davut'un kurduğu {{% bible val="24 kâhin bölümünü" link="1ch:24,3-19" lang="tr" %}}, {{% bible val="24 Levili kapı bekçisini" link="1ch:26,17-19" lang="tr" %}} ve {{% bible val="24 daimi tapınmacıyı" link="1ch:25" lang="tr" %}} yankılayan, ama aynı zamanda İsrail'in 12 oymağını ve Kilise'nin temeli olan 12 havariyi de çağrıştıran {{% bible val="24 ihtiyar" link="rev:4,4" lang="tr" %}} katılır. Büyük olasılıkla onlar, Tanrı'nın bütün halkını, İsrail'i ve Kilise'yi birlikte temsil eden meleklerdir.[^elders] Bir başka deyişle, İsrail ve Kilise, tüm çatışmalarına rağmen tek bir bütün olarak görülmelidir. Kilise, özünde, bir ibadet kilisesi olarak tanımlanır.
 

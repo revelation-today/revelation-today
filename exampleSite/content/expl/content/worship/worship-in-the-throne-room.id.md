@@ -35,6 +35,8 @@ Penyembahan di ruang takhta adalah jawaban atas persoalan-persoalan yang diuraik
 <a name="e638"></a>
 Ayat di akhir pasal sebelumnya sudah menyebutkan ruang takhta Allah, tetapi hubungannya jauh lebih dalam: bagian ruang takhta ini menggemakan ungkapan-ungkapan dari ketiga pasal pertama yang membahas keadaan jemaat.
 
+{{% study %}}
+
 <table><thead><tr>
     <th>Tema</th>
     <th>Surat-Surat</th>
@@ -83,9 +85,13 @@ Ayat di akhir pasal sebelumnya sudah menyebutkan ruang takhta Allah, tetapi hubu
 </tbody>
 </table>
 
+{{% /study %}}
+
 Kesejajaran-kesejajaran ini memberikan jemaat sebuah penglihatan tentang realitas rohani mereka sendiri, dan sebuah teladan tentang bagaimana mengikuti jejak Kristus. Realitas yang ditunjukkan dalam penglihatan ini adalah bagian dari apa yang seharusnya menjadi dasar tindakan jemaat.
 
 {{% bible val="Daniel pasal 7" link="dan:7" lang="ind" %}} menunjukkan kesejajaran yang mencolok dengan pasal 4 dan 5 Kitab Wahyu:
+
+{{% study %}}
 
 <table><thead><tr>
     <th>Tema</th>
@@ -167,10 +173,16 @@ Kesejajaran-kesejajaran ini memberikan jemaat sebuah penglihatan tentang realita
 
 Meskipun kesejajarannya sangat banyak, urutannya tidaklah sama. Dalam Daniel pengadilan duduk, kitab-kitab dibuka dan keputusan dijatuhkan, dan baru sesudah itu seorang seperti Anak Manusia maju untuk menerima kerajaan. Dalam Kitab Wahyu justru sebaliknya: Anak Domba datang ke takhta dan mengambil gulungan kitab itu lebih dahulu, lalu penghakiman-penghakiman menyusul karena Ia membukanya. (Pemerintahan bersama para kudus yang telah dijanjikan di sini sering dikaitkan dengan pemerintahan seribu tahun dalam Wahyu 20 - bagaimana keduanya berhubungan adalah pertanyaan tersendiri yang masih diperdebatkan; lihat {{% int_link val="perbandingan premilenialisme, postmilenialisme, dan amilenialisme" link="/expl/content/1000y/pre-post-and-amillennialism" %}}.)
 
+{{% /study %}}
+
+{{% background %}}
+
 Adegan ini juga mengingatkan kita pada gambaran dewan malaikat, seperti pada
 
 - {{% bible val="panggilan Yesaya" link="isa:6,1-9" lang="ind" %}}, atau
 - {{% bible val="keputusan tentang kematian Ahab" link="1ki:22,19-23" lang="ind" %}}.
+
+{{% /background %}}
 
 ## Mengapa Penyembahan Adalah Jawabannya?
 
@@ -217,6 +229,8 @@ Jika kita melihat ke depan pada peristiwa-peristiwa yang akan datang, kita melih
 <a name="e545"></a>
 Pada masa kuno, Bait Suci - yang sendiri merupakan cerminan dari ruang takhta surgawi - merepresentasikan seluruh dunia. Allah berada di pusat, dan segala sesuatu di sekeliling-Nya menemukan tempatnya dalam hubungan dengan-Nya.
 
+{{% background %}}
+
 Ciptaan adalah salah satu tafsiran tradisional atas {{% bible val="keempat makhluk hidup" link="rev:4,7" lang="ind" %}} yang sudah digambarkan {{% bible val="oleh Yehezkiel" link="ezk:1,5-21" lang="ind" %}}:
 - singa, penguasa binatang darat,
 - lembu, yang terkuat di antara hewan ternak,
@@ -224,6 +238,8 @@ Ciptaan adalah salah satu tafsiran tradisional atas {{% bible val="keempat makhl
 - rajawali, penguasa udara.
 
 Namun penglihatan paralel Yehezkiel sendiri secara eksplisit menyebut kelas makhluk ini sebagai kerub (Yeh 10:20) - tatanan tertinggi dari para malaikat penjaga takhta. Kedua tafsiran ini sama-sama memiliki dasar yang kuat: keempat makhluk hidup ini bisa mewakili seluruh ciptaan yang berkumpul dalam penyembahan, atau mereka adalah makhluk-makhluk kerub yang memimpin penyembahan itu, atau keduanya sekaligus.
+
+{{% /background %}}
 
 Mereka bergabung dengan {{% bible val="kedua puluh empat tua-tua" link="rev:4,4" lang="ind" %}}, yang menggemakan {{% bible val="24 rombongan imam" link="1ch:24,3-19" lang="ind" %}}, {{% bible val="24 penjaga pintu gerbang orang Lewi" link="1ch:26,17-19" lang="ind" %}}, dan {{% bible val="24 penyembah tetap" link="1ch:25" lang="ind" %}} yang ditetapkan oleh Daud - tetapi juga menggemakan 12 suku Israel dan 12 rasul sebagai dasar jemaat. Kemungkinan besar mereka adalah malaikat yang mewakili seluruh umat Allah, keduanya bersama-sama.[^elders] Dengan kata lain, Israel dan jemaat harus dipandang sebagai satu kesatuan, terlepas dari segala konflik di antara keduanya. Jemaat, pada intinya, didefinisikan sebagai jemaat yang menyembah.
 

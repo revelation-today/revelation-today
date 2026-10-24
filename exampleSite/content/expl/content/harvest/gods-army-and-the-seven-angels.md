@@ -55,9 +55,13 @@ The first angel comes and proclaims the eternal gospel:
 
 "{{% bible val="he had the eternal gospel to proclaim to those who live on the earth — to every nation, tribe, language and people. He said in a loud voice, ‘Fear God and give him glory, because the hour of his judgment has come. Worship him who made the heavens, the earth, the sea and the springs of water.’" link="rev:14,6-7" lang="en" %}}"
 
+{{% background %}}
+
 "Eternal gospel" is a striking term, and it traces back to Psalm 96: "[Proclaim His salvation from day to day](https://biblehub.com/interlinear/psalms/96-2.htm)." The Hebrew verb behind "proclaim" there is "[basar](https://biblehub.com/hebrew/1319.htm)" — announce good news — and the Greek Old Testament renders it with the euangelizō word-group, the verb form of evangelion, gospel. And the phrase "from day to day" can carry the sense of "eternally," similar to the idiomatic "day after day" of {{% bible val="Proverbs" link="pro:8,30" lang="en" %}}.
 
 Psalm 96 goes on to proclaim this good news to all {{% bible val="nations and peoples" link="psa:96,3" lang="en" %}}, and the content of that {{% bible val="message runs through the rest of this short psalm" link="psa:96,7-10" lang="en" %}} as well. It's worth noting that the psalm opens with "Sing to the Lord a new song" — the very description used earlier for the 144,000. Its argument throughout is that God is king, and all nations are invited to worship him.
+
+{{% /background %}}
 
 The second angel announces the fall of Babel, while the third brings a stern warning of judgment for anyone who gives in to the beast. Together they mirror the {{% bible val="prophesying in sackcloth" link="rev:11,3" lang="en" %}} and the {{% bible val="warning judgments" link="rev:11,5" lang="en" %}} already delivered by the two witnesses.
 
@@ -72,7 +76,11 @@ Both are drawn from Joel: "{{% bible val="Swing the sickle, for the (grain) harv
 
 In Joel, both images point to judgment, especially the wine press — which Revelation names outright as {{% bible val="the wine press of the wrath of God" link="rev:14,19" lang="en" %}}, an echo of {{% bible val="the day of vengeance in Isaiah" link="isa:63,1-6" lang="en" %}}. It also reflects the {{% bible val="fall of Babel announced just a few verses earlier" link="rev:14,8" lang="en" %}}. Because both harvest images in Revelation are drawn from that same single verse in Joel, many readers take the grain harvest the same way as the wine press: as another picture of judgment.[^harvest]
 
+{{% study %}}
+
 This site reads the grain harvest differently: as the gathering of the nations to God. Three details set it apart. First, the 144,000 were introduced earlier in this chapter as the first fruits, and first fruits were {{% bible val="normally taken from grain" link="lev:23,9-14" lang="en" %}} (alongside a lamb offering) and served as a {{% bible val="pledge of the full harvest still to come" link="1co:15,20-23" lang="en" %}} — so if the grain harvested here is meant to recall the 144,000, redeemed from every nation (on the church-as-part-of-Israel reading discussed at {{% int_link val="the church and Israel" link="/expl/topics/others/dispensionalism-and-its-critic#40c6" %}}), they would stand as a first fruit of all the nations. A first fruit could technically also {{% bible val="come from grapes" link="exo:22,29" lang="en" %}}, but that would make for a strange reading here — are the martyrs really meant to be the first fruit of God's vengeance? Second, while the wine press involves both the gathering and the crushing of the grapes, the grain harvest as narrated stops at the reaping; what comes after grain is gathered — {{% bible val="threshing" link="jer:51,33" lang="en" %}}, {{% bible val="burning the chaff" link="mat:3,12" lang="en" %}}, or being {{% bible val="blown away" link="psa:1,4" lang="en" %}} — is simply not mentioned, and elsewhere in Scripture {{% bible val="reaping can also picture the ingathering of people, as when Jesus says the fields are ripe for harvest" link="jhn:4,35" lang="en" %}}. Third, the grain harvest is carried out by "one like the Son of Man seated on a cloud wearing a crown" — language that reaches back to {{% bible val="Daniel, where he receives the eternal kingdom with all the nations worshiping him" link="dan:7,13-14" lang="en" %}}.
+
+{{% /study %}}
 
 So the two harvests lay out the two outcomes for the nations: the grain is gathered in, the grapes are trodden in the winepress of God's wrath. Not every detail points one way — the Christ who reaps the grain is also the one who later treads the winepress (19:15) — but the contrast between the two scenes is deliberate. The story of the two witnesses ended with most of the people giving God the glory; here the same two outcomes appear once more, now at the end of the age.
 
@@ -85,6 +93,8 @@ The next scene draws us into a new exodus, signaled by the sea of glass — an e
 
 {{% bible val="The original song of Moses describes the praise that followed the miracle at the Red Sea" link="exo:15,1-19" lang="en" %}}, but the words sung here are quite different from what Moses actually said — so the label "song of Moses" is doing more than just naming a source; it's drawing a deliberate parallel.
 
+{{% background %}}
+
 That parallel runs deeper than Exodus itself. The Exodus story is taken up again in {{% bible val="Isaiah" link="isa:11,15-16" lang="en" %}} and reworked as {{% bible val="a new Exodus" link="isa:12" lang="en" %}} across two songs that also {{% bible val="echo" link="isa:12,4" lang="en" %}} {{% bible val="Psalm 105" link="psa:105,1" lang="en" %}}, which likewise recalls the Exodus. The thread connecting all of these is that the nations, too, are affected by God's action at the Red Sea.
 
 Look closer still at the line "Who will not fear you, Lord, and bring glory to your name? ... King of the nations," and it links to {{% bible val="Jeremiah, where the same question is asked of the King of the nations" link="jer:10,7" lang="en" %}} as well as Psalms {{% bible val="86" link="psa:86,8-10" lang="en" %}} and {{% bible val="98" link="psa:98,1-2" lang="en" %}}. Taken together, these threads weave the content of the song of Moses and the Lamb into a single argument:
@@ -93,6 +103,8 @@ Look closer still at the line "Who will not fear you, Lord, and bring glory to y
 - He shows this by working miracles as acts of deliverance.
 - In doing so, he demonstrates that he is the one true God.
 - And this brings all nations to worship him.
+
+{{% /background %}}
 
 The song, in other words, is a proclamation that all nations will come to God and worship him — brought about not mainly by judgment on the enemies of his people, but by the victory of the Lamb and the witness of those who follow him.[^song] Its celebration isn't only about the martyrs' own vindication; it's equally about the praise that God's actions have drawn out of the nations.
 

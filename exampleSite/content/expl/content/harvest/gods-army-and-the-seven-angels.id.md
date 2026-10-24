@@ -55,9 +55,13 @@ Malaikat pertama datang dan memberitakan Injil yang kekal:
 
 "{{% bible val="ia mempunyai Injil yang kekal untuk diberitakannya kepada mereka yang diam di atas bumi, dan kepada semua bangsa dan suku dan bahasa dan kaum, dan ia berseru dengan suara nyaring: 'Takutlah akan Allah dan muliakanlah Dia, karena telah tiba saat penghakiman-Nya. Sembahlah Dia yang telah menjadikan langit dan bumi dan laut dan semua mata air.'" link="rev:14,6-7" lang="ind" %}}"
 
+{{% background %}}
+
 "Injil yang kekal" adalah istilah yang mencolok, dan asal-usulnya dapat ditelusuri kembali ke Mazmur 96: "[Kabarkanlah keselamatan yang dari pada-Nya dari hari ke hari](https://biblehub.com/interlinear/psalms/96-2.htm)." Kata kerja Ibrani di balik "kabarkanlah" di sana adalah "[basar](https://biblehub.com/hebrew/1319.htm)" — mewartakan kabar baik — dan teks Perjanjian Lama versi Yunani menerjemahkannya dengan kelompok kata euangelizō, bentuk kata kerja dari evangelion, Injil. Dan ungkapan "dari hari ke hari" dapat membawa makna "untuk selama-lamanya," serupa dengan ungkapan idiomatik "hari demi hari" dalam {{% bible val="Kitab Amsal" link="pro:8,30" lang="ind" %}}.
 
 Mazmur 96 selanjutnya memberitakan kabar baik ini kepada semua {{% bible val="bangsa dan suku bangsa" link="psa:96,3" lang="ind" %}}, dan {{% bible val="isi berita itu berlaku sepanjang mazmur pendek ini" link="psa:96,7-10" lang="ind" %}}. Patut dicatat bahwa mazmur ini dibuka dengan "Nyanyikanlah bagi TUHAN nyanyian baru" — persis gambaran yang dipakai sebelumnya untuk 144.000 orang itu. Sepanjang mazmur ini, argumennya adalah bahwa Allah adalah Raja, dan semua bangsa diundang untuk menyembah-Nya.
+
+{{% /background %}}
 
 Malaikat kedua memberitakan jatuhnya Babel, sementara malaikat ketiga membawa peringatan keras tentang penghakiman bagi siapa pun yang menyerah kepada binatang itu. Bersama-sama, keduanya mencerminkan {{% bible val="bernubuat dengan berkabung" link="rev:11,3" lang="ind" %}} dan {{% bible val="penghakiman-penghakiman peringatan" link="rev:11,5" lang="ind" %}} yang sudah disampaikan lebih dahulu oleh kedua saksi.
 
@@ -72,7 +76,11 @@ Keduanya diambil dari kitab Yoel: "{{% bible val="Ayunkanlah sabit, sebab telah 
 
 Dalam kitab Yoel, kedua gambaran itu menunjuk kepada penghakiman, terutama alat pemeras anggur — yang dalam Kitab Wahyu secara langsung disebut {{% bible val="tempat pemerasan murka Allah" link="rev:14,19" lang="ind" %}}, sebuah gema dari {{% bible val="hari pembalasan dalam kitab Yesaya" link="isa:63,1-6" lang="ind" %}}. Ini juga mencerminkan {{% bible val="jatuhnya Babel yang diumumkan beberapa ayat sebelumnya" link="rev:14,8" lang="ind" %}}. Karena kedua gambaran tuaian dalam Kitab Wahyu sama-sama diambil dari satu ayat yang sama di kitab Yoel, banyak pembaca memaknai tuaian gandum dengan cara yang sama seperti alat pemeras anggur: sebagai gambaran penghakiman lainnya.[^harvest]
 
+{{% study %}}
+
 Situs ini membaca tuaian gandum secara berbeda: sebagai pengumpulan bangsa-bangsa kepada Allah. Ada tiga hal yang membedakannya. Pertama, 144.000 orang telah diperkenalkan sebelumnya dalam pasal ini sebagai buah sulung, dan buah sulung {{% bible val="biasanya diambil dari hasil gandum" link="lev:23,9-14" lang="ind" %}} (disertai kurban anak domba) dan berfungsi sebagai {{% bible val="jaminan bagi seluruh hasil panen yang masih akan datang" link="1co:15,20-23" lang="ind" %}} — jadi jika gandum yang dituai di sini dimaksudkan untuk mengingatkan pada 144.000 orang, yang ditebus dari segala bangsa (menurut pembacaan bahwa gereja adalah bagian dari Israel, sebagaimana dibahas di {{% int_link val="Gereja dan Israel" link="/expl/topics/others/dispensionalism-and-its-critic#049e" %}}), mereka akan menjadi buah sulung dari semua bangsa. Buah sulung secara teknis juga bisa {{% bible val="berasal dari buah anggur" link="exo:22,29" lang="ind" %}}, tetapi itu akan menjadi tafsiran yang aneh di sini — mungkinkah para martir dimaksudkan sebagai buah sulung dari pembalasan Allah? Kedua, sementara alat pemeras anggur mencakup baik pengumpulan maupun penginjakan buah anggur, tuaian gandum sebagaimana dikisahkan berhenti pada penuaiannya saja; apa yang biasanya terjadi setelah gandum dikumpulkan — {{% bible val="penebahan" link="jer:51,33" lang="ind" %}}, {{% bible val="pembakaran sekam" link="mat:3,12" lang="ind" %}}, atau {{% bible val="tertiup angin" link="psa:1,4" lang="ind" %}} — sama sekali tidak disebutkan, dan di tempat lain dalam Alkitab {{% bible val="penuaian juga dapat menggambarkan pengumpulan orang, seperti ketika Yesus berkata bahwa ladang sudah menguning dan siap dituai" link="jhn:4,35" lang="ind" %}}. Ketiga, tuaian gandum dilakukan oleh "seorang seperti Anak Manusia yang duduk di atas awan dan memakai mahkota" — bahasa yang mengingatkan kita kembali kepada {{% bible val="Daniel, di mana ia menerima kerajaan yang kekal dan semua bangsa menyembah-Nya" link="dan:7,13-14" lang="ind" %}}.
+
+{{% /study %}}
 
 Jadi kedua tuaian itu memaparkan dua kesudahan bagi bangsa-bangsa: gandum dikumpulkan, buah anggur diinjak-injak dalam kilangan murka Allah. Tidak setiap rincian menunjuk ke satu arah — Kristus yang menuai gandum juga adalah Dia yang kelak mengirik kilangan anggur itu (19:15) — tetapi kontras antara kedua adegan itu disengaja. Kisah kedua saksi berakhir dengan sebagian besar orang memuliakan Allah; di sini kedua kesudahan yang sama muncul sekali lagi, kini pada akhir zaman.
 
@@ -85,6 +93,8 @@ Adegan berikutnya membawa kita ke dalam sebuah keluaran baru, ditandai oleh laut
 
 {{% bible val="Nyanyian Musa yang asli menggambarkan pujian yang menyertai mukjizat di Laut Merah" link="exo:15,1-19" lang="ind" %}}, tetapi kata-kata yang dinyanyikan di sini cukup berbeda dari apa yang sebenarnya dikatakan Musa — jadi sebutan "nyanyian Musa" bukan sekadar menyebut sumbernya; sebutan itu sengaja menarik sebuah paralel.
 
+{{% background %}}
+
 Paralel itu berakar lebih dalam daripada kitab Keluaran itu sendiri. Kisah Keluaran diangkat kembali dalam {{% bible val="Yesaya" link="isa:11,15-16" lang="ind" %}} dan digubah ulang sebagai {{% bible val="sebuah keluaran baru" link="isa:12" lang="ind" %}} dalam dua nyanyian yang juga {{% bible val="menggemakan" link="isa:12,4" lang="ind" %}} {{% bible val="Mazmur 105" link="psa:105,1" lang="ind" %}}, yang juga mengenang peristiwa Keluaran. Benang merah yang menghubungkan semua ini adalah bahwa bangsa-bangsa pun turut terpengaruh oleh tindakan Allah di Laut Merah.
 
 Perhatikan lebih dekat lagi baris "Siapakah yang tidak takut, ya Tuhan, dan yang tidak memuliakan nama-Mu? ... ya Raja segala bangsa," dan kita akan melihat kaitannya dengan {{% bible val="Yeremia, tempat pertanyaan yang sama diajukan tentang Raja segala bangsa" link="jer:10,7" lang="ind" %}} serta Mazmur {{% bible val="86" link="psa:86,8-10" lang="ind" %}} dan {{% bible val="98" link="psa:98,1-2" lang="ind" %}}. Jika digabungkan, benang-benang ini menenun isi nyanyian Musa dan Anak Domba menjadi satu argumen tunggal:
@@ -93,6 +103,8 @@ Perhatikan lebih dekat lagi baris "Siapakah yang tidak takut, ya Tuhan, dan yang
 - Ia menunjukkan hal ini dengan mengadakan mukjizat-mukjizat sebagai tindakan pembebasan.
 - Dengan demikian, Ia membuktikan diri-Nya sebagai satu-satunya Allah yang benar.
 - Dan hal ini membawa semua bangsa untuk menyembah-Nya.
+
+{{% /background %}}
 
 Dengan kata lain, nyanyian ini adalah sebuah proklamasi bahwa semua bangsa akan datang kepada Allah dan menyembah-Nya — bukan terutama melalui penghakiman atas musuh-musuh umat-Nya, melainkan melalui kemenangan Anak Domba dan kesaksian mereka yang mengikuti Dia.[^song] Perayaan dalam nyanyian ini bukan hanya tentang pembenaran diri para martir; melainkan sama-sama tentang pujian yang dibangkitkan oleh tindakan Allah dari bangsa-bangsa.
 
