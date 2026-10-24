@@ -29,10 +29,10 @@ Yeni Antlaşma'nın İsa'yı nasıl sunduğunu bu arka plana karşı okumak ger�
 
 Markos burada durmaz. Hemen ardından, Rab'bin Günü'nün duyurulduğu tam noktada Yeşaya'dan alıntı yapar. Oradan itibaren İsa, İsrail'in tarihine ve vaatlerine doğrudan bağlı bir dizi şey yapar:
 
-- {{% bible val="12 öğrencinin" link="mrk:3,13-19" lang="tr" %}} bir {{% bible val="dağa" link="luk:6,12-13" lang="tr" %}} çağrılması, antlaşmanın Sina Dağı'nda yapıldığı İsrail'in (12 oymaktan oluşan) yeni yaratılışını hatırlatır.
-- {{% bible val="İsa'nın çölde 40 gün süren ayartılması" link="luk:4,1-13" lang="tr" %}}, İsrail'in Mısır'dan Çıkış sırasında çölde karşılaştığı ve başarısız olduğu ayartmaları (su ve ekmek sağlanması, mucizeler, putperestlik) anımsatır; bu başarısızlık yüzünden İsrail çölde 40 yıl dolaşmak zorunda kalmıştı (40 gün boyunca dolaşan casuslara inanmalarının ardından) — ilginç biçimde, İsa MS 30'da görevini tamamladıktan 40 yıl sonra tapınak yıkıldı.
+- {{% bible val="12 öğrencinin" link="mrk:3,13-19" lang="tr" %}} bir {{% bible val="dağa" link="luk:6,12-13" lang="tr" %}} çağrılması, antlaşmanın Sina Dağı'nda yapıldığı İsrail'in (12 oymaktan oluşan) yeni yaratılışını hatırlatır.[^sinai]
+- {{% bible val="İsa'nın çölde 40 gün süren ayartılması" link="luk:4,1-13" lang="tr" %}}, İsrail'in Mısır'dan Çıkış sırasında çölde karşılaştığı ve başarısız olduğu ayartmaları (su ve ekmek sağlanması, mucizeler, putperestlik)[^forty] anımsatır; bu başarısızlık yüzünden İsrail çölde 40 yıl dolaşmak zorunda kalmıştı (40 gün boyunca dolaşan casuslara inanmalarının ardından) — ilginç biçimde, İsa MS 30'da görevini tamamladıktan 40 yıl sonra tapınak yıkıldı.
 - İsa'nın şifa vermeleri, gelmekte olan krallığın bir işaretidir.
-- Cinlerin kovulması (Eski Ahit'te hiç görülmemiş bir şey) Tanrı'nın İsrail'in düşmanlarına karşı gerçekleştirdiği kurtarıcı eylemi tasvir eder.
+- Cinlerin kovulması (Eski Ahit'te hiç görülmemiş bir şey) Tanrı'nın İsrail'in düşmanlarına karşı gerçekleştirdiği kurtarıcı eylemi tasvir eder.[^exorcism]
 - Ekmeğin çoğalması çöldeki mannayı hatırlatır.
 - Fırtınanın dindirilmesi Mısır'dan Çıkış'ı hatırlatır.
 - Günahkârlarla yenen yemek, Tanrı'nın halkıyla birlikte vereceği son ziyafeti önceden haber verir.
@@ -44,13 +44,13 @@ Markos burada durmaz. Hemen ardından, Rab'bin Günü'nün duyurulduğu tam nokt
 
 Aynı doğrultuda, İsa'nın duyurduğu Rab'bin Günü, Hezekiel 40–48'de tasvir edilen Yeruşalim ve tapınağın restorasyonunu değil, {{% bible val="Yeruşalim'in ve tapınağın yıkımını" link="mrk:13" lang="tr" %}} getirecektir.
 
-Yine de Krallığın gelişi — Rab'bin Günü geldiğinde İsrail'in hüküm sürmesi — kasıtlı olarak gizli bir şekilde gerçekleşir ve İsa bu temaya defalarca döner: {{% bible val="ekinci benzetmesinde" link="mrk:4,1-20" lang="tr" %}}; {{% bible val="tarladaki yabani otlarda" link="mat:13,24-30" lang="tr" %}} ve {{% bible val="balık ağı benzetmesinde" link="mat:13,47-50" lang="tr" %}}; {{% bible val="tohumun büyümesinde" link="mrk:4,26-29" lang="tr" %}}; ve yaklaşık bir milimetrelik bir tohumun iki üç metrelik bir ağaca dönüştüğü {{% bible val="hardal tohumu benzetmesinde" link="mrk:4,30-32" lang="tr" %}}. Kutsal Kitap'ın başka yerlerinde {{% bible val="ağaç Tanrı'nın krallığının bir resmi" link="ezk:17" lang="tr" %}} olduğundan, bu benzetme en küçük şeyin en büyük şey hâline geldiğini anlatır — bu da İsrail'in en küçük ulus olarak seçilmesinden yola çıkarak {{% bible val="zaten İsrail tarafından bilinmesi gereken" link="deu:7,7" lang="tr" %}} bir tersine çevirmedir. Aynı gizlilik, {{% bible val="tüm hamuru değiştiren mayada" link="mat:13,33" lang="tr" %}} da görülür — dikkat çekici, çünkü Kutsal Kitap'ın hemen her yerinde maya bozulmayı simgeler — Fısıh'ın mayasız ekmeği ({{% bible val="Mısır'dan Çıkış 12:15" link="exo:12,15" lang="tr" %}}), Pavlus'un topluluktan atılmasını istediği "kötülük ve fesat mayası" ({{% bible val="1. Korintliler 5:6-8" link="1co:5,6-8" lang="tr" %}}) — ve Tanrı'nın krallığı için hiçbir zaman kullanılmaz — burada küçük, gizli bir miktar durdurulamaz biçimde büyük bir miktara dönüşür; aynı şekilde {{% bible val="gizli hazine ve inci" link="mat:13,44-46" lang="tr" %}} benzetmesinde de hazine önce aranmalı, bulunduğunda ise onun uğruna her şeyden vazgeçilmelidir.
+Yine de Krallığın gelişi — Rab'bin Günü geldiğinde İsrail'in hüküm sürmesi — kasıtlı olarak gizli bir şekilde gerçekleşir[^hidden] ve İsa bu temaya defalarca döner: {{% bible val="ekinci benzetmesinde" link="mrk:4,1-20" lang="tr" %}}; {{% bible val="tarladaki yabani otlarda" link="mat:13,24-30" lang="tr" %}} ve {{% bible val="balık ağı benzetmesinde" link="mat:13,47-50" lang="tr" %}}; {{% bible val="tohumun büyümesinde" link="mrk:4,26-29" lang="tr" %}}; ve yaklaşık bir milimetrelik bir tohumun iki üç metrelik bir ağaca dönüştüğü {{% bible val="hardal tohumu benzetmesinde" link="mrk:4,30-32" lang="tr" %}}. Kutsal Kitap'ın başka yerlerinde {{% bible val="ağaç Tanrı'nın krallığının bir resmi" link="ezk:17" lang="tr" %}} olduğundan, bu benzetme en küçük şeyin en büyük şey hâline geldiğini anlatır — bu da İsrail'in en küçük ulus olarak seçilmesinden yola çıkarak {{% bible val="zaten İsrail tarafından bilinmesi gereken" link="deu:7,7" lang="tr" %}} bir tersine çevirmedir. Aynı gizlilik, {{% bible val="tüm hamuru değiştiren mayada" link="mat:13,33" lang="tr" %}} da görülür — dikkat çekici, çünkü Kutsal Kitap'ın hemen her yerinde maya bozulmayı simgeler — Fısıh'ın mayasız ekmeği ({{% bible val="Mısır'dan Çıkış 12:15" link="exo:12,15" lang="tr" %}}), Pavlus'un topluluktan atılmasını istediği "kötülük ve fesat mayası" ({{% bible val="1. Korintliler 5:6-8" link="1co:5,6-8" lang="tr" %}}) — ve Tanrı'nın krallığı için hiçbir zaman kullanılmaz — burada küçük, gizli bir miktar durdurulamaz biçimde büyük bir miktara dönüşür; aynı şekilde {{% bible val="gizli hazine ve inci" link="mat:13,44-46" lang="tr" %}} benzetmesinde de hazine önce aranmalı, bulunduğunda ise onun uğruna her şeyden vazgeçilmelidir.
 
 Ne mutluluklar da aynı yüzleştirici keskinliği taşır. Bunlar İsrail'i gerçek İsrail olmaya çağırır, çünkü içerdikleri her vaat yalnızca İsa'ya sadık olanlara aittir:
 
 - {{% bible val="Ruhta yoksul olanlar krallığı alacak" link="mat:5,3" lang="tr" %}}.
-- {{% bible val="Yas tutanlar (ulusal yeniden doğuşla) teselli edilecek" link="mat:5,4" lang="tr" %}}.
-- {{% bible val="Uysallar toprağı miras alacak" link="mat:5,5" lang="tr" %}}.
+- {{% bible val="Yas tutanlar teselli edilecek" link="mat:5,4" lang="tr" %}}: Yeşaya'nın Siyon'daki yas tutanlara vaat ettiği teselli; İsa'nın Nasıra'da okuduğu bölümde ({{% bible val="Yeşaya 61:2–3" link="isa:61,2-3" lang="tr" %}}).
+- {{% bible val="Uysallar yeryüzünü miras alacak" link="mat:5,5" lang="tr" %}}: İsrail'in toprak vaadi, bütün yeni yaratılışa genişletilmiştir.[^earth]
 - {{% bible val="Yüreği temiz olanlar Tanrı'yı görecek" link="mat:5,8" lang="tr" %}}.
 - {{% bible val="Barışı sağlayanlar Tanrı'nın çocukları olarak adlandırılacak" link="mat:5,9" lang="tr" %}} (İsrail için kullanılan bir unvan).
 
@@ -91,3 +91,13 @@ Demek ki Rab'bin Günü iki bölümde gelir. Rab'bin lütuf yılı O'nun ilk gel
 [^already]: Beale, s. 37–39.
 
 [^josephus]: Josephus, *Yahudi Savaşı* 5.367, Yeruşalim’i savunanlara yaptığı konuşmada: talih Romalıların yanına geçmiş, bu egemenlikle ulusları dolaşan Tanrı da artık İtalya’ya yerleşmiştir.
+
+[^earth]: Beale, *A New Testament Biblical Theology*, s. 756–757. Arkasındaki mezmur (Mez. 37:11) "toprağı" miras almaktan söz eder, ama Beale İsa'nın yalnızca İsrail'in eski sınırlarını kastetmesini olası bulmaz: buradaki "yeryüzü", 3. ve 10. ayetlerdeki "göklerin krallığı" ile koşuttur.
+
+[^sinai]: Beale, *A New Testament Biblical Theology*, s. 682: Luka 6:12–13 "büyük olasılıkla yeni Sina Dağı'nı yansıtır"; İsa İsrail'in tarihini on iki kişiyi seçerek yeniden başlatır. On iki elçinin yeniden kurulan İsrail olarak atanması s. 426'da da vardır.
+
+[^forty]: Beale, *A New Testament Biblical Theology*, s. 415–418: İsa'nın her yanıtı Musa'nın İsrail'e Yasa'nın Tekrarı 6 ve 8'deki sözlerinden alınmıştır; yani İsa, İsrail'in boyun eğdiği şeye direnir. Beale daha özgül arka planın Musa'nın Sina'daki kırk günü (Çık. 24:18; 34:28) olduğunu düşünür; İsrail'in kırk yılı günlere indirgenmiştir.
+
+[^hidden]: Beale, *A New Testament Biblical Theology*, s. 430–433, G. E. Ladd'i izleyerek: tek bir güç "patlamasıyla" beklenen krallık, önce başlamış ve gizli bir biçimde gelir, hardal tohumu gibi küçük başlar, sonra büyüyüp dünyayı doldurur.
+
+[^exorcism]: Beale, *A New Testament Biblical Theology*, s. 696–697, Rikki Watts'ın özeti: İsa'nın güçlü adamı bağlama sözü (Mar. 3:27) Yeşaya 49:24–25'e dayanır; orada Tanrı tutsakları özgür kılan savaşçıdır. Yeşaya'da tutsak edenler Babil ve putlarıydı; Markos'ta bunların ardındaki cinlerdir.
