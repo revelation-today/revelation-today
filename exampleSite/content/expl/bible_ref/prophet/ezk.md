@@ -4,7 +4,7 @@ weight: 25
 docType: expl
 ---
 
-64 bible verses have been used in this book.
+63 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -53,7 +53,6 @@ docType: expl
 | {{% bible val="Ezekiel 39" link="ezk:39" lang="en" %}} | ["Crux 3: does chapter 20 follow chapter 19?": 39](/expl/content/1000y/pre-post-and-amillennialism#47e1) |
 | {{% bible val="Ezekiel 39" link="ezk:39" lang="en" %}} | ["Two final battles?": 39](/expl/content/1000y/the-thousand-year-kingdom#1767) |
 | {{% bible val="Ezekiel 39:3" link="ezk:39,3" lang="en" %}} | ["The mystery of the first horseman": strike the bow out of the hands of Gog](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
-| {{% bible val="Ezekiel 39:3" link="ezk:39,3" lang="en" %}} | ["A literal reading that isn't consistently literal": God destroying the bow and arrows](/expl/topics/others/dispensionalism-and-its-critic#dac4) |
 | {{% bible val="Ezekiel 39:6" link="ezk:39,6" lang="en" %}} | ["Two final battles?": fire](/expl/content/1000y/the-thousand-year-kingdom#1767) |
 | {{% bible val="Ezekiel 39:17-21" link="ezk:39,17-21" lang="en" %}} | ["Two final battles?": carrion-feast for birds and beasts](/expl/content/1000y/the-thousand-year-kingdom#1767) |
 | {{% bible val="Ezekiel 40" link="ezk:40" lang="en" %}} | ["What is the story line?": 40–48](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
@@ -69,6 +68,6 @@ docType: expl
 | {{% bible val="Ezekiel 47" link="ezk:47" lang="en" %}} | ["The Core Teaching": Ezekiel 47](/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#the-core-teaching) |
 | {{% bible val="Ezekiel 47:1-5" link="ezk:47,1-5" lang="en" %}} | ["The third temple": river flowing from the temple deepens within a few thousand cubits from a trickle to a river too deep to cross](/expl/topics/others/dispensionalism-and-its-critic#3d3b) |
 | {{% bible val="Ezekiel 47:1-9" link="ezk:47,1-9" lang="en" %}} | ["Symbols of God's presence": river flowing from the altar](/expl/content/paradise/the-new-jerusalem#38e5) |
-| {{% bible val="Ezekiel 47:21-23" link="ezk:47,21-23" lang="en" %}} | ["The Gentiles become part of Israel": ‘You are to distribute this land among yourselves according to the tribes of Israel. 22 You are to allot it as an inheritance for yourselves and for the foreigners residing among you and who have children. You are to consider them as native-born Israelites; along with you they are to be allotted an inheritance among the tribes of Israel. 23 In whatever tribe a foreigner resides, there you are to give them their inheritance,’ declares the Sovereign Lord.](/expl/background/israel/the-remnant-of-israel#0f15) |
+| {{% bible val="Ezekiel 47:21-23" link="ezk:47,21-23" lang="en" %}} | ["The Gentiles become part of Israel": ‘You are to distribute this land among yourselves according to the tribes of Israel. You are to allot it as an inheritance for yourselves and for the foreigners residing among you and who have children. You are to consider them as native-born Israelites; along with you they are to be allotted an inheritance among the tribes of Israel. In whatever tribe a foreigner resides, there you are to give them their inheritance,’ declares the Sovereign Lord.](/expl/background/israel/the-remnant-of-israel#0f15) |
 | {{% bible val="Ezekiel 48:15-16" link="ezk:48,15-16" lang="en" %}} | ["The measurement of the city": city beside it is a square as well](/expl/content/paradise/the-new-jerusalem#5b7b) |
 | {{% bible val="Ezekiel 48:35" link="ezk:48,35" lang="en" %}} | ["The promise": Ezekiel, where the city's name is finally 'the LORD is here'](/expl/content/letters/the-letter-to-the-church-in-philadelphia#9039) |

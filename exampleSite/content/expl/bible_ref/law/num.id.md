@@ -4,13 +4,15 @@ weight: 3
 docType: expl
 ---
 
-37 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+39 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
 | {{% bible val="Bilangan 1:2-3" link="num:1,2-3" lang="ind" %}} | ["Eksodus Baru dalam Kitab Wahyu": Bilangan 1:2–3](/id/expl/background/israel/the-second-exodus#x0d1) |
 | {{% bible val="Bilangan 1:2-3" link="num:1,2-3" lang="ind" %}} | ["Bagaimana Kitab Wahyu Memakai Perjanjian Lama": Bilangan 1](/id/expl/background/literature/full-of-biblical-references#o1t2) |
 | {{% bible val="Bilangan 1:2-3" link="num:1,2-3" lang="ind" %}} | ["Pasukan Allah": penghitungan laki-laki yang siap untuk dinas militer pada masa keluarnya bangsa Israel dari Mesir](/id/expl/content/army/the-144000#e329) |
+| {{% bible val="Bilangan 4:4-15" link="num:4,4-15" lang="ind" %}} | ["Apa yang Sedang Terjadi di Sini?": Bilangan 4:4–15](/id/expl/bible/creation/the-story-of-uzzah#apa-yang-sedang-terjadi-di-sini) |
+| {{% bible val="Bilangan 4:15" link="num:4,15" lang="ind" %}} | ["Apa yang Sedang Terjadi di Sini?": Bilangan 4:15](/id/expl/bible/creation/the-story-of-uzzah#apa-yang-sedang-terjadi-di-sini) |
 | {{% bible val="Bilangan 12" link="num:12" lang="ind" %}} | ["Kelanjutan Kisah Musa": tetap tenang dan berbelas kasih dalam situasi-situasi sulit](/id/expl/bible/exodus/the-birth-of-moses#6430) |
 | {{% bible val="Bilangan 12:3" link="num:12,3" lang="ind" %}} | ["Kelanjutan Kisah Musa": orang yang paling rendah hati di bumi](/id/expl/bible/exodus/the-birth-of-moses#6430) |
 | {{% bible val="Bilangan 13:25" link="num:13,25" lang="ind" %}} | ["Beberapa Dasar": umat Israel menghabiskan 40 hari untuk mengintai tanah yang baru](/id/expl/content/beasts/666-the-number-of-the-beast#74d6) |
@@ -37,11 +39,11 @@ docType: expl
 | {{% bible val="Bilangan 27:1-11" link="num:27,1-11" lang="ind" %}} | ["Pengajaran Inti": Bilangan 27:1-11](/id/sermons/deep-dive/intro/10-family-outsiders-and-the-god-who-redeems#pengajaran-inti) |
 | {{% bible val="Bilangan 31" link="num:31" lang="ind" %}} | ["Peristiwa di Baal-Peor": Israel akhirnya memerangi orang Midian](/id/expl/bible/keyword/the-story-of-balaam#b6a6) |
 | {{% bible val="Bilangan 31:1-2" link="num:31,1-2" lang="ind" %}} | ["Peristiwa di Baal-Peor": tindakan terakhir Musa sebelum kematiannya](/id/expl/bible/keyword/the-story-of-balaam#b6a6) |
-| {{% bible val="Bilangan 31:1-2" link="num:31,1-2" lang="ind" %}} | ["Peristiwa di Baal-Peor": laki-laki](/id/expl/bible/keyword/the-story-of-balaam#b6a6) |
 | {{% bible val="Bilangan 31:7" link="num:31,7" lang="ind" %}} | ["Inti Pengajaran": Bilangan 31:7](/id/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#inti-pengajaran) |
+| {{% bible val="Bilangan 31:7-8" link="num:31,7-8" lang="ind" %}} | ["Peristiwa di Baal-Peor": setiap laki-laki Midian](/id/expl/bible/keyword/the-story-of-balaam#b6a6) |
 | {{% bible val="Bilangan 31:8" link="num:31,8" lang="ind" %}} | ["Peristiwa di Baal-Peor": Bileam termasuk di antara mereka yang dibunuh — ia ternyata tetap tinggal bersama orang Midian selama ini](/id/expl/bible/keyword/the-story-of-balaam#b6a6) |
 | {{% bible val="Bilangan 31:8" link="num:31,8" lang="ind" %}} | ["Dalam Kitab Wahyu": Bileam mati oleh pedang](/id/expl/bible/keyword/the-story-of-balaam#4803) |
 | {{% bible val="Bilangan 31:8" link="num:31,8" lang="ind" %}} | ["Inti Pengajaran": Bilangan 31:8](/id/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#inti-pengajaran) |
-| {{% bible val="Bilangan 31:15-17" link="num:31,15-17" lang="ind" %}} | ["Peristiwa di Baal-Peor": perempuan](/id/expl/bible/keyword/the-story-of-balaam#b6a6) |
+| {{% bible val="Bilangan 31:14-18" link="num:31,14-18" lang="ind" %}} | ["Peristiwa di Baal-Peor": setiap anak laki-laki dan setiap perempuan yang pernah tidur dengan laki-laki dibunuh](/id/expl/bible/keyword/the-story-of-balaam#b6a6) |
 | {{% bible val="Bilangan 31:16" link="num:31,16" lang="ind" %}} | ["Apa yang Sesungguhnya Terjadi?": Bilangan 31:16](/id/expl/bible/keyword/the-story-of-balaam#4803) |
 | {{% bible val="Bilangan 31:16" link="num:31,16" lang="ind" %}} | ["Inti Pengajaran": Bilangan 31:16](/id/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#inti-pengajaran) |

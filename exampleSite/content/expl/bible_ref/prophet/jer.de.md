@@ -4,7 +4,7 @@ weight: 23
 docType: expl
 ---
 
-25 Bibelstellen wurden in diesem Buch verwendet.
+26 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -32,4 +32,5 @@ docType: expl
 | {{% bible val="Jeremia 51,25" link="jer:51,25" lang="de" %}} | ["Die sieben Hügel und die sieben Könige": Babel, das als Berg beschrieben wird](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#09b7) |
 | {{% bible val="Jeremia 51,25" link="jer:51,25" lang="de" %}} | ["Die ersten vier Posaunen": ein zerstörender Berg](/de/expl/content/trumpets/the-trumpets-in-revelation#e565) |
 | {{% bible val="Jeremia 51,33" link="jer:51,33" lang="de" %}} | ["Die beiden Ernten": Dreschen](/de/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |
+| {{% bible val="Jeremia 51,45" link="jer:51,45" lang="de" %}} | ["Babel im Buch der Offenbarung": Jeremia 51,45](/de/expl/bible/keyword/the-origin-of-babel#d54a) |
 | {{% bible val="Jeremia 51,63-64" link="jer:51,63-64" lang="de" %}} | ["Die ersten vier Posaunen": Jeremias Schriftrolle gegen Babel an einen Stein gebunden und im Euphrat versenkt wurde](/de/expl/content/trumpets/the-trumpets-in-revelation#e565) |

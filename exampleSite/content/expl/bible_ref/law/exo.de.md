@@ -4,7 +4,7 @@ weight: 1
 docType: expl
 ---
 
-128 Bibelstellen wurden in diesem Buch verwendet.
+133 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -33,7 +33,7 @@ docType: expl
 | {{% bible val="2.Mose 6,14" link="exo:6,14" lang="de" %}} | ["Das Erbe": Ruben, der als ältester Sohn](/de/expl/background/israel/the-role-of-family-in-the-bible#50b0) |
 | {{% bible val="2.Mose 7,5" link="exo:7,5" lang="de" %}} | ["Warum die Plagen Ägyptens?": die Ägypter erkennen, dass ich der HERR bin](/de/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
 | {{% bible val="2.Mose 7,8-13" link="exo:7,8-13" lang="de" %}} | ["Der Anfang": geht Mose zum Pharao und vollbringt seine Wunder, aber der Pharao ist nicht beeindruckt](/de/expl/bible/exodus/the-plagues-in-egypt#7fef) |
-| {{% bible val="2.Mose 7,14-24" link="exo:7,14-24" lang="de" %}} | ["Keine einfache Antwort": die symbolische Tötung des Nilgottes, während das Wasser tatsächlich blutrot wurde](/de/expl/background/literature/literally-or-symbolic#1d9a) |
+| {{% bible val="2.Mose 7,14-24" link="exo:7,14-24" lang="de" %}} | ["Keine einfache Antwort": die symbolische Tötung des Nilgottes, während das Wasser tatsächlich zu Blut wurde](/de/expl/background/literature/literally-or-symbolic#1d9a) |
 | {{% bible val="2.Mose 7,14-24" link="exo:7,14-24" lang="de" %}} | ["Die Identität der beiden Zeugen": die erste Plage unter Mose widerspiegelt](/de/expl/content/witnesses/the-two-witnesses#55fa) |
 | {{% bible val="2.Mose 7,14-25" link="exo:7,14-25" lang="de" %}} | [1, Wasser wird zu Blut](/de/expl/bible/exodus/the-plagues-in-egypt#5768) |
 | {{% bible val="2.Mose 7,17" link="exo:7,17" lang="de" %}} | ["Die Schalen": ersten Plage in Ägypten](/de/expl/content/bowls/the-bowls-of-wrath#9855) |
@@ -117,13 +117,18 @@ docType: expl
 | {{% bible val="2.Mose 20,2" link="exo:20,2" lang="de" %}} | ["Die Kernlehre": Ich bin der HERR, dein Gott](/de/sermons/deep-dive/intro/07-gods-covenant#die-kernlehre) |
 | {{% bible val="2.Mose 20,3-6" link="exo:20,3-6" lang="de" %}} | ["Der Bund mit Israel": Habe nur einen Gott](/de/expl/background/israel/gods-covenant#521d) |
 | {{% bible val="2.Mose 20,3-6" link="exo:20,3-6" lang="de" %}} | ["Die Kernlehre": 2. Mose 20,3-6](/de/sermons/deep-dive/intro/07-gods-covenant#die-kernlehre) |
+| {{% bible val="2.Mose 21,2" link="exo:21,2" lang="de" %}} | ["Prominente Positionen": 2.Mo 21,2–22,27](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#4b40) |
+| {{% bible val="2.Mose 21,2-17" link="exo:21,2-17" lang="de" %}} | ["Prominente Positionen": 21,2–17](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#4b40) |
+| {{% bible val="2.Mose 22,18-27" link="exo:22,18-27" lang="de" %}} | ["Prominente Positionen": 22,18–27](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#4b40) |
 | {{% bible val="2.Mose 22,29" link="exo:22,29" lang="de" %}} | ["Die beiden Ernten": von Trauben stammen](/de/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |
 | {{% bible val="2.Mose 23,20" link="exo:23,20" lang="de" %}} | ["Der Auszug bei Markus": leitenden Engel beim Auszug](/de/expl/background/israel/the-second-exodus#f526) |
 | {{% bible val="2.Mose 24,1-12" link="exo:24,1-12" lang="de" %}} | ["Der Bund mit Israel": einem gemeinsamen Mahl](/de/expl/background/israel/gods-covenant#521d) |
 | {{% bible val="2.Mose 24,10" link="exo:24,10" lang="de" %}} | ["Der Thronsaal": auf der Erde während des Auszugs](/de/expl/content/worship/worship-in-the-throne-room#0938) |
 | {{% bible val="2.Mose 25,3-7" link="exo:25,3-7" lang="de" %}} | ["Der religiöse Aspekt": die Opfergabe für die Stiftshütte](/de/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="2.Mose 25,8" link="exo:25,8" lang="de" %}} | ["Hintergrund: Warum Gott dir nah sein will, nicht nur über dich bestimmen": 2. Mose 25:8](/de/kids/teens-prep/09-why-god-wants-to-be-close-not-just-in-charge) |
+| {{% bible val="2.Mose 25,16" link="exo:25,16" lang="de" %}} | ["Der Bund mit Israel": 2 Mose 25,16](/de/expl/background/israel/gods-covenant#521d) |
 | {{% bible val="2.Mose 25,16" link="exo:25,16" lang="de" %}} | ["Der Bund in der Offenbarung": der Lade](/de/expl/background/israel/gods-covenant#c0f2) |
+| {{% bible val="2.Mose 25,22" link="exo:25,22" lang="de" %}} | ["Gott kommt in die Stadt": 2. Mose 25,22](/de/expl/bible/creation/the-temple-and-the-presence-of-god#5add) |
 | {{% bible val="2.Mose 28,6-14" link="exo:28,6-14" lang="de" %}} | ["Der religiöse Aspekt": das Efod (das äußere Gewand des Hohepriesters)](/de/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="2.Mose 28,15-20" link="exo:28,15-20" lang="de" %}} | ["Der religiöse Aspekt": die Brusttasche](/de/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="2.Mose 28,16" link="exo:28,16" lang="de" %}} | ["Das Material der Stadt": quadratisch](/de/expl/content/paradise/the-new-jerusalem#aef1) |

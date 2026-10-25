@@ -4,7 +4,7 @@ weight: 22
 docType: expl
 ---
 
-Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 140 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -14,12 +14,15 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya 2:2" link="isa:2,2" lang="tr" %}} | ["Yedi tepe ve yedi kral": Yeşaya'da](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#9b63) |
 | {{% bible val="Yeşaya 2:2-4" link="isa:2,2-4" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": Yeşaya’da tüm ulusların Yeruşalim’e geldiği daha önceki bir bölüme](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
 | {{% bible val="Yeşaya 2:2-4" link="isa:2,2-4" lang="tr" %}} | ["Düğüm 4: vaadin ne kadarı tarihin içine iniyor?": kılıçlarını çekiçle dövüp saban demiri yapan](/tr/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
+| {{% bible val="Yeşaya 2:10-22" link="isa:2,10-22" lang="tr" %}} | ["Yapılandırılmış tekrar": İşa. 2:10–22](/tr/expl/background/literature/literary-tools-in-the-book-of-revelation#9e84) |
+| {{% bible val="Yeşaya 3:16-17" link="isa:3,16-17" lang="tr" %}} | ["Yapılandırılmış tekrar": 3:16–17](/tr/expl/background/literature/literary-tools-in-the-book-of-revelation#9e84) |
 | {{% bible val="Yeşaya 5:1-7" link="isa:5,1-7" lang="tr" %}} | ["İsa'nın öğretileri": Yeşaya'nın, meyve vermeyen bağ benzetmesini ele alır](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
 | {{% bible val="Yeşaya 5:1-7" link="isa:5,1-7" lang="tr" %}} | ["Tanrı'nın bağı": İsrail'e](/tr/expl/background/israel/the-church-is-part-of-israel#987a) |
+| {{% bible val="Yeşaya 5:5-6" link="isa:5,5-6" lang="tr" %}} | ["İsa'nın öğretileri": 5:5–6](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
 | {{% bible val="Yeşaya 6" link="isa:6" lang="tr" %}} | ["Bir kehanet": Yeşaya 6'da](/tr/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Yeşaya 6" link="isa:6" lang="tr" %}} | ["Ana Öğreti": Yeşaya 6](/tr/sermons/deep-dive/intro/02-what-kind-of-book-is-this#ana-öğreti) |
 | {{% bible val="Yeşaya 6:1-9" link="isa:6,1-9" lang="tr" %}} | ["Arka plan ve bağlam": Yeşaya'nın çağrılışında](/tr/expl/content/worship/worship-in-the-throne-room#3e33) |
-| {{% bible val="Yeşaya 6:1-13" link="isa:6,1-13" lang="tr" %}} | ["Vahiy 4:1 göğe alınma mı?": Yeşaya'da](/tr/expl/topics/others/the-rapture#a0e7) |
+| {{% bible val="Yeşaya 6:1-13" link="isa:6,1-13" lang="tr" %}} | ["Vahiy 4:1": Yeşaya'da](/tr/expl/topics/others/the-rapture#a0e7) |
 | {{% bible val="Yeşaya 6:8-10" link="isa:6,8-10" lang="tr" %}} | ["Taptığımız şey oluruz": Yeşaya’nın İsrail’e vaaz etme görevi vardı ama onlar anlamayacaklardı](/tr/appl/topics/power/worship#a481) |
 | {{% bible val="Yeşaya 6:9-10" link="isa:6,9-10" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": kitap, Yeşaya'nın](/tr/expl/background/israel/the-second-exodus#f704) |
 | {{% bible val="Yeşaya 7:1-14" link="isa:7,1-14" lang="tr" %}} | ["Yahuda'nın üç kralı": Ahaz](/tr/expl/content/bowls/armageddon-and-the-battle-of-karkemish#0554) |
@@ -94,6 +97,7 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya 52:1" link="isa:52,1" lang="tr" %}} | ["Uluslar ve armağanları": ilişkili](/tr/expl/content/paradise/the-new-jerusalem#1c33) |
 | {{% bible val="Yeşaya 52:1-10" link="isa:52,1-10" lang="tr" %}} | ["Kutsal kent Yeruşalim": güzel giyimli kenttir](/tr/expl/content/paradise/the-new-jerusalem#2a00) |
 | {{% bible val="Yeşaya 52:7" link="isa:52,7" lang="tr" %}} | ["Markos'taki Çıkış": yeni bir kralın nihai duyurusudur](/tr/expl/background/israel/the-second-exodus#098c) |
+| {{% bible val="Yeşaya 53" link="isa:53" lang="tr" %}} | ["Markos'taki Çıkış": Yeşaya 53](/tr/expl/background/israel/the-second-exodus#098c) |
 | {{% bible val="Yeşaya 54" link="isa:54" lang="tr" %}} | ["Kentin malzemesi": Yeruşalim'in acı çekişinden sonra yeniden kurulmasını](/tr/expl/content/paradise/the-new-jerusalem#8562) |
 | {{% bible val="Yeşaya 54:5-6" link="isa:54,5-6" lang="tr" %}} | [Tanrı'nın gelini](/tr/expl/background/israel/the-church-is-part-of-israel#ed97) |
 | {{% bible val="Yeşaya 54:5-6" link="isa:54,5-6" lang="tr" %}} | ["Ana Öğreti": Yeşaya 54:5-6](/tr/sermons/deep-dive/intro/08-israel-the-church-and-the-family-of-god#ana-öğreti) |
@@ -101,6 +105,7 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya 55:12" link="isa:55,12" lang="tr" %}} | ["Gerçekçi anlayış": harfiyen](/tr/expl/topics/others/dispensionalism-and-its-critic#16f7) |
 | {{% bible val="Yeşaya 56:3-7" link="isa:56,3-7" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": “RAB’be bağlanan hiçbir yabancı, ‹‹Kuşkusuz RAB beni halkından ayıracak››, Hiçbir hadım da, ‹‹Ben kuru bir ağacım›› demesin. Çünkü RAB diyor ki, ‹‹Şabat günlerimi tutan, Beni hoşnut edeni seçen, Antlaşmama sımsıkı bağlı kalan hadıma Evimde, evimin dört duvarı arasında Oğullardan da kızlardan da daha iyi bir anıt ve ad vereceğim; Yok edilemez, ebedi bir ad olacak bu. ‹‹RAB’be hizmet etmek, O’nun adını sevmek, Kulu olmak için O’na bağlanan yabancıları, Şabat Günü’nü tutan, bayağılaştırmayan, Antlaşmama sımsıkı bağlı kalan herkesi, Kutsal dağıma getirip Dua evimde sevindireceğim. Yakmalık sunularıyla kurbanları Sunağımda kabul edilecek, Çünkü evime ‹Bütün ulusların dua evi› denecek.››”](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
 | {{% bible val="Yeşaya 56:6-7" link="isa:56,6-7" lang="tr" %}} | ["Düğüm 4: vaadin ne kadarı tarihin içine iniyor?": antlaşmama bağlı kalan](/tr/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
+| {{% bible val="Yeşaya 56:7" link="isa:56,7" lang="tr" %}} | ["Tanrı kasabaya geliyor": bütün halklar için bir dua evi](/tr/expl/bible/creation/the-temple-and-the-presence-of-god#ca70) |
 | {{% bible val="Yeşaya 57:3-4" link="isa:57,3-4" lang="tr" %}} | ["Şeytan'ın bağlanması": Yeşaya'da](/tr/expl/content/1000y/the-thousand-year-kingdom#1f30) |
 | {{% bible val="Yeşaya 57:19" link="isa:57,19" lang="tr" %}} | ["Yahudi olmayanların gizemi": Yeşaya'nın yerine gelmesidir](/tr/expl/background/israel/the-church-is-part-of-israel#d67d) |
 | {{% bible val="Yeşaya 57:20" link="isa:57,20" lang="tr" %}} | ["Taht odası": kötü insanlarla](/tr/expl/content/worship/worship-in-the-throne-room#54a4) |
@@ -114,6 +119,7 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya 61:1-2" link="isa:61,1-2" lang="tr" %}} | ["Zaten ama henüz değil": Yeşaya'daki pasajla](/tr/expl/background/israel/jesus-and-the-covenant#1438) |
 | {{% bible val="Yeşaya 61:1-2" link="isa:61,1-2" lang="tr" %}} | ["Luka'daki yeni Çıkış": bu, ikinci Çıkış'ın işaretiydi](/tr/expl/background/israel/the-second-exodus#bfa6) |
 | {{% bible val="Yeşaya 61:1-2" link="isa:61,1-2" lang="tr" %}} | ["Ana Öğreti": Yeşaya 61:1-2](/tr/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#ana-öğreti) |
+| {{% bible val="Yeşaya 61:2-3" link="isa:61,2-3" lang="tr" %}} | ["İsa'nın öğretileri": Yeşaya 61:2–3](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
 | {{% bible val="Yeşaya 61:10" link="isa:61,10" lang="tr" %}} | ["Kutsal kent Yeruşalim": daha da geliştirilir](/tr/expl/content/paradise/the-new-jerusalem#2a00) |
 | {{% bible val="Yeşaya 62:1-2" link="isa:62,1-2" lang="tr" %}} | ["Kutsal kent Yeruşalim": yeni bir isim alana](/tr/expl/content/paradise/the-new-jerusalem#2a00) |
 | {{% bible val="Yeşaya 62:1-5" link="isa:62,1-5" lang="tr" %}} | ["İlk bakış": Yeşaya'da](/tr/expl/content/paradise/the-new-jerusalem#1113) |
@@ -135,7 +141,7 @@ Bu kitapta kullanılan 134 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeşaya 66:7" link="isa:66,7" lang="tr" %}} | ["Çocuk": bir günde yeniden doğan koca bir ulus olarak, aniden bir oğul doğuran Siyon'u](/tr/expl/content/jesus/a-different-christmas-story#8ae1) |
 | {{% bible val="Yeşaya 66:7-14" link="isa:66,7-14" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": ahir zaman İsrail’inin tanımı](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
 | {{% bible val="Yeşaya 66:12" link="isa:66,12" lang="tr" %}} | ["Uluslar ve armağanları": Esenliği bir ırmak gibi, ulusların zenginliğini taşan bir sel gibi ona akıtacağım](/tr/expl/content/paradise/the-new-jerusalem#1c33) |
-| {{% bible val="Yeşaya 66:15-18" link="isa:66,15-18" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": ahir zaman İsrail’inin yargılanması](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
+| {{% bible val="Yeşaya 66:15-17" link="isa:66,15-17" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": ahir zaman İsrail’inin yargılanması](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
 | {{% bible val="Yeşaya 66:18" link="isa:66,18" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": ‹‹Çünkü ben onların eylemlerini de düşüncelerini de bilirim. Bütün ulusları ve dilleri bir araya toplayacağım an geliyor; gelip yüceliğimi görecekler.](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
 | {{% bible val="Yeşaya 66:18-21" link="isa:66,18-21" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": Yahudi olmayanların dahil edilmesi](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
 | {{% bible val="Yeşaya 66:19" link="isa:66,19" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": ‹‹Aralarına bir belirti koyacağım. Onlardan kaçıp kurtulanları uluslara, Tarşiş’e, Pûl’a, Lud’a -yay gerenlere- Tuval’a, Yâvan’a, ünümü duymamış, yüceliğimi görmemiş uzak kıyı halklarına göndereceğim. Uluslar arasında yüceliğimi ilan edecekler.](/tr/expl/background/israel/the-remnant-of-israel#6f36) |

@@ -4,10 +4,12 @@ weight: 5
 docType: expl
 ---
 
-6 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+8 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
+| {{% bible val="Yosua 3:9-17" link="jos:3,9-17" lang="ind" %}} | ["Pengulangan yang Terstruktur": Yos.3:9–17](/id/expl/background/literature/literary-tools-in-the-book-of-revelation#5820) |
+| {{% bible val="Yosua 4:10-13" link="jos:4,10-13" lang="ind" %}} | ["Pengulangan yang Terstruktur": Yos.4:10–13](/id/expl/background/literature/literary-tools-in-the-book-of-revelation#5820) |
 | {{% bible val="Yosua 6:25" link="jos:6,25" lang="ind" %}} | ["Bangsa-Bangsa Lain Menjadi Bagian dari Israel": Rahab](/id/expl/background/israel/the-remnant-of-israel#1c50) |
 | {{% bible val="Yosua 6:25" link="jos:6,25" lang="ind" %}} | ["Pentingnya Keluarga": Rahab dari Yerikho](/id/expl/background/israel/the-role-of-family-in-the-bible#7234) |
 | {{% bible val="Yosua 9" link="jos:9" lang="ind" %}} | ["Perjanjian-Perjanjian dalam Sejarah": orang Gibeon menipu Yosua sehingga ia membuat sebuah perjanjian dengan mereka](/id/expl/background/israel/gods-covenant#ae45) |

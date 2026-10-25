@@ -4,12 +4,14 @@ weight: 13
 docType: expl
 ---
 
-11 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+13 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
+| {{% bible val="2 Tawarikh 1" link="2ch:1" lang="ind" %}} | ["Posisi-Posisi yang Menonjol": 2Taw.1–9](/id/expl/background/literature/literary-tools-in-the-book-of-revelation#4b40) |
 | {{% bible val="2 Tawarikh 2:13-14" link="2ch:2,13-14" lang="ind" %}} | ["Aspek keagamaan": tetapi juga di dalam bait suci](/id/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="2 Tawarikh 21:13" link="2ch:21,13" lang="ind" %}} | ["Sang pelacur": 2Taw 21:13](/id/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="2 Tawarikh 30:1-11" link="2ch:30,1-11" lang="ind" %}} | ["Pertempuran Karkemis dan Akibatnya": 2 Taw 30:1–11](/id/expl/content/bowls/armageddon-and-the-battle-of-karkemish#72a6) |
 | {{% bible val="2 Tawarikh 35:20-24" link="2ch:35,20-24" lang="ind" %}} | ["Harmagedon dan Karkemis": Kitab Tawarikh mengatakan ia maju meskipun perkataan Nekho datang dari mulut Allah, dan ia tidak mau mendengarkan](/id/expl/content/bowls/armageddon-and-the-battle-of-karkemish#b3c1) |
 | {{% bible val="2 Tawarikh 35:20-24" link="2ch:35,20-24" lang="ind" %}} | ["Harmagedon": 2 Tawarikh 35:20-24](/id/quick/content/bowls#harmagedon) |
 | {{% bible val="2 Tawarikh 35:20-25" link="2ch:35,20-25" lang="ind" %}} | ["Kisah Sebelum Karkemis": terjadi pertempuran di dekat Megido, di mana Yosia, raja Yehuda, berperang melawan Nekho, Firaun Mesir](/id/expl/content/bowls/armageddon-and-the-battle-of-karkemish#dd2e) |

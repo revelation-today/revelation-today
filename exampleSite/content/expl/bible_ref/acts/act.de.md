@@ -4,7 +4,7 @@ weight: 43
 docType: expl
 ---
 
-48 Bibelstellen wurden in diesem Buch verwendet.
+49 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -55,4 +55,5 @@ docType: expl
 | {{% bible val="Apostelgeschichte 26,18" link="act:26,18" lang="de" %}} | ["Der Dienst": (Apg 26,18)](/de/expl/background/israel/the-church-is-part-of-israel#05d4) |
 | {{% bible val="Apostelgeschichte 26,23" link="act:26,23" lang="de" %}} | ["Der Dienst": (Apg 26,23)](/de/expl/background/israel/the-church-is-part-of-israel#05d4) |
 | {{% bible val="Apostelgeschichte 28,15" link="act:28,15" lang="de" %}} | ["Fehlende Schlüsselwörter": beim Empfang, der Paulus in Rom bereitet wird](/de/expl/topics/others/the-rapture#0f61) |
+| {{% bible val="Apostelgeschichte 28,24-28" link="act:28,24-28" lang="de" %}} | ["Zusammenfassung": Apg 28,24–28](/de/expl/background/israel/the-second-exodus#f43c) |
 | {{% bible val="Apostelgeschichte 28,26-27" link="act:28,26-27" lang="de" %}} | ["Der neue Auszug in der Apostelgeschichte": Buch schließlich mit](/de/expl/background/israel/the-second-exodus#a809) |

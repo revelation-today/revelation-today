@@ -4,13 +4,15 @@ weight: 3
 docType: expl
 ---
 
-38 bible verses have been used in this book.
+40 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
 | {{% bible val="Numbers 1:2-3" link="num:1,2-3" lang="en" %}} | ["The new exodus in Revelation": Num 1:2–3](/expl/background/israel/the-second-exodus#x0d1) |
 | {{% bible val="Numbers 1:2-3" link="num:1,2-3" lang="en" %}} | ["How Revelation uses the Old Testament": Num 1](/expl/background/literature/full-of-biblical-references#o1t2) |
 | {{% bible val="Numbers 1:2-3" link="num:1,2-3" lang="en" %}} | ["The army of God": counting of the men ready for military service during the Exodus](/expl/content/army/the-144000#2cd4) |
+| {{% bible val="Numbers 4:4-15" link="num:4,4-15" lang="en" %}} | ["What is going on?": Num 4:4–15](/expl/bible/creation/the-story-of-uzzah#what-is-goingon) |
+| {{% bible val="Numbers 4:15" link="num:4,15" lang="en" %}} | ["What is going on?": Num 4:15](/expl/bible/creation/the-story-of-uzzah#what-is-goingon) |
 | {{% bible val="Numbers 12" link="num:12" lang="en" %}} | ["The further story of Moses": remain calm and compassionate in difficult situations](/expl/bible/exodus/the-birth-of-moses#371c) |
 | {{% bible val="Numbers 12:3" link="num:12,3" lang="en" %}} | ["The further story of Moses": humble man on earth](/expl/bible/exodus/the-birth-of-moses#371c) |
 | {{% bible val="Numbers 13:25" link="num:13,25" lang="en" %}} | ["Some basics": the people spent 40 days scouting out the new land](/expl/content/beasts/666-the-number-of-the-beast#0630) |
@@ -38,11 +40,11 @@ docType: expl
 | {{% bible val="Numbers 27:1-11" link="num:27,1-11" lang="en" %}} | ["The Core Teaching": Numbers 27:1-11](/sermons/deep-dive/intro/10-family-outsiders-and-the-god-who-redeems#the-core-teaching) |
 | {{% bible val="Numbers 31" link="num:31" lang="en" %}} | ["The situation with Baal-Peor": Israel finally fights against the Midianites](/expl/bible/keyword/the-story-of-balaam#8915) |
 | {{% bible val="Numbers 31:2" link="num:31,2" lang="en" %}} | ["The situation with Baal-Peor": Moses’ last action before he dies](/expl/bible/keyword/the-story-of-balaam#8915) |
-| {{% bible val="Numbers 31:2" link="num:31,2" lang="en" %}} | ["The situation with Baal-Peor": men](/expl/bible/keyword/the-story-of-balaam#8915) |
 | {{% bible val="Numbers 31:7" link="num:31,7" lang="en" %}} | ["The Core Teaching": Numbers 31:7](/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#the-core-teaching) |
+| {{% bible val="Numbers 31:7-8" link="num:31,7-8" lang="en" %}} | ["The situation with Baal-Peor": every Midianite man](/expl/bible/keyword/the-story-of-balaam#8915) |
 | {{% bible val="Numbers 31:8" link="num:31,8" lang="en" %}} | ["The situation with Baal-Peor": Balaam is among those killed — he had been staying with the Midianites all along](/expl/bible/keyword/the-story-of-balaam#8915) |
 | {{% bible val="Numbers 31:8" link="num:31,8" lang="en" %}} | ["In Revelation": Balaam died by the sword](/expl/bible/keyword/the-story-of-balaam#6bd5) |
 | {{% bible val="Numbers 31:8" link="num:31,8" lang="en" %}} | ["The Core Teaching": Numbers 31:8](/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#the-core-teaching) |
-| {{% bible val="Numbers 31:15-17" link="num:31,15-17" lang="en" %}} | ["The situation with Baal-Peor": women](/expl/bible/keyword/the-story-of-balaam#8915) |
+| {{% bible val="Numbers 31:14-18" link="num:31,14-18" lang="en" %}} | ["The situation with Baal-Peor": every boy and every woman who has slept with a man be killed](/expl/bible/keyword/the-story-of-balaam#8915) |
 | {{% bible val="Numbers 31:16" link="num:31,16" lang="en" %}} | ["What happened?": Numbers 31:16](/expl/bible/keyword/the-story-of-balaam#6bd5) |
 | {{% bible val="Numbers 31:16" link="num:31,16" lang="en" %}} | ["The Core Teaching": Numbers 31:16](/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#the-core-teaching) |

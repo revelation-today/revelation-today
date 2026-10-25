@@ -4,7 +4,7 @@ weight: 25
 docType: expl
 ---
 
-64 Bibelstellen wurden in diesem Buch verwendet.
+63 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -53,7 +53,6 @@ docType: expl
 | {{% bible val="Hesekiel 39" link="ezk:39" lang="de" %}} | ["Knotenpunkt 3: folgt Kapitel 20 auf Kapitel 19?": 39](/de/expl/content/1000y/pre-post-and-amillennialism#47e1) |
 | {{% bible val="Hesekiel 39" link="ezk:39" lang="de" %}} | ["Zwei letzte Schlachten?": 39](/de/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Hesekiel 39,3" link="ezk:39,3" lang="de" %}} | ["Das Geheimnis des ersten Reiters": Gog den Bogen aus der Hand schlagen](/de/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
-| {{% bible val="Hesekiel 39,3" link="ezk:39,3" lang="de" %}} | ["Wörtlich, aber nicht konsequent wörtlich": Gott Bogen und Pfeile zerstört](/de/expl/topics/others/dispensionalism-and-its-critic#7102) |
 | {{% bible val="Hesekiel 39,6" link="ezk:39,6" lang="de" %}} | ["Zwei letzte Schlachten?": Feuer](/de/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Hesekiel 39,17-21" link="ezk:39,17-21" lang="de" %}} | ["Zwei letzte Schlachten?": Aasfest für Vögel und wilde Tiere](/de/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Hesekiel 40" link="ezk:40" lang="de" %}} | ["Was ist die Erzähllinie?": 40–48](/de/expl/content/1000y/the-thousand-year-kingdom#008e) |
@@ -69,6 +68,6 @@ docType: expl
 | {{% bible val="Hesekiel 47" link="ezk:47" lang="de" %}} | ["Die zentrale Lehre": Hesekiel 47](/de/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#die-zentrale-lehre) |
 | {{% bible val="Hesekiel 47,1-5" link="ezk:47,1-5" lang="de" %}} | ["Der dritte Tempel": Fluss, der vom Tempel ausgeht, vertieft sich innerhalb weniger tausend Ellen von einem Rinnsal zu einem Fluss, der zu tief zum Durchqueren ist](/de/expl/topics/others/dispensionalism-and-its-critic#6193) |
 | {{% bible val="Hesekiel 47,1-9" link="ezk:47,1-9" lang="de" %}} | ["Symbole von Gottes Gegenwart": Fluss, der vom Altar fließt](/de/expl/content/paradise/the-new-jerusalem#126e) |
-| {{% bible val="Hesekiel 47,21-23" link="ezk:47,21-23" lang="de" %}} | ["Die Nationen werden Teil von Israel": ‚Ihr sollt dieses Land unter euch nach den Stämmen Israels aufteilen. 22 Ihr sollt es als Erbe für euch selbst und für die Fremden verlosen, die unter euch wohnen und Kinder haben. Ihr sollt sie wie gebürtige Israeliten behandeln; zusammen mit euch sollen sie ein Erbe unter den Stämmen Israels erhalten. 23 In welchem Stamm auch immer ein Fremder wohnt, dort sollt ihr ihm sein Erbe geben‘, spricht Gott, der Herr.](/de/expl/background/israel/the-remnant-of-israel#1c50) |
+| {{% bible val="Hesekiel 47,21-23" link="ezk:47,21-23" lang="de" %}} | ["Die Nationen werden Teil von Israel": ‚Ihr sollt dieses Land unter euch nach den Stämmen Israels aufteilen. Ihr sollt es als Erbe für euch selbst und für die Fremden verlosen, die unter euch wohnen und Kinder haben. Ihr sollt sie wie gebürtige Israeliten behandeln; zusammen mit euch sollen sie ein Erbe unter den Stämmen Israels erhalten. In welchem Stamm auch immer ein Fremder wohnt, dort sollt ihr ihm sein Erbe geben‘, spricht Gott, der Herr.](/de/expl/background/israel/the-remnant-of-israel#1c50) |
 | {{% bible val="Hesekiel 48,15-16" link="ezk:48,15-16" lang="de" %}} | ["Die Maße der Stadt": auch die Stadt daneben ist ein Quadrat](/de/expl/content/paradise/the-new-jerusalem#bf4e) |
 | {{% bible val="Hesekiel 48,35" link="ezk:48,35" lang="de" %}} | ["Die Verheißung": Hesekiel auf, wo der Name der Stadt schließlich lautet: 'Der HERR ist hier'](/de/expl/content/letters/the-letter-to-the-church-in-philadelphia#b146) |

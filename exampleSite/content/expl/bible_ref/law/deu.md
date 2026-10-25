@@ -4,7 +4,7 @@ weight: 4
 docType: expl
 ---
 
-30 bible verses have been used in this book.
+32 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -17,6 +17,7 @@ docType: expl
 | {{% bible val="Deuteronomy 7:7" link="deu:7,7" lang="en" %}} | ["The teachings of Jesus": should be known to Israel](/expl/background/israel/jesus-and-the-covenant#b343) |
 | {{% bible val="Deuteronomy 7:7" link="deu:7,7" lang="en" %}} | ["The Core Teaching": Deuteronomy 7:7](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#the-core-teaching) |
 | {{% bible val="Deuteronomy 8:16" link="deu:8,16" lang="en" %}} | ["The solution": manna](/expl/content/letters/the-letter-to-the-church-in-pergamon#72a9) |
+| {{% bible val="Deuteronomy 10:1-5" link="deu:10,1-5" lang="en" %}} | ["The covenant with Israel": Deut 10:1–5](/expl/background/israel/gods-covenant#2225) |
 | {{% bible val="Deuteronomy 10:18" link="deu:10,18" lang="en" %}} | ["A prophecy": God protects the helpless](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Deuteronomy 14:1" link="deu:14,1" lang="en" %}} | ["God's son": when Moses tells them: You are the children of the LORD your God](/expl/background/israel/the-church-is-part-of-israel#639c) |
 | {{% bible val="Deuteronomy 14:2" link="deu:14,2" lang="en" %}} | ["Treasured possession of God": pure](/expl/background/israel/the-church-is-part-of-israel#123e) |
@@ -32,6 +33,7 @@ docType: expl
 | {{% bible val="Deuteronomy 28:1-14" link="deu:28,1-14" lang="en" %}} | ["The Core Teaching": Deuteronomy 28:1-14](/sermons/deep-dive/intro/07-gods-covenant#the-core-teaching) |
 | {{% bible val="Deuteronomy 28:15-68" link="deu:28,15-68" lang="en" %}} | ["The covenant with Israel": Curse](/expl/background/israel/gods-covenant#2225) |
 | {{% bible val="Deuteronomy 28:15-68" link="deu:28,15-68" lang="en" %}} | ["The Core Teaching": 28:15-68](/sermons/deep-dive/intro/07-gods-covenant#the-core-teaching) |
+| {{% bible val="Deuteronomy 30:11-14" link="deu:30,11-14" lang="en" %}} | ["The covenant with Israel": not too difficult for them](/expl/background/israel/gods-covenant#2225) |
 | {{% bible val="Deuteronomy 30:19" link="deu:30,19" lang="en" %}} | ["The covenant with Israel": heaven and earth](/expl/background/israel/gods-covenant#2225) |
 | {{% bible val="Deuteronomy 30:19" link="deu:30,19" lang="en" %}} | ["The Core Teaching": heaven and earth themselves](/sermons/deep-dive/intro/07-gods-covenant#the-core-teaching) |
 | {{% bible val="Deuteronomy 31:9-13" link="deu:31,9-13" lang="en" %}} | ["The covenant with Israel": read again and again](/expl/background/israel/gods-covenant#2225) |

@@ -20,7 +20,7 @@ docType: expl
 | {{% bible val="Luke 4:16-30" link="luk:4,16-30" lang="en" %}} | ["The new Exodus in Luke": Jesus read from Isaiah, he stated its fulfillment](/expl/background/israel/the-second-exodus#1f7d) |
 | {{% bible val="Luke 4:18-19" link="luk:4,18-19" lang="en" %}} | ["What is the end time?": When Jesus came to earth, though, he fulfilled only one part of the Day of the Lord — the saving aspect — while leaving the other part, the judgment, to be fulfilled when he comes again, in our future](/expl/content/army/the-end-time-and-the-great-tribulation#d1d8) |
 | {{% bible val="Luke 4:25" link="luk:4,25" lang="en" %}} | ["The number 3,5": Luke 4:25](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#a9fe) |
-| {{% bible val="Luke 4:25" link="luk:4,25" lang="en" %}} | ["Elijah and the drought (1 Kings 16:29–18:35)": lasts 3.5 years](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
+| {{% bible val="Luke 4:25" link="luk:4,25" lang="en" %}} | ["1 Kings 16:29–18:35": lasts 3.5 years](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="Luke 4:25" link="luk:4,25" lang="en" %}} | ["Part 2: The 3.5 Years": 3.5 years](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#part-2-the-35-years) |
 | {{% bible val="Luke 6:12-13" link="luk:6,12-13" lang="en" %}} | ["The challenge": mountain](/expl/background/israel/jesus-and-the-covenant#298a) |
 | {{% bible val="Luke 10:18" link="luk:10,18" lang="en" %}} | ["Crux 2: what "bound" means": I saw Satan fall like lightning from heaven](/expl/content/1000y/pre-post-and-amillennialism#7d18) |

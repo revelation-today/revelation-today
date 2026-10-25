@@ -4,7 +4,7 @@ weight: 39
 docType: expl
 ---
 
-78 bible verses have been used in this book.
+80 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -19,10 +19,9 @@ docType: expl
 | {{% bible val="Matthew 3:12" link="mat:3,12" lang="en" %}} | ["The two harvests": burning the chaff](/expl/content/harvest/gods-army-and-the-seven-angels#833c) |
 | {{% bible val="Matthew 4:1-11" link="mat:4,1-11" lang="en" %}} | ["Some basics": Jesus fasted for 40 days in the desert, facing the same challenges](/expl/content/beasts/666-the-number-of-the-beast#0630) |
 | {{% bible val="Matthew 4:1-11" link="mat:4,1-11" lang="en" %}} | ["Finally, the story": devil tried to tempt him](/expl/content/jesus/a-different-christmas-story#finally-the-story) |
-| {{% bible val="Matthew 4:11" link="mat:4,11" lang="en" %}} | ["Assumptions": the devil, for instance, is the one who leaves Jesus after the temptation](/expl/topics/others/the-rapture#b246) |
 | {{% bible val="Matthew 5:3" link="mat:5,3" lang="en" %}} | ["The teachings of Jesus": The poor in spirit will receive the kingdom](/expl/background/israel/jesus-and-the-covenant#b343) |
 | {{% bible val="Matthew 5:4" link="mat:5,4" lang="en" %}} | ["The teachings of Jesus": Those who mourn shall be comforted](/expl/background/israel/jesus-and-the-covenant#b343) |
-| {{% bible val="Matthew 5:5" link="mat:5,5" lang="en" %}} | ["The teachings of Jesus": The meek shall inherit the land](/expl/background/israel/jesus-and-the-covenant#b343) |
+| {{% bible val="Matthew 5:5" link="mat:5,5" lang="en" %}} | ["The teachings of Jesus": The meek shall inherit the earth](/expl/background/israel/jesus-and-the-covenant#b343) |
 | {{% bible val="Matthew 5:8" link="mat:5,8" lang="en" %}} | ["The teachings of Jesus": The pure in heart shall see God](/expl/background/israel/jesus-and-the-covenant#b343) |
 | {{% bible val="Matthew 5:9" link="mat:5,9" lang="en" %}} | ["The teachings of Jesus": Peacemakers are those who are called children of God](/expl/background/israel/jesus-and-the-covenant#b343) |
 | {{% bible val="Matthew 6:24" link="mat:6,24" lang="en" %}} | ["Pax Romana and Christians": you can only serve one master](/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation#8c56) |
@@ -65,18 +64,21 @@ docType: expl
 | {{% bible val="Matthew 20:20-28" link="mat:20,20-28" lang="en" %}} | ["The thousand year kingdom": reigning](/expl/content/1000y/the-thousand-year-kingdom) |
 | {{% bible val="Matthew 20:25-28" link="mat:20,25-28" lang="en" %}} | ["There is more": by serving, not by lording it over others](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
 | {{% bible val="Matthew 20:25-28" link="mat:20,25-28" lang="en" %}} | ["So who reigns, over whom, and where?": Jesus did not use his authority that way](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
-| {{% bible val="Matthew 21:33-45" link="mat:21,33-45" lang="en" %}} | ["The teachings of Jesus": reuses this parable with the judgment to completely destroy Israel if they reject him](/expl/background/israel/jesus-and-the-covenant#b343) |
+| {{% bible val="Matthew 21:33-45" link="mat:21,33-45" lang="en" %}} | ["The teachings of Jesus": reuses this parable](/expl/background/israel/jesus-and-the-covenant#b343) |
+| {{% bible val="Matthew 21:38-43" link="mat:21,38-43" lang="en" %}} | ["The teachings of Jesus": 21:38–43](/expl/background/israel/jesus-and-the-covenant#b343) |
 | {{% bible val="Matthew 22:36-39" link="mat:22,36-39" lang="en" %}} | ["The dark side": love is the greater good](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#896a) |
 | {{% bible val="Matthew 24" link="mat:24" lang="en" %}} | ["An apocalypse": Matthew 24](/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
 | {{% bible val="Matthew 24" link="mat:24" lang="en" %}} | ["The fig tree and 1948": 24](/expl/topics/others/the-rapture#165b) |
 | {{% bible val="Matthew 24:3" link="mat:24,3" lang="en" %}} | ["Coming with the clouds": Jesus speaks of the end times](/expl/content/vision/setting-the-foundation#e267) |
 | {{% bible val="Matthew 24:4-8" link="mat:24,4-8" lang="en" %}} | ["The mystery of the first horseman": Matthew](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
 | {{% bible val="Matthew 24:12-14" link="mat:24,12-14" lang="en" %}} | ["The problem": Matthew 24:12](/expl/content/letters/the-letter-to-the-church-in-ephesus#235e) |
+| {{% bible val="Matthew 24:15" link="mat:24,15" lang="en" %}} | ["The four kingdoms": Matt 24:15](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
 | {{% bible val="Matthew 24:21" link="mat:24,21" lang="en" %}} | ["Futurist": Jesus's own warning](/expl/background/literature/preterist-historicist-futurist-or-idealist#f3c4) |
 | {{% bible val="Matthew 24:21" link="mat:24,21" lang="en" %}} | ["The great tribulation": Matthew](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Matthew 24:29-31" link="mat:24,29-31" lang="en" %}} | ["Post-tribulational": Jesus' own end-time teaching](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pot4d) |
 | {{% bible val="Matthew 24:30" link="mat:24,30" lang="en" %}} | ["Coming with the clouds": Matthew](/expl/content/vision/setting-the-foundation#e267) |
 | {{% bible val="Matthew 24:32" link="mat:24,32" lang="en" %}} | ["The fig tree and 1948": the parable of the fig tree](/expl/topics/others/the-rapture#165b) |
+| {{% bible val="Matthew 24:32-33" link="mat:24,32-33" lang="en" %}} | ["The fig tree and 1948": you know that he is near](/expl/topics/others/the-rapture#165b) |
 | {{% bible val="Matthew 24:36" link="mat:24,36" lang="en" %}} | ["The context": as the verse just before this passage says](/expl/topics/others/the-rapture#0cab) |
 | {{% bible val="Matthew 24:37-42" link="mat:24,37-42" lang="en" %}} | ["The left behind": “As it was in the days of Noah, so it will be at the coming of the Son of Man. For in the days before the flood, people were eating and drinking, marrying and giving in marriage, up to the day Noah entered the ark; and they knew nothing about what would happen until the flood came and took them all away. That is how it will be at the coming of the Son of Man. Two men will be in the field; one will be taken and the other left. Two women will be grinding with a hand-mill; one will be taken and the other left. ‘Therefore keep watch, because you do not know on what day your Lord will come.”](/expl/topics/others/the-rapture#cdcb) |
 | {{% bible val="Matthew 25" link="mat:25" lang="en" %}} | ["The fig tree and 1948": 25](/expl/topics/others/the-rapture#165b) |

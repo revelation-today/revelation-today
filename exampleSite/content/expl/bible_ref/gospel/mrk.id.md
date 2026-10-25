@@ -4,7 +4,7 @@ weight: 40
 docType: expl
 ---
 
-30 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+31 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -29,8 +29,9 @@ docType: expl
 | {{% bible val="Markus 5:43" link="mrk:5,43" lang="ind" %}} | ["Serangan Ganda": Mrk 5:43](/id/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Markus 10:29-30" link="mrk:10,29-30" lang="ind" %}} | ["Sejarah Israel": Markus](/id/appl/topics/hero/who-rules-the-world#e6be) |
 | {{% bible val="Markus 10:42-45" link="mrk:10,42-45" lang="ind" %}} | ["Sebuah Cara Berpikir yang Baru": barangsiapa ingin menjadi besar di antara kamu, hendaklah ia menjadi pelayanmu](/id/expl/background/israel/jesus-and-the-covenant#3cee) |
+| {{% bible val="Markus 10:45" link="mrk:10,45" lang="ind" %}} | ["Eksodus dalam Injil Markus": Mrk 10:45](/id/expl/background/israel/the-second-exodus#f526) |
 | {{% bible val="Markus 11:12-14" link="mrk:11,12-14" lang="ind" %}} | ["Pengajaran Inti": Markus 11:12-14, 20-21](/id/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#pengajaran-inti) |
-| {{% bible val="Markus 11:12-21" link="mrk:11,12-21" lang="ind" %}} | ["Eksodus dalam Injil Markus": penghakiman atau janji, hanya jika ia berbuah](/id/expl/background/israel/the-second-exodus#f526) |
+| {{% bible val="Markus 11:12-21" link="mrk:11,12-21" lang="ind" %}} | ["Eksodus dalam Injil Markus": pohon yang berdaun tetapi tidak berbuah dihakimi](/id/expl/background/israel/the-second-exodus#f526) |
 | {{% bible val="Markus 12:1-12" link="mrk:12,1-12" lang="ind" %}} | ["Kebun Anggur Allah": gambaran yang sama ini untuk menunjukkan kegagalan Israel dan menyerahkan kebun anggur itu kepada orang lain yang berbuah](/id/expl/background/israel/the-church-is-part-of-israel#3501) |
 | {{% bible val="Markus 13" link="mrk:13" lang="ind" %}} | ["Ajaran-Ajaran Yesus": kehancuran Yerusalem dan bait Allah](/id/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Markus 13" link="mrk:13" lang="ind" %}} | ["Sebuah Apokalips": Markus 13](/id/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |

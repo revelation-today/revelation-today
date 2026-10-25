@@ -4,7 +4,7 @@ weight: 23
 docType: expl
 ---
 
-25 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+26 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -32,4 +32,5 @@ docType: expl
 | {{% bible val="Yeremia 51:25" link="jer:51,25" lang="ind" %}} | ["Ketujuh bukit dan ketujuh raja": Babel yang digambarkan sebagai gunung](/id/expl/content/harlot/who-is-the-harlot-babylon-part-1#09b7) |
 | {{% bible val="Yeremia 51:25" link="jer:51,25" lang="ind" %}} | ["Keempat Sangkakala Pertama": gunung yang membinasakan](/id/expl/content/trumpets/the-trumpets-in-revelation#e565) |
 | {{% bible val="Yeremia 51:33" link="jer:51,33" lang="ind" %}} | ["Kedua Tuaian": penebahan](/id/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |
+| {{% bible val="Yeremia 51:45" link="jer:51,45" lang="ind" %}} | ["Babel dalam Kitab Wahyu": Yeremia 51:45](/id/expl/bible/keyword/the-origin-of-babel#d54a) |
 | {{% bible val="Yeremia 51:63-64" link="jer:51,63-64" lang="ind" %}} | ["Keempat Sangkakala Pertama": gulungan kitab Yeremia yang menentang Babel diikatkan pada batu dan ditenggelamkan di sungai Efrat](/id/expl/content/trumpets/the-trumpets-in-revelation#e565) |

@@ -4,11 +4,12 @@ weight: 45
 docType: expl
 ---
 
-Bu kitapta kullanılan 16 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 17 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
 | {{% bible val="1.Korintliler 1:22-23" link="1co:1,22-23" lang="tr" %}} | ["Karanlık taraf": imanımızı saçma bulmamalarını](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#b8ad) |
+| {{% bible val="1.Korintliler 1:27" link="1co:1,27" lang="tr" %}} | ["Sonuç": 1. Korintliler 1:27](/tr/expl/content/bowls/the-key-to-armageddon#733b) |
 | {{% bible val="1.Korintliler 3:5-8" link="1co:3,5-8" lang="tr" %}} | ["Tanrı'nın bağı": Pavlus da daha sonra kiliseye uygular](/tr/expl/background/israel/the-church-is-part-of-israel#987a) |
 | {{% bible val="1.Korintliler 3:16" link="1co:3,16" lang="tr" %}} | ["Yeni Antlaşma'da tapınak": tapınak kiliseye dönüşür, çünkü kilise Mesih'in bedenidir](/tr/expl/bible/creation/the-temple-and-the-presence-of-god#1ad7) |
 | {{% bible val="1.Korintliler 3:16-17" link="1co:3,16-17" lang="tr" %}} | ["Tapınak": o tapınak biziz](/tr/expl/background/israel/the-church-is-part-of-israel#c5a0) |

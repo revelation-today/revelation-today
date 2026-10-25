@@ -4,7 +4,7 @@ weight: 40
 docType: expl
 ---
 
-30 Bibelstellen wurden in diesem Buch verwendet.
+31 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -29,8 +29,9 @@ docType: expl
 | {{% bible val="Markus 5,43" link="mrk:5,43" lang="de" %}} | ["Der zweifache Angriff": Mk 5,43](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="Markus 10,29-30" link="mrk:10,29-30" lang="de" %}} | ["Die Geschichte Israels": Markus](/de/appl/topics/hero/who-rules-the-world#e6be) |
 | {{% bible val="Markus 10,42-45" link="mrk:10,42-45" lang="de" %}} | ["Ein neues Denken": wer unter euch groß werden will, der soll euer Diener sein](/de/expl/background/israel/jesus-and-the-covenant#3cee) |
+| {{% bible val="Markus 10,45" link="mrk:10,45" lang="de" %}} | ["Der Auszug bei Markus": Mk 10,45](/de/expl/background/israel/the-second-exodus#f526) |
 | {{% bible val="Markus 11,12-14" link="mrk:11,12-14" lang="de" %}} | ["Die Kernlehre": Markus 11,12-14.20-21](/de/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#die-kernlehre) |
-| {{% bible val="Markus 11,12-21" link="mrk:11,12-21" lang="de" %}} | ["Der Auszug bei Markus": Gericht oder Verheißung, nur wenn er Frucht bringt](/de/expl/background/israel/the-second-exodus#f526) |
+| {{% bible val="Markus 11,12-21" link="mrk:11,12-21" lang="de" %}} | ["Der Auszug bei Markus": ein Baum mit Blättern, aber ohne Frucht, wird gerichtet](/de/expl/background/israel/the-second-exodus#f526) |
 | {{% bible val="Markus 12,1-12" link="mrk:12,1-12" lang="de" %}} | ["Gottes Weinberg": dasselbe Bild auf, um Israels Versagen zu zeigen und den Weinberg an andere zu übergeben, die Frucht bringen](/de/expl/background/israel/the-church-is-part-of-israel#145d) |
 | {{% bible val="Markus 13" link="mrk:13" lang="de" %}} | ["Die Lehren Jesu": die Zerstörung Jerusalems und des Tempels](/de/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Markus 13" link="mrk:13" lang="de" %}} | ["Eine Apokalypse": Markus 13](/de/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |

@@ -4,7 +4,7 @@ weight: 40
 docType: expl
 ---
 
-Bu kitapta kullanılan 30 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 31 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -29,8 +29,9 @@ Bu kitapta kullanılan 30 Kutsal Kitap pasajı vardır
 | {{% bible val="Markos 5:43" link="mrk:5,43" lang="tr" %}} | ["İki yönlü saldırı": Mr 5:43](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#6999) |
 | {{% bible val="Markos 10:29-30" link="mrk:10,29-30" lang="tr" %}} | ["İsrail’in hikayesi": Markos](/tr/appl/topics/hero/who-rules-the-world#3370) |
 | {{% bible val="Markos 10:42-45" link="mrk:10,42-45" lang="tr" %}} | ["Yeni bir düşünce": aranızda büyük olmak isteyen, hizmetkârınız olsun](/tr/expl/background/israel/jesus-and-the-covenant#177b) |
+| {{% bible val="Markos 10:45" link="mrk:10,45" lang="tr" %}} | ["Markos'taki Çıkış": Mk 10:45](/tr/expl/background/israel/the-second-exodus#098c) |
 | {{% bible val="Markos 11:12-14" link="mrk:11,12-14" lang="tr" %}} | ["Ana Öğreti": Markos 11:12-14, 20-21](/tr/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#ana-öğreti) |
-| {{% bible val="Markos 11:12-21" link="mrk:11,12-21" lang="tr" %}} | ["Markos'taki Çıkış": yargı ya da vaat, yalnızca meyve verirse](/tr/expl/background/israel/the-second-exodus#098c) |
+| {{% bible val="Markos 11:12-21" link="mrk:11,12-21" lang="tr" %}} | ["Markos'taki Çıkış": yaprağı olup meyvesi olmayan ağaç yargılanır](/tr/expl/background/israel/the-second-exodus#098c) |
 | {{% bible val="Markos 12:1-12" link="mrk:12,1-12" lang="tr" %}} | ["Tanrı'nın bağı": İsa bu aynı resmi alıp İsrail'in başarısızlığını gösterir ve bağı meyve veren başkalarına devreder](/tr/expl/background/israel/the-church-is-part-of-israel#987a) |
 | {{% bible val="Markos 13" link="mrk:13" lang="tr" %}} | ["İsa'nın öğretileri": Yeruşalim'in ve tapınağın yıkımını](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
 | {{% bible val="Markos 13" link="mrk:13" lang="tr" %}} | ["Bir kıyamet": Markos 13](/tr/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |

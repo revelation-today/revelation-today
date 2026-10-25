@@ -4,7 +4,7 @@ weight: 43
 docType: expl
 ---
 
-48 bible verses have been used in this book.
+49 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -55,4 +55,5 @@ docType: expl
 | {{% bible val="Acts 26:18" link="act:26,18" lang="en" %}} | ["The ministry": (Acts 26:18)](/expl/background/israel/the-church-is-part-of-israel#121f) |
 | {{% bible val="Acts 26:23" link="act:26,23" lang="en" %}} | ["The ministry": (Acts 26:23)](/expl/background/israel/the-church-is-part-of-israel#121f) |
 | {{% bible val="Acts 28:15" link="act:28,15" lang="en" %}} | ["Missing key words": the welcome given to Paul in Rome](/expl/topics/others/the-rapture#7612) |
+| {{% bible val="Acts 28:24-28" link="act:28,24-28" lang="en" %}} | ["Summary": Acts 28:24–28](/expl/background/israel/the-second-exodus#f43c) |
 | {{% bible val="Acts 28:26-27" link="act:28,26-27" lang="en" %}} | ["The new Exodus in Acts": book ends with](/expl/background/israel/the-second-exodus#a809) |

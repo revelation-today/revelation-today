@@ -4,7 +4,7 @@ weight: 44
 docType: expl
 ---
 
-20 bible verses have been used in this book.
+21 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -15,6 +15,7 @@ docType: expl
 | {{% bible val="Romans 5:3-4" link="rom:5,3-4" lang="en" %}} | ["The great tribulation": catalyst of hope](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Romans 6:11" link="rom:6,11" lang="en" %}} | ["Crux 1: two comings to life, one verb": dead to sin but alive to God](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Romans 6:13" link="rom:6,13" lang="en" %}} | ["Crux 1: two comings to life, one verb": as those alive from the dead](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Romans 8:3" link="rom:8,3" lang="en" %}} | ["The covenant with Israel": was powerless](/expl/background/israel/gods-covenant#2225) |
 | {{% bible val="Romans 8:14-39" link="rom:8,14-39" lang="en" %}} | ["The story of Israel": working out by living in the Holy Spirit](/appl/topics/hero/who-rules-the-world#af6b) |
 | {{% bible val="Romans 8:19-22" link="rom:8,19-22" lang="en" %}} | ["Background": creation itself asking God](/expl/content/bowls/the-bowls-of-wrath#a84e) |
 | {{% bible val="Romans 8:35-39" link="rom:8,35-39" lang="en" %}} | ["The great tribulation": cannot separate us from Jesus](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |

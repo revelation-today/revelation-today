@@ -4,7 +4,7 @@ weight: 1
 docType: expl
 ---
 
-129 bible verses have been used in this book.
+134 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -33,7 +33,7 @@ docType: expl
 | {{% bible val="Exodus 6:14" link="exo:6,14" lang="en" %}} | ["The inheritance": Reuben, the oldest son](/expl/background/israel/the-role-of-family-in-the-bible#4395) |
 | {{% bible val="Exodus 7:5" link="exo:7,5" lang="en" %}} | ["Why the plagues of Egypt?": the Egyptians will know that I am the LORD](/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
 | {{% bible val="Exodus 7:8-13" link="exo:7,8-13" lang="en" %}} | ["The start": Moses goes to Pharaoh and performs his miracles, but Pharaoh is not impressed](/expl/bible/exodus/the-plagues-in-egypt#dfee) |
-| {{% bible val="Exodus 7:14-24" link="exo:7,14-24" lang="en" %}} | ["Not an easy answer": the symbolic killing of the Nile god, while the water actually did turn red like blood](/expl/background/literature/literally-or-symbolic#95e0) |
+| {{% bible val="Exodus 7:14-24" link="exo:7,14-24" lang="en" %}} | ["Not an easy answer": the symbolic killing of the Nile god, while the water actually did turn to blood](/expl/background/literature/literally-or-symbolic#95e0) |
 | {{% bible val="Exodus 7:14-24" link="exo:7,14-24" lang="en" %}} | ["The identity of the two witnesses": the first plague under Moses](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Exodus 7:14-25" link="exo:7,14-25" lang="en" %}} | [1, Water to blood](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Exodus 7:17" link="exo:7,17" lang="en" %}} | ["The bowls": first plague in Egypt](/expl/content/bowls/the-bowls-of-wrath#7ced) |
@@ -118,13 +118,18 @@ docType: expl
 | {{% bible val="Exodus 20:2" link="exo:20,2" lang="en" %}} | ["The Core Teaching": I am the Lord your God](/sermons/deep-dive/intro/07-gods-covenant#the-core-teaching) |
 | {{% bible val="Exodus 20:3-6" link="exo:20,3-6" lang="en" %}} | ["The covenant with Israel": Have only one God](/expl/background/israel/gods-covenant#2225) |
 | {{% bible val="Exodus 20:3-6" link="exo:20,3-6" lang="en" %}} | ["The Core Teaching": Exodus 20:3-6](/sermons/deep-dive/intro/07-gods-covenant#the-core-teaching) |
+| {{% bible val="Exodus 21:2" link="exo:21,2" lang="en" %}} | ["Positions of Prominence": Ex. 21:2–22:27](/expl/background/literature/literary-tools-in-the-book-of-revelation#e6b3) |
+| {{% bible val="Exodus 21:2-17" link="exo:21,2-17" lang="en" %}} | ["Positions of Prominence": 21:2–17](/expl/background/literature/literary-tools-in-the-book-of-revelation#e6b3) |
+| {{% bible val="Exodus 22:18-27" link="exo:22,18-27" lang="en" %}} | ["Positions of Prominence": 22:18–27](/expl/background/literature/literary-tools-in-the-book-of-revelation#e6b3) |
 | {{% bible val="Exodus 22:29" link="exo:22,29" lang="en" %}} | ["The two harvests": come from grapes](/expl/content/harvest/gods-army-and-the-seven-angels#833c) |
 | {{% bible val="Exodus 23:20" link="exo:23,20" lang="en" %}} | ["The exodus in Mark": leading angel in the Exodus](/expl/background/israel/the-second-exodus#70f4) |
 | {{% bible val="Exodus 24:1-12" link="exo:24,1-12" lang="en" %}} | ["The covenant with Israel": a communal meal](/expl/background/israel/gods-covenant#2225) |
 | {{% bible val="Exodus 24:10" link="exo:24,10" lang="en" %}} | ["The throne room": on earth during the Exodus](/expl/content/worship/worship-in-the-throne-room#2a89) |
 | {{% bible val="Exodus 25:3-7" link="exo:25,3-7" lang="en" %}} | ["The religious aspect": the offering for the tabernacle](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Exodus 25:8" link="exo:25,8" lang="en" %}} | ["Background: Why God Wants to Be Close, Not Just in Charge": Exodus 25:8](/kids/teens-prep/09-why-god-wants-to-be-close-not-just-in-charge) |
+| {{% bible val="Exodus 25:16" link="exo:25,16" lang="en" %}} | ["The covenant with Israel": Exod 25:16](/expl/background/israel/gods-covenant#2225) |
 | {{% bible val="Exodus 25:16" link="exo:25,16" lang="en" %}} | ["The covenant in Revelation": the ark](/expl/background/israel/gods-covenant#c0f2) |
+| {{% bible val="Exodus 25:22" link="exo:25,22" lang="en" %}} | ["God comes to the town": Exod 25:22](/expl/bible/creation/the-temple-and-the-presence-of-god#god-comes-to-the-town) |
 | {{% bible val="Exodus 28:6-14" link="exo:28,6-14" lang="en" %}} | ["The religious aspect": the ephod (the high priest's outer vestment)](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Exodus 28:15-20" link="exo:28,15-20" lang="en" %}} | ["The religious aspect": the breastplate](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Exodus 28:16" link="exo:28,16" lang="en" %}} | ["The material of the city": square](/expl/content/paradise/the-new-jerusalem#73fd) |

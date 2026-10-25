@@ -4,12 +4,13 @@ weight: 9
 docType: expl
 ---
 
-6 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+7 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
 | {{% bible val="2 Samuel 6:1-7" link="2sa:6,1-7" lang="ind" %}} | ["Kisahnya": Setelah masa itu, Daud, raja berikutnya, ingin membawa tabut itu ke Yerusalem. Ia ditemani oleh kedua putra Abinadab, yaitu Uza dan Ahio. Tabut itu ditaruh di atas sebuah kereta dan ditarik oleh lembu-lembu. Tetapi ketika lembu-lembu itu tersandung, Uza mengulurkan tangannya dan berusaha mencegah tabut itu tergelincir dari kereta. Dan karena perbuatan itu, Allah membunuhnya.](/id/expl/bible/creation/the-story-of-uzzah#kisahnya) |
 | {{% bible val="2 Samuel 6:1-7" link="2sa:6,1-7" lang="ind" %}} | ["Pembuka": 2 Samuel 6:1-7](/id/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#pembuka) |
+| {{% bible val="2 Samuel 6:7" link="2sa:6,7" lang="ind" %}} | ["Apa yang Sedang Terjadi di Sini?": karena kesalahannya](/id/expl/bible/creation/the-story-of-uzzah#apa-yang-sedang-terjadi-di-sini) |
 | {{% bible val="2 Samuel 11" link="2sa:11" lang="ind" %}} | ["Kekayaan Salomo": kisah Batsyeba](/id/expl/content/beasts/666-the-number-of-the-beast#e63a) |
 | {{% bible val="2 Samuel 11:3" link="2sa:11,3" lang="ind" %}} | ["Pentingnya Keluarga": Batsyeba](/id/expl/background/israel/the-role-of-family-in-the-bible#7234) |
 | {{% bible val="2 Samuel 12:1-23" link="2sa:12,1-23" lang="ind" %}} | ["Kekayaan Salomo": teguran Natan kepada Daud, dan pada kematian anak yang lahir dari dosa itu](/id/expl/content/beasts/666-the-number-of-the-beast#e63a) |

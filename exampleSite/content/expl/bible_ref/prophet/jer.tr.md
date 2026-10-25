@@ -4,7 +4,7 @@ weight: 23
 docType: expl
 ---
 
-Bu kitapta kullanılan 25 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 26 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -32,4 +32,5 @@ Bu kitapta kullanılan 25 Kutsal Kitap pasajı vardır
 | {{% bible val="Yeremya 51:25" link="jer:51,25" lang="tr" %}} | ["Yedi tepe ve yedi kral": Babil'in bir dağ olarak tanımlanmasıyla](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-1#9b63) |
 | {{% bible val="Yeremya 51:25" link="jer:51,25" lang="tr" %}} | ["İlk dört borazan": yıkıcı bir dağ](/tr/expl/content/trumpets/the-trumpets-in-revelation#c8ff) |
 | {{% bible val="Yeremya 51:33" link="jer:51,33" lang="tr" %}} | ["İki hasat": harman dövme](/tr/expl/content/harvest/gods-army-and-the-seven-angels#c8c5) |
+| {{% bible val="Yeremya 51:45" link="jer:51,45" lang="tr" %}} | ["Vahiy Kitabı’ndaki Babil": Yeremya 51:45](/tr/expl/bible/keyword/the-origin-of-babel#082d) |
 | {{% bible val="Yeremya 51:63-64" link="jer:51,63-64" lang="tr" %}} | ["İlk dört borazan": Yeremya'nın Babil'e karşı yazdığı tomarın bir taşa bağlanıp Fırat'a batırılmasını](/tr/expl/content/trumpets/the-trumpets-in-revelation#c8ff) |

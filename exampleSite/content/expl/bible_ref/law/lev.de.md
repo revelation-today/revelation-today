@@ -4,15 +4,18 @@ weight: 2
 docType: expl
 ---
 
-27 Bibelstellen wurden in diesem Buch verwendet.
+30 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
 | {{% bible val="3.Mose 16" link="lev:16" lang="de" %}} | ["Die Verheißung": Versöhnungstag](/de/expl/bible/daniel/the-70-year-weeks#1bc2) |
+| {{% bible val="3.Mose 19,15" link="lev:19,15" lang="de" %}} | ["Eine Prophetie": 3. Mose 19,15](/de/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="3.Mose 19,18" link="lev:19,18" lang="de" %}} | ["Eine Prophetie": den Nächsten zu lieben](/de/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="3.Mose 21,9" link="lev:21,9" lang="de" %}} | ["Das Gericht": Levitikus 21,9](/de/expl/content/harlot/the-character-and-destiny-of-the-harlot#db66) |
 | {{% bible val="3.Mose 21,9" link="lev:21,9" lang="de" %}} | ["Der religiöse Aspekt": Die Priestertochter, die zur Hure wurde, sollte mit Feuer verbrannt werden](/de/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="3.Mose 23,9-14" link="lev:23,9-14" lang="de" %}} | ["Die beiden Ernten": normalerweise vom Getreide genommen](/de/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |
 | {{% bible val="3.Mose 23,22" link="lev:23,22" lang="de" %}} | ["Eine Prophetie": 3. Mose 23,22](/de/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="3.Mose 24,22" link="lev:24,22" lang="de" %}} | ["Eine Prophetie": 24,22](/de/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="3.Mose 25,1-7" link="lev:25,1-7" lang="de" %}} | ["Was ist eine Jahrwoche": jedes siebte Jahr sollte das Land ruhen](/de/expl/bible/daniel/the-70-year-weeks#f6e6) |
 | {{% bible val="3.Mose 25,1-7" link="lev:25,1-7" lang="de" %}} | ["Teil 1: Die 70 Wochen": 3. Mose 25,1-7](/de/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#teil-1-die-70-wochen) |
 | {{% bible val="3.Mose 25,10" link="lev:25,10" lang="de" %}} | ["Das Land": Land wird zur festgesetzten Zeit zurückgegeben](/de/expl/background/israel/the-role-of-family-in-the-bible#5938) |

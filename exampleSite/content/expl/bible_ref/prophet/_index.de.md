@@ -4,4 +4,4 @@ weight: 4
 docType: expl
 ---
 
-428 Bibelstellen wurden in dieser Kategorie verwendet.
+459 Bibelstellen wurden in dieser Kategorie verwendet.

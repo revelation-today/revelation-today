@@ -4,11 +4,12 @@ weight: 11
 docType: expl
 ---
 
-20 Bibelstellen wurden in diesem Buch verwendet.
+21 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
 | {{% bible val="2.Könige 1,9-12" link="2ki:1,9-12" lang="de" %}} | ["Die Identität der beiden Zeugen": Elia, der Feuer vom Himmel herabrief](/de/expl/content/witnesses/the-two-witnesses#55fa) |
+| {{% bible val="2.Könige 2,1" link="2ki:2,1" lang="de" %}} | ["Prominente Positionen": 2.Kön 2,1–8,6](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#4b40) |
 | {{% bible val="2.Könige 2,11" link="2ki:2,11" lang="de" %}} | ["Die Identität der beiden Zeugen": Elia fuhr im Wirbelwind auf](/de/expl/content/witnesses/the-two-witnesses#55fa) |
 | {{% bible val="2.Könige 9" link="2ki:9" lang="de" %}} | ["Elia": der Heerführer, schließlich gesalbt wird](/de/expl/content/bowls/the-key-to-armageddon#5f7a) |
 | {{% bible val="2.Könige 9" link="2ki:9" lang="de" %}} | ["Harmagedon": 2. Könige 9](/de/quick/content/bowls#harmagedon) |

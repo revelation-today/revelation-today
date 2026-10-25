@@ -4,7 +4,7 @@ weight: 40
 docType: expl
 ---
 
-31 bible verses have been used in this book.
+32 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -30,8 +30,9 @@ docType: expl
 | {{% bible val="Mark 5:43" link="mrk:5,43" lang="en" %}} | ["The twofold attack": Mk 5:43](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Mark 10:29-30" link="mrk:10,29-30" lang="en" %}} | ["The story of Israel": Mark](/appl/topics/hero/who-rules-the-world#af6b) |
 | {{% bible val="Mark 10:42-45" link="mrk:10,42-45" lang="en" %}} | ["A new thinking": whoever wants to become great among you must be your servant](/expl/background/israel/jesus-and-the-covenant#a5cc) |
+| {{% bible val="Mark 10:45" link="mrk:10,45" lang="en" %}} | ["The exodus in Mark": Mark 10:45](/expl/background/israel/the-second-exodus#70f4) |
 | {{% bible val="Mark 11:12-14" link="mrk:11,12-14" lang="en" %}} | ["The Core Teaching": Mark 11:12-14, 20-21](/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#the-core-teaching) |
-| {{% bible val="Mark 11:12-21" link="mrk:11,12-21" lang="en" %}} | ["The exodus in Mark": judgment or promise, only if bears fruit](/expl/background/israel/the-second-exodus#70f4) |
+| {{% bible val="Mark 11:12-21" link="mrk:11,12-21" lang="en" %}} | ["The exodus in Mark": a tree with leaves but no fruit is judged](/expl/background/israel/the-second-exodus#70f4) |
 | {{% bible val="Mark 12:1-12" link="mrk:12,1-12" lang="en" %}} | ["God's vineyard": this same image to show Israel's failure and hand the vineyard to others who bear fruit](/expl/background/israel/the-church-is-part-of-israel#3501) |
 | {{% bible val="Mark 13" link="mrk:13" lang="en" %}} | ["The teachings of Jesus": the destruction of Jerusalem and the temple](/expl/background/israel/jesus-and-the-covenant#b343) |
 | {{% bible val="Mark 13" link="mrk:13" lang="en" %}} | ["An apocalypse": Mark 13](/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |

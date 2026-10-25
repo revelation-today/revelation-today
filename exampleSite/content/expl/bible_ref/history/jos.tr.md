@@ -4,10 +4,12 @@ weight: 5
 docType: expl
 ---
 
-Bu kitapta kullanılan 6 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 8 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
+| {{% bible val="Yeş 3:9-17" link="jos:3,9-17" lang="tr" %}} | ["Yapılandırılmış tekrar": Yeşu 3:9–17](/tr/expl/background/literature/literary-tools-in-the-book-of-revelation#9e84) |
+| {{% bible val="Yeş 4:10-13" link="jos:4,10-13" lang="tr" %}} | ["Yapılandırılmış tekrar": Yeşu 4:10–13](/tr/expl/background/literature/literary-tools-in-the-book-of-revelation#9e84) |
 | {{% bible val="Yeş 6:25" link="jos:6,25" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": Rahav](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
 | {{% bible val="Yeş 6:25" link="jos:6,25" lang="tr" %}} | ["Ailenin önemi": Erihalı Rahav](/tr/expl/background/israel/the-role-of-family-in-the-bible#524d) |
 | {{% bible val="Yeş 9" link="jos:9" lang="tr" %}} | ["Tarihi antlaşmalar": Givonluların Yeşu’yu kandırarak onunla bir antlaşma yapmasını sağladıkları olayda](/tr/expl/background/israel/gods-covenant#909f) |

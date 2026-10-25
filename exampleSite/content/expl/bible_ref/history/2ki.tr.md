@@ -4,11 +4,12 @@ weight: 11
 docType: expl
 ---
 
-Bu kitapta kullanılan 20 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 21 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
 | {{% bible val="2.Krallar 1:9-12" link="2ki:1,9-12" lang="tr" %}} | ["İki tanığın kimliği": gökten ateş yağdıran İlyas'a](/tr/expl/content/witnesses/the-two-witnesses#c357) |
+| {{% bible val="2.Krallar 2:1" link="2ki:2,1" lang="tr" %}} | ["Öne Çıkan Konumlar": 2. Krallar 2:1–8:6](/tr/expl/background/literature/literary-tools-in-the-book-of-revelation#6923) |
 | {{% bible val="2.Krallar 2:11" link="2ki:2,11" lang="tr" %}} | ["İki tanığın kimliği": İlyas kasırgayla yükseldi](/tr/expl/content/witnesses/the-two-witnesses#c357) |
 | {{% bible val="2.Krallar 9" link="2ki:9" lang="tr" %}} | ["İlyas": Ordunun komutanı Yehu sonunda meshedildiğinde](/tr/expl/content/bowls/the-key-to-armageddon#5c76) |
 | {{% bible val="2.Krallar 9" link="2ki:9" lang="tr" %}} | ["Armagedon": 2. Krallar 9](/tr/quick/content/bowls#armagedon) |

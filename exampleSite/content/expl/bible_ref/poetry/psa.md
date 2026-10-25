@@ -4,7 +4,7 @@ weight: 18
 docType: expl
 ---
 
-30 bible verses have been used in this book.
+32 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -12,6 +12,7 @@ docType: expl
 | {{% bible val="Psalm 2" link="psa:2" lang="en" %}} | ["The child": Ps.2](/expl/content/jesus/a-different-christmas-story#the-child) |
 | {{% bible val="Psalm 2" link="psa:2" lang="en" %}} | ["The solution": Psalm 2](/expl/content/letters/the-letter-to-the-church-in-thyatira#09f8) |
 | {{% bible val="Psalm 2:8" link="psa:2,8" lang="en" %}} | ["Crux 4: how much of the promise lands inside history?": his inheritance](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
+| {{% bible val="Psalm 19:1-2" link="psa:19,1-2" lang="en" %}} | ["Parallel pattern": Ps. 19:1–2](/expl/background/literature/literary-tools-in-the-book-of-revelation#eb0a) |
 | {{% bible val="Psalm 22:27" link="psa:22,27" lang="en" %}} | ["Crux 4: how much of the promise lands inside history?": all the ends of the earth remembering and turning to the LORD](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Psalm 23" link="psa:23" lang="en" %}} | ["Literally or symbolically": sheep that eat grass](/quick/background/literature/) |
 | {{% bible val="Psalm 36:8-9" link="psa:36,8-9" lang="en" %}} | ["Living water": gives abundantly to drink](/expl/content/paradise/the-new-jerusalem#bac3) |
@@ -22,7 +23,7 @@ docType: expl
 | {{% bible val="Psalm 74:13-14" link="psa:74,13-14" lang="en" %}} | ["No more sea": Leviathan](/expl/content/paradise/the-new-jerusalem#a258) |
 | {{% bible val="Psalm 79:12" link="psa:79,12" lang="en" %}} | ["The number 7": Psalms](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#a9a8) |
 | {{% bible val="Psalm 86:8-10" link="psa:86,8-10" lang="en" %}} | ["The song of Moses": 86](/expl/content/harvest/gods-army-and-the-seven-angels#5102) |
-| {{% bible val="Psalm 87:1-6" link="psa:87,1-6" lang="en" %}} | ["The Gentiles become part of Israel": He has founded his city on the holy mountain. 2 The Lord loves the gates of Zion more than all the other dwellings of Jacob. 3 Glorious things are said of you, city of God: 4 ‘I will record Rahab (Egypt) and Babel among those who acknowledge me — Philistia too, and Tyre, along with Cush — and will say, “This one was born in Zion.” ’ 5 Indeed, of Zion it will be said, ‘This one and that one were born in her, and the Most High himself will establish her.’ 6 The Lord will write in the register of the peoples: ‘This one was born in Zion.’](/expl/background/israel/the-remnant-of-israel#0f15) |
+| {{% bible val="Psalm 87:1-6" link="psa:87,1-6" lang="en" %}} | ["The Gentiles become part of Israel": He has founded his city on the holy mountain. The Lord loves the gates of Zion more than all the other dwellings of Jacob. Glorious things are said of you, city of God: ‘I will record Rahab (Egypt) and Babel among those who acknowledge me — Philistia too, and Tyre, along with Cush — and will say, “This one was born in Zion.” ’ Indeed, of Zion it will be said, ‘This one and that one were born in her, and the Most High himself will establish her.’ The Lord will write in the register of the peoples: ‘This one was born in Zion.’](/expl/background/israel/the-remnant-of-israel#0f15) |
 | {{% bible val="Psalm 89:19-32" link="psa:89,19-32" lang="en" %}} | ["The base": Psalm 89](/expl/content/vision/setting-the-foundation#65e2) |
 | {{% bible val="Psalm 89:22" link="psa:89,22" lang="en" %}} | ["But aren't there also differences?": Psalms](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
 | {{% bible val="Psalm 89:27" link="psa:89,27" lang="en" %}} | ["God's son": in its king, whom God calls his first-born](/expl/background/israel/the-church-is-part-of-israel#639c) |
@@ -35,6 +36,7 @@ docType: expl
 | {{% bible val="Psalm 105:1" link="psa:105,1" lang="en" %}} | ["The song of Moses": Psalm 105](/expl/content/harvest/gods-army-and-the-seven-angels#5102) |
 | {{% bible val="Psalm 106:36-38" link="psa:106,36-38" lang="en" %}} | ["Ready for the second death": sacrifice children](/expl/content/paradise/the-new-jerusalem#0819) |
 | {{% bible val="Psalm 115:4-8" link="psa:115,4-8" lang="en" %}} | ["The twofold attack": showing that it is more than an idol](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
+| {{% bible val="Psalm 121:1-2" link="psa:121,1-2" lang="en" %}} | ["The drama": Psalm 121:1–2](/expl/bible/creation/the-creation#91ed) |
 | {{% bible val="Psalm 128:3" link="psa:128,3" lang="en" %}} | ["Olive tree": individuals in Israel](/expl/background/israel/the-church-is-part-of-israel#e179) |
 | {{% bible val="Psalm 130:8" link="psa:130,8" lang="en" %}} | ["Treasured possession of God": Psalms, where Israel is promised redemption from all wickedness](/expl/background/israel/the-church-is-part-of-israel#123e) |
 | {{% bible val="Psalm 135:15-18" link="psa:135,15-18" lang="en" %}} | ["We become what we worship": Psalms](/appl/topics/power/worship#9eba) |

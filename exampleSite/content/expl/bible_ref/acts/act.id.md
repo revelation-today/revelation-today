@@ -4,7 +4,7 @@ weight: 43
 docType: expl
 ---
 
-48 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+49 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -55,4 +55,5 @@ docType: expl
 | {{% bible val="Kisah Rasul-rasul 26:18" link="act:26,18" lang="ind" %}} | ["Pelayanan Itu": (Kis 26:18)](/id/expl/background/israel/the-church-is-part-of-israel#121f) |
 | {{% bible val="Kisah Rasul-rasul 26:23" link="act:26,23" lang="ind" %}} | ["Pelayanan Itu": (Kis 26:23)](/id/expl/background/israel/the-church-is-part-of-israel#121f) |
 | {{% bible val="Kisah Rasul-rasul 28:15" link="act:28,15" lang="ind" %}} | ["Kata Kunci yang Terlewatkan": penyambutan yang diberikan kepada Paulus di Roma](/id/expl/topics/others/the-rapture#0f61) |
+| {{% bible val="Kisah Rasul-rasul 28:24-28" link="act:28,24-28" lang="ind" %}} | ["Ringkasan": Kis 28:24–28](/id/expl/background/israel/the-second-exodus#135c) |
 | {{% bible val="Kisah Rasul-rasul 28:26-27" link="act:28,26-27" lang="ind" %}} | ["Eksodus Baru dalam Kisah Para Rasul": kitab ini berakhir](/id/expl/background/israel/the-second-exodus#b683) |

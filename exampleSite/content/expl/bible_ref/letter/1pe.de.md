@@ -4,7 +4,7 @@ weight: 62
 docType: expl
 ---
 
-7 Bibelstellen wurden in diesem Buch verwendet.
+8 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -15,3 +15,4 @@ docType: expl
 | {{% bible val="1.Petrus 2,22" link="1pe:2,22" lang="de" %}} | ["Die 144.000": in dessen Mund kein Trug gefunden wurde](/de/expl/content/harvest/gods-army-and-the-seven-angels#67e8) |
 | {{% bible val="1.Petrus 4,12-13" link="1pe:4,12-13" lang="de" %}} | ["Die Große Trübsal": Brief des Petrus](/de/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
 | {{% bible val="1.Petrus 5,8" link="1pe:5,8" lang="de" %}} | ["Knotenpunkt 2: was „gebunden" heißt": geht umher wie ein brüllender Löwe und sucht, wen er verschlingen kann](/de/expl/content/1000y/pre-post-and-amillennialism#7d18) |
+| {{% bible val="1.Petrus 5,13" link="1pe:5,13" lang="de" %}} | ["Die Münze": 1. Petrus 5,13](/de/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#12e6) |

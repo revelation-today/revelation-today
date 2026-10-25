@@ -4,11 +4,12 @@ weight: 45
 docType: expl
 ---
 
-15 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+16 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
 | {{% bible val="1 Korintus 1:22-23" link="1co:1,22-23" lang="ind" %}} | ["Sisi Gelapnya": iman kita ini bodoh](/id/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
+| {{% bible val="1 Korintus 1:27" link="1co:1,27" lang="ind" %}} | ["Kesimpulan": 1 Korintus 1:27](/id/expl/content/bowls/the-key-to-armageddon#6c2d) |
 | {{% bible val="1 Korintus 3:5-8" link="1co:3,5-8" lang="ind" %}} | ["Kebun Anggur Allah": diterapkan Paulus kepada gereja](/id/expl/background/israel/the-church-is-part-of-israel#3501) |
 | {{% bible val="1 Korintus 3:16" link="1co:3,16" lang="ind" %}} | ["Bait Allah dalam Perjanjian Baru": bait Allah itu menjadi gereja, sebab gereja adalah tubuh Kristus](/id/expl/bible/creation/the-temple-and-the-presence-of-god#379d) |
 | {{% bible val="1 Korintus 3:16-17" link="1co:3,16-17" lang="ind" %}} | ["Bait Allah": bait itu sekarang](/id/expl/background/israel/the-church-is-part-of-israel#0dc2) |

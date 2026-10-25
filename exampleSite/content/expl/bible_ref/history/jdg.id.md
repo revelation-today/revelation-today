@@ -4,12 +4,13 @@ weight: 6
 docType: expl
 ---
 
-10 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+11 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
 | {{% bible val="Hakim-hakim 2:6-22" link="jdg:2,6-22" lang="ind" %}} | ["Asal Mula Hari Tuhan": banyak pasang surut](/id/expl/background/israel/the-day-of-the-lord#4fec) |
 | {{% bible val="Hakim-hakim 3:7-16" link="jdg:3,7-16" lang="ind" %}} | ["Pola Simetris": Hak 3:7–16:31](/id/expl/background/literature/literary-tools-in-the-book-of-revelation#1bc4) |
+| {{% bible val="Hakim-hakim 3:12-30" link="jdg:3,12-30" lang="ind" %}} | ["Posisi-Posisi yang Menonjol": Hak.3:12–30](/id/expl/background/literature/literary-tools-in-the-book-of-revelation#4b40) |
 | {{% bible val="Hakim-hakim 4" link="jdg:4" lang="ind" %}} | ["Debora dan Yael": Debora dan Barak](/id/expl/content/bowls/the-key-to-armageddon#adae) |
 | {{% bible val="Hakim-hakim 4" link="jdg:4" lang="ind" %}} | ["Harmagedon": Hakim-hakim 4](/id/quick/content/bowls#harmagedon) |
 | {{% bible val="Hakim-hakim 4:1-3" link="jdg:4,1-3" lang="ind" %}} | ["Debora dan Yael": berada di bawah kekuasaan asing yang menindas mereka](/id/expl/content/bowls/the-key-to-armageddon#adae) |

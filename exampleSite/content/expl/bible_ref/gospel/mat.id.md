@@ -4,7 +4,7 @@ weight: 39
 docType: expl
 ---
 
-78 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+80 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -19,10 +19,9 @@ docType: expl
 | {{% bible val="Matius 3:12" link="mat:3,12" lang="ind" %}} | ["Kedua Tuaian": pembakaran sekam](/id/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |
 | {{% bible val="Matius 4:1-11" link="mat:4,1-11" lang="ind" %}} | ["Beberapa Dasar": Yesus berpuasa 40 hari di padang gurun, menghadapi tantangan-tantangan yang sama](/id/expl/content/beasts/666-the-number-of-the-beast#74d6) |
 | {{% bible val="Matius 4:1-11" link="mat:4,1-11" lang="ind" %}} | ["Akhirnya, Kisahnya": Iblis mencoba mencobai-Nya](/id/expl/content/jesus/a-different-christmas-story#fb36) |
-| {{% bible val="Matius 4:11" link="mat:4,11" lang="ind" %}} | ["Asumsi-Asumsi": Iblis, misalnya, adalah pihak yang meninggalkan Yesus setelah pencobaan](/id/expl/topics/others/the-rapture#7b1d) |
 | {{% bible val="Matius 5:3" link="mat:5,3" lang="ind" %}} | ["Ajaran-Ajaran Yesus": Orang yang miskin di hadapan Allah akan menerima Kerajaan](/id/expl/background/israel/jesus-and-the-covenant#221c) |
-| {{% bible val="Matius 5:4" link="mat:5,4" lang="ind" %}} | ["Ajaran-Ajaran Yesus": Orang yang berdukacita akan dihibur (dengan kelahiran kembali bangsa itu)](/id/expl/background/israel/jesus-and-the-covenant#221c) |
-| {{% bible val="Matius 5:5" link="mat:5,5" lang="ind" %}} | ["Ajaran-Ajaran Yesus": Orang yang lemah lembut akan mewarisi tanah itu](/id/expl/background/israel/jesus-and-the-covenant#221c) |
+| {{% bible val="Matius 5:4" link="mat:5,4" lang="ind" %}} | ["Ajaran-Ajaran Yesus": Orang yang berdukacita akan dihibur](/id/expl/background/israel/jesus-and-the-covenant#221c) |
+| {{% bible val="Matius 5:5" link="mat:5,5" lang="ind" %}} | ["Ajaran-Ajaran Yesus": Orang yang lemah lembut akan mewarisi bumi](/id/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Matius 5:8" link="mat:5,8" lang="ind" %}} | ["Ajaran-Ajaran Yesus": Orang yang suci hatinya akan melihat Allah](/id/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Matius 5:9" link="mat:5,9" lang="ind" %}} | ["Ajaran-Ajaran Yesus": Orang yang membawa damai adalah mereka yang disebut anak-anak Allah](/id/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Matius 6:24" link="mat:6,24" lang="ind" %}} | ["Pax Romana dan Orang Kristen": engkau hanya dapat mengabdi kepada satu tuan](/id/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation#3005) |
@@ -65,18 +64,21 @@ docType: expl
 | {{% bible val="Matius 20:20-28" link="mat:20,20-28" lang="ind" %}} | ["Kerajaan Seribu Tahun": Pemerintahan](/id/expl/content/1000y/the-thousand-year-kingdom) |
 | {{% bible val="Matius 20:25-28" link="mat:20,25-28" lang="ind" %}} | ["Tetapi Masih Ada Lagi": dengan melayani, bukan dengan menguasai](/id/expl/bible/daniel/the-four-kingdoms-in-daniel#e6a6) |
 | {{% bible val="Matius 20:25-28" link="mat:20,25-28" lang="ind" %}} | ["Jadi siapa yang memerintah, atas siapa, dan di mana?": Yesus tidak memakai kuasa-Nya dengan cara itu](/id/expl/content/1000y/the-thousand-year-kingdom#6f12) |
-| {{% bible val="Matius 21:33-45" link="mat:21,33-45" lang="ind" %}} | ["Ajaran-Ajaran Yesus": menggunakan kembali perumpamaan ini dengan penghakiman untuk membinasakan Israel sepenuhnya jika mereka menolak Dia](/id/expl/background/israel/jesus-and-the-covenant#221c) |
+| {{% bible val="Matius 21:33-45" link="mat:21,33-45" lang="ind" %}} | ["Ajaran-Ajaran Yesus": menggunakan kembali perumpamaan ini](/id/expl/background/israel/jesus-and-the-covenant#221c) |
+| {{% bible val="Matius 21:38-43" link="mat:21,38-43" lang="ind" %}} | ["Ajaran-Ajaran Yesus": 21:38–43](/id/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Matius 22:36-39" link="mat:22,36-39" lang="ind" %}} | ["Sisi Gelapnya": kasih itu sendirilah kebaikan yang lebih besar](/id/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
 | {{% bible val="Matius 24" link="mat:24" lang="ind" %}} | ["Sebuah Apokalips": Matius 24](/id/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
 | {{% bible val="Matius 24" link="mat:24" lang="ind" %}} | ["Pohon Ara dan Tahun 1948": 24](/id/expl/topics/others/the-rapture#fb48) |
 | {{% bible val="Matius 24:3" link="mat:24,3" lang="ind" %}} | ["Ia Datang bersama Awan-Awan": Yesus berbicara tentang akhir zaman](/id/expl/content/vision/setting-the-foundation#aaf2) |
 | {{% bible val="Matius 24:4-8" link="mat:24,4-8" lang="ind" %}} | ["Rahasia Penunggang Kuda Pertama": Injil Matius](/id/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="Matius 24:12-14" link="mat:24,12-14" lang="ind" %}} | ["Masalahnya": Matius 24:12](/id/expl/content/letters/the-letter-to-the-church-in-ephesus#6de6) |
+| {{% bible val="Matius 24:15" link="mat:24,15" lang="ind" %}} | ["Keempat Kerajaan Itu": Mat. 24:15](/id/expl/bible/daniel/the-four-kingdoms-in-daniel#c9a9) |
 | {{% bible val="Matius 24:21" link="mat:24,21" lang="ind" %}} | ["Futurisme": peringatan Yesus sendiri](/id/expl/background/literature/preterist-historicist-futurist-or-idealist#f3c4) |
 | {{% bible val="Matius 24:21" link="mat:24,21" lang="ind" %}} | ["Kesengsaraan Besar": Injil Matius](/id/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Matius 24:29-31" link="mat:24,29-31" lang="ind" %}} | ["Pascatribulasi": ajaran akhir zaman Yesus sendiri](/id/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pot4d) |
 | {{% bible val="Matius 24:30" link="mat:24,30" lang="ind" %}} | ["Ia Datang bersama Awan-Awan": Injil Matius](/id/expl/content/vision/setting-the-foundation#aaf2) |
 | {{% bible val="Matius 24:32" link="mat:24,32" lang="ind" %}} | ["Pohon Ara dan Tahun 1948": perumpamaan tentang pohon ara](/id/expl/topics/others/the-rapture#fb48) |
+| {{% bible val="Matius 24:32-33" link="mat:24,32-33" lang="ind" %}} | ["Pohon Ara dan Tahun 1948": kamu tahu bahwa Dia sudah dekat](/id/expl/topics/others/the-rapture#fb48) |
 | {{% bible val="Matius 24:36" link="mat:24,36" lang="ind" %}} | ["Konteksnya": sebagaimana dikatakan ayat tepat sebelum bagian ini](/id/expl/topics/others/the-rapture#3b92) |
 | {{% bible val="Matius 24:37-42" link="mat:24,37-42" lang="ind" %}} | ["Mereka yang Ditinggalkan": Sebab sebagaimana halnya pada zaman Nuh, demikian pula halnya kelak pada kedatangan Anak Manusia. Sebab sebagaimana mereka pada zaman sebelum air bah itu makan dan minum, kawin dan mengawinkan, sampai kepada hari Nuh masuk ke dalam bahtera, dan mereka tidak tahu akan sesuatu, sebelum air bah itu datang dan melenyapkan mereka semua, demikian pulalah halnya kelak pada kedatangan Anak Manusia. Pada waktu itu kalau ada dua orang di ladang, yang seorang akan dibawa dan yang seorang akan ditinggalkan; dan kalau ada dua orang perempuan sedang memutar batu kilangan, yang seorang akan dibawa dan yang seorang akan ditinggalkan. Karena itu berjaga-jagalah, sebab kamu tidak tahu pada hari mana Tuhanmu datang.](/id/expl/topics/others/the-rapture#e8c4) |
 | {{% bible val="Matius 25" link="mat:25" lang="ind" %}} | ["Pohon Ara dan Tahun 1948": 25](/id/expl/topics/others/the-rapture#fb48) |

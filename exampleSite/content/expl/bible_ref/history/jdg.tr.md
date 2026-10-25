@@ -4,12 +4,13 @@ weight: 6
 docType: expl
 ---
 
-Bu kitapta kullanılan 10 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 11 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
 | {{% bible val="Hakimler 2:6-22" link="jdg:2,6-22" lang="tr" %}} | ["Rab'bin Günü'nün kökeni": birçok iniş çıkıştan sonra](/tr/expl/background/israel/the-day-of-the-lord#45df) |
 | {{% bible val="Hakimler 3:7-16" link="jdg:3,7-16" lang="tr" %}} | ["Simetrik örüntüler": Hak 3:7–16:31](/tr/expl/background/literature/literary-tools-in-the-book-of-revelation#f356) |
+| {{% bible val="Hakimler 3:12-30" link="jdg:3,12-30" lang="tr" %}} | ["Öne Çıkan Konumlar": Hak. 3:12–30](/tr/expl/background/literature/literary-tools-in-the-book-of-revelation#6923) |
 | {{% bible val="Hakimler 4" link="jdg:4" lang="tr" %}} | ["Debora ve Yael": Debora ve Barak'la](/tr/expl/content/bowls/the-key-to-armageddon#8338) |
 | {{% bible val="Hakimler 4" link="jdg:4" lang="tr" %}} | ["Armagedon": Hakimler 4](/tr/quick/content/bowls#armagedon) |
 | {{% bible val="Hakimler 4:1-3" link="jdg:4,1-3" lang="tr" %}} | ["Debora ve Yael": kendisine baskı yapan yabancı bir yönetici altındaydı](/tr/expl/content/bowls/the-key-to-armageddon#8338) |

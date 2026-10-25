@@ -4,12 +4,14 @@ weight: 13
 docType: expl
 ---
 
-11 bible verses have been used in this book.
+13 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
+| {{% bible val="2.Chronicles 1" link="2ch:1" lang="en" %}} | ["Positions of Prominence": 2 Chr. 1–9](/expl/background/literature/literary-tools-in-the-book-of-revelation#e6b3) |
 | {{% bible val="2.Chronicles 2:13-14" link="2ch:2,13-14" lang="en" %}} | ["The religious aspect": but also in the temple](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="2.Chronicles 21:13" link="2ch:21,13" lang="en" %}} | ["The Harlot": 2 Chr 21:13](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
+| {{% bible val="2.Chronicles 30:1-11" link="2ch:30,1-11" lang="en" %}} | ["The battle of Carchemish and its consequences": 2 Chr 30:1–11](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#ae51) |
 | {{% bible val="2.Chronicles 35:20-24" link="2ch:35,20-24" lang="en" %}} | ["Armageddon and Carchemish": Chronicles says he went out although Necho's words came from the mouth of God, and he would not listen](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#3991) |
 | {{% bible val="2.Chronicles 35:20-24" link="2ch:35,20-24" lang="en" %}} | ["Armageddon": 2 Chronicles 35:20-24](/quick/content/bowls#armageddon) |
 | {{% bible val="2.Chronicles 35:20-25" link="2ch:35,20-25" lang="en" %}} | ["The story before Carchemish": there was a battle near Megiddo where Josiah, king of Judah, fought against Necho, Pharaoh of Egypt](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#9897) |

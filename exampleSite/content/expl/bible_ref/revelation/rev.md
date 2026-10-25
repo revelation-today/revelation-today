@@ -4,7 +4,7 @@ weight: 65
 docType: expl
 ---
 
-1164 bible verses have been used in this book.
+1236 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -71,6 +71,7 @@ docType: expl
 | {{% bible val="Revelation 1:20" link="rev:1,20" lang="en" %}} | ["The Daniel frame": seven stars and lampstands](/expl/background/literature/literally-or-symbolic#c39c) |
 | {{% bible val="Revelation 1:20" link="rev:1,20" lang="en" %}} | ["Conclusion": The seven lampstands are the seven churches](/expl/background/literature/literally-or-symbolic#44ce) |
 | {{% bible val="Revelation 1:20" link="rev:1,20" lang="en" %}} | ["Jesus' view": chapter 1](/expl/content/letters/the-letter-to-the-church-in-ephesus#c6bc) |
+| {{% bible val="Revelation 1:20" link="rev:1,20" lang="en" %}} | ["The solution": 1:20](/expl/content/letters/the-letter-to-the-church-in-ephesus#88fa) |
 | {{% bible val="Revelation 1:20" link="rev:1,20" lang="en" %}} | ["The base": they are the seven churches](/expl/content/vision/setting-the-foundation#65e2) |
 | {{% bible val="Revelation 1:20" link="rev:1,20" lang="en" %}} | ["The interpretation": mystery of the lampstands and stars is solved](/expl/content/vision/the-vision#b723) |
 | {{% bible val="Revelation 1:20" link="rev:1,20" lang="en" %}} | ["The identity of the two witnesses": to the seven churches, which are identified with the lampstands](/expl/content/witnesses/the-two-witnesses#3181) |
@@ -115,6 +116,7 @@ docType: expl
 | {{% bible val="Revelation 2:12-17" link="rev:2,12-17" lang="en" %}} | ["The letter to the church in Pergamon": The church in Pergamon](/expl/content/letters/the-letter-to-the-church-in-pergamon) |
 | {{% bible val="Revelation 2:13" link="rev:2,13" lang="en" %}} | ["In Revelation": one of its members has been killed for his faith](/expl/bible/keyword/the-story-of-balaam#6bd5) |
 | {{% bible val="Revelation 2:13" link="rev:2,13" lang="en" %}} | ["Jesus' view": where Satan dwells and has his throne](/expl/content/letters/the-letter-to-the-church-in-pergamon#84e8) |
+| {{% bible val="Revelation 2:13-15" link="rev:2,13-15" lang="en" %}} | ["The structure of the letters": 2:13–15](/expl/content/letters/the-letters-to-the-seven-churches#4b58) |
 | {{% bible val="Revelation 2:14" link="rev:2,14" lang="en" %}} | ["Pax Romana and Christians": Rev 2:14](/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation#8c56) |
 | {{% bible val="Revelation 2:14" link="rev:2,14" lang="en" %}} | ["The story of Balaam": Nevertheless, I have a few things against you: there are some among you who hold to the teaching of Balaam, who taught Balak to entice the Israelites to sin so that they ate food sacrificed to idols and committed sexual immorality.](/expl/bible/keyword/the-story-of-balaam) |
 | {{% bible val="Revelation 2:14" link="rev:2,14" lang="en" %}} | ["In Revelation": Some in the church taught that a believer could go](/expl/bible/keyword/the-story-of-balaam#6bd5) |
@@ -141,9 +143,12 @@ docType: expl
 | {{% bible val="Revelation 2:20-22" link="rev:2,20-22" lang="en" %}} | ["The religious aspect": Thyatira was through Jezebel](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation 2:21-22" link="rev:2,21-22" lang="en" %}} | ["The solution": All of Jezebel's followers will suffer, in the hope that they will be moved to repent](/expl/content/letters/the-letter-to-the-church-in-thyatira#09f8) |
 | {{% bible val="Revelation 2:22" link="rev:2,22" lang="en" %}} | ["The great tribulation": The term itself is taken up as a warning to the church in Thyatira, in a judgment on its leader, identified as Jezebel](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
+| {{% bible val="Revelation 2:22" link="rev:2,22" lang="en" %}} | ["The great tribulation": 2:22](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Revelation 2:23" link="rev:2,23" lang="en" %}} | ["The Harlot": Rev 2:23](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation 2:23" link="rev:2,23" lang="en" %}} | ["The letter to the church in Thyatira": all the churches will know that I am he who searches hearts and minds](/expl/content/letters/the-letter-to-the-church-in-thyatira) |
 | {{% bible val="Revelation 2:23" link="rev:2,23" lang="en" %}} | ["The solution": This suffering will serve as a warning to every other church](/expl/content/letters/the-letter-to-the-church-in-thyatira#09f8) |
+| {{% bible val="Revelation 2:23" link="rev:2,23" lang="en" %}} | ["The structure of the letters": 2:23](/expl/content/letters/the-letters-to-the-seven-churches#4b58) |
+| {{% bible val="Revelation 2:23" link="rev:2,23" lang="en" %}} | ["The structure of the letters": 2:23](/expl/content/letters/the-letters-to-the-seven-churches#4b58) |
 | {{% bible val="Revelation 2:24-25" link="rev:2,24-25" lang="en" %}} | ["The solution": cling to Jesus and remain faithful](/expl/content/letters/the-letter-to-the-church-in-thyatira#09f8) |
 | {{% bible val="Revelation 2:26-27" link="rev:2,26-27" lang="en" %}} | ["The overcomer": Thyatira](/expl/content/paradise/the-new-jerusalem#e8f9) |
 | {{% bible val="Revelation 2:28" link="rev:2,28" lang="en" %}} | ["These tools in Revelation": 2:28](/expl/background/literature/literary-tools-in-the-book-of-revelation#r3v1) |
@@ -154,6 +159,7 @@ docType: expl
 | {{% bible val="Revelation 3:1" link="rev:3,1" lang="en" %}} | ["The combination 4x7": 3:1](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#3f68) |
 | {{% bible val="Revelation 3:1" link="rev:3,1" lang="en" %}} | ["Crux 1: two comings to life, one verb": you have a name that you are alive, and you are dead](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Revelation 3:1" link="rev:3,1" lang="en" %}} | ["Jesus' view": approaches this church as the one who holds the fullness of the Spirit and the seven stars — the angels of the churches](/expl/content/letters/the-letter-to-the-church-in-sardis#87a6) |
+| {{% bible val="Revelation 3:1" link="rev:3,1" lang="en" %}} | ["The structure of the letters": 3:1](/expl/content/letters/the-letters-to-the-seven-churches#4b58) |
 | {{% bible val="Revelation 3:1" link="rev:3,1" lang="en" %}} | ["The background and context": In the letter to Sardis](/expl/content/worship/worship-in-the-throne-room#3c72) |
 | {{% bible val="Revelation 3:1" link="rev:3,1" lang="en" %}} | ["The Core Teaching": Rev 3:1](/sermons/deep-dive/intro/05-not-chaos-but-design#the-core-teaching) |
 | {{% bible val="Revelation 3:1-2" link="rev:3,1-2" lang="en" %}} | ["The problem": as dead, in need of waking up before what remains also dies](/expl/content/letters/the-letter-to-the-church-in-sardis#8872) |
@@ -201,12 +207,14 @@ docType: expl
 | {{% bible val="Revelation 4" link="rev:4" lang="en" %}} | ["Worship (Ch. 4-5)": Chapter 4](/quick/content/worship) |
 | {{% bible val="Revelation 4:1" link="rev:4,1" lang="en" %}} | ["The Daniel frame": I will show you what must take place after this](/expl/background/literature/literally-or-symbolic#c39c) |
 | {{% bible val="Revelation 4:1" link="rev:4,1" lang="en" %}} | ["deiknumi": The angel shows him the heavenly throne room](/expl/background/literature/literally-or-symbolic#08d2) |
+| {{% bible val="Revelation 4:1" link="rev:4,1" lang="en" %}} | ["A letter": 4:1–22:5](/expl/background/literature/the-book-of-revelation-how-to-read-it#letter) |
 | {{% bible val="Revelation 4:1" link="rev:4,1" lang="en" %}} | ["The background and context": introduction to the throne room](/expl/content/worship/worship-in-the-throne-room#3c72) |
 | {{% bible val="Revelation 4:1" link="rev:4,1" lang="en" %}} | ["The background and context": Revelation](/expl/content/worship/worship-in-the-throne-room#3c72) |
 | {{% bible val="Revelation 4:1" link="rev:4,1" lang="en" %}} | ["Pre-tribulational": from chapter 4 until the last verses of Revelation](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pt1a) |
+| {{% bible val="Revelation 4:1" link="rev:4,1" lang="en" %}} | [Revelation 4:1](/expl/topics/others/the-rapture#11c1) |
 | {{% bible val="Revelation 4:1" link="rev:4,1" lang="en" %}} | ["The Core Teaching": Revelation 4:1](/sermons/deep-dive/intro/03-symbol-or-literal#the-core-teaching) |
 | {{% bible val="Revelation 4:1-2" link="rev:4,1-2" lang="en" %}} | ["The background and context": Start of the vision here in the throne room](/expl/content/worship/worship-in-the-throne-room#3c72) |
-| {{% bible val="Revelation 4:1-2" link="rev:4,1-2" lang="en" %}} | ["Is Revelation 4:1 the rapture?": After this I looked, and there before me was a door standing open in heaven. And the voice I had first heard speaking to me like a trumpet said, ‘Come up here, and I will show you what must take place after this.’ At once I was in the Spirit, and there before me was a throne in heaven with someone sitting on it.](/expl/topics/others/the-rapture#d1b5) |
+| {{% bible val="Revelation 4:1-2" link="rev:4,1-2" lang="en" %}} | ["Revelation 4:1": After this I looked, and there before me was a door standing open in heaven. And the voice I had first heard speaking to me like a trumpet said, ‘Come up here, and I will show you what must take place after this.’ At once I was in the Spirit, and there before me was a throne in heaven with someone sitting on it.](/expl/topics/others/the-rapture#d1b5) |
 | {{% bible val="Revelation 4:2" link="rev:4,2" lang="en" %}} | ["The background and context": Revelation](/expl/content/worship/worship-in-the-throne-room#3c72) |
 | {{% bible val="Revelation 4:2" link="rev:4,2" lang="en" %}} | ["The background and context": Revelation](/expl/content/worship/worship-in-the-throne-room#3c72) |
 | {{% bible val="Revelation 4:3" link="rev:4,3" lang="en" %}} | ["The background and context": Revelation](/expl/content/worship/worship-in-the-throne-room#3c72) |
@@ -243,6 +251,7 @@ docType: expl
 | {{% bible val="Revelation 5:5" link="rev:5,5" lang="en" %}} | ["The background and context": Revelation](/expl/content/worship/worship-in-the-throne-room#3c72) |
 | {{% bible val="Revelation 5:5-6" link="rev:5,5-6" lang="en" %}} | ["deiknumi": different images describing the same underlying reality symbolically](/expl/background/literature/literally-or-symbolic#08d2) |
 | {{% bible val="Revelation 5:5-6" link="rev:5,5-6" lang="en" %}} | ["The army of God": lion of Judah is identified as a lamb being slaughtered](/expl/content/army/the-144000#2cd4) |
+| {{% bible val="Revelation 5:5-6" link="rev:5,5-6" lang="en" %}} | ["Conclusion": Revelation 5:5–6](/expl/content/bowls/the-key-to-armageddon#c932) |
 | {{% bible val="Revelation 5:5-6" link="rev:5,5-6" lang="en" %}} | ["The pattern: overcoming through weakness": the lion who turns out to be the lamb](/expl/content/jesus/a-different-christmas-story#the-pattern-overcoming-through-weakness) |
 | {{% bible val="Revelation 5:5-6" link="rev:5,5-6" lang="en" %}} | ["The perspective": going through death into resurrection and appearing as one who was slain](/expl/content/letters/the-letter-to-the-church-in-smyrna#1a16) |
 | {{% bible val="Revelation 5:5-7" link="rev:5,5-7" lang="en" %}} | ["The book with the seven seals": But there is one who can open it: the Lion of Judah — the ancient title from Jacob's blessing over Judah's line, the ruler whose scepter would not depart until the obedience of all peoples belongs to him. That's what John hears — but what he sees is a slaughtered lamb. The two are aspects of the same reality: the apparently helpless lamb is the victorious, invincible lion](/expl/content/worship/the-book-with-the-seven-seals#92c0) |
@@ -253,6 +262,7 @@ docType: expl
 | {{% bible val="Revelation 5:6" link="rev:5,6" lang="en" %}} | ["What actually carries the theme": a Lamb standing as though it had been slain](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Revelation 5:6" link="rev:5,6" lang="en" %}} | ["The twofold attack": lamb](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Revelation 5:6" link="rev:5,6" lang="en" %}} | ["The structure of the chapter": lamb](/expl/content/paradise/the-new-jerusalem#aecd) |
+| {{% bible val="Revelation 5:6" link="rev:5,6" lang="en" %}} | ["The mystery of the third horseman": 5:6](/expl/content/seals/the-mystery-of-the-four-horse-men#b488) |
 | {{% bible val="Revelation 5:6" link="rev:5,6" lang="en" %}} | ["The background and context": description of the eyes of the Lamb](/expl/content/worship/worship-in-the-throne-room#3c72) |
 | {{% bible val="Revelation 5:6-14" link="rev:5,6-14" lang="en" %}} | ["The solution": because he is God, he is worthy of receiving worship](/expl/bible/daniel/the-son-of-man-and-the-remnant#77b0) |
 | {{% bible val="Revelation 5:6-14" link="rev:5,6-14" lang="en" %}} | ["Defeat turned into victory": he therefore triumphs](/expl/content/witnesses/the-two-witnesses#3181) |
@@ -288,12 +298,15 @@ docType: expl
 | {{% bible val="Revelation 6:1-8" link="rev:6,1-8" lang="en" %}} | ["The text": Rev 6:1–8](/expl/content/seals/the-mystery-of-the-four-horse-men#3b7c) |
 | {{% bible val="Revelation 6:1-11" link="rev:6,1-11" lang="en" %}} | ["The bowls": how can people go on trusting someone who, in the end, brings nothing but destruction?](/expl/content/bowls/the-bowls-of-wrath#7ced) |
 | {{% bible val="Revelation 6:2" link="rev:6,2" lang="en" %}} | ["Not every white horse brings rescue": Revelation 6:2](/appl/content/seals) |
+| {{% bible val="Revelation 6:2" link="rev:6,2" lang="en" %}} | ["The Trumpets": 6:2](/expl/background/structure/the-structure-of-the-book-of-revelation#c56a) |
 | {{% bible val="Revelation 6:2" link="rev:6,2" lang="en" %}} | ["Arithmetic": conquering](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#6395) |
 | {{% bible val="Revelation 6:2" link="rev:6,2" lang="en" %}} | ["A rider who doesn't seem to belong": 'I looked, and there before me was a white horse! Its rider held a bow, and he was given a crown, and he rode out as a conqueror bent on conquest.'](/sermons/prosperity-gospel-module/worship-and-seals/01-the-first-horsemans-fake-gospel#a-rider-who-doesnt-seem-to-belong) |
 | {{% bible val="Revelation 6:4-8" link="rev:6,4-8" lang="en" %}} | ["Arithmetic": 6:4–8](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#6395) |
 | {{% bible val="Revelation 6:5-6" link="rev:6,5-6" lang="en" %}} | ["The great tribulation": for the third horseman](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Revelation 6:5-6" link="rev:6,5-6" lang="en" %}} | ["Is Babel the apostate church?": abuse of the weak](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation 6:8" link="rev:6,8" lang="en" %}} | ["But aren't there also differences?": place of death, which can be on earth](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
+| {{% bible val="Revelation 6:8" link="rev:6,8" lang="en" %}} | ["First observations": Rev 6:8](/expl/content/seals/the-mystery-of-the-four-horse-men#0edc) |
+| {{% bible val="Revelation 6:8" link="rev:6,8" lang="en" %}} | ["The resolution": Rev 6:8](/expl/content/seals/the-mystery-of-the-four-horse-men#6235) |
 | {{% bible val="Revelation 6:9" link="rev:6,9" lang="en" %}} | ["What actually carries the theme": the souls of those who had been slain](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Revelation 6:9" link="rev:6,9" lang="en" %}} | ["Will we be beheaded?": parallel with the souls under the altar](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
 | {{% bible val="Revelation 6:9" link="rev:6,9" lang="en" %}} | ["Pre-tribulational": those slain because of the word of God](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pt1a) |
@@ -305,6 +318,8 @@ docType: expl
 | {{% bible val="Revelation 6:9-11" link="rev:6,9-11" lang="en" %}} | ["The seven seals": fifth seal, where the prayers of the saints come into focus](/expl/content/worship/the-book-with-the-seven-seals#4f8c) |
 | {{% bible val="Revelation 6:9-11" link="rev:6,9-11" lang="en" %}} | ["The seven seals": 6:9–11](/expl/content/worship/the-book-with-the-seven-seals#4f8c) |
 | {{% bible val="Revelation 6:10" link="rev:6,10" lang="en" %}} | ["Crux 1: two comings to life, one verb": how long until you judge and avenge our blood?](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Revelation 6:10" link="rev:6,10" lang="en" %}} | ["The resolution": 6:10](/expl/content/seals/the-mystery-of-the-four-horse-men#6235) |
+| {{% bible val="Revelation 6:11" link="rev:6,11" lang="en" %}} | ["The resolution": 6:11](/expl/content/seals/the-mystery-of-the-four-horse-men#6235) |
 | {{% bible val="Revelation 6:12-17" link="rev:6,12-17" lang="en" %}} | ["In sequence or retold?": 6:12–17](/expl/background/structure/the-structure-of-the-book-of-revelation#chiasm) |
 | {{% bible val="Revelation 6:12-17" link="rev:6,12-17" lang="en" %}} | ["The wrath of the Lamb": I watched as he opened the sixth seal. There was a great earthquake. The sun turned black like sackcloth made of goat hair, the whole moon turned blood red, and the stars in the sky fell to earth, as figs drop from a fig-tree when shaken by a strong wind. The heavens receded like a scroll being rolled up, and every mountain and island was removed from its place. Then the kings of the earth, the princes, the generals, the rich, the mighty, and everyone else, both slave and free, hid in caves and among the rocks of the mountains. They called to the mountains and the rocks, ‘Fall on us and hide us from the face of him who sits on the throne and from the wrath of the Lamb! For the great day of their wrath has come, and who can withstand it?’](/expl/content/seals/the-wrath-of-the-lamb) |
 | {{% bible val="Revelation 6:12-17" link="rev:6,12-17" lang="en" %}} | ["The seven seals": What follows is cosmic upheaval, met by universal terror: everyone from kings to slaves hides and begs to be sheltered from the wrath of the Lamb — the same Lamb who was just pictured as slain. The one who conquered by dying is also the one whose coming wrath none can survive.](/expl/content/worship/the-book-with-the-seven-seals#4f8c) |
@@ -339,6 +354,7 @@ docType: expl
 | {{% bible val="Revelation 7:9-17" link="rev:7,9-17" lang="en" %}} | ["Heaven and the New Jerusalem": seven](/expl/content/paradise/heaven-and-hell#8183) |
 | {{% bible val="Revelation 7:9-17" link="rev:7,9-17" lang="en" %}} | ["The structure of the chapter": worshipers from every nation, coming out of the Great Tribulation](/expl/content/paradise/the-new-jerusalem#aecd) |
 | {{% bible val="Revelation 7:14" link="rev:7,14" lang="en" %}} | ["The great tribulation": book of Revelation](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
+| {{% bible val="Revelation 7:14" link="rev:7,14" lang="en" %}} | ["The great tribulation": 7:14](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Revelation 7:15-17" link="rev:7,15-17" lang="en" %}} | ["The army of God": are now comforted by God](/expl/content/army/the-144000#2cd4) |
 | {{% bible val="Revelation 8" link="rev:8" lang="en" %}} | ["Suffering alone won't change your heart": Revelation 8](/appl/content/trumpets) |
 | {{% bible val="Revelation 8" link="rev:8" lang="en" %}} | ["Loud Trumpets, Big Warnings": Revelation 8–9](/kids/early-childhood/07-loud-trumpets-big-warnings) |
@@ -354,11 +370,13 @@ docType: expl
 | {{% bible val="Revelation 8:7-12" link="rev:8,7-12" lang="en" %}} | ["The number 4": in the first four trumpets](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#3175) |
 | {{% bible val="Revelation 8:8" link="rev:8,8" lang="en" %}} | ["The first four trumpets": a mountain, ablaze, hurled into the sea](/expl/content/trumpets/the-trumpets-in-revelation#8718) |
 | {{% bible val="Revelation 8:8-9" link="rev:8,8-9" lang="en" %}} | ["The first four trumpets": The second trumpet](/expl/content/trumpets/the-trumpets-in-revelation#8718) |
+| {{% bible val="Revelation 8:8-9" link="rev:8,8-9" lang="en" %}} | ["A literal reading that isn't consistently literal": Rev 8:8–9](/expl/topics/others/dispensionalism-and-its-critic#dac4) |
 | {{% bible val="Revelation 8:10-11" link="rev:8,10-11" lang="en" %}} | ["The first four trumpets": The third trumpet](/expl/content/trumpets/the-trumpets-in-revelation#8718) |
 | {{% bible val="Revelation 8:12-13" link="rev:8,12-13" lang="en" %}} | ["The first four trumpets": The fourth trumpet](/expl/content/trumpets/the-trumpets-in-revelation#8718) |
 | {{% bible val="Revelation 9" link="rev:9" lang="en" %}} | ["Suffering alone won't change your heart": 9](/appl/content/trumpets) |
 | {{% bible val="Revelation 9" link="rev:9" lang="en" %}} | ["The sealing of the church": chapter 9](/quick/content/army#the-sealing-of-the-church) |
 | {{% bible val="Revelation 9" link="rev:9" lang="en" %}} | ["The trumpets (Ch. 8-9)": 9](/quick/content/trumpets) |
+| {{% bible val="Revelation 9:1-5" link="rev:9,1-5" lang="en" %}} | ["Some common misunderstandings about judgment": 9:1–5](/expl/topics/others/judgment-in-the-book-of-revelation#1ae8) |
 | {{% bible val="Revelation 9:1-12" link="rev:9,1-12" lang="en" %}} | ["The fifth and sixth trumpet": The fifth trumpet](/expl/content/trumpets/the-trumpets-in-revelation#403f) |
 | {{% bible val="Revelation 9:4" link="rev:9,4" lang="en" %}} | ["In Revelation": God's people are kept safe in the middle of them](/expl/bible/exodus/the-plagues-in-egypt#e181) |
 | {{% bible val="Revelation 9:4" link="rev:9,4" lang="en" %}} | ["Why the plagues of Egypt?": those who did not have the seal of God on their foreheads](/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
@@ -380,6 +398,8 @@ docType: expl
 | {{% bible val="Revelation 10" link="rev:10" lang="en" %}} | [Revelation 10](/kids/elementary/08-the-little-scroll#revelation-10) |
 | {{% bible val="Revelation 10" link="rev:10" lang="en" %}} | ["Rev. 10: Sweet in Your Mouth, Sour in Your Stomach": Revelation 10](/kids/teens/09-sweet-in-your-mouth-sour-in-your-stomach) |
 | {{% bible val="Revelation 10" link="rev:10" lang="en" %}} | ["The small scroll (Ch. 10)": Chapter 10](/quick/content/scroll) |
+| {{% bible val="Revelation 10:1" link="rev:10,1" lang="en" %}} | ["The Answer":  10:1–11:14](/expl/background/structure/the-structure-of-the-book-of-revelation#b85e) |
+| {{% bible val="Revelation 10:1" link="rev:10,1" lang="en" %}} | ["The book at a glance": 10:1–11:14](/expl/background/structure/the-structure-of-the-book-of-revelation#outline) |
 | {{% bible val="Revelation 10:1" link="rev:10,1" lang="en" %}} | ["A little word with big consequences": with the angel with the little scroll](/expl/content/1000y/the-thousand-year-kingdom#ed7b) |
 | {{% bible val="Revelation 10:2" link="rev:10,2" lang="en" %}} | ["A bag full of references": Rev 10:2](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a878) |
 | {{% bible val="Revelation 10:2" link="rev:10,2" lang="en" %}} | ["The witnesses and the beasts": heaven and earth](/expl/content/witnesses/the-two-witnesses#3181) |
@@ -387,6 +407,7 @@ docType: expl
 | {{% bible val="Revelation 10:5" link="rev:10,5" lang="en" %}} | ["The small scroll (Ch. 10)": Revelation 10:5](/quick/content/scroll) |
 | {{% bible val="Revelation 10:6" link="rev:10,6" lang="en" %}} | ["The combination 4x7": 10:6](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#3f68) |
 | {{% bible val="Revelation 10:7" link="rev:10,7" lang="en" %}} | ["The Daniel frame": God](/expl/background/literature/literally-or-symbolic#c39c) |
+| {{% bible val="Revelation 10:7" link="rev:10,7" lang="en" %}} | ["The Trumpets": 10:7](/expl/background/structure/the-structure-of-the-book-of-revelation#c56a) |
 | {{% bible val="Revelation 10:7" link="rev:10,7" lang="en" %}} | ["The angel with the scroll": the mystery of God will be finished, as he announced to his servants the prophets](/expl/content/scroll/the-little-scroll#6058) |
 | {{% bible val="Revelation 10:7" link="rev:10,7" lang="en" %}} | ["The Core Teaching": God](/sermons/deep-dive/intro/03-symbol-or-literal#the-core-teaching) |
 | {{% bible val="Revelation 10:7" link="rev:10,7" lang="en" %}} | ["The Core Teaching": God](/sermons/deep-dive/intro/06-the-three-mysteries#the-core-teaching) |
@@ -457,6 +478,8 @@ docType: expl
 | {{% bible val="Revelation 11:8-11" link="rev:11,8-11" lang="en" %}} | ["The heritage": But this is not their defeat because they will be resurrected like Jesus](/expl/bible/daniel/the-son-of-man-and-the-remnant#833c) |
 | {{% bible val="Revelation 11:9-10" link="rev:11,9-10" lang="en" %}} | ["Defeat turned into victory": whole world celebrates because the witnesses are now silent](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation 11:9-10" link="rev:11,9-10" lang="en" %}} | ["The witnesses and the beasts": Rev 11:9-10](/expl/content/witnesses/the-two-witnesses#3181) |
+| {{% bible val="Revelation 11:10" link="rev:11,10" lang="en" %}} | ["Crux 1: two comings to life, one verb": 11:10](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Revelation 11:10" link="rev:11,10" lang="en" %}} | ["The resolution": 11:10](/expl/content/seals/the-mystery-of-the-four-horse-men#6235) |
 | {{% bible val="Revelation 11:10" link="rev:11,10" lang="en" %}} | ["Defeat turned into victory": their enemies who send gifts to each other](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation 11:11" link="rev:11,11" lang="en" %}} | ["Victory that walks through defeat": Revelation 11:11](/appl/content/witnesses) |
 | {{% bible val="Revelation 11:11" link="rev:11,11" lang="en" %}} | ["Crux 1: two comings to life, one verb": breath of life from God entered them, and they stood on their feet](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
@@ -465,10 +488,13 @@ docType: expl
 | {{% bible val="Revelation 11:11-12" link="rev:11,11-12" lang="en" %}} | ["The witnesses and the beasts": Rev 11:11-12](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation 11:12" link="rev:11,12" lang="en" %}} | ["The heritage": They are exalted like Jesus](/expl/bible/daniel/the-son-of-man-and-the-remnant#833c) |
 | {{% bible val="Revelation 11:13" link="rev:11,13" lang="en" %}} | ["The remnant in Revelation": 11:13](/expl/background/israel/the-remnant-of-israel#r4m1) |
+| {{% bible val="Revelation 11:13" link="rev:11,13" lang="en" %}} | ["The Trumpets": 11:13](/expl/background/structure/the-structure-of-the-book-of-revelation#c56a) |
+| {{% bible val="Revelation 11:13" link="rev:11,13" lang="en" %}} | ["The resolution": 11:13](/expl/content/seals/the-mystery-of-the-four-horse-men#6235) |
 | {{% bible val="Revelation 11:13" link="rev:11,13" lang="en" %}} | ["The seventh trumpet, and what comes first": a tenth of the city collapses and seven thousand people die, while the rest are overwhelmed and give glory to the God of heaven](/expl/content/trumpets/the-trumpets-in-revelation#403f) |
 | {{% bible val="Revelation 11:13" link="rev:11,13" lang="en" %}} | ["The seventh trumpet, and what comes first": The word translated 'terrified' here](/expl/content/trumpets/the-trumpets-in-revelation#403f) |
 | {{% bible val="Revelation 11:13" link="rev:11,13" lang="en" %}} | ["The seventh trumpet, and what comes first": give glory to the God of heaven](/expl/content/trumpets/the-trumpets-in-revelation#403f) |
 | {{% bible val="Revelation 11:13" link="rev:11,13" lang="en" %}} | ["Defeat turned into victory": a tenth of the city falls and 7,000 people die in the earthquake](/expl/content/witnesses/the-two-witnesses#3181) |
+| {{% bible val="Revelation 11:13" link="rev:11,13" lang="en" %}} | ["The seven seals": 11:13](/expl/content/worship/the-book-with-the-seven-seals#4f8c) |
 | {{% bible val="Revelation 11:13-14" link="rev:11,13-14" lang="en" %}} | ["The witnesses and the beasts": Rev 11:13-14](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation 11:15" link="rev:11,15" lang="en" %}} | ["Mid-tribulational": the seventh trumpet](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#mt2b) |
 | {{% bible val="Revelation 11:15-19" link="rev:11,15-19" lang="en" %}} | ["The seventh trumpet, and what comes first": The seventh trumpet](/expl/content/trumpets/the-trumpets-in-revelation#403f) |
@@ -489,6 +515,7 @@ docType: expl
 | {{% bible val="Revelation 12:1" link="rev:12,1" lang="en" %}} | ["The binding of Satan": 12](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
 | {{% bible val="Revelation 12:1" link="rev:12,1" lang="en" %}} | ["The Harlot": 12:1](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation 12:1-5" link="rev:12,1-5" lang="en" %}} | ["The story": A great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet and a crown of twelve stars on her head. She was pregnant and cried out in pain as she was about to give birth. Then another sign appeared in heaven: an enormous red dragon with seven heads and ten horns and seven crowns on its heads. Its tail swept a third of the stars out of the sky and flung them to the earth. The dragon stood in front of the woman who was about to give birth, so that it might devour her child the moment he was born. She gave birth to a son, a male child, who 'will rule all the nations with an iron sceptre.' And her child was snatched up to God and to his throne.](/expl/content/jesus/a-different-christmas-story#the-story) |
+| {{% bible val="Revelation 12:1-5" link="rev:12,1-5" lang="en" %}} | ["Finally, the story": Rev 12:1–5](/expl/content/jesus/a-different-christmas-story#finally-the-story) |
 | {{% bible val="Revelation 12:1-6" link="rev:12,1-6" lang="en" %}} | ["While reading": example](/help#while-reading) |
 | {{% bible val="Revelation 12:1-6" link="rev:12,1-6" lang="en" %}} | ["The description of the devil": He tries to destroy the child — and fails](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#4281) |
 | {{% bible val="Revelation 12:1-6" link="rev:12,1-6" lang="en" %}} | ["The 144,000": He fails to destroy the child](/expl/content/harvest/gods-army-and-the-seven-angels#6c9d) |
@@ -496,6 +523,7 @@ docType: expl
 | {{% bible val="Revelation 12:1-17" link="rev:12,1-17" lang="en" %}} | ["Other numbers": 12:1–17](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#93ae) |
 | {{% bible val="Revelation 12:3" link="rev:12,3" lang="en" %}} | ["Arithmetic": 12:3](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#6395) |
 | {{% bible val="Revelation 12:4" link="rev:12,4" lang="en" %}} | ["The fifth and sixth trumpet": demons](/expl/content/trumpets/the-trumpets-in-revelation#403f) |
+| {{% bible val="Revelation 12:5" link="rev:12,5" lang="en" %}} | ["Finally, the story": Rev 12:5](/expl/content/jesus/a-different-christmas-story#finally-the-story) |
 | {{% bible val="Revelation 12:5" link="rev:12,5" lang="en" %}} | ["Missing key words": the child is saved from the dragon](/expl/topics/others/the-rapture#7612) |
 | {{% bible val="Revelation 12:5-17" link="rev:12,5-17" lang="en" %}} | ["The witnesses and the beasts": vengeful defeat of the dragon](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation 12:6" link="rev:12,6" lang="en" %}} | ["Arithmetic": 12:6](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#6395) |
@@ -522,6 +550,7 @@ docType: expl
 | {{% bible val="Revelation 12:10" link="rev:12,10" lang="en" %}} | ["War in heaven": the accuser loses his place](/expl/content/jesus/a-different-christmas-story#war-in-heaven) |
 | {{% bible val="Revelation 12:11" link="rev:12,11" lang="en" %}} | ["Defeating the dragon was never your job": Revelation 12:11](/appl/content/jesus) |
 | {{% bible val="Revelation 12:11" link="rev:12,11" lang="en" %}} | ["Will we be beheaded?": overcomers who did not love their life (did not consider it that precious)](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
+| {{% bible val="Revelation 12:11" link="rev:12,11" lang="en" %}} | ["The pattern: overcoming through weakness": 12:11](/expl/content/jesus/a-different-christmas-story#the-pattern-overcoming-through-weakness) |
 | {{% bible val="Revelation 12:11" link="rev:12,11" lang="en" %}} | ["Why the plagues of Egypt?": triumphed by the blood of the Lamb and the word of their testimony](/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
 | {{% bible val="Revelation 12:12" link="rev:12,12" lang="en" %}} | ["The question": You might say it got worse.](/appl/topics/hero/who-rules-the-world#d62f) |
 | {{% bible val="Revelation 12:12" link="rev:12,12" lang="en" %}} | ["Arithmetic": his time is short](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#6395) |
@@ -541,6 +570,7 @@ docType: expl
 | {{% bible val="Revelation 12:14" link="rev:12,14" lang="en" %}} | ["Part 2: The 3.5 Years": 12:14](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#part-2-the-35-years) |
 | {{% bible val="Revelation 12:17" link="rev:12,17" lang="en" %}} | ["The remnant in Revelation": the rest of her offspring](/expl/background/israel/the-remnant-of-israel#r4m1) |
 | {{% bible val="Revelation 12:17" link="rev:12,17" lang="en" %}} | ["The great tribulation": against her children](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
+| {{% bible val="Revelation 12:17" link="rev:12,17" lang="en" %}} | ["The twofold attack": 12:17](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Revelation 12:17" link="rev:12,17" lang="en" %}} | ["The Harlot": 12:17](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation 12:17" link="rev:12,17" lang="en" %}} | ["The rest of her offspring": goes off to make war on the rest of her offspring](/expl/content/jesus/a-different-christmas-story#the-rest-of-her-offspring) |
 | {{% bible val="Revelation 12:17" link="rev:12,17" lang="en" %}} | ["The witnesses and the beasts": dragon](/expl/content/witnesses/the-two-witnesses#3181) |
@@ -577,6 +607,7 @@ docType: expl
 | {{% bible val="Revelation 13:1" link="rev:13,1" lang="en" %}} | ["The witnesses and the beasts": sea](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation 13:1" link="rev:13,1" lang="en" %}} | ["A literal reading that isn't consistently literal": beast will not have seven heads and ten horns](/expl/topics/others/dispensionalism-and-its-critic#dac4) |
 | {{% bible val="Revelation 13:1-2" link="rev:13,1-2" lang="en" %}} | ["There is more": the lion's mouth, the bear's feet and the leopard's body all at once](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
+| {{% bible val="Revelation 13:1-8" link="rev:13,1-8" lang="en" %}} | ["The Trumpets": 13:1–8](/expl/background/structure/the-structure-of-the-book-of-revelation#c56a) |
 | {{% bible val="Revelation 13:2" link="rev:13,2" lang="en" %}} | ["A bag full of references": Mouth of a lion](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a878) |
 | {{% bible val="Revelation 13:2" link="rev:13,2" lang="en" %}} | ["A bag full of references": Feet like a bear](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a878) |
 | {{% bible val="Revelation 13:2" link="rev:13,2" lang="en" %}} | ["A bag full of references": Body like a leopard](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a878) |
@@ -600,6 +631,7 @@ docType: expl
 | {{% bible val="Revelation 13:3-4" link="rev:13,3-4" lang="en" %}} | ["The witnesses and the beasts": The first](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation 13:3-13" link="rev:13,3-13" lang="en" %}} | ["Arithmetic": great signs](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#6395) |
 | {{% bible val="Revelation 13:4" link="rev:13,4" lang="en" %}} | ["Look closer at the imitation": Revelation 13:4](/appl/content/beasts) |
+| {{% bible val="Revelation 13:4" link="rev:13,4" lang="en" %}} | ["The twofold attack": 13:4](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Revelation 13:4" link="rev:13,4" lang="en" %}} | ["The dark side": astonished when they see the strength of the beast](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#896a) |
 | {{% bible val="Revelation 13:4" link="rev:13,4" lang="en" %}} | ["The same pattern in the horsemen and the harlot": Who can fight against the beast](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#45d1) |
 | {{% bible val="Revelation 13:4" link="rev:13,4" lang="en" %}} | ["The scarlet Beast": Who can fight against the beast](/expl/content/harlot/who-is-the-harlot-babylon-part-1#9621) |
@@ -658,6 +690,7 @@ docType: expl
 | {{% bible val="Revelation 13:11" link="rev:13,11" lang="en" %}} | ["The witnesses and the beasts": land](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation 13:11" link="rev:13,11" lang="en" %}} | ["The dragon and the two beasts (Ch. 13)": Revelation 13:11](/quick/content/beasts) |
 | {{% bible val="Revelation 13:11-15" link="rev:13,11-15" lang="en" %}} | ["The witnesses and the beasts": second](/expl/content/witnesses/the-two-witnesses#3181) |
+| {{% bible val="Revelation 13:11-17" link="rev:13,11-17" lang="en" %}} | ["The Trumpets": 13:11–17](/expl/background/structure/the-structure-of-the-book-of-revelation#c56a) |
 | {{% bible val="Revelation 13:12" link="rev:13,12" lang="en" %}} | ["The second beast": sure that the whole earth worships the first beast](/expl/content/beasts/666-the-number-of-the-beast#2f0d) |
 | {{% bible val="Revelation 13:12" link="rev:13,12" lang="en" %}} | ["The twofold attack": 13:12](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Revelation 13:12" link="rev:13,12" lang="en" %}} | ["The twofold attack": second beast speaks with the authority of the first beast](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
@@ -666,7 +699,7 @@ docType: expl
 | {{% bible val="Revelation 13:12" link="rev:13,12" lang="en" %}} | ["Is Babel the apostate church?": ideology](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation 13:12-14" link="rev:13,12-14" lang="en" %}} | ["The twofold attack": 13:12–14](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Revelation 13:12-14" link="rev:13,12-14" lang="en" %}} | ["The witnesses and the beasts": second beast](/expl/content/witnesses/the-two-witnesses#3181) |
-| {{% bible val="Revelation 13:13" link="rev:13,13" lang="en" %}} | ["Elijah and the drought (1 Kings 16:29–18:35)": the same feat the second beast performs](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
+| {{% bible val="Revelation 13:13" link="rev:13,13" lang="en" %}} | ["1 Kings 16:29–18:35": the same feat the second beast performs](/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="Revelation 13:13" link="rev:13,13" lang="en" %}} | ["The twofold attack": It can make fire fall down from heaven in front of all the people](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Revelation 13:13" link="rev:13,13" lang="en" %}} | ["The witnesses and the beasts": second](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation 13:13" link="rev:13,13" lang="en" %}} | ["Part 2: The 3.5 Years": calling down fire](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#part-2-the-35-years) |
@@ -675,12 +708,15 @@ docType: expl
 | {{% bible val="Revelation 13:13-14" link="rev:13,13-14" lang="en" %}} | ["Is Babel the apostate church?": a feeling of superiority](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation 13:13-15" link="rev:13,13-15" lang="en" %}} | ["The twofold attack": 13:13–15](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Revelation 13:13-15" link="rev:13,13-15" lang="en" %}} | ["Is Babel the apostate church?": impressive temple worship](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation 13:13-17" link="rev:13,13-17" lang="en" %}} | ["The twofold attack": 13:13–17](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Revelation 13:14" link="rev:13,14" lang="en" %}} | ["Crux 1: two comings to life, one verb": whose sword-wound healed, and it came to life](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Revelation 13:14" link="rev:13,14" lang="en" %}} | ["Crux 1: two comings to life, one verb": 13:14](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Revelation 13:14" link="rev:13,14" lang="en" %}} | ["What actually carries the theme": it came to life](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
 | {{% bible val="Revelation 13:14" link="rev:13,14" lang="en" %}} | ["The context of the first readers": a beast is wounded by a sword](/expl/content/beasts/666-the-number-of-the-beast#2f6a) |
 | {{% bible val="Revelation 13:14" link="rev:13,14" lang="en" %}} | ["The dark side": see more signs and wonders](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#896a) |
 | {{% bible val="Revelation 13:14" link="rev:13,14" lang="en" %}} | ["The harlot and the second beast": Deceives those who live on the earth](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#45d1) |
 | {{% bible val="Revelation 13:14" link="rev:13,14" lang="en" %}} | ["The Harlot and the second beast": Deceives those who live on the earth](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
+| {{% bible val="Revelation 13:14" link="rev:13,14" lang="en" %}} | ["The resolution": 13:14](/expl/content/seals/the-mystery-of-the-four-horse-men#6235) |
 | {{% bible val="Revelation 13:15" link="rev:13,15" lang="en" %}} | ["The second beast": idol gets its power from the people who support it](/expl/content/beasts/666-the-number-of-the-beast#2f0d) |
 | {{% bible val="Revelation 13:15" link="rev:13,15" lang="en" %}} | ["The twofold attack": people who don’t want to follow](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
 | {{% bible val="Revelation 13:15" link="rev:13,15" lang="en" %}} | ["The twofold attack": It can make a statue come alive](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#f4be) |
@@ -700,7 +736,10 @@ docType: expl
 | {{% bible val="Revelation 13:16-17" link="rev:13,16-17" lang="en" %}} | ["The bowls": mark of the beast](/expl/content/bowls/the-bowls-of-wrath#7ced) |
 | {{% bible val="Revelation 13:16-17" link="rev:13,16-17" lang="en" %}} | ["Is Babel the apostate church?": giving wealth or making poor](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation 13:16-17" link="rev:13,16-17" lang="en" %}} | ["Is Babel the apostate church?": exclusion of anyone who won't comply](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
+| {{% bible val="Revelation 13:16-17" link="rev:13,16-17" lang="en" %}} | ["The mystery of the third horseman": 13:16–17](/expl/content/seals/the-mystery-of-the-four-horse-men#b488) |
+| {{% bible val="Revelation 13:16-17" link="rev:13,16-17" lang="en" %}} | ["The resolution": 13:16–17](/expl/content/seals/the-mystery-of-the-four-horse-men#6235) |
 | {{% bible val="Revelation 13:16-17" link="rev:13,16-17" lang="en" %}} | ["The witnesses and the beasts": second](/expl/content/witnesses/the-two-witnesses#3181) |
+| {{% bible val="Revelation 13:17" link="rev:13,17" lang="en" %}} | ["Some basics": 13:17](/expl/content/beasts/666-the-number-of-the-beast#0630) |
 | {{% bible val="Revelation 13:17" link="rev:13,17" lang="en" %}} | ["The harlot and the second beast": No one can buy or sell without the mark](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#45d1) |
 | {{% bible val="Revelation 13:17" link="rev:13,17" lang="en" %}} | ["The Harlot and the second beast": No one can buy or sell without the mark](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation 13:18" link="rev:13,18" lang="en" %}} | ["These tools in Revelation": 13:18](/expl/background/literature/literary-tools-in-the-book-of-revelation#r3v1) |
@@ -732,6 +771,7 @@ docType: expl
 | {{% bible val="Revelation 14:8" link="rev:14,8" lang="en" %}} | ["Other numbers": 14:8](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#93ae) |
 | {{% bible val="Revelation 14:8" link="rev:14,8" lang="en" %}} | ["The two harvests": fall of Babel announced just a few verses earlier](/expl/content/harvest/gods-army-and-the-seven-angels#833c) |
 | {{% bible val="Revelation 14:10-11" link="rev:14,10-11" lang="en" %}} | ["What is hell about?": tormented with burning sulphur, the smoke of their torment rising for ever and ever](/expl/content/paradise/heaven-and-hell#1a72) |
+| {{% bible val="Revelation 14:11" link="rev:14,11" lang="en" %}} | ["Crux 1: two comings to life, one verb": 14:11, 13](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Revelation 14:12" link="rev:14,12" lang="en" %}} | ["Your only qualification was staying loyal": Revelation 14:12](/appl/content/harvest) |
 | {{% bible val="Revelation 14:14" link="rev:14,14" lang="en" %}} | ["The mystery of the first horseman": one who looks like the Son of Man on a white cloud with a sickle to harvest the earth](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
 | {{% bible val="Revelation 14:14-19" link="rev:14,14-19" lang="en" %}} | ["The combination 4x7": sevenfold mention of the sickle](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#3f68) |
@@ -759,11 +799,13 @@ docType: expl
 | {{% bible val="Revelation 16:7" link="rev:16,7" lang="en" %}} | ["Background": true and just are your judgments](/expl/content/bowls/the-bowls-of-wrath#a84e) |
 | {{% bible val="Revelation 16:8-11" link="rev:16,8-11" lang="en" %}} | ["The bowls": The fourth and the fifth bowls](/expl/content/bowls/the-bowls-of-wrath#7ced) |
 | {{% bible val="Revelation 16:8-11" link="rev:16,8-11" lang="en" %}} | ["The fifth and sixth trumpet": fourth and fifth bowls, where people again refuse to repent and curse God](/expl/content/trumpets/the-trumpets-in-revelation#403f) |
+| {{% bible val="Revelation 16:9" link="rev:16,9" lang="en" %}} | ["These tools in Revelation": 16:9, 11, 15](/expl/background/literature/literary-tools-in-the-book-of-revelation#r3v1) |
 | {{% bible val="Revelation 16:9" link="rev:16,9" lang="en" %}} | ["Defeat turned into victory": those struck by the plagues curse God and refuse to repent and give him glory](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="Revelation 16:9-11" link="rev:16,9-11" lang="en" %}} | ["The bowls": cursing God's name rather than repenting](/expl/content/bowls/the-bowls-of-wrath#7ced) |
 | {{% bible val="Revelation 16:9-11" link="rev:16,9-11" lang="en" %}} | ["Why the plagues of Egypt?": cursed God and refused to repent](/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
 | {{% bible val="Revelation 16:12" link="rev:16,12" lang="en" %}} | ["The eighth king": sixth bowl](/expl/content/beasts/666-the-number-of-the-beast#22e8) |
 | {{% bible val="Revelation 16:12" link="rev:16,12" lang="en" %}} | ["The sixth bowl": The river Euphrates was dried up to make way for the kings of the East.](/expl/content/bowls/the-bowls-of-wrath#a667) |
+| {{% bible val="Revelation 16:12" link="rev:16,12" lang="en" %}} | ["The translation": 16:12](/expl/content/bowls/the-key-to-armageddon#02ee) |
 | {{% bible val="Revelation 16:12-14" link="rev:16,12-14" lang="en" %}} | ["The fifth and sixth trumpet": the sixth bowl](/expl/content/trumpets/the-trumpets-in-revelation#403f) |
 | {{% bible val="Revelation 16:12-16" link="rev:16,12-16" lang="en" %}} | ["Armageddon and Carchemish": Armageddon](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#3991) |
 | {{% bible val="Revelation 16:12-16" link="rev:16,12-16" lang="en" %}} | ["Armageddon": Revelation 16:12-16](/quick/content/bowls#armageddon) |
@@ -780,6 +822,7 @@ docType: expl
 | {{% bible val="Revelation 16:15" link="rev:16,15" lang="en" %}} | ["The seven hills and seven kings": a call to stay alert](/expl/content/harlot/who-is-the-harlot-babylon-part-1#2d9d) |
 | {{% bible val="Revelation 16:15" link="rev:16,15" lang="en" %}} | ["The religious aspect": be awake and vigilant](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation 16:16" link="rev:16,16" lang="en" %}} | ["The translation": in the Bible,](/expl/content/bowls/the-key-to-armageddon#02ee) |
+| {{% bible val="Revelation 16:16" link="rev:16,16" lang="en" %}} | ["The translation": 16:16](/expl/content/bowls/the-key-to-armageddon#02ee) |
 | {{% bible val="Revelation 16:17" link="rev:16,17" lang="en" %}} | ["God lives with the people": judgment of the kingdom of Satan](/expl/content/paradise/the-new-jerusalem#93e0) |
 | {{% bible val="Revelation 16:17-19" link="rev:16,17-19" lang="en" %}} | ["First look": 16:17–19](/expl/content/paradise/the-new-jerusalem#946d) |
 | {{% bible val="Revelation 16:17-20" link="rev:16,17-20" lang="en" %}} | ["The seventh trumpet, and what comes first": seventh bowl, where the devil's kingdom is torn down](/expl/content/trumpets/the-trumpets-in-revelation#403f) |
@@ -799,6 +842,9 @@ docType: expl
 | {{% bible val="Revelation 17" link="rev:17" lang="en" %}} | ["The four horsemen": chapter 17](/quick/content/seals#the-four-horsemen) |
 | {{% bible val="Revelation 17:1" link="rev:17,1" lang="en" %}} | ["deiknumi": The introduction to the vision of the harlot](/expl/background/literature/literally-or-symbolic#08d2) |
 | {{% bible val="Revelation 17:1" link="rev:17,1" lang="en" %}} | ["These tools in Revelation": one of the seven angels who had the seven bowls came and said to me, 'Come, I will show you…'](/expl/background/literature/literary-tools-in-the-book-of-revelation#r3v1) |
+| {{% bible val="Revelation 17:1" link="rev:17,1" lang="en" %}} | ["The Answer":  17:1–22:5](/expl/background/structure/the-structure-of-the-book-of-revelation#b85e) |
+| {{% bible val="Revelation 17:1" link="rev:17,1" lang="en" %}} | ["The book at a glance": 17:1–19:10](/expl/background/structure/the-structure-of-the-book-of-revelation#outline) |
+| {{% bible val="Revelation 17:1" link="rev:17,1" lang="en" %}} | ["In sequence or retold?": 17:1–19:6](/expl/background/structure/the-structure-of-the-book-of-revelation#chiasm) |
 | {{% bible val="Revelation 17:1" link="rev:17,1" lang="en" %}} | ["Other numbers": 17:1](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#93ae) |
 | {{% bible val="Revelation 17:1" link="rev:17,1" lang="en" %}} | ["The Harlot": 17:1](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation 17:1" link="rev:17,1" lang="en" %}} | ["The Core Teaching": 17:1](/sermons/deep-dive/intro/03-symbol-or-literal#the-core-teaching) |
@@ -876,6 +922,7 @@ docType: expl
 | {{% bible val="Revelation 17:15-16" link="rev:17,15-16" lang="en" %}} | ["Other numbers": 17:15–16](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#93ae) |
 | {{% bible val="Revelation 17:16" link="rev:17,16" lang="en" %}} | ["A little word with big consequences": described in the previous chapter](/expl/content/1000y/the-thousand-year-kingdom#ed7b) |
 | {{% bible val="Revelation 17:16" link="rev:17,16" lang="en" %}} | ["The same pattern in the horsemen and the harlot": Fight against Harlot and destroys it](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#45d1) |
+| {{% bible val="Revelation 17:16" link="rev:17,16" lang="en" %}} | ["The translation": 17:16](/expl/content/bowls/the-key-to-armageddon#02ee) |
 | {{% bible val="Revelation 17:16" link="rev:17,16" lang="en" %}} | ["The mystery of her fall": they are the ones who destroy her](/expl/content/harlot/the-character-and-destiny-of-the-harlot#0a44) |
 | {{% bible val="Revelation 17:16" link="rev:17,16" lang="en" %}} | ["The coin": turns on the harlot and destroys her](/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#55d4) |
 | {{% bible val="Revelation 17:16" link="rev:17,16" lang="en" %}} | ["The scarlet Beast": Fight against Harlot and destroys it](/expl/content/harlot/who-is-the-harlot-babylon-part-1#9621) |
@@ -898,6 +945,8 @@ docType: expl
 | {{% bible val="Revelation 18:3" link="rev:18,3" lang="en" %}} | ["The economic aspect": prostitute themselves with Babel](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Revelation 18:3" link="rev:18,3" lang="en" %}} | ["The nations and their gifts": the kind of glory and riches they once drew from Babel](/expl/content/paradise/the-new-jerusalem#bf9a) |
 | {{% bible val="Revelation 18:4" link="rev:18,4" lang="en" %}} | ["Which cup are you drinking from?": Revelation 18:4](/appl/content/harlot) |
+| {{% bible val="Revelation 18:4" link="rev:18,4" lang="en" %}} | ["A prophecy": come out of Babel](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Revelation 18:4" link="rev:18,4" lang="en" %}} | ["Babel in the Book of Revelation": Rev 18:4](/expl/bible/keyword/the-origin-of-babel#dfad) |
 | {{% bible val="Revelation 18:4" link="rev:18,4" lang="en" %}} | ["The character of the harlot": and we need to leave](/expl/content/harlot/the-character-and-destiny-of-the-harlot#b96c) |
 | {{% bible val="Revelation 18:4" link="rev:18,4" lang="en" %}} | ["The Ekphrasis": come out of her, my people](/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#66fb) |
 | {{% bible val="Revelation 18:4" link="rev:18,4" lang="en" %}} | ["Is Babel the apostate church?": so that you're forced to keep reflecting and stepping out of it, day after day](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
@@ -907,6 +956,8 @@ docType: expl
 | {{% bible val="Revelation 18:5" link="rev:18,5" lang="en" %}} | ["First look": 18:5](/expl/content/paradise/the-new-jerusalem#946d) |
 | {{% bible val="Revelation 18:6" link="rev:18,6" lang="en" %}} | ["The judgment": double for her deeds](/expl/content/harlot/the-character-and-destiny-of-the-harlot#3d3b) |
 | {{% bible val="Revelation 18:7" link="rev:18,7" lang="en" %}} | ["Arithmetic": I sit enthroned as queen… I will never mourn](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#6395) |
+| {{% bible val="Revelation 18:7" link="rev:18,7" lang="en" %}} | ["Babel in the Book of Revelation": Rev 18:7](/expl/bible/keyword/the-origin-of-babel#dfad) |
+| {{% bible val="Revelation 18:7" link="rev:18,7" lang="en" %}} | ["Crux 1: two comings to life, one verb": 18:7](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Revelation 18:7" link="rev:18,7" lang="en" %}} | ["The character of the harlot": She sees herself as untouchable](/expl/content/harlot/the-character-and-destiny-of-the-harlot#b96c) |
 | {{% bible val="Revelation 18:7" link="rev:18,7" lang="en" %}} | ["The Harlot": Rev 18:7](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation 18:7" link="rev:18,7" lang="en" %}} | ["First look": 18:7](/expl/content/paradise/the-new-jerusalem#946d) |
@@ -917,6 +968,7 @@ docType: expl
 | {{% bible val="Revelation 18:9-11" link="rev:18,9-11" lang="en" %}} | ["The Harlot": God judges successors](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation 18:10" link="rev:18,10" lang="en" %}} | ["Other numbers": 18:10](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#93ae) |
 | {{% bible val="Revelation 18:10" link="rev:18,10" lang="en" %}} | ["Arithmetic": in one hour](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#6395) |
+| {{% bible val="Revelation 18:10" link="rev:18,10" lang="en" %}} | ["Babel in the Book of Revelation": Rev 18:10](/expl/bible/keyword/the-origin-of-babel#dfad) |
 | {{% bible val="Revelation 18:10" link="rev:18,10" lang="en" %}} | ["The character of the harlot": the kings lament Babel's sudden fall](/expl/content/harlot/the-character-and-destiny-of-the-harlot#b96c) |
 | {{% bible val="Revelation 18:10" link="rev:18,10" lang="en" %}} | ["The Harlot": Judgment comes quickly](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation 18:10" link="rev:18,10" lang="en" %}} | ["Defeat turned into victory": Babel the great city](/expl/content/witnesses/the-two-witnesses#3181) |
@@ -946,8 +998,10 @@ docType: expl
 | {{% bible val="Revelation 19:2" link="rev:19,2" lang="en" %}} | ["Other numbers": 19:2](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#93ae) |
 | {{% bible val="Revelation 19:2" link="rev:19,2" lang="en" %}} | ["Crux 1: two comings to life, one verb": 19:2](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Revelation 19:2" link="rev:19,2" lang="en" %}} | ["The Harlot": God avenges the blood of his servants](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
+| {{% bible val="Revelation 19:2" link="rev:19,2" lang="en" %}} | ["The resolution": 19:2](/expl/content/seals/the-mystery-of-the-four-horse-men#6235) |
 | {{% bible val="Revelation 19:5" link="rev:19,5" lang="en" %}} | ["God lives with the people": judgment of Babel](/expl/content/paradise/the-new-jerusalem#93e0) |
 | {{% bible val="Revelation 19:7" link="rev:19,7" lang="en" %}} | ["Other numbers": 19:7](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#93ae) |
+| {{% bible val="Revelation 19:7-9" link="rev:19,7-9" lang="en" %}} | ["In sequence or retold?": 19:7–9](/expl/background/structure/the-structure-of-the-book-of-revelation#chiasm) |
 | {{% bible val="Revelation 19:8" link="rev:19,8" lang="en" %}} | ["Conclusion": The fine linen is the righteous deeds of the saints](/expl/background/literature/literally-or-symbolic#44ce) |
 | {{% bible val="Revelation 19:8" link="rev:19,8" lang="en" %}} | ["The Harlot": 19:8](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
 | {{% bible val="Revelation 19:9" link="rev:19,9" lang="en" %}} | ["The solution": marriage supper of the Lamb](/expl/content/letters/the-letter-to-the-church-in-pergamon#72a9) |
@@ -966,8 +1020,12 @@ docType: expl
 | {{% bible val="Revelation 19:17-21" link="rev:19,17-21" lang="en" %}} | ["Further arguments for one battle": chapter 19](/expl/content/1000y/the-thousand-year-kingdom#ba8d) |
 | {{% bible val="Revelation 19:17-21" link="rev:19,17-21" lang="en" %}} | ["Further arguments for one battle": chapter 19](/expl/content/1000y/the-thousand-year-kingdom#ba8d) |
 | {{% bible val="Revelation 19:19" link="rev:19,19" lang="en" %}} | ["Two final battles?": human armies](/expl/content/1000y/the-thousand-year-kingdom#1767) |
+| {{% bible val="Revelation 19:20" link="rev:19,20" lang="en" %}} | ["Crux 1: two comings to life, one verb": 19:20](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Revelation 19:20" link="rev:19,20" lang="en" %}} | ["Crux 3: does chapter 20 follow chapter 19?": 19:20](/expl/content/1000y/pre-post-and-amillennialism#47e1) |
+| {{% bible val="Revelation 19:20" link="rev:19,20" lang="en" %}} | ["Crux 3: does chapter 20 follow chapter 19?": 19:20](/expl/content/1000y/pre-post-and-amillennialism#47e1) |
 | {{% bible val="Revelation 19:20" link="rev:19,20" lang="en" %}} | ["A little word with big consequences": the beast and the false prophet were captured right after the battle was lost](/expl/content/1000y/the-thousand-year-kingdom#ed7b) |
 | {{% bible val="Revelation 19:20" link="rev:19,20" lang="en" %}} | ["The description of the devil": 19](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#4281) |
+| {{% bible val="Revelation 19:21" link="rev:19,21" lang="en" %}} | ["The sixth bowl": 19:21](/expl/content/bowls/the-bowls-of-wrath#a667) |
 | {{% bible val="Revelation 19:21" link="rev:19,21" lang="en" %}} | ["The weapons of warfare it imagines": Jesus alone does the fighting, armed only with the sword of his mouth](/expl/topics/others/dispensionalism-and-its-critic#14cf) |
 | {{% bible val="Revelation 20" link="rev:20" lang="en" %}} | ["Reigning now, even if no one sees it": Revelation 20](/appl/content/1000y) |
 | {{% bible val="Revelation 20" link="rev:20" lang="en" %}} | ["A Thousand Years of Jesus Being King": Revelation 20](/kids/early-childhood/14-a-thousand-years-of-jesus-being-king) |
@@ -990,6 +1048,15 @@ docType: expl
 | {{% bible val="Revelation 20:3" link="rev:20,3" lang="en" %}} | ["But aren't there also differences?": it is stopped in chapter 20](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
 | {{% bible val="Revelation 20:4" link="rev:20,4" lang="en" %}} | ["Reigning now, even if no one sees it": Revelation 20:4](/appl/content/1000y) |
 | {{% bible val="Revelation 20:4" link="rev:20,4" lang="en" %}} | ["Arithmetic": reign with Christ a thousand years](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#6395) |
+| {{% bible val="Revelation 20:4" link="rev:20,4" lang="en" %}} | ["Crux 1: two comings to life, one verb": 20:4](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Revelation 20:4" link="rev:20,4" lang="en" %}} | ["Crux 1: two comings to life, one verb": 20:4](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Revelation 20:4" link="rev:20,4" lang="en" %}} | ["Crux 1: two comings to life, one verb": 20:4](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Revelation 20:4" link="rev:20,4" lang="en" %}} | ["Crux 1: two comings to life, one verb": 20:4](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Revelation 20:4" link="rev:20,4" lang="en" %}} | ["Crux 1: two comings to life, one verb": 20:4](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Revelation 20:4" link="rev:20,4" lang="en" %}} | ["Crux 1: two comings to life, one verb": 20:4](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Revelation 20:4" link="rev:20,4" lang="en" %}} | ["Crux 1: two comings to life, one verb": 20:4](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Revelation 20:4" link="rev:20,4" lang="en" %}} | ["What actually carries the theme": 20:4](/expl/content/1000y/pre-post-and-amillennialism#8b6d) |
+| {{% bible val="Revelation 20:4" link="rev:20,4" lang="en" %}} | ["Crux 3: does chapter 20 follow chapter 19?": 20:4](/expl/content/1000y/pre-post-and-amillennialism#47e1) |
 | {{% bible val="Revelation 20:4" link="rev:20,4" lang="en" %}} | ["The thousand year kingdom": Who will reign over whom, and where?](/expl/content/1000y/the-thousand-year-kingdom) |
 | {{% bible val="Revelation 20:4" link="rev:20,4" lang="en" %}} | ["The thousand year kingdom": one vision](/expl/content/1000y/the-thousand-year-kingdom) |
 | {{% bible val="Revelation 20:4" link="rev:20,4" lang="en" %}} | ["What is the story line?": resurrection](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
@@ -997,7 +1064,10 @@ docType: expl
 | {{% bible val="Revelation 20:4" link="rev:20,4" lang="en" %}} | ["A few steps through history": 1000 year kingdom](/expl/topics/others/dispensionalism-a-little-history#f0fa) |
 | {{% bible val="Revelation 20:4" link="rev:20,4" lang="en" %}} | ["Two details worth explaining": Revelation 20:4](/quick/content/1000y#two-details-worth-explaining) |
 | {{% bible val="Revelation 20:4-5" link="rev:20,4-5" lang="en" %}} | ["Crux 1: two comings to life, one verb": Revelation 20:4–5](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Revelation 20:4-5" link="rev:20,4-5" lang="en" %}} | ["Crux 1: two comings to life, one verb": 20:4–5](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Revelation 20:4-5" link="rev:20,4-5" lang="en" %}} | ["Crux 1: two comings to life, one verb": 20:4–5](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Revelation 20:4-5" link="rev:20,4-5" lang="en" %}} | ["Where this site lands, and what it costs": Revelation 20:4–5](/expl/content/1000y/pre-post-and-amillennialism#c5e2) |
+| {{% bible val="Revelation 20:4-6" link="rev:20,4-6" lang="en" %}} | ["Crux 1: two comings to life, one verb": 20:4–6](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Revelation 20:4-6" link="rev:20,4-6" lang="en" %}} | ["What is the story line?": chapter 20](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
 | {{% bible val="Revelation 20:4-6" link="rev:20,4-6" lang="en" %}} | ["What about the second death and the first resurrection?": I saw thrones on which were seated those who had been given authority to judge. And I saw the souls of those who had been beheaded because of their testimony about Jesus and because of the word of God. They had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ for a thousand years. (The rest of the dead did not come to life until the thousand years were ended.) This is the first resurrection. Blessed and holy are those who share in the first resurrection. The second death has no power over them, but they will be priests of God and of Christ and will reign with him for a thousand years.](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
 | {{% bible val="Revelation 20:4-6" link="rev:20,4-6" lang="en" %}} | ["The perspective": believers could reign with him](/expl/content/letters/the-letter-to-the-church-in-smyrna#1a16) |
@@ -1010,7 +1080,6 @@ docType: expl
 | {{% bible val="Revelation 20:8" link="rev:20,8" lang="en" %}} | ["The number 4": four ends of the earth](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#3175) |
 | {{% bible val="Revelation 20:8" link="rev:20,8" lang="en" %}} | ["Arithmetic": like the sand on the seashore](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#6395) |
 | {{% bible val="Revelation 20:8" link="rev:20,8" lang="en" %}} | ["Two final battles?": demonic armies](/expl/content/1000y/the-thousand-year-kingdom#1767) |
-| {{% bible val="Revelation 20:8" link="rev:20,8" lang="en" %}} | ["A literal reading that isn't consistently literal": Gog and Magog](/expl/topics/others/dispensionalism-and-its-critic#dac4) |
 | {{% bible val="Revelation 20:9" link="rev:20,9" lang="en" %}} | ["Arithmetic": fire from heaven](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#6395) |
 | {{% bible val="Revelation 20:9" link="rev:20,9" lang="en" %}} | ["Two final battles?": fire](/expl/content/1000y/the-thousand-year-kingdom#1767) |
 | {{% bible val="Revelation 20:10" link="rev:20,10" lang="en" %}} | ["The description of the devil": 20](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#4281) |
@@ -1030,6 +1099,7 @@ docType: expl
 | {{% bible val="Revelation 21" link="rev:21" lang="en" %}} | ["Topical: The Ending You Actually Want": Revelation 21–22](/kids/teens/17-the-ending-you-actually-want) |
 | {{% bible val="Revelation 21" link="rev:21" lang="en" %}} | ["The new heaven and new earth (Ch. 21-22)": Chapter 21](/quick/content/paradise) |
 | {{% bible val="Revelation 21:1" link="rev:21,1" lang="en" %}} | ["Preterist": The new heaven and new earth](/expl/background/literature/preterist-historicist-futurist-or-idealist#p1a1) |
+| {{% bible val="Revelation 21:1" link="rev:21,1" lang="en" %}} | ["In sequence or retold?": 21:1–22:5](/expl/background/structure/the-structure-of-the-book-of-revelation#chiasm) |
 | {{% bible val="Revelation 21:1" link="rev:21,1" lang="en" %}} | ["Crux 1: two comings to life, one verb": first heaven and the first earth](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Revelation 21:1" link="rev:21,1" lang="en" %}} | ["Everything is new": Then I saw ‘a new heaven and a new earth,’ for the first heaven and the first earth had passed away, and there was no longer any sea.](/expl/content/paradise/the-new-jerusalem#e5bc) |
 | {{% bible val="Revelation 21:1" link="rev:21,1" lang="en" %}} | ["No more sea": will be no more sea](/expl/content/paradise/the-new-jerusalem#a258) |
@@ -1156,8 +1226,10 @@ docType: expl
 | {{% bible val="Revelation 22:6" link="rev:22,6" lang="en" %}} | ["deiknumi": The closing summary, itself another reference back to Daniel](/expl/background/literature/literally-or-symbolic#08d2) |
 | {{% bible val="Revelation 22:6" link="rev:22,6" lang="en" %}} | ["Preterist, historicist, futurist, or idealist?": the very end of the book](/expl/background/literature/preterist-historicist-futurist-or-idealist) |
 | {{% bible val="Revelation 22:6" link="rev:22,6" lang="en" %}} | ["The Harlot": 22:6](/expl/content/harlot/who-is-the-harlot-babylon-part-1#1947) |
+| {{% bible val="Revelation 22:6-21" link="rev:22,6-21" lang="en" %}} | ["A letter": 22:6–21](/expl/background/literature/the-book-of-revelation-how-to-read-it#letter) |
 | {{% bible val="Revelation 22:8" link="rev:22,8" lang="en" %}} | ["deiknumi": The summary of everything John saw and heard](/expl/background/literature/literally-or-symbolic#08d2) |
 | {{% bible val="Revelation 22:10" link="rev:22,10" lang="en" %}} | ["Preterist, historicist, futurist, or idealist?": in the instruction not to seal it up](/expl/background/literature/preterist-historicist-futurist-or-idealist) |
+| {{% bible val="Revelation 22:10" link="rev:22,10" lang="en" %}} | ["The angel with the scroll": Rev 22:10](/expl/content/scroll/the-little-scroll#6058) |
 | {{% bible val="Revelation 22:10" link="rev:22,10" lang="en" %}} | ["A theory with no relevance for the original readers": Revelation](/expl/topics/others/dispensionalism-and-its-critic#ae8f) |
 | {{% bible val="Revelation 22:11" link="rev:22,11" lang="en" %}} | ["Other numbers": 22:11](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#93ae) |
 | {{% bible val="Revelation 22:13" link="rev:22,13" lang="en" %}} | ["Further thoughts": 22:13](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#c5d5) |

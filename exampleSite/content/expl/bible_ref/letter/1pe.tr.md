@@ -4,7 +4,7 @@ weight: 62
 docType: expl
 ---
 
-Bu kitapta kullanılan 7 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 8 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -15,3 +15,4 @@ Bu kitapta kullanılan 7 Kutsal Kitap pasajı vardır
 | {{% bible val="1.Petrus 2:22" link="1pe:2,22" lang="tr" %}} | ["144.000": ağzında hile bulunmayan](/tr/expl/content/harvest/gods-army-and-the-seven-angels#181d) |
 | {{% bible val="1.Petrus 4:12-13" link="1pe:4,12-13" lang="tr" %}} | ["Büyük sıkıntı": Petrus'un mektubunda](/tr/expl/content/army/the-end-time-and-the-great-tribulation#ef13) |
 | {{% bible val="1.Petrus 5:8" link="1pe:5,8" lang="tr" %}} | ["Düğüm 2: "bağlandı" ne demek": kükreyen aslan gibi yutacak birini arayarak dolaşır](/tr/expl/content/1000y/pre-post-and-amillennialism#7d18) |
+| {{% bible val="1.Petrus 5:13" link="1pe:5,13" lang="tr" %}} | ["Madeni para": 1. Petrus 5:13](/tr/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#cbea) |

@@ -4,7 +4,7 @@ weight: 0
 docType: expl
 ---
 
-73 Bibelstellen wurden in diesem Buch verwendet.
+81 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -31,10 +31,12 @@ docType: expl
 | {{% bible val="1.Mose 4,22-24" link="gen:4,22-24" lang="de" %}} | ["Die Stadt als Zuflucht des Menschen": der den Schutz verspottet, den Gott Kain gegeben hatte](/de/expl/bible/creation/the-temple-and-the-presence-of-god#9299) |
 | {{% bible val="1.Mose 4,25-26" link="gen:4,25-26" lang="de" %}} | ["Die Stadt als Zuflucht des Menschen": von da an fangen die Menschen wieder an, den Namen des Herrn anzurufen](/de/expl/bible/creation/the-temple-and-the-presence-of-god#9299) |
 | {{% bible val="1.Mose 5,24" link="gen:5,24" lang="de" %}} | ["Die Identität der beiden Zeugen": Henoch wurde von Gott hinweggenommen](/de/expl/content/witnesses/the-two-witnesses#55fa) |
+| {{% bible val="1.Mose 6,9-10" link="gen:6,9-10" lang="de" %}} | ["Strukturierte Wiederholung": 1.Mo 6,9–10](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#5820) |
 | {{% bible val="1.Mose 9,1-7" link="gen:9,1-7" lang="de" %}} | ["Der Thronsaal": 1. Mose 9,1–7](/de/expl/content/worship/worship-in-the-throne-room#0938) |
 | {{% bible val="1.Mose 9,8-17" link="gen:9,8-17" lang="de" %}} | ["Der Thronsaal": der Bund selbst](/de/expl/content/worship/worship-in-the-throne-room#0938) |
 | {{% bible val="1.Mose 9,13" link="gen:9,13" lang="de" %}} | ["Das Geheimnis des ersten Reiters": 1. Mose 9,13](/de/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
-| {{% bible val="1.Mose 10" link="gen:10" lang="de" %}} | ["Ausgießung des Geistes": verstreuten Liste vom Turmbau zu Babel](/de/expl/background/israel/the-church-is-part-of-israel#e989) |
+| {{% bible val="1.Mose 9,18-19" link="gen:9,18-19" lang="de" %}} | ["Strukturierte Wiederholung": 9,18–19](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#5820) |
+| {{% bible val="1.Mose 10" link="gen:10" lang="de" %}} | ["Ausgießung des Geistes": verkürzte Fassung der siebzig Nationen](/de/expl/background/israel/the-church-is-part-of-israel#e989) |
 | {{% bible val="1.Mose 10,8-12" link="gen:10,8-12" lang="de" %}} | ["Die Stadt als Zuflucht des Menschen": Stadt bleibt ein bedeutendes Element](/de/expl/bible/creation/the-temple-and-the-presence-of-god#9299) |
 | {{% bible val="1.Mose 11,1-9" link="gen:11,1-9" lang="de" %}} | ["Die Stadt als Zuflucht des Menschen": Turm von Babel](/de/expl/bible/creation/the-temple-and-the-presence-of-god#9299) |
 | {{% bible val="1.Mose 11,1-9" link="gen:11,1-9" lang="de" %}} | ["Der erste Eindruck": 1. Mose 11,1–9](/de/expl/content/paradise/the-new-jerusalem#c99e) |
@@ -48,6 +50,7 @@ docType: expl
 | {{% bible val="1.Mose 11,31" link="gen:11,31" lang="de" %}} | ["Die Geschichte vor Karkemisch": aus dem Abraham stammte](/de/expl/content/bowls/armageddon-and-the-battle-of-karkemish#dd2e) |
 | {{% bible val="1.Mose 12,1-3" link="gen:12,1-3" lang="de" %}} | ["Die Stadt als Zuflucht des Menschen": beschließt Gott, Abraham einen Namen zu machen](/de/expl/bible/creation/the-temple-and-the-presence-of-god#9299) |
 | {{% bible val="1.Mose 12,1-4" link="gen:12,1-4" lang="de" %}} | ["Der Patriarch": Abram kümmert](/de/expl/background/israel/the-role-of-family-in-the-bible#75b9) |
+| {{% bible val="1.Mose 12,1-9" link="gen:12,1-9" lang="de" %}} | ["Strukturierte Wiederholung": 1.Mo 12,1–9](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#5820) |
 | {{% bible val="1.Mose 12,2-3" link="gen:12,2-3" lang="de" %}} | ["Der Ursprung des Tages des Herrn": Bundes war, ein Segen für alle Nationen zu sein](/de/expl/background/israel/the-day-of-the-lord#4fec) |
 | {{% bible val="1.Mose 12,2-3" link="gen:12,2-3" lang="de" %}} | ["Die internen Features": Abraham, berufen, ein Segen für alle Nationen zu sein](/de/expl/content/paradise/the-new-jerusalem#284a) |
 | {{% bible val="1.Mose 12,3" link="gen:12,3" lang="de" %}} | ["Er kommt mit den Wolken": Verheißung an Abram auf, dass durch ihn alle Völker gesegnet werden](/de/expl/content/vision/setting-the-foundation#aaf2) |
@@ -61,6 +64,7 @@ docType: expl
 | {{% bible val="1.Mose 17,20-21" link="gen:17,20-21" lang="de" %}} | ["Knotenpunkt 4: wie viel von der Verheißung landet innerhalb der Geschichte?": meinen Bund aber will ich mit Isaak aufrichten](/de/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="1.Mose 18,20-33" link="gen:18,20-33" lang="de" %}} | ["Der Hintergrund": Gottes Plan wird durch unsere Gebete beeinflusst](/de/expl/content/bowls/the-bowls-of-wrath#a84e) |
 | {{% bible val="1.Mose 19,30-37" link="gen:19,30-37" lang="de" %}} | ["Die bekannte Geschichte": von Lot abstammen](/de/expl/bible/keyword/the-story-of-balaam#dabb) |
+| {{% bible val="1.Mose 21,1-7" link="gen:21,1-7" lang="de" %}} | ["Strukturierte Wiederholung": 21,1–7](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#5820) |
 | {{% bible val="1.Mose 21,16" link="gen:21,16" lang="de" %}} | ["Das Geheimnis des ersten Reiters": einen Bogenschuss weit entfernt](/de/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="1.Mose 21,20" link="gen:21,20" lang="de" %}} | ["Das Geheimnis des ersten Reiters": Ismael wächst in der Wüste zum Bogenschützen auf](/de/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="1.Mose 21,22-32" link="gen:21,22-32" lang="de" %}} | ["Geschichtliche Bünde": Abraham und Abimelech](/de/expl/background/israel/gods-covenant#ae45) |
@@ -68,7 +72,11 @@ docType: expl
 | {{% bible val="1.Mose 25,25-26" link="gen:25,25-26" lang="de" %}} | ["Das Erbe": Jakob](/de/expl/background/israel/the-role-of-family-in-the-bible#50b0) |
 | {{% bible val="1.Mose 26,12-33" link="gen:26,12-33" lang="de" %}} | ["Geschichtliche Bünde": Isaak und die Philister](/de/expl/background/israel/gods-covenant#ae45) |
 | {{% bible val="1.Mose 27" link="gen:27" lang="de" %}} | ["Das Geheimnis des ersten Reiters": Esaus Jagdbogen](/de/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
+| {{% bible val="1.Mose 28,6-9" link="gen:28,6-9" lang="de" %}} | ["Strukturierte Wiederholung": 1.Mo 28,6–9](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#5820) |
 | {{% bible val="1.Mose 31,22-54" link="gen:31,22-54" lang="de" %}} | ["Geschichtliche Bünde": Jakob und Laban](/de/expl/background/israel/gods-covenant#ae45) |
+| {{% bible val="1.Mose 36" link="gen:36" lang="de" %}} | ["Strukturierte Wiederholung": 1.Mo 36](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#5820) |
+| {{% bible val="1.Mose 37,2" link="gen:37,2" lang="de" %}} | ["Die Anordnung der Einheiten": 1.Mo.37,2–50,26](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#a88d) |
+| {{% bible val="1.Mose 37,2" link="gen:37,2" lang="de" %}} | ["Die Anordnung der Einheiten": 1.Mo.37,2–50,26](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#a88d) |
 | {{% bible val="1.Mose 37,9-10" link="gen:37,9-10" lang="de" %}} | ["Die Frau": Josefs zweiter Traum](/de/expl/content/jesus/a-different-christmas-story#5a05) |
 | {{% bible val="1.Mose 37,21-30" link="gen:37,21-30" lang="de" %}} | ["Das Erbe": sehr beunruhigt, als Josef verloren ging](/de/expl/background/israel/the-role-of-family-in-the-bible#50b0) |
 | {{% bible val="1.Mose 37,25" link="gen:37,25" lang="de" %}} | ["5, Viehseuche": genutzt für den Handel](/de/expl/bible/exodus/the-plagues-in-egypt#4f61) |

@@ -20,7 +20,7 @@ Bu kitapta kullanılan 27 Kutsal Kitap pasajı vardır
 | {{% bible val="Luka 4:16-30" link="luk:4,16-30" lang="tr" %}} | ["Luka'daki yeni Çıkış": İsa Yeşaya'dan okuduğunda, onun gerçekleştiğini bildirdi](/tr/expl/background/israel/the-second-exodus#bfa6) |
 | {{% bible val="Luka 4:18-19" link="luk:4,18-19" lang="tr" %}} | ["Son zaman nedir?": Ama İsa yeryüzüne geldiğinde, Rab'bin Günü'nün yalnızca bir bölümünü — kurtarış yönünü — yerine getirdi; diğer bölümünü, yargıyı, tekrar geldiğinde, geleceğimizde yerine getirilmek üzere bıraktı](/tr/expl/content/army/the-end-time-and-the-great-tribulation#6f73) |
 | {{% bible val="Luka 4:25" link="luk:4,25" lang="tr" %}} | ["3,5 sayısı": Luka 4:25](/tr/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#832f) |
-| {{% bible val="Luka 4:25" link="luk:4,25" lang="tr" %}} | ["İlyas ve kuraklık (1. Krallar 16/29–18/35)": 3,5 yıl süren](/tr/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
+| {{% bible val="Luka 4:25" link="luk:4,25" lang="tr" %}} | ["1. Krallar 16:29–18:35": 3,5 yıl süren](/tr/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="Luka 4:25" link="luk:4,25" lang="tr" %}} | ["Bölüm 2: 3,5 Yıl": 3,5 yıl](/tr/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bölüm-2-35-yıl) |
 | {{% bible val="Luka 6:12-13" link="luk:6,12-13" lang="tr" %}} | ["Meydan okuma": dağa](/tr/expl/background/israel/jesus-and-the-covenant#1481) |
 | {{% bible val="Luka 10:18" link="luk:10,18" lang="tr" %}} | ["Düğüm 2: "bağlandı" ne demek": Şeytan'ın gökten yıldırım gibi düştüğünü gördüm](/tr/expl/content/1000y/pre-post-and-amillennialism#7d18) |

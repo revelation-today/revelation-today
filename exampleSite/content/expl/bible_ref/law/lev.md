@@ -4,15 +4,18 @@ weight: 2
 docType: expl
 ---
 
-27 bible verses have been used in this book.
+30 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
 | {{% bible val="Leviticus 16" link="lev:16" lang="en" %}} | ["The promise": Day of Atonement](/expl/bible/daniel/the-70-year-weeks#2d32) |
+| {{% bible val="Leviticus 19:15" link="lev:19,15" lang="en" %}} | ["A prophecy": Lev 19:15](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Leviticus 19:18" link="lev:19,18" lang="en" %}} | ["A prophecy": to love your neighbor](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Leviticus 21:9" link="lev:21,9" lang="en" %}} | ["The judgment": Leviticus 21:9](/expl/content/harlot/the-character-and-destiny-of-the-harlot#3d3b) |
 | {{% bible val="Leviticus 21:9" link="lev:21,9" lang="en" %}} | ["The religious aspect": the priest's daughter who became a prostitute was to be burned with fire](/expl/content/harlot/who-is-the-harlot-babylon-part-2#89fc) |
 | {{% bible val="Leviticus 23:9-14" link="lev:23,9-14" lang="en" %}} | ["The two harvests": normally taken from grain](/expl/content/harvest/gods-army-and-the-seven-angels#833c) |
 | {{% bible val="Leviticus 23:22" link="lev:23,22" lang="en" %}} | ["A prophecy": Lev 23:22](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
+| {{% bible val="Leviticus 24:22" link="lev:24,22" lang="en" %}} | ["A prophecy": 24:22](/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Leviticus 25:1-7" link="lev:25,1-7" lang="en" %}} | ["What is a year week": every seventh year the land should rest](/expl/bible/daniel/the-70-year-weeks#e18f) |
 | {{% bible val="Leviticus 25:1-7" link="lev:25,1-7" lang="en" %}} | ["Part 1: The 70 Weeks": Leviticus 25:1-7](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#part-1-the-70-weeks) |
 | {{% bible val="Leviticus 25:10" link="lev:25,10" lang="en" %}} | ["The land": land is given back](/expl/background/israel/the-role-of-family-in-the-bible#b86e) |

@@ -4,7 +4,7 @@ weight: 25
 docType: expl
 ---
 
-Bu kitapta kullanılan 64 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 63 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -53,7 +53,6 @@ Bu kitapta kullanılan 64 Kutsal Kitap pasajı vardır
 | {{% bible val="Hezekiel 39" link="ezk:39" lang="tr" %}} | ["Düğüm 3: 20. bölüm 19'un ardından mı geliyor?": 39](/tr/expl/content/1000y/pre-post-and-amillennialism#47e1) |
 | {{% bible val="Hezekiel 39" link="ezk:39" lang="tr" %}} | ["Son iki savaş mı?": 39. bölümlerindeki](/tr/expl/content/1000y/the-thousand-year-kingdom#ba47) |
 | {{% bible val="Hezekiel 39:3" link="ezk:39,3" lang="tr" %}} | ["İlk atlının gizemi": Gog'un elinden yayı düşürecektir](/tr/expl/content/seals/the-mystery-of-the-four-horse-men#dba7) |
-| {{% bible val="Hezekiel 39:3" link="ezk:39,3" lang="tr" %}} | ["Gerçekçi anlayış": Tanrı'nın yay ve okları yok edeceğine](/tr/expl/topics/others/dispensionalism-and-its-critic#16f7) |
 | {{% bible val="Hezekiel 39:6" link="ezk:39,6" lang="tr" %}} | ["Son iki savaş mı?": ateşi](/tr/expl/content/1000y/the-thousand-year-kingdom#ba47) |
 | {{% bible val="Hezekiel 39:17-21" link="ezk:39,17-21" lang="tr" %}} | ["Son iki savaş mı?": kuşlar ve yabani hayvanlar için bir leş ziyafetiyle](/tr/expl/content/1000y/the-thousand-year-kingdom#ba47) |
 | {{% bible val="Hezekiel 40" link="ezk:40" lang="tr" %}} | ["Hikayenin konusu nedir?": 40–48](/tr/expl/content/1000y/the-thousand-year-kingdom#41d8) |
@@ -69,6 +68,6 @@ Bu kitapta kullanılan 64 Kutsal Kitap pasajı vardır
 | {{% bible val="Hezekiel 47" link="ezk:47" lang="tr" %}} | ["Ana Öğreti": Hezekiel 47](/tr/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#ana-öğreti) |
 | {{% bible val="Hezekiel 47:1-5" link="ezk:47,1-5" lang="tr" %}} | ["Üçüncü tapınak": tapınaktan akan ırmak, birkaç bin arşın içinde bir sızıntıdan geçilmez derinlikte bir ırmağa dönüşür](/tr/expl/topics/others/dispensionalism-and-its-critic#1e67) |
 | {{% bible val="Hezekiel 47:1-9" link="ezk:47,1-9" lang="tr" %}} | ["Tanrı'nın varlığının sembolleri": sunaktan akan ırmak](/tr/expl/content/paradise/the-new-jerusalem#4997) |
-| {{% bible val="Hezekiel 47:21-23" link="ezk:47,21-23" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": ‹‹Bu ülkeyi İsrail oymaklarına göre aranızda paylaşacaksınız. 22 Ülkeyi içinizde yaşayan ve içinizdeyken çocukları olan yabancılarla kendiniz arasında mülk olarak bölüşeceksiniz. Onları İsrail’de doğan yerliler sayacaksınız. Onların da İsrail oymakları arasında sizin gibi mülkleri olacak. 23 Yabancı hangi oymağa yerleşmişse, orada ona düşen payı mülk olarak vereceksiniz.›› Egemen RAB böyle diyor.](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
+| {{% bible val="Hezekiel 47:21-23" link="ezk:47,21-23" lang="tr" %}} | ["Yahudi olmayanlar İsrail'in bir parçası olur": ‹‹Bu ülkeyi İsrail oymaklarına göre aranızda paylaşacaksınız. Ülkeyi içinizde yaşayan ve içinizdeyken çocukları olan yabancılarla kendiniz arasında mülk olarak bölüşeceksiniz. Onları İsrail’de doğan yerliler sayacaksınız. Onların da İsrail oymakları arasında sizin gibi mülkleri olacak. Yabancı hangi oymağa yerleşmişse, orada ona düşen payı mülk olarak vereceksiniz.›› Egemen RAB böyle diyor.](/tr/expl/background/israel/the-remnant-of-israel#6f36) |
 | {{% bible val="Hezekiel 48:15-16" link="ezk:48,15-16" lang="tr" %}} | ["Kentin ölçümü": yanındaki kent de bir karedir](/tr/expl/content/paradise/the-new-jerusalem#57fc) |
 | {{% bible val="Hezekiel 48:35" link="ezk:48,35" lang="tr" %}} | ["Söz": şehrin adının sonunda 'RAB oradadır' olduğu Hezekiel'deki](/tr/expl/content/letters/the-letter-to-the-church-in-philadelphia#b0b4) |

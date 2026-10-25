@@ -4,7 +4,7 @@ weight: 62
 docType: expl
 ---
 
-8 bible verses have been used in this book.
+9 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -16,3 +16,4 @@ docType: expl
 | {{% bible val="1.Peter 2:23" link="1pe:2,23" lang="en" %}} | ["Eating the scroll": did not threaten when he suffered](/expl/content/scroll/the-little-scroll#c6ef) |
 | {{% bible val="1.Peter 4:12-13" link="1pe:4,12-13" lang="en" %}} | ["The great tribulation": letter of Peter](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="1.Peter 5:8" link="1pe:5,8" lang="en" %}} | ["Crux 2: what "bound" means": prowls like a roaring lion, looking for someone to devour](/expl/content/1000y/pre-post-and-amillennialism#7d18) |
+| {{% bible val="1.Peter 5:13" link="1pe:5,13" lang="en" %}} | ["The coin": 1 Peter 5:13](/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#55d4) |

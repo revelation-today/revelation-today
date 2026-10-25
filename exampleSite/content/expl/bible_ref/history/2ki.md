@@ -4,11 +4,12 @@ weight: 11
 docType: expl
 ---
 
-19 bible verses have been used in this book.
+20 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
 | {{% bible val="2.Kings 1:9-12" link="2ki:1,9-12" lang="en" %}} | ["The identity of the two witnesses": Elijah calling down fire from heaven](/expl/content/witnesses/the-two-witnesses#3181) |
+| {{% bible val="2.Kings 2:1" link="2ki:2,1" lang="en" %}} | ["Positions of Prominence": 2 Kings 2:1–8:6](/expl/background/literature/literary-tools-in-the-book-of-revelation#e6b3) |
 | {{% bible val="2.Kings 2:11" link="2ki:2,11" lang="en" %}} | ["The identity of the two witnesses": Elijah went up in a whirlwind](/expl/content/witnesses/the-two-witnesses#3181) |
 | {{% bible val="2.Kings 9" link="2ki:9" lang="en" %}} | ["Elijah": the commander of the army, is finally anointed](/expl/content/bowls/the-key-to-armageddon#d43b) |
 | {{% bible val="2.Kings 9" link="2ki:9" lang="en" %}} | ["Armageddon": 2 Kings 9](/quick/content/bowls#armageddon) |

@@ -4,7 +4,7 @@ weight: 1
 docType: expl
 ---
 
-128 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+133 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -33,7 +33,7 @@ docType: expl
 | {{% bible val="Keluaran 6:14" link="exo:6,14" lang="ind" %}} | ["Warisan": Ruben yang, sebagai putra sulung](/id/expl/background/israel/the-role-of-family-in-the-bible#50b0) |
 | {{% bible val="Keluaran 7:5" link="exo:7,5" lang="ind" %}} | ["Mengapa Tulah-Tulah di Mesir?": orang Mesir mengetahui bahwa Akulah TUHAN](/id/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
 | {{% bible val="Keluaran 7:8-13" link="exo:7,8-13" lang="ind" %}} | ["Permulaannya": Musa pergi menemui Firaun dan melakukan mukjizat-mukjizatnya, tetapi Firaun tidak terkesan](/id/expl/bible/exodus/the-plagues-in-egypt#7fef) |
-| {{% bible val="Keluaran 7:14-24" link="exo:7,14-24" lang="ind" %}} | ["Bukan Jawaban yang Sederhana": pembunuhan simbolis atas dewa sungai Nil, sementara air itu sendiri benar-benar berubah menjadi merah seperti darah](/id/expl/background/literature/literally-or-symbolic#1d9a) |
+| {{% bible val="Keluaran 7:14-24" link="exo:7,14-24" lang="ind" %}} | ["Bukan Jawaban yang Sederhana": pembunuhan simbolis atas dewa sungai Nil, sementara air itu sendiri benar-benar berubah menjadi darah](/id/expl/background/literature/literally-or-symbolic#1d9a) |
 | {{% bible val="Keluaran 7:14-24" link="exo:7,14-24" lang="ind" %}} | ["Identitas kedua saksi": tulah pertama pada zaman Musa](/id/expl/content/witnesses/the-two-witnesses#55fa) |
 | {{% bible val="Keluaran 7:14-25" link="exo:7,14-25" lang="ind" %}} | [1, Air menjadi darah](/id/expl/bible/exodus/the-plagues-in-egypt#e216) |
 | {{% bible val="Keluaran 7:17" link="exo:7,17" lang="ind" %}} | ["Cawan-Cawan Itu": tulah pertama di Mesir](/id/expl/content/bowls/the-bowls-of-wrath#9855) |
@@ -117,13 +117,18 @@ docType: expl
 | {{% bible val="Keluaran 20:2" link="exo:20,2" lang="ind" %}} | ["Pengajaran Inti": Akulah TUHAN, Allahmu](/id/sermons/deep-dive/intro/07-gods-covenant#pengajaran-inti) |
 | {{% bible val="Keluaran 20:3-6" link="exo:20,3-6" lang="ind" %}} | ["Perjanjian dengan Israel": hanya memiliki satu Allah](/id/expl/background/israel/gods-covenant#521d) |
 | {{% bible val="Keluaran 20:3-6" link="exo:20,3-6" lang="ind" %}} | ["Pengajaran Inti": Keluaran 20:3-6](/id/sermons/deep-dive/intro/07-gods-covenant#pengajaran-inti) |
+| {{% bible val="Keluaran 21:2" link="exo:21,2" lang="ind" %}} | ["Posisi-Posisi yang Menonjol": Kel.21:2–22:27](/id/expl/background/literature/literary-tools-in-the-book-of-revelation#4b40) |
+| {{% bible val="Keluaran 21:2-17" link="exo:21,2-17" lang="ind" %}} | ["Posisi-Posisi yang Menonjol": 21:2–17](/id/expl/background/literature/literary-tools-in-the-book-of-revelation#4b40) |
+| {{% bible val="Keluaran 22:18-27" link="exo:22,18-27" lang="ind" %}} | ["Posisi-Posisi yang Menonjol": 22:18–27](/id/expl/background/literature/literary-tools-in-the-book-of-revelation#4b40) |
 | {{% bible val="Keluaran 22:29" link="exo:22,29" lang="ind" %}} | ["Kedua Tuaian": berasal dari buah anggur](/id/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |
 | {{% bible val="Keluaran 23:20" link="exo:23,20" lang="ind" %}} | ["Eksodus dalam Injil Markus": malaikat pemimpin dalam peristiwa Keluaran](/id/expl/background/israel/the-second-exodus#f526) |
 | {{% bible val="Keluaran 24:1-12" link="exo:24,1-12" lang="ind" %}} | ["Perjanjian dengan Israel": sebuah perjamuan bersama](/id/expl/background/israel/gods-covenant#521d) |
 | {{% bible val="Keluaran 24:10" link="exo:24,10" lang="ind" %}} | ["Ruang Takhta": di bumi pada masa keluarnya bangsa Israel dari Mesir](/id/expl/content/worship/worship-in-the-throne-room#0938) |
 | {{% bible val="Keluaran 25:1-7" link="exo:25,1-7" lang="ind" %}} | ["Aspek keagamaan": persembahan untuk kemah suci](/id/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Keluaran 25:8" link="exo:25,8" lang="ind" %}} | ["Latar Belakang: Kenapa Allah Ingin Dekat, Bukan Hanya Berkuasa": Keluaran 25:8](/id/kids/teens-prep/09-why-god-wants-to-be-close-not-just-in-charge) |
+| {{% bible val="Keluaran 25:16" link="exo:25,16" lang="ind" %}} | ["Perjanjian dengan Israel": Kel. 25:16](/id/expl/background/israel/gods-covenant#521d) |
 | {{% bible val="Keluaran 25:16" link="exo:25,16" lang="ind" %}} | ["Perjanjian dalam Kitab Wahyu": tabut](/id/expl/background/israel/gods-covenant#c0f2) |
+| {{% bible val="Keluaran 25:22" link="exo:25,22" lang="ind" %}} | ["Allah Datang ke Kota": Kel 25:22](/id/expl/bible/creation/the-temple-and-the-presence-of-god#5add) |
 | {{% bible val="Keluaran 28:5-14" link="exo:28,5-14" lang="ind" %}} | ["Aspek keagamaan": efod (pakaian luar Imam Besar)](/id/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Keluaran 28:15-20" link="exo:28,15-20" lang="ind" %}} | ["Aspek keagamaan": tutup dada](/id/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="Keluaran 28:16" link="exo:28,16" lang="ind" %}} | ["Bahan kota itu": berbentuk persegi](/id/expl/content/paradise/the-new-jerusalem#aef1) |

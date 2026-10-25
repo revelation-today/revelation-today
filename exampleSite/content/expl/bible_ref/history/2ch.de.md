@@ -4,12 +4,14 @@ weight: 13
 docType: expl
 ---
 
-11 Bibelstellen wurden in diesem Buch verwendet.
+13 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
+| {{% bible val="2.Chronik 1" link="2ch:1" lang="de" %}} | ["Prominente Positionen": 2.Chr 1–9](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#4b40) |
 | {{% bible val="2.Chronik 2,13-14" link="2ch:2,13-14" lang="de" %}} | ["Der religiöse Aspekt": aber auch im Tempel](/de/expl/content/harlot/who-is-the-harlot-babylon-part-2#e96e) |
 | {{% bible val="2.Chronik 21,13" link="2ch:21,13" lang="de" %}} | ["Die Hure": 2.Chr 21,13](/de/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
+| {{% bible val="2.Chronik 30,1-11" link="2ch:30,1-11" lang="de" %}} | ["Die Schlacht von Karkemisch und ihre Folgen": 2. Chr 30,1–11](/de/expl/content/bowls/armageddon-and-the-battle-of-karkemish#72a6) |
 | {{% bible val="2.Chronik 35,20-24" link="2ch:35,20-24" lang="de" %}} | ["Armageddon und Karkemisch": die Chronik sagt, er zog aus, obwohl Nechos Worte aus dem Mund Gottes kamen, und er wollte nicht hören](/de/expl/content/bowls/armageddon-and-the-battle-of-karkemish#b3c1) |
 | {{% bible val="2.Chronik 35,20-24" link="2ch:35,20-24" lang="de" %}} | ["Harmagedon": 2. Chronik 35,20-24](/de/quick/content/bowls#harmagedon) |
 | {{% bible val="2.Chronik 35,20-25" link="2ch:35,20-25" lang="de" %}} | ["Die Geschichte vor Karkemisch": fand in der Nähe von Megiddo eine Schlacht statt, in der Josia, König von Juda, gegen Necho, den Pharao Ägyptens, kämpfte](/de/expl/content/bowls/armageddon-and-the-battle-of-karkemish#dd2e) |

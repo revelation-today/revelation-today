@@ -4,7 +4,7 @@ weight: 0
 docType: expl
 ---
 
-73 bible verses have been used in this book.
+81 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -31,10 +31,12 @@ docType: expl
 | {{% bible val="Genesis 4:22-24" link="gen:4,22-24" lang="en" %}} | ["The garden of Eden as a place of fellowship with God": who mocks the protection God gave Cain](/expl/bible/creation/the-temple-and-the-presence-of-god#the-garden-of-eden-as-a-place-of-fellowship-with-god) |
 | {{% bible val="Genesis 4:25-26" link="gen:4,25-26" lang="en" %}} | ["The garden of Eden as a place of fellowship with God": from that point on, people begin again to call on the name of the Lord](/expl/bible/creation/the-temple-and-the-presence-of-god#the-garden-of-eden-as-a-place-of-fellowship-with-god) |
 | {{% bible val="Genesis 5:24" link="gen:5,24" lang="en" %}} | ["The identity of the two witnesses": Enoch was taken by God](/expl/content/witnesses/the-two-witnesses#3181) |
+| {{% bible val="Genesis 6:9-10" link="gen:6,9-10" lang="en" %}} | ["Structured repetition": Gen 6:9–10](/expl/background/literature/literary-tools-in-the-book-of-revelation#315d) |
 | {{% bible val="Genesis 9:1-7" link="gen:9,1-7" lang="en" %}} | ["The throne room": Genesis 9:1–7](/expl/content/worship/worship-in-the-throne-room#2a89) |
 | {{% bible val="Genesis 9:8-17" link="gen:9,8-17" lang="en" %}} | ["The throne room": the covenant itself](/expl/content/worship/worship-in-the-throne-room#2a89) |
 | {{% bible val="Genesis 9:13" link="gen:9,13" lang="en" %}} | ["The mystery of the first horseman": Genesis 9:13](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
-| {{% bible val="Genesis 10" link="gen:10" lang="en" %}} | ["Pouring out of the Spirit": smaller version of the scattered list from the Tower of Babel](/expl/background/israel/the-church-is-part-of-israel#a1c3) |
+| {{% bible val="Genesis 9:18-19" link="gen:9,18-19" lang="en" %}} | ["Structured repetition": 9:18–19](/expl/background/literature/literary-tools-in-the-book-of-revelation#315d) |
+| {{% bible val="Genesis 10" link="gen:10" lang="en" %}} | ["Pouring out of the Spirit": abbreviated version of the seventy nations](/expl/background/israel/the-church-is-part-of-israel#a1c3) |
 | {{% bible val="Genesis 10:8-12" link="gen:10,8-12" lang="en" %}} | ["The garden of Eden as a place of fellowship with God": city remains a significant feature](/expl/bible/creation/the-temple-and-the-presence-of-god#the-garden-of-eden-as-a-place-of-fellowship-with-god) |
 | {{% bible val="Genesis 11:1-9" link="gen:11,1-9" lang="en" %}} | ["The garden of Eden as a place of fellowship with God": the tower of Babel](/expl/bible/creation/the-temple-and-the-presence-of-god#the-garden-of-eden-as-a-place-of-fellowship-with-god) |
 | {{% bible val="Genesis 11:1-9" link="gen:11,1-9" lang="en" %}} | ["First look": Gen 11:1–9](/expl/content/paradise/the-new-jerusalem#946d) |
@@ -48,6 +50,7 @@ docType: expl
 | {{% bible val="Genesis 11:31" link="gen:11,31" lang="en" %}} | ["The story before Carchemish": Abraham came from](/expl/content/bowls/armageddon-and-the-battle-of-karkemish#9897) |
 | {{% bible val="Genesis 12:1-3" link="gen:12,1-3" lang="en" %}} | ["The garden of Eden as a place of fellowship with God": God chooses to make a name for Abraham](/expl/bible/creation/the-temple-and-the-presence-of-god#the-garden-of-eden-as-a-place-of-fellowship-with-god) |
 | {{% bible val="Genesis 12:1-4" link="gen:12,1-4" lang="en" %}} | ["The patriarch": Abram took care of him](/expl/background/israel/the-role-of-family-in-the-bible#7e2f) |
+| {{% bible val="Genesis 12:1-9" link="gen:12,1-9" lang="en" %}} | ["Structured repetition": Gen 12:1–9](/expl/background/literature/literary-tools-in-the-book-of-revelation#315d) |
 | {{% bible val="Genesis 12:2-3" link="gen:12,2-3" lang="en" %}} | ["Origin of the Day of the Lord": covenant was to be a blessing to all nations](/expl/background/israel/the-day-of-the-lord#674e) |
 | {{% bible val="Genesis 12:2-3" link="gen:12,2-3" lang="en" %}} | ["The nations and their gifts": Abraham, called to be a blessing to all nations](/expl/content/paradise/the-new-jerusalem#bf9a) |
 | {{% bible val="Genesis 12:3" link="gen:12,3" lang="en" %}} | ["Coming with the clouds": Abram's promise that through him all nations will be blessed](/expl/content/vision/setting-the-foundation#e267) |
@@ -61,6 +64,7 @@ docType: expl
 | {{% bible val="Genesis 17:20-21" link="gen:17,20-21" lang="en" %}} | ["Crux 4: how much of the promise lands inside history?": but my covenant I will establish with Isaac](/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Genesis 18:20-33" link="gen:18,20-33" lang="en" %}} | ["Background": God's plan is affected by our prayers](/expl/content/bowls/the-bowls-of-wrath#a84e) |
 | {{% bible val="Genesis 19:30-37" link="gen:19,30-37" lang="en" %}} | ["The well-known story": are descended from Lot](/expl/bible/keyword/the-story-of-balaam#c389) |
+| {{% bible val="Genesis 21:1-7" link="gen:21,1-7" lang="en" %}} | ["Structured repetition": 21:1–7](/expl/background/literature/literary-tools-in-the-book-of-revelation#315d) |
 | {{% bible val="Genesis 21:16" link="gen:21,16" lang="en" %}} | ["The mystery of the first horseman": about a bowshot away](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
 | {{% bible val="Genesis 21:20" link="gen:21,20" lang="en" %}} | ["The mystery of the first horseman": Ishmael grows up in the desert to be an archer](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
 | {{% bible val="Genesis 21:22-32" link="gen:21,22-32" lang="en" %}} | ["Historical covenants": Abraham and Abimelech](/expl/background/israel/gods-covenant#0c36) |
@@ -68,7 +72,11 @@ docType: expl
 | {{% bible val="Genesis 25:25-26" link="gen:25,25-26" lang="en" %}} | ["The inheritance": Jacob](/expl/background/israel/the-role-of-family-in-the-bible#4395) |
 | {{% bible val="Genesis 26:12-33" link="gen:26,12-33" lang="en" %}} | ["Historical covenants": Isaac and the Philistines](/expl/background/israel/gods-covenant#0c36) |
 | {{% bible val="Genesis 27" link="gen:27" lang="en" %}} | ["The mystery of the first horseman": Esau's hunting bow](/expl/content/seals/the-mystery-of-the-four-horse-men#bd9c) |
+| {{% bible val="Genesis 28:6-9" link="gen:28,6-9" lang="en" %}} | ["Structured repetition": Gen 28:6–9](/expl/background/literature/literary-tools-in-the-book-of-revelation#315d) |
 | {{% bible val="Genesis 31:22-54" link="gen:31,22-54" lang="en" %}} | ["Historical covenants": Jacob and Laban](/expl/background/israel/gods-covenant#0c36) |
+| {{% bible val="Genesis 36" link="gen:36" lang="en" %}} | ["Structured repetition": Gen 36](/expl/background/literature/literary-tools-in-the-book-of-revelation#315d) |
+| {{% bible val="Genesis 37:2" link="gen:37,2" lang="en" %}} | ["The arrangement of units": Gen. 37:2–50:26](/expl/background/literature/literary-tools-in-the-book-of-revelation#6850) |
+| {{% bible val="Genesis 37:2" link="gen:37,2" lang="en" %}} | ["The arrangement of units": Gen. 37:2–50:26](/expl/background/literature/literary-tools-in-the-book-of-revelation#6850) |
 | {{% bible val="Genesis 37:9-10" link="gen:37,9-10" lang="en" %}} | ["The child": Joseph's second dream](/expl/content/jesus/a-different-christmas-story#the-child) |
 | {{% bible val="Genesis 37:21-30" link="gen:37,21-30" lang="en" %}} | ["The inheritance": very troubled when Joseph got lost](/expl/background/israel/the-role-of-family-in-the-bible#4395) |
 | {{% bible val="Genesis 37:25" link="gen:37,25" lang="en" %}} | ["5, Livestock": used for trade](/expl/bible/exodus/the-plagues-in-egypt#e181) |

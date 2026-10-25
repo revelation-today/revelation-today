@@ -4,7 +4,7 @@ weight: 10
 docType: expl
 ---
 
-35 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+37 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -15,21 +15,23 @@ docType: expl
 | {{% bible val="1 Raja-raja 6:20" link="1ki:6,20" lang="ind" %}} | ["Mengapa berbentuk kubus": Ruang Mahakudus](/id/expl/content/paradise/the-new-jerusalem#bf4e) |
 | {{% bible val="1 Raja-raja 6:20-22" link="1ki:6,20-22" lang="ind" %}} | ["Bahan kota itu": emas mencerminkan kemuliaan Allah](/id/expl/content/paradise/the-new-jerusalem#aef1) |
 | {{% bible val="1 Raja-raja 7:23-26" link="1ki:7,23-26" lang="ind" %}} | ["Ruang Takhta": pembuatannya](/id/expl/content/worship/worship-in-the-throne-room#0938) |
+| {{% bible val="1 Raja-raja 8:41-43" link="1ki:8,41-43" lang="ind" %}} | ["Allah Datang ke Kota": 1Raj 8:41–43](/id/expl/bible/creation/the-temple-and-the-presence-of-god#5add) |
 | {{% bible val="1 Raja-raja 10:14" link="1ki:10,14" lang="ind" %}} | ["Kekayaan Salomo": ia menerima tepat 666 talenta emas setiap tahun](/id/expl/content/beasts/666-the-number-of-the-beast#e63a) |
 | {{% bible val="1 Raja-raja 10:14-29" link="1ki:10,14-29" lang="ind" %}} | ["Kekayaan Salomo": ringkasan kehidupan Raja Salomo](/id/expl/content/beasts/666-the-number-of-the-beast#e63a) |
 | {{% bible val="1 Raja-raja 11:1-13" link="1ki:11,1-13" lang="ind" %}} | ["Kekayaan Salomo": penggambaran kejatuhannya yang menghancurkan](/id/expl/content/beasts/666-the-number-of-the-beast#e63a) |
 | {{% bible val="1 Raja-raja 11:1-13" link="1ki:11,1-13" lang="ind" %}} | ["Kekayaan Salomo": menjadi kejatuhannya](/id/expl/content/beasts/666-the-number-of-the-beast#e63a) |
+| {{% bible val="1 Raja-raja 16:29" link="1ki:16,29" lang="ind" %}} | [1 Raja-raja 16:29–18:35](/id/expl/bible/daniel/the-secret-of-the-3-5-years#472b) |
 | {{% bible val="1 Raja-raja 16:31" link="1ki:16,31" lang="ind" %}} | ["Sang pelacur": 1Raj 16:31](/id/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="1 Raja-raja 16:31-18" link="1ki:16,31-18" lang="ind" %}} | ["Masalahnya": ratu yang memperkenalkan penyembahan berhala kepada Israel](/id/expl/content/letters/the-letter-to-the-church-in-thyatira#2981) |
-| {{% bible val="1 Raja-raja 17:1" link="1ki:17,1" lang="ind" %}} | ["Elia dan Kekeringan (1 Raja-raja 16/29–18/35)": hujan yang cukup](/id/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
-| {{% bible val="1 Raja-raja 17:1" link="1ki:17,1" lang="ind" %}} | ["Elia dan Kekeringan (1 Raja-raja 16/29–18/35)": mengutus Elia untuk memaklumkan kekeringan](/id/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
-| {{% bible val="1 Raja-raja 17:6-24" link="1ki:17,6-24" lang="ind" %}} | ["Elia dan Kekeringan (1 Raja-raja 16/29–18/35)": pergi kepada seorang janda di Sidon, yang anaknya yang sekarat ia selamatkan, dan perempuan itu pun percaya kepada Allah](/id/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
+| {{% bible val="1 Raja-raja 17:1" link="1ki:17,1" lang="ind" %}} | ["1 Raja-raja 16:29–18:35": hujan yang cukup](/id/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
+| {{% bible val="1 Raja-raja 17:1" link="1ki:17,1" lang="ind" %}} | ["1 Raja-raja 16:29–18:35": mengutus Elia untuk memaklumkan kekeringan](/id/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
+| {{% bible val="1 Raja-raja 17:6-24" link="1ki:17,6-24" lang="ind" %}} | ["1 Raja-raja 16:29–18:35": pergi kepada seorang janda di Sidon, yang anaknya yang sekarat ia selamatkan, dan perempuan itu pun percaya kepada Allah](/id/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1 Raja-raja 18" link="1ki:18" lang="ind" %}} | ["Elia": inilah salah satu kisah paling terkenal dalam Perjanjian Lama: seorang nabi Allah berdiri melawan beberapa ratus nabi Baal](/id/expl/content/bowls/the-key-to-armageddon#5f7a) |
 | {{% bible val="1 Raja-raja 18" link="1ki:18" lang="ind" %}} | ["Harmagedon": 1 Raja-raja 18](/id/quick/content/bowls#harmagedon) |
 | {{% bible val="1 Raja-raja 18:3-4" link="1ki:18,3-4" lang="ind" %}} | ["Sang pelacur": Menganiaya dan membunuh orang-orang kudus](/id/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="1 Raja-raja 18:16-46" link="1ki:18,16-46" lang="ind" %}} | ["Elia dan Kekeringan (1 Raja-raja 16/29–18/35)": pertarungan besar di Gunung Karmel tentang siapa sesungguhnya Allah yang benar](/id/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
+| {{% bible val="1 Raja-raja 18:16-46" link="1ki:18,16-46" lang="ind" %}} | ["1 Raja-raja 16:29–18:35": pertarungan besar di Gunung Karmel tentang siapa sesungguhnya Allah yang benar](/id/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1 Raja-raja 18:18" link="1ki:18,18" lang="ind" %}} | ["Sang pelacur": Sisa umat melawan](/id/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
-| {{% bible val="1 Raja-raja 18:24" link="1ki:18,24" lang="ind" %}} | ["Elia dan Kekeringan (1 Raja-raja 16/29–18/35)": api turun dari langit](/id/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
+| {{% bible val="1 Raja-raja 18:24" link="1ki:18,24" lang="ind" %}} | ["1 Raja-raja 16:29–18:35": api turun dari langit](/id/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="1 Raja-raja 18:38" link="1ki:18,38" lang="ind" %}} | ["Serangan Ganda": tanda Elia tentang Allah yang sejati](/id/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
 | {{% bible val="1 Raja-raja 18:40" link="1ki:18,40" lang="ind" %}} | ["Sang pelacur": Allah menghakimi para penerusnya](/id/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="1 Raja-raja 19" link="1ki:19" lang="ind" %}} | ["Elia": Sang ratu murka dan ingin membunuhnya; Elia sendiri menyerah dan ingin mati, tetapi Allah memanggilnya kembali untuk mengurapi Elisa dan Yehu](/id/expl/content/bowls/the-key-to-armageddon#5f7a) |
@@ -42,4 +44,4 @@ docType: expl
 | {{% bible val="1 Raja-raja 21" link="1ki:21" lang="ind" %}} | ["Sang pelacur": Mencari keuntungan ekonomi](/id/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="1 Raja-raja 21:25" link="1ki:21,25" lang="ind" %}} | ["Sang pelacur": Menipu manusia](/id/expl/content/harlot/who-is-the-harlot-babylon-part-1#f764) |
 | {{% bible val="1 Raja-raja 22:19-23" link="1ki:22,19-23" lang="ind" %}} | ["Latar Belakang dan Konteks": keputusan tentang kematian Ahab](/id/expl/content/worship/worship-in-the-throne-room#e638) |
-| {{% bible val="1 Raja-raja 22:19-23" link="1ki:22,19-23" lang="ind" %}} | ["Apakah Wahyu 4:1 Itu Pengangkatan?": Kitab Raja-Raja](/id/expl/topics/others/the-rapture#ab7c) |
+| {{% bible val="1 Raja-raja 22:19-23" link="1ki:22,19-23" lang="ind" %}} | ["Wahyu 4:1": Kitab Raja-Raja](/id/expl/topics/others/the-rapture#ab7c) |

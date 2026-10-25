@@ -4,11 +4,12 @@ weight: 45
 docType: expl
 ---
 
-15 Bibelstellen wurden in diesem Buch verwendet.
+16 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
 | {{% bible val="1.Korinther 1,22-23" link="1co:1,22-23" lang="de" %}} | ["Die dunkle Seite": unser Glaube wäre töricht](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
+| {{% bible val="1.Korinther 1,27" link="1co:1,27" lang="de" %}} | ["Schlussfolgerung": 1. Korinther 1,27](/de/expl/content/bowls/the-key-to-armageddon#6c2d) |
 | {{% bible val="1.Korinther 3,5-8" link="1co:3,5-8" lang="de" %}} | ["Gottes Weinberg": Paulus dann auf die Gemeinde anwendet](/de/expl/background/israel/the-church-is-part-of-israel#145d) |
 | {{% bible val="1.Korinther 3,16" link="1co:3,16" lang="de" %}} | ["Der Tempel im Neuen Testament": wird die Gemeinde zum Tempel, denn die Gemeinde ist der Leib Christi](/de/expl/bible/creation/the-temple-and-the-presence-of-god#379d) |
 | {{% bible val="1.Korinther 3,16-17" link="1co:3,16-17" lang="de" %}} | ["Der Tempel": jetzt dieser Tempel](/de/expl/background/israel/the-church-is-part-of-israel#0dc2) |

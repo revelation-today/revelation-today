@@ -20,7 +20,7 @@ docType: expl
 | {{% bible val="Lukas 4,16-30" link="luk:4,16-30" lang="de" %}} | ["Der neue Auszug bei Lukas": Jesus aus Jesaja vorlas, erklärte er dessen Erfüllung](/de/expl/background/israel/the-second-exodus#f2e1) |
 | {{% bible val="Lukas 4,18-19" link="luk:4,18-19" lang="de" %}} | ["Was ist die Endzeit": Als Jesus jedoch auf die Erde kam, erfüllte er nur einen Teil des Tages des Herrn - den der Rettung -, während der andere Teil, das Gericht, seiner Wiederkunft in unserer Zukunft vorbehalten bleibt](/de/expl/content/army/the-end-time-and-the-great-tribulation#ce8d) |
 | {{% bible val="Lukas 4,25" link="luk:4,25" lang="de" %}} | ["Die Zahl 3,5": Lukas 4,25](/de/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#20fe) |
-| {{% bible val="Lukas 4,25" link="luk:4,25" lang="de" %}} | ["Elia und die Dürre (1. Könige 16/29–18/35)": dreieinhalb Jahre dauert](/de/expl/bible/daniel/the-secret-of-the-3-5-years#2b28) |
+| {{% bible val="Lukas 4,25" link="luk:4,25" lang="de" %}} | ["1. Könige 16,29–18,35": dreieinhalb Jahre dauert](/de/expl/bible/daniel/the-secret-of-the-3-5-years#2b28) |
 | {{% bible val="Lukas 4,25" link="luk:4,25" lang="de" %}} | ["Teil 2: Die 3,5 Jahre": 3,5 Jahre](/de/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#teil-2-die-35-jahre) |
 | {{% bible val="Lukas 6,12-13" link="luk:6,12-13" lang="de" %}} | ["Die Herausforderung": Berg](/de/expl/background/israel/jesus-and-the-covenant#c232) |
 | {{% bible val="Lukas 10,18" link="luk:10,18" lang="de" %}} | ["Knotenpunkt 2: was „gebunden" heißt": ich sah den Satan wie einen Blitz vom Himmel fallen](/de/expl/content/1000y/pre-post-and-amillennialism#7d18) |

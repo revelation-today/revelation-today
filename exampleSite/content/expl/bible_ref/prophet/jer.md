@@ -4,7 +4,7 @@ weight: 23
 docType: expl
 ---
 
-25 bible verses have been used in this book.
+26 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
@@ -32,4 +32,5 @@ docType: expl
 | {{% bible val="Jeremiah 51:25" link="jer:51,25" lang="en" %}} | ["The seven hills and seven kings": Babel described as a mountain](/expl/content/harlot/who-is-the-harlot-babylon-part-1#2d9d) |
 | {{% bible val="Jeremiah 51:25" link="jer:51,25" lang="en" %}} | ["The first four trumpets": a destroying mountain](/expl/content/trumpets/the-trumpets-in-revelation#8718) |
 | {{% bible val="Jeremiah 51:33" link="jer:51,33" lang="en" %}} | ["The two harvests": threshing](/expl/content/harvest/gods-army-and-the-seven-angels#833c) |
+| {{% bible val="Jeremiah 51:45" link="jer:51,45" lang="en" %}} | ["Babel in the Book of Revelation": Jer 51:45](/expl/bible/keyword/the-origin-of-babel#dfad) |
 | {{% bible val="Jeremiah 51:63-64" link="jer:51,63-64" lang="en" %}} | ["The first four trumpets": Jeremiah's scroll against Babel was tied to a stone and sunk in the Euphrates](/expl/content/trumpets/the-trumpets-in-revelation#8718) |

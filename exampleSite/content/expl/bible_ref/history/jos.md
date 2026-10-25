@@ -4,10 +4,12 @@ weight: 5
 docType: expl
 ---
 
-6 bible verses have been used in this book.
+8 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
+| {{% bible val="Joshua 3:9-17" link="jos:3,9-17" lang="en" %}} | ["Structured repetition": Josh. 3:9–17](/expl/background/literature/literary-tools-in-the-book-of-revelation#315d) |
+| {{% bible val="Joshua 4:10-13" link="jos:4,10-13" lang="en" %}} | ["Structured repetition": Josh. 4:10–13](/expl/background/literature/literary-tools-in-the-book-of-revelation#315d) |
 | {{% bible val="Joshua 6:25" link="jos:6,25" lang="en" %}} | ["The Gentiles become part of Israel": Rahab](/expl/background/israel/the-remnant-of-israel#0f15) |
 | {{% bible val="Joshua 6:25" link="jos:6,25" lang="en" %}} | ["The importance of family": Rahab of Jericho](/expl/background/israel/the-role-of-family-in-the-bible#8181) |
 | {{% bible val="Joshua 9" link="jos:9" lang="en" %}} | ["Historical covenants": the Gibeonites deceived Joshua into making a covenant with them](/expl/background/israel/gods-covenant#0c36) |

@@ -4,15 +4,17 @@ weight: 26
 docType: expl
 ---
 
-139 bible verses have been used in this book.
+155 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
 | {{% bible val="Daniel 1" link="dan:1" lang="en" %}} | ["A quick walk through": Dan.1](/expl/bible/daniel/the-book-of-daniel#9a3b) |
 | {{% bible val="Daniel 1" link="dan:1" lang="en" %}} | ["Background: Daniel: Staying Yourself Under Pressure": Daniel 1](/kids/teens-prep/06-daniel-staying-yourself-under-pressure) |
+| {{% bible val="Daniel 1:2" link="dan:1,2" lang="en" %}} | ["Daniel in Babel": Dan 1:2](/expl/bible/keyword/the-origin-of-babel#a8a8) |
 | {{% bible val="Daniel 1:8-14" link="dan:1,8-14" lang="en" %}} | ["Jesus' view": story of Daniel](/expl/content/letters/the-letter-to-the-church-in-smyrna#d931) |
 | {{% bible val="Daniel 2" link="dan:2" lang="en" %}} | ["A quick walk through": Dan.2](/expl/bible/daniel/the-book-of-daniel#9a3b) |
 | {{% bible val="Daniel 2" link="dan:2" lang="en" %}} | ["The four kingdoms": chapter 2 through the vision of a statue](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
+| {{% bible val="Daniel 2:28-29" link="dan:2,28-29" lang="en" %}} | ["The Daniel frame": has shown King Nebuchadnezzar what will happen in days to come](/expl/background/literature/literally-or-symbolic#c39c) |
 | {{% bible val="Daniel 2:28-45" link="dan:2,28-45" lang="en" %}} | ["The Daniel frame": prophecy in Daniel chapter 2](/expl/background/literature/literally-or-symbolic#c39c) |
 | {{% bible val="Daniel 2:28-45" link="dan:2,28-45" lang="en" %}} | ["The Core Teaching": Daniel 2](/sermons/deep-dive/intro/03-symbol-or-literal#the-core-teaching) |
 | {{% bible val="Daniel 2:28-45" link="dan:2,28-45" lang="en" %}} | ["The Core Teaching": Daniel 2](/sermons/deep-dive/intro/06-the-three-mysteries#the-core-teaching) |
@@ -24,7 +26,7 @@ docType: expl
 | {{% bible val="Daniel 2:37-38" link="dan:2,37-38" lang="en" %}} | ["The four kingdoms": the first kingdom is Babel](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
 | {{% bible val="Daniel 2:38" link="dan:2,38" lang="en" %}} | ["What's the point?": the head of gold](/expl/bible/daniel/the-book-of-daniel#b05e) |
 | {{% bible val="Daniel 2:40" link="dan:2,40" lang="en" %}} | ["The four kingdoms": the material of the fourth kingdom in chapter 2](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
-| {{% bible val="Daniel 2:45" link="dan:2,45" lang="en" %}} | ["The Daniel frame": has shown the king what will take place in the future](/expl/background/literature/literally-or-symbolic#c39c) |
+| {{% bible val="Daniel 2:45" link="dan:2,45" lang="en" %}} | ["The Daniel frame": the great God has shown the king what will take place in the future](/expl/background/literature/literally-or-symbolic#c39c) |
 | {{% bible val="Daniel 2:45" link="dan:2,45" lang="en" %}} | ["What's the point?": 2](/expl/bible/daniel/the-book-of-daniel#b05e) |
 | {{% bible val="Daniel 2:45" link="dan:2,45" lang="en" %}} | ["What's the point?": of the whole world and its empires](/expl/bible/daniel/the-book-of-daniel#b05e) |
 | {{% bible val="Daniel 3" link="dan:3" lang="en" %}} | ["A quick walk through": Dan.3](/expl/bible/daniel/the-book-of-daniel#9a3b) |
@@ -39,9 +41,13 @@ docType: expl
 | {{% bible val="Daniel 3:28-30" link="dan:3,28-30" lang="en" %}} | ["A bag full of references": the king acknowledging and praising God, then promoting the friends](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a878) |
 | {{% bible val="Daniel 4" link="dan:4" lang="en" %}} | ["A quick walk through": Dan.4](/expl/bible/daniel/the-book-of-daniel#9a3b) |
 | {{% bible val="Daniel 4:30" link="dan:4,30" lang="en" %}} | ["The chiasm": pride](/expl/bible/daniel/the-book-of-daniel#3d8a) |
+| {{% bible val="Daniel 4:30" link="dan:4,30" lang="en" %}} | ["Babel in the Book of Revelation": Dan 4:30](/expl/bible/keyword/the-origin-of-babel#dfad) |
 | {{% bible val="Daniel 5" link="dan:5" lang="en" %}} | ["A quick walk through": Dan.5](/expl/bible/daniel/the-book-of-daniel#9a3b) |
+| {{% bible val="Daniel 5:28" link="dan:5,28" lang="en" %}} | ["The four kingdoms": 5:28](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
 | {{% bible val="Daniel 5:30" link="dan:5,30" lang="en" %}} | ["The four kingdoms": destroyed by the Medo-Persian Empire](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
+| {{% bible val="Daniel 5:30" link="dan:5,30" lang="en" %}} | ["Babel in the Book of Revelation": Dan 5:30](/expl/bible/keyword/the-origin-of-babel#dfad) |
 | {{% bible val="Daniel 6" link="dan:6" lang="en" %}} | ["A quick walk through": Dan.6](/expl/bible/daniel/the-book-of-daniel#9a3b) |
+| {{% bible val="Daniel 6:8" link="dan:6,8" lang="en" %}} | ["The four kingdoms": 6:8](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
 | {{% bible val="Daniel 6:17" link="dan:6,17" lang="en" %}} | ["But aren't there also differences?": Daniel](/expl/content/1000y/the-thousand-year-kingdom#e7fd) |
 | {{% bible val="Daniel 7" link="dan:7" lang="en" %}} | ["The Daniel frame": Daniel chapter 7](/expl/background/literature/literally-or-symbolic#c39c) |
 | {{% bible val="Daniel 7" link="dan:7" lang="en" %}} | ["An apocalypse": Daniel 7-12](/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
@@ -77,6 +83,7 @@ docType: expl
 | {{% bible val="Daniel 7:10" link="dan:7,10" lang="en" %}} | ["The background and context": Daniel](/expl/content/worship/worship-in-the-throne-room#3c72) |
 | {{% bible val="Daniel 7:10" link="dan:7,10" lang="en" %}} | ["The background and context": Daniel](/expl/content/worship/worship-in-the-throne-room#3c72) |
 | {{% bible val="Daniel 7:12" link="dan:7,12" lang="en" %}} | ["There is more": lose their rule but are given more time to live](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
+| {{% bible val="Daniel 7:13" link="dan:7,13" lang="en" %}} | ["The problem": Daniel 7:13](/expl/bible/daniel/the-son-of-man-and-the-remnant#9d11) |
 | {{% bible val="Daniel 7:13" link="dan:7,13" lang="en" %}} | ["The vision": Daniel](/expl/content/vision/the-vision#7487) |
 | {{% bible val="Daniel 7:13-14" link="dan:7,13-14" lang="en" %}} | ["The end of the kingdoms": he sets up an eternal kingdom](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
 | {{% bible val="Daniel 7:13-14" link="dan:7,13-14" lang="en" %}} | ["The origin": ‘In my vision at night I looked, and there before me was one like a son of man, coming with the clouds of heaven. He approached the Ancient of Days and was led into his presence. He was given authority, glory and sovereign power; all nations and peoples of every language worshiped him. His dominion is an everlasting dominion that will not pass away, and his kingdom is one that will never be destroyed.](/expl/bible/daniel/the-son-of-man-and-the-remnant#ba9d) |
@@ -98,12 +105,12 @@ docType: expl
 | {{% bible val="Daniel 7:18" link="dan:7,18" lang="en" %}} | ["The Core Teaching": Daniel 7:18](/sermons/deep-dive/intro/11-daniel-a-story-of-faithfulness-under-pagan-power#the-core-teaching) |
 | {{% bible val="Daniel 7:18" link="dan:7,18" lang="en" %}} | ["The Core Teaching": the holy people of the Most High will receive the kingdom](/sermons/deep-dive/intro/13-the-son-of-man-daniels-vision-fulfilled#the-core-teaching) |
 | {{% bible val="Daniel 7:19-22" link="dan:7,19-22" lang="en" %}} | ["Two final battles?": 19–22](/expl/content/1000y/the-thousand-year-kingdom#1767) |
-| {{% bible val="Daniel 7:20-27" link="dan:7,20-27" lang="en" %}} | ["The statement": I also wanted to know about the ten horns on its head and about the other horn that came up, before which three of them fell — the horn that looked more imposing than the others and that had eyes and a mouth that spoke boastfully. As I watched, this horn was waging war against the holy people and defeating them, until the Ancient of Days came and pronounced judgment in favour of the holy people of the Most High, and the time came when they possessed the kingdom.](/expl/bible/daniel/the-son-of-man-and-the-remnant#ca53) |
-| {{% bible val="Daniel 7:20-27" link="dan:7,20-27" lang="en" %}} | ["The statement": ‘He gave me this explanation: “The fourth beast is a fourth kingdom that will appear on earth. It will be different from all the other kingdoms and will devour the whole earth, trampling it down and crushing it. The ten horns are ten kings who will come from this kingdom. After them another king will arise, different from the earlier ones; he will subdue three kings. He will speak against the Most High and oppress his holy people and try to change the set times and the laws. The holy people will be delivered into his hands for a time, times and half a time. ‘ “But the court will sit, and his power will be taken away and completely destroyed for ever. Then the sovereignty, power and greatness of all the kingdoms under heaven will be handed over to the holy people of the Most High. His kingdom will be an everlasting kingdom, and all rulers will worship and obey him.](/expl/bible/daniel/the-son-of-man-and-the-remnant#ca53) |
+| {{% bible val="Daniel 7:20-22" link="dan:7,20-22" lang="en" %}} | ["The statement": I also wanted to know about the ten horns on its head and about the other horn that came up, before which three of them fell — the horn that looked more imposing than the others and that had eyes and a mouth that spoke boastfully. As I watched, this horn was waging war against the holy people and defeating them, until the Ancient of Days came and pronounced judgment in favour of the holy people of the Most High, and the time came when they possessed the kingdom.](/expl/bible/daniel/the-son-of-man-and-the-remnant#ca53) |
 | {{% bible val="Daniel 7:21" link="dan:7,21" lang="en" %}} | ["Crux 1: two comings to life, one verb": Daniel 7:21](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Daniel 7:21-22" link="dan:7,21-22" lang="en" %}} | ["The mystery of her fall": Daniel](/expl/content/harlot/the-character-and-destiny-of-the-harlot#0a44) |
 | {{% bible val="Daniel 7:22" link="dan:7,22" lang="en" %}} | ["Crux 1: two comings to life, one verb": Daniel 7:22](/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Daniel 7:22" link="dan:7,22" lang="en" %}} | ["The background and context": twice](/expl/content/worship/worship-in-the-throne-room#3c72) |
+| {{% bible val="Daniel 7:23-27" link="dan:7,23-27" lang="en" %}} | ["The statement": ‘He gave me this explanation: “The fourth beast is a fourth kingdom that will appear on earth. It will be different from all the other kingdoms and will devour the whole earth, trampling it down and crushing it. The ten horns are ten kings who will come from this kingdom. After them another king will arise, different from the earlier ones; he will subdue three kings. He will speak against the Most High and oppress his holy people and try to change the set times and the laws. The holy people will be delivered into his hands for a time, times and half a time. ‘ “But the court will sit, and his power will be taken away and completely destroyed for ever. Then the sovereignty, power and greatness of all the kingdoms under heaven will be handed over to the holy people of the Most High. His kingdom will be an everlasting kingdom, and all rulers will worship and obey him.](/expl/bible/daniel/the-son-of-man-and-the-remnant#ca53) |
 | {{% bible val="Daniel 7:24" link="dan:7,24" lang="en" %}} | ["A bag full of references": which are ten kings](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a878) |
 | {{% bible val="Daniel 7:24" link="dan:7,24" lang="en" %}} | ["A bag full of references": The 10 horns are 10 kings](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a878) |
 | {{% bible val="Daniel 7:25" link="dan:7,25" lang="en" %}} | ["A bag full of references": speaks against the Most High](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a878) |
@@ -112,14 +119,19 @@ docType: expl
 | {{% bible val="Daniel 7:27" link="dan:7,27" lang="en" %}} | ["The background and context": three times](/expl/content/worship/worship-in-the-throne-room#3c72) |
 | {{% bible val="Daniel 7:27" link="dan:7,27" lang="en" %}} | ["The background and context": Daniel](/expl/content/worship/worship-in-the-throne-room#3c72) |
 | {{% bible val="Daniel 8" link="dan:8" lang="en" %}} | ["The walk through continued": Dan.8](/expl/bible/daniel/the-book-of-daniel#02f0) |
+| {{% bible val="Daniel 8:11" link="dan:8,11" lang="en" %}} | ["Fulfilled twice": 8:11](/expl/bible/daniel/the-70-year-weeks#7c21) |
+| {{% bible val="Daniel 8:14" link="dan:8,14" lang="en" %}} | ["Fulfilled twice": 8:14](/expl/bible/daniel/the-70-year-weeks#7c21) |
 | {{% bible val="Daniel 8:14" link="dan:8,14" lang="en" %}} | ["The walk through continued": 2300 mornings and evenings](/expl/bible/daniel/the-book-of-daniel#02f0) |
+| {{% bible val="Daniel 8:17" link="dan:8,17" lang="en" %}} | ["The problem": 8:17](/expl/bible/daniel/the-son-of-man-and-the-remnant#9d11) |
 | {{% bible val="Daniel 8:19-21" link="dan:8,19-21" lang="en" %}} | ["The four kingdoms": Greek empire under Alexander the Great, who conquered the Medo-Persian Empire](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
 | {{% bible val="Daniel 8:20-21" link="dan:8,20-21" lang="en" %}} | ["The walk through continued": fall of the Persian Empire to Alexander the Great](/expl/bible/daniel/the-book-of-daniel#02f0) |
+| {{% bible val="Daniel 8:20-21" link="dan:8,20-21" lang="en" %}} | ["The four kingdoms": 8:20–21](/expl/bible/daniel/the-four-kingdoms-in-daniel#3dba) |
 | {{% bible val="Daniel 8:26" link="dan:8,26" lang="en" %}} | ["A theory with no relevance for the original readers": book was sealed until the time was ready](/expl/topics/others/dispensionalism-and-its-critic#ae8f) |
 | {{% bible val="Daniel 9" link="dan:9" lang="en" %}} | ["The walk through continued": Dan.9](/expl/bible/daniel/the-book-of-daniel#02f0) |
 | {{% bible val="Daniel 9:1-2" link="dan:9,1-2" lang="en" %}} | ["The promise": when the time came](/expl/bible/daniel/the-70-year-weeks#2d32) |
 | {{% bible val="Daniel 9:3-19" link="dan:9,3-19" lang="en" %}} | ["The promise": prayed a prayer of repentance for his people](/expl/bible/daniel/the-70-year-weeks#2d32) |
 | {{% bible val="Daniel 9:3-19" link="dan:9,3-19" lang="en" %}} | ["Part 1: The 70 Weeks": Daniel 9:3-19](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#part-1-the-70-weeks) |
+| {{% bible val="Daniel 9:24" link="dan:9,24" lang="en" %}} | ["A theory that skips over context": 9:24](/expl/topics/others/dispensionalism-and-its-critic#eba9) |
 | {{% bible val="Daniel 9:24-27" link="dan:9,24-27" lang="en" %}} | ["The promise": ‘Seventy “sevens” are decreed for your people and your holy city to finish transgression, to put an end to sin, to atone for wickedness, to bring in everlasting righteousness, to seal up vision and prophecy and to anoint the Most Holy Place. 25 ‘Know and understand this: from the time the word goes out to restore and rebuild Jerusalem until the Anointed One, the ruler, comes, there will be seven “sevens”, and sixty-two “sevens”. It will be rebuilt with streets and a trench, but in times of trouble. 26 After the sixty-two “sevens”, the Anointed One will be put to death and will have nothing. The people of the ruler who will come will destroy the city and the sanctuary. The end will come like a flood: war will continue until the end, and desolations have been decreed. 27 He will confirm a covenant with many for one “seven”. In the middle of the “seven” he will put an end to sacrifice and offering. And at the temple he will set up an abomination that causes desolation, until the end that is decreed is poured out on him.’](/expl/bible/daniel/the-70-year-weeks#2d32) |
 | {{% bible val="Daniel 9:24-27" link="dan:9,24-27" lang="en" %}} | ["The promise": Jews who supported Antiochus IV Epiphanes](/expl/bible/daniel/the-70-year-weeks#2d32) |
 | {{% bible val="Daniel 9:24-27" link="dan:9,24-27" lang="en" %}} | ["The seventy weeks": Know and understand this: from the time the word goes out to restore and rebuild Jerusalem until the Anointed One, the ruler, comes, there will be seven “sevens”, and sixty-two “sevens”. It will be rebuilt with streets and a trench, but in times of trouble.](/expl/bible/daniel/the-70-year-weeks#6576) |
@@ -129,6 +141,7 @@ docType: expl
 | {{% bible val="Daniel 9:24-27" link="dan:9,24-27" lang="en" %}} | ["Background: Daniel's Countdown": Daniel 9:24–27](/kids/teens-prep/07-daniels-countdown) |
 | {{% bible val="Daniel 9:24-27" link="dan:9,24-27" lang="en" %}} | ["Part 1: The 70 Weeks": Daniel 9:24-27](/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#part-1-the-70-weeks) |
 | {{% bible val="Daniel 9:26-27" link="dan:9,26-27" lang="en" %}} | ["A theory that skips over context": 2000 year delay in the prophecy of the 70 weeks](/expl/topics/others/dispensionalism-and-its-critic#eba9) |
+| {{% bible val="Daniel 9:26-27" link="dan:9,26-27" lang="en" %}} | ["A theory that skips over context": Daniel 9:26–27](/expl/topics/others/dispensionalism-and-its-critic#eba9) |
 | {{% bible val="Daniel 9:27" link="dan:9,27" lang="en" %}} | ["The year week in Daniel": described as being established within this week](/expl/bible/daniel/the-secret-of-the-3-5-years#96cb) |
 | {{% bible val="Daniel 9:27" link="dan:9,27" lang="en" %}} | ["Pre-tribulation, mid-tribulation, pre-wrath, or post-tribulation?": Daniel's seventieth week](/expl/topics/others/pre-mid-prewrath-or-post-tribulational) |
 | {{% bible val="Daniel 10" link="dan:10" lang="en" %}} | ["The walk through continued": Dan.10](/expl/bible/daniel/the-book-of-daniel#02f0) |
@@ -136,6 +149,8 @@ docType: expl
 | {{% bible val="Daniel 10:8-19" link="dan:10,8-19" lang="en" %}} | ["The response": Daniel did at his visions](/expl/content/vision/the-vision#8d12) |
 | {{% bible val="Daniel 10:20" link="dan:10,20" lang="en" %}} | ["The vision": figure identified as an angelic warrior](/expl/content/vision/the-vision#7487) |
 | {{% bible val="Daniel 11:1-35" link="dan:11,1-35" lang="en" %}} | ["The walk through continued": Dan 11:1–35](/expl/bible/daniel/the-book-of-daniel#02f0) |
+| {{% bible val="Daniel 11:22" link="dan:11,22" lang="en" %}} | ["Fulfilled twice": 11:22](/expl/bible/daniel/the-70-year-weeks#7c21) |
+| {{% bible val="Daniel 11:30-31" link="dan:11,30-31" lang="en" %}} | ["Fulfilled twice": 11:30–31](/expl/bible/daniel/the-70-year-weeks#7c21) |
 | {{% bible val="Daniel 11:30-39" link="dan:11,30-39" lang="en" %}} | ["The great tribulation": Antiochus Epiphanes and beyond](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Daniel 11:32" link="dan:11,32" lang="en" %}} | ["The promise": chapter 11](/expl/bible/daniel/the-70-year-weeks#2d32) |
 | {{% bible val="Daniel 11:32-34" link="dan:11,32-34" lang="en" %}} | ["The great tribulation": God's people will be deceived and will turn away from God](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
@@ -144,6 +159,7 @@ docType: expl
 | {{% bible val="Daniel 12" link="dan:12" lang="en" %}} | ["The walk through continued": Dan.12](/expl/bible/daniel/the-book-of-daniel#02f0) |
 | {{% bible val="Daniel 12:1" link="dan:12,1" lang="en" %}} | ["The great tribulation": ‘At that time Michael, the great prince who protects your people, will arise. There will be a time of distress such as has not happened from the beginning of nations until then. But at that time your people — everyone whose name is found written in the book — will be delivered.](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Daniel 12:1" link="dan:12,1" lang="en" %}} | ["Pre-tribulational": Michael's own restraining role](/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pt1a) |
+| {{% bible val="Daniel 12:4" link="dan:12,4" lang="en" %}} | ["The angel with the scroll": Dan 12:4, 9](/expl/content/scroll/the-little-scroll#6058) |
 | {{% bible val="Daniel 12:10" link="dan:12,10" lang="en" %}} | ["The great tribulation": purify the saints and divide between the saints and the wicked](/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Daniel 12:11" link="dan:12,11" lang="en" %}} | ["Arithmetic": 1290 days](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#6395) |
 | {{% bible val="Daniel 12:11-12" link="dan:12,11-12" lang="en" %}} | ["Arithmetic": 1290 and 1335 days](/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#6395) |

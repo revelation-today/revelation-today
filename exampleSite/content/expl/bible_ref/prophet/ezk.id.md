@@ -4,7 +4,7 @@ weight: 25
 docType: expl
 ---
 
-64 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+63 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -53,7 +53,6 @@ docType: expl
 | {{% bible val="Yehezkiel 39" link="ezk:39" lang="ind" %}} | ["Simpul 3: apakah pasal 20 mengikuti pasal 19?": 39](/id/expl/content/1000y/pre-post-and-amillennialism#47e1) |
 | {{% bible val="Yehezkiel 39" link="ezk:39" lang="ind" %}} | ["Dua pertempuran terakhir?": 39](/id/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Yehezkiel 39:3" link="ezk:39,3" lang="ind" %}} | ["Rahasia Penunggang Kuda Pertama": mematahkan panah dari tangan Gog](/id/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
-| {{% bible val="Yehezkiel 39:3" link="ezk:39,3" lang="ind" %}} | ["Pembacaan Harfiah yang Tidak Konsisten": Allah menghancurkan busur dan anak panah](/id/expl/topics/others/dispensionalism-and-its-critic#7102) |
 | {{% bible val="Yehezkiel 39:6" link="ezk:39,6" lang="ind" %}} | ["Dua pertempuran terakhir?": api](/id/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Yehezkiel 39:17-21" link="ezk:39,17-21" lang="ind" %}} | ["Dua pertempuran terakhir?": pesta bangkai bagi burung-burung dan binatang buas](/id/expl/content/1000y/the-thousand-year-kingdom#4257) |
 | {{% bible val="Yehezkiel 40" link="ezk:40" lang="ind" %}} | ["Apa alur ceritanya?": 40–48](/id/expl/content/1000y/the-thousand-year-kingdom#008e) |
@@ -69,6 +68,6 @@ docType: expl
 | {{% bible val="Yehezkiel 47" link="ezk:47" lang="ind" %}} | ["Inti Pengajaran": Yehezkiel 47](/id/sermons/deep-dive/intro/14-eden-the-ark-and-the-presence-of-god#inti-pengajaran) |
 | {{% bible val="Yehezkiel 47:1-5" link="ezk:47,1-5" lang="ind" %}} | ["Bait Ketiga": sungai yang mengalir dari bait itu, dalam beberapa ribu hasta, berubah dari aliran kecil menjadi sungai yang terlalu dalam untuk diseberangi](/id/expl/topics/others/dispensionalism-and-its-critic#6193) |
 | {{% bible val="Yehezkiel 47:1-9" link="ezk:47,1-9" lang="ind" %}} | ["Simbol-simbol kehadiran Allah": sungai yang mengalir dari mezbah](/id/expl/content/paradise/the-new-jerusalem#126e) |
-| {{% bible val="Yehezkiel 47:21-23" link="ezk:47,21-23" lang="ind" %}} | ["Bangsa-Bangsa Lain Menjadi Bagian dari Israel": Tanah ini harus kamu bagi-bagikan di antara kamu menurut suku-suku Israel. 22 Kamu harus membagikannya sebagai milik pusaka di antara kamu dan di antara orang-orang asing yang tinggal di tengah-tengahmu dan yang telah memperanakkan anak-anak di tengah-tengahmu. Mereka harus kamu perlakukan seperti orang Israel asli. Mereka akan menerima milik pusaka bersama-sama dengan kamu di tengah-tengah suku-suku Israel. 23 Dan haruslah, di suku mana pun orang asing itu tinggal, di situlah kamu memberikan milik pusakanya, demikianlah firman Tuhan ALLAH.](/id/expl/background/israel/the-remnant-of-israel#1c50) |
+| {{% bible val="Yehezkiel 47:21-23" link="ezk:47,21-23" lang="ind" %}} | ["Bangsa-Bangsa Lain Menjadi Bagian dari Israel": Tanah ini harus kamu bagi-bagikan di antara kamu menurut suku-suku Israel. Kamu harus membagikannya sebagai milik pusaka di antara kamu dan di antara orang-orang asing yang tinggal di tengah-tengahmu dan yang telah memperanakkan anak-anak di tengah-tengahmu. Mereka harus kamu perlakukan seperti orang Israel asli. Mereka akan menerima milik pusaka bersama-sama dengan kamu di tengah-tengah suku-suku Israel. Dan haruslah, di suku mana pun orang asing itu tinggal, di situlah kamu memberikan milik pusakanya, demikianlah firman Tuhan ALLAH.](/id/expl/background/israel/the-remnant-of-israel#1c50) |
 | {{% bible val="Yehezkiel 48:15-16" link="ezk:48,15-16" lang="ind" %}} | ["Ukuran kota itu": kota di sebelahnya pun berbentuk persegi](/id/expl/content/paradise/the-new-jerusalem#bf4e) |
 | {{% bible val="Yehezkiel 48:35" link="ezk:48,35" lang="ind" %}} | ["Janji": Kitab Yehezkiel, di mana nama kota itu pada akhirnya adalah 'TUHAN ada di sana'](/id/expl/content/letters/the-letter-to-the-church-in-philadelphia#b146) |

@@ -4,7 +4,7 @@ weight: 39
 docType: expl
 ---
 
-78 Bibelstellen wurden in diesem Buch verwendet.
+80 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -19,10 +19,9 @@ docType: expl
 | {{% bible val="Matthäus 3,12" link="mat:3,12" lang="de" %}} | ["Die beiden Ernten": das Verbrennen der Spreu](/de/expl/content/harvest/gods-army-and-the-seven-angels#45b1) |
 | {{% bible val="Matthäus 4,1-11" link="mat:4,1-11" lang="de" %}} | ["Einige Grundlagen": Jesus 40 Tage in der Wüste fastete und dabei denselben Herausforderungen begegnete](/de/expl/content/beasts/666-the-number-of-the-beast#74d6) |
 | {{% bible val="Matthäus 4,1-11" link="mat:4,1-11" lang="de" %}} | ["Schließlich die Geschichte": der Teufel, ihn zu versuchen](/de/expl/content/jesus/a-different-christmas-story#fb36) |
-| {{% bible val="Matthäus 4,11" link="mat:4,11" lang="de" %}} | ["Annahmen": der Teufel etwa ist derjenige, der Jesus nach der Versuchung verlässt](/de/expl/topics/others/the-rapture#7b1d) |
 | {{% bible val="Matthäus 5,3" link="mat:5,3" lang="de" %}} | ["Die Lehren Jesu": Die Armen im Geist werden das Reich empfangen](/de/expl/background/israel/jesus-and-the-covenant#221c) |
-| {{% bible val="Matthäus 5,4" link="mat:5,4" lang="de" %}} | ["Die Lehren Jesu": Die Trauernden sollen getröstet werden (mit nationaler Wiedergeburt)](/de/expl/background/israel/jesus-and-the-covenant#221c) |
-| {{% bible val="Matthäus 5,5" link="mat:5,5" lang="de" %}} | ["Die Lehren Jesu": Die Sanftmütigen sollen das Land erben](/de/expl/background/israel/jesus-and-the-covenant#221c) |
+| {{% bible val="Matthäus 5,4" link="mat:5,4" lang="de" %}} | ["Die Lehren Jesu": Die Trauernden sollen getröstet werden](/de/expl/background/israel/jesus-and-the-covenant#221c) |
+| {{% bible val="Matthäus 5,5" link="mat:5,5" lang="de" %}} | ["Die Lehren Jesu": Die Sanftmütigen sollen die Erde erben](/de/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Matthäus 5,8" link="mat:5,8" lang="de" %}} | ["Die Lehren Jesu": Die Reinen im Herzen sollen Gott sehen](/de/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Matthäus 5,9" link="mat:5,9" lang="de" %}} | ["Die Lehren Jesu": Die Frieden stiften, sind es, die Kinder Gottes genannt werden](/de/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Matthäus 6,24" link="mat:6,24" lang="de" %}} | ["Pax Romana und Christen": man kann nur einem Herrn dienen](/de/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation#3005) |
@@ -65,18 +64,21 @@ docType: expl
 | {{% bible val="Matthäus 20,20-28" link="mat:20,20-28" lang="de" %}} | ["Das 1000-jährige Reich": Art von Herrschaft](/de/expl/content/1000y/the-thousand-year-kingdom) |
 | {{% bible val="Matthäus 20,25-28" link="mat:20,25-28" lang="de" %}} | ["Aber da ist mehr": durch Dienen, nicht durch Beherrschen](/de/expl/bible/daniel/the-four-kingdoms-in-daniel#e6a6) |
 | {{% bible val="Matthäus 20,25-28" link="mat:20,25-28" lang="de" %}} | ["Wer herrscht also, über wen und wo?": Jesus hat seine Vollmacht nicht so gebraucht](/de/expl/content/1000y/the-thousand-year-kingdom#6f12) |
-| {{% bible val="Matthäus 21,33-45" link="mat:21,33-45" lang="de" %}} | ["Die Lehren Jesu": verwendet dieses Gleichnis erneut, verbunden mit dem Gericht, Israel vollständig zu vernichten, sollte es ihn ablehnen](/de/expl/background/israel/jesus-and-the-covenant#221c) |
+| {{% bible val="Matthäus 21,33-45" link="mat:21,33-45" lang="de" %}} | ["Die Lehren Jesu": greift dieses Gleichnis erneut auf](/de/expl/background/israel/jesus-and-the-covenant#221c) |
+| {{% bible val="Matthäus 21,38-43" link="mat:21,38-43" lang="de" %}} | ["Die Lehren Jesu": 21,38–43](/de/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Matthäus 22,36-39" link="mat:22,36-39" lang="de" %}} | ["Die dunkle Seite": die Liebe ist das größere Wohl](/de/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#247e) |
 | {{% bible val="Matthäus 24" link="mat:24" lang="de" %}} | ["Eine Apokalypse": Matthäus 24](/de/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
 | {{% bible val="Matthäus 24" link="mat:24" lang="de" %}} | ["Der Feigenbaum und 1948": 24](/de/expl/topics/others/the-rapture#fb48) |
 | {{% bible val="Matthäus 24,3" link="mat:24,3" lang="de" %}} | ["Er kommt mit den Wolken": Jesus über die Endzeit spricht](/de/expl/content/vision/setting-the-foundation#aaf2) |
 | {{% bible val="Matthäus 24,4-8" link="mat:24,4-8" lang="de" %}} | ["Das Geheimnis des ersten Reiters": Matthäus](/de/expl/content/seals/the-mystery-of-the-four-horse-men#bdcd) |
 | {{% bible val="Matthäus 24,12-14" link="mat:24,12-14" lang="de" %}} | ["Das Problem": Matthäus 24,12](/de/expl/content/letters/the-letter-to-the-church-in-ephesus#6de6) |
+| {{% bible val="Matthäus 24,15" link="mat:24,15" lang="de" %}} | ["Die vier Königreiche": Mt 24,15](/de/expl/bible/daniel/the-four-kingdoms-in-daniel#c9a9) |
 | {{% bible val="Matthäus 24,21" link="mat:24,21" lang="de" %}} | ["Futuristisch": Jesu eigener Warnung](/de/expl/background/literature/preterist-historicist-futurist-or-idealist#f3c4) |
 | {{% bible val="Matthäus 24,21" link="mat:24,21" lang="de" %}} | ["Die Große Trübsal": Matthäus](/de/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
 | {{% bible val="Matthäus 24,29-31" link="mat:24,29-31" lang="de" %}} | ["Posttribulational": Jesu eigener Endzeitlehre](/de/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pot4d) |
 | {{% bible val="Matthäus 24,30" link="mat:24,30" lang="de" %}} | ["Er kommt mit den Wolken": Matthäus](/de/expl/content/vision/setting-the-foundation#aaf2) |
 | {{% bible val="Matthäus 24,32" link="mat:24,32" lang="de" %}} | ["Der Feigenbaum und 1948": Das Gleichnis vom Feigenbaum](/de/expl/topics/others/the-rapture#fb48) |
+| {{% bible val="Matthäus 24,32-33" link="mat:24,32-33" lang="de" %}} | ["Der Feigenbaum und 1948": dass er nahe ist](/de/expl/topics/others/the-rapture#fb48) |
 | {{% bible val="Matthäus 24,36" link="mat:24,36" lang="de" %}} | ["Der Kontext": wie der Vers unmittelbar davor sagt](/de/expl/topics/others/the-rapture#3b92) |
 | {{% bible val="Matthäus 24,37-42" link="mat:24,37-42" lang="de" %}} | ["Die Zurückgebliebenen": „Wie es aber in den Tagen Noahs war, so wird es auch bei der Wiederkunft des Menschensohnes sein. Denn wie sie in den Tagen vor der Sintflut aßen und tranken, heirateten und sich verheiraten ließen bis zu dem Tag, als Noah in die Arche ging, und nichts merkten, bis die Sintflut kam und sie alle dahinraffte, so wird auch die Wiederkunft des Menschensohnes sein. Dann werden zwei auf dem Feld sein: einer wird mitgenommen und der andere zurückgelassen. Zwei werden mit der Handmühle mahlen: eine wird mitgenommen und die andere zurückgelassen. Wacht also, denn ihr wisst nicht, an welchem Tag euer Herr kommt.”](/de/expl/topics/others/the-rapture#e8c4) |
 | {{% bible val="Matthäus 25" link="mat:25" lang="de" %}} | ["Der Feigenbaum und 1948": 25](/de/expl/topics/others/the-rapture#fb48) |

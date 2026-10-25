@@ -4,7 +4,7 @@ weight: 39
 docType: expl
 ---
 
-Bu kitapta kullanılan 78 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 80 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -19,10 +19,9 @@ Bu kitapta kullanılan 78 Kutsal Kitap pasajı vardır
 | {{% bible val="Matta 3:12" link="mat:3,12" lang="tr" %}} | ["İki hasat": samanın yakılması](/tr/expl/content/harvest/gods-army-and-the-seven-angels#c8c5) |
 | {{% bible val="Matta 4:1-11" link="mat:4,1-11" lang="tr" %}} | ["Bazı temel bilgiler": İsa'nın çölde 40 gün oruç tutup](/tr/expl/content/beasts/666-the-number-of-the-beast#bdd5) |
 | {{% bible val="Matta 4:1-11" link="mat:4,1-11" lang="tr" %}} | ["Son olarak, hikâye": şeytan onu ayartmaya çalıştı](/tr/expl/content/jesus/a-different-christmas-story#c879) |
-| {{% bible val="Matta 4:11" link="mat:4,11" lang="tr" %}} | ["Varsayımlar": örneğin, İsa'yı ayartıldıktan sonra terk eden şeytandır](/tr/expl/topics/others/the-rapture#b358) |
 | {{% bible val="Matta 5:3" link="mat:5,3" lang="tr" %}} | ["İsa'nın öğretileri": Ruhta yoksul olanlar krallığı alacak](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
-| {{% bible val="Matta 5:4" link="mat:5,4" lang="tr" %}} | ["İsa'nın öğretileri": Yas tutanlar (ulusal yeniden doğuşla) teselli edilecek](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
-| {{% bible val="Matta 5:5" link="mat:5,5" lang="tr" %}} | ["İsa'nın öğretileri": Uysallar toprağı miras alacak](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
+| {{% bible val="Matta 5:4" link="mat:5,4" lang="tr" %}} | ["İsa'nın öğretileri": Yas tutanlar teselli edilecek](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
+| {{% bible val="Matta 5:5" link="mat:5,5" lang="tr" %}} | ["İsa'nın öğretileri": Uysallar yeryüzünü miras alacak](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
 | {{% bible val="Matta 5:8" link="mat:5,8" lang="tr" %}} | ["İsa'nın öğretileri": Yüreği temiz olanlar Tanrı'yı görecek](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
 | {{% bible val="Matta 5:9" link="mat:5,9" lang="tr" %}} | ["İsa'nın öğretileri": Barışı sağlayanlar Tanrı'nın çocukları olarak adlandırılacak](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
 | {{% bible val="Matta 6:24" link="mat:6,24" lang="tr" %}} | ["Pax Romana ve Hristiyanlar": yalnızca tek bir efendiye hizmet edebilirsiniz](/tr/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation#879e) |
@@ -65,18 +64,21 @@ Bu kitapta kullanılan 78 Kutsal Kitap pasajı vardır
 | {{% bible val="Matta 20:20-28" link="mat:20,20-28" lang="tr" %}} | ["1000 yıllık krallık": egemenlik sürme](/tr/expl/content/1000y/the-thousand-year-kingdom) |
 | {{% bible val="Matta 20:25-28" link="mat:20,25-28" lang="tr" %}} | ["Daha fazlası var": hükmederek değil, hizmet ederek](/tr/expl/bible/daniel/the-four-kingdoms-in-daniel#38f8) |
 | {{% bible val="Matta 20:25-28" link="mat:20,25-28" lang="tr" %}} | ["Peki kim, kimin üzerinde ve nerede egemenlik sürer?": İsa yetkisini böyle kullanmadı](/tr/expl/content/1000y/the-thousand-year-kingdom#0495) |
-| {{% bible val="Matta 21:33-45" link="mat:21,33-45" lang="tr" %}} | ["İsa'nın öğretileri": İsa bu benzetmeyi, kendisini reddetmeleri hâlinde İsrail'i tamamen yok edecek bir yargıyla birlikte yeniden kullanır](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
+| {{% bible val="Matta 21:33-45" link="mat:21,33-45" lang="tr" %}} | ["İsa'nın öğretileri": bu benzetmeyi yeniden kullanır](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
+| {{% bible val="Matta 21:38-43" link="mat:21,38-43" lang="tr" %}} | ["İsa'nın öğretileri": 21:38–43](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
 | {{% bible val="Matta 22:35-39" link="mat:22,35-39" lang="tr" %}} | ["Karanlık taraf": sevginin kendisi o daha büyük iyiliktir](/tr/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#b8ad) |
 | {{% bible val="Matta 24" link="mat:24" lang="tr" %}} | ["Bir kıyamet": Matta 24](/tr/expl/background/literature/the-book-of-revelation-how-to-read-it#apocalypse) |
 | {{% bible val="Matta 24" link="mat:24" lang="tr" %}} | ["İncir ağacı ve 1948": 24](/tr/expl/topics/others/the-rapture#e1d2) |
 | {{% bible val="Matta 24:3" link="mat:24,3" lang="tr" %}} | ["Bulutlarla birlikte geliyor": İsa’nın son zamanlardan söz ettiği](/tr/expl/content/vision/setting-the-foundation#4542) |
 | {{% bible val="Matta 24:4-8" link="mat:24,4-8" lang="tr" %}} | ["İlk atlının gizemi": Matta'da](/tr/expl/content/seals/the-mystery-of-the-four-horse-men#dba7) |
 | {{% bible val="Matta 24:12-14" link="mat:24,12-14" lang="tr" %}} | ["Sorun": Matta 24:12](/tr/expl/content/letters/the-letter-to-the-church-in-ephesus#1874) |
+| {{% bible val="Matta 24:15" link="mat:24,15" lang="tr" %}} | ["Dört krallık": Mat. 24:15](/tr/expl/bible/daniel/the-four-kingdoms-in-daniel#b8b5) |
 | {{% bible val="Matta 24:21" link="mat:24,21" lang="tr" %}} | ["Fütürist": İsa'nın kendi uyarısıyla](/tr/expl/background/literature/preterist-historicist-futurist-or-idealist#f3c4) |
 | {{% bible val="Matta 24:21" link="mat:24,21" lang="tr" %}} | ["Büyük sıkıntı": Matta'da](/tr/expl/content/army/the-end-time-and-the-great-tribulation#ef13) |
 | {{% bible val="Matta 24:29-31" link="mat:24,29-31" lang="tr" %}} | ["Posttribülasyonist": İsa'nın kendi son zaman öğretisine](/tr/expl/topics/others/pre-mid-prewrath-or-post-tribulational#pot4d) |
 | {{% bible val="Matta 24:30" link="mat:24,30" lang="tr" %}} | ["Bulutlarla birlikte geliyor": Matta’da](/tr/expl/content/vision/setting-the-foundation#4542) |
 | {{% bible val="Matta 24:32" link="mat:24,32" lang="tr" %}} | ["İncir ağacı ve 1948": İncir ağacı benzetmesini](/tr/expl/topics/others/the-rapture#e1d2) |
+| {{% bible val="Matta 24:32-33" link="mat:24,32-33" lang="tr" %}} | ["İncir ağacı ve 1948": onun yakın olduğunu bilin](/tr/expl/topics/others/the-rapture#e1d2) |
 | {{% bible val="Matta 24:36" link="mat:24,36" lang="tr" %}} | ["Bağlam": bu pasajdan hemen önceki ayetin söylediği gibi](/tr/expl/topics/others/the-rapture#2f7d) |
 | {{% bible val="Matta 24:37-42" link="mat:24,37-42" lang="tr" %}} | ["Arkada bırakılanlar": 'Nuh'un günlerinde nasıl olduysa, İnsanoğlu'nun gelişinde de öyle olacak. Tufandan önceki günlerde, Nuh'un gemiye bindiği güne dek, insanlar yiyip içiyor, evlenip evlendiriliyorlardı; tufan gelip hepsini süpürüp götürünceye dek başlarına geleceklerden habersizdiler. İnsanoğlu'nun gelişi de öyle olacak. O gün tarlada bulunan iki kişiden biri alınacak, biri bırakılacak. Değirmende buğday öğüten iki kadından biri alınacak, biri bırakılacak. Bunun için uyanık kalın, çünkü Rabbiniz'in hangi gün geleceğini bilemezsiniz.'](/tr/expl/topics/others/the-rapture#a0fc) |
 | {{% bible val="Matta 25" link="mat:25" lang="tr" %}} | ["İncir ağacı ve 1948": 25](/tr/expl/topics/others/the-rapture#e1d2) |

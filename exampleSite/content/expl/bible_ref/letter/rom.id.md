@@ -4,7 +4,7 @@ weight: 44
 docType: expl
 ---
 
-20 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+21 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -15,6 +15,7 @@ docType: expl
 | {{% bible val="Roma 5:3-4" link="rom:5,3-4" lang="ind" %}} | ["Kesengsaraan Besar": pemicu pengharapan](/id/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="Roma 6:11" link="rom:6,11" lang="ind" %}} | ["Simpul 1: dua kali menjadi hidup, satu kata kerja": mati bagi dosa tetapi hidup bagi Allah](/id/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Roma 6:13" link="rom:6,13" lang="ind" %}} | ["Simpul 1: dua kali menjadi hidup, satu kata kerja": sebagai orang yang hidup dari antara orang mati](/id/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Roma 8:3" link="rom:8,3" lang="ind" %}} | ["Perjanjian dengan Israel": tidak berdaya](/id/expl/background/israel/gods-covenant#521d) |
 | {{% bible val="Roma 8:14-39" link="rom:8,14-39" lang="ind" %}} | ["Sejarah Israel": dapat dialami dalam kehidupan bersama Roh Kudus](/id/appl/topics/hero/who-rules-the-world#e6be) |
 | {{% bible val="Roma 8:19-22" link="rom:8,19-22" lang="ind" %}} | ["Latar Belakang": ciptaan itu sendiri yang memohon kepada Allah](/id/expl/content/bowls/the-bowls-of-wrath#3526) |
 | {{% bible val="Roma 8:35-39" link="rom:8,35-39" lang="ind" %}} | ["Kesengsaraan Besar": tidak dapat memisahkan kita dari Yesus](/id/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |

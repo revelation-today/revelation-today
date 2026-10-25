@@ -4,7 +4,7 @@ weight: 4
 docType: expl
 ---
 
-30 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+32 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -17,6 +17,7 @@ docType: expl
 | {{% bible val="Ulangan 7:7" link="deu:7,7" lang="ind" %}} | ["Ajaran-Ajaran Yesus": seharusnya sudah diketahui Israel](/id/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="Ulangan 7:7" link="deu:7,7" lang="ind" %}} | ["Pengajaran Inti": Ulangan 7:7](/id/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#pengajaran-inti) |
 | {{% bible val="Ulangan 8:16" link="deu:8,16" lang="ind" %}} | ["Solusinya": manna](/id/expl/content/letters/the-letter-to-the-church-in-pergamon#85d8) |
+| {{% bible val="Ulangan 10:1-5" link="deu:10,1-5" lang="ind" %}} | ["Perjanjian dengan Israel": Ul. 10:1–5](/id/expl/background/israel/gods-covenant#521d) |
 | {{% bible val="Ulangan 10:18" link="deu:10,18" lang="ind" %}} | ["Sebuah Nubuat": Allah melindungi mereka yang tidak berdaya](/id/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Ulangan 14:1" link="deu:14,1" lang="ind" %}} | ["Anak Allah": dalam petunjuk tentang bagaimana umat itu harus memperlakukan diri mereka sendiri](/id/expl/background/israel/the-church-is-part-of-israel#db2c) |
 | {{% bible val="Ulangan 14:2" link="deu:14,2" lang="ind" %}} | ["Milik Kesayangan Allah": menjadi kudus](/id/expl/background/israel/the-church-is-part-of-israel#123e) |
@@ -32,6 +33,7 @@ docType: expl
 | {{% bible val="Ulangan 28:1-14" link="deu:28,1-14" lang="ind" %}} | ["Pengajaran Inti": Ulangan 28:1-14](/id/sermons/deep-dive/intro/07-gods-covenant#pengajaran-inti) |
 | {{% bible val="Ulangan 28:15-68" link="deu:28,15-68" lang="ind" %}} | ["Perjanjian dengan Israel": Kutuk](/id/expl/background/israel/gods-covenant#521d) |
 | {{% bible val="Ulangan 28:15-68" link="deu:28,15-68" lang="ind" %}} | ["Pengajaran Inti": 28:15-68](/id/sermons/deep-dive/intro/07-gods-covenant#pengajaran-inti) |
+| {{% bible val="Ulangan 30:11-14" link="deu:30,11-14" lang="ind" %}} | ["Perjanjian dengan Israel": tidak terlalu sukar bagi mereka](/id/expl/background/israel/gods-covenant#521d) |
 | {{% bible val="Ulangan 30:19" link="deu:30,19" lang="ind" %}} | ["Perjanjian dengan Israel": langit dan bumi](/id/expl/background/israel/gods-covenant#521d) |
 | {{% bible val="Ulangan 30:19" link="deu:30,19" lang="ind" %}} | ["Pengajaran Inti": langit dan bumi sendiri](/id/sermons/deep-dive/intro/07-gods-covenant#pengajaran-inti) |
 | {{% bible val="Ulangan 31:9-13" link="deu:31,9-13" lang="ind" %}} | ["Perjanjian dengan Israel": dibacakan berulang-ulang](/id/expl/background/israel/gods-covenant#521d) |

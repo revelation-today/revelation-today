@@ -4,11 +4,12 @@ weight: 45
 docType: expl
 ---
 
-16 bible verses have been used in this book.
+17 bible verses have been used in this book.
 
 | Verse | Reference |
 |-------|-----------|
 | {{% bible val="1.Corinthians 1:22-23" link="1co:1,22-23" lang="en" %}} | ["The dark side": our faith is silly](/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#896a) |
+| {{% bible val="1.Corinthians 1:27" link="1co:1,27" lang="en" %}} | ["Conclusion": 1 Corinthians 1:27](/expl/content/bowls/the-key-to-armageddon#c932) |
 | {{% bible val="1.Corinthians 3:5-8" link="1co:3,5-8" lang="en" %}} | ["God's vineyard": Paul then applies to the church](/expl/background/israel/the-church-is-part-of-israel#3501) |
 | {{% bible val="1.Corinthians 3:16" link="1co:3,16" lang="en" %}} | ["The temple in the New Testament": the temple becomes the church, since the church is the body of Christ](/expl/bible/creation/the-temple-and-the-presence-of-god#the-temple-in-the-new-testament) |
 | {{% bible val="1.Corinthians 3:16-17" link="1co:3,16-17" lang="en" %}} | ["The temple": that temple now](/expl/background/israel/the-church-is-part-of-israel#3b81) |

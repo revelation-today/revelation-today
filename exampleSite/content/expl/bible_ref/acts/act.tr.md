@@ -4,7 +4,7 @@ weight: 43
 docType: expl
 ---
 
-Bu kitapta kullanılan 48 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 49 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -55,4 +55,5 @@ Bu kitapta kullanılan 48 Kutsal Kitap pasajı vardır
 | {{% bible val="Elçilerin İşleri 26:17-18" link="act:26,17-18" lang="tr" %}} | ["Bakanlık": (El 26:18)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
 | {{% bible val="Elçilerin İşleri 26:23" link="act:26,23" lang="tr" %}} | ["Bakanlık": (El 26:23)](/tr/expl/background/israel/the-church-is-part-of-israel#d3e5) |
 | {{% bible val="Elçilerin İşleri 28:15" link="act:28,15" lang="tr" %}} | ["Kayıp anahtar kelimeler": Pavlus'un Roma'da karşılanışında](/tr/expl/topics/others/the-rapture#470b) |
+| {{% bible val="Elçilerin İşleri 28:24-28" link="act:28,24-28" lang="tr" %}} | ["Özet": Elç. 28:24–28](/tr/expl/background/israel/the-second-exodus#3d5f) |
 | {{% bible val="Elçilerin İşleri 28:26-27" link="act:28,26-27" lang="tr" %}} | ["Elçilerin İşleri'ndeki yeni Çıkış": gönderilirken aldığı sözlerle sona erene](/tr/expl/background/israel/the-second-exodus#f704) |

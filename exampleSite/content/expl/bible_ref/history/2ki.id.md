@@ -4,11 +4,12 @@ weight: 11
 docType: expl
 ---
 
-20 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+21 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
 | {{% bible val="2 Raja-raja 1:9-12" link="2ki:1,9-12" lang="ind" %}} | ["Identitas kedua saksi": Elia yang menurunkan api dari langit](/id/expl/content/witnesses/the-two-witnesses#55fa) |
+| {{% bible val="2 Raja-raja 2:1" link="2ki:2,1" lang="ind" %}} | ["Posisi-Posisi yang Menonjol": 2Raj.2:1–8:6](/id/expl/background/literature/literary-tools-in-the-book-of-revelation#4b40) |
 | {{% bible val="2 Raja-raja 2:11" link="2ki:2,11" lang="ind" %}} | ["Identitas kedua saksi": Elia naik dalam angin badai](/id/expl/content/witnesses/the-two-witnesses#55fa) |
 | {{% bible val="2 Raja-raja 9" link="2ki:9" lang="ind" %}} | ["Elia": panglima pasukan itu, akhirnya diurapi](/id/expl/content/bowls/the-key-to-armageddon#5f7a) |
 | {{% bible val="2 Raja-raja 9" link="2ki:9" lang="ind" %}} | ["Harmagedon": 2 Raja-raja 9](/id/quick/content/bowls#harmagedon) |

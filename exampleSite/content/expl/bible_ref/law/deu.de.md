@@ -4,7 +4,7 @@ weight: 4
 docType: expl
 ---
 
-30 Bibelstellen wurden in diesem Buch verwendet.
+32 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -17,6 +17,7 @@ docType: expl
 | {{% bible val="5.Mose 7,7" link="deu:7,7" lang="de" %}} | ["Die Lehren Jesu": Israel eigentlich schon bekannt sein sollte](/de/expl/background/israel/jesus-and-the-covenant#221c) |
 | {{% bible val="5.Mose 7,7" link="deu:7,7" lang="de" %}} | ["Die Kernlehre": 5. Mose 7,7](/de/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#die-kernlehre) |
 | {{% bible val="5.Mose 8,16" link="deu:8,16" lang="de" %}} | ["Die Lösung": Manna](/de/expl/content/letters/the-letter-to-the-church-in-pergamon#85d8) |
+| {{% bible val="5.Mose 10,1-5" link="deu:10,1-5" lang="de" %}} | ["Der Bund mit Israel": 5 Mose 10,1–5](/de/expl/background/israel/gods-covenant#521d) |
 | {{% bible val="5.Mose 10,18" link="deu:10,18" lang="de" %}} | ["Eine Prophetie": Gott die Hilflosen schützt](/de/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="5.Mose 14,1" link="deu:14,1" lang="de" %}} | ["Gottes Sohn": in den Anweisungen, wie sich das Volk selbst behandeln soll](/de/expl/background/israel/the-church-is-part-of-israel#db2c) |
 | {{% bible val="5.Mose 14,2" link="deu:14,2" lang="de" %}} | ["Gottes besonderes Eigentum": rein](/de/expl/background/israel/the-church-is-part-of-israel#9d55) |
@@ -32,6 +33,7 @@ docType: expl
 | {{% bible val="5.Mose 28,1-14" link="deu:28,1-14" lang="de" %}} | ["Die Kernlehre": 5. Mose 28,1-14](/de/sermons/deep-dive/intro/07-gods-covenant#die-kernlehre) |
 | {{% bible val="5.Mose 28,15-68" link="deu:28,15-68" lang="de" %}} | ["Der Bund mit Israel": Fluch](/de/expl/background/israel/gods-covenant#521d) |
 | {{% bible val="5.Mose 28,15-68" link="deu:28,15-68" lang="de" %}} | ["Die Kernlehre": 28,15-68](/de/sermons/deep-dive/intro/07-gods-covenant#die-kernlehre) |
+| {{% bible val="5.Mose 30,11-14" link="deu:30,11-14" lang="de" %}} | ["Der Bund mit Israel": nicht zu schwer für sie](/de/expl/background/israel/gods-covenant#521d) |
 | {{% bible val="5.Mose 30,19" link="deu:30,19" lang="de" %}} | ["Der Bund mit Israel": Himmel und Erde](/de/expl/background/israel/gods-covenant#521d) |
 | {{% bible val="5.Mose 30,19" link="deu:30,19" lang="de" %}} | ["Die Kernlehre": Himmel und Erde selbst](/de/sermons/deep-dive/intro/07-gods-covenant#die-kernlehre) |
 | {{% bible val="5.Mose 31,9-13" link="deu:31,9-13" lang="de" %}} | ["Der Bund mit Israel": immer wieder gelesen werden](/de/expl/background/israel/gods-covenant#521d) |

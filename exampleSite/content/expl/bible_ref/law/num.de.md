@@ -4,13 +4,15 @@ weight: 3
 docType: expl
 ---
 
-37 Bibelstellen wurden in diesem Buch verwendet.
+39 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
 | {{% bible val="4.Mose 1,2-3" link="num:1,2-3" lang="de" %}} | ["Der neue Auszug in der Offenbarung": 4. Mose 1,2–3](/de/expl/background/israel/the-second-exodus#x0d1) |
 | {{% bible val="4.Mose 1,2-3" link="num:1,2-3" lang="de" %}} | ["Wie die Offenbarung das Alte Testament gebraucht": 4. Mose 1](/de/expl/background/literature/full-of-biblical-references#o1t2) |
 | {{% bible val="4.Mose 1,2-3" link="num:1,2-3" lang="de" %}} | ["Die Armee Gottes": die Zählung der wehrfähigen Männer beim Auszug aus Ägypten](/de/expl/content/army/the-144000#e329) |
+| {{% bible val="4.Mose 4,4-15" link="num:4,4-15" lang="de" %}} | ["Was steckt dahinter?": 4. Mose 4,4–15](/de/expl/bible/creation/the-story-of-uzzah#was-steckt-dahinter) |
+| {{% bible val="4.Mose 4,15" link="num:4,15" lang="de" %}} | ["Was steckt dahinter?": 4. Mose 4,15](/de/expl/bible/creation/the-story-of-uzzah#was-steckt-dahinter) |
 | {{% bible val="4.Mose 12" link="num:12" lang="de" %}} | ["Die weitere Geschichte des Mose": in schwierigen Situationen ruhig und mitfühlend zu bleiben](/de/expl/bible/exodus/the-birth-of-moses#371c) |
 | {{% bible val="4.Mose 12,3" link="num:12,3" lang="de" %}} | ["Die weitere Geschichte des Mose": demütigsten Menschen auf Erden](/de/expl/bible/exodus/the-birth-of-moses#371c) |
 | {{% bible val="4.Mose 13,25" link="num:13,25" lang="de" %}} | ["Einige Grundlagen": das Volk erkundete 40 Tage lang das neue Land](/de/expl/content/beasts/666-the-number-of-the-beast#74d6) |
@@ -37,11 +39,11 @@ docType: expl
 | {{% bible val="4.Mose 27,1-11" link="num:27,1-11" lang="de" %}} | ["Die Kernlehre": 4. Mose 27,1-11](/de/sermons/deep-dive/intro/10-family-outsiders-and-the-god-who-redeems#die-kernlehre) |
 | {{% bible val="4.Mose 31" link="num:31" lang="de" %}} | ["Die Situation bei Baal-Peor": Israel schließlich gegen die Midianiter kämpft](/de/expl/bible/keyword/the-story-of-balaam#b6a6) |
 | {{% bible val="4.Mose 31,2" link="num:31,2" lang="de" %}} | ["Die Situation bei Baal-Peor": Moses letzte Tat vor seinem Tod](/de/expl/bible/keyword/the-story-of-balaam#b6a6) |
-| {{% bible val="4.Mose 31,2" link="num:31,2" lang="de" %}} | ["Die Situation bei Baal-Peor": Männer](/de/expl/bible/keyword/the-story-of-balaam#b6a6) |
 | {{% bible val="4.Mose 31,7" link="num:31,7" lang="de" %}} | ["Die Kernlehre": 4. Mose 31,7](/de/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#die-kernlehre) |
+| {{% bible val="4.Mose 31,7-8" link="num:31,7-8" lang="de" %}} | ["Die Situation bei Baal-Peor": jeden midianitischen Mann](/de/expl/bible/keyword/the-story-of-balaam#b6a6) |
 | {{% bible val="4.Mose 31,8" link="num:31,8" lang="de" %}} | ["Die Situation bei Baal-Peor": Bileam ist unter den Getöteten — er hatte sich die ganze Zeit bei den Midianitern aufgehalten](/de/expl/bible/keyword/the-story-of-balaam#b6a6) |
 | {{% bible val="4.Mose 31,8" link="num:31,8" lang="de" %}} | ["In der Offenbarung": starb Bileam durch das Schwert](/de/expl/bible/keyword/the-story-of-balaam#4803) |
 | {{% bible val="4.Mose 31,8" link="num:31,8" lang="de" %}} | ["Die Kernlehre": 4. Mose 31,8](/de/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#die-kernlehre) |
-| {{% bible val="4.Mose 31,15-17" link="num:31,15-17" lang="de" %}} | ["Die Situation bei Baal-Peor": Frauen](/de/expl/bible/keyword/the-story-of-balaam#b6a6) |
+| {{% bible val="4.Mose 31,14-18" link="num:31,14-18" lang="de" %}} | ["Die Situation bei Baal-Peor": jeder Junge und jede Frau, die mit einem Mann geschlafen hat, getötet werden soll](/de/expl/bible/keyword/the-story-of-balaam#b6a6) |
 | {{% bible val="4.Mose 31,16" link="num:31,16" lang="de" %}} | ["Was war da passiert?": 4. Mose 31,16](/de/expl/bible/keyword/the-story-of-balaam#4803) |
 | {{% bible val="4.Mose 31,16" link="num:31,16" lang="de" %}} | ["Die Kernlehre": 4. Mose 31,16](/de/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#die-kernlehre) |

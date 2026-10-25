@@ -4,13 +4,15 @@ weight: 3
 docType: expl
 ---
 
-Bu kitapta kullanılan 37 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 39 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
 | {{% bible val="Çölde Sayım 1:2-3" link="num:1,2-3" lang="tr" %}} | ["Vahiy'de yeni Çıkış": Çölde Sayım 1:2–3](/tr/expl/background/israel/the-second-exodus#x0d1) |
 | {{% bible val="Çölde Sayım 1:2-3" link="num:1,2-3" lang="tr" %}} | ["Vahiy Eski Antlaşma'yı nasıl kullanır": Çölde Sayım 1](/tr/expl/background/literature/full-of-biblical-references#o1t2) |
 | {{% bible val="Çölde Sayım 1:2-3" link="num:1,2-3" lang="tr" %}} | ["Tanrı'nın ordusu": Mısır'dan Çıkış sırasında askerliğe hazır erkeklerin sayımını](/tr/expl/content/army/the-144000#572e) |
+| {{% bible val="Çölde Sayım 4:4-15" link="num:4,4-15" lang="tr" %}} | ["Peki neler oluyor?": Sayılar 4:4–15](/tr/expl/bible/creation/the-story-of-uzzah#peki-neler-oluyor) |
+| {{% bible val="Çölde Sayım 4:15" link="num:4,15" lang="tr" %}} | ["Peki neler oluyor?": Sayılar 4:15](/tr/expl/bible/creation/the-story-of-uzzah#peki-neler-oluyor) |
 | {{% bible val="Çölde Sayım 12" link="num:12" lang="tr" %}} | ["Musa’nın diğer öyküsü": zor durumlarda bile sakin ve şefkatli kalabilen](/tr/expl/bible/exodus/the-birth-of-moses#3d63) |
 | {{% bible val="Çölde Sayım 12:3" link="num:12,3" lang="tr" %}} | ["Musa’nın diğer öyküsü": alçakgönüllü insan](/tr/expl/bible/exodus/the-birth-of-moses#3d63) |
 | {{% bible val="Çölde Sayım 13:25" link="num:13,25" lang="tr" %}} | ["Bazı temel bilgiler": halk yeni toprağı 40 gün boyunca gözetledi](/tr/expl/content/beasts/666-the-number-of-the-beast#bdd5) |
@@ -37,11 +39,11 @@ Bu kitapta kullanılan 37 Kutsal Kitap pasajı vardır
 | {{% bible val="Çölde Sayım 27:1-11" link="num:27,1-11" lang="tr" %}} | ["Ana Öğreti": Sayılar 27:1-11](/tr/sermons/deep-dive/intro/10-family-outsiders-and-the-god-who-redeems#ana-öğreti) |
 | {{% bible val="Çölde Sayım 31" link="num:31" lang="tr" %}} | ["Baal-Peor’daki durum": İsrail’in sonunda Midyanlılar’a karşı savaşması](/tr/expl/bible/keyword/the-story-of-balaam#ce04) |
 | {{% bible val="Çölde Sayım 31:1-2" link="num:31,1-2" lang="tr" %}} | ["Baal-Peor’daki durum": Musa’nın ölümünden önceki son eylemi](/tr/expl/bible/keyword/the-story-of-balaam#ce04) |
-| {{% bible val="Çölde Sayım 31:1-2" link="num:31,1-2" lang="tr" %}} | ["Baal-Peor’daki durum": erkeklerin](/tr/expl/bible/keyword/the-story-of-balaam#ce04) |
 | {{% bible val="Çölde Sayım 31:7" link="num:31,7" lang="tr" %}} | ["Ana Öğreti": Çölde Sayım 31:7](/tr/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#ana-öğreti) |
+| {{% bible val="Çölde Sayım 31:7-8" link="num:31,7-8" lang="tr" %}} | ["Baal-Peor’daki durum": her Midyanlı erkeği](/tr/expl/bible/keyword/the-story-of-balaam#ce04) |
 | {{% bible val="Çölde Sayım 31:8" link="num:31,8" lang="tr" %}} | ["Baal-Peor’daki durum": öldürülenler arasında Balam da bulunur — meğer o zamana dek Midyanlılar’ın yanında kalıyormuş](/tr/expl/bible/keyword/the-story-of-balaam#ce04) |
 | {{% bible val="Çölde Sayım 31:8" link="num:31,8" lang="tr" %}} | ["Vahiy'de": Balam kılıçla öldü](/tr/expl/bible/keyword/the-story-of-balaam#e4ea) |
 | {{% bible val="Çölde Sayım 31:8" link="num:31,8" lang="tr" %}} | ["Ana Öğreti": Çölde Sayım 31:8](/tr/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#ana-öğreti) |
-| {{% bible val="Çölde Sayım 31:15-17" link="num:31,15-17" lang="tr" %}} | ["Baal-Peor’daki durum": kadınları](/tr/expl/bible/keyword/the-story-of-balaam#ce04) |
+| {{% bible val="Çölde Sayım 31:14-18" link="num:31,14-18" lang="tr" %}} | ["Baal-Peor’daki durum": her erkek çocuğun ve bir erkekle yatmış her kadının öldürülmesini](/tr/expl/bible/keyword/the-story-of-balaam#ce04) |
 | {{% bible val="Çölde Sayım 31:16" link="num:31,16" lang="tr" %}} | ["Ne oldu?": Çölde Sayım 31:16](/tr/expl/bible/keyword/the-story-of-balaam#e4ea) |
 | {{% bible val="Çölde Sayım 31:16" link="num:31,16" lang="tr" %}} | ["Ana Öğreti": Çölde Sayım 31:16](/tr/sermons/deep-dive/intro/16-babel-and-balaam-two-ancient-warnings#ana-öğreti) |

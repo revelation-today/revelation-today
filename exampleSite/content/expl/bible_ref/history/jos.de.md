@@ -4,10 +4,12 @@ weight: 5
 docType: expl
 ---
 
-6 Bibelstellen wurden in diesem Buch verwendet.
+8 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
+| {{% bible val="Josua 3,9-17" link="jos:3,9-17" lang="de" %}} | ["Strukturierte Wiederholung": Jos.3,9–17](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#5820) |
+| {{% bible val="Josua 4,10-13" link="jos:4,10-13" lang="de" %}} | ["Strukturierte Wiederholung": Jos.4,10–13](/de/expl/background/literature/literary-tools-in-the-book-of-revelation#5820) |
 | {{% bible val="Josua 6,25" link="jos:6,25" lang="de" %}} | ["Die Nationen werden Teil von Israel": Rahab](/de/expl/background/israel/the-remnant-of-israel#1c50) |
 | {{% bible val="Josua 6,25" link="jos:6,25" lang="de" %}} | ["Die Wichtigkeit der Familie": Rahab aus Jericho](/de/expl/background/israel/the-role-of-family-in-the-bible#7234) |
 | {{% bible val="Josua 9" link="jos:9" lang="de" %}} | ["Geschichtliche Bünde": die Gibeoniter Josua täuschten, damit er einen Bund mit ihnen schloss](/de/expl/background/israel/gods-covenant#ae45) |

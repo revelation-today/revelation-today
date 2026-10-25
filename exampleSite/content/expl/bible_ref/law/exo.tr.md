@@ -4,7 +4,7 @@ weight: 1
 docType: expl
 ---
 
-Bu kitapta kullanılan 128 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 133 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -33,7 +33,7 @@ Bu kitapta kullanılan 128 Kutsal Kitap pasajı vardır
 | {{% bible val="Mısırdan Çıkış 6:14" link="exo:6,14" lang="tr" %}} | ["Miras": En büyük oğul olarak Ruben](/tr/expl/background/israel/the-role-of-family-in-the-bible#82a3) |
 | {{% bible val="Mısırdan Çıkış 7:5" link="exo:7,5" lang="tr" %}} | ["Neden Mısır'daki belalar?": Mısırlıların benim RAB olduğumu bilmesi](/tr/expl/content/trumpets/the-trumpets-in-revelation#e7a1) |
 | {{% bible val="Mısırdan Çıkış 7:8-13" link="exo:7,8-13" lang="tr" %}} | ["Başlangıç": Musa Firavun’a gidip mucizelerini gerçekleştirir, ama Firavun bundan etkilenmez](/tr/expl/bible/exodus/the-plagues-in-egypt#52f7) |
-| {{% bible val="Mısırdan Çıkış 7:14-24" link="exo:7,14-24" lang="tr" %}} | ["Kolay bir cevap yok": Nil tanrısının sembolik olarak öldürülmesine işaret ederken, su gerçekten de kan gibi kırmızıya dönüşmüştür](/tr/expl/background/literature/literally-or-symbolic#d073) |
+| {{% bible val="Mısırdan Çıkış 7:14-24" link="exo:7,14-24" lang="tr" %}} | ["Kolay bir cevap yok": Nil tanrısının sembolik olarak öldürülmesine işaret ederken, su gerçekten de kana dönüşmüştür](/tr/expl/background/literature/literally-or-symbolic#d073) |
 | {{% bible val="Mısırdan Çıkış 7:14-24" link="exo:7,14-24" lang="tr" %}} | ["İki tanığın kimliği": Musa döneminde gerçekleşen ilk vebayı](/tr/expl/content/witnesses/the-two-witnesses#c357) |
 | {{% bible val="Mısırdan Çıkış 7:14-25" link="exo:7,14-25" lang="tr" %}} | [1, Sudan kana](/tr/expl/bible/exodus/the-plagues-in-egypt#a98d) |
 | {{% bible val="Mısırdan Çıkış 7:17" link="exo:7,17" lang="tr" %}} | ["Kaseler": Mısır'daki ilk bela](/tr/expl/content/bowls/the-bowls-of-wrath#557c) |
@@ -117,13 +117,18 @@ Bu kitapta kullanılan 128 Kutsal Kitap pasajı vardır
 | {{% bible val="Mısırdan Çıkış 20:2" link="exo:20,2" lang="tr" %}} | ["Ana Öğreti": Ben Tanrın Rab'bim](/tr/sermons/deep-dive/intro/07-gods-covenant#ana-öğreti) |
 | {{% bible val="Mısırdan Çıkış 20:3-6" link="exo:20,3-6" lang="tr" %}} | ["İsrail ile yapılan antlaşma": Tek bir Tanrın olsun](/tr/expl/background/israel/gods-covenant#aec8) |
 | {{% bible val="Mısırdan Çıkış 20:3-6" link="exo:20,3-6" lang="tr" %}} | ["Ana Öğreti": Çıkış 20:3-6](/tr/sermons/deep-dive/intro/07-gods-covenant#ana-öğreti) |
+| {{% bible val="Mısırdan Çıkış 21:2" link="exo:21,2" lang="tr" %}} | ["Öne Çıkan Konumlar": Çık. 21:2–22:27](/tr/expl/background/literature/literary-tools-in-the-book-of-revelation#6923) |
+| {{% bible val="Mısırdan Çıkış 21:2-17" link="exo:21,2-17" lang="tr" %}} | ["Öne Çıkan Konumlar": 21:2–17](/tr/expl/background/literature/literary-tools-in-the-book-of-revelation#6923) |
+| {{% bible val="Mısırdan Çıkış 22:18-27" link="exo:22,18-27" lang="tr" %}} | ["Öne Çıkan Konumlar": 22:18–27](/tr/expl/background/literature/literary-tools-in-the-book-of-revelation#6923) |
 | {{% bible val="Mısırdan Çıkış 22:29" link="exo:22,29" lang="tr" %}} | ["İki hasat": üzümden de olabilirdi](/tr/expl/content/harvest/gods-army-and-the-seven-angels#c8c5) |
 | {{% bible val="Mısırdan Çıkış 23:20" link="exo:23,20" lang="tr" %}} | ["Markos'taki Çıkış": Mısır'dan Çıkış'taki öncü meleği](/tr/expl/background/israel/the-second-exodus#098c) |
 | {{% bible val="Mısırdan Çıkış 24:1-12" link="exo:24,1-12" lang="tr" %}} | ["İsrail ile yapılan antlaşma": ortak bir yemekle](/tr/expl/background/israel/gods-covenant#aec8) |
 | {{% bible val="Mısırdan Çıkış 24:10" link="exo:24,10" lang="tr" %}} | ["Taht odası": Mısır'dan Çıkış sırasında yeryüzündeki yüceliği](/tr/expl/content/worship/worship-in-the-throne-room#54a4) |
 | {{% bible val="Mısırdan Çıkış 25:3-7" link="exo:25,3-7" lang="tr" %}} | ["Dini yönü": konut çadırı için sunulan bağış](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-2#bc8e) |
 | {{% bible val="Mısırdan Çıkış 25:8" link="exo:25,8" lang="tr" %}} | ["Arka Plan: Tanrı Neden Sadece Yönetici Değil, Yakın Olmak İstiyor": Mısır'dan Çıkış 25:8](/tr/kids/teens-prep/09-why-god-wants-to-be-close-not-just-in-charge) |
+| {{% bible val="Mısırdan Çıkış 25:16" link="exo:25,16" lang="tr" %}} | ["İsrail ile yapılan antlaşma": Çık. 25:16](/tr/expl/background/israel/gods-covenant#aec8) |
 | {{% bible val="Mısırdan Çıkış 25:16" link="exo:25,16" lang="tr" %}} | ["Vahiy'de antlaşma": sandıkta](/tr/expl/background/israel/gods-covenant#c0f2) |
+| {{% bible val="Mısırdan Çıkış 25:22" link="exo:25,22" lang="tr" %}} | ["Tanrı kasabaya geliyor": Çık 25:22](/tr/expl/bible/creation/the-temple-and-the-presence-of-god#ca70) |
 | {{% bible val="Mısırdan Çıkış 28:6-14" link="exo:28,6-14" lang="tr" %}} | ["Dini yönü": efod (başkâhinin dış giysisi)](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-2#bc8e) |
 | {{% bible val="Mısırdan Çıkış 28:15-20" link="exo:28,15-20" lang="tr" %}} | ["Dini yönü": göğüs zırhı](/tr/expl/content/harlot/who-is-the-harlot-babylon-part-2#bc8e) |
 | {{% bible val="Mısırdan Çıkış 28:16" link="exo:28,16" lang="tr" %}} | ["Kentin malzemesi": kareydi](/tr/expl/content/paradise/the-new-jerusalem#8562) |

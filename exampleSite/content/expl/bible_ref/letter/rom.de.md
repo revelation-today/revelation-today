@@ -4,7 +4,7 @@ weight: 44
 docType: expl
 ---
 
-20 Bibelstellen wurden in diesem Buch verwendet.
+21 Bibelstellen wurden in diesem Buch verwendet.
 
 | Vers | Referenz |
 |-------|-----------|
@@ -15,6 +15,7 @@ docType: expl
 | {{% bible val="Römer 5,3-4" link="rom:5,3-4" lang="de" %}} | ["Die Große Trübsal": Auslöser von Hoffnung](/de/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |
 | {{% bible val="Römer 6,11" link="rom:6,11" lang="de" %}} | ["Knotenpunkt 1: zweimal lebendig werden, ein Verb": tot für die Sünde, aber lebendig für Gott](/de/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
 | {{% bible val="Römer 6,13" link="rom:6,13" lang="de" %}} | ["Knotenpunkt 1: zweimal lebendig werden, ein Verb": als Lebende aus den Toten](/de/expl/content/1000y/pre-post-and-amillennialism#4f1c) |
+| {{% bible val="Römer 8,3" link="rom:8,3" lang="de" %}} | ["Der Bund mit Israel": machtlos gewesen](/de/expl/background/israel/gods-covenant#521d) |
 | {{% bible val="Römer 8,14-39" link="rom:8,14-39" lang="de" %}} | ["Die Geschichte Israels": erfahrbar im Leben mit dem Heiligen Geist](/de/appl/topics/hero/who-rules-the-world#e6be) |
 | {{% bible val="Römer 8,19-22" link="rom:8,19-22" lang="de" %}} | ["Der Hintergrund": die Schöpfung selbst ist, die Gott bittet](/de/expl/content/bowls/the-bowls-of-wrath#a84e) |
 | {{% bible val="Römer 8,35-39" link="rom:8,35-39" lang="de" %}} | ["Die Große Trübsal": uns nicht von Jesus trennen kann](/de/expl/content/army/the-end-time-and-the-great-tribulation#abe2) |

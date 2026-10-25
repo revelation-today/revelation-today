@@ -4,7 +4,7 @@ weight: 18
 docType: expl
 ---
 
-30 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+32 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -12,6 +12,7 @@ docType: expl
 | {{% bible val="Mazmur 2" link="psa:2" lang="ind" %}} | ["Sang Anak": Mazmur 2](/id/expl/content/jesus/a-different-christmas-story#a89c) |
 | {{% bible val="Mazmur 2" link="psa:2" lang="ind" %}} | ["Solusinya": Mazmur 2](/id/expl/content/letters/the-letter-to-the-church-in-thyatira#5b20) |
 | {{% bible val="Mazmur 2:8" link="psa:2,8" lang="ind" %}} | ["Simpul 4: seberapa banyak janji itu mendarat di dalam sejarah?": milik pusaka Anak](/id/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
+| {{% bible val="Mazmur 19:1-2" link="psa:19,1-2" lang="ind" %}} | ["Pola Paralel": Mzm.19:1–2](/id/expl/background/literature/literary-tools-in-the-book-of-revelation#c1a5) |
 | {{% bible val="Mazmur 22:27" link="psa:22,27" lang="ind" %}} | ["Simpul 4: seberapa banyak janji itu mendarat di dalam sejarah?": segala ujung bumi yang mengingat dan berbalik kepada TUHAN](/id/expl/content/1000y/pre-post-and-amillennialism#b3f5) |
 | {{% bible val="Mazmur 23" link="psa:23" lang="ind" %}} | ["Secara harfiah atau simbolis": domba yang makan rumput](/id/quick/background/literature/) |
 | {{% bible val="Mazmur 36:8-9" link="psa:36,8-9" lang="ind" %}} | ["Air kehidupan": memberi minum secara berlimpah](/id/expl/content/paradise/the-new-jerusalem#8a3f) |
@@ -22,7 +23,7 @@ docType: expl
 | {{% bible val="Mazmur 74:13-14" link="psa:74,13-14" lang="ind" %}} | ["Tidak ada laut lagi": Lewiatan](/id/expl/content/paradise/the-new-jerusalem#eee1) |
 | {{% bible val="Mazmur 79:12" link="psa:79,12" lang="ind" %}} | ["Angka 7": Mazmur](/id/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#84db) |
 | {{% bible val="Mazmur 86:8-10" link="psa:86,8-10" lang="ind" %}} | ["Nyanyian Musa": 86](/id/expl/content/harvest/gods-army-and-the-seven-angels#6689) |
-| {{% bible val="Mazmur 87:1-6" link="psa:87,1-6" lang="ind" %}} | ["Bangsa-Bangsa Lain Menjadi Bagian dari Israel": Yang didirikan-Nya di atas gunung-gunung yang kudus, 2 gerbang-gerbang Sion, yang dicintai TUHAN lebih dari segala tempat kediaman Yakub. 3 Hal-hal yang mulia dikatakan tentang engkau, ya kota Allah! (Sela) 4 Aku menyebut Rahab (Mesir) dan Babel di antara orang-orang yang mengenal Aku; sesungguhnya, negeri Filistin dan Tirus serta Kush: \'Orang ini dilahirkan di sana (di Sion).\' 5 Tetapi tentang Sion akan dikatakan: \'Setiap orang dilahirkan di dalamnya,\' dan Yang Mahatinggi sendiri akan meneguhkannya. 6 TUHAN akan menghitung ketika Ia mencatat bangsa-bangsa: \'Orang ini dilahirkan di sana.\'](/id/expl/background/israel/the-remnant-of-israel#1c50) |
+| {{% bible val="Mazmur 87:1-6" link="psa:87,1-6" lang="ind" %}} | ["Bangsa-Bangsa Lain Menjadi Bagian dari Israel": Yang didirikan-Nya di atas gunung-gunung yang kudus, gerbang-gerbang Sion, yang dicintai TUHAN lebih dari segala tempat kediaman Yakub. Hal-hal yang mulia dikatakan tentang engkau, ya kota Allah! (Sela) Aku menyebut Rahab (Mesir) dan Babel di antara orang-orang yang mengenal Aku; sesungguhnya, negeri Filistin dan Tirus serta Kush: \'Orang ini dilahirkan di sana (di Sion).\' Tetapi tentang Sion akan dikatakan: \'Setiap orang dilahirkan di dalamnya,\' dan Yang Mahatinggi sendiri akan meneguhkannya. TUHAN akan menghitung ketika Ia mencatat bangsa-bangsa: \'Orang ini dilahirkan di sana.\'](/id/expl/background/israel/the-remnant-of-israel#1c50) |
 | {{% bible val="Mazmur 89:19-32" link="psa:89,19-32" lang="ind" %}} | ["Dasar": Mazmur 89](/id/expl/content/vision/setting-the-foundation#bb4f) |
 | {{% bible val="Mazmur 89:22" link="psa:89,22" lang="ind" %}} | ["Pengikatan Iblis": Mazmur](/id/expl/content/1000y/the-thousand-year-kingdom#4bba) |
 | {{% bible val="Mazmur 89:27" link="psa:89,27" lang="ind" %}} | ["Anak Allah": dalam rajanya, yang disebut Allah anak sulung-Nya](/id/expl/background/israel/the-church-is-part-of-israel#db2c) |
@@ -35,6 +36,7 @@ docType: expl
 | {{% bible val="Mazmur 105:1" link="psa:105,1" lang="ind" %}} | ["Nyanyian Musa": Mazmur 105](/id/expl/content/harvest/gods-army-and-the-seven-angels#6689) |
 | {{% bible val="Mazmur 106:36-38" link="psa:106,36-38" lang="ind" %}} | ["Siap untuk kematian kedua": mengorbankan anak-anak](/id/expl/content/paradise/the-new-jerusalem#e855) |
 | {{% bible val="Mazmur 115:4-8" link="psa:115,4-8" lang="ind" %}} | ["Serangan Ganda": menunjukkan bahwa ia lebih dari sekadar berhala](/id/expl/content/beasts/the-nature-of-the-beast-in-the-book-of-revelation#a89e) |
+| {{% bible val="Mazmur 121:1-2" link="psa:121,1-2" lang="ind" %}} | ["Dramanya": Mazmur 121:1–2](/id/expl/bible/creation/the-creation#ed45) |
 | {{% bible val="Mazmur 128:3" link="psa:128,3" lang="ind" %}} | ["Pohon Zaitun": individu-individu di Israel](/id/expl/background/israel/the-church-is-part-of-israel#e179) |
 | {{% bible val="Mazmur 130:8" link="psa:130,8" lang="ind" %}} | ["Milik Kesayangan Allah": Mazmur, di mana Israel dijanjikan pembebasan dari segala kejahatan](/id/expl/background/israel/the-church-is-part-of-israel#123e) |
 | {{% bible val="Mazmur 135:15-18" link="psa:135,15-18" lang="ind" %}} | ["Kita Menjadi Seperti Apa yang Kita Sembah": Mazmur](/id/appl/topics/power/worship#6523) |

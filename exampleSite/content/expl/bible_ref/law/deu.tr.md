@@ -4,7 +4,7 @@ weight: 4
 docType: expl
 ---
 
-Bu kitapta kullanılan 30 Kutsal Kitap pasajı vardır
+Bu kitapta kullanılan 32 Kutsal Kitap pasajı vardır
 
 | Ayet | Referans |
 |-------|-----------|
@@ -17,6 +17,7 @@ Bu kitapta kullanılan 30 Kutsal Kitap pasajı vardır
 | {{% bible val="Yasanın Tekrarı 7:7" link="deu:7,7" lang="tr" %}} | ["İsa'nın öğretileri": zaten İsrail tarafından bilinmesi gereken](/tr/expl/background/israel/jesus-and-the-covenant#9f5f) |
 | {{% bible val="Yasanın Tekrarı 7:7" link="deu:7,7" lang="tr" %}} | ["Ana Öğreti": Yasa'nın Tekrarı 7:7](/tr/sermons/deep-dive/intro/09-jesus-the-day-of-the-lord-and-the-second-exodus#ana-öğreti) |
 | {{% bible val="Yasanın Tekrarı 8:16" link="deu:8,16" lang="tr" %}} | ["Çözüm": man](/tr/expl/content/letters/the-letter-to-the-church-in-pergamon#eebd) |
+| {{% bible val="Yasanın Tekrarı 10:1-5" link="deu:10,1-5" lang="tr" %}} | ["İsrail ile yapılan antlaşma": Yas. 10:1–5](/tr/expl/background/israel/gods-covenant#aec8) |
 | {{% bible val="Yasanın Tekrarı 10:18" link="deu:10,18" lang="tr" %}} | ["Bir kehanet": Tanrı çaresizleri korur](/tr/expl/background/literature/the-book-of-revelation-how-to-read-it#prophecy) |
 | {{% bible val="Yasanın Tekrarı 14:1" link="deu:14,1" lang="tr" %}} | ["Tanrı’nın oğlu": halkın kendine nasıl davranması gerektiğine dair talimatlarda](/tr/expl/background/israel/the-church-is-part-of-israel#bb1b) |
 | {{% bible val="Yasanın Tekrarı 14:2" link="deu:14,2" lang="tr" %}} | ["Tanrı'nın değerli mülkü": pak olması için](/tr/expl/background/israel/the-church-is-part-of-israel#5369) |
@@ -32,6 +33,7 @@ Bu kitapta kullanılan 30 Kutsal Kitap pasajı vardır
 | {{% bible val="Yasanın Tekrarı 28:1-14" link="deu:28,1-14" lang="tr" %}} | ["Ana Öğreti": Yasa'nın Tekrarı 28:1-14](/tr/sermons/deep-dive/intro/07-gods-covenant#ana-öğreti) |
 | {{% bible val="Yasanın Tekrarı 28:15-68" link="deu:28,15-68" lang="tr" %}} | ["İsrail ile yapılan antlaşma": Lanet](/tr/expl/background/israel/gods-covenant#aec8) |
 | {{% bible val="Yasanın Tekrarı 28:15-68" link="deu:28,15-68" lang="tr" %}} | ["Ana Öğreti": 28:15-68](/tr/sermons/deep-dive/intro/07-gods-covenant#ana-öğreti) |
+| {{% bible val="Yasanın Tekrarı 30:11-14" link="deu:30,11-14" lang="tr" %}} | ["İsrail ile yapılan antlaşma": kendileri için fazla zor olmadığını](/tr/expl/background/israel/gods-covenant#aec8) |
 | {{% bible val="Yasanın Tekrarı 30:19" link="deu:30,19" lang="tr" %}} | ["İsrail ile yapılan antlaşma": göğün ve yerin](/tr/expl/background/israel/gods-covenant#aec8) |
 | {{% bible val="Yasanın Tekrarı 30:19" link="deu:30,19" lang="tr" %}} | ["Ana Öğreti": göklerin ve yerin kendisi](/tr/sermons/deep-dive/intro/07-gods-covenant#ana-öğreti) |
 | {{% bible val="Yasanın Tekrarı 31:9-13" link="deu:31,9-13" lang="tr" %}} | ["İsrail ile yapılan antlaşma": tekrar tekrar okunması gerekiyordu](/tr/expl/background/israel/gods-covenant#aec8) |

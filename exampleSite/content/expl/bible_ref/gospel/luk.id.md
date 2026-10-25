@@ -20,7 +20,7 @@ docType: expl
 | {{% bible val="Lukas 4:16-30" link="luk:4,16-30" lang="ind" %}} | ["Eksodus Baru dalam Injil Lukas": Yesus membaca dari Kitab Yesaya, Ia menyatakan penggenapannya](/id/expl/background/israel/the-second-exodus#f2e1) |
 | {{% bible val="Lukas 4:18-19" link="luk:4,18-19" lang="ind" %}} | ["Apa itu akhir zaman": Namun ketika Yesus datang ke bumi, Ia hanya menggenapi satu bagian dari Hari TUHAN itu - aspek keselamatan - sementara bagian yang lain, yaitu penghakiman, masih menunggu untuk digenapi ketika Ia datang kembali, di masa depan kita](/id/expl/content/army/the-end-time-and-the-great-tribulation#ce8d) |
 | {{% bible val="Lukas 4:25" link="luk:4,25" lang="ind" %}} | ["Angka 3,5": Lukas 4:25](/id/expl/background/structure/the-use-of-numbers-in-the-book-of-revelation#20fe) |
-| {{% bible val="Lukas 4:25" link="luk:4,25" lang="ind" %}} | ["Elia dan Kekeringan (1 Raja-raja 16/29–18/35)": berlangsung selama 3,5 tahun](/id/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
+| {{% bible val="Lukas 4:25" link="luk:4,25" lang="ind" %}} | ["1 Raja-raja 16:29–18:35": berlangsung selama 3,5 tahun](/id/expl/bible/daniel/the-secret-of-the-3-5-years#89d3) |
 | {{% bible val="Lukas 4:25" link="luk:4,25" lang="ind" %}} | ["Bagian 2: 3,5 Tahun": 3,5 tahun](/id/sermons/deep-dive/intro/12-daniels-timelines-70-weeks-and-3-5-years#bagian-2-35-tahun) |
 | {{% bible val="Lukas 6:12-13" link="luk:6,12-13" lang="ind" %}} | ["Tantangannya": gunung](/id/expl/background/israel/jesus-and-the-covenant#c232) |
 | {{% bible val="Lukas 10:18" link="luk:10,18" lang="ind" %}} | ["Simpul 2: apa arti "diikat"": Aku melihat Iblis jatuh seperti kilat dari langit](/id/expl/content/1000y/pre-post-and-amillennialism#7d18) |

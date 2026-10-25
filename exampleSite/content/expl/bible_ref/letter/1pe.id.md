@@ -4,7 +4,7 @@ weight: 62
 docType: expl
 ---
 
-7 Ayat-ayat Alkitab telah digunakan dalam buku ini.
+8 Ayat-ayat Alkitab telah digunakan dalam buku ini.
 
 | Segar | Referensi |
 |-------|-----------|
@@ -15,3 +15,4 @@ docType: expl
 | {{% bible val="1 Petrus 2:22" link="1pe:2,22" lang="ind" %}} | ["144.000 Orang": yang tidak ditemukan tipu daya dalam mulut-Nya](/id/expl/content/harvest/gods-army-and-the-seven-angels#67e8) |
 | {{% bible val="1 Petrus 4:12-13" link="1pe:4,12-13" lang="ind" %}} | ["Kesengsaraan Besar": surat Petrus](/id/expl/content/army/the-end-time-and-the-great-tribulation#a3b5) |
 | {{% bible val="1 Petrus 5:8" link="1pe:5,8" lang="ind" %}} | ["Simpul 2: apa arti "diikat"": berjalan keliling sama seperti singa yang mengaum-aum dan mencari orang yang dapat ditelannya](/id/expl/content/1000y/pre-post-and-amillennialism#7d18) |
+| {{% bible val="1 Petrus 5:13" link="1pe:5,13" lang="ind" %}} | ["Koin itu": 1 Petrus 5:13](/id/expl/content/harlot/the-harlot-in-revelation-a-mocking-of-the-roman-empire#12e6) |
