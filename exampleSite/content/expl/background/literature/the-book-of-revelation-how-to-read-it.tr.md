@@ -132,11 +132,13 @@ Sembolik dil, bu ikili gerçekliği bulanıklaştırmak yerine keskinleştirir �
 
 Bir kıyamete en yakın modern benzetme, siyasi bir karikatür olabilir.
 
-![Bir gazete karikatürü: aynı haberi çok farklı gözlüklerle okuyan bir kalabalık](/images/20200620_WWD000.avif)
+![Aslan postu giymiş bir eşek orman hayvanlarını korkutuyor; üzerinde "The Republican Vote" yazan bir fil geri çekiliyor](/images/nast-third-term-panic-1874.jpg)
 
-*KAL'ın karikatürü, [The Economist](https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon), 18 Haziran 2020.*
+*Thomas Nast, "The Third-Term Panic", Harper's Weekly, 7 Kasım 1874. Library of Congress, kamu malı.*
 
-Böyle bir karikatüre baktığımızda, ejderhaların yoga yaptığını ya da hatta var olduklarını varsaymadan mesajı anında kavrarız. Vahiy de aynı şekilde işler ve içinde aynı unsurları çalışırken görebiliriz:
+Bu karikatür 150 yıllıktır; bu yüzden biraz arka plana ihtiyaç duyar. 1874'te birçok Amerikan gazetesi Başkan Grant'in üçüncü bir dönem planladığını öne sürüyor ve "Sezarizm", yani bir Roma imparatoru gibi yönetme konusunda uyarıyordu. Nast bu paniği, diğer hayvanları korkutan aslan postlu bir eşek olarak çizdi (Ezop'un eski bir masalı); üzerinde "The Republican Vote" (Cumhuriyetçi oy) yazan fil paniğe kapılır ve "Chaos" (kaos) yazılı bir çukura doğru tökezler. Nast'ın fili bugün hâlâ Cumhuriyetçi Parti'nin simgesidir.
+
+Böyle bir karikatüre baktığımızda, arka planı öğrenir öğrenmez mesajı kavrarız; eşeklerin aslan postu giydiğini ya da fillerin oy kullandığını varsaymayız. Vahiy de aynı şekilde işler ve içinde aynı unsurları çalışırken görebiliriz:
 
 - Açıkça Tanrı'nın halkına karşı duran kötü bir hükümdar vardır, ama 21. bölüm bize yeni yaratılışla birlikte daha iyi bir zamanın geldiğini garanti eder.
 - Kitap uzlaşmaya hiç yer bırakmaz. Tamamen "ya … ya da" çiftleri üzerine kuruludur — Kuzu'ya karşı ejderha, Yeruşalim'e karşı Babil, Tanrı'nın mührüne karşı canavarın işareti, Tanrı'ya tapanlara karşı canavara tapanlar — her bir çift, siyasi düzene ve onu ayakta tutan ideolojiye meydan okur. Buradaki temel nokta her zaman şudur: gerçek kral İsa'dır, imparator değil; gerçek amaç Tanrı'nın krallığıdır, Roma barışı değil; ve gereken şey imparatora sadakat değil, İsa'ya imandır.

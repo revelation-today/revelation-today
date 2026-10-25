@@ -132,11 +132,13 @@ Bahasa simbolis mempertajam realitas ganda ini, bukan mengaburkannya — bahasa 
 
 Perbandingan modern yang paling dekat dengan sebuah apokalips mungkin adalah sebuah kartun politik.
 
-![Sebuah kartun surat kabar: orang banyak membaca berita yang sama lewat kacamata yang sangat berbeda](/images/20200620_WWD000.avif)
+![Seekor keledai berkulit singa menakuti binatang-binatang hutan; seekor gajah berlabel "The Republican Vote" mundur ketakutan](/images/nast-third-term-panic-1874.jpg)
 
-*Kartun KAL, [The Economist](https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon), 18 Juni 2020.*
+*Thomas Nast, "The Third-Term Panic", Harper's Weekly, 7 November 1874. Library of Congress, domain publik.*
 
-Melihat sebuah kartun seperti ini, kita langsung menangkap pesannya, tanpa berasumsi bahwa naga-naga berlatih yoga atau bahkan benar-benar ada. Kitab Wahyu bekerja dengan cara yang sama, dan kita dapat melihat unsur-unsur yang sama bekerja di dalamnya:
+Kartun ini berusia 150 tahun, jadi perlu sedikit latar belakang. Pada tahun 1874 banyak surat kabar Amerika menyatakan bahwa Presiden Grant merencanakan masa jabatan ketiga dan memperingatkan tentang "Kaisarisme", pemerintahan seperti kaisar Romawi. Nast menggambarkan kehebohan itu sebagai seekor keledai berkulit singa (dongeng lama karya Aesop) yang menakut-nakuti binatang lain; gajah berlabel "The Republican Vote" (suara kaum Republik) panik dan terhuyung ke arah lubang bertuliskan "Chaos" (kekacauan). Gajah ciptaan Nast hingga kini menjadi lambang Partai Republik.
+
+Melihat kartun seperti ini, kita menangkap pesannya begitu kita mengetahui latar belakangnya, tanpa mengira bahwa keledai mengenakan kulit singa atau gajah ikut memilih. Kitab Wahyu bekerja dengan cara yang sama, dan kita dapat melihat unsur-unsur yang sama bekerja di dalamnya:
 
 - Jelas ada seorang penguasa jahat yang menentang umat Allah, tetapi pasal 21 meyakinkan kita bahwa sebuah masa yang lebih baik akan datang bersama ciptaan baru.
 - Kitab ini tidak memberi ruang untuk kompromi. Kitab ini seluruhnya dibangun dari pasangan-pasangan "salah satu ... atau" — Anak Domba lawan Naga, Yerusalem lawan Babel, meterai Allah lawan tanda Binatang itu, penyembah-penyembah Allah lawan penyembah-penyembah Binatang itu — setiap pasangan menantang tatanan politik dan ideologi yang menopangnya. Inti yang berulang di sepanjang kitab ini adalah bahwa raja yang sejati adalah Yesus, bukan sang kaisar; tujuan yang sejati adalah Kerajaan Allah, bukan perdamaian Romawi; dan yang dituntut adalah iman kepada Yesus, bukan kesetiaan kepada sang kaisar.

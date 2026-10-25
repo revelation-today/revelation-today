@@ -132,11 +132,13 @@ Symbolic language sharpens this dual reality rather than obscuring it — it isn
 
 The closest modern comparison to an apocalypse might be a political cartoon.
 
-![A newspaper cartoon of a crowd reading the news through very different lenses](/images/20200620_WWD000.avif)
+![A donkey in a lion's skin frightens the animals of the forest; an elephant labelled "The Republican Vote" recoils](/images/nast-third-term-panic-1874.jpg)
 
-*KAL's cartoon, [The Economist](https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon), 18 June 2020.*
+*Thomas Nast, "The Third-Term Panic", Harper's Weekly, 7 November 1874. Library of Congress, public domain.*
 
-Looking at a cartoon like this, we get the message instantly, without assuming that dragons practice yoga or even exist at all. Revelation works the same way, and we can see the same elements at work in it:
+This cartoon is 150 years old, so it needs a little background. In 1874 many American newspapers claimed that President Grant was planning a third term and warned of "Caesarism", rule like a Roman emperor. Nast drew the scare as a donkey in a lion's skin (an old fable of Aesop) frightening the other animals; the elephant, labelled "The Republican Vote", panics and stumbles toward a pit marked "Chaos". Nast's elephant is still the symbol of the Republican Party today.
+
+Looking at a cartoon like this, we get the message as soon as we know the background, without assuming that donkeys wear lion skins or that elephants vote. Revelation works the same way, and we can see the same elements at work in it:
 
 - There is clearly an evil ruler set against the people of God, but chapter 21 assures us that a better time is coming with the new creation.
 - The book leaves no room for compromise. It's built entirely out of "either … or" pairs — Lamb versus Dragon, Jerusalem versus Babel, the seal of God versus the mark of the Beast, worshippers of God versus worshippers of the Beast — each pair challenging the political order and the ideology propping it up. The key point throughout is that the true king is Jesus, not the emperor; the true goal is the kingdom of God, not the Roman peace; and what's required is faith in Jesus, not loyalty to the emperor.

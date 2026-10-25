@@ -132,11 +132,13 @@ Die symbolische Sprache schärft diese doppelte Realität, statt sie zu verschle
 
 Der modernen Welt am nächsten kommt eine Apokalypse vielleicht als politische Karikatur.
 
-![Eine Zeitungskarikatur: eine Menge, die dieselbe Nachricht durch sehr verschiedene Brillen liest](/images/20200620_WWD000.avif)
+![Ein Esel im Löwenfell erschreckt die Tiere des Waldes; ein Elefant mit der Aufschrift „The Republican Vote“ weicht zurück](/images/nast-third-term-panic-1874.jpg)
 
-*KALs Karikatur, [The Economist](https://www.economist.com/the-world-this-week/2020/06/18/kals-cartoon), 18. Juni 2020.*
+*Thomas Nast, „The Third-Term Panic“, Harper’s Weekly, 7. November 1874. Library of Congress, gemeinfrei.*
 
-Betrachten wir eine solche Karikatur, verstehen wir die Botschaft sofort, ohne anzunehmen, dass Drachen Yoga praktizieren oder überhaupt existieren. Die Offenbarung funktioniert genauso, und wir können dieselben Elemente in ihr am Werk sehen:
+Diese Karikatur ist 150 Jahre alt und braucht deshalb ein wenig Hintergrund. 1874 behaupteten viele amerikanische Zeitungen, Präsident Grant plane eine dritte Amtszeit, und warnten vor „Caesarismus“, einer Herrschaft wie die eines römischen Kaisers. Nast zeichnete die Panikmache als Esel im Löwenfell (eine alte Fabel Äsops), der die anderen Tiere erschreckt; der Elefant, beschriftet mit „The Republican Vote“ (die republikanischen Wähler), gerät in Panik und stolpert auf eine Grube mit der Aufschrift „Chaos“ zu. Nasts Elefant ist bis heute das Symbol der Republikanischen Partei.
+
+Betrachten wir eine solche Karikatur, verstehen wir die Botschaft, sobald wir den Hintergrund kennen, ohne anzunehmen, dass Esel Löwenfelle tragen oder Elefanten wählen. Die Offenbarung funktioniert genauso, und wir können dieselben Elemente in ihr am Werk sehen:
 
 - Es gibt eindeutig einen bösen Herrscher, der sich gegen das Volk Gottes stellt, aber Kapitel 21 versichert uns, dass mit der neuen Schöpfung eine bessere Zeit kommt.
 - Das Buch lässt keinen Raum für Kompromisse. Es ist vollständig aus „Entweder-oder"-Paaren aufgebaut — Lamm gegen Drache, Jerusalem gegen Babel, das Siegel Gottes gegen das Malzeichen des Tieres, Anbeter Gottes gegen Anbeter des Tieres —, wobei jedes Paar die politische Ordnung und die dahinterstehende Ideologie infrage stellt. Der entscheidende Punkt ist dabei stets: Der wahre König ist Jesus, nicht der Kaiser; das wahre Ziel ist das Reich Gottes, nicht der römische Frieden; und gefordert ist der Glaube an Jesus, nicht die Treue zum Kaiser.
