@@ -25,7 +25,7 @@ Oradan güneye doğru yayıldılar ve MÖ 1674’te eski Mısır başkenti Memfi
 <a name="c93d"></a>
 Hiksoslar sonunda MÖ 1550 civarında yenilgiye uğratıldı ve Mısır, ikinci bir Hiksos ele geçirmesinin bir daha asla yaşanmamasına kararlıydı. Firavun’u İsrailliler’i küçük ve güçsüz tutmaya iten de bu kararlılıktı.[^neveragain]
 
-Birkaç ayrıntı, Yusuf’un bizzat Hiksos döneminde yaşadığını düşündürür:
+Birkaç ayrıntı, Yusuf’un bizzat Hiksos döneminde yaşadığını düşündürür:[^date]
 
 - {{% bible val="Yusuf oradayken Mısır’ın kuzeydoğusundaki Goşen toprakları saraya yakındı" link="gen:45,10" lang="tr" %}}.[^goshen]
 - İsrail daha sonra {{% bible val="Pitom ve Ramses şehirlerini inşa etmek" link="exo:1,11" lang="tr" %}} zorunda bırakıldı; büyük olasılıkla kuzeydoğuyu yeniden inşa eden [II. Ramses](https://en.wikipedia.org/wiki/Ramesses_II) döneminde — İsrailliler’in sonunda {{% bible val="ayrılıp çıktığı" link="exo:12,37" lang="tr" %}} bölge de tam olarak burasıydı.[^ramses]
@@ -40,3 +40,5 @@ Birkaç ayrıntı, Yusuf’un bizzat Hiksos döneminde yaşadığını düşünd
 [^ramses]: Sarna, s. 10. Hiksos egemenliğinin çöküşü ile 19. hanedan (yaklaşık MÖ 1306–1200) arasındaki iki yüz yılı aşkın sürede Delta'nın doğusu ihmal edilmişti; başkentini burada, kendi adını verdiği yeni kurduğu kentte kuran II. Ramses'tir (yaklaşık MÖ 1290–1224). Sarna buna Yaratılış 47:11'i ekler — İsrail orada “Ramses bölgesi”nde oturur; bağlam içinde anakroniktir, ama gerçek bir tarihsel durumun yansımasıdır — ve Mezmur 78:12, 43'ü, onları “Soan ovası”na, yani Delta'nın kuzeydoğusundaki Tanis'e yerleştirir.
 
 [^seti]: Sarna, s. 18: 19. hanedanın gerçekten etkili ilk kralı I. Sethos (Seti) (yaklaşık MÖ 1305–1290), Avaris'in hemen kuzeyinde kendine bir yazlık saray yaptırdı; bu sarayın yeni bir yerleşimin çekirdeğini oluşturması amaçlanıyordu. II. Ramses, tahta çıkışından kısa süre sonra babasının Avaris yakınındaki “yeni dikilmiş sarayını” ziyaret etti ve yeni başkenti orada duyurdu (s. 19). Sarayın yakında kalmış olması da Sarna'nın savıdır, s. 10: Miryam eve koşup annesini getirebiliyordu ve Firavun, Musa ile Harun'u gecenin ortasında çağırtabiliyordu — demek ki oturdukları yer uzak değildi.
+
+[^date]: Bu, Çıkış'ın MÖ 13. yüzyıla tarihlenmesini izler. Öbür yaygın tarihleme 1. Krallar 6:1'i (Süleyman'ın tapınağından 480 yıl önce, yaklaşık MÖ 960) olduğu gibi alır ve 15. yüzyılın ortasına varır. Sarna bunu anlatıyla bağdaştırmayı güç bulur: Musa, Delta'da oturan bir firavunla sürekli temas hâlindedir, oysa 15. yüzyılda başkent 650 km güneydeki Teb'ti ve Mısır Kenan'ı sıkıca elinde tutuyordu. 13. yüzyıl tarihlemesinin de kendi güçlükleri olduğunu kabul eder ve anlatının “bir iman belgesi, tarih yazımı kaydı değil” olduğunu hatırlatır (*JPS Torah Commentary: Exodus*, s. xiv–xv).

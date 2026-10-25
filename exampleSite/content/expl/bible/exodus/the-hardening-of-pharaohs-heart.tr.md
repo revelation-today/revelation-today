@@ -38,6 +38,6 @@ Belalar borazanlarda ve kâselerde geri döner; katılaşmış tepki de öyle: �
 
 Okura mesaj açıktır: Firavun gibi olma. Bunun nasıl bittiğini biliyorsun. Firavun’dan farklı olarak sen denizin öte kıyısını zaten gördün; kurtarılanlar orada Musa’nın ve Kuzu’nun ezgisini söylüyor (15:2–4). Dönme zamanı şimdidir, hâlâ “bugün” denirken — “yüreklerinizi katılaştırmayın” (İbr. 3:7–8, 15).
 
-[^harden]: TDOT, c. 7, s. 428; c. 4, s. 308. Beale Tanrı’nın payına daha çok ağırlık verir: katılaşmaya baştan beri Tanrı yol açmıştır; Pavlus öyküyü Romalılar 9:17–18’de böyle okur (s. 466).
+[^harden]: TDOT, c. 7, s. 428; c. 4, s. 308. Sarna öyküde tam yirmi atıf sayar; yarısı Firavun'un karakterine, yarısı ilahi nedenselliğe bağlanır ve ilk beş belada Firavun'un inatçılığının kendi isteğinden kaynaklandığını, ancak sonrasında Tanrı'ya atfedildiğini belirtir: “kralın dik başlılığının o noktada alışkanlık hâline geldiğini ve geri döndürülemez olduğunu söylemenin Kutsal Kitap'taki yolu” (*JPS Torah Commentary: Exodus*, s. 23). Beale Tanrı’nın payına daha çok ağırlık verir: katılaşmaya baştan beri Tanrı yol açmıştır; Pavlus öyküyü Romalılar 9:17–18’de böyle okur (s. 466).
 
 [^idols]: Beale, s. 519; Yeşaya 6:9–10 ile.

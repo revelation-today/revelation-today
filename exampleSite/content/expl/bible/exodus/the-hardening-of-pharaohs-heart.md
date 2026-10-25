@@ -38,6 +38,6 @@ The plagues return in the trumpets and the bowls, and so does the hardened respo
 
 So the message to the reader is plain: do not be like Pharaoh. You know how this ends. Unlike Pharaoh, you have already seen the far shore of the sea, where the redeemed sing the song of Moses and of the Lamb (15:2–4). The time to turn is now, while it is still called "today" — "do not harden your hearts" (Heb 3:7–8, 15).
 
-[^harden]: TDOT, vol. 7, p. 428; vol. 4, p. 308. Beale puts more weight on God's side: God caused the hardening from the start, as Paul reads the story in Romans 9:17–18 (p. 466).
+[^harden]: TDOT, vol. 7, p. 428; vol. 4, p. 308. Sarna counts exactly twenty references in the story, half to Pharaoh's own character and half to divine causality, and notes that in the first five plagues Pharaoh's obduracy is self-willed; only afterwards is it attributed to God, "the biblical way of asserting that the king's intransigence has by then become habitual and irreversible" (*JPS Torah Commentary: Exodus*, p. 23). Beale puts more weight on God's side: God caused the hardening from the start, as Paul reads the story in Romans 9:17–18 (p. 466).
 
 [^idols]: Beale, p. 519, with Isaiah 6:9–10.

@@ -109,7 +109,7 @@ Ternak yang terkena tulah ini sangat penting bagi hampir setiap bagian masyaraka
 ### {{% bible val="6, Barah" link="exo:9,8-12" lang="ind" %}}
 
 <a name="c6b1"></a>
-Musa dan Harun melemparkan debu ke udara, dan debu itu berubah menjadi barah pada manusia maupun hewan. Kali ini para ahli sihir bahkan tidak dapat tampil di hadapan Firaun, karena mereka najis secara upacara. Ironinya sangat dalam: melemparkan debu ke udara kemungkinan besar menyinggung sebuah ritual pendamaian yang dilakukan oleh para ahli sihir itu sendiri. Mereka bukan hanya tidak dapat lagi melakukannya — ritual itu sendiri kini telah sepenuhnya kehilangan kredibilitasnya.[^dust]
+Musa dan Harun melemparkan debu ke udara, dan debu itu berubah menjadi barah pada manusia maupun hewan. Kali ini para ahli sihir bahkan tidak dapat tampil di hadapan Firaun, karena mereka najis secara upacara. Ironinya sangat dalam: melemparkan debu ke udara mungkin menyinggung sebuah ritual pendamaian yang dilakukan oleh para ahli sihir itu sendiri. Jika demikian, mereka tidak dapat lagi melakukannya, dan ritual itu sendiri telah kehilangan kredibilitasnya.[^dust]
 
 ### {{% bible val="7, Hujan es" link="exo:9,13-35" lang="ind" %}}
 
@@ -121,7 +121,7 @@ Di sinilah keadaan menjadi serius: {{% bible val="Allah menyerang dengan seluruh
 <a name="ae09"></a>
 {{% bible val="Belalang datang dan menghancurkan segala sesuatu yang masih tersisa dari hujan es" link="exo:10,4-5" lang="ind" %}}. Kali ini, {{% bible val="para pejabat Firaun sendiri memohon kepadanya untuk melakukan apa yang diinginkan Musa" link="exo:10,7" lang="ind" %}} — tetapi ia tetap menolak membiarkan umat itu pergi, bahkan ketika {{% bible val="tulah-tulah terus berlanjut dan Firaun mengakui dosanya" link="exo:10,16-17" lang="ind" %}}.
 
-Mesir bahkan memiliki seorang dewa yang satu-satunya tugasnya adalah melindungi dari belalang, ditambah lagi jimat-jimat belalang khusus yang dimaksudkan untuk tujuan yang sama — tidak satu pun dari semua itu berhasil.[^locust]
+Para petani Mesir bahkan memakai jimat belalang dan memanggil seorang dewa khusus agar menjauhkan serangga itu — tidak satu pun dari semua itu berhasil.[^locust]
 
 ### {{% bible val="9, Kegelapan" link="exo:10,21-29" lang="ind" %}}
 
@@ -152,7 +152,7 @@ Tulah-tulah itu muncul kembali dalam sangkakala dan cawan: air menjadi darah, hu
 
 Tanda itu pun muncul kembali. Israel harus membawa penyelamatan Allah "{{% bible val="sebagai tanda pada tanganmu dan sebagai peringatan di dahimu" link="exo:13,9" lang="ind" %}}": dahi untuk apa yang kaupercayai, tangan untuk apa yang kaulakukan. Dalam Kitab Wahyu binatang itu menirunya. {{% bible val="Tandanya dikenakan pada tangan kanan atau pada dahi" link="rev:13,16" lang="ind" %}}, sedangkan umat Allah membawa {{% bible val="nama-Nya pada dahi mereka" link="rev:14,1" lang="ind" %}}.[^mark] Jadi pertanyaan dalam peristiwa keluaran itu masih tetap pertanyaannya: tanda siapakah yang kaubawa?
 
-[^structure]: Sarna menyajikan pola ini dalam sebuah tabel: *Exploring Exodus*, Tabel 4.2, “The Literary Structure of the Plagues Narrative”, hlm. 76. Tentang para ahli sihir, Bräumer, hlm. 140.
+[^structure]: Sarna menyajikan pola ini dalam sebuah tabel: *Exploring Exodus*, Tabel 4.2, “The Literary Structure of the Plagues Narrative”, hlm. 76. Tentang para ahli sihir, Bräumer, hlm. 140. Sarna menyajikan pola yang sama dalam bentuk prosa dalam *JPS Torah Commentary: Exodus* (1991), hlm. 38: dalam setiap kelompok tiga, dua tulah pertama diumumkan dan yang ketiga datang tanpa peringatan; Firaun ditemui pada pagi hari di tepi air pada tulah pertama, keempat dan ketujuh; Harun menjadi pelaku di kelompok pertama dan Musa di kelompok ketiga.
 
 [^gods]: Beale, hlm. 465.
 
@@ -162,9 +162,9 @@ Tanda itu pun muncul kembali. Israel harus membawa penyelamatan Allah "{{% bible
 
 [^heqet]: TDOT, jld. 13, hlm. 371; tentang Heket dan kebangkitan, Beale, hlm. 833.
 
-[^finger]: Bräumer, hlm. 151, mengikuti Holzinger dan Jacobson: dalam cerita Mesir itu, seorang dewa yang berebut kekuasaan atas bumi mengubah dirinya menjadi babi, menyelinap mendekat tanpa dikenali, dan dengan jarinya membutakan satu mata lawannya. Mengapa justru para ahli sihir yang harus mengatakannya pun jelas: mereka mencukur seluruh tubuh dan menjaga kebersihan mutlak sebagai syarat setiap ritual suci — dan kini tubuh mereka sendiri yang terserang (hlm. 150).
+[^finger]: Bräumer, hlm. 151, mengikuti Holzinger dan Jacobson: dalam cerita Mesir itu, seorang dewa yang berebut kekuasaan atas bumi mengubah dirinya menjadi babi, menyelinap mendekat tanpa dikenali, dan dengan jarinya membutakan satu mata lawannya. Pembacaan Sarna dekat maknanya: ungkapan itu berarti “sebuah fenomena supernatural di luar kendali manusia” (*JPS Torah Commentary: Exodus*, hlm. 42). Mengapa justru para ahli sihir yang harus mengatakannya pun jelas: mereka mencukur seluruh tubuh dan menjaga kebersihan mutlak sebagai syarat setiap ritual suci — dan kini tubuh mereka sendiri yang terserang (hlm. 150).
 
-[^dust]: Bräumer, hlm. 159, yang menyampaikannya sebagai kemungkinan dan bukan fakta: “sangat mungkin” bahwa melemparkan abu ke udara menyinggung sebuah ritus pendamaian Mesir, karena untuk pembersihan religius para ahli sihir Mesir menaburkan abu kurban di sekeliling mereka. Buktinya ada pada Keil, *Exodus*, hlm. 412.
+[^dust]: Bräumer, hlm. 159, yang menyampaikannya sebagai kemungkinan dan bukan fakta: “sangat mungkin” bahwa melemparkan abu ke udara menyinggung sebuah ritus pendamaian Mesir, karena untuk pembersihan religius para ahli sihir Mesir menaburkan abu kurban di sekeliling mereka. Buktinya ada pada Keil, *Exodus*, hlm. 412. Sarna hanya mengatakan bahwa makna bahan ini dan tindakan yang menyertainya “tidak jelas” (*JPS Torah Commentary: Exodus*, hlm. 45).
 
 [^locust]: Bräumer, hlm. 166, mengikuti Montet: para petani Mesir memakai tangkal berbentuk belalang dan memanggil dewa belalang khusus agar ia menjauhkan sesama jenisnya dari mereka.
 

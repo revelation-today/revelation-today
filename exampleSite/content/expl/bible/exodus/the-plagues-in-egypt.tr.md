@@ -109,7 +109,7 @@ Bu belanın vurduğu hayvanlar, Mısır toplumunun neredeyse her alanı için va
 ### {{% bible val="6, Çıbanlar" link="exo:9,8-12" lang="tr" %}}
 
 <a name="d9de"></a>
-Musa ile Harun havaya kül savurur ve bu kül hem insanların hem hayvanların üzerinde çıbanlara dönüşür. Bu kez büyücüler, törensel açıdan kirli sayıldıkları için Firavun’un huzuruna bile çıkamaz. İşin ironisi derindir: havaya kül savurmak, büyük olasılıkla bizzat bu büyücülerin uyguladığı bir kefaret törenine gönderme yapar. Artık yalnızca bunu uygulayamamakla kalmazlar — törenin kendisi de tamamen itibarsızlaşmıştır.[^dust]
+Musa ile Harun havaya kül savurur ve bu kül hem insanların hem hayvanların üzerinde çıbanlara dönüşür. Bu kez büyücüler, törensel açıdan kirli sayıldıkları için Firavun’un huzuruna bile çıkamaz. İşin ironisi derindir: havaya kül savurmak, bizzat bu büyücülerin uyguladığı bir kefaret törenine gönderme olabilir. Öyleyse artık onu uygulayamazlar ve törenin kendisi itibarsızlaşmıştır.[^dust]
 
 ### {{% bible val="7, Dolu" link="exo:9,13-35" lang="tr" %}}
 
@@ -121,7 +121,7 @@ Musa ile Harun havaya kül savurur ve bu kül hem insanların hem hayvanların �
 <a name="ef77"></a>
 {{% bible val="Çekirgeler gelir ve dolunun bıraktığı her şeyi yok eder" link="exo:10,5" lang="tr" %}}. Bu kez Firavun’un {{% bible val="kendi görevlileri bile ona Musa’nın istediğini yapması için yalvarır" link="exo:10,7" lang="tr" %}} — yine de halkı bırakmayı reddeder, {{% bible val="belalar sürüp Firavun günahını itiraf ederken bile" link="exo:10,16-17" lang="tr" %}}.
 
-Mısır'ın çekirgelerden koruma sağlamak tek görevi olan bir tanrısı bile vardı, ayrıca aynı amaca hizmet etmesi gereken özel çekirge tılsımları — hiçbiri işe yaramadı.[^locust]
+Mısırlı çiftçiler çekirge tılsımları bile taşıyor ve böcekleri uzak tutması için özel bir tanrıya yakarıyorlardı — hiçbiri işe yaramadı.[^locust]
 
 ### {{% bible val="9, Karanlık" link="exo:10,21-29" lang="tr" %}}
 
@@ -152,7 +152,7 @@ Belalar borazanlarda ve taslarda geri döner: kana dönen su, dolu, karanlık, �
 
 İşaret de geri döner. İsrail, Tanrı'nın kurtarışını "{{% bible val="elinde bir belirti, alnında bir anma işareti olarak" link="exo:13,9" lang="tr" %}}" taşıyacaktı: alın inandığın şey için, el yaptığın şey için. Vahiy'de canavar bunu taklit eder. {{% bible val="Onun işareti sağ ele ya da alna konur" link="rev:13,16" lang="tr" %}}; Tanrı'nın halkı ise {{% bible val="O'nun adını alınlarında taşır" link="rev:14,1" lang="tr" %}}.[^mark] Öyleyse Çıkış'ın sorusu hâlâ aynı sorudur: kimin işaretini taşıyorsun?
 
-[^structure]: Sarna bu örüntüyü bir tablo hâlinde verir: *Exploring Exodus*, Tablo 4.2, “The Literary Structure of the Plagues Narrative”, s. 76. Büyücüler için Bräumer, s. 140.
+[^structure]: Sarna bu örüntüyü bir tablo hâlinde verir: *Exploring Exodus*, Tablo 4.2, “The Literary Structure of the Plagues Narrative”, s. 76. Büyücüler için Bräumer, s. 140. Sarna aynı örüntüyü düzyazıyla *JPS Torah Commentary: Exodus* (1991), s. 38'de verir: her üçlüde ilk iki bela önceden bildirilir, üçüncüsü uyarısız gelir; Firavun birinci, dördüncü ve yedinci belada sabahleyin suyun başında karşılanır; ilk üçlüde etkin olan Harun, üçüncüsünde Musa'dır.
 
 [^gods]: Beale, s. 465.
 
@@ -162,9 +162,9 @@ Belalar borazanlarda ve taslarda geri döner: kana dönen su, dolu, karanlık, �
 
 [^heqet]: TDOT, c. 13, s. 371; Heket ve diriliş için Beale, s. 833.
 
-[^finger]: Bräumer, s. 151, Holzinger ve Jacobson'a dayanarak: Mısır öyküsünde yeryüzünün egemenliği için çekişen bir tanrı kendini domuza dönüştürür, tanınmadan yaklaşır ve parmağıyla rakibinin bir gözünü kör eder. Bunu neden özellikle büyücülerin söylemek zorunda kaldığı da açıktır: tepeden tırnağa tüylerini kazıtıyor ve her kutsal törenin ön koşulu olarak tam temizliği koruyorlardı — şimdi ise kendi bedenleri sarılmıştı (s. 150).
+[^finger]: Bräumer, s. 151, Holzinger ve Jacobson'a dayanarak: Mısır öyküsünde yeryüzünün egemenliği için çekişen bir tanrı kendini domuza dönüştürür, tanınmadan yaklaşır ve parmağıyla rakibinin bir gözünü kör eder. Sarna'nın okuması anlamca yakındır: ifade “insan denetiminin ötesinde doğaüstü bir olay” demektir (*JPS Torah Commentary: Exodus*, s. 42). Bunu neden özellikle büyücülerin söylemek zorunda kaldığı da açıktır: tepeden tırnağa tüylerini kazıtıyor ve her kutsal törenin ön koşulu olarak tam temizliği koruyorlardı — şimdi ise kendi bedenleri sarılmıştı (s. 150).
 
-[^dust]: Bräumer, s. 159, bunu bir olgu değil bir olasılık olarak dile getirir: külün havaya savrulmasının bir Mısır kefaret törenine gönderme olması “pekâlâ düşünülebilir”, çünkü dinî arınma amacıyla Mısırlı büyücü rahipler kurban küllerini çevreye serperlerdi. Belgeleri Keil, *Exodus*, s. 412'de.
+[^dust]: Bräumer, s. 159, bunu bir olgu değil bir olasılık olarak dile getirir: külün havaya savrulmasının bir Mısır kefaret törenine gönderme olması “pekâlâ düşünülebilir”, çünkü dinî arınma amacıyla Mısırlı büyücü rahipler kurban küllerini çevreye serperlerdi. Belgeleri Keil, *Exodus*, s. 412'de. Sarna yalnızca bu maddenin ve eşlik eden eylemin anlamının “belirsiz” olduğunu söyler (*JPS Torah Commentary: Exodus*, s. 45).
 
 [^locust]: Bräumer, s. 166, Montet'e dayanarak: Mısırlı çiftçilerin çekirge biçiminde tılsımlar taşıdığı ve kendi türünü kendilerinden uzak tutması için özel bir çekirge tanrısına yakardıkları bilinir.
 

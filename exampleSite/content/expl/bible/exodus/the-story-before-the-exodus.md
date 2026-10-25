@@ -25,7 +25,7 @@ From there they expanded southward, and in 1674 BC they conquered Memphis, the f
 <a name="dc6a"></a>
 The Hyksos were finally defeated around 1550 BC, and Egypt was determined never to let a second Hyksos takeover happen. That determination is what drove Pharaoh to keep the Israelites small and weak.[^neveragain]
 
-Several details suggest that Joseph himself lived during the Hyksos period:
+Several details suggest that Joseph himself lived during the Hyksos period:[^date]
 
 - The {{% bible val="land of Goshen, in the northeast of Egypt, was close to the palace at the time Joseph was there" link="gen:45,10" lang="en" %}}.[^goshen]
 - Israel was later forced to {{% bible val="build the cities of Pithom and Ramses" link="exo:1,11" lang="en" %}}, most likely under [Ramses II](https://en.wikipedia.org/wiki/Ramesses_II), who rebuilt the northeast — the very region {{% bible val="the Israelites eventually moved out from" link="exo:12,37" lang="en" %}}.[^ramses]
@@ -40,3 +40,5 @@ Several details suggest that Joseph himself lived during the Hyksos period:
 [^ramses]: Sarna, p. 10. The eastern Delta had been neglected through the two hundred odd years between the collapse of Hyksos rule and the XIXth Dynasty (ca. 1306–1200), and it was Rameses II (ca. 1290–1224) “who set up his capital here in his newly built city that he named for himself”. He adds Genesis 47:11, which puts Israel in “the region of Rameses” — anachronistic in context, but “a reflex of a genuine historic reality” — and Psalm 78:12, 43, which puts them in the “plain of Zoan”, that is Tanis in the north-eastern Delta.
 
 [^seti]: Sarna, p. 18: “the first effective king of the XIXth Dynasty, Sethos (Seti) I (ca. 1305–1290 B.C.E.), built himself a summer palace just north of Avaris that was intended to form the nucleus of a new suburb”. Not long after his coronation Rameses II visited his father’s “freshly erected palace near Avaris” and announced the new capital there (p. 19). That the palace stayed close by is Sarna’s argument too, p. 10: Miriam could run home and fetch her mother, and the pharaoh could summon Moses and Aaron in the middle of the night, “which indicates that their domiciles were not too far away”.
+
+[^date]: This follows the thirteenth-century dating of the Exodus. The other standard dating takes 1 Kings 6:1 (480 years before Solomon's temple, about 960 BC) at face value, which gives the middle of the fifteenth century. Sarna finds that hard to reconcile with the story: Moses is in constant touch with a pharaoh who lives in the Delta, but in the fifteenth century the capital was Thebes, 650 km to the south, and Egypt held Canaan tightly. He also grants that the thirteenth-century dating has its own difficulties, and reminds the reader that the narrative is "a document of faith, not a historiographical record" (*JPS Torah Commentary: Exodus*, pp. xiv–xv).

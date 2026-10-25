@@ -38,6 +38,6 @@ Tulah-tulah itu kembali dalam sangkakala dan cawan, dan begitu pula tanggapan ya
 
 Jadi pesan bagi pembaca jelas: jangan seperti Firaun. Engkau tahu bagaimana kisah ini berakhir. Berbeda dengan Firaun, engkau sudah melihat tepi laut di seberang, tempat orang-orang tebusan menyanyikan nyanyian Musa dan nyanyian Anak Domba (15:2–4). Waktu untuk berbalik adalah sekarang, selama masih dapat dikatakan "hari ini" — "janganlah keraskan hatimu" (Ibr. 3:7–8, 15).
 
-[^harden]: TDOT, jld. 7, hlm. 428; jld. 4, hlm. 308. Beale lebih menekankan sisi Allah: Allah yang menyebabkan pengerasan itu sejak awal, sebagaimana Paulus membaca kisah ini dalam Roma 9:17–18 (hlm. 466).
+[^harden]: TDOT, jld. 7, hlm. 428; jld. 4, hlm. 308. Sarna menghitung tepat dua puluh penyebutan, separuh dikaitkan dengan watak Firaun dan separuh dengan sebab ilahi, dan mencatat bahwa dalam lima tulah pertama kekerasan hati Firaun berasal dari kemauannya sendiri; baru sesudahnya hal itu dikaitkan dengan Allah, “cara Alkitab menyatakan bahwa sikap keras kepala sang raja sejak saat itu telah menjadi kebiasaan dan tak dapat dibalikkan” (*JPS Torah Commentary: Exodus*, hlm. 23). Beale lebih menekankan sisi Allah: Allah yang menyebabkan pengerasan itu sejak awal, sebagaimana Paulus membaca kisah ini dalam Roma 9:17–18 (hlm. 466).
 
 [^idols]: Beale, hlm. 519, dengan Yesaya 6:9–10.

@@ -101,7 +101,7 @@ The livestock struck by this plague was essential to nearly every part of Egypti
 
 ### {{% bible val="6, Boils" link="exo:9,8-12" lang="en" %}}
 
-Moses and Aaron throw dust into the air, and it turns into boils on people and animals alike. This time the magicians cannot even appear before Pharaoh, since they are ceremonially unclean. The irony cuts deep: throwing dust into the air very likely alludes to a rite of atonement performed by these very priests. Not only can they no longer perform it — the rite itself has now been thoroughly discredited.[^dust]
+Moses and Aaron throw dust into the air, and it turns into boils on people and animals alike. This time the magicians cannot even appear before Pharaoh, since they are ceremonially unclean. The irony cuts deep: throwing dust into the air may allude to a rite of atonement performed by these very priests. If it does, they can no longer perform it, and the rite itself has been discredited.[^dust]
 
 ### {{% bible val="7, Hail" link="exo:9,13-35" lang="en" %}}
 
@@ -111,7 +111,7 @@ This is where it gets serious: {{% bible val="God strikes with the full force th
 
 The {{% bible val="locusts come and destroy everything the hail had left standing" link="exo:10,5" lang="en" %}}. This time, Pharaoh’s {{% bible val="own officials beg him to do as Moses wishes" link="exo:10,7" lang="en" %}} — but he still refuses to let the people go, even as the {{% bible val="plagues continue and Pharaoh admits his sin" link="exo:10,16-17" lang="en" %}}.
 
-Egypt even had a god whose only job was protection from locusts, along with special locust amulets meant to serve the same purpose — none of which worked.[^locust]
+Egyptian farmers even wore locust amulets and called on a special god to keep the insects away — none of which worked.[^locust]
 
 ### {{% bible val="9, Darkness" link="exo:10,21-29" lang="en" %}}
 
@@ -139,7 +139,7 @@ The plagues come back in the trumpets and the bowls: water turned to blood, hail
 
 The sign comes back too. Israel was to carry God's rescue "{{% bible val="as a sign on your hand and a reminder on your forehead" link="exo:13,9" lang="en" %}}": the forehead for what you believe, the hand for what you do. In Revelation the beast copies it. {{% bible val="Its mark goes on the right hand or the forehead" link="rev:13,16" lang="en" %}}, and God's people carry {{% bible val="his name on their foreheads" link="rev:14,1" lang="en" %}} instead.[^mark] So the question of the Exodus is still the question: whose sign do you carry?
 
-[^structure]: Sarna lays the pattern out as a table: *Exploring Exodus*, Table 4.2, “The Literary Structure of the Plagues Narrative”, p. 76. On the magicians, Bräumer, p. 140.
+[^structure]: Sarna lays the pattern out as a table: *Exploring Exodus*, Table 4.2, “The Literary Structure of the Plagues Narrative”, p. 76. On the magicians, Bräumer, p. 140. Sarna gives the same pattern in prose in the *JPS Torah Commentary: Exodus* (1991), p. 38: in each triad the first two plagues are announced and the third strikes without warning; Pharaoh is met in the morning at the water in the first, fourth and seventh; Aaron is the agent throughout the first triad and Moses in the third.
 
 [^gods]: Beale, p. 465.
 
@@ -149,9 +149,9 @@ The sign comes back too. Israel was to carry God's rescue "{{% bible val="as a s
 
 [^heqet]: TDOT, vol. 13, p. 371; on Heqet and resurrection, Beale, p. 833.
 
-[^finger]: Bräumer, p. 151, after Holzinger and Jacobson: in the Egyptian story a god contending for dominion over the earth turned himself into a pig, crept up unrecognised, and with his finger blinded one of his opponent’s eyes. Why the magicians of all people had to say it is clear enough: they shaved head to foot and kept absolute cleanliness as the precondition of every sacred rite — and now their own bodies were infested (p. 150).
+[^finger]: Bräumer, p. 151, after Holzinger and Jacobson: in the Egyptian story a god contending for dominion over the earth turned himself into a pig, crept up unrecognised, and with his finger blinded one of his opponent’s eyes. Sarna's reading is close in sense: the phrase means "a supernatural phenomenon beyond human control" (*JPS Torah Commentary: Exodus*, p. 42). Why the magicians of all people had to say it is clear enough: they shaved head to foot and kept absolute cleanliness as the precondition of every sacred rite — and now their own bodies were infested (p. 150).
 
-[^dust]: Bräumer, p. 159, who puts it as a possibility and not a fact: it is “entirely conceivable” that throwing the soot into the air alludes to an Egyptian rite of atonement, since for religious purification the Egyptian sorcerer-priests scattered the ashes of sacrifices about. His evidence is in Keil, *Exodus*, p. 412.
+[^dust]: Bräumer, p. 159, who puts it as a possibility and not a fact: it is “entirely conceivable” that throwing the soot into the air alludes to an Egyptian rite of atonement, since for religious purification the Egyptian sorcerer-priests scattered the ashes of sacrifices about. His evidence is in Keil, *Exodus*, p. 412. Sarna says only that "the significance of this substance and of the accompanying action is unclear" (*JPS Torah Commentary: Exodus*, p. 45).
 
 [^locust]: Bräumer, p. 166, after Montet: Egyptian farmers wore amulets in the shape of a locust and called on a special locust god to keep his own kind away from them.
 

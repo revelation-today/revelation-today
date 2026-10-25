@@ -38,6 +38,6 @@ Die Plagen kehren in den Posaunen und den Schalen wieder, und mit ihnen die verh
 
 Die Botschaft an den Leser ist also klar: Sei nicht wie der Pharao. Du weißt, wie das ausgeht. Anders als der Pharao hast du das andere Ufer des Meeres schon gesehen, wo die Erlösten das Lied des Mose und des Lammes singen (15,2–4). Die Zeit zur Umkehr ist jetzt, solange es „heute“ heißt — „verstockt eure Herzen nicht“ (Hebr 3,7–8.15).
 
-[^harden]: TDOT, Bd. 7, S. 428; Bd. 4, S. 308. Beale legt mehr Gewicht auf Gottes Seite: Gott hat die Verhärtung von Anfang an bewirkt, so wie Paulus die Geschichte in Römer 9,17–18 liest (S. 466).
+[^harden]: TDOT, Bd. 7, S. 428; Bd. 4, S. 308. Sarna zählt genau zwanzig Erwähnungen, je zur Hälfte dem Charakter des Pharao und göttlicher Verursachung zugeschrieben, und hält fest, dass die Verstockung des Pharao in den ersten fünf Plagen selbstverschuldet ist; erst danach wird sie Gott zugeschrieben, „die biblische Weise zu sagen, dass die Halsstarrigkeit des Königs inzwischen habituell und unumkehrbar geworden ist“ (*JPS Torah Commentary: Exodus*, S. 23). Beale legt mehr Gewicht auf Gottes Seite: Gott hat die Verhärtung von Anfang an bewirkt, so wie Paulus die Geschichte in Römer 9,17–18 liest (S. 466).
 
 [^idols]: Beale, S. 519, mit Jesaja 6,9–10.

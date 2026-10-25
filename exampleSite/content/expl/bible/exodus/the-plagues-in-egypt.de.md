@@ -107,7 +107,7 @@ Das von dieser Plage betroffene Vieh war für fast jeden Bereich der ägyptische
 ### {{% bible val="6, Geschwüre" link="exo:9,8-12" lang="de" %}}
 
 <a name="c6b1"></a>
-Mose und Aaron werfen Staub in die Luft, und er verwandelt sich in Geschwüre bei Menschen und Tieren gleichermaßen. Diesmal können die Zauberer nicht einmal mehr vor dem Pharao erscheinen, da sie rituell unrein sind. Die Ironie sitzt tief: Das Werfen von Staub in die Luft spielt sehr wahrscheinlich auf ein Sühneritual an, das genau diese Zauberer selbst durchführten. Sie können es nicht nur nicht mehr ausführen — das Ritual selbst ist nun gründlich diskreditiert.[^dust]
+Mose und Aaron werfen Staub in die Luft, und er verwandelt sich in Geschwüre bei Menschen und Tieren gleichermaßen. Diesmal können die Zauberer nicht einmal mehr vor dem Pharao erscheinen, da sie rituell unrein sind. Die Ironie sitzt tief: Das Werfen von Staub in die Luft könnte auf ein Sühneritual anspielen, das genau diese Zauberer selbst durchführten. Wenn ja, können sie es nicht mehr ausführen, und das Ritual selbst ist diskreditiert.[^dust]
 
 ### {{% bible val="7, Hagel" link="exo:9,13-35" lang="de" %}}
 
@@ -119,7 +119,7 @@ Hier wird es ernst: {{% bible val="Gott schlägt mit der vollen Wucht zu, die er
 <a name="ae09"></a>
 Die {{% bible val="Heuschrecken kommen und vernichten alles, was der Hagel übrig gelassen hatte" link="exo:10,5" lang="de" %}}. Diesmal {{% bible val="flehen die eigenen Beamten des Pharao ihn an, zu tun, was Mose verlangt" link="exo:10,7" lang="de" %}} — aber er weigert sich weiterhin, das Volk ziehen zu lassen, selbst als {{% bible val="die Plagen andauern und der Pharao seine Sünde eingesteht" link="exo:10,16-17" lang="de" %}}.
 
-Ägypten hatte sogar einen Gott, dessen einzige Aufgabe der Schutz vor Heuschrecken war, dazu spezielle Heuschreckenamulette mit demselben Zweck — nichts davon hatte funktioniert.[^locust]
+Ägyptische Bauern trugen sogar Heuschreckenamulette und riefen einen besonderen Gott an, er möge die Insekten fernhalten — nichts davon hatte funktioniert.[^locust]
 
 ### {{% bible val="9, Finsternis" link="exo:10,21-29" lang="de" %}}
 
@@ -150,7 +150,7 @@ Die Plagen kehren in den Posaunen und den Schalen wieder: Wasser wird zu Blut, H
 
 Auch das Zeichen kehrt wieder. Israel sollte Gottes Rettung tragen „{{% bible val="als Zeichen auf deiner Hand und als Merkzeichen auf deiner Stirn" link="exo:13,9" lang="de" %}}“: die Stirn für das, was du glaubst, die Hand für das, was du tust. In der Offenbarung ahmt das Tier es nach. {{% bible val="Sein Malzeichen kommt auf die rechte Hand oder auf die Stirn" link="rev:13,16" lang="de" %}}, und Gottes Volk trägt stattdessen {{% bible val="seinen Namen auf der Stirn" link="rev:14,1" lang="de" %}}.[^mark] Die Frage des Auszugs ist also immer noch die Frage: Wessen Zeichen trägst du?
 
-[^structure]: Sarna stellt das Muster als Tabelle dar: *Exploring Exodus*, Tabelle 4.2, „The Literary Structure of the Plagues Narrative“, S. 76. Zu den Zauberern Bräumer, S. 140.
+[^structure]: Sarna stellt das Muster als Tabelle dar: *Exploring Exodus*, Tabelle 4.2, „The Literary Structure of the Plagues Narrative“, S. 76. Zu den Zauberern Bräumer, S. 140. Sarna gibt dasselbe Muster in Prosa wieder im *JPS Torah Commentary: Exodus* (1991), S. 38: In jeder Dreiergruppe werden die ersten beiden Plagen angekündigt, die dritte trifft ohne Vorwarnung; dem Pharao begegnet man bei der ersten, vierten und siebten Plage morgens am Wasser; in der ersten Gruppe handelt Aaron, in der dritten Mose.
 
 [^gods]: Beale, S. 465.
 
@@ -160,9 +160,9 @@ Auch das Zeichen kehrt wieder. Israel sollte Gottes Rettung tragen „{{% bible 
 
 [^heqet]: TDOT, Bd. 13, S. 371; zu Heqet und Auferstehung Beale, S. 833.
 
-[^finger]: Bräumer, S. 151, nach Holzinger und Jacobson: In der ägyptischen Erzählung streitet ein Gott mit einem anderen um die Herrschaft über die Erde, verwandelt sich in ein Schwein, schleicht sich unerkannt heran und blendet mit seinem Finger ein Auge seines Gegners. Warum gerade die Zauberer es sagen mussten, liegt auf der Hand: Sie rasierten sich am ganzen Körper und hielten vollkommene Reinheit als Voraussetzung jedes heiligen Rituals — und nun war ihr eigener Körper befallen (S. 150).
+[^finger]: Bräumer, S. 151, nach Holzinger und Jacobson: In der ägyptischen Erzählung streitet ein Gott mit einem anderen um die Herrschaft über die Erde, verwandelt sich in ein Schwein, schleicht sich unerkannt heran und blendet mit seinem Finger ein Auge seines Gegners. Sarnas Lesart ist dem im Sinn nah: Die Wendung bedeute „ein übernatürliches Phänomen jenseits menschlicher Kontrolle“ (*JPS Torah Commentary: Exodus*, S. 42). Warum gerade die Zauberer es sagen mussten, liegt auf der Hand: Sie rasierten sich am ganzen Körper und hielten vollkommene Reinheit als Voraussetzung jedes heiligen Rituals — und nun war ihr eigener Körper befallen (S. 150).
 
-[^dust]: Bräumer, S. 159, der es als Möglichkeit und nicht als Tatsache formuliert: „Es ist durchaus denkbar, daß das Werfen des Rußes in die Luft gleichzeitig eine Anspielung auf einen ägyptischen Sühneritus ist. Zum Zweck der religiösen Reinigung streuten ägyptische Wahrsagepriester Asche von Opfern umher.“ Belege bei Keil, *Exodus*, S. 412.
+[^dust]: Bräumer, S. 159, der es als Möglichkeit und nicht als Tatsache formuliert: „Es ist durchaus denkbar, daß das Werfen des Rußes in die Luft gleichzeitig eine Anspielung auf einen ägyptischen Sühneritus ist. Zum Zweck der religiösen Reinigung streuten ägyptische Wahrsagepriester Asche von Opfern umher.“ Belege bei Keil, *Exodus*, S. 412. Sarna sagt nur, die Bedeutung dieses Stoffes und der begleitenden Handlung sei „unklar“ (*JPS Torah Commentary: Exodus*, S. 45).
 
 [^locust]: Bräumer, S. 166, nach Montet: Ägyptische Bauern trugen Amulette in Form einer Heuschrecke und riefen einen besonderen Heuschreckengott an, er möge seine Artgenossen von ihnen fernhalten.
 
