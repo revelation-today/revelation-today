@@ -136,7 +136,7 @@ Bir kıyamete en yakın modern benzetme, siyasi bir karikatür olabilir.
 
 *Thomas Nast, "The Third-Term Panic", Harper's Weekly, 7 Kasım 1874. Library of Congress, kamu malı.*
 
-Bu karikatür 150 yıllıktır; bu yüzden biraz arka plana ihtiyaç duyar. 1874'te birçok Amerikan gazetesi Başkan Grant'in üçüncü bir dönem planladığını öne sürüyor ve "Sezarizm", yani bir Roma imparatoru gibi yönetme konusunda uyarıyordu. Nast bu paniği, diğer hayvanları korkutan aslan postlu bir eşek olarak çizdi (Ezop'un eski bir masalı); üzerinde "The Republican Vote" (Cumhuriyetçi oy) yazan fil paniğe kapılır ve "Chaos" (kaos) yazılı bir çukura doğru tökezler. Nast'ın fili bugün hâlâ Cumhuriyetçi Parti'nin simgesidir.
+Bu karikatür 150 yıllıktır; bu yüzden biraz arka plana ihtiyaç duyar. 1874'te birçok Amerikan gazetesi Başkan Grant'in üçüncü bir dönem planladığını öne sürüyor ve "Sezarizm", yani bir Roma imparatoru gibi yönetme konusunda uyarıyordu. Nast bu paniği, diğer hayvanları korkutan aslan postlu bir eşek olarak çizdi (Ezop'un eski bir masalı); üzerinde "The Republican Vote" (Cumhuriyetçi oy) yazan fil paniğe kapılır ve "Chaos" (kaos) yazılı bir çukura doğru tökezler. Nast'ın fili bugün hâlâ Cumhuriyetçi Parti'nin simgesidir. Gazeteler bugün de böyle çizer: ejderha çoğu kez Çin'i, ayı Rusya'yı, kartal Amerika Birleşik Devletleri'ni simgeler. Kimse ejderhaların var olup olmadığını sormaz.
 
 Böyle bir karikatüre baktığımızda, arka planı öğrenir öğrenmez mesajı kavrarız; eşeklerin aslan postu giydiğini ya da fillerin oy kullandığını varsaymayız. Vahiy de aynı şekilde işler ve içinde aynı unsurları çalışırken görebiliriz:
 

@@ -136,7 +136,7 @@ The closest modern comparison to an apocalypse might be a political cartoon.
 
 *Thomas Nast, "The Third-Term Panic", Harper's Weekly, 7 November 1874. Library of Congress, public domain.*
 
-This cartoon is 150 years old, so it needs a little background. In 1874 many American newspapers claimed that President Grant was planning a third term and warned of "Caesarism", rule like a Roman emperor. Nast drew the scare as a donkey in a lion's skin (an old fable of Aesop) frightening the other animals; the elephant, labelled "The Republican Vote", panics and stumbles toward a pit marked "Chaos". Nast's elephant is still the symbol of the Republican Party today.
+This cartoon is 150 years old, so it needs a little background. In 1874 many American newspapers claimed that President Grant was planning a third term and warned of "Caesarism", rule like a Roman emperor. Nast drew the scare as a donkey in a lion's skin (an old fable of Aesop) frightening the other animals; the elephant, labelled "The Republican Vote", panics and stumbles toward a pit marked "Chaos". Nast's elephant is still the symbol of the Republican Party today. Newspapers still draw like this: a dragon often stands for China, a bear for Russia, an eagle for the United States. Nobody asks whether dragons exist.
 
 Looking at a cartoon like this, we get the message as soon as we know the background, without assuming that donkeys wear lion skins or that elephants vote. Revelation works the same way, and we can see the same elements at work in it:
 
