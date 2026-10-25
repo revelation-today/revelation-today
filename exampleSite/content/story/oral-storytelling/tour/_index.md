@@ -67,7 +67,7 @@ Smyrna is poor. Hated. Squeezed on every side. And she is one of only two church
 
 Pergamum stands her ground in the shadow of Satan's own throne - some die for it - yet false teaching has crept in the back door, quiet as a thief.
 
-In Thyatira, the rot starts at the top: the leaders themselves have wandered off the path.
+In Thyatira, the rot is inside the church: a woman called Jezebel is leading people off the path, and the church lets her.
 
 Sardis looks alive. *(shake your head slowly)* But underneath, she is already dead - so sure she can manage fine without God, and failing at almost everything because of it.
 

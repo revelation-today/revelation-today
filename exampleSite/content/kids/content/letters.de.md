@@ -31,7 +31,7 @@ Und dann haben wir Smyrna, eine sehr kleine Gemeinde, die Jesus treu sind, aber 
 Dann kommt Pergamon. Sie haben eine sehr schwierige Aufgabe, da sie fast überwältigt werden von den Bösen, einer von ihnen ist sogar deswegen gestorben. 
 Allerdings lassen sie es zu, dass Menschen falsche Dinge über Jesus in der Gemeinde erzählen.
 
-Dann ist Thyatira, eine sehr kleine Stadt, über die Jesus sehr viel zu erzählen hat. Sie werden immer besser in ihrem Glauben und haben ganz viel ausgehalten, aber hier erzählen die Keiter der Gemeinde flache Dinge über Jesus.
+Dann ist Thyatira, eine sehr kleine Stadt, über die Jesus sehr viel zu erzählen hat. Sie werden immer besser in ihrem Glauben und haben ganz viel ausgehalten, aber hier erzählt eine Frau namens Isebel in der Gemeinde falsche Dinge über Jesus, und die Gemeinde lässt sie.
 
 Dann haben wir Sardis, eine sehr prächtige Stadt. Die scheinen den Glauben ganz gut im Griff zum haben, denn sie brauchen Jesus nicht in ihrem Leben, bis auf ein paar wenige.
 

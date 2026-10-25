@@ -58,7 +58,7 @@ Smyrna könnte kaum unterschiedlicher sein. Sie ist arm. Sie wird gehasst. Sie w
 
 Pergamon hält stand, im Schatten von Satans eigenem Thron. Manche sterben dafür. Und doch hat sich innerhalb ihrer Mauern falsche Lehre unangefochten eingeschlichen und führt Menschen still von Gott weg.
 
-In Thyatira beginnt die Fäulnis ganz oben. Die Leiter selbst sind vom Weg abgekommen.
+In Thyatira sitzt die Fäulnis in der Gemeinde selbst: Eine Frau namens Isebel führt Menschen in die Irre, und die Gemeinde lässt sie gewähren.
 
 Sardes wirkt von außen lebendig. Von innen ist sie längst tot. Sie glaubt, es auch ohne Gott zu schaffen - und scheitert genau deshalb an fast allem.
 

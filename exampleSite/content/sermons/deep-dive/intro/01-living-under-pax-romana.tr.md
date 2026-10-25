@@ -50,8 +50,7 @@ sunuyordu. Roma hakkındaki nokta her hâlde geçerliliğini koruyor: mesajı sa
 ritüeli aracılığıyla kaçınılmazdı.
 
 **Bunun Hristiyanlar için yarattığı ikilem.** İmparator değil İsa onların gerçek kralıydı — ve
-müjde mesajı için kullanılan kelimenin kendisi, *euangelion*, Roma'nın yeni bir imparatorun
-saltanatının ilanı için kullandığı kendi terimiydi. Bu kelime seçiminin kendisi bile sessiz bir
+müjde mesajı için kullanılan kelimenin kendisi, *euangelion*, imparatorluk duyuruları için de, örneğin bir imparatorun doğumu ya da tahta çıkışı için de kullanılırdı. Bu kelime seçiminin kendisi bile sessiz bir
 siyasi meydan okumaydı. Hristiyanlar geçim için imparatora değil İsa'ya bakıyorlardı (bkz.
 {{% bible val="Matta 6:25-34" link="mat:6,25-34" lang="tr" %}}) ve Pax Romana altındaki sivil
 yaşamın bazı sıradan özellikleri — ilahi kadeh kaldırmalarla dolu ritüel yemekler, imparator
@@ -82,8 +81,7 @@ yerel ve aralıklıydı — ki bu aslında noktayı daha da keskinleştirir: Joh
 düzeyli, sürekli sosyal ve ekonomik uyum baskısıyla karşı karşıyaydılar — bu, muhtemelen direnmesi
 daha zor bir ayartıydı, çünkü nadiren dramatik, tek seferlik bir karar gerektiriyordu.
 
-**Orijinal dil notu.** "Müjde" için kullanılan Yunanca kelime, *euangelion* (εὐαγγέλιον), yeni bir
-Sezar'ın tahta çıkışının veya bir askeri zaferin imparatorluk ilanı için standart kelime dağarcığıydı.
+**Orijinal dil notu.** "Müjde" için kullanılan Yunanca kelime, *euangelion* (εὐαγγέλιον), imparatorluk duyuruları için de, örneğin yeni bir Sezar'ın doğumu ya da tahta çıkışı için de kullanılırdı.
 Markos müjdesine "İsa Mesih'in *euangelion*'u" diyerek başladığında ve Vahiy'in tüm yapısı Roma'nın
 hikayesine karşı-propaganda işlevi gördüğünde, kelimenin kendisi zaten siyasi bir iddia ortaya
 koyuyordu: yeni bir imparator var ve o, madeni paraların üzerindeki değil.

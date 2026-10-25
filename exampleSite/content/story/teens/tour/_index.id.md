@@ -105,7 +105,7 @@ Smirna tidak punya apa-apa. Tanpa uang, tanpa kedudukan, satu kota utuh membenci
 
 Pergamus hidup di tengah-tengah tempat yang oleh surat itu disebut ruang takhta Iblis sendiri — permusuhan nyata, bahaya nyata, sebagian orang mereka sudah terbunuh karenanya. Dan bahkan di sana, bahkan di bawah tekanan sebesar itu, mereka membiarkan para pembohong menyelinap lewat pintu belakang dan mengajarkan apa saja yang enak didengar. Berani di bawah tembakan dan tertipu dari dalam ternyata bisa terjadi bersamaan.
 
-Masalah Tiatira mulai dari atas: pemimpin mereka sendiri yang menggiring mereka ke dalam kompromi.
+Masalah Tiatira ada di dalam jemaat sendiri: seorang perempuan bernama Izebel menggiring mereka ke dalam kompromi, dan mereka membiarkannya.
 
 Sardis punya reputasi. Semua orang bilang Sardis lagi jaya-jayanya. Sardis mati — garis datar, jalan dengan asumsi bahwa mereka sebenarnya tidak butuh Allah untuk berfungsi, dan diam-diam gagal di hampir segala hal sambil meyakinkan diri bahwa mereka baik-baik saja.
 

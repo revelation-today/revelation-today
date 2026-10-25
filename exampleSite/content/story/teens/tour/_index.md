@@ -128,7 +128,7 @@ Smyrna has nothing. No money, no standing, a whole city that hates them and want
 
 Pergamum lives in the middle of what the letter calls Satan's own throne room — real hostility, real danger, some of their own already killed for it. And even there, even under that pressure, they've let liars slip in the back door and teach whatever's comfortable. Courage under fire and getting fooled from the inside aren't mutually exclusive.
 
-Thyatira's problem starts at the top: their own leaders walked them into compromise.
+Thyatira's problem sits inside the church: a woman called Jezebel walked them into compromise, and they let her.
 
 Sardis has a reputation. Everyone says Sardis is thriving. Sardis is dead — flatlined, running on the assumption that they don't actually need God to function, and quietly failing at nearly everything while telling themselves they're fine.
 

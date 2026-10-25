@@ -58,7 +58,7 @@ Efes kendini tükenene kadar çalıştırıyor. Her öğreti doğru. Her görev 
 
 Bergama, Şeytan'ın kendi tahtının gölgesinde direniyor. Bazıları bunun için ölüyor. Yine de surların içinde, yanlış öğreti fark edilmeden sızmış ve insanları sessizce yoldan çıkarıyor.
 
-Tiyatira'da çürüme en tepeden başlıyor. Önderlerin kendisi yoldan sapmış.
+Tiyatira'da çürüme kilisenin içinde: İzebel adlı bir kadın insanları yoldan çıkarıyor ve kilise buna göz yumuyor.
 
 Sart dışarıdan canlı görünüyor. İçeriden ise çoktan ölü. Tanrı'sız da idare edebileceğine inanıyor - ve bu yüzden neredeyse her konuda başarısız oluyor.
 

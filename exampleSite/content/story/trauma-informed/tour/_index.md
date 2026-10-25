@@ -47,7 +47,7 @@ Ephesus works itself to exhaustion - correct in doctrine, faithful in duty - but
 
 Smyrna could not be more different: poor, and hated, squeezed on every side by a hostile city around her. And she is one of only two churches Jesus has nothing but praise for. To a church going through real hardship, he offers no correction at all - only comfort, and courage for what is still ahead.
 
-Pergamum holds its ground in a hard place, even at real cost, though some false teaching has slipped in unnoticed along the way. In Thyatira, the trouble starts at the top, with the leadership itself. Sardis looks alive from the outside, but is worn thin and nearly empty underneath, having quietly tried to manage without God.
+Pergamum holds its ground in a hard place, even at real cost, though some false teaching has slipped in unnoticed along the way. In Thyatira, the trouble sits inside the church, with a teacher it tolerates. Sardis looks alive from the outside, but is worn thin and nearly empty underneath, having quietly tried to manage without God.
 
 Philadelphia is the other church Jesus praises without reservation - small, tired, with nothing left in the bank, and faithful anyway. He promises her an open door that no one can shut.
 

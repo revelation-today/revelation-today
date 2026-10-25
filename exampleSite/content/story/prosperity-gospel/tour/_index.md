@@ -53,7 +53,7 @@ Smyrna could not be more different. Poor - genuinely, materially poor - hated, s
 
 Pergamum stands its ground in the shadow of Satan's own throne. Some die for it. And yet inside the walls, false teaching has slipped in unchallenged, quietly leading people away - the same seduction, in miniature, that later chapters will show in full.
 
-In Thyatira, the rot starts at the top: the leadership itself has gone astray, tolerating a teacher who promises depths of blessing that cost nothing at all.
+In Thyatira, the rot is inside the church: it tolerates a teacher who promises depths of blessing that cost nothing at all.
 
 Sardis looks alive from the outside. Underneath, she is already dead - convinced she can manage just fine without God, and failing at nearly everything because of it. A reputation for life is not the same thing as life.
 

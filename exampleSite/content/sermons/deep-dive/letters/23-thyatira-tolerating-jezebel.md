@@ -11,7 +11,7 @@ next: /sermons/deep-dive/letters/24-sardis-a-reputation-without-life
 
 ## Opening hook
 
-Ask: "If the person leading worship, teaching your Bible study, or shaping your church's public voice were secretly encouraging compromise — how long do you think it would take the rest of the congregation to notice?" Thyatira, probably the smallest of the seven churches, gets the longest letter of all seven — because its problem sits at the very top.
+Ask: "If the person leading worship, teaching your Bible study, or shaping your church's public voice were secretly encouraging compromise — how long do you think it would take the rest of the congregation to notice?" Thyatira gets the longest letter of all seven — because false teaching has found a place inside the church itself, and the church tolerates it.
 
 ## Core teaching
 

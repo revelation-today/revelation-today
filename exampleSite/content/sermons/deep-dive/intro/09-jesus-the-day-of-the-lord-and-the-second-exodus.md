@@ -45,7 +45,7 @@ observance; the Pharisees pushed for increased observance within society as it s
 Sadducees held to the written law alone, rejecting the Pharisees' oral tradition, and favored
 cooperation with Rome; and the Zealots wanted
 increased observance paired with active armed resistance. Into that fractured landscape, Mark
-opens his gospel with the word *euangelion* — the term for an imperial accession announcement —
+opens his gospel with the word *euangelion* — a word also used for imperial announcements —
 immediately following it with a quotation from Isaiah at the exact point the Day of the Lord is
 announced. The claim is audacious: the true king, and the true fulfillment, has arrived, and He
 looks nothing like any faction expected.

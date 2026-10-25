@@ -67,7 +67,7 @@ Smirna miskin. Dibenci. Dihimpit dari segala penjuru. Dan ia satu dari hanya dua
 
 Pergamus tetap bertahan di bawah bayang-bayang takhta Iblis sendiri - sebagian mati demi itu - namun ajaran sesat telah menyelinap masuk lewat pintu belakang, senyap seperti pencuri.
 
-Di Tiatira, pembusukan dimulai dari puncak: para pemimpinnya sendiri telah menyimpang dari jalan.
+Di Tiatira, pembusukan ada di dalam jemaat: seorang perempuan bernama Izebel menuntun orang menyimpang dari jalan, dan jemaat membiarkannya.
 
 Sardis tampak hidup. *(gelengkan kepalamu perlahan-lahan)* Tapi di dalamnya, ia sudah mati - begitu yakin bisa bertahan baik-baik saja tanpa Allah, dan karena itu gagal dalam hampir segalanya.
 

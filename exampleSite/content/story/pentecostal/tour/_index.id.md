@@ -61,7 +61,7 @@ Smirna tidak bisa lebih berbeda lagi. Miskin, dibenci, terjepit dari segala sisi
 
 Pergamus bertahan di tempatnya, tepat di mana kamu bisa melihatnya, di bawah bayang-bayang takhta Iblis sendiri. Beberapa orang mati karenanya, tepat di depan matamu, menolak untuk membungkuk. Namun di dalam tembok-temboknya, ajaran sesat telah menyusup tanpa perlawanan, diam-diam menyesatkan orang-orang sementara tak seorang pun menjaga pintu.
 
-Di Tiatira, saksikan pembusukan itu bermula dari atas: kepemimpinannya sendiri telah tersesat, dan dari sana menjalar ke bawah.
+Di Tiatira, saksikan pembusukan itu berakar di dalam jemaat: seorang perempuan bernama Izebel menyesatkan orang-orang, dan jemaat membiarkannya.
 
 Sardis tampak hidup dari tempatmu berdiri - sibuk, terhormat, berjalan lancar. Di baliknya, ia sudah mati, yakin bisa mengurus dirinya sendiri tanpa Allah, dan karena itu gagal dalam hampir segala hal.
 

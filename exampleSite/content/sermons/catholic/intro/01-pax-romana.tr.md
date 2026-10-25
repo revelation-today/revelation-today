@@ -53,9 +53,7 @@ toplumsal ve ekonomik baskı.
 ## Bunun Hıristiyanlar İçin Yarattığı İkilem
 
 Küçük Asya'daki Hıristiyanlar, gerçek krallarının imparator değil İsa olduğuna inanıyorlardı.
-Manidar bir biçimde, mesajlarının kelimesi olan *euangelion* — "müjde" — Roma'nın yeni bir
-imparatorun tahta çıkışını ilan etmek için kullandığı kendi terimiydi. İncillerin kendisi, gerçek
-bir anlamda, rakip bir duyuru olarak yazılmıştı: yeni bir Kral tahta çıkmıştı ve bu, madeni
+Manidar bir biçimde, mesajlarının kelimesi olan *euangelion* — "müjde" — imparatorluk duyuruları için de, örneğin bir imparatorun doğumu ya da tahta çıkışı için de kullanılırdı. İnciller, gerçek bir anlamda, rakip bir duyuru gibi okunur: yeni bir Kral tahta çıkmıştı ve bu, madeni
 paralardaki kral değildi. Hıristiyanlar günlük ihtiyaçları için Sezar'a değil İsa'ya güveniyordu
 (bkz. {{% bible val="Matta 6:25-34" link="mat:6,25-34" lang="tr" %}}) ve kamusal hayatın belirli
 özellikleri — imparatoru ve tanrıları onurlandırmayla iç içe geçmiş ortak yemekler ve ayinler —

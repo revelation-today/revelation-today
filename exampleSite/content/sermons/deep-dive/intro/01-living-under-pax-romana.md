@@ -50,8 +50,8 @@ imperial claim rather than reasons to embrace it. The point about Rome holds eit
 message was inescapable, delivered through art, architecture, and public ritual alike.
 
 **The dilemma this created for Christians.** Jesus, not the emperor, was their true king — and
-the very word used for the gospel message, *euangelion*, was Rome's own term for the
-proclamation of a new emperor's reign. That word choice alone was a quiet act of political
+the very word used for the gospel message, *euangelion*, was also used for imperial
+announcements, such as an emperor's birth or accession. That word choice alone was a quiet act of political
 defiance. Christians looked to Jesus, not Caesar, for provision (see {{% bible val="Matthew 6:25-34" link="mat:6,25-34" lang="en" %}}), and some ordinary features of civic life under
 Pax Romana — ritual meals with divine toasts, festival practices tied to the imperial cult —
 were flatly incompatible with worshiping one God alone. That left three real options: renounce
@@ -80,8 +80,8 @@ facing something more like low-grade, constant social and economic pressure to c
 arguably the harder temptation to resist, because it rarely demanded a dramatic, one-time
 choice.
 
-**Original-language note.** The Greek word for "gospel," *euangelion* (εὐαγγέλιον), was standard
-vocabulary for the imperial announcement of a new Caesar's accession or a military victory. When
+**Original-language note.** The Greek word for "gospel," *euangelion* (εὐαγγέλιον), was also used
+for imperial announcements, such as a new Caesar's birth or accession. When
 Mark opens his gospel with "the *euangelion* of Jesus Christ," and when Revelation's whole
 structure functions as counter-propaganda to Rome's story, the word itself is already making a
 political claim: there is a new emperor, and it isn't the one on the coins.

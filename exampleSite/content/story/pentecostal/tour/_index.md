@@ -61,7 +61,7 @@ Smyrna could not be more different. Poor, hated, squeezed on every side by a hos
 
 Pergamum stands its ground right where you can see it, in the shadow of Satan's own throne. Some die for it, right in front of you, refusing to bend. And yet inside the walls, false teaching has slipped in unchallenged, quietly leading people away while no one was watching the door.
 
-In Thyatira, watch the rot start at the top: the leadership itself has gone astray, and it spreads downward from there.
+In Thyatira, watch the rot take root inside the church: a woman called Jezebel is leading people astray, and the church tolerates her.
 
 Sardis looks alive from where you stand — busy, respectable, humming along. Underneath, she is already dead, convinced she can manage just fine without God, and failing at nearly everything because of it.
 

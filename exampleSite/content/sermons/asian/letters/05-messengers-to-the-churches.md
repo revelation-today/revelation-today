@@ -21,7 +21,7 @@ This fits a pattern already common in Jewish literature, where an entire communi
 
 ## 2. The pattern behind all seven letters
 
-Each letter follows the same structure: Jesus addresses the church in a specific way, praises what's genuinely good, names what's gone wrong, and gives a promise. And the seven letters, taken together, are arranged with real symmetry. The first and last — Ephesus and Laodicea — are the churches in the worst condition. The second and second-to-last — Smyrna and Philadelphia — are the only two that receive no rebuke at all, only praise, despite facing real poverty and real persecution. The third and fifth — Pergamon and Sardis — each have real strengths and real weaknesses. And Thyatira, at the very center, stands as a warning example of what corrupt leadership can do to an entire congregation.
+Each letter follows the same structure: Jesus addresses the church in a specific way, praises what's genuinely good, names what's gone wrong, and gives a promise. And the seven letters, taken together, are arranged with real symmetry. The first and last — Ephesus and Laodicea — are the churches in the worst condition. The second and second-to-last — Smyrna and Philadelphia — are the only two that receive no rebuke at all, only praise, despite facing real poverty and real persecution. The third and fifth — Pergamon and Sardis — each have real strengths and real weaknesses. And Thyatira, at the very center, stands as a warning example of what tolerated false teaching can do to an entire congregation.
 
 Read this way, the letters aren't a random list of local complaints. They form a single message: churches are judged not on strength, size, or reputation, but on whether they depend on Jesus to be the light he has called them to be.
 

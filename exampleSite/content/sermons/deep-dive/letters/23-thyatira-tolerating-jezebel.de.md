@@ -13,9 +13,7 @@ next: /sermons/deep-dive/letters/24-sardis-a-reputation-without-life
 
 Fragt: „Wenn die Person, die die Anbetung leitet, eure Bibelstunde unterrichtet oder die
 öffentliche Stimme eurer Gemeinde prägt, heimlich zu Kompromiss ermutigen würde — wie lange,
-glaubt ihr, würde es dauern, bis der Rest der Gemeinde es bemerkt?" Thyatira, wahrscheinlich die
-kleinste der sieben Gemeinden, erhält den längsten Brief von allen sieben — weil ihr Problem ganz
-oben sitzt.
+glaubt ihr, würde es dauern, bis der Rest der Gemeinde es bemerkt?" Thyatira erhält den längsten Brief von allen sieben — weil falsche Lehre in der Gemeinde selbst Platz gefunden hat und die Gemeinde sie duldet.
 
 ## Die Kernlehre
 

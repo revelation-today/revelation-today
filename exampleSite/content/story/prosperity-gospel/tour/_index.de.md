@@ -53,7 +53,7 @@ Smyrna könnte kaum unterschiedlicher sein. Arm - wirklich, materiell arm -, geh
 
 Pergamon hält stand, im Schatten von Satans eigenem Thron. Manche sterben dafür. Und doch hat sich innerhalb der Mauern falsche Lehre unangefochten eingeschlichen und führt Menschen still von Gott weg - dieselbe Verführung, im Kleinen, die spätere Kapitel in voller Größe zeigen werden.
 
-In Thyatira beginnt die Fäulnis ganz oben: Die Leitung selbst ist vom Weg abgekommen und duldet eine Lehrerin, die Tiefen des Segens verspricht, die überhaupt nichts kosten.
+In Thyatira sitzt die Fäulnis in der Gemeinde: Sie duldet eine Lehrerin, die Tiefen des Segens verspricht, die überhaupt nichts kosten.
 
 Sardes wirkt von außen lebendig. Von innen ist sie längst tot - überzeugt, es auch ohne Gott zu schaffen, und scheitert deshalb an fast allem. Der Ruf, lebendig zu sein, ist nicht dasselbe wie Leben.
 

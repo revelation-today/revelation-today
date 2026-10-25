@@ -13,8 +13,7 @@ next: /sermons/deep-dive/letters/24-sardis-a-reputation-without-life
 
 Sorun: "Övgüyü yöneten, Kutsal Kitap çalışmanızı öğreten ya da kilisenizin kamusal sesini
 şekillendiren kişi gizlice uzlaşmayı teşvik ediyor olsaydı — cemaatin geri kalanının bunu fark
-etmesi ne kadar sürerdi?" Tiyatira, muhtemelen yedi kilisenin en küçüğü, yedisi arasında en uzun
-mektubu alıyor — çünkü sorunu tam olarak en tepede yatıyor.
+etmesi ne kadar sürerdi?" Tiyatira, yedisi arasında en uzun mektubu alıyor — çünkü yanlış öğreti kilisenin içinde kendine yer bulmuş ve kilise buna göz yumuyor.
 
 ## Ana Öğreti
 

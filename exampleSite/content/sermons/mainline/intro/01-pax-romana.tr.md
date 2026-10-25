@@ -44,8 +44,7 @@ kolaylığını kazanmak umuduyla, imparatora tapınaklar inşa etmek için birb
 ## Bunun Hristiyanlar için yarattığı ikilem
 
 Küçük Asya'daki Hristiyanlar için gerçek kral imparator değil, İsa'ydı — ve müjde mesajı için
-kullanılan kelimenin kendisi, *euangelion*, aslında Roma'nın yeni bir imparatorun egemenliğinin
-ilanı için kullandığı terimdi. Bu kelime seçiminin kendisi, sessiz ama siyasi bir başkaldırı
+kullanılan kelimenin kendisi, *euangelion*, imparatorluk duyuruları için de, örneğin bir imparatorun doğumu ya da tahta çıkışı için de kullanılırdı. Bu kelime seçiminin kendisi, sessiz ama siyasi bir başkaldırı
 eylemi işlevi görüyordu. Hristiyanlar ihtiyaçları için Sezar'a değil, İsa'ya bakıyordu. İsa'nın
 kendisi bu seçimi mümkün olan en keskin şekilde ortaya koymuştu: "Hiç kimse iki efendiye kulluk
 edemez... Siz hem Tanrı'ya hem paraya kulluk edemezsiniz" (Matta 6:24).

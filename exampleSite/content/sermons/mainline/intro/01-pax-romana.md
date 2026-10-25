@@ -44,8 +44,8 @@ to build temples to the emperor, hoping to win his favor or a break on taxes.
 ## The dilemma this created for Christians
 
 Jesus, not the emperor, was the true king for the Christians of Asia Minor — and the very
-word for the gospel message, *euangelion*, was Rome's own term for the proclamation of a
-new emperor's reign. That word choice alone functioned as a quiet act of political
+word for the gospel message, *euangelion*, was also used for imperial announcements, such as the
+birth or accession of an emperor. That word choice alone functioned as a quiet act of political
 defiance. Christians looked to Jesus, not Caesar, for provision. Jesus himself had put the
 choice in the starkest possible terms: "No one can serve two masters... You cannot serve
 God and money" (Matthew 6:24).

@@ -55,7 +55,7 @@ Smyrna could not be more different: poor, despised, pressed on every side by a h
 
 Pergamum holds her ground in the very shadow of Satan's throne. Some die for it. Yet within her walls, false teaching has crept in unopposed, quietly leading the flock astray from sound worship.
 
-In Thyatira, the corruption begins at the top: the shepherds themselves have wandered from the fold they were set to guard.
+In Thyatira, the corruption sits inside the church: a woman called Jezebel has led people astray, and the church has tolerated her.
 
 Sardis appears alive from without - her forms perhaps still observed. Within, she is already dead, persuaded she can manage without God, and failing at nearly everything as a result.
 

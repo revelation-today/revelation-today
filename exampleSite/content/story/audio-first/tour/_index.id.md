@@ -58,7 +58,7 @@ Smirna sangat berbeda. Ia miskin. Ia dibenci. Ia terjepit dari segala sisi oleh 
 
 Pergamus bertahan di bawah bayang-bayang takhta Iblis sendiri. Beberapa orang mati karenanya. Namun di dalam temboknya, ajaran sesat telah menyusup tanpa dilawan, diam-diam menyesatkan orang.
 
-Di Tiatira, kebusukan mulai dari atas. Para pemimpinnya sendiri yang telah tersesat.
+Di Tiatira, kebusukan ada di dalam jemaat itu sendiri: seorang perempuan bernama Izebel menyesatkan orang-orang, dan jemaat membiarkannya.
 
 Sardis kelihatan hidup dari luar. Di baliknya, ia sudah mati. Ia yakin bisa mengurus dirinya sendiri tanpa Allah - dan karena itu ia gagal di hampir segala hal.
 

@@ -48,8 +48,7 @@ dengan peningkatan ketaatan Taurat; orang Farisi mendorong peningkatan ketaatan 
 sebagaimana adanya; orang Saduki memegang hukum yang tertulis saja, menolak tradisi lisan orang
 Farisi, dan menyukai kerja sama dengan Roma; dan kaum Zelot
 menginginkan peningkatan ketaatan yang dipasangkan dengan perlawanan bersenjata aktif. Ke dalam
-lanskap yang terpecah itu, Markus membuka injilnya dengan kata *euangelion* — istilah untuk
-pengumuman naik takhta kekaisaran — segera diikuti dengan sebuah kutipan dari Yesaya tepat pada
+lanskap yang terpecah itu, Markus membuka injilnya dengan kata *euangelion* — kata yang juga dipakai untuk pengumuman kekaisaran — segera diikuti dengan sebuah kutipan dari Yesaya tepat pada
 titik Hari TUHAN diumumkan. Klaimnya berani: sang raja sejati, dan penggenapan sejati, telah tiba,
 dan Ia sama sekali tidak terlihat seperti yang diharapkan oleh faksi mana pun.
 

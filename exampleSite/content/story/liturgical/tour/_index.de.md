@@ -55,7 +55,7 @@ Smyrna könnte nicht unterschiedlicher sein: arm, verachtet, von einer feindseli
 
 Pergamon hält stand, im Schatten des Thrones Satans selbst. Manche sterben dafür. Doch innerhalb ihrer Mauern hat sich falsche Lehre unwidersprochen eingeschlichen und führt die Herde still von der rechten Anbetung weg.
 
-In Thyatira beginnt die Verderbnis ganz oben: Die Hirten selbst haben sich von der Herde entfernt, die zu hüten ihnen anvertraut war.
+In Thyatira sitzt die Verderbnis in der Gemeinde: Eine Frau namens Isebel hat Menschen in die Irre geführt, und die Gemeinde hat sie geduldet.
 
 Sardes erscheint von außen lebendig - ihre Formen werden vielleicht noch gewahrt. Innen ist sie längst tot, überzeugt, es ohne Gott zu schaffen, und scheitert deshalb an fast allem.
 

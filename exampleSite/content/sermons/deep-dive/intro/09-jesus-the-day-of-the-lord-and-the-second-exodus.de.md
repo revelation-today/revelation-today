@@ -49,8 +49,7 @@ bestehenden Gesellschaft; die Sadduzäer hielten allein am geschriebenen Gesetz 
 mündliche Überlieferung der Pharisäer ab und favorisierten die Kooperation mit Rom; und die
 Zeloten wollten verstärkte Beobachtung
 gepaart mit aktivem bewaffnetem Widerstand. In diese zerrissene Landschaft hinein eröffnet Markus
-sein Evangelium mit dem Wort *euangelion* — dem Begriff für die Ankündigung einer kaiserlichen
-Thronbesteigung —, unmittelbar gefolgt von einem Zitat aus Jesaja genau an dem Punkt, an dem der
+sein Evangelium mit dem Wort *euangelion* — einem Wort, das auch für kaiserliche Verlautbarungen diente —, unmittelbar gefolgt von einem Zitat aus Jesaja genau an dem Punkt, an dem der
 Tag des HERRN angekündigt wird. Der Anspruch ist kühn: Der wahre König, und die wahre Erfüllung,
 ist angekommen, und er sieht überhaupt nicht so aus, wie irgendeine Fraktion es erwartet hatte.
 

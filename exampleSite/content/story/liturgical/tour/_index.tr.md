@@ -55,7 +55,7 @@ Efes kendini tükenene kadar çalıştırıyor; her öğretisi sağlam, her gör
 
 Bergama, Şeytan'ın tahtının tam gölgesinde direniyor. Bazıları bunun için ölüyor. Yine de surlarının içine yanlış öğreti karşı konulmadan sızmış, sürüyü sessizce sağlam tapınmadan saptırıyor.
 
-Tiyatira'da çürüme en tepeden başlıyor: korumakla görevli çobanların kendileri, bekçilik ettikleri ağıldan uzaklaşmış.
+Tiyatira'da çürüme kilisenin içinde: İzebel adlı bir kadın insanları yoldan çıkarmış ve kilise ona göz yummuş.
 
 Sart dışarıdan canlı görünüyor - biçimleri belki hâlâ yerine getiriliyor. İçeride ise çoktan ölü; Tanrı'sız da idare edebileceğine ikna olmuş ve bu yüzden neredeyse her şeyde başarısız.
 

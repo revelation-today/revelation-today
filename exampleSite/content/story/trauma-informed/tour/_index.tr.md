@@ -47,7 +47,7 @@ Efes kendini tükenene kadar çalıştırıyor - öğretide doğru, görevde sad
 
 İzmir bundan daha farklı olamazdı: yoksul ve nefret edilen, etrafındaki düşmanca şehir tarafından her yandan sıkıştırılan. Ve o, İsa'nın yalnızca övgüyle söz ettiği iki kiliseden biri. Gerçek sıkıntıdan geçen bir kiliseye hiçbir düzeltme sunmuyor - yalnızca teselli, ve hâlâ önde duran şeyler için cesaret.
 
-Bergama zor bir yerde, gerçek bir bedel ödeyerek de olsa yerini koruyor; gerçi yol boyunca bazı sahte öğretiler fark edilmeden içeri sızmış. Tiyatira'da sorun en tepeden, önderliğin kendisinden başlıyor. Sart dışarıdan canlı görünüyor, ama altta yıpranmış ve neredeyse bomboş; sessizce Tanrı'sız idare etmeye çalışmış.
+Bergama zor bir yerde, gerçek bir bedel ödeyerek de olsa yerini koruyor; gerçi yol boyunca bazı sahte öğretiler fark edilmeden içeri sızmış. Tiyatira'da sorun kilisenin içinde, göz yumduğu bir öğretmende. Sart dışarıdan canlı görünüyor, ama altta yıpranmış ve neredeyse bomboş; sessizce Tanrı'sız idare etmeye çalışmış.
 
 Filadelfya, İsa'nın çekincesiz övdüğü diğer kilise - küçük, yorgun, kasada hiçbir şeyi kalmamış, ve yine de sadık. Ona kimsenin kapatamayacağı açık bir kapı vaat ediyor.
 

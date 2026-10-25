@@ -55,9 +55,7 @@ sosial dan ekonomi yang terus-menerus untuk sekadar ikut arus.
 ## Dilema yang Dihadapi Umat Kristen
 
 Umat Kristen di Asia Kecil percaya bahwa Yesus, bukan kaisar, adalah raja sejati mereka. Menariknya,
-kata untuk berita mereka sendiri — *euangelion*, "Injil" — adalah istilah Roma sendiri untuk
-pemakluman naiknya seorang kaisar baru. Injil-Injil itu sendiri ditulis, dalam arti yang
-sesungguhnya, sebagai pengumuman tandingan: seorang Raja baru telah naik takhta, dan itu bukan
+kata untuk berita mereka sendiri — *euangelion*, "kabar baik" — juga dipakai untuk pengumuman kekaisaran, misalnya kelahiran atau naik takhtanya seorang kaisar. Injil-Injil itu, dalam arti yang sesungguhnya, terbaca sebagai pengumuman tandingan: seorang Raja baru telah naik takhta, dan itu bukan
 raja yang ada di mata uang. Umat Kristen percaya kepada Yesus, bukan kepada Kaisar, untuk penyediaan
 kebutuhan mereka sehari-hari (lihat
 {{% bible val="Matius 6:25-34" link="mat:6,25-34" lang="ind" %}}), dan sejumlah ciri kehidupan

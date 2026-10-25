@@ -105,7 +105,7 @@ Smyrna hat nichts. Kein Geld, kein Ansehen, eine ganze Stadt, die sie hasst und 
 
 Pergamon lebt mittendrin in dem, was der Brief „Satans eigenen Thronsaal" nennt - echte Feindseligkeit, echte Gefahr, manche von ihnen schon dafür getötet. Und selbst da, selbst unter diesem Druck, haben sie Lügner durch die Hintertür reinschleichen lassen, die predigen, was gerade bequem ist. Mut unter Beschuss und von innen ausgetrickst werden schließen sich nicht gegenseitig aus.
 
-Thyatiras Problem fängt ganz oben an: Ihre eigene Leitung hat sie in den Kompromiss geführt.
+Thyatiras Problem sitzt in der Gemeinde selbst: Eine Frau namens Isebel hat sie in den Kompromiss geführt, und sie haben sie gewähren lassen.
 
 Sardes hat einen Ruf. Alle sagen, Sardes floriert. Sardes ist tot - Flatline, läuft auf der Annahme, dass sie Gott eigentlich nicht brauchen, um zu funktionieren, und scheitert dabei still an fast allem, während sie sich einredet, es laufe super.
 

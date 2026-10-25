@@ -111,7 +111,7 @@ Smyrna hatte gar nichts. Kein Geld, keinen Respekt, Feinde auf allen Seiten. Und
 
 Pergamon hielt stand am unheimlichsten Ort, den man sich vorstellen kann, direkt unter der Nase des Feindes. Manche von ihnen starben dafür. Aber hinterlistige Lügen hatten sich durch die Hintertür eingeschlichen, und niemand hatte es bemerkt.
 
-In Thyatira waren die eigenen Leiter vom Weg abgekommen und führten gute Menschen in die falsche Richtung.
+In Thyatira gab es eine Lehrerin, eine Frau namens Isebel, die gute Menschen in die falsche Richtung führte, und die Gemeinde ließ sie gewähren.
 
 Sardes sah von außen großartig aus - geschäftig, angesehen, lebendig. Darunter waren sie im Grunde eingeschlafen und liefen auf eigener Kraft statt auf Gottes Kraft.
 

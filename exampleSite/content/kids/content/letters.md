@@ -28,7 +28,7 @@ Then there's Smyrna, a very small church that's faithful to Jesus, but has troub
 
 Next comes Pergamon. They have a really difficult job, since they're almost overwhelmed by evil people - one of them even died because of it. But they allow people to teach false things about Jesus inside the church.
 
-Then there's Thyatira, a very small town Jesus has a lot to say about. They keep getting better in their faith and have endured a great deal - but here the church's own leaders are the ones spreading false teaching.
+Then there's Thyatira, a very small town Jesus has a lot to say about. They keep getting better in their faith and have endured a great deal - but here a woman called Jezebel, inside the church, is spreading false teaching, and the church lets her.
 
 Then we have Sardis, a very grand city. They seem to have their faith all under control - which is the problem, because it turns out they don't actually need Jesus in their lives, except for a few of them.
 

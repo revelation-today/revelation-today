@@ -56,9 +56,7 @@ Druck, sich einfach anzupassen.
 ## Das Dilemma, das dies für die Christen schuf
 
 Die Christen in Kleinasien glaubten, dass Jesus, nicht der Kaiser, ihr wahrer König war.
-Bezeichnenderweise war das Wort für ihre Botschaft selbst — *euangelion*, „Evangelium" — Roms
-eigener Begriff für die Verkündigung der Herrschaft eines neuen Kaisers. Die Evangelien selbst
-wurden, in einem sehr realen Sinn, als konkurrierende Ankündigung geschrieben: Ein neuer König hat
+Bezeichnenderweise war das Wort für ihre Botschaft selbst — *euangelion*, „gute Nachricht" — auch ein Wort für kaiserliche Verlautbarungen, etwa über Geburt oder Thronbesteigung eines Kaisers. Die Evangelien lesen sich, in einem sehr realen Sinn, als konkurrierende Ankündigung: Ein neuer König hat
 den Thron bestiegen, und es ist nicht der auf den Münzen. Die Christen vertrauten für ihre tägliche
 Versorgung auf Jesus, nicht auf den Kaiser (siehe
 {{% bible val="Matthäus 6,25-34" link="mat:6,25-34" lang="de" %}}), und bestimmte Bereiche des

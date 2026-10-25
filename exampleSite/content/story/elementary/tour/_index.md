@@ -129,7 +129,7 @@ Smyrna had nothing. No money, no respect, enemies on every side. And Jesus told 
 
 Pergamum stood firm in the scariest place imaginable, right under the enemy's nose. Some of them died for it. But sneaky lies had slipped in through the back door, and nobody had noticed.
 
-Thyatira's own leaders had gone wrong, leading good people the wrong way.
+Thyatira had a teacher, a woman called Jezebel, who was leading good people the wrong way, and the church let her.
 
 Sardis looked amazing from the outside — busy, respected, alive. Underneath, they were basically asleep, coasting on their own strength instead of God's.
 

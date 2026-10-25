@@ -111,7 +111,7 @@ Simirna'nın hiçbir şeyi yoktu. Parası yoktu, saygınlığı yoktu, her yanda
 
 Bergama, akla gelebilecek en korkutucu yerde, düşmanın burnunun dibinde sağlam durdu. Bazıları bunun için öldü. Ama sinsi yalanlar arka kapıdan içeri sızmıştı ve kimse fark etmemişti.
 
-Tiyatira'nın kendi liderleri yoldan çıkmıştı, iyi insanları yanlış yöne sürüklüyorlardı.
+Tiyatira'da İzebel adlı bir kadın öğretmen vardı; iyi insanları yanlış yöne sürüklüyordu ve kilise buna izin veriyordu.
 
 Sart dışarıdan harika görünüyordu — meşgul, saygın, canlı. Ama içten içe neredeyse tamamen uykudaydılar, Tanrı'nın gücü yerine kendi güçleriyle yol alıyorlardı.
 

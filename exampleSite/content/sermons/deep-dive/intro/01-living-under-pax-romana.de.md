@@ -54,8 +54,7 @@ die Hand, sich von genau dieser Art imperialen Anspruchs fernzuhalten, als Grün
 verbreitet durch Kunst, Architektur und öffentliches Ritual gleichermaßen.
 
 **Das Dilemma, das dies für Christen schuf.** Jesus, nicht der Kaiser, war ihr wahrer König — und
-das Wort, das für die Heilsbotschaft verwendet wurde, *euangelion*, war Roms eigener Begriff für
-die Verkündigung der Herrschaft eines neuen Kaisers. Diese Wortwahl allein war schon ein stiller
+das Wort, das für die Heilsbotschaft verwendet wurde, *euangelion*, wurde auch für kaiserliche Verlautbarungen verwendet, etwa über Geburt oder Thronbesteigung eines Kaisers. Diese Wortwahl allein war schon ein stiller
 Akt politischen Widerstands. Christen blickten für ihre Versorgung zu Jesus, nicht zum Kaiser (siehe
 {{% bible val="Matthäus 6,25-34" link="mat:6,25-34" lang="de" %}}), und manche gewöhnlichen
 Bestandteile des bürgerlichen Lebens unter der Pax Romana — rituelle Mahlzeiten mit göttlichen
@@ -89,8 +88,7 @@ wirtschaftlichen Druck zur Anpassung — womöglich die schwerere Versuchung, ih
 sie selten eine dramatische, einmalige Entscheidung verlangte.
 
 **Hinweis zur Originalsprache.** Das griechische Wort für „Evangelium", *euangelion*
-(εὐαγγέλιον), war der Standardbegriff für die kaiserliche Ankündigung der Thronbesteigung eines
-neuen Cäsar oder eines militärischen Sieges. Wenn Markus sein Evangelium mit „das *euangelion* von
+(εὐαγγέλιον), wurde auch für kaiserliche Ankündigungen verwendet, etwa für Geburt oder Thronbesteigung eines neuen Cäsar. Wenn Markus sein Evangelium mit „das *euangelion* von
 Jesus Christus" eröffnet, und wenn die gesamte Struktur der Offenbarung als Gegenpropaganda zu Roms
 Erzählung funktioniert, macht das Wort selbst bereits einen politischen Anspruch geltend: Es gibt
 einen neuen Kaiser, und es ist nicht der auf den Münzen.

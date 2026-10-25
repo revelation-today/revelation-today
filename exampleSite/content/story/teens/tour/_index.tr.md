@@ -105,7 +105,7 @@ Simirna'nın hiçbir şeyi yok. Ne para, ne itibar, koca bir şehir onlardan nef
 
 Bergama, mektubun Şeytan'ın taht odası dediği yerin tam ortasında yaşıyor — gerçek düşmanlık, gerçek tehlike, kendilerinden bazıları bu yüzden çoktan öldürülmüş. Ve orada bile, o baskının altında bile, yalancıların arka kapıdan sızıp rahatlarına geleni öğretmesine göz yummuşlar. Ateş altında cesaret göstermekle içeriden kandırılmak birbirini dışlamıyor.
 
-Tiyatira'nın sorunu tepeden başlıyor: kendi liderleri onları tavizin içine yürütmüş.
+Tiyatira'nın sorunu kilisenin içinde: İzebel adlı bir kadın onları tavizin içine yürütmüş ve onlar buna izin vermiş.
 
 Sart'ın bir şöhreti var. Herkes Sart'ın büyüdüğünü söylüyor. Sart ölü — kalbi çoktan durmuş, işlev görmek için Tanrı'ya aslında ihtiyacı olmadığı varsayımıyla dönüyor, ve kendine "biz iyiyiz" derken neredeyse her konuda sessizce çuvallıyor.
 

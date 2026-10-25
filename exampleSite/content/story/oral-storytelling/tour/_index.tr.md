@@ -67,7 +67,7 @@ Efes kendini tükenene kadar çalıştırıyor. Her öğretide doğru. Her göre
 
 Bergama, Şeytan'ın kendi tahtının gölgesinde direniyor - bazıları bunun için ölüyor - yine de yanlış öğreti, bir hırsız kadar sessizce arka kapıdan sızmış.
 
-Tiyatira'da çürüme en tepeden başlıyor: bizzat önderler yoldan sapmış.
+Tiyatira'da çürüme kilisenin içinde: İzebel adlı bir kadın insanları yoldan çıkarıyor ve kilise buna izin veriyor.
 
 Sart canlı görünüyor. *(başınızı yavaşça sallayın)* Ama altta çoktan ölü - Tanrı'sız da pekâlâ idare edebileceğinden o kadar emin, ve tam da bu yüzden neredeyse her şeyde başarısız.
 

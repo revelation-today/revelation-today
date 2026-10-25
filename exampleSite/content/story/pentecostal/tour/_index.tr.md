@@ -61,7 +61,7 @@ Efes, tam gözlerinin önünde kendini tükenene kadar çalıştırıyor - her �
 
 Bergama, tam görebileceğin yerde, Şeytan'ın kendi tahtının gölgesinde ayak diriyor. Bazıları bunun için ölüyor, tam gözlerinin önünde, eğilmeyi reddederek. Yine de duvarların içine sahte öğreti karşı konulmadan sızmış; kimse kapıyı gözetlemezken insanları sessizce yoldan çıkarıyor.
 
-Tiyatira'da çürümenin en tepeden başlayışını izle: önderliğin kendisi yoldan sapmış, ve çürüme oradan aşağıya doğru yayılıyor.
+Tiyatira'da çürümenin kilisenin içinde kök salışını izle: İzebel adlı bir kadın insanları yoldan çıkarıyor ve kilise buna göz yumuyor.
 
 Sart, durduğun yerden canlı görünüyor - meşgul, saygın, tıkır tıkır işliyor. Ama yüzeyin altında çoktan ölmüş; Tanrı'sız da pekâlâ idare edebileceğine kendini inandırmış ve tam da bu yüzden neredeyse her şeyde başarısız oluyor.
 

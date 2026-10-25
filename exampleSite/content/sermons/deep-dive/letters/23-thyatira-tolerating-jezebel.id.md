@@ -13,8 +13,7 @@ next: /sermons/deep-dive/letters/24-sardis-a-reputation-without-life
 
 Tanyakan: "Jika orang yang memimpin ibadah, mengajar kelompok belajar Alkitabmu, atau membentuk
 suara publik gerejamu secara diam-diam mendorong kompromi — menurutmu berapa lama waktu yang
-dibutuhkan sisa jemaat untuk menyadarinya?" Tiatira, kemungkinan yang terkecil dari ketujuh
-jemaat, menerima surat terpanjang dari ketujuhnya — karena masalahnya berada tepat di puncak.
+dibutuhkan sisa jemaat untuk menyadarinya?" Tiatira menerima surat terpanjang dari ketujuhnya — karena ajaran sesat telah menemukan tempat di dalam jemaat itu sendiri, dan jemaat membiarkannya.
 
 ## Inti Pengajaran
 

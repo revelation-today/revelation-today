@@ -53,7 +53,7 @@ Efes kendini tükenene kadar çalıştırıyor - her öğretide doğru, her gör
 
 Bergama, Şeytan'ın kendi tahtının gölgesinde direniyor. Bazıları bunun için ölüyor. Yine de surların içine, yanlış öğreti karşı konulmadan sızmış ve insanları sessizce yoldan çıkarıyor - sonraki bölümlerin bütün haliyle göstereceği ayartmanın minyatürü.
 
-Tiyatira'da çürüme en tepeden başlıyor: önderliğin kendisi yoldan sapmış - hiçbir bedeli olmayan bereket derinlikleri vaat eden bir öğretmene göz yumuyor.
+Tiyatira'da çürüme kilisenin içinde: hiçbir bedeli olmayan bereket derinlikleri vaat eden bir öğretmene göz yumuyor.
 
 Sart dışarıdan canlı görünüyor. İçeriden ise çoktan ölü - Tanrı'sız da pekâlâ idare edebileceğine ikna olmuş, ve tam da bu yüzden neredeyse her konuda başarısız. Canlılık ünü, canlılığın kendisiyle aynı şey değildir.
 

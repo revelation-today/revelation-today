@@ -28,7 +28,7 @@ Lalu ada Smirna, gereja yang sangat kecil, setia kepada Yesus, tapi punya masala
 
 Berikutnya ada Pergamus. Mereka punya tugas yang sangat berat, karena hampir dikalahkan oleh orang-orang jahat - bahkan salah satu dari mereka sampai meninggal karena itu. Tapi mereka membiarkan orang mengajarkan hal-hal yang salah tentang Yesus di dalam gereja.
 
-Kemudian ada Tiatira, kota yang sangat kecil, tapi Yesus punya banyak hal untuk dikatakan tentangnya. Iman mereka terus bertambah baik dan mereka sudah bertahan banyak hal - tapi di sini justru para pemimpin gerejanya yang menyebarkan ajaran salah.
+Kemudian ada Tiatira, kota yang sangat kecil, tapi Yesus punya banyak hal untuk dikatakan tentangnya. Iman mereka terus bertambah baik dan mereka sudah bertahan banyak hal - tapi di sini justru seorang perempuan bernama Izebel di dalam jemaat yang menyebarkan ajaran salah, dan jemaat membiarkannya.
 
 Lalu ada Sardis, kota yang sangat megah. Sepertinya iman mereka baik-baik saja - padahal justru itu masalahnya, karena ternyata mereka tidak lagi benar-benar membutuhkan Yesus dalam hidup mereka, kecuali beberapa orang saja.
 

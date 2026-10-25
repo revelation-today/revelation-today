@@ -54,8 +54,7 @@ menerimanya. Poin tentang Roma tetap berdiri: pesannya tidak dapat dihindari, di
 seni, arsitektur, dan ritual publik sekaligus.
 
 **Dilema yang tercipta bagi orang Kristen.** Yesus, bukan sang kaisar, adalah raja sejati mereka —
-dan kata yang dipakai untuk berita Injil, *euangelion*, adalah istilah Roma sendiri untuk
-pemakluman pemerintahan seorang kaisar baru. Pilihan kata itu saja sudah menjadi tindakan
+dan kata yang dipakai untuk berita Injil, *euangelion*, juga dipakai untuk pengumuman kekaisaran, misalnya kelahiran atau naik takhtanya seorang kaisar. Pilihan kata itu saja sudah menjadi tindakan
 perlawanan politik yang tenang. Orang Kristen memandang kepada Yesus, bukan Kaisar, untuk
 pemeliharaan hidup mereka (lihat {{% bible val="Matius 6:25-34" link="mat:6,25-34" lang="ind" %}}),
 dan beberapa ciri biasa dari kehidupan bermasyarakat di bawah Pax Romana — jamuan ritual dengan
@@ -90,8 +89,7 @@ pemusnahan menyeluruh di seluruh kekaisaran. Mereka menghadapi sesuatu yang lebi
 sosial dan ekonomi yang rendah namun konstan untuk menyesuaikan diri — bisa dibilang godaan yang
 lebih sulit untuk dilawan, justru karena jarang menuntut sebuah pilihan dramatis satu kali saja.
 
-**Catatan bahasa asli.** Kata Yunani untuk "injil," *euangelion* (εὐαγγέλιον), adalah kosakata baku
-untuk pengumuman kekaisaran tentang naiknya takhta seorang Kaisar baru atau kemenangan militer.
+**Catatan bahasa asli.** Kata Yunani untuk "injil," *euangelion* (εὐαγγέλιον), juga dipakai untuk pengumuman kekaisaran, misalnya kelahiran atau naik takhtanya seorang Kaisar baru.
 Ketika Markus membuka injilnya dengan "*euangelion* Yesus Kristus," dan ketika seluruh struktur
 Kitab Wahyu berfungsi sebagai propaganda tandingan terhadap narasi Roma, kata itu sendiri sudah
 membawa klaim politik: ada kaisar baru, dan itu bukan yang tercetak di mata uang.

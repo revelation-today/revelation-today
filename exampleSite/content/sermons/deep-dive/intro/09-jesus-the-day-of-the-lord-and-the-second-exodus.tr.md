@@ -44,8 +44,7 @@ ayrıntılar konusunda keskin bir şekilde anlaşamıyordu: Kumran, artan Tora g
 çekilmeyi bekliyordu; Ferisiler, olduğu haliyle toplum içinde artan gözlem için baskı
 yapıyordu; Sadukiler yalnızca yazılı yasaya bağlı kalıyor, Ferisilerin sözlü geleneğini reddediyor
 ve Roma ile işbirliğini savunuyordu; ve Zelotlar artan gözlemi
-etkin silahlı direnişle eşleştirmek istiyordu. Bu parçalanmış manzaraya, Markos, imparatorluk
-tahta çıkış ilanı için kullanılan terim olan *euangelion* kelimesiyle müjdesine başlar, hemen
+etkin silahlı direnişle eşleştirmek istiyordu. Bu parçalanmış manzaraya, Markos, imparatorluk duyuruları için de kullanılan *euangelion* kelimesiyle müjdesine başlar, hemen
 ardından Rab'bin Günü'nün ilan edildiği tam noktada Yeşaya'dan bir alıntı ekler. İddia
 cüretkardır: gerçek kral ve gerçek gerçekleşme gelmiştir ve hiçbir hizip beklediğine benzemez.
 

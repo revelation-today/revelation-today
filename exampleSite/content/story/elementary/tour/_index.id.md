@@ -111,7 +111,7 @@ Smirna tidak punya apa-apa. Tak ada uang, tak ada penghormatan, musuh di segala 
 
 Pergamus berdiri teguh di tempat paling menyeramkan yang bisa dibayangkan, tepat di depan hidung musuh. Beberapa dari mereka mati karenanya. Tapi kebohongan-kebohongan licik telah menyelinap lewat pintu belakang, dan tak seorang pun menyadarinya.
 
-Di Tiatira, para pemimpinnya sendiri yang tersesat, menuntun orang-orang baik ke arah yang salah.
+Di Tiatira ada seorang pengajar, seorang perempuan bernama Izebel, yang menuntun orang-orang baik ke arah yang salah, dan jemaat membiarkannya.
 
 Sardis tampak mengagumkan dari luar — sibuk, dihormati, penuh kehidupan. Tapi di baliknya, mereka sebenarnya sedang tertidur, mengandalkan kekuatan sendiri dan bukan kekuatan Allah.
 

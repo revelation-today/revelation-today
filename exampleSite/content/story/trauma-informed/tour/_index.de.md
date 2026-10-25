@@ -47,7 +47,7 @@ Ephesus arbeitet sich bis zur Erschöpfung ab - lehrmäßig korrekt, treu in jed
 
 Smyrna könnte kaum unterschiedlicher sein: arm und gehasst, von einer feindseligen Stadt um sie herum von allen Seiten bedrängt. Und sie ist eine von nur zwei Gemeinden, für die Jesus nichts als Lob übrig hat. Einer Gemeinde, die echte Not durchmacht, bietet er keine Zurechtweisung an - nur Trost, und Mut für das, was noch bevorsteht.
 
-Pergamon hält an einem schwierigen Ort stand, sogar um einen echten Preis, auch wenn sich unterwegs unbemerkt falsche Lehre eingeschlichen hat. In Thyatira beginnt das Problem ganz oben, bei der Leitung selbst. Sardes wirkt von außen lebendig, ist darunter aber dünn und fast leer, weil sie still versucht hat, ohne Gott auszukommen.
+Pergamon hält an einem schwierigen Ort stand, sogar um einen echten Preis, auch wenn sich unterwegs unbemerkt falsche Lehre eingeschlichen hat. In Thyatira sitzt das Problem in der Gemeinde selbst, bei einer Lehrerin, die sie duldet. Sardes wirkt von außen lebendig, ist darunter aber dünn und fast leer, weil sie still versucht hat, ohne Gott auszukommen.
 
 Philadelphia ist die andere Gemeinde, die Jesus ohne Einschränkung lobt - klein, müde, ohne jede Rücklage, und trotzdem treu. Er verspricht ihr eine offene Tür, die niemand schließen kann.
 

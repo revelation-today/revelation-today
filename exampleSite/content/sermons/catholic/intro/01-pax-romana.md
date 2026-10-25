@@ -52,8 +52,8 @@ social and economic pressure to simply go along.
 ## The Dilemma This Created for Christians
 
 Christians in Asia Minor believed Jesus, not the emperor, was their true king. Tellingly, the
-very word for their message — *euangelion*, "gospel" — was Rome's own term for the proclamation
-of a new emperor's reign. The Gospels themselves were written, in a real sense, as a rival
+very word for their message — *euangelion*, "good news" — was also used for imperial
+announcements, such as an emperor's birth or accession. The Gospels, in a real sense, read as a rival
 announcement: a new King has taken the throne, and it isn't the one on the coins. Christians
 trusted Jesus, not Caesar, for their daily provision (see
 {{% bible val="Matthew 6:25-34" link="mat:6,25-34" lang="en" %}}), and certain features of civic

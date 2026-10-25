@@ -22,14 +22,14 @@ Before the seven letters, John records the vision from chapter 1 — the church 
 - **First and last (Ephesus, Laodicea)** are the churches in the worst condition. Ephesus is warned its lampstand will be removed — its purpose and reason for existing is at stake. Laodicea receives no praise at all, the only church so treated.
 - **Second and second-to-last (Smyrna, Philadelphia)** are the only two churches to receive no rebuke whatsoever — both poor, both under real external pressure, both told simply to endure.
 - **Third and fifth (Pergamon, Sardis)** each have a mix of real strengths and real failures.
-- **Fourth, Thyatira, stands alone at the center** — the one letter whose entire subject is corrupt leadership, a warning example placed deliberately in the middle for every other church to see.
+- **Fourth, Thyatira, stands alone at the center** — the one letter whose entire subject is false teaching tolerated inside the church, a warning example placed deliberately in the middle for every other church to see.
 
 **What the pairs reveal when set side by side:**
 
 - *Ephesus and Laodicea*: Ephesus does almost everything right but has lost its love. Laodicea does nothing right and doesn't know it. Read together, they show that neither disciplined orthodoxy nor confident success substitutes for a real, current relationship with Jesus — you can get every visible thing right and still be functionally dead.
 - *Smyrna and Philadelphia*: both face opposition explicitly tied to local Jewish conflict; both are told only to keep faith and continue their work, not promised that their circumstances will improve. Jesus promises to see them through hardship, not to remove the hardship itself.
 - *Pergamon and Sardis*: they stand on either side of the centre and fail in opposite ways. Pergamon holds fast to Jesus' name under real pressure, but its leaders let false teaching in (2:13-15) — the failure Thyatira shows in full. Sardis has no false teaching to answer for; it has a name for being alive and is dead (3:1). One lets the wrong thing in, the other has let its own life run out, and both are told to repent.
-- *Thyatira alone*: not one problem among several, but the entire subject of its letter — what happens when the corruption is the leadership itself, not merely something leadership failed to stop.
+- *Thyatira alone*: not one problem among several, but the entire subject of its letter — what happens when the false teacher may be one of the church's own recognised teachers, not merely an outsider the church failed to keep out.
 
 **A live question worth naming.** It's worth being honest with your group that this concentric structure, while a longstanding and textually-grounded observation (the paired similarities really are there in the text), is a proposed reading of the letters' arrangement rather than an explicit claim the text makes about itself. Other readers structure the seven cities geographically, tracing an actual Roman road connecting them in that order, or read the sequence without treating the pairing as intentional architecture at all. Holding the symmetry with some looseness — "many readers notice this pattern" rather than "this is definitely what John intended" — is the more honest way to teach it, without losing what's genuinely valuable about seeing the pattern.
 

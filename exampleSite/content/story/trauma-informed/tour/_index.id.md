@@ -47,7 +47,7 @@ Efesus bekerja sampai kelelahan - benar dalam ajaran, setia dalam tugas - tetapi
 
 Smirna tidak bisa lebih berbeda lagi: miskin, dan dibenci, terhimpit dari segala sisi oleh kota yang memusuhinya. Dan ia adalah satu dari hanya dua jemaat yang bagi mereka Yesus tidak punya apa-apa selain pujian. Kepada jemaat yang sedang melewati kesukaran yang nyata, Ia tidak memberikan teguran sama sekali - hanya penghiburan, dan keberanian untuk apa yang masih ada di depan.
 
-Pergamus bertahan di tempat yang sulit, bahkan dengan harga yang nyata, meskipun ada ajaran sesat yang menyusup tanpa disadari di sepanjang jalan. Di Tiatira, masalahnya bermula dari atas, dari kepemimpinannya sendiri. Sardis tampak hidup dari luar, tetapi di baliknya sudah aus dan hampir kosong, karena diam-diam mencoba mengatur segalanya tanpa Allah.
+Pergamus bertahan di tempat yang sulit, bahkan dengan harga yang nyata, meskipun ada ajaran sesat yang menyusup tanpa disadari di sepanjang jalan. Di Tiatira, masalahnya ada di dalam jemaat sendiri, pada seorang pengajar yang dibiarkan. Sardis tampak hidup dari luar, tetapi di baliknya sudah aus dan hampir kosong, karena diam-diam mencoba mengatur segalanya tanpa Allah.
 
 Filadelfia adalah jemaat satunya lagi yang dipuji Yesus tanpa keberatan apa pun - kecil, letih, tanpa apa pun yang tersisa di tabungan, dan tetap setia. Ia menjanjikan kepadanya sebuah pintu terbuka yang tidak dapat ditutup oleh siapa pun.
 

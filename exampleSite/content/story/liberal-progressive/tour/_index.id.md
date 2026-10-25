@@ -51,7 +51,7 @@ Smirna tidak bisa lebih berbeda lagi. Miskin, dibenci, dihimpit dari segala sisi
 
 Pergamus bertahan di bawah bayang-bayang takhta Iblis sendiri - sebuah kota yang dibangun, sebagian besar, di sekitar mesin penyembahan kaisar. Beberapa orang mati karenanya. Namun di dalam temboknya, ajaran sesat telah menyelinap masuk tanpa dilawan, diam-diam menyesatkan orang.
 
-Di Tiatira, kebusukan mulai dari atas: kepemimpinannya sendiri telah tersesat.
+Di Tiatira, kebusukan ada di dalam jemaat itu sendiri: seorang perempuan bernama Izebel menyesatkan orang-orang, dan jemaat membiarkannya.
 
 Sardis tampak hidup dari luar. Di baliknya, ia sudah mati - yakin bisa mengurus segalanya tanpa Allah, dan karena itu gagal dalam hampir segala hal.
 

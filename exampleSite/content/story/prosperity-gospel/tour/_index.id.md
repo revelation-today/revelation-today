@@ -53,7 +53,7 @@ Smirna tidak bisa lebih berbeda lagi. Miskin - sungguh-sungguh miskin secara mat
 
 Pergamus bertahan di bawah bayang-bayang takhta Iblis sendiri. Sebagian mati karenanya. Namun di dalam temboknya, ajaran sesat telah menyusup tanpa dilawan, diam-diam menyesatkan orang - rayuan yang sama, dalam bentuk kecilnya, yang akan diperlihatkan pasal-pasal berikutnya dalam ukuran penuh.
 
-Di Tiatira, kebusukan bermula dari pucuk pimpinan: kepemimpinannya sendiri telah tersesat, membiarkan seorang pengajar yang menjanjikan kedalaman berkat yang sama sekali tidak menuntut harga apa pun.
+Di Tiatira, kebusukan ada di dalam jemaat: jemaat membiarkan seorang pengajar yang menjanjikan kedalaman berkat yang sama sekali tidak menuntut harga apa pun.
 
 Sardis tampak hidup dari luar. Di dalamnya, ia sudah mati - yakin bisa mengurus dirinya sendiri tanpa Allah, dan justru karena itu gagal dalam hampir segala hal. Nama baik sebagai jemaat yang hidup tidak sama dengan hidup itu sendiri.
 
