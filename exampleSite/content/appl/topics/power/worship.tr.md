@@ -48,7 +48,7 @@ Ve burada ibadetin ne olduğu konusuna geliyoruz.
 - [şükretmeye](https://biblehub.com/hebrew/8416.htm) devam ederiz: Şükrettiğimiz tüm düşünceleri deneyimledikten sonra, Tanrı’nın iyi olduğunu fark eder ve karakterini överiz
 - Sonunda [tapınmaya](https://biblehub.com/hebrew/1288.htm) (diz çökme) ulaşırız: burada Tanrı’ya güveniriz
 
-Tapınma (diz çökme) kelimesi, tapınmanın yere düz bir şekilde uzanmak anlamına geldiği Asur kökenlidir. Bu, bir kralın savaşı kaybetmesinden sonra yapılan bir jestti ve yere düz bir şekilde uzanırdı ve muzaffer kral sembolize etmek için ayağını boynuna koyardı: Sana istediğimi yapabilirim.
+Buradaki "tapınma" sözcüğünün kökünde diz vardır: diz çökmek ({{% bible val="Mezmur 95:6" link="psa:95,6" lang="tr" %}}). Tapınma için öteki başlıca İbranice sözcük, *hishtachavah*, yere düz uzanmak demektir; bir tebaanın kralı karşısındaki jestidir.[^kneel] Şunu söyler: Senin ellerindeyim.
 
 İbadet ederken de aynı şeyi yaparız. Ruhsal olarak dümdüz yere uzanır ve şöyle deriz: Tanrım, ne yapmak istiyorsan benimle yap. Bu tam bir bağlılık ve sadakat göstergesidir, hatta politiktir (bir ülkenin liderlerine mi yoksa kralların kralına mı sadığız). Bu ibadet her eylemimizi etkiler.
 
@@ -136,3 +136,5 @@ Eğer Tanrı’yla olan ilişkiniz esas ise ve Tanrı tüm kutsamalarını elde 
 ## Dua
 
 Baba, bugün benim için yaptıkların için teşekkür ederim. Sen iyisin ve sana güveniyorum. İşte buradayım: bana dilediğini yap. Armağanlarını senden çok sevmekten beni koru ve beni sana daha çok benzet. Amin.
+
+[^kneel]: *Theological Dictionary of the Old Testament*, c. 2, s. 279, *bārak* maddesi ("diz çökmek", Mez. 95:6; 2. Tar. 6:13; *berek*, "diz"); c. 4, s. 249, *hishtachavah* maddesi ("yere kapanmak", Eski Antlaşma'da yaklaşık 170 kez).

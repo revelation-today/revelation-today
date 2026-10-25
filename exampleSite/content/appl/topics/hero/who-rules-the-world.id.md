@@ -58,7 +58,7 @@ Kunci untuk memahaminya adalah bahwa keduanya memerintah dengan cara yang berbed
 
 Iblis memaksa orang untuk tunduk, sedangkan kedua saksi memengaruhi orang secara mendalam untuk mengubah hidup mereka.
 
-Hal ini menjadi jelas dalam {{% int_link val="Kerajaan Seribu Tahun dan dalam kenyataan bahwa kedua saksi itulah yang memerintah di dalamnya" link="/expl/content/1000y/the-thousand-year-kingdom" %}}.
+Hal ini menjadi jelas dalam {{% int_link val="Kerajaan Seribu Tahun" link="/expl/content/1000y/the-thousand-year-kingdom" %}}: yang memerintah di sana adalah para saksi yang setia — bukan hanya mereka yang dibunuh, tetapi semua orang yang bersedia mati demi kesaksian mereka.
 
 ## Pertanyaan untuk direnungkan
 

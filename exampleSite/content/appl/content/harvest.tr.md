@@ -7,7 +7,7 @@ story_anchor: harvest
 expl: /expl/content/harvest/gods-army-and-the-seven-angels
 kids: /kids/elementary/12-the-two-harvests
 docType: appl
-description: "Cam ve ateşten denizde, sadıklar şarkı söyler — ve tek nitelikleri kazanmak değil, etkileyici olmak değil, bedel ödememek değil, sadık kalmaktı."
+description: "Siyon Dağı'nda sadıklar yeni bir ezgi söyler — ve tek nitelikleri kazanmak değil, etkileyici olmak değil, bedel ödememek değil, sadık kalmaktı."
 ---
 
 <!-- key-passage -->
@@ -17,7 +17,7 @@ description: "Cam ve ateşten denizde, sadıklar şarkı söyler — ve tek nite
 
 **Metnin tamamını oku:** {{% bible val="Vahiy 14" link="rev:14" lang="tr" %}}
 
-Cam ve ateşten denizde, sadıklar şarkı söyler — ve tek nitelikleri kazanmak değil, etkileyici olmak değil, bedel ödememek değil, sadık kalmaktı. O bedeli ödememek için güvenli oynayıp canavarın tarafını tutanlar, bunun yerine çok daha ağır bir hesapla karşılaşır.
+Siyon Dağı'nda sadıklar yeni bir ezgi söyler — ve tek nitelikleri kazanmak değil, etkileyici olmak değil, bedel ödememek değil, sadık kalmaktı. O bedeli ödememek için güvenli oynayıp canavarın tarafını tutanlar, bunun yerine çok daha ağır bir hesapla karşılaşır.
 
 Bu, "sadakat"in bu hafta gerçekte ne gerektirdiğini yeniden çerçeveler. Sonuçlara göre yargılanan bir performans değildir. Sadece sadık kalmak daha zor, daha maliyetli seçenek olduğunda sadakatini takas etmemektir.
 
@@ -25,7 +25,7 @@ Takasların genellikle ne kadar küçük olduğunu açıkça söylemek gerek. Ne
 
 Bu bölümdeki ezgiyi söyleyenlerin de anlatacak etkileyici sonuçları yoktu. Onlar, Kuzu nereye giderse onu izleyenler olarak tanımlanır — içinde hiç başarı olmayan bir sadakat tanımı. Ölçütün sadakatin görünür ve etkili olması gerektiğiyse, bu bölüm seni desteklemez. Korkun gösterecek hiçbir şeyinin olmamasıysa, bu bölüm o baskıyı tamamen üzerinden alır.
 
-Sonra hasadın kendisi var: iki hasat, tahıl ve üzüm, aynı saatte toplanır. Bölüm, yargının başka birinin sorunu olmasına izin vermez — sadıkları toplayan an, geri kalan herkes için rol yapmanın bittiği andır. Bunun amacı seni korkutmak değil, sağlam tutmaktır: gelen şey, katlandığın durumun sonudur; ödeyemeyeceğin bir faturanın gelişi değil.
+Sonra hasadın kendisi var: iki hasat, tahıl ve üzüm, biri ardından öbürü toplanır. Bölüm, yargının başka birinin sorunu olmasına izin vermez — sadıkları toplayan gün, geri kalan herkes için rol yapmanın bittiği gündür. Bunun amacı seni korkutmak değil, sağlam tutmaktır: gelen şey, katlandığın durumun sonudur; ödeyemeyeceğin bir faturanın gelişi değil.
 
 O halde son yedi güne geri bak, fark etmeden yaptığın takası bul, onu adlandır ve bir daha yapma. Senden istenen bunun tamamıdır.
 

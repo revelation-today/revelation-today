@@ -20,7 +20,7 @@ Mühürlerin ve borazanların her birinin tamamlayıcı bir görümü olduğu gi
 
 Durdurulamaz görünür — ama 13. bölümde yenilmez gibi görünen aynı canavarla şimdi açıkça alay edilir: güvenilmezdir; gerçekten "var olan, var olmuş ve gelecek olan" Tanrı'nın ({{% bible val="Vahiy 1:8" link="rev:1,8" lang="tr" %}}) yanında solup giden bir taklittir. Sonuçta ne canavar ne de fahişe kutsallara galip gelir; tam tersine, canavarı güçlendiren kralların ta kendileri dönüp fahişeyi kendi elleriyle yok eder — çünkü Tanrı bunu en baştan böyle planlamıştır.
 
-Fahişe, bu kitapta kiliseyi temsil eden gelinin karanlık karşılığıdır: çekici görünecek biçimde süslenmiş ekonomik ve mali güç — gelinin kendi görünüşüne o kadar yakındır ki, daha kolay ve daha müreffeh bir yol uman herkes onun konukseverliğini bir bereket sanabilir.
+Fahişe, bu kitapta kiliseyi temsil eden gelinin karanlık karşılığıdır: çekici görünecek biçimde süslenmiş ekonomik ve mali güç — gelinin kendi görünüşüne o kadar yakındır ki, daha kolay ve daha müreffeh bir yol uman herkes onun teklifini bir bereket sanabilir.
 
 ## Etkisi ve yargısı
 

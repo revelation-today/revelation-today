@@ -21,7 +21,7 @@ These people (souls) come up again in chapter 7 where God is with them and comfo
 <a name="23eb"></a>
 The seventh seal is the time when the prayers of the saints are presented and the prayers cause the trumpets to be blown.
 
-Here, the prayer shows a similar effect as Jesus’ death for the seals and God’s wrath/ambition for the vials.
+Here, the prayer shows a similar effect as Jesus’ death for the seals and God’s wrath for the bowls.
 
 The prayers here take away the false security of the people, but also push the Church to be a witness.
 

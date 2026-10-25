@@ -60,7 +60,7 @@ Kilit unsur, farklı şekilde yönetiyor olmalarıdır. Şeytan hayvanlarla birl
 
 Şeytan insanları boyun eğmeye zorlar, tanıklar ise yaşamlarını derinden değiştirmeleri için insanları etkiler.
 
-{{% int_link val="Bu 1000 yıllık krallıkta açıkça belirtilmiştir ki, aslında hükmedenler tanıklardır." link="/expl/content/1000y/the-thousand-year-kingdom" %}}
+{{% int_link val="Bu 1000 yıllık krallıkta" link="/expl/content/1000y/the-thousand-year-kingdom" %}} hükmedenler sadık tanıklardır — yalnızca öldürülenler değil, tanıklıkları uğruna ölmeye hazır olan herkes.
 
 ## Düşünmek için sorular
 

@@ -20,7 +20,7 @@ So wie die Siegel und die Posaunen jeweils eine ergänzende Vision hatten, ergä
 
 Das sieht unaufhaltsam aus - doch dasselbe Tier, das in Kapitel 13 unbesiegbar schien, wird jetzt offen als unzuverlässig verspottet, eine verblassende Nachahmung neben dem Gott, der wirklich der ist, "der ist und der war und der kommt" ({{% bible val="Offenbarung 1,8" link="rev:1,8" lang="de" %}}). Weder Tier noch Hure triumphieren am Ende über die Heiligen; stattdessen wenden sich genau die Könige, die dem Tier ihre Macht gegeben haben, gegen die Hure und vernichten sie selbst - weil Gott es von Anfang an so geplant hat.
 
-Die Hure ist das dunkle Gegenstück zur Braut, die in diesem Buch für die Gemeinde steht: wirtschaftliche und finanzielle Macht, die sich attraktiv herausgeputzt hat - der Erscheinung der Braut ähnlich genug, dass jeder, der auf einen leichteren, wohlhabenderen Weg hofft, ihre Gastfreundschaft für einen Segen halten könnte.
+Die Hure ist das dunkle Gegenstück zur Braut, die in diesem Buch für die Gemeinde steht: wirtschaftliche und finanzielle Macht, die sich attraktiv herausgeputzt hat - der Erscheinung der Braut ähnlich genug, dass jeder, der auf einen leichteren, wohlhabenderen Weg hofft, ihr Angebot für einen Segen halten könnte.
 
 ## Ihre Wirkung und ihr Gericht
 

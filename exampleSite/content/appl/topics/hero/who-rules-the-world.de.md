@@ -58,7 +58,7 @@ Der Schlüssel zum Verständnis ist, dass beide unterschiedlich regieren. Satan 
 
 Satan zwingt die Menschen zur Unterwerfung, die Zeugen beeinflussen die Menschen tief, um ihr Leben zu verändern.
 
-Das wird deutlich im {{% int_link val="Tausendjährigen Reich und in der Tatsache, dass es die Zeugen sind, die darin regieren" link="/expl/content/1000y/the-thousand-year-kingdom" %}}.
+Das wird deutlich im {{% int_link val="Tausendjährigen Reich" link="/expl/content/1000y/the-thousand-year-kingdom" %}}: Die dort regieren, sind die treuen Zeugen — nicht nur die, die getötet wurden, sondern alle, die bereit waren, für ihr Zeugnis zu sterben.
 
 ## Fragen zum Nachdenken
 

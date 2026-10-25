@@ -47,7 +47,7 @@ Und hier kommen wir zu dem, was Anbetung ist.
 - Weiter geht es mit dem Lobpreis: Nachdem wir all diese Dinge erfahren haben, erkennen wir, dass Gott gut ist und einen guten Charakter hat.
 - Zuletzt kommen wir zur Anbetung (auf den Knien): wo wir Gott voll und ganz vertrauen.
 
-Das Wort für Anbetung (knien) stammt aus dem Assyrischen, wo es flach auf dem Boden liegen bedeutet. Das tat ein König nach einem verlorenen Krieg. Er legte sich flach auf den Boden und der siegreiche König legte seinen Fuß auf seinen Nacken, um zu sagen: Ich kann mit dir machen, was ich will.
+Das Wort hinter „Anbetung“ hat hier das Knie als Wurzel: knien ({{% bible val="Psalm 95,6" link="psa:95,6" lang="de" %}}). Das andere wichtige hebräische Wort für Anbetung, *hischtachawa*, bedeutet, flach auf dem Boden zu liegen, die Geste eines Untertanen vor seinem König.[^kneel] Sie sagt: Ich bin in deinen Händen.
 
 So ist es auch in der Anbetung. Wir gehen in der Anbetung auf den Boden und sagen: Gott, mach mir, was du willst. Es ist ein Zeichen voller Hingabe und Loyalität, was das Thema sogar politisch macht (wir sollen auch den Herrschern dieser Welt gegenüber loyal sein). Die Anbetung beeinflusst also jeden Aspekt unseres Lebens.
 
@@ -135,3 +135,5 @@ Wenn die Beziehung zu Gott das Wichtigste ist und nicht das Werkzeug, um seinen 
 ## Gebet
 
 Vater, danke für das, was du heute für mich getan hast. Du bist gut, und ich vertraue dir. Hier bin ich: Mach mit mir, was du willst. Bewahre mich davor, deine Gaben mehr zu lieben als dich, und mach mich dir ähnlicher. Amen.
+
+[^kneel]: *Theological Dictionary of the Old Testament*, Bd. 2, S. 279, zu *bārak* („knien“, Ps 95,6; 2 Chr 6,13; *berek*, „Knie“); Bd. 4, S. 249, zu *hishtachavah* („sich niederwerfen“, etwa 170-mal im Alten Testament).

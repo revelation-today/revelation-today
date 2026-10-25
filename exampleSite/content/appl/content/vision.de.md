@@ -27,13 +27,13 @@ Gehalten zu werden sieht anders aus: stiller, weniger beeindruckend anzusehen, a
 
 Das ist kein Plädoyer dafür, weniger zu tun. Diese Gemeinden werden für harte Arbeit gelobt, und die eine, die aufgehört hatte zu arbeiten, steckte in echten Schwierigkeiten. Es ist ein Plädoyer für die richtige Quelle. Die Vorstellung aufzugeben, der Vorrat gehöre dir, ist das Einzige, was dich durchhalten lässt, wenn die Woche lang wird.
 
-Benenne also, was dich speist. Woher kommt dein Licht in einer gewöhnlichen Woche tatsächlich — ein ehrliches Gespräch, ein Psalm, den du gelesen statt gepostet hast, zwanzig Minuten, in denen niemand etwas von dir will? Hol eines davon diese Woche zurück, bevor die Müdigkeit die Entscheidung für dich trifft. Wenn Jesus die Gemeinde hier fragt, ob sie bereit ist, fragt er nicht, ob sie beeindruckend ist. Er fragt, ob sie brennt.
+Benenne also, was dich speist. Woher kommt dein Licht in einer gewöhnlichen Woche tatsächlich — ein ehrliches Gespräch, ein Psalm, den du gelesen statt gepostet hast, zwanzig Minuten, in denen niemand etwas von dir will? Hol eines davon diese Woche zurück, bevor die Müdigkeit die Entscheidung für dich trifft. Wenn Jesus die Gemeinde hier ansieht, sieht er sie mit einer Erwartung an, auch wenn sie nicht ausgesprochen wird: dass sie Licht sein wird und von ihm abhängt. Er fragt nicht, ob sie beeindruckend ist. Er fragt, ob sie brennt.
 
 ## Fragen zum Nachdenken
 
 - Lief dein Glaube diese Woche vor allem mit eigenem Brennstoff, oder wurde er tatsächlich von etwas außerhalb von dir gespeist?
 - Wo hältst du ein Licht am Brennen, hinter dem kein Öl mehr steht — und wen müsstest du enttäuschen, um damit aufzuhören?
-- Wenn Jesus dir dieselbe Frage stellen würde, die er der Gemeinde hier eigentlich stellt — „bist du bereit?“ — was wäre gerade jetzt deine ehrliche Antwort?
+- Wenn Jesus dich mit der Erwartung ansehen würde, die er an die Gemeinde hier hat — Licht zu sein und von ihm abzuhängen —, was wäre gerade jetzt deine ehrliche Antwort?
 
 ## Gebet
 

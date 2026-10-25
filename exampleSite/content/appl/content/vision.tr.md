@@ -27,13 +27,13 @@ Tutuşturulmuş olmaksa farklı görünür: daha sessiz, izlemesi daha az etkile
 
 Bu, daha az yapman için bir gerekçe değil. Bu kiliseler sıkı çalıştıkları için övülür; çalışmayı bırakmış olanın ise başı gerçekten dertteydi. Mesele beslenmenin kaynağıdır. Bu kaynağın sana ait olduğu numarasını bırakmak, hafta uzadığında seni ayakta tutacak tek şeydir.
 
-O halde seni neyin beslediğini adlandır. Sıradan bir haftada ışığın gerçekte nereden geliyor — dürüst bir sohbetten, paylaşmak için değil okumak için okuduğun bir mezmurdan, senden hiçbir şeyin istenmediği yirmi dakikadan mı? Yorgunluk seçimi senin yerine yapmadan önce, bunlardan birini bu hafta hayatına geri koy. İsa buradaki kiliseye hazır olup olmadığını sorduğunda, etkileyici olup olmadığını sormuyor. Yanıp yanmadığını soruyor.
+O halde seni neyin beslediğini adlandır. Sıradan bir haftada ışığın gerçekte nereden geliyor — dürüst bir sohbetten, paylaşmak için değil okumak için okuduğun bir mezmurdan, senden hiçbir şeyin istenmediği yirmi dakikadan mı? Yorgunluk seçimi senin yerine yapmadan önce, bunlardan birini bu hafta hayatına geri koy. İsa buradaki kiliseye baktığında, açıkça söylenmese de bir beklentiyle bakar: ışık olması ve kendisine bağlı kalması. Etkileyici olup olmadığını sormuyor. Yanıp yanmadığını soruyor.
 
 ## Düşünmek için sorular
 
 - Bu hafta imanın çoğunlukla kendi yakıtınla mı çalıştı, yoksa gerçekten senin dışındaki bir şeyle mi besleniyordu?
 - Arkasında yağ olmayan bir ışığı nerede ayakta tutmaya çalışıyorsun — ve bunu bırakabilmek için kimi hayal kırıklığına uğratman gerekirdi?
-- İsa sana burada kiliseye gerçekte sorduğu aynı soruyu sorsaydı — "hazır mısın?" — şu anki dürüst cevabın ne olurdu?
+- İsa sana, buradaki kiliseden beklediği şeyle — ışık olmak ve kendisine bağlı kalmak — baksaydı, şu anki dürüst cevabın ne olurdu?
 
 ## Dua
 

@@ -47,7 +47,7 @@ Dan di sinilah kita sampai pada apa itu penyembahan.
 - Berlanjut dengan pujian: setelah kita mengalami semua hal itu, kita menyadari bahwa Allah itu baik dan memiliki karakter yang baik.
 - Terakhir kita sampai pada penyembahan (dengan berlutut): di mana kita mempercayai Allah sepenuhnya.
 
-Kata untuk penyembahan (berlutut) berasal dari bahasa Asyur, yang berarti berbaring rata di tanah. Itulah yang dilakukan seorang raja setelah kalah perang. Ia merebahkan dirinya rata di tanah, dan raja yang menang meletakkan kakinya di lehernya untuk mengatakan: aku bisa melakukan apa saja yang kuinginkan terhadapmu.
+Kata di balik "penyembahan" di sini berakar pada lutut: berlutut ({{% bible val="Mazmur 95:6" link="psa:95,6" lang="ind" %}}). Kata Ibrani utama yang lain untuk penyembahan, *hishtachavah*, berarti berbaring rata di tanah, sikap seorang hamba di hadapan rajanya.[^kneel] Sikap itu berkata: aku ada di tanganmu.
 
 Begitu pula dalam penyembahan. Kita bersujud dalam penyembahan dan berkata: Allah, lakukanlah apa yang Kau kehendaki terhadapku. Ini adalah tanda penyerahan diri dan kesetiaan yang penuh, yang bahkan membuat tema ini bersifat politis (kita juga harus setia kepada para penguasa dunia ini). Jadi penyembahan memengaruhi setiap aspek kehidupan kita.
 
@@ -135,3 +135,5 @@ Jika hubungan dengan Allah adalah hal yang terpenting, dan bukan sekadar alat un
 ## Doa
 
 Bapa, terima kasih atas apa yang telah Engkau lakukan bagiku hari ini. Engkau baik, dan aku percaya kepada-Mu. Inilah aku: perbuatlah padaku sesuai kehendak-Mu. Jagalah aku agar tidak lebih mengasihi pemberian-Mu daripada Engkau, dan jadikanlah aku semakin serupa dengan-Mu. Amin.
+
+[^kneel]: *Theological Dictionary of the Old Testament*, jld. 2, hlm. 279, tentang *bārak* ("berlutut", Mzm 95:6; 2 Taw 6:13; *berek*, "lutut"); jld. 4, hlm. 249, tentang *hishtachavah* ("sujud", sekitar 170 kali dalam Perjanjian Lama).

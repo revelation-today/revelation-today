@@ -7,7 +7,7 @@ story_anchor: harvest
 expl: /expl/content/harvest/gods-army-and-the-seven-angels
 kids: /kids/elementary/12-the-two-harvests
 docType: appl
-description: "Auf dem gläsernen, feurigen Meer singen die Treuen — und ihre einzige Qualifikation war, treu zu bleiben, nicht zu gewinnen, nicht beeindruckend zu sein, nicht den Kosten auszuweichen."
+description: "Auf dem Berg Zion singen die Treuen ein neues Lied — und ihre einzige Qualifikation war, treu zu bleiben, nicht zu gewinnen, nicht beeindruckend zu sein, nicht den Kosten auszuweichen."
 ---
 
 <!-- key-passage -->
@@ -17,7 +17,7 @@ description: "Auf dem gläsernen, feurigen Meer singen die Treuen — und ihre e
 
 **Den ganzen Text lesen:** {{% bible val="Offenbarung 14" link="rev:14" lang="de" %}}
 
-Auf dem gläsernen, feurigen Meer singen die Treuen — und ihre einzige Qualifikation war, treu zu bleiben, nicht zu gewinnen, nicht beeindruckend zu sein, nicht den Kosten auszuweichen. Diejenigen, die auf Nummer sicher gingen und sich dem Tier anschlossen, um diese Kosten zu vermeiden, stehen stattdessen vor einer weit schwereren Rechnung.
+Auf dem Berg Zion singen die Treuen ein neues Lied — und ihre einzige Qualifikation war, treu zu bleiben, nicht zu gewinnen, nicht beeindruckend zu sein, nicht den Kosten auszuweichen. Diejenigen, die auf Nummer sicher gingen und sich dem Tier anschlossen, um diese Kosten zu vermeiden, stehen stattdessen vor einer weit schwereren Rechnung.
 
 Das rückt zurecht, was „Treue“ diese Woche eigentlich erfordert. Sie ist keine Leistung, die an Ergebnissen gemessen wird. Sie bedeutet einfach, deine Loyalität nicht einzutauschen, wenn treu bleiben gerade die härtere, teurere Option ist.
 
@@ -25,7 +25,7 @@ Man sollte offen sagen, wie klein diese Tauschgeschäfte meistens sind. Kaum jem
 
 Das Lied in diesem Kapitel singen Menschen, die auch keine beeindruckenden Ergebnisse vorzuweisen hatten. Sie werden beschrieben als die, die dem Lamm folgen, wohin es auch geht — eine Beschreibung von Treue, in der überhaupt keine Leistung vorkommt. Wenn dein Maßstab ist, dass Treue sichtbar und wirksam sein muss, wird dieses Kapitel ihn nicht stützen. Wenn deine Angst ist, dass du nichts vorzuweisen hast, nimmt es dir den Druck vollständig.
 
-Dann ist da die Ernte selbst: zwei davon, Getreide und Trauben, eingebracht zur selben Stunde. Das Kapitel lässt nicht zu, dass Gericht das Problem von jemand anderem bleibt — derselbe Moment, der die Treuen einsammelt, beendet für alle anderen das Sich-etwas-Vormachen. Das soll dich festigen, nicht erschrecken: Was kommt, ist das Ende der Lage, die du gerade durchstehst, nicht die Ankunft einer Rechnung, die du nicht bezahlen kannst.
+Dann ist da die Ernte selbst: zwei davon, Getreide und Trauben, eingebracht, die eine nach der anderen. Das Kapitel lässt nicht zu, dass Gericht das Problem von jemand anderem bleibt — der Tag, der die Treuen einsammelt, beendet für alle anderen das Sich-etwas-Vormachen. Das soll dich festigen, nicht erschrecken: Was kommt, ist das Ende der Lage, die du gerade durchstehst, nicht die Ankunft einer Rechnung, die du nicht bezahlen kannst.
 
 Schau also auf die letzten sieben Tage zurück, such das Tauschgeschäft, das du gemacht hast, ohne es zu merken, benenne es und mach es kein zweites Mal. Mehr wird nicht verlangt.
 

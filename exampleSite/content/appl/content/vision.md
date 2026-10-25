@@ -27,13 +27,13 @@ Being held alight looks different: quieter, less impressive to watch, but able t
 
 This is not an argument for doing less. These churches are commended for hard work, and the one that had stopped working was in real trouble. It is an argument about the supply. Dropping the pretence that the supply is yours is the one thing that will keep you going when the week is long.
 
-So name the inputs. Where does your light actually come from in an ordinary week - one honest conversation, a psalm you read rather than posted, twenty minutes when nothing is asked of you? Put one of them back this week, before the tiredness makes the choice for you. When Jesus asks the church here whether it is ready, he is not asking whether it is impressive. He is asking whether it is lit.
+So name the inputs. Where does your light actually come from in an ordinary week - one honest conversation, a psalm you read rather than posted, twenty minutes when nothing is asked of you? Put one of them back this week, before the tiredness makes the choice for you. When Jesus looks at the church here, he looks with an expectation, even if it is not spelled out: that it will be light, and that it will depend on him. He is not asking whether it is impressive. He is asking whether it is lit.
 
 ## Questions to reflect on
 
 - This week, has your faith mostly been running on your own fuel, or has it actually been fed by something outside you?
 - Where are you keeping up a light that has no oil behind it - and who would you have to disappoint in order to stop?
-- If Jesus asked you the same question he's really asking the church here - "are you ready?" - what would your honest answer be right now?
+- If Jesus looked at you with the expectation he has of the church here - to be light, and to depend on him - what would your honest answer be right now?
 
 ## Prayer
 

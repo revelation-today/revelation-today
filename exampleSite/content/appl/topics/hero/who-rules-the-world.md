@@ -60,7 +60,7 @@ The key element is that they rule differently. The devil and the beasts rule wit
 
 The devil forces people to submit, the witnesses influence people to change their lives deeply.
 
-This is clearly stated in {{% int_link val="the 1,000-year kingdom that the Witnesses are the ones who actually rule" link="/expl/content/1000y/the-thousand-year-kingdom" %}}.
+This is clearly stated in {{% int_link val="the 1,000-year kingdom" link="/expl/content/1000y/the-thousand-year-kingdom" %}}: the ones who rule are the faithful witnesses - not only those who were killed, but everyone who was willing to die for their testimony.
 
 ## Questions to reflect on
 

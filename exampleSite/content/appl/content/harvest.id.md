@@ -7,7 +7,7 @@ story_anchor: harvest
 expl: /expl/content/harvest/gods-army-and-the-seven-angels
 kids: /kids/elementary/12-the-two-harvests
 docType: appl
-description: "Di atas lautan kaca dan api, orang-orang yang setia bernyanyi — dan satu-satunya kualifikasi mereka adalah tetap setia, bukan menang, bukan mengesankan, bukan menghindari harga."
+description: "Di atas Bukit Sion, orang-orang yang setia menyanyikan nyanyian baru — dan satu-satunya kualifikasi mereka adalah tetap setia, bukan menang, bukan mengesankan, bukan menghindari harga."
 ---
 
 <!-- key-passage -->
@@ -17,7 +17,7 @@ description: "Di atas lautan kaca dan api, orang-orang yang setia bernyanyi — 
 
 **Baca teks lengkapnya:** {{% bible val="Wahyu 14" link="rev:14" lang="id" %}}
 
-Di atas lautan kaca dan api, orang-orang yang setia bernyanyi — dan satu-satunya kualifikasi mereka adalah tetap setia, bukan menang, bukan mengesankan, bukan menghindari harga. Mereka yang bermain aman dan memihak binatang itu untuk menghindari harga itu justru menghadapi tagihan yang jauh lebih berat.
+Di atas Bukit Sion, orang-orang yang setia menyanyikan nyanyian baru — dan satu-satunya kualifikasi mereka adalah tetap setia, bukan menang, bukan mengesankan, bukan menghindari harga. Mereka yang bermain aman dan memihak binatang itu untuk menghindari harga itu justru menghadapi tagihan yang jauh lebih berat.
 
 Itu meluruskan apa yang sebenarnya dituntut oleh "kesetiaan" minggu ini. Itu bukan sebuah kinerja yang dinilai dari hasilnya. Itu sekadar tidak menukar loyalitasmu ketika tetap setia justru menjadi pilihan yang lebih sulit dan lebih mahal.
 
@@ -25,7 +25,7 @@ Perlu dikatakan terus terang betapa kecilnya pertukaran itu biasanya. Hampir tid
 
 Nyanyian dalam pasal ini dinyanyikan oleh orang-orang yang juga tidak punya hasil mengesankan untuk dilaporkan. Mereka digambarkan sebagai orang-orang yang mengikuti Anak Domba ke mana saja Ia pergi — definisi kesetiaan yang sama sekali tidak memuat prestasi. Jika ukuranmu adalah bahwa kesetiaan harus kelihatan dan efektif, pasal ini tidak mendukungnya. Jika ketakutanmu adalah bahwa kamu tidak punya apa-apa untuk ditunjukkan, pasal ini melepaskan tekanan itu sepenuhnya.
 
-Lalu ada penuaian itu sendiri: dua kali, gandum dan anggur, dikumpulkan pada saat yang sama. Pasal ini tidak membiarkan penghakiman menjadi urusan orang lain saja — saat yang sama yang mengumpulkan orang-orang setia adalah saat yang mengakhiri kepura-puraan bagi semua yang lain. Itu dimaksudkan untuk meneguhkanmu, bukan menakutimu: yang akan datang adalah akhir dari keadaan yang sedang kamu tanggung, bukan datangnya tagihan yang tidak sanggup kamu bayar.
+Lalu ada penuaian itu sendiri: dua kali, gandum dan anggur, dikumpulkan, yang satu setelah yang lain. Pasal ini tidak membiarkan penghakiman menjadi urusan orang lain saja — hari yang mengumpulkan orang-orang setia adalah hari yang mengakhiri kepura-puraan bagi semua yang lain. Itu dimaksudkan untuk meneguhkanmu, bukan menakutimu: yang akan datang adalah akhir dari keadaan yang sedang kamu tanggung, bukan datangnya tagihan yang tidak sanggup kamu bayar.
 
 Jadi lihatlah kembali tujuh hari terakhir, carilah pertukaran yang kamu lakukan tanpa sadar, sebutkan namanya, dan jangan lakukan untuk kedua kalinya. Hanya itu yang diminta.
 

@@ -7,7 +7,7 @@ story_anchor: harvest
 expl: /expl/content/harvest/gods-army-and-the-seven-angels
 kids: /kids/elementary/12-the-two-harvests
 docType: appl
-description: "On the sea of glass and fire, the faithful sing - and their only qualification was staying loyal, not winning, not being impressive, not avoiding cost."
+description: "On Mount Zion, the faithful sing a new song - and their only qualification was staying loyal, not winning, not being impressive, not avoiding cost."
 ---
 
 <!-- key-passage -->
@@ -17,7 +17,7 @@ description: "On the sea of glass and fire, the faithful sing - and their only q
 
 **Read the full text:** {{% bible val="Revelation 14" link="rev:14" lang="en" %}}
 
-On the sea of glass and fire, the faithful sing - and their only qualification was staying loyal, not winning, not being impressive, not avoiding cost. The ones who played it safe and sided with the beast to avoid that cost end up facing a far heavier one instead.
+On Mount Zion, the faithful sing a new song - and their only qualification was staying loyal, not winning, not being impressive, not avoiding cost. The ones who played it safe and sided with the beast to avoid that cost end up facing a far heavier one instead.
 
 That reframes what "faithfulness" actually requires this week. It isn't a performance to be judged on results. It's simply not trading your loyalty away when staying loyal looks like the harder, costlier option.
 
@@ -25,7 +25,7 @@ It is worth saying plainly how small the trades usually are. Hardly anyone renou
 
 The song in this chapter is sung by people who did not have impressive results to report either. They are described as those who follow the Lamb wherever he goes - a definition of faithfulness with no achievement in it at all. If your standard is that faithfulness should be visible and effective, this chapter will not support it. If your fear is that you have nothing to show, it takes the pressure off entirely.
 
-Then there is the harvest itself: two of them, grain and grapes, gathered at the same hour. The chapter refuses to let judgment be someone else's problem - the same moment that gathers the faithful is the one that ends the pretending for everyone else. That is meant to steady you, not to frighten you: what is coming is the end of the situation you are enduring, not the arrival of a bill you cannot pay.
+Then there is the harvest itself: two of them, grain and grapes, one after the other. The chapter refuses to let judgment be someone else's problem - the day that gathers the faithful is the day that ends the pretending for everyone else. That is meant to steady you, not to frighten you: what is coming is the end of the situation you are enduring, not the arrival of a bill you cannot pay.
 
 So look back over the last seven days for the trade you made without noticing, name it, and don't make it twice. That is the whole of what is being asked.
 

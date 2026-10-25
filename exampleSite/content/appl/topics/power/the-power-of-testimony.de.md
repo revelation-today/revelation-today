@@ -24,7 +24,7 @@ Jesus ist Zeuge in allem, was er getan hat, und unser Zeugnis soll Jesus sein un
 ## Die Märtyrer
 
 <a name="058c"></a>
-Neben Jesus und Johannes wird nur eine Person namentlich erwähnt: Antipas. Er ist wichtig, weil er ein Zeuge (griechisch: Märtyrer) ist, der sein Zeugnis bis zur letzten Konsequenz gelebt hat und dafür gestorben ist. Er ist ein überzeugender Zeuge, weil er gezeigt hat, dass es etwas gibt, das wichtiger ist als das eigene Leben, und weil er auch gezeigt hat, wie Zeugnis und Beharrlichkeit zusammenwirken (er war wahrscheinlich eine ganze Zeit lang Zeuge und hat dafür auch einiges erlitten, bis er schließlich getötet wurde).
+Neben Jesus und Johannes wird nur eine Person namentlich erwähnt: Antipas ({{% bible val="2,13" link="rev:2,13" lang="de" %}}). Die anderen Namen, etwa Isebel und Bileam, sind Bezeichnungen, die von Gestalten des Alten Testaments geliehen sind. Er ist wichtig, weil er ein Zeuge (griechisch: Märtyrer) ist, der sein Zeugnis bis zur letzten Konsequenz gelebt hat und dafür gestorben ist. Er ist ein überzeugender Zeuge, weil er gezeigt hat, dass es etwas gibt, das wichtiger ist als das eigene Leben, und weil er auch gezeigt hat, wie Zeugnis und Beharrlichkeit zusammenwirken (er war wahrscheinlich eine ganze Zeit lang Zeuge und hat dafür auch einiges erlitten, bis er schließlich getötet wurde).
 
 ## Die beiden Zeugen
 
@@ -46,7 +46,7 @@ Beide Dinge werden nebeneinander genannt, als hätten sie den gleichen Einfluss!
 ## Gottes Zorn
 
 <a name="aa25"></a>
-In der zweiten UND dritten Schale geht es um dasselbe: Sie haben meine Zeugen getötet!
+Die zweite und dritte Schale verwandeln Wasser in Blut, und die Antwort lautet: „Sie haben das Blut deiner Heiligen und Propheten vergossen“ ({{% bible val="16,6" link="rev:16,6" lang="de" %}}).
 
 Sie sind wichtig, und Gott sieht ihr Leiden und kümmert sich nicht um sie.
 

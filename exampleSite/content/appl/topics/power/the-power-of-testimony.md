@@ -24,7 +24,7 @@ Jesus is a witness with everything he did, and all our witness should be about J
 ### The martyr
 
 <a name="3286"></a>
-There is only one person named besides Jesus and John. It is Antipas. He is important because he is a witness (Greek: martyr) who took the full consequence and died for his testimony. This is a “though” witness because it shows that his testimony was even more important than his life, and it shows how testimony and endurance work together (he was probably a witness for a while and endured a lot before he was finally killed).
+There is only one person named besides Jesus and John: Antipas ({{% bible val="2:13" link="rev:2,13" lang="en" %}}). The other names, like Jezebel and Balaam, are labels borrowed from Old Testament figures. He is important because he is a witness (Greek: martyr) who took the full consequence and died for his testimony. This is a “tough” witness because it shows that his testimony was even more important than his life, and it shows how testimony and endurance work together (he was probably a witness for a while and endured a lot before he was finally killed).
 
 ### The two witnesses
 
@@ -46,7 +46,7 @@ Both things are mentioned side by side, giving the impression that they have the
 ### Gods rage
 
 <a name="3293"></a>
-The second AND third bowls say the same thing: They have killed my witnesses!
+The second and third bowls turn water into blood, and the answer is: "they have shed the blood of your holy people and your prophets" ({{% bible val="16:6" link="rev:16,6" lang="en" %}}).
 
 They are important, they are seen.
 
@@ -66,7 +66,7 @@ Witnessing means that we have experienced something that we cannot ignore. We th
 
 But we are witnesses to something that has changed our lives. Jesus lived in a way that we cannot forget. He lived in deep dependence on God and was able to live a very different lifestyle even to the point of giving up his life. And if we look at church history, we find many other examples like that.
 
-The key to being a witness is worship, an even more dominant theme in the book. {{% int_link val="Worship means loyalty" link="/appl/topics/power/worship" %}}. Loyalty to the death. The Greek word for witness is martyr, because in the early years of the church their witness went so far that they were willing and able to give up their lives for their witness. And we should fear death so much because that is the promise: {{% bible val="We will fulfill our destiny before that happens." link="rev:11,7" lang="en" %}}
+The key to being a witness is worship, an even more dominant theme in the book. {{% int_link val="Worship means loyalty" link="/appl/topics/power/worship" %}}. Loyalty to the death. The Greek word for witness is martyr, because in the early years of the church their witness went so far that they were willing and able to give up their lives for their witness. And we need not fear death so much, because that is the promise: {{% bible val="We will fulfill our destiny before that happens." link="rev:11,7" lang="en" %}}
 
 But when people go that far, it is more convincing than any rhetoric that what they see is what they live, and that this seems so precious that the people who see it — who have now become witnesses — are so much more eager to follow it.
 

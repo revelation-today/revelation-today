@@ -20,7 +20,7 @@ Just as the seals and the trumpets each had a supplementary vision, this section
 
 It looks unstoppable - but the same beast that seemed invincible in chapter 13 is now openly mocked as unreliable, a fading imitation next to the God who truly "is, and was, and is to come" ({{% bible val="Revelation 1:8" link="rev:1,8" lang="en" %}}). Neither beast nor harlot ultimately triumphs over the saints; instead, the very kings who empowered the beast turn and destroy the harlot themselves - because God has planned it that way all along.
 
-The harlot is the dark counterpart to the bride, which in this book is the church: economic and financial power dressed to look attractive - close enough to the bride's own appearance that anyone hoping for an easier, more prosperous path could take her hospitality for a blessing.
+The harlot is the dark counterpart to the bride, which in this book is the church: economic and financial power dressed to look attractive - close enough to the bride's own appearance that anyone hoping for an easier, more prosperous path could take her offer for a blessing.
 
 ## Her impact and her judgment
 

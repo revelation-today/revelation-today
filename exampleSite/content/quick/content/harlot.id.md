@@ -20,7 +20,7 @@ Sama seperti meterai-meterai dan sangkakala-sangkakala yang masing-masing memili
 
 Ia tampak tak terbendung - tetapi binatang yang sama, yang dalam pasal 13 tampak tak terkalahkan, kini secara terang-terangan diejek sebagai tidak dapat diandalkan, tiruan yang memudar di samping Allah yang sungguh-sungguh "ada, dan sudah ada, dan yang akan datang" ({{% bible val="Wahyu 1:8" link="rev:1,8" lang="id" %}}). Baik binatang maupun pelacur itu pada akhirnya tidak menang atas orang-orang kudus; sebaliknya, justru raja-raja yang memberi kuasa kepada binatang itu berbalik dan menghancurkan sang pelacur sendiri - karena Allah telah merencanakannya demikian sejak semula.
 
-Sang pelacur adalah padanan gelap dari sang mempelai perempuan, yang dalam kitab ini adalah gereja: kekuatan ekonomi dan finansial yang didandani supaya tampak menarik - cukup mirip dengan penampilan sang mempelai sehingga siapa pun yang mengharapkan jalan yang lebih mudah dan lebih makmur bisa mengira keramahannya sebagai berkat.
+Sang pelacur adalah padanan gelap dari sang mempelai perempuan, yang dalam kitab ini adalah gereja: kekuatan ekonomi dan finansial yang didandani supaya tampak menarik - cukup mirip dengan penampilan sang mempelai sehingga siapa pun yang mengharapkan jalan yang lebih mudah dan lebih makmur bisa mengira tawarannya sebagai berkat.
 
 ## Dampaknya dan penghakimannya
 

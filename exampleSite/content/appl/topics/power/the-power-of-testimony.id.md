@@ -24,7 +24,7 @@ Yesus adalah saksi dalam segala yang Ia lakukan, dan kesaksian kita seharusnya a
 ## Para Martir
 
 <a name="058c"></a>
-Selain Yesus dan Yohanes, hanya satu orang lagi yang disebutkan namanya: Antipas. Ia penting karena ia adalah seorang saksi (dalam bahasa Yunani: martir) yang menjalani kesaksiannya sampai konsekuensi terakhir dan mati karenanya. Ia adalah saksi yang meyakinkan, karena ia menunjukkan bahwa ada sesuatu yang lebih penting daripada hidupnya sendiri, dan karena ia juga menunjukkan bagaimana kesaksian dan ketekunan bekerja bersama (ia kemungkinan besar menjadi saksi untuk waktu yang cukup lama dan mengalami banyak penderitaan karenanya, sebelum akhirnya dibunuh).
+Selain Yesus dan Yohanes, hanya satu orang lagi yang disebutkan namanya: Antipas ({{% bible val="2:13" link="rev:2,13" lang="ind" %}}). Nama-nama lain, seperti Izebel dan Bileam, adalah julukan yang dipinjam dari tokoh-tokoh Perjanjian Lama. Ia penting karena ia adalah seorang saksi (dalam bahasa Yunani: martir) yang menjalani kesaksiannya sampai konsekuensi terakhir dan mati karenanya. Ia adalah saksi yang meyakinkan, karena ia menunjukkan bahwa ada sesuatu yang lebih penting daripada hidupnya sendiri, dan karena ia juga menunjukkan bagaimana kesaksian dan ketekunan bekerja bersama (ia kemungkinan besar menjadi saksi untuk waktu yang cukup lama dan mengalami banyak penderitaan karenanya, sebelum akhirnya dibunuh).
 
 ## Kedua Saksi Itu
 
@@ -46,7 +46,7 @@ Kedua hal ini disebutkan berdampingan, seolah-olah keduanya memiliki pengaruh ya
 ## Murka Allah
 
 <a name="aa25"></a>
-Dalam cawan kedua DAN ketiga, intinya sama: mereka telah membunuh saksi-saksi-Ku!
+Cawan kedua dan ketiga mengubah air menjadi darah, dan jawabannya: "mereka telah menumpahkan darah orang-orang kudus dan nabi-nabi-Mu" ({{% bible val="16:6" link="rev:16,6" lang="ind" %}}).
 
 Mereka penting, dan Allah melihat penderitaan mereka dan sangat memedulikan mereka.
 

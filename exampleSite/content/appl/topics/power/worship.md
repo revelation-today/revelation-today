@@ -48,7 +48,7 @@ And here we come to the point of what worship is.
 - We continue to [praise](https://biblehub.com/hebrew/8416.htm): After we have experienced all the things for which we give thanks, we realize that God is good and praise His character.
 - Finally, we come to [worship ](https://biblehub.com/hebrew/1288.htm)(kneeling): where we trust God.
 
-The word for worship (kneeling) comes from the Assyrian background, where worship means to lie flat on the ground. This was a gesture that was done after a king lost a war and he would lie flat on the ground and the victorious king would put his foot on his neck to symbolize: I can do whatever I want to you.
+The word behind "worship" here has the knee at its root: to kneel ({{% bible val="Psalm 95:6" link="psa:95,6" lang="en" %}}). The other main Hebrew word for worship, *hishtachavah*, means to lie flat on the ground, the gesture of a subject before a king.[^kneel] It says: I am in your hands.
 
 In worship we do the same thing. We go spiritually flat on the ground and say: God, do with me what you will. It is a sign of total surrender and loyalty, which makes it even political (are we loyal to the leaders of a country or to the King of Kings). This worship affects our every action.
 
@@ -134,3 +134,5 @@ If the relationship with God is the main thing and He is not the tool to get all
 ## Prayer
 
 Father, thank you for what you have done for me today. You are good, and I trust you. Here I am: do with me what you will. Keep me from loving your gifts more than you, and make me more like you. Amen.
+
+[^kneel]: *Theological Dictionary of the Old Testament*, vol. 2, p. 279, on *bārak* ("to kneel", Ps 95:6; 2 Chr 6:13; *berek*, "knee"); vol. 4, p. 249, on *hishtachavah* ("prostrate oneself", about 170 times in the Old Testament).
