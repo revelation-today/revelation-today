@@ -19,6 +19,19 @@ depth: 2
 
 Ein Schlüssel zum Verständnis der Offenbarung besteht darin, sie mit der Bibel selbst auszulegen, denn das Buch ist durchtränkt von Bezügen auf die übrige Schrift. Aber stimmt das wirklich, und hätten die ursprünglichen Leser das überhaupt bemerkt?
 
+## Wie die Offenbarung das Alte Testament gebraucht
+
+<a name="o1t2"></a>
+Die Offenbarung enthält mehr alttestamentliche Bezüge als jedes andere Buch des Neuen Testaments, und doch zitiert sie nie förmlich — es gibt kein „wie geschrieben steht“. Alles ist Anspielung: Worte, Bilder und ganze Szenen werden aufgegriffen und in die Visionen des Johannes eingewoben. Die Zählungen reichen von etwa 200 bis über 600, je nachdem, wie streng man einen Anklang zählt, und mehr als die Hälfte stammt aus Jesaja, Hesekiel, Daniel und den Psalmen (Beale, S. 77–78).
+
+Drei Beispiele aus dieser Studie:
+
+- **Die Posaunen** spielen die Plagen Ägyptens nach — Hagel, Wasser zu Blut, Finsternis, Heuschrecken —, sodass die Leser hörten: Gott entlarvt einen neuen Pharao. → {{% int_link val="Die sieben Posaunen" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
+- **Die 144.000** werden Stamm für Stamm gezählt wie bei der Musterung der wehrfähigen Männer Israels in der Wüste ({{% bible val="4. Mose 1" link="num:1,2-3" lang="de" %}}). → {{% int_link val="Die 144.000" link="/expl/content/army/the-144000" %}}
+- **Die Hure** trägt die Anklage, die die Propheten gegen untreue Städte erhoben: {{% bible val="Hesekiel 16" link="ezk:16,15-41" lang="de" %}} nennt Jerusalem eine Hure, {{% bible val="Jesaja 23" link="isa:23,15-18" lang="de" %}} und {{% bible val="Nahum 3" link="nam:3,4" lang="de" %}} sagen es von Tyrus und Ninive. → {{% int_link val="Wer ist die Hure Babel? (2)" link="/expl/content/harlot/who-is-the-harlot-babylon-part-2" %}}
+
+Wer die Quelle kennt, hört weit mehr als jemand, der sie nicht kennt — darum kehren die Auslegungen auf dieser Seite immer wieder zum Alten Testament zurück.
+
 ## Komprimierte Referenzen
 
 <a name="02d7"></a>
@@ -37,16 +50,3 @@ Die ersten Leser waren dazu tatsächlich gut gerüstet, und zwar aus mehreren Gr
 - Wenn Johannes diese Gemeinden kannte und ein seelsorgerliches Verhältnis zu ihnen hatte, wäre es in der Tat seltsam, wenn er seine Briefe mit alttestamentlichen Bezügen — Manna, Isebel, Tempel, Neues Jerusalem, Bileam — gefüllt hätte, die die Empfänger schlicht nicht verstanden hätten (Beale, S. 82).
 - Johannes verstand sich selbst als Prophet, eine Rolle, die die Gemeinde offensichtlich anerkannte, was nahelegt, dass er sie auch im Alten Testament unterrichtet hatte (Beale, S. 83).
 - Wir wissen zudem aus der Apostelgeschichte und anderen Stellen des Neuen Testaments, dass Juden wie Heiden gleichermaßen aus dem Alten Testament unterrichtet wurden, der Bibel der ersten Christen: in {{% bible val="Berea" link="act:17,10-12" lang="de" %}}, in {{% bible val="Ephesus" link="act:18,24-28" lang="de" %}}, {{% bible val="bei Timotheus" link="2ti:2,2" lang="de" %}} als {{% bible val="Lehrer" link="2ti:2,15" lang="de" %}}, und in {{% bible val="Paulus' Betonung der Bedeutung der ganzen Schrift" link="2ti:3,16-17" lang="de" %}}.
-
-## Wie die Offenbarung das Alte Testament gebraucht
-
-<a name="o1t2"></a>
-Die Offenbarung enthält mehr alttestamentliche Bezüge als jedes andere Buch des Neuen Testaments, und doch zitiert sie nie förmlich — es gibt kein „wie geschrieben steht“. Alles ist Anspielung: Worte, Bilder und ganze Szenen werden aufgegriffen und in die Visionen des Johannes eingewoben. Die Zählungen reichen von etwa 200 bis über 600, je nachdem, wie streng man einen Anklang zählt, und mehr als die Hälfte stammt aus Jesaja, Hesekiel, Daniel und den Psalmen (Beale, S. 77–78).
-
-Drei Beispiele aus dieser Studie:
-
-- **Die Posaunen** spielen die Plagen Ägyptens nach — Hagel, Wasser zu Blut, Finsternis, Heuschrecken —, sodass die Leser hörten: Gott entlarvt einen neuen Pharao. → {{% int_link val="Die sieben Posaunen" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
-- **Die 144.000** werden Stamm für Stamm gezählt wie bei der Musterung der wehrfähigen Männer Israels in der Wüste ({{% bible val="4. Mose 1" link="num:1,2-3" lang="de" %}}). → {{% int_link val="Die 144.000" link="/expl/content/army/the-144000" %}}
-- **Die Hure** trägt die Anklage, die die Propheten gegen untreue Städte erhoben: {{% bible val="Hesekiel 16" link="ezk:16,15-41" lang="de" %}} nennt Jerusalem eine Hure, {{% bible val="Jesaja 23" link="isa:23,15-18" lang="de" %}} und {{% bible val="Nahum 3" link="nam:3,4" lang="de" %}} sagen es von Tyrus und Ninive. → {{% int_link val="Wer ist die Hure Babel? (2)" link="/expl/content/harlot/who-is-the-harlot-babylon-part-2" %}}
-
-Wer die Quelle kennt, hört weit mehr als jemand, der sie nicht kennt — darum kehren die Auslegungen auf dieser Seite immer wieder zum Alten Testament zurück.

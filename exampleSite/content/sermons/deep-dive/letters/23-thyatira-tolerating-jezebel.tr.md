@@ -38,9 +38,7 @@ ediyor — inananlara "zina etmeyi ve putlara sunulan kurbanlardan yemeyi" öğr
 
 **Bu, Bergama'dan neden farklı.** İlk bakışta Tiyatira, Bergama'nın sorununun bir tekrarı gibi
 görünüyor — uzlaşmacı öğretinin kök salması. Ama çizilmesi gereken daha keskin bir ayrım var:
-Bergama'da zayıf liderlik, bozucu öğretinin *girmesine izin verdi*. Tiyatira'da bozukluğun kendisi
-liderliğin ta kendisi. Bu, bir çizgiyi tutma başarısızlığı değil; çizgiyi çizmekle görevlendirilen
-kişinin bizzat onu yanlış yere çizmesi.
+Bergama'da zayıf liderlik, bozucu öğretinin *girmesine izin verdi*. Tiyatira'da bozukluk, büyük olasılıkla liderliğin kendisidir: Yasabel muhtemelen kilisenin tanınmış öğretmenlerinden biriydi. Bu yalnızca bir çizgiyi tutma başarısızlığı değil; çizgiyi çizmesi için kilisenin güvendiği biri tarafından çizginin yanlış yere çekilmesi de olabilir.
 
 **Verilen öğüt, ölçülülüğüyle çarpıcı.** Sıradan inananlara Yasabel'i devirmeleri, bir direniş
 örgütlemeleri ya da kiliseyi terk etmeleri söylenmiyor. Onlara yalnızca şu söyleniyor: "Ben

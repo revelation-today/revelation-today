@@ -27,7 +27,7 @@ The seventh seal opens with "silence in heaven for about half an hour" (Revelati
 
 **The sobering conclusion.** After six trumpet-plagues, "the rest of mankind who were not killed by these plagues still did not repent" (9:20-21). Judgment was never the entire point — these plagues were meant to give people real reason to turn to God. Instead, people clung tighter to the very idols that could offer them nothing. That refusal recurs later at the fourth and fifth bowls (16:8-11) — a consistent, sobering pattern across the book: escalating warning doesn't automatically produce repentance.
 
-**What happens before the seventh trumpet.** Since hardship alone never turned hearts, God tries something categorically different in chapter 11: not another plague, but the testimony of two witnesses, grounded in worship rather than disaster (11:1-12) — the subject of a later session in this series. Their testimony, even through their own deaths, produces something nine trumpets of plague never achieved: real turning toward God.
+**What happens before the seventh trumpet.** Since hardship alone never turned hearts, God tries something categorically different in chapter 11: not another plague, but the testimony of two witnesses, grounded in worship rather than disaster (11:1-12) — the subject of a later session in this series. Their testimony, even through their own deaths, produces something six trumpets of plague never achieved: real turning toward God.
 
 ## A live question worth naming
 

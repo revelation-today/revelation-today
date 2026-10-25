@@ -42,9 +42,7 @@ Tiefen des Satans" (2,24).
 **Warum das anders ist als bei Pergamon.** Auf den ersten Blick sieht Thyatira wie eine
 Wiederholung des Pergamon-Problems aus — kompromittierende Lehre, die Fuß fasst. Aber es gibt
 eine schärfere Unterscheidung zu ziehen: In Pergamon *ließ* eine schwache Führung
-verderbliche Lehre zu. In Thyatira *ist* die Verderbnis die Führung. Das ist kein Versäumnis,
-eine Linie zu halten; es ist die Linie selbst, die von genau der Person, der anvertraut wurde, sie
-zu ziehen, an der falschen Stelle gezogen wird.
+verderbliche Lehre zu. In Thyatira *könnte* die Verderbnis die Führung selbst sein: Isebel war wahrscheinlich eine der anerkannten Lehrerinnen der Gemeinde. Das ist nicht nur ein Versäumnis, eine Linie zu halten; es kann die Linie selbst sein, die von jemandem an die falsche Stelle gezogen wird, dem die Gemeinde anvertraut hatte, sie zu ziehen.
 
 **Der gegebene Rat ist auffällig zurückhaltend.** Gewöhnlichen Gläubigen wird nicht gesagt, Isebel
 zu stürzen, Widerstand zu organisieren oder die Gemeinde zu verlassen. Ihnen wird einfach gesagt:

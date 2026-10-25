@@ -19,6 +19,19 @@ depth: 2
 
 One key to understanding the book of Revelation is to interpret it through the Bible itself, since the book is saturated with references to the rest of Scripture. But is that really true, and would the original readers even have picked up on it?
 
+## How Revelation uses the Old Testament
+
+<a name="o1t2"></a>
+Revelation contains more Old Testament references than any other book of the New Testament, yet it never quotes formally — there is no "as it is written". Everything is allusion: words, images and whole scenes taken up and woven into John's visions. Counts range from about 200 to over 600, depending on how strictly an echo is counted, and more than half come from Isaiah, Ezekiel, Daniel and the Psalms (Beale, pp. 77–78).
+
+Three examples from this study:
+
+- **The trumpets** replay the plagues of Egypt — hail, water turned to blood, darkness, locusts — so the readers would hear that God is unmasking a new Pharaoh. → {{% int_link val="The trumpets" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
+- **The 144,000** are counted tribe by tribe, like the census of Israel's fighting men in the wilderness ({{% bible val="Num 1" link="num:1,2-3" lang="en" %}}). → {{% int_link val="The 144,000" link="/expl/content/army/the-144000" %}}
+- **The harlot** carries the charge the prophets brought against unfaithful cities: {{% bible val="Ezekiel 16" link="ezk:16,15-41" lang="en" %}} calls Jerusalem a prostitute, {{% bible val="Isaiah 23" link="isa:23,15-18" lang="en" %}} and {{% bible val="Nahum 3" link="nam:3,4" lang="en" %}} say it of Tyre and Nineveh. → {{% int_link val="Who is the harlot Babel? (2)" link="/expl/content/harlot/who-is-the-harlot-babylon-part-2" %}}
+
+A reader who knows the source hears far more than one who does not — which is why the explanations on this site keep going back to the Old Testament.
+
 ## Compressed references
 
 <a name="9772"></a>
@@ -37,16 +50,3 @@ The early readers were, in fact, well equipped to grasp it, for several reasons.
 - If John knew these churches and had a pastoral relationship with them, it would be strange indeed if he had filled his letters with Old Testament references — manna, Jezebel, temple, New Jerusalem, Balaam — that the recipients simply wouldn't have understood (Beale, p. 82).
 - John saw himself as a prophet, a role the church evidently accepted, which suggests that he had also taught them from the Old Testament (Beale, p. 83).
 - We also know from Acts and elsewhere in the New Testament that Jews and Gentiles alike were taught from the Old Testament, the Bible of the early church: in {{% bible val="Berea" link="act:17,10-12" lang="en" %}}, in {{% bible val="Ephesus" link="act:18,24-28" lang="en" %}}, {{% bible val="with Timothy" link="2ti:2,2" lang="en" %}} as a {{% bible val="teacher" link="2ti:2,15" lang="en" %}}, and in {{% bible val="Paul's emphasis on the importance of the whole of Scripture" link="2ti:3,16-17" lang="en" %}}.
-
-## How Revelation uses the Old Testament
-
-<a name="o1t2"></a>
-Revelation contains more Old Testament references than any other book of the New Testament, yet it never quotes formally — there is no "as it is written". Everything is allusion: words, images and whole scenes taken up and woven into John's visions. Counts range from about 200 to over 600, depending on how strictly an echo is counted, and more than half come from Isaiah, Ezekiel, Daniel and the Psalms (Beale, pp. 77–78).
-
-Three examples from this study:
-
-- **The trumpets** replay the plagues of Egypt — hail, water turned to blood, darkness, locusts — so the readers would hear that God is unmasking a new Pharaoh. → {{% int_link val="The trumpets" link="/expl/content/trumpets/the-trumpets-in-revelation" %}}
-- **The 144,000** are counted tribe by tribe, like the census of Israel's fighting men in the wilderness ({{% bible val="Num 1" link="num:1,2-3" lang="en" %}}). → {{% int_link val="The 144,000" link="/expl/content/army/the-144000" %}}
-- **The harlot** carries the charge the prophets brought against unfaithful cities: {{% bible val="Ezekiel 16" link="ezk:16,15-41" lang="en" %}} calls Jerusalem a prostitute, {{% bible val="Isaiah 23" link="isa:23,15-18" lang="en" %}} and {{% bible val="Nahum 3" link="nam:3,4" lang="en" %}} say it of Tyre and Nineveh. → {{% int_link val="Who is the harlot Babel? (2)" link="/expl/content/harlot/who-is-the-harlot-babylon-part-2" %}}
-
-A reader who knows the source hears far more than one who does not — which is why the explanations on this site keep going back to the Old Testament.

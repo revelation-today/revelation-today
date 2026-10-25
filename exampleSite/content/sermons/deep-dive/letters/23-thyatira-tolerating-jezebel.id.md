@@ -40,10 +40,7 @@ memiliki wawasan khusus tentang "rahasia-rahasia Iblis yang mendalam" (2:24).
 
 **Mengapa ini berbeda dari Pergamus.** Sepintas, Tiatira tampak seperti pengulangan masalah
 Pergamus — ajaran yang berkompromi yang mengakar. Namun ada perbedaan yang
-lebih tajam untuk ditarik: di Pergamus, kepemimpinan yang lemah *membiarkan* ajaran yang merusak itu masuk. Di
-Tiatira, kerusakan itu sendiri *adalah* kepemimpinan. Ini bukan kegagalan menjaga garis; ini garis
-itu sendiri yang ditarik di tempat yang salah oleh orang yang justru dipercayakan untuk
-menariknya.
+lebih tajam untuk ditarik: di Pergamus, kepemimpinan yang lemah *membiarkan* ajaran yang merusak itu masuk. Di Tiatira, kerusakan itu mungkin justru *adalah* kepemimpinan itu sendiri: Izebel kemungkinan besar salah satu pengajar yang diakui jemaat. Ini bukan sekadar kegagalan menjaga garis; bisa jadi garis itu sendiri ditarik di tempat yang salah oleh seseorang yang dipercayakan jemaat untuk menariknya.
 
 **Nasihat yang diberikan sangat mencolok dalam kesederhanaannya.** Orang-orang percaya biasa tidak
 diminta menggulingkan Izebel, mengorganisir perlawanan, atau meninggalkan jemaat. Mereka hanya
