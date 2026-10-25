@@ -114,7 +114,7 @@ How does this passage connect to the rapture? The assumption is that these "room
 
 But look closely at the word translated "rooms": [mone](https://biblehub.com/greek/3438.htm). It is {{% bible val="used only one other time in John — in this same chapter — where it refers to God's dwelling in us" link="jhn:14,23" lang="en" %}}. That parallel paints a different picture: believers have a dwelling place in Christ, and Christ has a dwelling place in believers. Read that way, "place" here means something closer to belonging to a household than occupying a literal room — it's about being part of God's family, not a waiting room for the tribulation.
 
-## Is Revelation 4:1 the rapture?
+## Is {{% bible val="Revelation 4:1" link="rev:4,1" lang="en" %}} the rapture?
 
 <a name="d1b5"></a>
 If there is a moment in Revelation that functions like a "rapture," it is placed at the beginning of chapter 4, not at some yet-future point.

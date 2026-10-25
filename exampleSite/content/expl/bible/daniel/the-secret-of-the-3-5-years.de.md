@@ -43,7 +43,7 @@ Das wirft drei Fragen auf, die es sich zu stellen lohnt, bevor wir weitergehen. 
 
 Um das zu beantworten, brauchen wir zunächst den alttestamentlichen Hintergrund.
 
-## Elia und die Dürre (1. Könige 16/29–18/35)
+## Elia und die Dürre ({{% bible val="1. Könige 16,29–18,35" link="1ki:16,29" lang="de" %}})
 
 <a name="2b28"></a>
 König Ahab von Israel heiratet Isebel von Sidon, einer Stadt nördlich von Israel, und sie bringt die Verehrung von Baal und Aschera mit — Fruchtbarkeitsgötter, die viele Kinder, gute Ernten und starke Armeen versprechen. Doch fast alles davon hängt von einer einzigen Sache ab: {{% bible val="genug Regen" link="1ki:17,1" lang="de" %}}.

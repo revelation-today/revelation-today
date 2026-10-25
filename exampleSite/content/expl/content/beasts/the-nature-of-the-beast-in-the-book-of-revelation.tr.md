@@ -92,7 +92,7 @@ Bununla birlikte, ilk canavarın görünümü {{% bible val="Daniel'deki dört k
 ## İki yönlü saldırı
 
 <a name="6999"></a>
-Bu pasaj, Şeytan'ın İsa'yı ve İsrail'i yok etme girişiminin başarısızlıkla sonuçlanmasının hemen ardından gelir. Bu başarısızlığa öfkelenen Şeytan, şimdi kadının soyundan geri kalanlara — yani Kilise'ye (12:17) — saldırmak için iki canavar toplar.
+Bu pasaj, Şeytan'ın İsa'yı ve İsrail'i yok etme girişiminin başarısızlıkla sonuçlanmasının hemen ardından gelir. Bu başarısızlığa öfkelenen Şeytan, şimdi kadının soyundan geri kalanlara — yani Kilise'ye ({{% bible val="12:17" link="rev:12,17" lang="tr" %}}) — saldırmak için iki canavar toplar.
 
 Bu iki canavara daha yakından bakalım. Birlikte hareket eder ve birbirlerini desteklerler; metin onları bilinçli olarak paralel bir düzende betimler, aşağıda görüldüğü gibi.
 
@@ -115,7 +115,7 @@ Bu son satırda gizlenmiş bir başka ilginç kiazma daha var. "İşte ... sabı
 Şeytan bunu iki şekilde yapar:
 
 - Güç ve gözdağıyla ({{% bible val="kutsalları fetheder" link="rev:13,7" lang="tr" %}}, {{% bible val="her türlü direnişi" link="rev:13,10" lang="tr" %}} ya da {{% bible val="izlemek istemeyenleri öldürür" link="rev:13,15" lang="tr" %}}).
-- Aldatmayla — bunu anlamak biraz daha zor, ama açıklayacağım. Bunun iki yüzü vardır. İlk canavar güç ve denetim sunar ve bu teklifi şiddetle destekler: "Bu canavar gibisi var mı? Onunla kim savaşabilir?" (13:4). İkincisi zenginlik ve güvenlik sunar: belirtiler ve harikalarla ve yalnızca işaretini alanlara açık bir pazarla çalışır (13:13–17).
+- Aldatmayla — bunu anlamak biraz daha zor, ama açıklayacağım. Bunun iki yüzü vardır. İlk canavar güç ve denetim sunar ve bu teklifi şiddetle destekler: "Bu canavar gibisi var mı? Onunla kim savaşabilir?" ({{% bible val="13:4" link="rev:13,4" lang="tr" %}}). İkincisi zenginlik ve güvenlik sunar: belirtiler ve harikalarla ve yalnızca işaretini alanlara açık bir pazarla çalışır ({{% bible val="13:13–17" link="rev:13,13-17" lang="tr" %}}).
 
 Bu yöne işaret eden birkaç gözlemle başlayalım:
 

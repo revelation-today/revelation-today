@@ -62,7 +62,7 @@ Peki bunu nasıl çözeriz? Peygamberler, Rab'bin Günü'nden söz ederken yaln�
 
 Daniel'in kendi bağlamı bunun tam olarak ne zaman gerçekleşeceğini söylemez, ama 2. ve 7. bölümlerdeki tasvirler, {{% int_link val="bunun Rab'bin Günü olması gerektiğini gösterir" link="/expl/background/israel/the-day-of-the-lord" %}}.
 
-Şunu belirtmekte fayda var: Eski Antlaşma'da "insanoğlu" çoğunlukla Tanrı'nın peygamber Hezekiel'e hitabıdır (bir kez de Daniel'in kendisine, 8:17) — orada kullanılan İbranice ifade "[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)", yani "Adem'in oğlu"dur; Daniel 7:13'te ise Aramice "[bar enaş](https://biblehub.com/interlinear/daniel/7-13.htm)", yani "insanoğlu" ifadesi yer alır; önündeki küçük *ke* sözcüğü "gibi" demektir: "insanoğluna benzer biri". Bu iki unvan tam olarak aynı değildir.
+Şunu belirtmekte fayda var: Eski Antlaşma'da "insanoğlu" çoğunlukla Tanrı'nın peygamber Hezekiel'e hitabıdır (bir kez de Daniel'in kendisine, {{% bible val="8:17" link="dan:8,17" lang="tr" %}}) — orada kullanılan İbranice ifade "[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)", yani "Adem'in oğlu"dur; {{% bible val="Daniel 7:13" link="dan:7,13" lang="tr" %}}'te ise Aramice "[bar enaş](https://biblehub.com/interlinear/daniel/7-13.htm)", yani "insanoğlu" ifadesi yer alır; önündeki küçük *ke* sözcüğü "gibi" demektir: "insanoğluna benzer biri". Bu iki unvan tam olarak aynı değildir.
 
 ## Çözüm
 

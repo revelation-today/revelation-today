@@ -43,7 +43,7 @@ Hal itu memunculkan tiga pertanyaan yang layak diajukan sebelum kita melangkah l
 
 Untuk menjawab semua itu, pertama-tama kita perlu memahami latar belakangnya dalam Perjanjian Lama.
 
-## Elia dan Kekeringan (1 Raja-raja 16/29–18/35)
+## Elia dan Kekeringan ({{% bible val="1 Raja-raja 16:29–18:35" link="1ki:16,29" lang="ind" %}})
 
 <a name="89d3"></a>
 Raja Ahab dari Israel menikahi Izebel dari Sidon, sebuah kota di utara Israel, dan perempuan itu membawa serta penyembahan kepada Baal dan Asyera — dewa-dewa kesuburan, yang dipercaya menjanjikan banyak anak, hasil panen yang baik, dan tentara yang kuat. Tetapi hampir semua itu bergantung pada satu hal: {{% bible val="hujan yang cukup" link="1ki:17,1" lang="ind" %}}.

@@ -62,7 +62,7 @@ The sixth bowl deserves a closer look on its own.
 
 {{% /background %}}
 
-One more irony closes out the scene. The gathering of the armies at Armageddon is mirrored later by the gathering of the birds in chapter 19, and that parallel makes Satan's defeat even more pointed: his assembled armies are cut down by a single word, the sword from the rider's mouth, and all that is left of them is a meal for the birds (19:21).
+One more irony closes out the scene. The gathering of the armies at Armageddon is mirrored later by the gathering of the birds in chapter 19, and that parallel makes Satan's defeat even more pointed: his assembled armies are cut down by a single word, the sword from the rider's mouth, and all that is left of them is a meal for the birds ({{% bible val="19:21" link="rev:19,21" lang="en" %}}).
 
 [^frogs]: Beale, pp. 832–833.
 

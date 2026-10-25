@@ -44,7 +44,7 @@ Bu okumaya göre, kitap ilk yazıldığı kişiler için hiçbir anlam taşımı
 <a name="a4b2"></a>
 Teori çoğu zaman açıklama yapmadan iddialar öne sürer ya da bağlamından koparılmış bir Kutsal Kitap ayetleri cephaneliği kullanır.
 
-Bunun iyi bir örneği, sistemin köşe taşlarından biri olan {{% bible val="70 hafta kehanetindeki 2000 yıllık gecikmedir" link="dan:9,26-27" lang="tr" %}}. Daniel 9:26–27 69. hafta ile 70. hafta arasında bir boşluktan hiç söz etmez. Yetmiş hafta tek bir dönem olarak belirlenmiştir ({{% bible val="9:24" link="dan:9,24" lang="tr" %}}) ve gecikme, ayetlerin okunuş biçiminden çıkarılır.
+Bunun iyi bir örneği, sistemin köşe taşlarından biri olan {{% bible val="70 hafta kehanetindeki 2000 yıllık gecikmedir" link="dan:9,26-27" lang="tr" %}}. {{% bible val="Daniel 9:26–27" link="dan:9,26-27" lang="tr" %}} 69. hafta ile 70. hafta arasında bir boşluktan hiç söz etmez. Yetmiş hafta tek bir dönem olarak belirlenmiştir ({{% bible val="9:24" link="dan:9,24" lang="tr" %}}) ve gecikme, ayetlerin okunuş biçiminden çıkarılır.
 
 ## Gelecek Tahmini
 

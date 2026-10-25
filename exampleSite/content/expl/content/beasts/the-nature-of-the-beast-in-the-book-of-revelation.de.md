@@ -92,7 +92,7 @@ Dabei entspricht die Erscheinung des ersten Tieres keinem einzelnen der {{% bibl
 ## Der zweifache Angriff
 
 <a name="a89e"></a>
-Diese Passage folgt auf Satans gescheiterten Versuch, Jesus und Israel zu vernichten. Wütend über dieses Scheitern versammelt er nun zwei Tiere, um die übrigen Nachkommen der Frau, die Gemeinde, anzugreifen (12,17).
+Diese Passage folgt auf Satans gescheiterten Versuch, Jesus und Israel zu vernichten. Wütend über dieses Scheitern versammelt er nun zwei Tiere, um die übrigen Nachkommen der Frau, die Gemeinde, anzugreifen ({{% bible val="12,17" link="rev:12,17" lang="de" %}}).
 
 Schauen wir uns diese beiden Tiere genauer an. Sie wirken zusammen und stützen sich gegenseitig, und der Text beschreibt sie in einem bewusst parallelen Muster, das unten dargestellt ist.
 
@@ -115,7 +115,7 @@ In dieser letzten Zeile verbirgt sich noch ein interessanter Chiasmus. „Hier i
 Das geschieht auf zweierlei Weise:
 
 - durch Gewalt und Einschüchterung ({{% bible val="die Heiligen besiegen" link="rev:13,7" lang="de" %}}, {{% bible val="jeden Widerstand vernichten" link="rev:13,10" lang="de" %}} oder {{% bible val="Menschen, die nicht folgen wollen" link="rev:13,15" lang="de" %}}),
-- durch Täuschung, was etwas schwerer zu verstehen ist, aber ich werde es erklären. Sie hat zwei Gesichter. Das erste Tier bietet Macht und Kontrolle und stützt dieses Angebot mit Gewalt: „Wer ist dem Tier gleich, und wer kann mit ihm kämpfen?“ (13,4). Das zweite bietet Wohlstand und Sicherheit: Es wirkt durch Zeichen und Wunder und durch einen Markt, der nur denen offensteht, die sein Malzeichen annehmen (13,13–17).
+- durch Täuschung, was etwas schwerer zu verstehen ist, aber ich werde es erklären. Sie hat zwei Gesichter. Das erste Tier bietet Macht und Kontrolle und stützt dieses Angebot mit Gewalt: „Wer ist dem Tier gleich, und wer kann mit ihm kämpfen?“ ({{% bible val="13,4" link="rev:13,4" lang="de" %}}). Das zweite bietet Wohlstand und Sicherheit: Es wirkt durch Zeichen und Wunder und durch einen Markt, der nur denen offensteht, die sein Malzeichen annehmen ({{% bible val="13,13–17" link="rev:13,13-17" lang="de" %}}).
 
 Beginnen wir mit ein paar Beobachtungen, die in diese Richtung weisen:
 

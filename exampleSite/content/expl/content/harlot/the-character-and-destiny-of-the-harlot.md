@@ -60,4 +60,4 @@ Her judgment matches her actions point for point:
 
 - She considered herself untouchable, so she falls within a single hour — about as short a time as the text can picture.
 - She will be judged in return for what she {{% bible val="inflicted on others" link="rev:18,22-24" lang="en" %}}: Revelation 18:6 says she will be repaid {{% bible val="double for her deeds" link="rev:18,6" lang="en" %}} — read by commentators either as an intensified judgment or as full, exact recompense; either way, the punishment fits the crime.
-- She will be consumed by fire — the same judgment prescribed for a priest's daughter who turned to prostitution (Leviticus 21:9) — a strong warning to stay away from Babel and resist its pull.
+- She will be consumed by fire — the same judgment prescribed for a priest's daughter who turned to prostitution ({{% bible val="Leviticus 21:9" link="lev:21,9" lang="en" %}}) — a strong warning to stay away from Babel and resist its pull.

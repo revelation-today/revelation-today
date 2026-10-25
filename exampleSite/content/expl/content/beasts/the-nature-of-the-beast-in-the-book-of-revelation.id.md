@@ -88,7 +88,7 @@ Meski begitu, wujud binatang pertama tidak persis meniru satu pun dari {{% bible
 ## Serangan Ganda
 
 <a name="a89e"></a>
-Bagian ini menyusul kegagalan Iblis membinasakan Yesus dan Israel. Murka atas kegagalannya, ia sekarang mengumpulkan dua binatang untuk menyerang keturunan perempuan itu yang lain — jemaat (12:17).
+Bagian ini menyusul kegagalan Iblis membinasakan Yesus dan Israel. Murka atas kegagalannya, ia sekarang mengumpulkan dua binatang untuk menyerang keturunan perempuan itu yang lain — jemaat ({{% bible val="12:17" link="rev:12,17" lang="ind" %}}).
 
 Mari kita perhatikan kedua binatang ini lebih dekat. Mereka bertindak bersama dan saling mendukung, dan teks menggambarkan keduanya dalam sebuah pola yang sengaja dibuat sejajar, seperti terlihat di bawah ini.
 
@@ -111,7 +111,7 @@ Ada satu kiasmus menarik lagi yang tersembunyi di baris terakhir itu. "Yang pent
 Ia melakukan ini dengan dua cara:
 
 - Dengan kekerasan dan intimidasi ({{% bible val="mengalahkan orang-orang kudus" link="rev:13,7" lang="ind" %}}, {{% bible val="membunuh setiap perlawanan" link="rev:13,10" lang="ind" %}}, atau {{% bible val="orang-orang yang tidak mau mengikuti" link="rev:13,15" lang="ind" %}}).
-- Dengan tipu daya, yang sedikit lebih sulit dipahami, tetapi akan dijelaskan. Tipu daya itu punya dua wajah. Binatang pertama menawarkan kuasa dan kendali, dan menopang tawaran itu dengan kekerasan: "Siapakah yang sama seperti binatang ini? Dan siapakah yang dapat berperang melawan dia?" (13:4). Binatang kedua menawarkan kekayaan dan keamanan: ia bekerja melalui tanda-tanda dan mukjizat, dan melalui pasar yang hanya terbuka bagi mereka yang menerima tandanya (13:13–17).
+- Dengan tipu daya, yang sedikit lebih sulit dipahami, tetapi akan dijelaskan. Tipu daya itu punya dua wajah. Binatang pertama menawarkan kuasa dan kendali, dan menopang tawaran itu dengan kekerasan: "Siapakah yang sama seperti binatang ini? Dan siapakah yang dapat berperang melawan dia?" ({{% bible val="13:4" link="rev:13,4" lang="ind" %}}). Binatang kedua menawarkan kekayaan dan keamanan: ia bekerja melalui tanda-tanda dan mukjizat, dan melalui pasar yang hanya terbuka bagi mereka yang menerima tandanya ({{% bible val="13:13–17" link="rev:13,13-17" lang="ind" %}}).
 
 Mulailah dengan beberapa pengamatan yang mengarah ke sana:
 

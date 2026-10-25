@@ -62,7 +62,7 @@ Wie lässt sich das auflösen? Die Propheten sagen, wenn sie vom Tag des Herrn s
 
 Daniels eigener Kontext sagt uns nicht genau, wann das geschehen wird, aber die Beschreibungen in den Kapiteln 2 und 7 {{% int_link val="zeigen, dass es sich um den Tag des Herrn handeln muss" link="/expl/background/israel/the-day-of-the-lord" %}}.
 
-Es ist bemerkenswert, dass im Alten Testament „Menschensohn“ vor allem die Anrede Gottes an den Propheten Hesekiel ist (und einmal an Daniel selbst, 8,17) — dort steht im Hebräischen „[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)“, „Sohn Adams“, während in Daniel 7,13 das aramäische „[bar enasch](https://biblehub.com/interlinear/daniel/7-13.htm)“ steht, „Menschensohn“, mit dem kleinen Wort *ke* davor, „wie“: „einer wie ein Menschensohn“. Die beiden Titel sind nicht ganz dasselbe.
+Es ist bemerkenswert, dass im Alten Testament „Menschensohn“ vor allem die Anrede Gottes an den Propheten Hesekiel ist (und einmal an Daniel selbst, {{% bible val="8,17" link="dan:8,17" lang="de" %}}) — dort steht im Hebräischen „[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)“, „Sohn Adams“, während in {{% bible val="Daniel 7,13" link="dan:7,13" lang="de" %}} das aramäische „[bar enasch](https://biblehub.com/interlinear/daniel/7-13.htm)“ steht, „Menschensohn“, mit dem kleinen Wort *ke* davor, „wie“: „einer wie ein Menschensohn“. Die beiden Titel sind nicht ganz dasselbe.
 
 ## Die Lösung
 

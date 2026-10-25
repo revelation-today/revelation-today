@@ -62,7 +62,7 @@ Altıncı kase kendi başına daha yakından bir bakışı hak ediyor.
 
 {{% /background %}}
 
-Sahneyi bir ironi daha kapatır. Armagedon'da ordunun toplanması, daha sonra 19. bölümde kuşların toplanmasıyla yansıtılır ve bu paralellik Şeytan'ın yenilgisini daha da çarpıcı kılar: Toplanan devasa orduları tek bir sözle, Atlı'nın ağzından çıkan kılıçla yere serilir; onlardan geriye yalnızca kuşlara bir şölen kalır (19:21).
+Sahneyi bir ironi daha kapatır. Armagedon'da ordunun toplanması, daha sonra 19. bölümde kuşların toplanmasıyla yansıtılır ve bu paralellik Şeytan'ın yenilgisini daha da çarpıcı kılar: Toplanan devasa orduları tek bir sözle, Atlı'nın ağzından çıkan kılıçla yere serilir; onlardan geriye yalnızca kuşlara bir şölen kalır ({{% bible val="19:21" link="rev:19,21" lang="tr" %}}).
 
 [^frogs]: Beale, s. 832–833.
 

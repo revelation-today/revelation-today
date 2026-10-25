@@ -44,7 +44,7 @@ Dengan pembacaan semacam ini, kitab tersebut tidak akan masuk akal sama sekali b
 <a name="423b"></a>
 Teori ini sering melontarkan klaim tanpa menjelaskannya, atau mengerahkan sederet ayat Alkitab yang dilepaskan dari konteksnya.
 
-Salah satu contohnya adalah {{% bible val="penundaan 2000 tahun dalam nubuat 70 minggu" link="dan:9,26-27" lang="ind" %}}, sebuah landasan penting dalam sistem ini. Daniel 9:26–27 tidak pernah menyebut adanya jeda antara minggu ke-69 dan minggu ke-70. Tujuh puluh minggu itu ditetapkan sebagai satu kurun ({{% bible val="9:24" link="dan:9,24" lang="ind" %}}), dan penundaan itu disimpulkan dari cara ayat-ayat itu dibaca.
+Salah satu contohnya adalah {{% bible val="penundaan 2000 tahun dalam nubuat 70 minggu" link="dan:9,26-27" lang="ind" %}}, sebuah landasan penting dalam sistem ini. {{% bible val="Daniel 9:26–27" link="dan:9,26-27" lang="ind" %}} tidak pernah menyebut adanya jeda antara minggu ke-69 dan minggu ke-70. Tujuh puluh minggu itu ditetapkan sebagai satu kurun ({{% bible val="9:24" link="dan:9,24" lang="ind" %}}), dan penundaan itu disimpulkan dari cara ayat-ayat itu dibaca.
 
 ### Meramalkan Masa Depan, Berulang Kali
 

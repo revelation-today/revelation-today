@@ -59,8 +59,8 @@ Meski begitu, Kitab Wahyu tetap mempertahankan alur dasar sebuah surat:
 
 - kitab ini membuat jemaat menyadari siapa Yesus (pasal 1),
 - kitab ini membahas masalah-masalah dasar jemaat-jemaat itu dan konsekuensinya (pasal 2–3),
-- kitab ini memberikan penjelasan teologis tentang bagaimana menghadapinya (4:1–22:5),
-- dan kitab ini ditutup dengan beberapa kata penutup (22:6–21).
+- kitab ini memberikan penjelasan teologis tentang bagaimana menghadapinya ({{% bible val="4:1–22:5" link="rev:4,1" lang="ind" %}}),
+- dan kitab ini ditutup dengan beberapa kata penutup ({{% bible val="22:6–21" link="rev:22,6-21" lang="ind" %}}).
 
 Setelah kita melihat hal ini, masuk akal untuk mengharapkan bahwa materi dalam pasal 4–21 berfungsi sebagai pedoman bagi jemaat-jemaat itu — bagi masalah-masalah spesifik yang mereka hadapi pada zaman mereka sendiri. Itu tidak berarti kita tidak menghadapi masalah yang identik hari ini, atau bahwa jawaban-jawaban ini tidak dapat lagi diterapkan dalam hidup kita; itu hanya berarti bahwa surat ini pertama-tama ditulis dengan mereka dalam pikiran.
 

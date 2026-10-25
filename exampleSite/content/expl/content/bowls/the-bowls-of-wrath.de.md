@@ -62,7 +62,7 @@ Die sechste Schale verdient eine genauere Betrachtung für sich.
 
 {{% /background %}}
 
-Eine letzte Ironie beschließt die Szene. Die Versammlung der Armeen bei Armageddon wird später von der Versammlung der Vögel in Kapitel 19 gespiegelt, und diese Parallele macht Satans Niederlage noch eindringlicher: Seine versammelten Armeen fallen durch ein einziges Wort, das Schwert aus dem Mund des Reiters, und am Ende bleibt von ihnen nur ein Mahl für die Vögel (19,21).
+Eine letzte Ironie beschließt die Szene. Die Versammlung der Armeen bei Armageddon wird später von der Versammlung der Vögel in Kapitel 19 gespiegelt, und diese Parallele macht Satans Niederlage noch eindringlicher: Seine versammelten Armeen fallen durch ein einziges Wort, das Schwert aus dem Mund des Reiters, und am Ende bleibt von ihnen nur ein Mahl für die Vögel ({{% bible val="19,21" link="rev:19,21" lang="de" %}}).
 
 [^frogs]: Beale, S. 832–833.
 

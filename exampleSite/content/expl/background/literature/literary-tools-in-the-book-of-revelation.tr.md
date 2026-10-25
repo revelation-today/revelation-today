@@ -100,9 +100,9 @@ Birçok kombinasyon mümkündür:
 
 - a-b-c-d-e-a', doğrusal ve simetrik örüntüleri birleştirir — bir varsayımla açılıp bunu kanıtlayan bir özetle kapanan bir cümle gibi.
 - a-b-c-d-b'-c'-a', simetrik ve paralel örüntüleri harmanlayan değiştirilmiş bir simetridir; bu da okuyucunun dikkatini özellikle b'-c' geçişine çeker.
-- a-a'-b-b'-c-c'-d-d', doğrusal ve paralel örüntüleri birleştirir ve Yar. 37/2–50/26'da olduğu gibi paralel ama farklı öyküler anlatabilir.
+- a-a'-b-b'-c-c'-d-d', doğrusal ve paralel örüntüleri birleştirir ve {{% bible val="Yar. 37:2–50:26" link="gen:37,2" lang="tr" %}}'da olduğu gibi paralel ama farklı öyküler anlatabilir.
 
-Aynı öykü birden fazla örüntüyle bile okunabilir. Örneğin Yar. 37/2–50/26, a-b-c-d-e-f-g-g'-f'-e'-d'-c'-b'-a' olarak ya da eşit derecede a-a'-b-b'-c-c'-d-d'-e-e'-f-f'-g-g' olarak okunabilir.
+Aynı öykü birden fazla örüntüyle bile okunabilir. Örneğin {{% bible val="Yar. 37:2–50:26" link="gen:37,2" lang="tr" %}}, a-b-c-d-e-f-g-g'-f'-e'-d'-c'-b'-a' olarak ya da eşit derecede a-a'-b-b'-c-c'-d-d'-e-e'-f-f'-g-g' olarak okunabilir.
 
 ### Doğrusal örüntü
 
@@ -115,7 +115,7 @@ Doğrusal örüntüler takip edilmesi en kolay olanlardır. Şu şekillerde olab
 ### Paralel örüntü
 
 <a name="4ed8"></a>
-Paralel örüntüler, a-b-c-a'-b'-c' gibi bir şema izler; burada her x', karşılığı olan x ile benzer bir tema ya da yapı paylaşır. Mez. 19/1–2'yi ele alalım:
+Paralel örüntüler, a-b-c-a'-b'-c' gibi bir şema izler; burada her x', karşılığı olan x ile benzer bir tema ya da yapı paylaşır. {{% bible val="Mez. 19:1–2" link="psa:19,1-2" lang="tr" %}}'yi ele alalım:
 
 - a: gökler
 - b: anlatır
@@ -136,12 +136,12 @@ Bir paralel örüntü:
 Örnek olarak Yunus'u ele alalım. Aşağıdaki tablolarda, **kalın yazı** tekrarlayan bir temayı, *italik yazı* ise onun eşleşen karşılığını işaret eder; böylece ilk yarıdaki her ögenin ikinci yarıdaki karşılığıyla nasıl yanıtlandığını izleyebilirsiniz:
 
 - a: Yunus'un **görevlendirilmesi** ve *itaatsizliği* (1/1–3)
-	- b: Yunus ve *pagan denizciler*: **YHWH merhametlidir** (1/4–16)
-		- c: **Yunus'un YHWH'nin merhametine tepkisi**: *övgü* (1/17–2/10)
-- a': Yunus'un **yeniden görevlendirilmesi** ve *itaati* (3:1–3a)
-	- b': Yunus ve *pagan Ninovalılar*: **YHWH merhametlidir** (3:3b–10)
-		- c': **Yunus'un YHWH'nin merhametine tepkisi**: *kızgınlık* (4:1–4)
-- d: YHWH'nin dersi (4:5–11)
+	- b: Yunus ve *pagan denizciler*: **YHWH merhametlidir** ({{% bible val="1:4–16" link="jon:1,4-16" lang="tr" %}})
+		- c: **Yunus'un YHWH'nin merhametine tepkisi**: *övgü* ({{% bible val="1:17–2:10" link="jon:1,17" lang="tr" %}})
+- a': Yunus'un **yeniden görevlendirilmesi** ve *itaati* ({{% bible val="3:1–3a" link="jon:3,1-3" lang="tr" %}})
+	- b': Yunus ve *pagan Ninovalılar*: **YHWH merhametlidir** ({{% bible val="3:3b–10" link="jon:3,3-10" lang="tr" %}})
+		- c': **Yunus'un YHWH'nin merhametine tepkisi**: *kızgınlık* ({{% bible val="4:1–4" link="jon:4,1-4" lang="tr" %}})
+- d: YHWH'nin dersi ({{% bible val="4:5–11" link="jon:4,5-11" lang="tr" %}})
 
 Bu yapı, Yunus'un ilk duasının ikiyüzlü, ikincisinin ise bencilce olduğu izlenimini bırakır — öykünün hiçbir zaman açıkça dile getirmediği, ama tamamen kendi düzenlemesi aracılığıyla, hiç ahlak dersi vermeden ilettiği bir yargı.
 
@@ -204,11 +204,11 @@ Bir pasajın genel yapısı, yazarın mesajını tek başına taşıyabilir — 
 <a name="9e84"></a>
 Her yapısal tekrar anlam iletmek için orada değildir; bazen sadece sanatsal güzellik için vardır. Bu süslemeci işlevi gören üç yaygın tür şunlardır:
 
-- **Yapısal** — kompozisyona bir iskele kurmaya yardımcı olur. Örneğin Nuh'un üç oğlunun hem tufandan önce hem de sonra listelenmesi (Yar. 6/9–10 ve 9/18–19), denge yaratır ve öyküyü parantez içine alır.
-- **Detaylandırma** — eşleşen bir çiftin ikinci birimi temayı daha da geliştirir. Yar. 28/6–9, Esav'ın karısını tanıtır, ardından Yar. 36, Esav'ın ailesinin geri kalanının izini tam olarak sürer.
-- **İkinci bakış açısı** — ikinci birim, ilkini farklı bir açıdan yeniden anlatır ya da özetler. Bu süs olabilir, ama Vahiy'de olduğu gibi anlam da taşıyabilir. Ürdün'ün geçilmesi iki açıdan anlatılır: Yeşu 3/9–17, geçişin doğu tarafından başlayıp tamamlandığını gösterir, Yeşu 4/10–13 ise aynı olayın batı tarafından ilerleyip tamamlandığını gösterir.
+- **Yapısal** — kompozisyona bir iskele kurmaya yardımcı olur. Örneğin Nuh'un üç oğlunun hem tufandan önce hem de sonra listelenmesi ({{% bible val="Yar. 6:9–10" link="gen:6,9-10" lang="tr" %}} ve {{% bible val="9:18–19" link="gen:9,18-19" lang="tr" %}}), denge yaratır ve öyküyü parantez içine alır.
+- **Detaylandırma** — eşleşen bir çiftin ikinci birimi temayı daha da geliştirir. {{% bible val="Yar. 28:6–9" link="gen:28,6-9" lang="tr" %}}, Esav'ın karısını tanıtır, ardından {{% bible val="Yar. 36" link="gen:36" lang="tr" %}}, Esav'ın ailesinin geri kalanının izini tam olarak sürer.
+- **İkinci bakış açısı** — ikinci birim, ilkini farklı bir açıdan yeniden anlatır ya da özetler. Bu süs olabilir, ama Vahiy'de olduğu gibi anlam da taşıyabilir. Ürdün'ün geçilmesi iki açıdan anlatılır: {{% bible val="Yeşu 3:9–17" link="jos:3,9-17" lang="tr" %}}, geçişin doğu tarafından başlayıp tamamlandığını gösterir, {{% bible val="Yeşu 4:10–13" link="jos:4,10-13" lang="tr" %}} ise aynı olayın batı tarafından ilerleyip tamamlandığını gösterir.
 
-Ama yapılandırılmış tekrar, Yunus'un duasında olduğu gibi (Yun. 2/2–9 ve 4/1–3), doğrudan anlam iletmek için de kullanılabilir.
+Ama yapılandırılmış tekrar, Yunus'un duasında olduğu gibi ({{% bible val="Yun. 2:2–9" link="jon:2,2-9" lang="tr" %}} ve {{% bible val="4:1–3" link="jon:4,1-3" lang="tr" %}}), doğrudan anlam iletmek için de kullanılabilir.
 
 Bunu bu şekilde yapmanın avantajı, yazarın bir noktayı incelikle ortaya koyabilmesidir; bu da izleyicilerin takdir ettiği bir şeydir — çoğu insan kendisine ders verilmesine direnir ve bir noktanın doğrudan üstüne üstüne gidilmesinden çabucak yorulur. Daha ince bir yapı, dinleyiciyi anlamı kendi başına keşfetmeye, katılmaya, düşünmeye davet eder. Bu da iletişimi daha ilginç, daha keyifli ve nihayetinde daha etkili kılar. Üç Küçük Domuz'un kendi ahlaki dersini baştan açıkça söyleyerek başlaması ne kadar bilgiçlik taslar bir izlenim bırakırdı, bir düşünün.
 
@@ -219,9 +219,9 @@ Bunu bu şekilde yapmanın avantajı, yazarın bir noktayı incelikle ortaya koy
 - **Karşılaştırma** — iki ya da daha fazla birim yan yana konularak, benzemez görünen şeyler arasında bir benzerlik ortaya konur; İsrail'in yabancı uluslarla tamamen aynı ölçütle yargılandığı Amos 1–2'de olduğu gibi.
 - **Zıtlık** — ters yönde bir hamle; benzer görünen ama aslında öyle olmayan şeyler arasındaki farkı gösterir. Yaratılış 38 ve 39, Yakup'un iki oğlunun bir kadından gelen yasa dışı bir cinsel davetle karşı karşıya kalışını gösterir ve her iki öyküde de kadın, daha sonra kanıt olarak kullanmak üzere adamdan bir nesne saklar — ama gerisi tamamen farklılaşır: Yahuda tamamen başarısız olur ve yine de refaha kavuşurken, Yusuf sadık kalır ve bunun için cezalandırılır.
 - **Tersine çevirme** — bir durumun tersine dönüşünü vurgulamak; 1. Krallar 3–11 (Süleyman'ın hükümdarlığının yükselişi ve tapınağın inşası) ile 2. Krallar 18–25 (krallığın sonu ve tapınağın yıkılışı) arasında olduğu gibi.
-- **Karşılıklılık** — eşleşen birimler arasında karşılıklı bir eylem göstermek; Ezgiler Ezgisi 2/8–17 (genç adam genç kadını kendisine katılmaya davet eder) ve 7/11–8/4 (kadın onu kırda kendisine katılmaya davet eder) örneğinde olduğu gibi.
-- **Çözüm (ya da gerçekleşme)** — bir öykünün açılış gerilimi, belirsizliği ya da öngörüsü ile kapanış çözümü arasındaki yakın bağlantıyı vurgulamak; Yar. 12/1–9 (Avram ve Sara'nın çocuksuzluğu) ile 21/1–7 (İshak'ın doğumu) arasında olduğu gibi.
-- **Bütünlük** — bir olgunun bütünlüğünü, gece ile gündüz ya da erkek ile kadın gibi bir merizmin her iki yarısını birlikte sunarak göstermek; İşa. 2/10–22 (gururlu erkeklerin gelecekteki aşağılanması) ile 3/16–17 (gururlu kadınların gelecekteki aşağılanması) arasında olduğu gibi.
+- **Karşılıklılık** — eşleşen birimler arasında karşılıklı bir eylem göstermek; {{% bible val="Ezgiler Ezgisi 2:8–17" link="sng:2,8-17" lang="tr" %}} (genç adam genç kadını kendisine katılmaya davet eder) ve {{% bible val="7:11–8:4" link="sng:7,11" lang="tr" %}} (kadın onu kırda kendisine katılmaya davet eder) örneğinde olduğu gibi.
+- **Çözüm (ya da gerçekleşme)** — bir öykünün açılış gerilimi, belirsizliği ya da öngörüsü ile kapanış çözümü arasındaki yakın bağlantıyı vurgulamak; {{% bible val="Yar. 12:1–9" link="gen:12,1-9" lang="tr" %}} (Avram ve Sara'nın çocuksuzluğu) ile {{% bible val="21:1–7" link="gen:21,1-7" lang="tr" %}} (İshak'ın doğumu) arasında olduğu gibi.
+- **Bütünlük** — bir olgunun bütünlüğünü, gece ile gündüz ya da erkek ile kadın gibi bir merizmin her iki yarısını birlikte sunarak göstermek; {{% bible val="İşa. 2:10–22" link="isa:2,10-22" lang="tr" %}} (gururlu erkeklerin gelecekteki aşağılanması) ile {{% bible val="3:16–17" link="isa:3,16-17" lang="tr" %}} (gururlu kadınların gelecekteki aşağılanması) arasında olduğu gibi.
 
 ### Öne Çıkan Konumlar
 
@@ -231,14 +231,14 @@ Bir yapı içindeki konum da anlamı pekiştirebilir ya da iletebilir. Modern hi
 İbrani edebiyatı farklı işler. Doğrusal ve paralel yapılarda, öne çıkan konum en son birimdir, çünkü izleyicinin son duyduğu şey odur.
 
 - Tek sayılı bir paralel şemada, eşleşmeyen son birim, örüntünün dışında durarak vurgulanır; a-b-c-a'-b'-c'-d'de olduğu gibi.
-- Simetrik bir şemada, birim sayısı tek olduğunda öne çıkan konum genellikle merkezdir; çift olduğunda ise vurgu bunun yerine ilk ve son birimlere düşer; Çık. 21/2–22/27'de olduğu gibi, burada başlangıç (21/2–17) ve son (22/18–27), hem ölüm cezası gerektiren suçları hem de yoksullara gösterilen iyiliği ele alır.
+- Simetrik bir şemada, birim sayısı tek olduğunda öne çıkan konum genellikle merkezdir; çift olduğunda ise vurgu bunun yerine ilk ve son birimlere düşer; {{% bible val="Çık. 21:2–22:27" link="exo:21,2" lang="tr" %}}'de olduğu gibi, burada başlangıç ({{% bible val="21:2–17" link="exo:21,2-17" lang="tr" %}}) ve son ({{% bible val="22:18–27" link="exo:22,18-27" lang="tr" %}}), hem ölüm cezası gerektiren suçları hem de yoksullara gösterilen iyiliği ele alır.
 
 Bu öne çıkan konum birkaç türde anlam taşıyabilir:
 
-- **Dönüm noktası** — merkez, öykünün gerçek dönüm noktasını işaret eder; Ehud'da olduğu gibi (Hak. 3/12–30), dönüm noktası onun kralı öldürdüğü andır. Hakimler'in genel yapısı da aynı şekilde Gideon üzerinde döner.
+- **Dönüm noktası** — merkez, öykünün gerçek dönüm noktasını işaret eder; Ehud'da olduğu gibi ({{% bible val="Hak. 3:12–30" link="jdg:3,12-30" lang="tr" %}}), dönüm noktası onun kralı öldürdüğü andır. Hakimler'in genel yapısı da aynı şekilde Gideon üzerinde döner.
 - **Doruk noktası** — aynı merkez nokta, gerilimin en yüksek olduğu an da olabilir; yine Ehud'un öyküsünde olduğu gibi.
-- **Merkez parça** — merkez, doruk noktasını doğrudan temsil eder; Ezgiler Ezgisi 3/6–5/1'in kalbindeki düğün ya da Tarihler'in merkezindeki (2. Tar. 1–9) tapınağın inşacısı Süleyman örneklerinde olduğu gibi.
-- **Önemli bir duraklama (ya da ara)** — eylemde ya da argümanda son derece önemli bir noktaya değinen kasıtlı bir duraklama. 2. Krallar 2/1–8/6, kralların günahlarının neredeyse kesintisiz geçit törenini Elişa'nın hizmetiyle keser, ve Ağıtlar 3/21–32, trajik bir ağıtı Tanrı'nın derin sevgisi üzerine düşünmek için durdurur.
+- **Merkez parça** — merkez, doruk noktasını doğrudan temsil eder; {{% bible val="Ezgiler Ezgisi 3:6–5:1" link="sng:3,6" lang="tr" %}}'in kalbindeki düğün ya da Tarihler'in merkezindeki ({{% bible val="2. Tar. 1–9" link="2ch:1" lang="tr" %}}) tapınağın inşacısı Süleyman örneklerinde olduğu gibi.
+- **Önemli bir duraklama (ya da ara)** — eylemde ya da argümanda son derece önemli bir noktaya değinen kasıtlı bir duraklama. {{% bible val="2. Krallar 2:1–8:6" link="2ki:2,1" lang="tr" %}}, kralların günahlarının neredeyse kesintisiz geçit törenini Elişa'nın hizmetiyle keser, ve {{% bible val="Ağıtlar 3:21–32" link="lam:3,21-32" lang="tr" %}}, trajik bir ağıtı Tanrı'nın derin sevgisi üzerine düşünmek için durdurur.
 
 ## Yapısal analizin değeri
 
@@ -258,7 +258,7 @@ Bu yapıları tanımak birçok şekilde karşılığını verir.
 <a name="r3v1"></a>
 Yukarıdaki araçların her biri Vahiy'in kendisinde iş başındadır ve bu sitedeki açıklamalar onlara tekrar tekrar dayanır:
 
-- **Sondan önce bir duraklamayla yedili diziler** (paralel örüntü, anlamlı duraklama). Mühürler, borazanlar ve kâseler her biri 4 + 3 olarak kurulmuştur: ilk dördü birbirine aittir — dört atlı; yeryüzü, deniz, ırmaklar ve gök üzerine dört borazan — son üçü ise ayrı durur. Yedinci mühürden ve yedinci borazandan önce dizi bir ara bölüm için durur (7. bölüm; 10–11. bölümler). Yedinci kâseden önce ise yoktur: artık sonu hiçbir şey geciktirmez ve kâseler geri dönmeye son çağrıdır (16:9, 11, 15).[^bowls] → {{% int_link val="144.000" link="/expl/content/army/the-144000" %}}, {{% int_link val="Küçük tomar" link="/expl/content/scroll/the-little-scroll" %}}
+- **Sondan önce bir duraklamayla yedili diziler** (paralel örüntü, anlamlı duraklama). Mühürler, borazanlar ve kâseler her biri 4 + 3 olarak kurulmuştur: ilk dördü birbirine aittir — dört atlı; yeryüzü, deniz, ırmaklar ve gök üzerine dört borazan — son üçü ise ayrı durur. Yedinci mühürden ve yedinci borazandan önce dizi bir ara bölüm için durur (7. bölüm; 10–11. bölümler). Yedinci kâseden önce ise yoktur: artık sonu hiçbir şey geciktirmez ve kâseler geri dönmeye son çağrıdır ({{% bible val="16:9, 11, 15" link="rev:16,9" lang="tr" %}}).[^bowls] → {{% int_link val="144.000" link="/expl/content/army/the-144000" %}}, {{% int_link val="Küçük tomar" link="/expl/content/scroll/the-little-scroll" %}}
 - **Ağırlık noktası olarak merkez** (simetri). Yedi mektup bir halka gibi düzenlenmiştir: kimliğini yitirme tehlikesindeki iki kilise başta ve sonda (Efes, Laodikya), azarlanmayan iki kilise ikinci ve sondan ikinci sırada (İzmir, Filadelfiya), üç karışık kilise ise çekirdeği oluşturur. Tam merkezde, Tiyatira'ya yazılan mektubun ortasında, bütün kiliselere hitap eden tek cümle durur: "Bütün kiliseler, yürekleri ve düşünceleri araştıranın ben olduğumu bilecek" (2:23).[^ring] → {{% int_link val="Yedi kiliseye gönderilen mektuplar" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
 - **Aynı öykü başka bir açıdan** (ikinci bakış açısı). Vahiy çoğu zaman ilerlemek yerine yeniden anlatır: mühürler, borazanlar ve kâseler artan bir şiddetle aynı alanı kat eder ve 20. bölüm, 12. bölümde zaten anlatılan Şeytan'ın yenilgisini yeniden anlatır. Görümlerin sırayla mı ilerlediği yoksa kendini mi yinelediği, bu kitap hakkındaki en eski sorulardan biridir (Beale, s. 116–124) ve bin yıl tartışmasının büyük kısmı buna bağlıdır. → {{% int_link val="Bin yıllık krallık" link="/expl/content/1000y/the-thousand-year-kingdom" %}}
 - **Zıtlık.** Fahişe Babil ve gelin, Yeni Yeruşalim, neredeyse aynı sözlerle tanıtılır — {{% bible val="yedi tası taşıyan yedi melekten biri gelip bana, 'Gel, sana göstereyim …' dedi" link="rev:17,1" lang="tr" %}} ({{% bible val="karşılaştırın 21:9" link="rev:21,9" lang="tr" %}}) — böylece okur iki kenti yan yana koyar. → {{% int_link val="Fahişe Babil kimdir?" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}, {{% int_link val="Yeni Yeruşalim" link="/expl/content/paradise/the-new-jerusalem" %}}

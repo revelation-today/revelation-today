@@ -100,9 +100,9 @@ Viele Kombinationen sind möglich:
 
 - a-b-c-d-e-a' verbindet lineare und symmetrische Muster — etwa wie ein Satz, der mit einer Annahme beginnt und mit einer Zusammenfassung endet, die diese Annahme belegt.
 - a-b-c-d-b'-c'-a' ist eine modifizierte Symmetrie, eine Mischung aus symmetrischem und parallelem Muster, die die Aufmerksamkeit des Lesers gezielt auf den Wechsel b'-c' lenkt.
-- a-a'-b-b'-c-c'-d-d' verbindet lineare und parallele Muster und kann parallele, aber eigenständige Geschichten erzählen, wie in 1.Mo.37/2–50/26.
+- a-a'-b-b'-c-c'-d-d' verbindet lineare und parallele Muster und kann parallele, aber eigenständige Geschichten erzählen, wie in {{% bible val="1.Mo.37,2–50,26" link="gen:37,2" lang="de" %}}.
 
-Ein und dieselbe Geschichte lässt sich sogar in mehr als einem Muster lesen. 1.Mo.37/2–50/26 etwa kann als a-b-c-d-e-f-g-g'-f'-e'-d'-c'-b'-a' gelesen werden, ebenso gut aber auch als a-a'-b-b'-c-c'-d-d'-e-e'-f-f'-g-g'.
+Ein und dieselbe Geschichte lässt sich sogar in mehr als einem Muster lesen. {{% bible val="1.Mo.37,2–50,26" link="gen:37,2" lang="de" %}} etwa kann als a-b-c-d-e-f-g-g'-f'-e'-d'-c'-b'-a' gelesen werden, ebenso gut aber auch als a-a'-b-b'-c-c'-d-d'-e-e'-f-f'-g-g'.
 
 ## Lineares Muster
 
@@ -115,7 +115,7 @@ Lineare Muster sind am leichtesten zu erkennen. Sie können sein:
 ## Paralleles Muster
 
 <a name="c1a5"></a>
-Parallele Muster folgen einem Schema wie a-b-c-a'-b'-c', wobei jedes x' ein ähnliches Thema oder eine ähnliche Struktur wie das zugehörige x aufweist. Nimm Ps.19/1–2:
+Parallele Muster folgen einem Schema wie a-b-c-a'-b'-c', wobei jedes x' ein ähnliches Thema oder eine ähnliche Struktur wie das zugehörige x aufweist. Nimm {{% bible val="Ps.19,1–2" link="psa:19,1-2" lang="de" %}}:
 
 - a: die Himmel
 - b: erzählen
@@ -136,12 +136,12 @@ Ein paralleles Muster:
 Nimm Jona als Beispiel. In den Aufstellungen unten kennzeichnet **fett** ein wiederkehrendes Thema und *kursiv* sein zugehöriges Gegenstück, sodass du verfolgen kannst, wie jedes Element der ersten Hälfte von seinem Pendant in der zweiten Hälfte beantwortet wird:
 
 - a: Jonas **Auftrag** und *Ungehorsam* (1/1–3)
-	- b: Jona und die *heidnischen Seeleute*: **JHWH ist gnädig** (1/4–16)
-		- c: **Jonas Reaktion auf JHWHs Gnade**: *Lobpreis* (1/17–2/10)
-- a': Jonas erneuter **Auftrag** und *Gehorsam* (3:1–3a)
-	- b': Jona und die *heidnischen Niniviten*: **JHWH ist gnädig** (3:3b–10)
-		- c': **Jonas Reaktion auf JHWHs Gnade**: *Groll* (4:1–4)
-- d: JHWHs Lektion (4:5–11)
+	- b: Jona und die *heidnischen Seeleute*: **JHWH ist gnädig** ({{% bible val="1,4–16" link="jon:1,4-16" lang="de" %}})
+		- c: **Jonas Reaktion auf JHWHs Gnade**: *Lobpreis* ({{% bible val="1,17–2,10" link="jon:1,17" lang="de" %}})
+- a': Jonas erneuter **Auftrag** und *Gehorsam* ({{% bible val="3:1–3a" link="jon:3,1-3" lang="de" %}})
+	- b': Jona und die *heidnischen Niniviten*: **JHWH ist gnädig** ({{% bible val="3:3b–10" link="jon:3,3-10" lang="de" %}})
+		- c': **Jonas Reaktion auf JHWHs Gnade**: *Groll* ({{% bible val="4:1–4" link="jon:4,1-4" lang="de" %}})
+- d: JHWHs Lektion ({{% bible val="4:5–11" link="jon:4,5-11" lang="de" %}})
 
 Diese Struktur erweckt den Eindruck, dass Jonas erstes Gebet heuchlerisch und sein zweites selbstsüchtig war — ein Urteil, das die Geschichte nirgends ausdrücklich ausspricht, sondern allein durch ihre eigene Anordnung vermittelt, ohne je zu moralisieren.
 
@@ -204,11 +204,11 @@ Die Gesamtstruktur eines Abschnitts kann die Botschaft des Autors ganz allein tr
 <a name="5820"></a>
 Nicht jede strukturelle Wiederholung dient dazu, Bedeutung zu vermitteln; manchmal existiert sie rein aus künstlerischen Gründen der Schönheit. Drei verbreitete Arten erfüllen diese dekorative Funktion:
 
-- **Strukturell** — hilft, ein Gerüst für die Komposition zu bauen. Die Aufzählung von Noahs drei Söhnen sowohl vor als auch nach der Flut (1.Mo 6/9–10 und 9/18–19) etwa schafft Ausgewogenheit und rahmt die Geschichte ein.
-- **Ausarbeitung** — die zweite Einheit eines Paares entwickelt das Thema weiter. 1.Mo 28/6–9 führt Esaus Frau ein, und 1.Mo 36 verfolgt dann den Rest von Esaus Familie im Detail.
-- **Zweite Perspektive** — die zweite Einheit erzählt die erste aus einem anderen Blickwinkel neu oder fasst sie zusammen. Das kann Schmuck sein, es kann aber auch Bedeutung tragen, wie in der Offenbarung. Die Überquerung des Jordans wird aus zwei Blickwinkeln erzählt: Jos.3/9–17 zeigt, wie die Überquerung von der Ostseite her beginnt und sich vollendet, und Jos.4/10–13 zeigt dasselbe Ereignis, wie es von der Westseite her fortschreitet und sich vollendet.
+- **Strukturell** — hilft, ein Gerüst für die Komposition zu bauen. Die Aufzählung von Noahs drei Söhnen sowohl vor als auch nach der Flut ({{% bible val="1.Mo 6,9–10" link="gen:6,9-10" lang="de" %}} und {{% bible val="9,18–19" link="gen:9,18-19" lang="de" %}}) etwa schafft Ausgewogenheit und rahmt die Geschichte ein.
+- **Ausarbeitung** — die zweite Einheit eines Paares entwickelt das Thema weiter. {{% bible val="1.Mo 28,6–9" link="gen:28,6-9" lang="de" %}} führt Esaus Frau ein, und {{% bible val="1.Mo 36" link="gen:36" lang="de" %}} verfolgt dann den Rest von Esaus Familie im Detail.
+- **Zweite Perspektive** — die zweite Einheit erzählt die erste aus einem anderen Blickwinkel neu oder fasst sie zusammen. Das kann Schmuck sein, es kann aber auch Bedeutung tragen, wie in der Offenbarung. Die Überquerung des Jordans wird aus zwei Blickwinkeln erzählt: {{% bible val="Jos.3,9–17" link="jos:3,9-17" lang="de" %}} zeigt, wie die Überquerung von der Ostseite her beginnt und sich vollendet, und {{% bible val="Jos.4,10–13" link="jos:4,10-13" lang="de" %}} zeigt dasselbe Ereignis, wie es von der Westseite her fortschreitet und sich vollendet.
 
-Strukturierte Wiederholung kann aber auch eingesetzt werden, um Bedeutung direkt zu vermitteln, wie im Gebet des Jona (Jon.2/2–9 und 4/1–3).
+Strukturierte Wiederholung kann aber auch eingesetzt werden, um Bedeutung direkt zu vermitteln, wie im Gebet des Jona ({{% bible val="Jon.2,2–9" link="jon:2,2-9" lang="de" %}} und {{% bible val="4,1–3" link="jon:4,1-3" lang="de" %}}).
 
 Der Vorteil dieser Vorgehensweise besteht darin, dass der Autor seinen Punkt auf subtile Weise machen kann, was Zuhörer zu schätzen wissen — die meisten Menschen wehren sich dagegen, belehrt zu werden, und werden schnell müde, wenn ein Punkt ihnen direkt eingehämmert wird. Eine subtilere Struktur lädt den Zuhörer ein, die Bedeutung selbst zu entdecken, sich zu beteiligen, mitzudenken. Das macht die Kommunikation interessanter, angenehmer und letztlich wirksamer. Man stelle sich vor, wie belehrend es wirken würde, wenn die Geschichte von den drei kleinen Schweinchen gleich zu Beginn ihre eigene Moral verkünden würde.
 
@@ -219,9 +219,9 @@ Die hebräische Literatur erreicht das auf mehrere unterschiedliche Weisen:
 - **Vergleich** — zwei oder mehr Einheiten werden nebeneinandergestellt, um eine Ähnlichkeit zwischen Dingen aufzuzeigen, die eigentlich nicht ähnlich wirken, wie in Amos 1–2, wo Israel nach demselben Maßstab gerichtet wird wie die fremden Völker.
 - **Kontrast** — der umgekehrte Zug, der einen Unterschied zwischen Dingen zeigt, die ähnlich aussehen, es aber nicht sind. 1.Mo 38 und 39 zeigen beide einen Sohn Jakobs, der mit einer unerlaubten sexuellen Einladung durch eine Frau konfrontiert wird, und in beiden Geschichten behält die Frau ein Pfand des Mannes, um es später als Beweis zu verwenden — doch alles andere geht auseinander: Juda versagt vollständig und hat dennoch Erfolg, während Josef treu bleibt und dafür bestraft wird.
 - **Umkehrung** — hebt die Umkehrung einer Situation hervor, wie zwischen 1.Kön 3–11 (der Aufstieg der Herrschaft Salomos und der Bau des Tempels) und 2.Kön 18–25 (das Ende des Königreichs und die Zerstörung des Tempels).
-- **Reziprozität** — zeigt wechselseitiges Handeln in entsprechenden Einheiten, wie im Hohelied 2/8–17 (der junge Mann lädt die junge Frau ein, sich ihm anzuschließen) und 7/11–8/4 (sie lädt ihn ein, sich ihr aufs Land anzuschließen).
-- **Auflösung (oder Erfüllung)** — betont die enge Verbindung zwischen der anfänglichen Spannung, Erwartung oder Vorhersage einer Geschichte und ihrer abschließenden Auflösung, wie zwischen 1.Mo 12/1–9 (die Kinderlosigkeit von Abram und Sarah) und 21/1–7 (die Geburt Isaaks).
-- **Totalität** — zeigt die Gesamtheit eines Phänomens, indem beide Hälften eines Merismus dargestellt werden, etwa Tag und Nacht oder Mann und Frau, wie zwischen Jes.2/10–22 (die künftige Erniedrigung der stolzen Männer) und 3/16–17 (die künftige Erniedrigung der stolzen Frauen).
+- **Reziprozität** — zeigt wechselseitiges Handeln in entsprechenden Einheiten, wie im {{% bible val="Hohelied 2,8–17" link="sng:2,8-17" lang="de" %}} (der junge Mann lädt die junge Frau ein, sich ihm anzuschließen) und {{% bible val="7,11–8,4" link="sng:7,11" lang="de" %}} (sie lädt ihn ein, sich ihr aufs Land anzuschließen).
+- **Auflösung (oder Erfüllung)** — betont die enge Verbindung zwischen der anfänglichen Spannung, Erwartung oder Vorhersage einer Geschichte und ihrer abschließenden Auflösung, wie zwischen {{% bible val="1.Mo 12,1–9" link="gen:12,1-9" lang="de" %}} (die Kinderlosigkeit von Abram und Sarah) und {{% bible val="21,1–7" link="gen:21,1-7" lang="de" %}} (die Geburt Isaaks).
+- **Totalität** — zeigt die Gesamtheit eines Phänomens, indem beide Hälften eines Merismus dargestellt werden, etwa Tag und Nacht oder Mann und Frau, wie zwischen {{% bible val="Jes.2,10–22" link="isa:2,10-22" lang="de" %}} (die künftige Erniedrigung der stolzen Männer) und {{% bible val="3,16–17" link="isa:3,16-17" lang="de" %}} (die künftige Erniedrigung der stolzen Frauen).
 
 ## Prominente Positionen
 
@@ -231,14 +231,14 @@ Auch die Position innerhalb einer Struktur kann Bedeutung verstärken oder vermi
 Die hebräische Literatur funktioniert anders. In linearen und parallelen Strukturen liegt die hervorgehobene Position in der allerletzten Einheit, denn das ist es, was das Publikum zuletzt hört.
 
 - In einem parallelen Schema mit ungerader Anzahl wird die nicht passende letzte Einheit dadurch betont, dass sie außerhalb des Musters steht, wie in a-b-c-a'-b'-c'-d.
-- In einem symmetrischen Schema ist bei ungerader Anzahl meist die Mitte die hervorgehobene Position; bei gerader Anzahl fällt die Betonung stattdessen auf die erste und die letzte Einheit, wie in 2.Mo 21/2–22/27, wo Anfang (21/2–17) und Ende (22/18–27) sich beide mit Kapitalverbrechen und mit Güte gegenüber den Armen befassen.
+- In einem symmetrischen Schema ist bei ungerader Anzahl meist die Mitte die hervorgehobene Position; bei gerader Anzahl fällt die Betonung stattdessen auf die erste und die letzte Einheit, wie in {{% bible val="2.Mo 21,2–22,27" link="exo:21,2" lang="de" %}}, wo Anfang ({{% bible val="21,2–17" link="exo:21,2-17" lang="de" %}}) und Ende ({{% bible val="22,18–27" link="exo:22,18-27" lang="de" %}}) sich beide mit Kapitalverbrechen und mit Güte gegenüber den Armen befassen.
 
 Diese hervorgehobene Position kann verschiedene Arten von Bedeutung tragen:
 
-- **Wendepunkt** — die Mitte markiert den eigentlichen Wendepunkt der Geschichte, wie bei Ehud (Ri.3/12–30), wo der Umschwung genau dann kommt, wenn er den König tötet. Auch die Gesamtstruktur des Richterbuches dreht sich um Gideon.
+- **Wendepunkt** — die Mitte markiert den eigentlichen Wendepunkt der Geschichte, wie bei Ehud ({{% bible val="Ri.3,12–30" link="jdg:3,12-30" lang="de" %}}), wo der Umschwung genau dann kommt, wenn er den König tötet. Auch die Gesamtstruktur des Richterbuches dreht sich um Gideon.
 - **Höhepunkt** — derselbe Mittelpunkt kann auch der Moment der größten Spannung sein, wieder wie in der Geschichte Ehuds.
-- **Mittelstück** — die Mitte stellt den Höhepunkt unmittelbar dar, wie bei der Hochzeit im Zentrum des Hohelieds 3/6–5/1, oder bei Salomo, dem Erbauer des Tempels, im Zentrum der Chronikbücher (2.Chr 1–9).
-- **Bedeutsame Pause (oder Zwischenspiel)** — eine bewusste Unterbrechung der Handlung oder Argumentation, die einen höchst bedeutsamen Punkt setzt. 2.Kön 2/1–8/6 unterbricht die unerbittliche, fast lückenlose Aufzählung der Sünden der Könige mit dem Wirken Elisas, und Klgl 3/21–32 unterbricht eine tragische Klage, um über die tiefe Liebe Gottes nachzudenken.
+- **Mittelstück** — die Mitte stellt den Höhepunkt unmittelbar dar, wie bei der Hochzeit im Zentrum des {{% bible val="Hohelieds 3,6–5,1" link="sng:3,6" lang="de" %}}, oder bei Salomo, dem Erbauer des Tempels, im Zentrum der Chronikbücher ({{% bible val="2.Chr 1–9" link="2ch:1" lang="de" %}}).
+- **Bedeutsame Pause (oder Zwischenspiel)** — eine bewusste Unterbrechung der Handlung oder Argumentation, die einen höchst bedeutsamen Punkt setzt. {{% bible val="2.Kön 2,1–8,6" link="2ki:2,1" lang="de" %}} unterbricht die unerbittliche, fast lückenlose Aufzählung der Sünden der Könige mit dem Wirken Elisas, und {{% bible val="Klgl 3,21–32" link="lam:3,21-32" lang="de" %}} unterbricht eine tragische Klage, um über die tiefe Liebe Gottes nachzudenken.
 
 ## Wert der Strukturanalyse
 
@@ -258,7 +258,7 @@ Das Erkennen dieser Strukturen zahlt sich auf mehrere Weisen aus.
 <a name="r3v1"></a>
 Jedes der oben beschriebenen Werkzeuge ist in der Offenbarung selbst am Werk, und die Auslegungen auf dieser Seite stützen sich immer wieder darauf:
 
-- **Siebenerreihen mit einer Pause vor dem Ende** (paralleles Muster, bedeutsame Pause). Siegel, Posaunen und Schalen sind jeweils als 4 + 3 gebaut: Die ersten vier gehören zusammen — vier Reiter; vier Posaunen über Erde, Meer, Flüsse und Himmel —, die letzten drei stehen für sich. Vor dem siebten Siegel und der siebten Posaune hält die Reihe für ein Zwischenstück inne (Kapitel 7; Kapitel 10–11). Vor der siebten Schale gibt es keines mehr: Nichts schiebt das Ende mehr auf, und die Schalen sind der letzte Ruf zur Umkehr (16,9.11.15).[^bowls] → {{% int_link val="Die 144.000" link="/expl/content/army/the-144000" %}}, {{% int_link val="Die kleine Buchrolle" link="/expl/content/scroll/the-little-scroll" %}}
+- **Siebenerreihen mit einer Pause vor dem Ende** (paralleles Muster, bedeutsame Pause). Siegel, Posaunen und Schalen sind jeweils als 4 + 3 gebaut: Die ersten vier gehören zusammen — vier Reiter; vier Posaunen über Erde, Meer, Flüsse und Himmel —, die letzten drei stehen für sich. Vor dem siebten Siegel und der siebten Posaune hält die Reihe für ein Zwischenstück inne (Kapitel 7; Kapitel 10–11). Vor der siebten Schale gibt es keines mehr: Nichts schiebt das Ende mehr auf, und die Schalen sind der letzte Ruf zur Umkehr ({{% bible val="16,9.11.15" link="rev:16,9" lang="de" %}}).[^bowls] → {{% int_link val="Die 144.000" link="/expl/content/army/the-144000" %}}, {{% int_link val="Die kleine Buchrolle" link="/expl/content/scroll/the-little-scroll" %}}
 - **Die Mitte als Ort des Gewichts** (Symmetrie). Die sieben Sendschreiben sind wie ein Ring angeordnet: Die beiden Gemeinden, die in Gefahr sind, ihre Identität zu verlieren, stehen am Anfang und am Ende (Ephesus, Laodizea), die beiden ohne Tadel an zweiter und vorletzter Stelle (Smyrna, Philadelphia), und drei gemischte Gemeinden bilden den Kern. Ganz in der Mitte, mitten im Brief an Thyatira, steht der eine Satz, der sich an alle Gemeinden richtet: „Alle Gemeinden werden erkennen, dass ich es bin, der Nieren und Herzen erforscht“ (2,23).[^ring] → {{% int_link val="Die sieben Sendschreiben" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
 - **Dieselbe Geschichte aus einem anderen Blickwinkel** (zweite Perspektive). Die Offenbarung erzählt oft neu, statt weiterzuerzählen: Siegel, Posaunen und Schalen gehen mit steigender Wucht über dasselbe Gelände, und Kapitel 20 erzählt noch einmal die Niederlage Satans, die schon Kapitel 12 erzählt. Ob die Visionen nacheinander ablaufen oder sich wiederholen, ist eine der ältesten Fragen an dieses Buch (Beale, S. 116–124), und ein großer Teil der Debatte um das Tausendjährige Reich hängt daran. → {{% int_link val="Das Tausendjährige Reich" link="/expl/content/1000y/the-thousand-year-kingdom" %}}
 - **Kontrast.** Die Hure Babel und die Braut, das Neue Jerusalem, werden mit fast denselben Worten eingeführt — {{% bible val="einer von den sieben Engeln, welche die sieben Schalen hatten, kam und sprach zu mir: Komm, ich will dir zeigen …" link="rev:17,1" lang="de" %}} ({{% bible val="vergleiche 21,9" link="rev:21,9" lang="de" %}}) —, damit der Leser die beiden Städte nebeneinanderstellt. → {{% int_link val="Wer ist die Hure Babel?" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}, {{% int_link val="Das Neue Jerusalem" link="/expl/content/paradise/the-new-jerusalem" %}}

@@ -44,7 +44,7 @@ On this reading, the book would have made no sense at all to the people it was o
 <a name="eba9"></a>
 The theory often asserts claims without explaining them, or marshals an arsenal of Bible verses pulled loose from their context.
 
-A good example is the {{% bible val="2000 year delay in the prophecy of the 70 weeks" link="dan:9,26-27" lang="en" %}}, a cornerstone of the system. Daniel 9:26–27 never mentions a gap between the 69th and the 70th week. The seventy weeks are decreed as one period ({{% bible val="9:24" link="dan:9,24" lang="en" %}}), and the delay is inferred from the way the verses are read.
+A good example is the {{% bible val="2000 year delay in the prophecy of the 70 weeks" link="dan:9,26-27" lang="en" %}}, a cornerstone of the system. {{% bible val="Daniel 9:26–27" link="dan:9,26-27" lang="en" %}} never mentions a gap between the 69th and the 70th week. The seventy weeks are decreed as one period ({{% bible val="9:24" link="dan:9,24" lang="en" %}}), and the delay is inferred from the way the verses are read.
 
 ### Predicting the future, again and again
 

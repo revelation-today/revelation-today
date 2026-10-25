@@ -40,7 +40,7 @@ So the reverse of the coin is a straightforward celebration of Rome's power and 
 
 The coin's celebration of the {{% int_link val="Pax Romana" link="/expl/background/history/pax-romana-key-to-understand-the-book-of-revelation" %}} is turned, point by point, into an image of contempt and disgust — a reminder to every believer who handled that coin in daily life that Rome could not be trusted. It's remarkably effective counter-propaganda.
 
-This is not an isolated rhetorical move. "Babel" itself is a recognized code name for Rome in Jewish and early Christian writing of the period — most clearly in 1 Peter 5:13, and also in works like 2 Baruch, 4 Ezra, and Sibylline Oracles 5. Babel had destroyed Solomon's temple in 587 BC; Rome destroyed the Second Temple in 70 AD. Calling Rome "Babel" placed it inside that same typological pattern of a proud pagan empire that destroys God's temple and, in turn, faces God's judgment.
+This is not an isolated rhetorical move. "Babel" itself is a recognized code name for Rome in Jewish and early Christian writing of the period — most clearly in {{% bible val="1 Peter 5:13" link="1pe:5,13" lang="en" %}}, and also in works like 2 Baruch, 4 Ezra, and Sibylline Oracles 5. Babel had destroyed Solomon's temple in 587 BC; Rome destroyed the Second Temple in 70 AD. Calling Rome "Babel" placed it inside that same typological pattern of a proud pagan empire that destroys God's temple and, in turn, faces God's judgment.
 
 ## The Ekphrasis
 

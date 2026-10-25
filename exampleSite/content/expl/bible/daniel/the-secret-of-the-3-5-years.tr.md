@@ -43,7 +43,7 @@ Bu da devam etmeden önce sormaya değer üç soru doğurur. Bu dönemler birbir
 
 Bunları yanıtlamak için önce Eski Antlaşma arka planına ihtiyacımız var.
 
-## İlyas ve kuraklık (1. Krallar 16/29–18/35)
+## İlyas ve kuraklık ({{% bible val="1. Krallar 16:29–18:35" link="1ki:16,29" lang="tr" %}})
 
 <a name="89d3"></a>
 İsrail Kralı Ahav, İsrail'in kuzeyindeki bir kent olan Sidonlu İzebel'le evlenir; o da beraberinde Baal ve Aşera'ya tapınmayı getirir — bunlar bereket tanrılarıdır ve çok çocuk, bol hasat, güçlü ordular vaat ederler. Ama bunların neredeyse tamamı tek bir şeye bağlıdır: {{% bible val="yeterli yağmura" link="1ki:17,1" lang="tr" %}}.

@@ -60,4 +60,4 @@ Onun yargısı, eylemleriyle tam olarak örtüşür:
 
 - Kendini dokunulmaz sandı, bu yüzden tek bir saat içinde düşer — metnin tasvir edebileceği kadar kısa bir süre.
 - {{% bible val="Başkalarına uyguladığının" link="rev:18,22-24" lang="tr" %}} karşılığında yargılanacaktır: Vahiy 18:6, ona {{% bible val="işlediklerinin iki katının ödeneceğini" link="rev:18,6" lang="tr" %}} söyler — yorumcular bunu ya şiddetlendirilmiş bir yargı ya da tam ve eksiksiz bir karşılık olarak okur; her iki durumda da ceza suça uyar.
-- Ateşle tüketilecektir — bir kâhinin, fahişeliğe yönelen kızı için öngörülen aynı yargı (Levililer 21:9) — Babil'den uzak durmak ve onun çekiciliğine direnmek için güçlü bir uyarı.
+- Ateşle tüketilecektir — bir kâhinin, fahişeliğe yönelen kızı için öngörülen aynı yargı ({{% bible val="Levililer 21:9" link="lev:21,9" lang="tr" %}}) — Babil'den uzak durmak ve onun çekiciliğine direnmek için güçlü bir uyarı.

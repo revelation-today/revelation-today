@@ -114,7 +114,7 @@ Bagaimana hubungan ayat ini dengan pengangkatan? Asumsinya adalah bahwa "tempat-
 
 Tetapi perhatikan baik-baik kata yang diterjemahkan sebagai "tempat tinggal": [mone](https://biblehub.com/greek/3438.htm). Kata ini {{% bible val="hanya muncul satu kali lagi dalam Injil Yohanes — dalam pasal yang sama ini — di mana kata itu merujuk pada Allah yang tinggal di dalam kita" link="jhn:14,23" lang="ind" %}}. Kesejajaran itu memberikan gambaran yang berbeda: orang-orang percaya memiliki tempat tinggal di dalam Kristus, dan Kristus memiliki tempat tinggal di dalam orang-orang percaya. Dibaca dengan cara ini, "tempat" di sini berarti sesuatu yang lebih dekat dengan menjadi bagian dari sebuah keluarga daripada menempati sebuah ruangan harfiah — ini soal menjadi bagian dari keluarga Allah, bukan sebuah ruang tunggu untuk masa kesengsaraan besar.
 
-## Apakah Wahyu 4:1 Itu Pengangkatan?
+## Apakah {{% bible val="Wahyu 4:1" link="rev:4,1" lang="ind" %}} Itu Pengangkatan?
 
 <a name="ab7c"></a>
 Jika ada satu momen dalam Kitab Wahyu yang berfungsi seperti sebuah "pengangkatan," momen itu ditempatkan pada awal pasal 4, bukan pada suatu titik yang masih akan datang.

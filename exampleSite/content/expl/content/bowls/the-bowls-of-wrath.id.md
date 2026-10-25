@@ -62,7 +62,7 @@ Cawan keenam ini layak untuk diamati lebih saksama secara tersendiri.
 
 {{% /background %}}
 
-Satu ironi lagi menutup adegan ini. Berkumpulnya pasukan-pasukan di Harmagedon kelak tercermin dalam berkumpulnya burung-burung di pasal 19, dan kesejajaran itu membuat kekalahan Iblis semakin tajam: pasukannya yang telah dikumpulkan itu ditumbangkan oleh satu perkataan saja, pedang dari mulut Sang Penunggang, dan yang tersisa dari mereka hanyalah santapan bagi burung-burung (19:21).
+Satu ironi lagi menutup adegan ini. Berkumpulnya pasukan-pasukan di Harmagedon kelak tercermin dalam berkumpulnya burung-burung di pasal 19, dan kesejajaran itu membuat kekalahan Iblis semakin tajam: pasukannya yang telah dikumpulkan itu ditumbangkan oleh satu perkataan saja, pedang dari mulut Sang Penunggang, dan yang tersisa dari mereka hanyalah santapan bagi burung-burung ({{% bible val="19:21" link="rev:19,21" lang="ind" %}}).
 
 [^frogs]: Beale, hlm. 832–833.
 

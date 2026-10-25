@@ -100,9 +100,9 @@ Banyak kombinasi yang mungkin:
 
 - a-b-c-d-e-a' menggabungkan pola linear dan simetris — seperti sebuah kalimat yang dibuka dengan sebuah asumsi dan ditutup dengan ringkasan yang membuktikan asumsi itu.
 - a-b-c-d-b'-c'-a' adalah sebuah simetri yang dimodifikasi, memadukan pola simetris dan paralel, yang secara khusus mengarahkan perhatian pembaca pada peralihan b'-c'.
-- a-a'-b-b'-c-c'-d-d' menggabungkan pola linear dan paralel dan dapat menceritakan kisah-kisah yang paralel tetapi berbeda, seperti dalam Kej.37/2–50/26.
+- a-a'-b-b'-c-c'-d-d' menggabungkan pola linear dan paralel dan dapat menceritakan kisah-kisah yang paralel tetapi berbeda, seperti dalam {{% bible val="Kej.37:2–50:26" link="gen:37,2" lang="ind" %}}.
 
-Kisah yang sama bahkan dapat dibaca dalam lebih dari satu pola sekaligus. Kej.37/2–50/26, misalnya, dapat dibaca sebagai a-b-c-d-e-f-g-g'-f'-e'-d'-c'-b'-a', atau sama validnya sebagai a-a'-b-b'-c-c'-d-d'-e-e'-f-f'-g-g'.
+Kisah yang sama bahkan dapat dibaca dalam lebih dari satu pola sekaligus. {{% bible val="Kej.37:2–50:26" link="gen:37,2" lang="ind" %}}, misalnya, dapat dibaca sebagai a-b-c-d-e-f-g-g'-f'-e'-d'-c'-b'-a', atau sama validnya sebagai a-a'-b-b'-c-c'-d-d'-e-e'-f-f'-g-g'.
 
 ### Pola Linear
 
@@ -115,7 +115,7 @@ Pola linear adalah yang paling mudah diikuti. Pola ini dapat berupa:
 ### Pola Paralel
 
 <a name="c1a5"></a>
-Pola paralel mengikuti skema seperti a-b-c-a'-b'-c', di mana setiap x' memiliki tema atau struktur yang serupa dengan x yang bersesuaian. Perhatikan Mzm.19/1–2:
+Pola paralel mengikuti skema seperti a-b-c-a'-b'-c', di mana setiap x' memiliki tema atau struktur yang serupa dengan x yang bersesuaian. Perhatikan {{% bible val="Mzm.19:1–2" link="psa:19,1-2" lang="ind" %}}:
 
 - a: langit
 - b: menceritakan
@@ -136,12 +136,12 @@ Sebuah pola paralel:
 Ambil Yunus sebagai contoh. Dalam tabel-tabel di bawah ini, **tebal** menandai satu tema yang berulang dan *miring* menandai pasangannya, sehingga Anda dapat menelusuri bagaimana setiap unsur pada paruh pertama dijawab oleh padanannya pada paruh kedua:
 
 - a: **tugas** Yunus dan *ketidaktaatannya* (1/1–3)
-	- b: Yunus dan *para pelaut kafir*: **TUHAN itu murah hati** (1/4–16)
-		- c: **tanggapan Yunus atas belas kasihan TUHAN**: *puji-pujian* (1/17–2/10)
-- a': **penugasan kembali** Yunus dan *ketaatannya* (3:1–3a)
-	- b': Yunus dan *orang-orang Niniwe yang kafir*: **TUHAN itu murah hati** (3:3b–10)
-		- c': **tanggapan Yunus atas belas kasihan TUHAN**: *kejengkelan* (4:1–4)
-- d: pelajaran dari TUHAN (4:5–11)
+	- b: Yunus dan *para pelaut kafir*: **TUHAN itu murah hati** ({{% bible val="1:4–16" link="jon:1,4-16" lang="ind" %}})
+		- c: **tanggapan Yunus atas belas kasihan TUHAN**: *puji-pujian* ({{% bible val="1:17–2:10" link="jon:1,17" lang="ind" %}})
+- a': **penugasan kembali** Yunus dan *ketaatannya* ({{% bible val="3:1–3a" link="jon:3,1-3" lang="ind" %}})
+	- b': Yunus dan *orang-orang Niniwe yang kafir*: **TUHAN itu murah hati** ({{% bible val="3:3b–10" link="jon:3,3-10" lang="ind" %}})
+		- c': **tanggapan Yunus atas belas kasihan TUHAN**: *kejengkelan* ({{% bible val="4:1–4" link="jon:4,1-4" lang="ind" %}})
+- d: pelajaran dari TUHAN ({{% bible val="4:5–11" link="jon:4,5-11" lang="ind" %}})
 
 Struktur ini meninggalkan kesan bahwa doa Yunus yang pertama bersifat munafik dan doa keduanya bersifat egois — sebuah penilaian yang tidak pernah dinyatakan secara langsung oleh kisah ini, tetapi disampaikan sepenuhnya melalui susunannya sendiri, tanpa pernah bersifat menggurui.
 
@@ -204,11 +204,11 @@ Struktur keseluruhan sebuah bagian dapat membawa pesan penulis dengan sendirinya
 <a name="5820"></a>
 Tidak setiap pengulangan struktural ada di sana untuk menyampaikan makna; kadang-kadang pengulangan itu ada semata-mata untuk keindahan artistik. Tiga jenis umum berikut memenuhi fungsi dekoratif itu:
 
-- **Struktural** — membantu membangun kerangka bagi komposisi. Menyebutkan ketiga putra Nuh baik sebelum maupun sesudah air bah (Kej.6/9–10 dan 9/18–19), misalnya, menciptakan keseimbangan dan mengapit kisah itu.
-- **Elaborasi** — satuan kedua dalam sepasang satuan mengembangkan tema lebih jauh. Kej.28/6–9 memperkenalkan istri Esau, dan Kej.36 kemudian menelusuri seluruh sisa keluarga Esau.
-- **Perspektif kedua** — satuan kedua menceritakan kembali satuan pertama dari sudut pandang yang berbeda, atau merangkumnya. Ini bisa sekadar hiasan, tetapi bisa juga membawa makna, seperti dalam Kitab Wahyu. Penyeberangan Sungai Yordan diceritakan dari dua sudut: Yos.3/9–17 menunjukkan penyeberangan itu dimulai dan selesai dari sisi timur, dan Yos.4/10–13 menunjukkan peristiwa yang sama berlangsung dan selesai dari sisi barat.
+- **Struktural** — membantu membangun kerangka bagi komposisi. Menyebutkan ketiga putra Nuh baik sebelum maupun sesudah air bah ({{% bible val="Kej.6:9–10" link="gen:6,9-10" lang="ind" %}} dan {{% bible val="9:18–19" link="gen:9,18-19" lang="ind" %}}), misalnya, menciptakan keseimbangan dan mengapit kisah itu.
+- **Elaborasi** — satuan kedua dalam sepasang satuan mengembangkan tema lebih jauh. {{% bible val="Kej.28:6–9" link="gen:28,6-9" lang="ind" %}} memperkenalkan istri Esau, dan {{% bible val="Kej.36" link="gen:36" lang="ind" %}} kemudian menelusuri seluruh sisa keluarga Esau.
+- **Perspektif kedua** — satuan kedua menceritakan kembali satuan pertama dari sudut pandang yang berbeda, atau merangkumnya. Ini bisa sekadar hiasan, tetapi bisa juga membawa makna, seperti dalam Kitab Wahyu. Penyeberangan Sungai Yordan diceritakan dari dua sudut: {{% bible val="Yos.3:9–17" link="jos:3,9-17" lang="ind" %}} menunjukkan penyeberangan itu dimulai dan selesai dari sisi timur, dan {{% bible val="Yos.4:10–13" link="jos:4,10-13" lang="ind" %}} menunjukkan peristiwa yang sama berlangsung dan selesai dari sisi barat.
 
-Tetapi pengulangan yang terstruktur juga dapat digunakan untuk menyampaikan makna secara langsung, seperti dalam doa Yunus (Yun.2/2–9 dan 4/1–3).
+Tetapi pengulangan yang terstruktur juga dapat digunakan untuk menyampaikan makna secara langsung, seperti dalam doa Yunus ({{% bible val="Yun.2:2–9" link="jon:2,2-9" lang="ind" %}} dan {{% bible val="4:1–3" link="jon:4,1-3" lang="ind" %}}).
 
 Keuntungan melakukannya dengan cara ini adalah penulis dapat menyampaikan sebuah maksud secara halus, yang dihargai oleh audiens — kebanyakan orang enggan digurui dan cepat lelah dengan sebuah maksud yang ditekankan secara langsung. Struktur yang lebih halus mengundang pendengar untuk menemukan sendiri maknanya, untuk ikut terlibat, untuk memikirkannya. Hal itu membuat komunikasi menjadi lebih menarik, lebih menyenangkan, dan pada akhirnya lebih efektif. Bayangkan betapa mengguruinya kesan yang timbul jika kisah Tiga Babi Kecil dibuka dengan menyatakan moralnya begitu saja.
 
@@ -219,9 +219,9 @@ Sastra Ibrani mencapai hal ini dengan beberapa cara yang berbeda:
 - **Perbandingan** — dua satuan atau lebih disandingkan untuk menunjukkan kesamaan antara hal-hal yang tampaknya tidak serupa, seperti dalam Amos 1–2, di mana Israel dihakimi dengan standar yang persis sama seperti bangsa-bangsa asing.
 - **Kontras** — gerakan sebaliknya, menunjukkan perbedaan antara hal-hal yang tampak serupa tetapi sebenarnya tidak. Kejadian 38 dan 39 sama-sama menunjukkan seorang putra Yakub yang dihadapkan pada ajakan seksual terlarang dari seorang perempuan, dan dalam kedua kisah itu perempuan tersebut menyimpan sebuah tanda dari laki-laki itu untuk digunakan kemudian sebagai bukti — namun segala sesuatu yang lain berbeda: Yehuda gagal total namun tetap makmur, sementara Yusuf tetap setia dan justru dihukum karenanya.
 - **Pembalikan** — menyoroti pembalikan sebuah keadaan, seperti antara 1Raj.3–11 (kebangkitan pemerintahan Salomo dan pembangunan bait Allah) dan 2Raj.18–25 (berakhirnya kerajaan itu dan kehancuran bait Allah).
-- **Timbal balik** — menunjukkan tindakan timbal balik di antara satuan-satuan yang bersesuaian, seperti dalam Kidung Agung 2/8–17 (pemuda itu mengajak sang gadis muda untuk bergabung dengannya) dan 7/11–8/4 (sang gadis mengajaknya bergabung dengannya di pedesaan).
-- **Penyelesaian (atau penggenapan)** — menekankan hubungan erat antara ketegangan, penantian, atau ramalan pada pembukaan sebuah kisah dan penyelesaiannya pada penutup, seperti antara Kej.12/1–9 (kemandulan Abram dan Sara) dan 21/1–7 (kelahiran Ishak).
-- **Totalitas** — menunjukkan totalitas sebuah fenomena dengan menampilkan kedua sisi sebuah merismus, seperti siang dan malam atau laki-laki dan perempuan, seperti antara Yes.2/10–22 (perendahan laki-laki yang sombong di masa depan) dan 3/16–17 (perendahan perempuan yang sombong di masa depan).
+- **Timbal balik** — menunjukkan tindakan timbal balik di antara satuan-satuan yang bersesuaian, seperti dalam {{% bible val="Kidung Agung 2:8–17" link="sng:2,8-17" lang="ind" %}} (pemuda itu mengajak sang gadis muda untuk bergabung dengannya) dan {{% bible val="7:11–8:4" link="sng:7,11" lang="ind" %}} (sang gadis mengajaknya bergabung dengannya di pedesaan).
+- **Penyelesaian (atau penggenapan)** — menekankan hubungan erat antara ketegangan, penantian, atau ramalan pada pembukaan sebuah kisah dan penyelesaiannya pada penutup, seperti antara {{% bible val="Kej.12:1–9" link="gen:12,1-9" lang="ind" %}} (kemandulan Abram dan Sara) dan {{% bible val="21:1–7" link="gen:21,1-7" lang="ind" %}} (kelahiran Ishak).
+- **Totalitas** — menunjukkan totalitas sebuah fenomena dengan menampilkan kedua sisi sebuah merismus, seperti siang dan malam atau laki-laki dan perempuan, seperti antara {{% bible val="Yes.2:10–22" link="isa:2,10-22" lang="ind" %}} (perendahan laki-laki yang sombong di masa depan) dan {{% bible val="3:16–17" link="isa:3,16-17" lang="ind" %}} (perendahan perempuan yang sombong di masa depan).
 
 ### Posisi-Posisi yang Menonjol
 
@@ -231,14 +231,14 @@ Posisi dalam sebuah struktur juga dapat memperkuat atau menyampaikan makna. Pend
 Sastra Ibrani bekerja secara berbeda. Dalam struktur linear dan paralel, posisi yang menonjol adalah satuan yang paling terakhir, karena itulah yang didengar audiens paling akhir.
 
 - Dalam skema paralel dengan jumlah ganjil, satuan terakhir yang tidak berpasangan ditonjolkan karena berdiri di luar pola, seperti dalam a-b-c-a'-b'-c'-d.
-- Dalam skema simetris, bagian tengah biasanya menjadi posisi yang menonjol ketika jumlah satuannya ganjil; ketika genap, penonjolan justru jatuh pada satuan pertama dan terakhir, seperti dalam Kel.21/2–22/27, di mana awal (21/2–17) dan akhir (22/18–27) sama-sama membahas kejahatan yang layak dihukum mati dan kebaikan kepada orang miskin.
+- Dalam skema simetris, bagian tengah biasanya menjadi posisi yang menonjol ketika jumlah satuannya ganjil; ketika genap, penonjolan justru jatuh pada satuan pertama dan terakhir, seperti dalam {{% bible val="Kel.21:2–22:27" link="exo:21,2" lang="ind" %}}, di mana awal ({{% bible val="21:2–17" link="exo:21,2-17" lang="ind" %}}) dan akhir ({{% bible val="22:18–27" link="exo:22,18-27" lang="ind" %}}) sama-sama membahas kejahatan yang layak dihukum mati dan kebaikan kepada orang miskin.
 
 Posisi yang menonjol itu dapat membawa beberapa jenis makna:
 
-- **Titik balik** — pusatnya menandai titik balik sesungguhnya dari kisah itu, seperti dengan Ehud (Hak.3/12–30), di mana titik baliknya terjadi ketika ia membunuh sang raja. Struktur keseluruhan Kitab Hakim-Hakim juga berputar pada Gideon.
+- **Titik balik** — pusatnya menandai titik balik sesungguhnya dari kisah itu, seperti dengan Ehud ({{% bible val="Hak.3:12–30" link="jdg:3,12-30" lang="ind" %}}), di mana titik baliknya terjadi ketika ia membunuh sang raja. Struktur keseluruhan Kitab Hakim-Hakim juga berputar pada Gideon.
 - **Puncak** — titik pusat yang sama juga bisa menjadi momen ketegangan tertinggi, seperti kembali terlihat dalam kisah Ehud.
-- **Bagian tengah** — pusatnya secara langsung mewakili puncaknya, seperti pernikahan di jantung Kidung Agung 3/6–5/1, atau Salomo, pembangun bait Allah, di pusat Kitab Tawarikh (2Taw.1–9).
-- **Jeda yang bermakna (atau interlude)** — sebuah jeda yang disengaja dalam alur tindakan atau argumen yang menyampaikan sebuah maksud yang sangat bermakna. 2Raj.2/1–8/6 menyela barisan dosa raja-raja yang nyaris tanpa henti dengan pelayanan Elisa, dan Rat.3/21–32 menyela sebuah ratapan tragis untuk merenungkan kasih Allah yang mendalam.
+- **Bagian tengah** — pusatnya secara langsung mewakili puncaknya, seperti pernikahan di jantung {{% bible val="Kidung Agung 3:6–5:1" link="sng:3,6" lang="ind" %}}, atau Salomo, pembangun bait Allah, di pusat Kitab Tawarikh ({{% bible val="2Taw.1–9" link="2ch:1" lang="ind" %}}).
+- **Jeda yang bermakna (atau interlude)** — sebuah jeda yang disengaja dalam alur tindakan atau argumen yang menyampaikan sebuah maksud yang sangat bermakna. {{% bible val="2Raj.2:1–8:6" link="2ki:2,1" lang="ind" %}} menyela barisan dosa raja-raja yang nyaris tanpa henti dengan pelayanan Elisa, dan {{% bible val="Rat.3:21–32" link="lam:3,21-32" lang="ind" %}} menyela sebuah ratapan tragis untuk merenungkan kasih Allah yang mendalam.
 
 ## Nilai Analisis Struktural
 
@@ -258,7 +258,7 @@ Mengenali struktur-struktur ini memberi banyak manfaat.
 <a name="r3v1"></a>
 Setiap alat di atas bekerja dalam Kitab Wahyu sendiri, dan penjelasan-penjelasan di situs ini berulang kali bersandar padanya:
 
-- **Rangkaian tujuh, dengan jeda sebelum akhir** (pola paralel, jeda yang bermakna). Meterai, sangkakala, dan cawan masing-masing disusun 4 + 3: empat yang pertama satu kelompok — empat penunggang kuda; empat sangkakala atas bumi, laut, sungai, dan langit — dan tiga yang terakhir berdiri sendiri. Sebelum meterai ketujuh dan sangkakala ketujuh, rangkaian itu berhenti untuk sebuah selingan (pasal 7; pasal 10–11). Sebelum cawan ketujuh tidak ada selingan: tidak ada lagi yang menunda kesudahan, dan cawan-cawan itu adalah panggilan terakhir untuk berbalik (16:9, 11, 15).[^bowls] → {{% int_link val="Yang 144.000" link="/expl/content/army/the-144000" %}}, {{% int_link val="Gulungan kitab kecil" link="/expl/content/scroll/the-little-scroll" %}}
+- **Rangkaian tujuh, dengan jeda sebelum akhir** (pola paralel, jeda yang bermakna). Meterai, sangkakala, dan cawan masing-masing disusun 4 + 3: empat yang pertama satu kelompok — empat penunggang kuda; empat sangkakala atas bumi, laut, sungai, dan langit — dan tiga yang terakhir berdiri sendiri. Sebelum meterai ketujuh dan sangkakala ketujuh, rangkaian itu berhenti untuk sebuah selingan (pasal 7; pasal 10–11). Sebelum cawan ketujuh tidak ada selingan: tidak ada lagi yang menunda kesudahan, dan cawan-cawan itu adalah panggilan terakhir untuk berbalik ({{% bible val="16:9, 11, 15" link="rev:16,9" lang="ind" %}}).[^bowls] → {{% int_link val="Yang 144.000" link="/expl/content/army/the-144000" %}}, {{% int_link val="Gulungan kitab kecil" link="/expl/content/scroll/the-little-scroll" %}}
 - **Pusat sebagai tempat yang berbobot** (simetri). Ketujuh surat disusun seperti sebuah cincin: dua jemaat yang terancam kehilangan jati dirinya berada di awal dan di akhir (Efesus, Laodikia), dua yang tanpa teguran di urutan kedua dan kedua dari akhir (Smirna, Filadelfia), dan tiga jemaat yang bercampur membentuk intinya. Tepat di pusatnya, di tengah surat kepada Tiatira, berdiri satu-satunya kalimat yang ditujukan kepada semua jemaat: "semua jemaat akan mengetahui bahwa Akulah yang menguji batin dan hati orang" (2:23).[^ring] → {{% int_link val="Ketujuh Surat kepada Gereja-gereja" link="/expl/content/letters/the-letters-to-the-seven-churches" %}}
 - **Kisah yang sama dari sudut lain** (perspektif kedua). Kitab Wahyu sering menceritakan ulang alih-alih melanjutkan: meterai, sangkakala, dan cawan melintasi wilayah yang sama dengan intensitas yang meningkat, dan pasal 20 menceritakan lagi kekalahan Iblis yang sudah diceritakan dalam pasal 12. Apakah penglihatan-penglihatan itu berurutan atau berulang adalah salah satu pertanyaan tertua tentang kitab ini (Beale, hlm. 116–124), dan sebagian besar perdebatan tentang kerajaan seribu tahun bergantung padanya. → {{% int_link val="Kerajaan seribu tahun" link="/expl/content/1000y/the-thousand-year-kingdom" %}}
 - **Kontras.** Pelacur Babel dan pengantin perempuan, Yerusalem Baru, diperkenalkan dengan kata-kata yang hampir sama — {{% bible val="seorang dari ketujuh malaikat yang membawa ketujuh cawan itu datang dan berkata kepadaku: Mari ke sini, akan kutunjukkan kepadamu …" link="rev:17,1" lang="ind" %}} ({{% bible val="bandingkan 21:9" link="rev:21,9" lang="ind" %}}) — supaya pembaca menjajarkan kedua kota itu. → {{% int_link val="Siapakah pelacur Babel?" link="/expl/content/harlot/who-is-the-harlot-babylon-part-1" %}}, {{% int_link val="Yerusalem Baru" link="/expl/content/paradise/the-new-jerusalem" %}}

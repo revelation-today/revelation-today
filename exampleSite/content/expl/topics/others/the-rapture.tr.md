@@ -114,7 +114,7 @@ Bu pasajın göğe alınmayla ne ilgisi var? Varsayım, bu "odaların", imanlıl
 
 Ama "odalar" olarak çevrilen kelimeye yakından bakın: [mone](https://biblehub.com/greek/3438.htm). Bu kelime {{% bible val="Yuhanna'da yalnızca bir kez daha geçer — aynı bölümde — ve orada Tanrı'nın içimizdeki konutuna işaret eder" link="jhn:14,23" lang="tr" %}}. Bu paralellik bambaşka bir tablo çizer: inananların Mesih'te bir konutu, Mesih'in de inananlarda bir konutu vardır. Bu şekilde okunduğunda, buradaki "yer" harfi harfine bir odaya sahip olmaktan çok, bir aileye ait olmaya yakın bir anlam taşır — sıkıntıyı bekleyecek bir bekleme odası değil, Tanrı'nın ailesinin bir parçası olmakla ilgilidir.
 
-## Vahiy 4:1 göğe alınma mı?
+## {{% bible val="Vahiy 4:1" link="rev:4,1" lang="tr" %}} göğe alınma mı?
 
 <a name="a0e7"></a>
 Vahiy'de "göğe alınma" gibi işleyen bir an varsa, bu, henüz gelecekte olan bir noktada değil, 4. bölümün başında yer alır.

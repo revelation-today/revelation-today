@@ -59,8 +59,8 @@ Buna rağmen Vahiy, bir mektubun temel akışını korur:
 
 - kiliseye İsa'nın kim olduğunu bildirir (1. bölüm),
 - kiliselerin temel sorunlarını ve bunların sonuçlarını ele alır (2–3. bölümler),
-- bunlarla nasıl başa çıkılacağına dair teolojik bir açıklama sunar (4:1–22:5),
-- ve bazı kapanış sözleriyle sona erer (22:6–21).
+- bunlarla nasıl başa çıkılacağına dair teolojik bir açıklama sunar ({{% bible val="4:1–22:5" link="rev:4,1" lang="tr" %}}),
+- ve bazı kapanış sözleriyle sona erer ({{% bible val="22:6–21" link="rev:22,6-21" lang="tr" %}}).
 
 Bunu gördüğümüzde, 4–21. bölümlerdeki malzemenin bu kiliseler için — kendi zamanlarında karşılaştıkları belirli sorunlar için — bir rehber işlevi görmesini beklemek mantıklı olur. Bu, bugün aynı sorunlarla karşı karşıya olduğumuz ya da bu yanıtların hayatımıza hâlâ uygulanamayacağı anlamına gelmez; sadece mektubun önce onlar düşünülerek yazıldığı anlamına gelir.
 

@@ -60,4 +60,4 @@ Penghakiman atasnya sepadan persis dengan perbuatannya:
 
 - Ia menganggap dirinya tak tersentuh, sehingga ia jatuh dalam waktu satu jam saja — waktu yang paling singkat yang bisa digambarkan oleh teks ini.
 - Ia akan dihakimi sebagai balasan atas apa yang {{% bible val="ia timpakan kepada orang lain" link="rev:18,22-24" lang="ind" %}}: Wahyu 18:6 mengatakan bahwa ia akan {{% bible val="dibalas dua kali lipat atas perbuatannya" link="rev:18,6" lang="ind" %}} — ditafsirkan oleh para penafsir sebagai penghakiman yang diperberat atau sebagai balasan yang penuh dan tepat; bagaimanapun juga, hukuman itu sepadan dengan kejahatannya.
-- Ia akan dilalap api — penghakiman yang sama seperti yang ditetapkan bagi anak perempuan seorang imam yang berbalik menjadi pelacur (Imamat 21:9) — sebuah peringatan tegas untuk menjauh dari Babel dan melawan daya tariknya.
+- Ia akan dilalap api — penghakiman yang sama seperti yang ditetapkan bagi anak perempuan seorang imam yang berbalik menjadi pelacur ({{% bible val="Imamat 21:9" link="lev:21,9" lang="ind" %}}) — sebuah peringatan tegas untuk menjauh dari Babel dan melawan daya tariknya.

@@ -62,7 +62,7 @@ So how do we resolve that? The prophets, when they speak of the Day of the Lord,
 
 Daniel's own context doesn't tell us exactly when this will happen, but the descriptions in chapters 2 and 7 {{% int_link val="show that it must be the Day of the Lord" link="/expl/background/israel/the-day-of-the-lord" %}}.
 
-It's worth noting that in the Old Testament, "son of man" is mostly the way God addresses the prophet Ezekiel (and once Daniel himself, 8:17) — there the Hebrew is "[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)," "son of Adam," while Daniel 7:13 has the Aramaic "[bar enash](https://biblehub.com/interlinear/daniel/7-13.htm)," "son of man," with the small word *ke* in front, "like": "one like a son of man." The two titles aren't quite the same.
+It's worth noting that in the Old Testament, "son of man" is mostly the way God addresses the prophet Ezekiel (and once Daniel himself, {{% bible val="8:17" link="dan:8,17" lang="en" %}}) — there the Hebrew is "[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)," "son of Adam," while {{% bible val="Daniel 7:13" link="dan:7,13" lang="en" %}} has the Aramaic "[bar enash](https://biblehub.com/interlinear/daniel/7-13.htm)," "son of man," with the small word *ke* in front, "like": "one like a son of man." The two titles aren't quite the same.
 
 ## The solution
 

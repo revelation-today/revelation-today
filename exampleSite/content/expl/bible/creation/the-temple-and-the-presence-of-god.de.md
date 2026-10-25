@@ -39,7 +39,7 @@ Gott sehnte sich immer noch nach Gemeinschaft mit den Menschen. Als er also Isra
 
 Der Tempel war mit Bildsprache aus dem Garten Eden überzogen, was einer einfachen Logik folgte: Da der Mensch nicht mehr im Garten Gemeinschaft mit Gott haben konnte, würde Gott stattdessen im Tempel Gemeinschaft mit dem Menschen haben. Und der Tempel war von Anfang an dazu bestimmt, auch Nichtisraeliten teilhaben zu lassen: Salomo bittet, dass Gott den Fremden erhört, der zu diesem Haus hin betet ({{% bible val="1. Könige 8,41–43" link="1ki:8,41-43" lang="de" %}}), und Jesaja nennt es {{% bible val="ein Haus des Gebets für alle Völker" link="isa:56,7" lang="de" %}}.
 
-Der innerste Teil des Tempels war das Allerheiligste, das nur der Hohepriester betreten durfte, und das auch nur einmal im Jahr, am Versöhnungstag. Hier wohnte Gottes Gegenwart; schon in der Stiftshütte hatte Gott von der Lade her mit Mose gesprochen (2. Mose 25,22).
+Der innerste Teil des Tempels war das Allerheiligste, das nur der Hohepriester betreten durfte, und das auch nur einmal im Jahr, am Versöhnungstag. Hier wohnte Gottes Gegenwart; schon in der Stiftshütte hatte Gott von der Lade her mit Mose gesprochen ({{% bible val="2. Mose 25,22" link="exo:25,22" lang="de" %}}).
 
 ## Gott hinterlässt die Verheißung, dass Stadt und Garten eins werden
 

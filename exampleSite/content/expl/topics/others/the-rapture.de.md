@@ -114,7 +114,7 @@ Wie hängt diese Stelle mit der Entrückung zusammen? Die Annahme lautet, diese 
 
 Doch man betrachte genau das Wort, das mit „Wohnungen” übersetzt wird: [mone](https://biblehub.com/greek/3438.htm). Es wird {{% bible val="im Johannesevangelium nur noch ein einziges Mal verwendet — in demselben Kapitel —, wo es sich auf Gottes Wohnen in uns bezieht" link="jhn:14,23" lang="de" %}}. Diese Parallele zeichnet ein anderes Bild: Gläubige haben eine Wohnstätte in Christus, und Christus hat eine Wohnstätte in den Gläubigen. So gelesen, bedeutet „Stätte” hier eher Zugehörigkeit zu einem Haushalt als das Bewohnen eines buchstäblichen Zimmers — es geht darum, Teil von Gottes Familie zu sein, nicht um ein Wartezimmer für die Trübsal.
 
-## Ist Offenbarung 4,1 die Entrückung?
+## Ist {{% bible val="Offenbarung 4,1" link="rev:4,1" lang="de" %}} die Entrückung?
 
 <a name="ab7c"></a>
 Wenn es einen Moment in der Offenbarung gibt, der wie eine „Entrückung” funktioniert, dann steht er am Anfang von Kapitel 4, nicht an irgendeinem noch zukünftigen Punkt.

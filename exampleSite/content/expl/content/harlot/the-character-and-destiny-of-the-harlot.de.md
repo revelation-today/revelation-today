@@ -60,4 +60,4 @@ Ihr Gericht entspricht ihren Taten Punkt für Punkt:
 
 - Sie hielt sich für unantastbar, also fällt sie innerhalb einer einzigen Stunde — eine so kurze Zeit, wie der Text sie sich nur vorstellen kann.
 - Sie wird für das gerichtet, was sie {{% bible val="anderen zugefügt hat" link="rev:18,22-24" lang="de" %}}: Offenbarung 18,6 sagt, dass ihr {{% bible val="doppelt für ihre Taten vergolten" link="rev:18,6" lang="de" %}} wird — von Auslegern entweder als verschärftes Gericht oder als vollständige, genaue Vergeltung verstanden; so oder so passt die Strafe zur Tat.
-- Sie wird durch Feuer verzehrt werden — dasselbe Gericht, das für eine Priestertochter vorgesehen war, die sich der Prostitution zuwandte (Levitikus 21,9) — eine eindringliche Warnung, sich von Babel fernzuhalten und ihrem Sog zu widerstehen.
+- Sie wird durch Feuer verzehrt werden — dasselbe Gericht, das für eine Priestertochter vorgesehen war, die sich der Prostitution zuwandte ({{% bible val="Levitikus 21,9" link="lev:21,9" lang="de" %}}) — eine eindringliche Warnung, sich von Babel fernzuhalten und ihrem Sog zu widerstehen.

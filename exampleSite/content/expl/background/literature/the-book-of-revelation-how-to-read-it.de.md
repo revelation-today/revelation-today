@@ -59,8 +59,8 @@ Dennoch bewahrt die Offenbarung den grundlegenden Aufbau eines Briefes:
 
 - Sie macht der Gemeinde bewusst, wer Jesus ist (Kapitel 1),
 - sie spricht die grundlegenden Probleme der Gemeinden und deren Konsequenzen an (Kapitel 2–3),
-- sie gibt eine theologische Erklärung, wie damit umzugehen ist (4,1–22,5),
-- und sie schließt mit einigen abschließenden Worten (22,6–21).
+- sie gibt eine theologische Erklärung, wie damit umzugehen ist ({{% bible val="4,1–22,5" link="rev:4,1" lang="de" %}}),
+- und sie schließt mit einigen abschließenden Worten ({{% bible val="22,6–21" link="rev:22,6-21" lang="de" %}}).
 
 Wenn wir das erkennen, ergibt es Sinn, dass der Stoff in den Kapiteln 4–21 als Orientierung für diese Gemeinden dienen sollte — für die konkreten Probleme, mit denen sie zu ihrer Zeit konfrontiert waren. Das bedeutet nicht, dass wir heute mit identischen Problemen zu tun haben oder dass diese Antworten nicht auch auf unser Leben angewendet werden können; es bedeutet lediglich, dass der Brief zuerst mit Blick auf sie geschrieben wurde.
 

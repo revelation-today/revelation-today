@@ -62,7 +62,7 @@ Jadi bagaimana kita menyelesaikan hal ini? Para nabi, ketika berbicara tentang H
 
 Konteks Daniel sendiri tidak memberi tahu kita secara pasti kapan hal ini akan terjadi, tetapi penggambaran dalam pasal 2 dan 7 {{% int_link val="menunjukkan bahwa ini pastilah Hari Tuhan" link="/expl/background/israel/the-day-of-the-lord" %}}.
 
-Perlu dicatat bahwa dalam Perjanjian Lama, "anak manusia" terutama adalah sapaan Allah kepada nabi Yehezkiel (dan satu kali kepada Daniel sendiri, 8:17) — di sana bahasa Ibraninya adalah "[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)," "anak Adam," sementara Daniel 7:13 memakai bahasa Aram "[bar enash](https://biblehub.com/interlinear/daniel/7-13.htm)," "anak manusia," dengan kata kecil *ke* di depannya, "seperti": "seorang seperti anak manusia." Kedua gelar ini tidak sepenuhnya sama.
+Perlu dicatat bahwa dalam Perjanjian Lama, "anak manusia" terutama adalah sapaan Allah kepada nabi Yehezkiel (dan satu kali kepada Daniel sendiri, {{% bible val="8:17" link="dan:8,17" lang="ind" %}}) — di sana bahasa Ibraninya adalah "[ben adam](https://biblehub.com/interlinear/ezekiel/2-1.htm)," "anak Adam," sementara {{% bible val="Daniel 7:13" link="dan:7,13" lang="ind" %}} memakai bahasa Aram "[bar enash](https://biblehub.com/interlinear/daniel/7-13.htm)," "anak manusia," dengan kata kecil *ke* di depannya, "seperti": "seorang seperti anak manusia." Kedua gelar ini tidak sepenuhnya sama.
 
 ## Solusinya
 

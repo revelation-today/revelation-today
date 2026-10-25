@@ -92,7 +92,7 @@ That said, the first beast's appearance doesn't map onto any single one of the {
 ## The twofold attack
 
 <a name="f4be"></a>
-This passage follows Satan's failed attempt to destroy Jesus and Israel. Furious at that failure, he now gathers two beasts to attack the rest of the woman's offspring — the Church (12:17).
+This passage follows Satan's failed attempt to destroy Jesus and Israel. Furious at that failure, he now gathers two beasts to attack the rest of the woman's offspring — the Church ({{% bible val="12:17" link="rev:12,17" lang="en" %}}).
 
 Let's take a closer look at these two beasts. They act together and support each other, and the text describes them in a deliberately parallel pattern, laid out below.
 
@@ -115,7 +115,7 @@ There's another interesting chiasmus hidden in that last row. "Here is ... patie
 Satan attacks in two ways:
 
 - By force and intimidation ({{% bible val="conquering the saints" link="rev:13,7" lang="en" %}}, {{% bible val="killing any resistance" link="rev:13,10" lang="en" %}} or {{% bible val="people who don’t want to follow" link="rev:13,15" lang="en" %}}).
-- By deception, which is a little harder to understand, but I will explain. It has two faces. The first beast offers power and control, and backs the offer with violence: "Who is like the beast, and who can fight against it?" (13:4). The second offers wealth and security: it works through signs and wonders, and through a market that is open only to those who take its mark (13:13–17).
+- By deception, which is a little harder to understand, but I will explain. It has two faces. The first beast offers power and control, and backs the offer with violence: "Who is like the beast, and who can fight against it?" ({{% bible val="13:4" link="rev:13,4" lang="en" %}}). The second offers wealth and security: it works through signs and wonders, and through a market that is open only to those who take its mark ({{% bible val="13:13–17" link="rev:13,13-17" lang="en" %}}).
 
 {{% study %}}
 

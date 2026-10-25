@@ -36,7 +36,7 @@ Tanrı yine de insanlarla ilişki içinde olmayı özlüyordu. Bu yüzden İsrai
 
 Tapınak, Aden bahçesinden ödünç alınan imgelerle kaplıydı; bu da basit bir mantığı yansıtıyordu: insan artık bahçede Tanrı'yla paydaşlık kuramadığına göre, Tanrı bunun yerine tapınakta insanla paydaşlık kuracaktı. Ve tapınak, en baştan itibaren İsrailli olmayanların da katılımına açık olacak şekilde tasarlanmıştı: Süleyman, Tanrı'nın bu eve doğru dua eden yabancıyı da işitmesi için dua eder ({{% bible val="1 Krallar 8:41–43" link="1ki:8,41-43" lang="tr" %}}), Yeşaya ise ona {{% bible val="bütün halklar için bir dua evi" link="isa:56,7" lang="tr" %}} der.
 
-Tapınağın en iç bölümü, yalnızca Başkâhin'in ve yılda yalnızca bir kez, Kefaret Günü'nde girebildiği En Kutsal Yer'di. Tanrı'nın varlığının bulunduğu yer burasıydı; daha önce, Buluşma Çadırı'nda Tanrı Musa'yla sandığın üzerinden konuşmuştu (Çık 25:22).
+Tapınağın en iç bölümü, yalnızca Başkâhin'in ve yılda yalnızca bir kez, Kefaret Günü'nde girebildiği En Kutsal Yer'di. Tanrı'nın varlığının bulunduğu yer burasıydı; daha önce, Buluşma Çadırı'nda Tanrı Musa'yla sandığın üzerinden konuşmuştu ({{% bible val="Çık 25:22" link="exo:25,22" lang="tr" %}}).
 
 Buna rağmen Tanrı sonunda o meskeni terk etti — ama bir gün kent ve bahçe imgelerini yeniden birleştireceğine dair bir vaatle. İsrail antlaşmayı bozduğunda {{% bible val="O'nun varlığı tapınağı terk etti" link="ezk:10,18-19" lang="tr" %}}, ama aynı kitabın ilerleyen bölümlerinde {{% bible val="Tanrı'nın geri dönüşü, yeniden Doğu Kapısı'ndan girerek vaat edilir" link="ezk:43,1-2" lang="tr" %}}.
 

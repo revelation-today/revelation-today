@@ -59,8 +59,8 @@ Despite that, Revelation still maintains the basic flow of a letter:
 
 - it makes the church aware of who Jesus is (chapter 1),
 - it addresses the churches' basic issues and their implications (chapters 2–3),
-- it gives a theological explanation of how to deal with them (4:1–22:5),
-- and it closes with some concluding words (22:6–21).
+- it gives a theological explanation of how to deal with them ({{% bible val="4:1–22:5" link="rev:4,1" lang="en" %}}),
+- and it closes with some concluding words ({{% bible val="22:6–21" link="rev:22,6-21" lang="en" %}}).
 
 Once we see that, it makes sense to expect the material in chapters 4–21 to function as guidance for these churches — for the specific problems they were facing in their own time. That doesn't mean we face identical problems today, or that these answers can't still be applied to our lives; it simply means the letter was written with them in mind first.
 

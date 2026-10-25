@@ -44,7 +44,7 @@ Nach dieser Lesart hätte das Buch für die Menschen, für die es ursprünglich 
 <a name="423b"></a>
 Die Theorie stellt oft Behauptungen auf, ohne sie zu erklären, oder fährt ein Arsenal von Bibelversen auf, die aus ihrem Kontext gelöst sind.
 
-Ein gutes Beispiel ist die {{% bible val="2000-jährige Verzögerung in der Prophezeiung der 70 Wochen" link="dan:9,26-27" lang="de" %}}, ein Eckpfeiler des Systems. Daniel 9,26–27 erwähnt nirgends eine Lücke zwischen der 69. und der 70. Woche. Die siebzig Wochen sind als ein einziger Zeitraum bestimmt ({{% bible val="9,24" link="dan:9,24" lang="de" %}}), und die Verzögerung wird aus der Lesart der Verse erschlossen.
+Ein gutes Beispiel ist die {{% bible val="2000-jährige Verzögerung in der Prophezeiung der 70 Wochen" link="dan:9,26-27" lang="de" %}}, ein Eckpfeiler des Systems. {{% bible val="Daniel 9,26–27" link="dan:9,26-27" lang="de" %}} erwähnt nirgends eine Lücke zwischen der 69. und der 70. Woche. Die siebzig Wochen sind als ein einziger Zeitraum bestimmt ({{% bible val="9,24" link="dan:9,24" lang="de" %}}), und die Verzögerung wird aus der Lesart der Verse erschlossen.
 
 ## Immer wieder die Zukunft vorhersagen
 
