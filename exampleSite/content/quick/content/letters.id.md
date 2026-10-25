@@ -15,14 +15,14 @@ kids: /kids/elementary/03-the-seven-letters
 
 {{% bible val="Pasal 2" link="rev:2" lang="id" %}} dan {{% bible val="3" link="rev:3" lang="id" %}}.
 
-Ketujuh jemaat ini adalah jemaat yang sungguh-sungguh ada di tujuh kota yang sungguh-sungguh ada di provinsi Romawi Asia, di wilayah yang sekarang menjadi Turki bagian barat. Masing-masing diukur dengan penglihatan pasal 1 - dan hasilnya beragam. Hanya dua jemaat yang menerima pujian semata: Smirna dan Filadelfia, keduanya menderita di bawah penganiayaan atau kemiskinan. Dua jemaat sama sekali tidak menerima pujian: Efesus dan Laodikia. Sisanya berada di antara keduanya.
+Ketujuh jemaat ini adalah jemaat yang sungguh-sungguh ada di tujuh kota yang sungguh-sungguh ada di provinsi Romawi Asia, di wilayah yang sekarang menjadi Turki bagian barat. Masing-masing diukur dengan penglihatan pasal 1 - dan hasilnya beragam. Hanya dua jemaat yang menerima pujian semata: Smirna dan Filadelfia, keduanya menderita di bawah penganiayaan atau kemiskinan. Hanya Laodikia yang sama sekali tidak menerima pujian, dan Efesus, yang dipuji karena pekerjaan dan ajarannya, diperingatkan bahwa kaki dian-nya akan disingkirkan. Sisanya berada di antara keduanya.
 
 Ketujuh jemaat itu disusun dalam pola yang disengaja dan simetris:
 
 - **Efesus** - kegagalan total: kehilangan kasihnya yang semula
   - **Smirna** - dipuji tanpa catatan: setia dalam penganiayaan
     - **Pergamus** - masalahnya bermula: ajaran sesat dibiarkan
-      - **Tiatira** - titik pusat, sekaligus peringatannya: masalahnya adalah kepemimpinan itu sendiri
+      - **Tiatira** - titik pusat, sekaligus peringatannya: ajaran sesat telah mendapat tempat di dalam jemaat itu sendiri
     - **Sardis** - punya nama sebagai jemaat yang hidup, tetapi sebenarnya mati
   - **Filadelfia** - dipuji tanpa catatan: setia dalam kemiskinan dan kelemahan
 - **Laodikia** - kegagalan total: suam-suam kuku dan puas diri
@@ -49,7 +49,7 @@ Kepemimpinan Pergamus membiarkan ajaran yang berkompromi (menggemakan cara Bilea
 
 <h3 id="thyatira">Tiatira</h3>
 
-Tiatira, meskipun mungkin jemaat yang terkecil, menerima surat yang terpanjang karena kepemimpinannya sendiri ("Izebel") secara aktif menuntun orang ke dalam penyembahan berhala.
+Tiatira menerima surat yang terpanjang dari ketujuhnya karena seorang perempuan yang oleh surat itu disebut "Izebel", mungkin salah seorang pengajar yang diakui jemaat itu sendiri, menuntun orang ke dalam penyembahan berhala - dan jemaat membiarkannya.
 
 **Janjinya:** kuasa atas bangsa-bangsa, dan bintang timur - bagian dalam pemerintahan Kristus, dan fajar pengharapan baru, yaitu Yesus sendiri.
 
@@ -73,8 +73,8 @@ Kekayaan Laodikia telah membuatnya buta terhadap kemiskinannya sendiri - "suam-s
 
 ## Gambaran penting
 
-- **Kaum Nikolaus** - kelompok di dalam jemaat yang mengajarkan bahwa ikut serta dalam pesta berhala tidak apa-apa — kegagalan yang sama yang dahulu ditimbulkan Bileam atas Israel.
-- **Jemaah Iblis** - bukan bangsa Yahudi, melainkan mereka di Smirna dan Filadelfia yang melaporkan orang percaya karena menolak menyembah kaisar.
+- **Kaum Nikolaus** - kemungkinan kelompok di dalam jemaat yang menganggap ikut serta dalam pesta berhala tidak apa-apa — kegagalan seperti Bileam, yang dahulu menyesatkan Israel.
+- **Jemaah Iblis** - bukan bangsa Yahudi secara keseluruhan, melainkan lawan-lawan setempat di Smirna dan Filadelfia yang memfitnah jemaat dan, di Smirna, kemungkinan membuat orang percaya ditangkap.
 
 [Baca penjelasan yang lebih lengkap dan setiap surat satu per satu →]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})
 

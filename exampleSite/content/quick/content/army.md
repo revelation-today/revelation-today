@@ -26,7 +26,7 @@ But what John *sees* when he looks is entirely different: an uncountable multitu
 
 ## What is the Great Tribulation?
 
-The Great Tribulation isn't only a future event still to come - Revelation ties it to something that already began: Jesus' death on the cross and Satan's expulsion from heaven (a scene described later, in chapter 12). Before that, God's people mainly suffered as the *consequence* of their own sin. Since then, the book presents suffering that has nothing to do with wrongdoing as part of following Jesus - the pattern the martyrs under the altar were already caught up in.
+The Great Tribulation isn't only a future event still to come - Revelation ties it to something that already began: Jesus' death on the cross and Satan's expulsion from heaven (a scene described later, in chapter 12). All who follow Jesus share in it, and it grows more severe toward the end of history - the pattern the martyrs under the altar were already caught up in.
 
 ![](/images/Drangsal_en.jpg)
 

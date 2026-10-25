@@ -35,7 +35,7 @@ Kimse layık bulunmaz — ta ki Yuhanna'ya Yahuda Aslanı'nın galip geldiği s�
 
 ## Önemli imgeler
 
-- **Yirmi dört ihtiyar** - gökte resmedilen bütün kurtulmuş halk — on iki oymak ve on iki elçi, iki antlaşma birlikte; sayı, Davut’un atadığı yirmi dört kâhin bölüğünü anımsatır.
+- **Yirmi dört ihtiyar** - bütün Tanrı halkını temsil eden göksel varlıklar, muhtemelen melekler — on iki oymak ve on iki elçi, iki antlaşma birlikte; sayı, Davut’un atadığı yirmi dört kâhin bölüğünü anımsatır.
 - **Dört yaratık** - tahtın önünde temsil edilen bütün yaratılış; nöbet tutar ve tapınmaya öncülük eder.
 - **Yedi ruh** - Tanrı’nın Ruhu’nun doluluğu, bütün dünyaya gönderilmiş.
 

@@ -32,6 +32,6 @@ That wait is the tension the whole book lives in. The longer the end is delayed,
 
 The sixth seal answers "how long" with a picture rather than a date: the sun goes black, the moon turns the colour of blood, the stars fall, and everyone from kings to slaves hides in the rocks from "the wrath of the Lamb".
 
-That phrase is deliberately the wrong way round - a lamb is the least frightening animal there is - and the text never says what the people hiding are actually afraid of. Their own consciences, or power as such, or a lamb they assume will behave the way the conquering rider did: the chapter leaves the question open.
+That phrase is deliberately the wrong way round - a lamb is the least frightening animal there is - and the scene shows who is afraid: people who know what they have done, hiding the way Adam and Eve once hid. The wrath itself is real - heaven announces it, and the Lamb carries it out at the end ({{% bible val="19:15" link="rev:19,15" lang="en" %}}) - but it is not human warfare: his only weapon is the sword from his mouth.
 
 [Read the fuller explanation →]({{< relref "expl/content/seals/the-wrath-of-the-lamb" >}})

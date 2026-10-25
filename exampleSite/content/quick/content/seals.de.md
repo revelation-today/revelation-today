@@ -32,6 +32,6 @@ Dieses Warten ist die Spannung, in der das ganze Buch lebt. Je länger sich das 
 
 Das sechste Siegel beantwortet das "Wie lange" mit einem Bild statt mit einem Datum: Die Sonne wird schwarz, der Mond wird blutrot, die Sterne fallen, und alle, von Königen bis zu Sklaven, verstecken sich in den Felsen vor dem "Zorn des Lammes".
 
-Diese Wendung ist absichtlich verkehrt herum - ein Lamm ist das am wenigsten furchterregende Tier, das es gibt - und der Text sagt nie, wovor die Versteckten eigentlich Angst haben. Vor ihrem eigenen Gewissen, vor Macht an sich oder vor einem Lamm, von dem sie annehmen, es werde sich so verhalten wie der erobernde Reiter: Das Kapitel lässt die Frage offen.
+Diese Wendung ist absichtlich verkehrt herum - ein Lamm ist das am wenigsten furchterregende Tier, das es gibt - und die Szene zeigt, wer sich fürchtet: Menschen, die wissen, was sie getan haben, und sich verstecken, wie sich einst Adam und Eva versteckten. Der Zorn selbst ist real - der Himmel kündigt ihn an, und das Lamm führt ihn am Ende aus ({{% bible val="19,15" link="rev:19,15" lang="de" %}}) -, aber er ist kein menschlicher Krieg: Seine einzige Waffe ist das Schwert aus seinem Mund.
 
 [Die ausführlichere Erklärung lesen →]({{< relref "expl/content/seals/the-wrath-of-the-lamb" >}})

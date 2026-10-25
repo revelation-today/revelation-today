@@ -26,7 +26,7 @@ Doch was Johannes *sieht*, als er hinschaut, ist etwas ganz anderes: eine unzäh
 
 ## Was ist die Große Trübsal?
 
-Die Große Trübsal ist nicht nur ein zukünftiges Ereignis, das noch aussteht - die Offenbarung verbindet sie mit etwas, das bereits begonnen hat: dem Tod Jesu am Kreuz und der Vertreibung Satans aus dem Himmel (eine Szene, die später in Kapitel 12 beschrieben wird). Davor litt Gottes Volk vor allem als *Folge* der eigenen Sünde. Seitdem stellt das Buch Leiden, das nichts mit eigener Schuld zu tun hat, als Teil der Nachfolge Jesu dar - genau das Muster, in dem die Märtyrer unter dem Altar schon standen.
+Die Große Trübsal ist nicht nur ein zukünftiges Ereignis, das noch aussteht - die Offenbarung verbindet sie mit etwas, das bereits begonnen hat: dem Tod Jesu am Kreuz und der Vertreibung Satans aus dem Himmel (eine Szene, die später in Kapitel 12 beschrieben wird). Alle, die Jesus folgen, haben Anteil an ihr, und sie verschärft sich zum Ende der Geschichte hin - genau das Muster, in dem die Märtyrer unter dem Altar schon standen.
 
 ![](/images/Drangsal_de.jpg)
 

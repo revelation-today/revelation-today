@@ -35,7 +35,7 @@ No one is found worthy - until John is told the Lion of Judah has triumphed. But
 
 ## Key images
 
-- **The twenty-four elders** - the whole redeemed people pictured in heaven — twelve tribes and twelve apostles, both testaments together; the number recalls the twenty-four orders of priests David appointed.
+- **The twenty-four elders** - heavenly figures, probably angels, who stand for the whole people of God — twelve tribes and twelve apostles, both testaments together; the number recalls the twenty-four orders of priests David appointed.
 - **The four living creatures** - all of creation represented before the throne, keeping watch and leading its worship.
 - **The seven spirits** - the fullness of God's Spirit, sent out into the whole world.
 

@@ -22,6 +22,6 @@ All das greift Tempel-Bilder auf. Aber es gibt hier ausdrücklich "keinen Tempel
 
 Dieses System der Distanz ist vorbei: Das Neue Jerusalem hat die Form eines perfekten Würfels ({{% bible val="Offenbarung 21,16" link="rev:21,16" lang="de" %}}) - exakt die Form des Allerheiligsten selbst. Was einst einer einzigen Person an einem einzigen Tag im Jahr vorbehalten war, steht jetzt jedem offen, der zu Gott gehört.
 
-Direkt vor seinen Toren aber liegt das, was man gewöhnlich Hölle nennt ({{% bible val="Offenbarung 22,14-15" link="rev:22,14-15" lang="de" %}}) - und in diesem Kontrast steckt das zentrale Anliegen des ganzen Buches auf den Punkt: Beziehung zu Gott, entweder ganz angenommen oder ganz verweigert. So gesehen ist die Hölle keine von außen angefügte Strafe - sie ist schlicht das, was übrig bleibt, wenn die Quelle des Lebens selbst fehlt, für immer.
+Direkt vor seinen Toren aber liegt das, was man gewöhnlich Hölle nennt ({{% bible val="Offenbarung 22,14-15" link="rev:22,14-15" lang="de" %}}) - und in diesem Kontrast steckt das zentrale Anliegen des ganzen Buches auf den Punkt: Beziehung zu Gott, entweder ganz angenommen oder ganz verweigert. So gesehen ist die Hölle keine von außen angefügte Strafe - sie ist schlicht das, was übrig bleibt, wenn die Quelle des Lebens selbst fehlt. Christen sind uneins, ob das in ewigem Leiden oder in endgültiger Vernichtung endet, aber alle sind sich einig, dass die Wurzel ihres Schreckens der Verlust Gottes ist.
 
 [Die ausführlichere Erklärung lesen →]({{< relref "expl/content/paradise/heaven-and-hell" >}})

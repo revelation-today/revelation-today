@@ -12,7 +12,7 @@ kids: /kids/elementary/12-the-two-harvests
 
 {{% bible val="Kapitel 14" link="rev:14" lang="de" %}}.
 
-Nach der totalen, furchterregenden Machtübernahme des Tieres in Kapitel 13 ist jetzt eines klar: Die Sieger sind die 144.000, die fest auf dem Berg Zion stehen, und ihr entscheidendes Merkmal ist die Treue zu Gott allein. Sie stehen am gläsernen Meer und singen ein Siegeslied, das nur sie lernen können - eine Erinnerung daran, dass Gott über all dem souverän bleibt.
+Nach der totalen, furchterregenden Machtübernahme des Tieres in Kapitel 13 ist jetzt eines klar: Die Sieger sind die 144.000, die fest auf dem Berg Zion stehen, und ihr entscheidendes Merkmal ist die Treue zu Gott allein. Sie singen ein neues Lied, das nur sie lernen können ({{% bible val="14,3" link="rev:14,3" lang="de" %}}) - eine Erinnerung daran, dass Gott über all dem souverän bleibt.
 
 Bevor das Gericht über die Anhänger des Tieres hereinbricht, verkündet zuerst ein Engel die gute Nachricht jeder Nation, jedem Stamm, jeder Sprache und jedem Volk auf der Erde - ein letztes öffentliches Angebot an alle, bevor irgendetwas entschieden ist. Zwei weitere Engel sprechen dann das Gericht über Babel aus und über jeden, der das Tier anbetet.
 

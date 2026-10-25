@@ -15,14 +15,14 @@ kids: /kids/elementary/03-the-seven-letters
 
 {{% bible val="Chapter 2" link="rev:2" lang="en" %}} and {{% bible val="3" link="rev:3" lang="en" %}}.
 
-These are seven real congregations in seven real cities of the Roman province of Asia, in what is now western Turkey. Each is measured against the vision of chapter 1 - and the results are mixed. Only two churches receive nothing but praise: Smyrna and Philadelphia, both suffering under persecution or poverty. Two receive no praise at all: Ephesus and Laodicea. The rest fall somewhere in between.
+These are seven real congregations in seven real cities of the Roman province of Asia, in what is now western Turkey. Each is measured against the vision of chapter 1 - and the results are mixed. Only two churches receive nothing but praise: Smyrna and Philadelphia, both suffering under persecution or poverty. Only Laodicea receives no praise at all, and Ephesus, praised for its work and its doctrine, is warned that its lampstand will be removed. The rest fall somewhere in between.
 
 The seven are arranged in a deliberate, symmetric pattern:
 
 - **Ephesus** - total failure: lost its first love
   - **Smyrna** - praised without reservation: faithful in persecution
     - **Pergamon** - the problem starts: false teaching tolerated
-      - **Thyatira** - the center, and the warning: the problem is the leadership itself
+      - **Thyatira** - the center, and the warning: false teaching has found a place inside the church itself
     - **Sardis** - a reputation for life, but actually dead
   - **Philadelphia** - praised without reservation: faithful in poverty and weakness
 - **Laodicea** - total failure: lukewarm and self-satisfied
@@ -49,7 +49,7 @@ Pergamon's leadership let compromising teaching (echoing Balaam's seduction of I
 
 <h3 id="thyatira">Thyatira</h3>
 
-Thyatira, though probably the smallest church, gets the longest letter because its own leadership ("Jezebel") is actively leading people into idolatry.
+Thyatira gets the longest of the seven letters because a woman the letter calls "Jezebel", perhaps one of the church's own recognised teachers, is leading people into idolatry - and the church tolerates her.
 
 **The promise:** authority over the nations, and the morning star - a share in Christ's rule, and the dawn of a new hope, which is Jesus himself.
 
@@ -73,8 +73,8 @@ Laodicea's wealth has made it blind to its own poverty - "lukewarm" describes a 
 
 ## Key images
 
-- **The Nicolaitans** - a group inside the church teaching that joining the idol feasts was harmless — the same failure Balaam once led Israel into.
-- **The synagogue of Satan** - not the Jewish people, but those in Smyrna and Philadelphia who handed believers over for refusing to worship the emperor.
+- **The Nicolaitans** - probably a group inside the church that treated joining the idol feasts as harmless — a failure like Balaam's, who once led Israel astray.
+- **The synagogue of Satan** - not the Jewish people as a whole, but the local opponents in Smyrna and Philadelphia who slandered the church and, in Smyrna, probably had believers arrested.
 
 [Read the fuller explanation and each individual letter →]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})
 

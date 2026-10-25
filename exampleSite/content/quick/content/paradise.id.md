@@ -22,6 +22,6 @@ Semua ini mengambil dari citra Bait Suci. Tetapi secara tegas dikatakan "tidak a
 
 Sistem jarak itu telah berakhir: Yerusalem Baru berbentuk kubus yang sempurna ({{% bible val="Wahyu 21:16" link="rev:21,16" lang="id" %}}) - persis bentuk Ruang Maha Kudus itu sendiri. Apa yang dahulu dikhususkan bagi satu orang, satu hari dalam setahun, kini terbuka bagi setiap orang yang menjadi milik Allah.
 
-Namun tepat di luar pintu-pintu gerbangnya ada apa yang biasa disebut neraka ({{% bible val="Wahyu 22:14-15" link="rev:22,14-15" lang="id" %}}) - dan kontras itu merangkum pokok perhatian utama seluruh kitab ini: hubungan dengan Allah, yang dipeluk sepenuhnya atau ditolak sepenuhnya. Neraka, dalam terang ini, bukanlah hukuman eksternal yang dipasang dari luar - ia semata-mata apa yang tersisa ketika sumber kehidupan itu sendiri tidak ada, untuk selama-lamanya.
+Namun tepat di luar pintu-pintu gerbangnya ada apa yang biasa disebut neraka ({{% bible val="Wahyu 22:14-15" link="rev:22,14-15" lang="id" %}}) - dan kontras itu merangkum pokok perhatian utama seluruh kitab ini: hubungan dengan Allah, yang dipeluk sepenuhnya atau ditolak sepenuhnya. Neraka, dalam terang ini, bukanlah hukuman eksternal yang dipasang dari luar - ia semata-mata apa yang tersisa ketika sumber kehidupan itu sendiri tidak ada. Orang Kristen berbeda pendapat apakah itu berakhir dalam penderitaan kekal atau dalam kehancuran akhir, tetapi semua sepakat bahwa akar kengeriannya adalah kehilangan Allah.
 
 [Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/paradise/heaven-and-hell" >}})

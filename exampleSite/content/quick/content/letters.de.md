@@ -15,14 +15,14 @@ kids: /kids/elementary/03-the-seven-letters
 
 {{% bible val="Kapitel 2" link="rev:2" lang="de" %}} und {{% bible val="3" link="rev:3" lang="de" %}}.
 
-Es sind sieben wirkliche Gemeinden in sieben wirklichen Städten der römischen Provinz Asia, im Westen der heutigen Türkei. Jede wird an der Vision aus Kapitel 1 gemessen - und das Ergebnis ist gemischt. Nur zwei Gemeinden bekommen ausschließlich Lob: Smyrna und Philadelphia, beide leiden unter Verfolgung oder Armut. Zwei bekommen überhaupt kein Lob: Ephesus und Laodizea. Die übrigen liegen irgendwo dazwischen.
+Es sind sieben wirkliche Gemeinden in sieben wirklichen Städten der römischen Provinz Asia, im Westen der heutigen Türkei. Jede wird an der Vision aus Kapitel 1 gemessen - und das Ergebnis ist gemischt. Nur zwei Gemeinden bekommen ausschließlich Lob: Smyrna und Philadelphia, beide leiden unter Verfolgung oder Armut. Nur Laodizea bekommt überhaupt kein Lob, und Ephesus, gelobt für Arbeit und Lehre, wird gewarnt, dass sein Leuchter entfernt wird. Die übrigen liegen irgendwo dazwischen.
 
 Die sieben sind in einem bewussten, symmetrischen Muster angeordnet:
 
 - **Ephesus** - totales Versagen: hat seine erste Liebe verloren
   - **Smyrna** - ohne Einschränkung gelobt: treu in der Verfolgung
     - **Pergamon** - hier beginnt das Problem: falsche Lehre wird geduldet
-      - **Thyatira** - die Mitte, und die Warnung: das Problem ist die Leitung selbst
+      - **Thyatira** - die Mitte, und die Warnung: falsche Lehre hat in der Gemeinde selbst Platz gefunden
     - **Sardes** - der Ruf, lebendig zu sein, aber in Wirklichkeit tot
   - **Philadelphia** - ohne Einschränkung gelobt: treu in Armut und Schwäche
 - **Laodizea** - totales Versagen: lauwarm und selbstzufrieden
@@ -49,7 +49,7 @@ Die Leitung in Pergamon hat kompromisslerische Lehre (ein Echo auf Bileams Verf�
 
 <h3 id="thyatira">Thyatira</h3>
 
-Thyatira, wahrscheinlich die kleinste Gemeinde, bekommt den längsten Brief, weil ihre eigene Leitung ("Isebel") die Menschen aktiv in den Götzendienst führt.
+Thyatira bekommt den längsten der sieben Briefe, weil eine Frau, die der Brief "Isebel" nennt, vielleicht eine der anerkannten Lehrerinnen der Gemeinde, die Menschen in den Götzendienst führt - und die Gemeinde duldet sie.
 
 **Die Verheißung:** Vollmacht über die Völker und der Morgenstern - Anteil an der Herrschaft von Jesus, und der Anbruch neuer Hoffnung, der Jesus selbst ist.
 
@@ -73,8 +73,8 @@ Der Reichtum von Laodizea hat die Gemeinde blind für ihre eigene Armut gemacht 
 
 ## Schlüsselbilder
 
-- **Die Nikolaiten** - eine Gruppe in der Gemeinde, die lehrte, die Teilnahme an den Götzenfesten sei harmlos — dasselbe Versagen, in das Bileam Israel einst geführt hat.
-- **Die Synagoge des Satans** - nicht das jüdische Volk, sondern die in Smyrna und Philadelphia, die Gläubige anzeigten, weil sie den Kaiser nicht anbeteten.
+- **Die Nikolaiten** - wahrscheinlich eine Gruppe in der Gemeinde, die die Teilnahme an den Götzenfesten für harmlos hielt — ein Versagen wie das Bileams, der Israel einst in die Irre führte.
+- **Die Synagoge des Satans** - nicht das jüdische Volk als Ganzes, sondern die örtlichen Gegner in Smyrna und Philadelphia, die die Gemeinde verleumdeten und in Smyrna wohl Gläubige ins Gefängnis bringen ließen.
 
 [Die ausführlichere Erklärung und jeden einzelnen Brief lesen →]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})
 

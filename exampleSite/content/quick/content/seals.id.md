@@ -32,6 +32,6 @@ Penantian itulah ketegangan yang menjiwai seluruh kitab ini. Semakin lama akhir 
 
 Meterai keenam menjawab "berapa lama lagi" dengan sebuah gambaran, bukan dengan tanggal: matahari menjadi hitam, bulan menjadi merah seperti darah, bintang-bintang berjatuhan, dan semua orang, dari raja sampai budak, bersembunyi di celah-celah batu dari "murka Anak Domba".
 
-Ungkapan itu sengaja dibalik - anak domba adalah binatang yang paling tidak menakutkan - dan teksnya tidak pernah mengatakan apa yang sebenarnya ditakuti orang-orang yang bersembunyi itu. Hati nurani mereka sendiri, atau kuasa itu sendiri, atau seekor anak domba yang mereka kira akan berlaku seperti penunggang penakluk tadi: pasal ini membiarkan pertanyaan itu terbuka.
+Ungkapan itu sengaja dibalik - anak domba adalah binatang yang paling tidak menakutkan - dan adegan itu menunjukkan siapa yang takut: orang-orang yang tahu apa yang telah mereka perbuat, bersembunyi seperti dahulu Adam dan Hawa bersembunyi. Murka itu sendiri nyata - surga mengumumkannya, dan Anak Domba melaksanakannya pada akhirnya ({{% bible val="19:15" link="rev:19,15" lang="ind" %}}) - tetapi itu bukan perang manusia: satu-satunya senjata-Nya adalah pedang yang keluar dari mulut-Nya.
 
 [Baca penjelasan yang lebih lengkap →]({{< relref "expl/content/seals/the-wrath-of-the-lamb" >}})

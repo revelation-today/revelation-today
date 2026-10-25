@@ -22,6 +22,6 @@ Bunların hepsi tapınak imgelerinden beslenir. Ama burada açıkça "tapınak y
 
 O mesafe düzeni artık sona ermiştir: Yeni Yeruşalim kusursuz bir küp biçimindedir ({{% bible val="Vahiy 21:16" link="rev:21,16" lang="tr" %}}) — En Kutsal Yer'in tam da kendi biçimi. Bir zamanlar tek bir kişiye, yılda tek bir güne ayrılmış olan yer, artık Tanrı'ya ait olan herkese açıktır.
 
-Ama kapılarının hemen dışında, genellikle cehennem denen yer vardır ({{% bible val="Vahiy 22:14-15" link="rev:22,14-15" lang="tr" %}}) — ve bu karşıtlık, kitabın tüm temel derdini içinde taşır: Tanrı'yla ilişki; ya tümüyle kucaklanır ya da tümüyle reddedilir. Bu ışıkta cehennem, dışarıdan eklenmiş bir ceza değildir — yaşamın kaynağının kendisi sonsuza dek yok olduğunda geriye kalan şeydir, o kadar.
+Ama kapılarının hemen dışında, genellikle cehennem denen yer vardır ({{% bible val="Vahiy 22:14-15" link="rev:22,14-15" lang="tr" %}}) — ve bu karşıtlık, kitabın tüm temel derdini içinde taşır: Tanrı'yla ilişki; ya tümüyle kucaklanır ya da tümüyle reddedilir. Bu ışıkta cehennem, dışarıdan eklenmiş bir ceza değildir — yaşamın kaynağının kendisi yok olduğunda geriye kalan şeydir. Hıristiyanlar bunun sonsuz acıyla mı yoksa nihai yok oluşla mı sonuçlandığı konusunda ayrılır, ama dehşetinin kökünün Tanrı'yı yitirmek olduğunda herkes birleşir.
 
 [Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/paradise/heaven-and-hell" >}})

@@ -12,7 +12,7 @@ kids: /kids/elementary/12-the-two-harvests
 
 {{% bible val="Bölüm 14" link="rev:14" lang="tr" %}}.
 
-Canavarın 13. bölümdeki topyekûn, dehşet verici ele geçirişinden sonra artık bir şey açıktır: galip gelenler, Siyon Dağı'nda dimdik duran 144.000'dir ve onları tanımlayan özellik, yalnız Tanrı'ya sadakattir. Cam denizin yanında durur, yalnızca kendilerinin öğrenebildiği bir zafer ezgisi söylerler — Tanrı'nın tüm bunlar üzerinde egemen kaldığının bir hatırlatıcısı.
+Canavarın 13. bölümdeki topyekûn, dehşet verici ele geçirişinden sonra artık bir şey açıktır: galip gelenler, Siyon Dağı'nda dimdik duran 144.000'dir ve onları tanımlayan özellik, yalnız Tanrı'ya sadakattir. Yalnızca kendilerinin öğrenebildiği yeni bir ezgi söylerler ({{% bible val="14:3" link="rev:14,3" lang="tr" %}}) — Tanrı'nın tüm bunlar üzerinde egemen kaldığının bir hatırlatıcısı.
 
 Yargı, canavarın izleyicilerinin üzerine inmeden önce, bir melek iyi haberi yeryüzündeki her ulusa, her oymağa, her dile ve her halka duyurur — daha hiçbir şeye karar verilmeden önce herkese yapılan son ve açık bir çağrı. Ardından iki melek daha Babil ve canavara tapan herkes üzerine yargı bildirir.
 

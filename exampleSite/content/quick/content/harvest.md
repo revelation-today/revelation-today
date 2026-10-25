@@ -12,7 +12,7 @@ kids: /kids/elementary/12-the-two-harvests
 
 {{% bible val="Chapter 14" link="rev:14" lang="en" %}}.
 
-After the beast's total, terrifying takeover in chapter 13, one thing is now clear: the victors are the 144,000, standing firm on Mount Zion, their defining trait being loyalty to God alone. They stand beside the sea of glass, singing a song of victory that only they can learn - a reminder that God remains sovereign over all of this.
+After the beast's total, terrifying takeover in chapter 13, one thing is now clear: the victors are the 144,000, standing firm on Mount Zion, their defining trait being loyalty to God alone. They sing a new song that only they can learn ({{% bible val="14:3" link="rev:14,3" lang="en" %}}) - a reminder that God remains sovereign over all of this.
 
 Before judgment falls on the beast's followers, an angel first announces the good news to every nation, tribe, language and people on earth - a last public offer, made to everyone, before anything is decided. Two more angels then pronounce judgment on Babel and on anyone who worships the beast.
 

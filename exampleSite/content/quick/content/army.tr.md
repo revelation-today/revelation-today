@@ -26,7 +26,7 @@ Ama Yuhanna baktığında *gördüğü* şey bambaşkadır: "her ulustan, her oy
 
 ## Büyük Sıkıntı nedir?
 
-Büyük Sıkıntı yalnızca hâlâ gelecekte olan bir olay değildir — Vahiy onu çoktan başlamış bir şeye bağlar: İsa'nın çarmıhtaki ölümüne ve Şeytan'ın gökten kovulmasına (daha sonra, 12. bölümde anlatılan bir sahne). Bundan önce Tanrı'nın halkı esas olarak kendi günahının *sonucu* olarak acı çekiyordu. O zamandan beri kitap, hiçbir suçla ilgisi olmayan acı çekişi İsa'yı izlemenin bir parçası olarak sunar — sunağın altındaki şehitlerin zaten içine çekildiği örüntü budur.
+Büyük Sıkıntı yalnızca hâlâ gelecekte olan bir olay değildir — Vahiy onu çoktan başlamış bir şeye bağlar: İsa'nın çarmıhtaki ölümüne ve Şeytan'ın gökten kovulmasına (daha sonra, 12. bölümde anlatılan bir sahne). İsa'yı izleyen herkes ona ortak olur ve o, tarihin sonuna doğru şiddetlenir — sunağın altındaki şehitlerin zaten içine çekildiği örüntü budur.
 
 ![](/images/Drangsal_tr.jpg)
 

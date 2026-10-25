@@ -32,6 +32,6 @@ Bu bekleyiş, bütün kitabın içinde yaşadığı gerilimdir. Son ne kadar gec
 
 Altıncı mühür "ne kadar sürecek" sorusuna bir tarihle değil, bir resimle cevap verir: güneş kararır, ay kan rengine döner, yıldızlar düşer ve krallardan kölelere kadar herkes "Kuzu'nun gazabından" kayalara saklanır.
 
-Bu ifade bilerek ters çevrilmiştir — kuzu, akla gelebilecek en az korkutucu hayvandır — ve metin, saklananların aslında neden korktuğunu hiçbir yerde söylemez. Kendi vicdanlarından mı, gücün kendisinden mi, yoksa fetheden atlı gibi davranacağını varsaydıkları bir kuzudan mı: bölüm bu soruyu açık bırakır.
+Bu ifade bilerek ters çevrilmiştir — kuzu, akla gelebilecek en az korkutucu hayvandır — ve sahne kimin korktuğunu gösterir: ne yaptıklarını bilen, bir zamanlar Adem ile Havva’nın saklandığı gibi saklanan insanlar. Gazap gerçektir — gökler onu duyurur, Kuzu sonunda onu uygular ({{% bible val="19:15" link="rev:19,15" lang="tr" %}}) — ama bu insan savaşı değildir: Onun tek silahı ağzından çıkan kılıçtır.
 
 [Daha ayrıntılı açıklamayı oku →]({{< relref "expl/content/seals/the-wrath-of-the-lamb" >}})

@@ -22,6 +22,6 @@ All of this draws on temple imagery. But there is explicitly "no temple" here ({
 
 That system of distance is over: the New Jerusalem is shaped like a perfect cube ({{% bible val="Revelation 21:16" link="rev:21,16" lang="en" %}}) - the exact shape of the Holy of Holies itself. What was once reserved for one person, one day a year, is now open to everyone who belongs to God.
 
-Just outside its gates, though, is what is usually called hell ({{% bible val="Revelation 22:14-15" link="rev:22,14-15" lang="en" %}}) - and that contrast holds the whole book's central concern: relationship with God, either fully embraced or fully refused. Hell, in this light, isn't an external punishment bolted on from outside - it's simply what remains when the source of life itself is absent, forever.
+Just outside its gates, though, is what is usually called hell ({{% bible val="Revelation 22:14-15" link="rev:22,14-15" lang="en" %}}) - and that contrast holds the whole book's central concern: relationship with God, either fully embraced or fully refused. Hell, in this light, isn't an external punishment bolted on from outside - it's simply what remains when the source of life itself is absent. Christians disagree on whether that ends in everlasting suffering or in final destruction, but all agree that the root of its horror is the loss of God.
 
 [Read the fuller explanation →]({{< relref "expl/content/paradise/heaven-and-hell" >}})

@@ -16,7 +16,7 @@ kids: /kids/elementary/10-jesus-victory
 
 Chapter 12 retells the Christmas story from a cosmic angle: a woman (Israel) gives birth to a child (Jesus), and a dragon (Satan), with a third of the stars - the fallen angels - waits to devour him the instant he's born, echoing Herod's attempt on the infant Jesus. The child is snatched up to God's throne instead.
 
-Seen from heaven's side, the same event plays out as a war: Michael (linked to the "son of man" in Daniel's later chapters, and so to Jesus) fights the dragon and throws him out of heaven for good - won, notably, "by the blood of the Lamb and the word of their testimony." Furious, the dragon turns on the woman herself, but even the flood he sends after her fails - swallowed by the earth, echoing the Red Sea swallowing Pharaoh's army so Israel could escape, and the "wings of an eagle" she's given recall God's own promise in {{% bible val="Isaiah 40:31" link="isa:40,31" lang="en" %}}.
+Seen from heaven's side, the same event plays out as a war: Michael and his angels fight the dragon and throw him out of heaven for good - the cross and the resurrection seen from heaven's side, won, notably, "by the blood of the Lamb and the word of their testimony." Furious, the dragon turns on the woman herself, but even the flood he sends after her fails - swallowed by the earth, echoing the Red Sea swallowing Pharaoh's army so Israel could escape, and the "wings of an eagle" she's given recall what God said at Sinai: "I carried you on eagles' wings" ({{% bible val="Exodus 19:4" link="exo:19,4" lang="en" %}}).
 
 Finally the dragon turns on "the rest of her offspring" - everyone who follows Jesus. By this point in the chapter, the pattern is unmistakable: every single attempt the dragon makes ends in failure.
 

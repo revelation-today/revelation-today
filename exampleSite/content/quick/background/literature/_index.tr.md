@@ -1,5 +1,5 @@
 ---
-title: "Secara harfiah atau simbolis"
+title: "Gerçek veya sembolik"
 weight: 5
 prev: /welcome/quick
 next: /quick/background/history
@@ -13,33 +13,33 @@ appl: /appl/background/literature
 expl: /expl/background/literature/the-book-of-revelation-how-to-read-it
 ---
 
-Salah satu pertanyaan pertama yang harus ditanyakan tentang buku ini adalah 
-- Apa pesan penting dari buku ini? 
-- Apakah ini merupakan prediksi masa depan dan jika ya, kapan itu dimulai? 
-- Apakah ini bersifat harfiah atau simbolis? 
-- Apakah ada benang merah di dalam buku ini?
+Bu kitap hakkında sorulacak ilk sorulardan biri şudur:
+- Kitabın temel mesajı nedir?
+- Bu, geleceğin bir önceden bildirimi midir ve öyleyse ne zaman başlar?
+- Kelimesi kelimesine mi, simgesel mi anlaşılmalı?
+- Kitapta bir ana iplik var mı?
 
-Kita akan melihat semua pertanyaan ini, tetapi mari kita mulai dengan pertanyaan pertama: Apakah ini literal atau simbolis?
+Bu soruların hepsine bakacağız, ama şu soruyla başlayalım: Bu kelimesi kelimesine mi, simgesel mi?
 
-Ini adalah pertanyaan yang penting karena, bagaimanapun juga, kita ingin menanggapi firman Allah dengan serius dan tidak hanya memahami hal-hal yang secara simbolis diartikan secara harfiah. Saya sangat yakin bahwa Yesus benar-benar bangkit kembali, bahwa mukjizat-mukjizat di dalam Alkitab adalah nyata dan masih banyak lagi.
+Bu önemli bir soru, çünkü sonuçta Tanrı'nın sözünü ciddiye almak ve kelimesi kelimesine kastedilen şeyleri öylece simgesel olarak anlamamak istiyoruz. İsa'nın gerçekten dirildiğine, Kutsal Kitap'taki mucizelerin gerçek olduğuna ve daha pek çok şeye sağlam biçimde inanıyorum.
 
-Tetapi apakah hal ini terjadi di mana-mana? Apa yang Anda maksud dengan contoh-contoh ini: 
-- Haruskah kita hanya {{% bible val="mengampuni 7 kali 70, yaitu 490 kali" link="mat:18:21-25" lang="tr" %}}? 
-- Apakah kita harus {{% bible val="domba yang makan rumput" link="psa:23:2" lang="tr" %}}? 
-- Apakah kita harus {{% bible val="cungkillah mata kita jika ia menyebabkan kita berbuat dosa" link="mat:18:9" lang="tr" %}}? 
-- Akankah {{% bible val="seekor binatang buas yang berkepala banyak dan bertanduk banyak berkeliaran di dunia" link="rev:13:1-2" lang="tr" %}}?
+Ama her yerde böyle mi? Şu örnekler için ne diyorsunuz:
+- Yalnızca {{% bible val="7 kere 70, yani 490 kere bağışlamalı mıyız" link="mat:18,21-22" lang="tr" %}}?
+- {{% bible val="Ot yiyen koyunlar mıyız" link="psa:23,2" lang="tr" %}}?
+- {{% bible val="Günaha düşürürse gözümüzü oymalı mıyız" link="mat:18,9" lang="tr" %}}?
+- {{% bible val="Dünyada çok başlı ve çok boynuzlu bir canavar mı dolaşacak" link="rev:13,1-2" lang="tr" %}}?
 
-Saya menduga Anda telah menemukan satu atau dua contoh di mana Anda mengasumsikan penafsiran simbolis. Jika Anda melihat segala sesuatu secara harfiah, itu akan menarik bagi saya.
+Sanırım siz de simgesel bir yorum varsaydığınız bir iki örnek buldunuz. Her şeyi kelimesi kelimesine görüyorsanız, bu beni ilgilendirir.
 
-Tetapi jika beberapa hal bersifat simbolis dan yang lainnya bersifat harfiah, maka penting untuk memiliki pedoman yang jelas dan itulah yang dibahas dalam buku ini.
+Ama bazı şeyler simgesel, bazıları kelimesi kelimesine ise, açık ilkelere sahip olmak önemlidir ve bu kitap bununla ilgilidir.
 
-Aspek pertama yang kami lihat adalah jenis buku ini. Apakah kita sedang membaca sebuah laporan, perumpamaan, atau penglihatan nubuat, dan apa yang dikatakannya kepada kita tentang kitab ini? Jawabannya sedikit lebih rumit: 
-- Kitab ini adalah sebuah {{% int_link val="Surat" link="/expl/background/literature/the-book-of-revelation-how-to-read-it/#letter" %}} (kepada 7 jemaat secara paralel) -> Jadi keseluruhan kitab ini harus relevan dan dapat dimengerti oleh orang-orang pada waktu itu 
-- Kitab ini merupakan sebuah {{% int_link val="Nubuat" link="/expl/background/literature/the-book-of-revelation-how-to-read-it/#prophecy" %}} -> Menggunakan bahasa kiasan dan bukan prediksi masa depan 
-- Ini adalah sebuah {{% int_link val="Apocalypse" link="/expl/background/literature/the-book-of-revelation-how-to-read-it/#apocalypse" %}} -> Sengaja dibesar-besarkan untuk memprovokasi sebuah keputusan.
+Baktığımız ilk yön, kitabın türüdür. Bir rapor mu, bir benzetme mi, yoksa kehanet niteliğinde bir görüm mü okuyoruz ve bu, kitap hakkında bize ne söyler? Cevap biraz daha karmaşık:
+- Bu bir {{% int_link val="Mektup" link="/expl/background/literature/the-book-of-revelation-how-to-read-it/#letter" %}} (7 kiliseye paralel olarak) -> Dolayısıyla kitabın tamamı o zamanki insanlar için geçerli ve anlaşılır olmak zorundaydı
+- Bu bir {{% int_link val="Kehanet" link="/expl/background/literature/the-book-of-revelation-how-to-read-it/#prophecy" %}} -> Mecazi dil kullanır ve geleceğin bir önceden bildiriminden çok daha fazlasıdır
+- Bu bir {{% int_link val="Kıyamet yazını" link="/expl/background/literature/the-book-of-revelation-how-to-read-it/#apocalypse" %}} -> Bir karara zorlamak için bilerek abartır.
 
-Ini {{% int_link val="merupakan indikasi" link="/expl/background/literature/the-book-of-revelation-how-to-read-it/#summary" %}} bahwa kitab ini mengandung banyak konten simbolis.
+Bu, kitabın pek çok simgesel içerik taşıdığının {{% int_link val="bir göstergesidir" link="/expl/background/literature/the-book-of-revelation-how-to-read-it/#summary" %}}.
 
-{{% int_link val="penggunaan kata 'menunjukkan' dan 'memberitahukan'" link="/expl/background/literature/literally-or-symbolic/#deiknumi" %}}, yang digunakan oleh penulis pada awal kitab ini, juga menunjukkan makna simbolis.
+Yazarın kitabın başında kullandığı {{% int_link val="'göstermek' ve 'bildirmek' sözcüklerinin kullanımı" link="/expl/background/literature/literally-or-symbolic/#deiknumi" %}} da simgesel bir anlama işaret eder.
 
 Tüm bunları bir araya getirdiğimizde, kitabın bu [fragmanda](https://www.youtube.com/watch?v=_z9hMartaFc&pp=ygURdGhleSBsaXZlIHRyYWlsZXI%3D) olduğu gibi her gün algıladığımız gerçekliğin perde arkasındakileri ortaya çıkardığını söyleyebiliriz (fragman yeterli — filmin kendisi bir korku filmi).

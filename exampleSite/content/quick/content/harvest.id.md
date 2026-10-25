@@ -12,7 +12,7 @@ kids: /kids/elementary/12-the-two-harvests
 
 {{% bible val="Pasal 14" link="rev:14" lang="id" %}}.
 
-Setelah pengambilalihan total yang menakutkan oleh binatang itu dalam pasal 13, satu hal kini menjadi jelas: para pemenangnya adalah ke-144.000 itu, yang berdiri teguh di atas Bukit Sion, dengan ciri utama kesetiaan kepada Allah saja. Mereka berdiri di tepi lautan kaca, menyanyikan nyanyian kemenangan yang hanya dapat dipelajari oleh mereka - sebuah pengingat bahwa Allah tetap berdaulat atas semuanya ini.
+Setelah pengambilalihan total yang menakutkan oleh binatang itu dalam pasal 13, satu hal kini menjadi jelas: para pemenangnya adalah ke-144.000 itu, yang berdiri teguh di atas Bukit Sion, dengan ciri utama kesetiaan kepada Allah saja. Mereka menyanyikan nyanyian baru yang hanya dapat dipelajari oleh mereka ({{% bible val="14:3" link="rev:14,3" lang="ind" %}}) - sebuah pengingat bahwa Allah tetap berdaulat atas semuanya ini.
 
 Sebelum penghakiman menimpa para pengikut binatang itu, seorang malaikat terlebih dahulu memberitakan kabar baik itu kepada segala bangsa, suku, bahasa, dan kaum di bumi - tawaran terakhir di depan umum, bagi semua orang, sebelum apa pun diputuskan. Dua malaikat berikutnya lalu mengumumkan penghakiman atas Babel dan atas siapa pun yang menyembah binatang itu.
 

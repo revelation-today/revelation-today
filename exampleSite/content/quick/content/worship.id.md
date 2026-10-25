@@ -35,7 +35,7 @@ Tidak seorang pun ditemukan layak - sampai Yohanes diberi tahu bahwa Singa dari 
 
 ## Gambaran penting
 
-- **Kedua puluh empat tua-tua** - seluruh umat tebusan yang digambarkan di surga — dua belas suku dan dua belas rasul, kedua perjanjian bersama; angkanya mengingatkan pada dua puluh empat rombongan imam yang ditetapkan Daud.
+- **Kedua puluh empat tua-tua** - sosok-sosok surgawi, kemungkinan malaikat, yang mewakili seluruh umat Allah — dua belas suku dan dua belas rasul, kedua perjanjian bersama; angkanya mengingatkan pada dua puluh empat rombongan imam yang ditetapkan Daud.
 - **Keempat makhluk hidup** - seluruh ciptaan yang diwakili di hadapan takhta, berjaga dan memimpin penyembahan.
 - **Ketujuh roh** - kepenuhan Roh Allah, yang diutus ke seluruh dunia.
 

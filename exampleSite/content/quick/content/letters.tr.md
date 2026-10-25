@@ -15,14 +15,14 @@ kids: /kids/elementary/03-the-seven-letters
 
 {{% bible val="Bölüm 2" link="rev:2" lang="tr" %}} ve {{% bible val="3" link="rev:3" lang="tr" %}}.
 
-Bunlar, Roma'nın Asya eyaletinde, bugünkü Türkiye'nin batısında yer alan yedi gerçek kentteki yedi gerçek cemaattir. Her biri 1. bölümdeki görüme göre ölçülür — ve sonuçlar karışıktır. Yalnızca iki kilise sadece övgü alır: her ikisi de zulüm ya da yoksulluk altında acı çeken İzmir ve Filadelfya. İki kilise ise hiç övgü almaz: Efes ve Laodikya. Geri kalanlar bu ikisinin arasında bir yerdedir.
+Bunlar, Roma'nın Asya eyaletinde, bugünkü Türkiye'nin batısında yer alan yedi gerçek kentteki yedi gerçek cemaattir. Her biri 1. bölümdeki görüme göre ölçülür — ve sonuçlar karışıktır. Yalnızca iki kilise sadece övgü alır: her ikisi de zulüm ya da yoksulluk altında acı çeken İzmir ve Filadelfya. Yalnızca Laodikya hiç övgü almaz; Efes ise işi ve öğretisi için övülür, ama kandilliğinin kaldırılacağı konusunda uyarılır. Geri kalanlar bu ikisinin arasında bir yerdedir.
 
 Yedi kilise bilinçli, simetrik bir düzende sıralanmıştır:
 
 - **Efes** - tam bir başarısızlık: ilk sevgisini yitirdi
   - **İzmir** - kayıtsız şartsız övülür: zulüm altında sadık
     - **Bergama** - sorun başlıyor: yanlış öğretiye göz yumuldu
-      - **Tiyatira** - merkez ve uyarı: sorun liderliğin ta kendisi
+      - **Tiyatira** - merkez ve uyarı: yanlış öğreti kilisenin içinde kendine yer bulmuş
     - **Sart** - diri olma ünü var, ama aslında ölü
   - **Filadelfya** - kayıtsız şartsız övülür: yoksulluk ve güçsüzlük içinde sadık
 - **Laodikya** - tam bir başarısızlık: ılık ve kendinden memnun
@@ -49,7 +49,7 @@ Bergama'nın liderliği, ödün veren öğretinin (Balam'ın İsrail'i baştan �
 
 <h3 id="thyatira">Tiyatira</h3>
 
-Tiyatira, muhtemelen en küçük kilise olmasına rağmen en uzun mektubu alır, çünkü kendi liderliği ("İzebel") insanları etkin biçimde putperestliğe sürüklemektedir.
+Tiyatira yedi mektubun en uzununu alır, çünkü mektubun "İzebel" dediği bir kadın — belki de kilisenin tanınmış öğretmenlerinden biri — insanları putperestliğe sürüklemektedir ve kilise ona göz yummaktadır.
 
 **Vaat:** uluslar üzerinde yetki ve sabah yıldızı - Mesih'in egemenliğinden pay, ve İsa'nın kendisi olan yeni umudun şafağı.
 
@@ -73,8 +73,8 @@ Laodikya'nın zenginliği onu kendi yoksulluğuna karşı kör etmiştir — "ı
 
 ## Önemli imgeler
 
-- **Nikolaslar** - kilise içinde, put şölenlerine katılmanın zararsız olduğunu öğreten bir grup — Balam’ın bir zamanlar İsrail’i düşürdüğü aynı başarısızlık.
-- **Şeytan’ın havrası** - Yahudi halkı değil, İzmir ve Filadelfya’da imanlıları, imparatora tapmayı reddettikleri için ihbar edenler.
+- **Nikolaslar** - muhtemelen kilise içinde, put şölenlerine katılmayı zararsız sayan bir grup — Balam’ın bir zamanlar İsrail’i saptırmasına benzer bir başarısızlık.
+- **Şeytan’ın havrası** - Yahudi halkının tamamı değil, İzmir ve Filadelfya’da kiliseyi iftirayla suçlayan ve İzmir’de muhtemelen imanlıların tutuklanmasına yol açan yerel muhalifler.
 
 [Daha ayrıntılı açıklamayı ve her bir mektubu oku →]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})
 

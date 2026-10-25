@@ -26,7 +26,7 @@ Tetapi apa yang *dilihat* Yohanes ketika ia memandang sama sekali berbeda: kumpu
 
 ## Apakah Kesusahan Besar itu?
 
-Kesusahan Besar bukan hanya peristiwa masa depan yang masih akan datang - kitab Wahyu mengaitkannya dengan sesuatu yang sudah dimulai: kematian Yesus di kayu salib dan pengusiran Iblis dari surga (adegan yang digambarkan kemudian, dalam pasal 12). Sebelum itu, umat Allah terutama menderita sebagai *akibat* dari dosa mereka sendiri. Sejak saat itu, kitab ini menampilkan penderitaan yang sama sekali tidak berkaitan dengan kesalahan sebagai bagian dari mengikut Yesus - pola yang sudah dialami para martir di bawah mezbah.
+Kesusahan Besar bukan hanya peristiwa masa depan yang masih akan datang - kitab Wahyu mengaitkannya dengan sesuatu yang sudah dimulai: kematian Yesus di kayu salib dan pengusiran Iblis dari surga (adegan yang digambarkan kemudian, dalam pasal 12). Semua orang yang mengikut Yesus mengambil bagian di dalamnya, dan penderitaan itu makin berat menjelang akhir sejarah - pola yang sudah dialami para martir di bawah mezbah.
 
 ![](/images/Drangsal_en.jpg)
 

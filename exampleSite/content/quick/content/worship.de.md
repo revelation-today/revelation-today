@@ -35,7 +35,7 @@ Niemand wird für würdig befunden - bis Johannes gesagt wird, der Löwe von Jud
 
 ## Schlüsselbilder
 
-- **Die vierundzwanzig Ältesten** - das ganze erlöste Volk, im Himmel dargestellt — zwölf Stämme und zwölf Apostel, beide Testamente zusammen; die Zahl erinnert an die vierundzwanzig Priesterordnungen, die David eingesetzt hat.
+- **Die vierundzwanzig Ältesten** - himmlische Gestalten, wahrscheinlich Engel, die für das ganze Volk Gottes stehen — zwölf Stämme und zwölf Apostel, beide Testamente zusammen; die Zahl erinnert an die vierundzwanzig Priesterordnungen, die David eingesetzt hat.
 - **Die vier lebendigen Wesen** - die ganze Schöpfung vor dem Thron, die wacht und die Anbetung anführt.
 - **Die sieben Geister** - die Fülle des Geistes Gottes, ausgesandt in die ganze Welt.
 
