@@ -34,8 +34,7 @@ Die vollständige Argumentation findet sich in [Das Geheimnis der 70 Jahrwochen]
 ({{% bible val="3. Mose 25,1-7" link="lev:25,1-7" lang="de" %}}), das Israel nie tatsächlich hielt.
 Als das Exil kam, dauerte es 70 Jahre — ein Jahr für jedes versäumte Sabbatjahr
 ({{% bible val="2. Chronik 36,20-21" link="2ch:36,20-21" lang="de" %}}), was bedeutet, dass 70
-versäumte Sabbatjahre 7×70=490 Jahre umfassen, ungefähr die gesamte Zeitspanne von Israels
-nationaler Existenz bis zu diesem Zeitpunkt. Deshalb bedeutet eine „Woche" bei Daniel sieben Jahre,
+versäumte Sabbatjahre 7×70=490 Jahre umfassen, ungefähr die Dauer der Königszeit bis zum Exil. Deshalb bedeutet eine „Woche" bei Daniel sieben Jahre,
 nicht sieben Tage — ein bewusster Anklang an das Sabbatmuster.
 
 **Das Gebet und seine Antwort.** Daniel, der sich Jeremias 70-Jahre-Verheißung bewusst ist

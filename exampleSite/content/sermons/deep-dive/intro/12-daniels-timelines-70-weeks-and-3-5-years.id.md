@@ -36,8 +36,7 @@ Argumen lengkapnya ada dalam [Rahasia Ketujuh Puluh Minggu Tahun]({{< relref "ex
 dijalankan Israel. Ketika pembuangan datang, itu berlangsung 70 tahun — satu tahun untuk setiap
 tahun Sabat yang terlewatkan
 ({{% bible val="2 Tawarikh 36:20-21" link="2ch:36,20-21" lang="ind" %}}), yang berarti 70 tahun
-Sabat yang terlewatkan mencakup 7×70=490 tahun, kira-kira seluruh rentang keberadaan nasional
-Israel hingga saat itu. Itulah mengapa "kali tujuh masa" dalam Daniel berarti tujuh tahun, bukan
+Sabat yang terlewatkan mencakup 7×70=490 tahun, kira-kira lamanya masa kerajaan sampai pembuangan. Itulah mengapa "kali tujuh masa" dalam Daniel berarti tujuh tahun, bukan
 tujuh hari — secara sengaja menggemakan pola Sabat.
 
 **Doa dan jawabannya.** Daniel, yang menyadari janji 70 tahun dari Yeremia

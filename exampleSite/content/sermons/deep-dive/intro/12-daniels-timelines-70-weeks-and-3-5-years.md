@@ -34,8 +34,7 @@ The full argument is in [The seventy weeks]({{< relref "expl/bible/daniel/the-70
 ({{% bible val="Leviticus 25:1-7" link="lev:25,1-7" lang="en" %}}), which Israel never actually
 kept. When exile came, it lasted 70 years — one year for every missed Sabbatical year
 ({{% bible val="2 Chronicles 36:20-21" link="2ch:36,20-21" lang="en" %}}), which means 70 missed
-Sabbaticals span 7×70=490 years, roughly the whole span of Israel's national existence to that
-point. That's why a "week" in Daniel means seven years, not seven days — deliberately echoing
+Sabbaticals span 7×70=490 years, roughly the length of the monarchy, up to the exile. That's why a "week" in Daniel means seven years, not seven days — deliberately echoing
 the Sabbath pattern.
 
 **The prayer and its answer.** Daniel, aware of Jeremiah's 70-year promise

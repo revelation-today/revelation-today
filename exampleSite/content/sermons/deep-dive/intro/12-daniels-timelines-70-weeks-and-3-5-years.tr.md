@@ -33,8 +33,7 @@ Tam argüman [70 yıllık haftalar]({{< relref "expl/bible/daniel/the-70-year-we
 ({{% bible val="Levililer 25:1-7" link="lev:25,1-7" lang="tr" %}}), ki İsrail bunu hiç gerçekten
 tutmadı. Sürgün geldiğinde 70 yıl sürdü — kaçırılan her Sabbat yılı için bir yıl
 ({{% bible val="2. Tarihler 36:20-21" link="2ch:36,20-21" lang="tr" %}}), bu da kaçırılan 70
-Sabbat'ın 7×70=490 yıla yayıldığı anlamına gelir, o zamana kadar İsrail'in ulusal varlığının
-tüm süresine kabaca eşittir. Bu yüzden Daniel'de bir "hafta" yedi gün değil yedi yıl anlamına
+Sabbat'ın 7×70=490 yıla yayıldığı anlamına gelir, krallık döneminin sürgüne kadarki süresine kabaca eşittir. Bu yüzden Daniel'de bir "hafta" yedi gün değil yedi yıl anlamına
 gelir — kasıtlı olarak Sabbat kalıbını yankılayarak.
 
 **Dua ve cevabı.** Yeremya'nın 70 yıllık vaadinin farkında olan Daniel
