@@ -120,7 +120,7 @@ Kadın ve çocukları, iki yandan görülen aynı insanlardır. Bir bütün olar
 
 Vahiy, zaferin nasıl kazanıldığını tek cümleyle söyler — "Kuzu'nun kanıyla ve ettikleri tanıklık bildirisiyle" ({{% bible val="12:11" link="rev:12,11" lang="tr" %}}) — ve çaresiz görünen ile gerçekte galip gelen arasındaki bu gerilim kitabın geri kalanında da sürüp gider. Vahiy 2-3'te İsa'dan hiçbir eleştiri almayan yalnızca iki kilise vardır: Simirna ve Filadelfya — ki bunların ikisi de kendi koşulları göz önüne alındığında ciddi sıkıntı içindedir — oysa kendine en çok güvenen kilise olan Laodikya, İsa'dan tek bir övgü sözü bile almaz. Aynı örüntüyü {{% bible val="aslan olduğu ortaya çıkan kuzuda" link="rev:5,5-6" lang="tr" %}} ve yine {{% bible val="yenilmiş gibi görünüp aslında yücelikle galip gelen iki tanıkta" link="rev:11,7-12" lang="tr" %}} da görürüz — bunun karşısında ise, mutlak denetime sahipmiş gibi görünen ama {{% bible val="kendilerine güvenen herkesi de beraberinde sürükleyerek felakete uğrayacak olan" link="rev:14,6-13" lang="tr" %}} Vahiy 13'ün ejderhası ve canavarı vardır.
 
-[^michael]: Beale, s. 650–652, 659–660.
+[^michael]: Beale, s. 650–652, 659–660. Daniel'de Mikail "insanoğlu"nun yanında savaşır (Dan 10:20–21); ona bağlıdır ve onunla aynı varlık değildir; Vahiy 12:7'de Mikail, Mesih'le aynı ilişki içindedir ve gökteki zaferi, Mesih'in çarmıhtaki ve dirilişteki zaferinin karşılığıdır.
 [^woman]: Beale, s. 642; Beasley-Murray, *Revelation* (New Century Bible), s. 200.
 [^eagle]: Beale, s. 643, 669–670.
 [^flood]: Beale, s. 672, 675.

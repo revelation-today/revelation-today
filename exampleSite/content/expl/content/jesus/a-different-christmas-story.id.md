@@ -125,7 +125,7 @@ Perempuan itu dan anak-anaknya adalah orang-orang yang sama, dilihat dari dua si
 
 Kitab Wahyu mengatakan dalam satu kalimat bagaimana kemenangan itu diraih — "oleh darah Anak Domba, dan oleh perkataan kesaksian mereka" ({{% bible val="12:11" link="rev:12,11" lang="ind" %}}) — dan ketegangan ini — antara yang tampak tidak berdaya dan yang sesungguhnya menang — terus berulang di sepanjang kitab ini. Hanya dua jemaat yang sama sekali tidak mendapat teguran dari Yesus dalam Wahyu 2–3, yaitu Smirna dan Filadelfia, keduanya sedang menghadapi kesulitan besar sesuai keadaan mereka, sementara Laodikia, jemaat yang paling percaya diri, tidak menerima satu pun pujian dari-Nya. Pola yang sama muncul pada {{% bible val="sang singa yang ternyata adalah anak domba" link="rev:5,5-6" lang="ind" %}}, dan sekali lagi pada {{% bible val="kedua saksi, yang tampak dikalahkan tetapi sebenarnya menang dengan kemuliaan" link="rev:11,7-12" lang="ind" %}} — berlawanan dengan sang naga dan binatang di Wahyu 13, yang tampak menguasai segalanya, tetapi {{% bible val="akan menuju kehancuran, membawa serta semua orang yang mempercayai mereka" link="rev:14,6-13" lang="ind" %}}.
 
-[^michael]: Beale, hlm. 650–652, 659–660.
+[^michael]: Beale, hlm. 650–652, 659–660. Dalam Daniel, Mikhael berperang di samping "anak manusia" (Dan 10:20–21), tunduk kepadanya dan bukan makhluk yang sama; dalam Wahyu 12:7 Mikhael berada dalam hubungan yang sama dengan Kristus, dan kemenangannya di surga adalah padanan kemenangan Kristus di salib dan kebangkitan.
 [^woman]: Beale, hlm. 642; Beasley-Murray, *Revelation* (New Century Bible), hlm. 200.
 [^eagle]: Beale, hlm. 643, 669–670.
 [^flood]: Beale, hlm. 672, 675.

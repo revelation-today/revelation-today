@@ -124,7 +124,7 @@ Die Frau und ihre Kinder sind dieselben Menschen, von zwei Seiten gesehen. Als G
 
 Die Offenbarung sagt in einem Satz, wie der Sieg errungen wird — „durch das Blut des Lammes und durch das Wort ihres Zeugnisses“ ({{% bible val="12,11" link="rev:12,11" lang="de" %}}) —, und diese Spannung – zwischen dem, der hilflos erscheint, und dem, der tatsächlich siegt – zieht sich durch das ganze übrige Buch. Die einzigen beiden Gemeinden, die in Offenbarung 2–3 überhaupt keinen Tadel von Jesus erhalten, sind Smyrna und Philadelphia, die beide angesichts ihrer Umstände in ernsten Schwierigkeiten stecken, während Laodizea, die Gemeinde mit dem größten Selbstvertrauen, nicht einen einzigen Punkt des Lobes von ihm bekommt. Dasselbe Muster zeigt sich bei {{% bible val="dem Löwen, der sich als das Lamm herausstellt" link="rev:5,5-6" lang="de" %}}, und wieder bei {{% bible val="den beiden Zeugen, die besiegt scheinen, aber tatsächlich mit Herrlichkeit überwinden" link="rev:11,7-12" lang="de" %}} – im Gegensatz zum Drachen und dem Tier aus Offenbarung 13, die absolute Kontrolle zu haben scheinen, aber dennoch {{% bible val="ins Verderben gehen und alle mit sich reißen werden, die auf sie vertraut haben" link="rev:14,6-13" lang="de" %}}.
 
-[^michael]: Beale, S. 650–652, 659–660.
+[^michael]: Beale, S. 650–652, 659–660. Bei Daniel kämpft Michael an der Seite des „Menschensohns“ (Dan 10,20–21), ihm untergeordnet und nicht dasselbe Wesen; in Offenbarung 12,7 steht Michael im selben Verhältnis zu Christus, und sein Sieg im Himmel ist das Gegenstück zu Christi Sieg am Kreuz und in der Auferstehung.
 [^woman]: Beale, S. 642; Beasley-Murray, *Revelation* (New Century Bible), S. 200.
 [^eagle]: Beale, S. 643, 669–670.
 [^flood]: Beale, S. 672, 675.

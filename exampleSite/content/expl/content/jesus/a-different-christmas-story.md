@@ -114,7 +114,7 @@ The woman and her children are the same people seen from two sides. As a whole, 
 
 Revelation says in one line how the victory is won — "by the blood of the Lamb and by the word of their testimony" ({{% bible val="12:11" link="rev:12,11" lang="en" %}}) — and this tension — between the one who looks helpless and the one who actually overcomes — runs throughout the rest of the book. The only two churches that get no complaint at all from Jesus in Revelation 2–3 are Smyrna and Philadelphia, both of which are in serious trouble given their circumstances, while Laodicea, the church with the most confidence in itself, doesn't get a single point of praise from him. The same pattern shows up in {{% bible val="the lion who turns out to be the lamb" link="rev:5,5-6" lang="en" %}}, and again in {{% bible val="the two witnesses, who seem to be defeated but are actually raised to glory" link="rev:11,7-12" lang="en" %}} — set against the dragon and the beast of Revelation 13, who seem to hold absolute control, yet {{% bible val="whose worshippers are warned of the disaster awaiting everyone who trusted in them" link="rev:14,6-13" lang="en" %}}.
 
-[^michael]: Beale, pp. 650–652, 659–660.
+[^michael]: Beale, pp. 650–652, 659–660. In Daniel, Michael fights beside the "son of man" (Dan 10:20–21), subordinate to him and not the same being; in Revelation 12:7 Michael has the same relation to Christ, and his victory in heaven is the counterpart of Christ's victory at the cross and resurrection.
 [^woman]: Beale, p. 642; Beasley-Murray, *Revelation* (New Century Bible), p. 200.
 [^eagle]: Beale, pp. 643, 669–670.
 [^flood]: Beale, pp. 672, 675.
