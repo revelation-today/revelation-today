@@ -74,8 +74,7 @@ dormant for two millennia until decoded by the right generation.
 **Original-language note.** The book's opening word is *apokalypsis* (ἀποκάλυψις), meaning
 "unveiling" or "revelation." It's easy to hear this word and think it means a hidden timetable
 finally being cracked open — but that's not what the word signals in its own genre context. It
-doesn't primarily mean the unveiling of a secret future event; it means the unveiling of the end
-of evil rulers and the societies built on them, exposing a present spiritual reality that was
+doesn't primarily mean the unveiling of a secret future event; it means, just as much, the unveiling of the end of evil rulers and the societies built on them, exposing a present spiritual reality that was
 always true but not always seen.
 
 **A place to be honest about the temptation this genre creates.** Because apocalyptic language

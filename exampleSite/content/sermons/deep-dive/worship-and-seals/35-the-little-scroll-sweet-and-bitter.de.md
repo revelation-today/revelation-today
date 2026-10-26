@@ -11,7 +11,7 @@ next: /sermons/deep-dive/worship-and-seals/36-the-two-witnesses
 
 ## Einstieg
 
-Denkt an das letzte Mal, als eure Gruppe für einen Freund, einen Nachbarn, einen Kollegen betete, der nichts mit Glauben zu tun haben wollte – und nichts änderte sich. Kein Durchbruch, keine dramatische Antwort, nur dasselbe harte Schweigen Woche für Woche. Ungefähr dort beginnt Offenbarung 10. Neun Plagen sind über eine Welt hereingebrochen, die "nicht Buße tat" (Offenbarung 9,20-21), und die sechste Posaune ist gerade verklungen. Wenn Katastrophe allein Herzen wenden könnte, hätte sie es längst getan. Was also erreicht Menschen wirklich? Offenbarung 10 beantwortet genau diese Frage – und die Antwort ist keine weitere Plage. Es ist eine Buchrolle, die jemand essen muss.
+Denkt an das letzte Mal, als eure Gruppe für einen Freund, einen Nachbarn, einen Kollegen betete, der nichts mit Glauben zu tun haben wollte – und nichts änderte sich. Kein Durchbruch, keine dramatische Antwort, nur dasselbe harte Schweigen Woche für Woche. Ungefähr dort beginnt Offenbarung 10. Sechs Posaunenplagen sind über eine Welt hereingebrochen, die "nicht Buße tat" (Offenbarung 9,20-21), und die sechste Posaune ist gerade verklungen. Wenn Katastrophe allein Herzen wenden könnte, hätte sie es längst getan. Was also erreicht Menschen wirklich? Offenbarung 10 beantwortet genau diese Frage – und die Antwort ist keine weitere Plage. Es ist eine Buchrolle, die jemand essen muss.
 
 ## Die Szene einordnen: Warum die Geschichte hier innehält
 

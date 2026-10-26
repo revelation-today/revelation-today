@@ -20,9 +20,7 @@ geleneğinizin size zaten sessizce öğrettiği bir şeyin metinsel dayanağıd�
 
 Bazı Hıristiyanlar — çoğunlukla belirli Protestan çevrelerde — Vahiy 20'yi, ancak İsa'nın ikinci
 gelişinden sonra gerçekleşecek olan, harfi harfine, gelecekteki bin yıllık bir dünyevi Mesih
-egemenliğini tasvir ediyor olarak okur. Bu görüş (premillennialism, yani öncül-bin-yılcılık,
-dispensationalism denen daha büyük bir çerçevenin parçası) görece modern bir gelişmedir ve
-çoğu Katoliğin şekillendiği mercek basitçe bu değildir. Kilise'nin tarihsel okuması — bu
+egemenliğini tasvir ediyor olarak okur. Bu görüş (premillennialism, yani öncül-bin-yılcılık; bugün çoğunlukla dispensationalism denen daha büyük bir çerçevede karşımıza çıkar) ilk yüzyıllara dayanan köklere sahiptir, ama yaygın dispensationalist biçimi on dokuzuncu yüzyıl gelişmesidir ve çoğu Katoliğin şekillendiği mercek basitçe bu değildir. Kilise'nin tarihsel okuması — bu
 bölümün yorumu Batı Hıristiyanlığının Vahiy 20 okumasını sonraki on altı yüzyıl boyunca
 şekillendiren Augustinus'a kadar geri giden — farklıdır: "bin yıl", Kilise'nin bütün çağının,
 Mesih'in birinci ve ikinci gelişi arasındaki tüm sürenin sembolik bir tasviridir. Bu oturum, bu

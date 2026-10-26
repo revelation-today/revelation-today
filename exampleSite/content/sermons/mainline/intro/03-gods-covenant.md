@@ -27,8 +27,7 @@ God's relationship to his people.
 ## How ancient covenants actually worked
 
 In the ancient world, belonging to a family meant survival — provision, protection,
-identity. If you weren't born into the right family, Scripture recognizes four doors in:
-marriage, birth, adoption, and covenant. Historically there were two kinds of covenants.
+identity. If you weren't born into the right family, Scripture knows several doors in: marriage, birth, and covenant. Historically there were two kinds of covenants.
 One was between equals — a mutual alliance, its members called brothers. The other was
 between the strong and the weak: a covenant of conquest, in which the stronger party was
 called master or father, and the weaker one slave or son. This second type matters most
@@ -70,7 +69,7 @@ to reconsider. The witnesses called were heaven and earth themselves (Deuteronom
 
 Crucially — and this is the heart of what makes this a covenant of grace rather than mere
 law — the covenant's terms were never impossible, unlike so many earthly treaties designed
-to set the weaker party up to fail. Israel could have kept the covenant. It chose not to.
+to set the weaker party up to fail. Israel could have kept the covenant; time after time it did not (the weakness lay in human sin, not in the law, Romans 8:3).
 And through it all, God calls himself Israel's Father — a father who, even while bound by
 covenant terms, remains merciful. Scripture captures that combination in the rich Hebrew
 word *hesed*, usually translated "covenant loyalty" or "steadfast love" — a word broad
@@ -105,5 +104,5 @@ Calvary, applied now to a people who, like Israel, cannot claim to have earned i
   covenant pattern of prologue, demand, and blessing/curse at work?
 - *Hesed* — steadfast covenant love — is hard to translate in one English word. Where have
   you experienced it, and where do you find it hardest to extend to others?
-- If Israel's covenant terms were genuinely keepable and Israel simply chose not to keep
+- If Israel's covenant terms were genuinely keepable and Israel, time after time, did not keep
   them, what does that say about the nature of sin — and about the necessity of grace?

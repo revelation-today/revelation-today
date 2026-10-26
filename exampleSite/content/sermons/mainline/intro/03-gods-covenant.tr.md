@@ -27,8 +27,7 @@ varsaydığı her şeyi bunun nasıl doğrudan hazırladığını görebilirsini
 ## Antik antlaşmalar gerçekte nasıl işlerdi
 
 Antik dünyada bir aileye ait olmak, hayatta kalmak demekti — geçim, korunma, kimlik. Eğer
-doğru aileye doğmadıysanız, Kutsal Kitap dört kapı tanır: evlilik, doğum, evlat edinme ve
-antlaşma. Tarihsel olarak iki tür antlaşma vardı. Biri eşitler arasındaydı — üyelerinin
+doğru aileye doğmadıysanız, Kutsal Kitap birkaç kapı tanır: evlilik, doğum ve antlaşma. Tarihsel olarak iki tür antlaşma vardı. Biri eşitler arasındaydı — üyelerinin
 kardeş diye adlandırıldığı karşılıklı bir ittifak. Diğeri güçlü ile zayıf arasındaydı: daha
 güçlü tarafın efendi ya da baba, daha zayıf tarafın ise köle ya da oğul diye adlandırıldığı
 bir fetih antlaşması. Bu ikinci tür, İsrail'in Tanrı'yla ilişkisini anlamak için en önemlisidir,
@@ -69,8 +68,7 @@ tanıklar, göğün ve yerin kendisiydi (Tesniye 30:19).
 
 Bunun bir lütuf antlaşması olmasını sağlayan asıl şey — ve bu, salt bir yasadan çok daha
 fazlasıdır — antlaşmanın şartlarının, zayıf tarafı başarısızlığa mahkûm etmek için tasarlanmış
-pek çok dünyevi antlaşmanın aksine, hiçbir zaman imkânsız olmamasıydı. İsrail antlaşmayı
-tutabilirdi. Tutmamayı seçti. Ve bütün bunlar boyunca Tanrı kendisini İsrail'in Babası olarak
+pek çok dünyevi antlaşmanın aksine, hiçbir zaman imkânsız olmamasıydı. İsrail antlaşmayı tutabilirdi; defalarca tutmadı (zayıflık Yasa'da değil, insanın günahındaydı, Romalılar 8:3). Ve bütün bunlar boyunca Tanrı kendisini İsrail'in Babası olarak
 adlandırır — antlaşma şartlarıyla bağlı olsa bile merhametli kalan bir baba. Kutsal Kitap bu
 bileşimi zengin İbranice *hesed* kelimesinde yakalar; genellikle "antlaşma sadakati" ya da
 "sarsılmaz sevgi" diye çevrilir — bağlama göre sevgi, iyilik, merhamet ve sadakatin hepsini
@@ -105,6 +103,5 @@ alan lütuf, şimdi İsrail gibi bunu hak ettiğini iddia edemeyen bir halka uyg
   bereket/lanet — nerede iş başında görüyorsunuz?
 - *Hesed* — sarsılmaz antlaşma sevgisi — tek bir kelimeyle çevrilmesi zor bir kavramdır. Onu
   nerede deneyimlediniz, ve onu başkalarına uzatmayı en zor nerede buluyorsunuz?
-- Eğer İsrail'in antlaşma şartları gerçekten tutulabilir olsaydı ve İsrail sadece onları
-  tutmamayı seçtiyse, bu günahın doğası hakkında — ve lütfun zorunluluğu hakkında — ne
+- Eğer İsrail'in antlaşma şartları gerçekten tutulabilir olsaydı ve İsrail yine de onları defalarca tutmadıysa, bu günahın doğası hakkında — ve lütfun zorunluluğu hakkında — ne
   söyler?

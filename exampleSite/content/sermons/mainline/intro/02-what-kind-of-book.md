@@ -68,9 +68,7 @@ timetable.
 ## An apocalypse
 
 The book's opening words are *Apokalypsis Iesou Christou* — "the revelation of Jesus
-Christ." "Apocalypse" does not mean a secret forecast of a near or distant event, and it
-is not really about the end of the physical world — it is about the end of evil rulers and
-the corrupt systems built around them. The only other biblical apocalyptic texts are
+Christ." "Apocalypse" does not mean a secret forecast of a near or distant event, and it is not only about the end of the physical world — it is just as much about the end of evil rulers and the corrupt systems built around them. The only other biblical apocalyptic texts are
 Daniel 7–12 and Jesus's own apocalyptic discourses in Mark 13, Matthew 24, and Luke 21 —
 all of them, notoriously, difficult to interpret well.
 

@@ -81,8 +81,7 @@ dipecahkan oleh generasi yang tepat.
 "penyingkapan" atau "wahyu." Mudah untuk mendengar kata ini dan mengira artinya sebuah jadwal
 tersembunyi yang akhirnya dipecahkan — tetapi itu bukan yang disinyalkan kata ini dalam konteks
 genrenya sendiri. Kata ini tidak terutama berarti penyingkapan sebuah peristiwa masa depan yang
-dirahasiakan; kata ini berarti penyingkapan akhir dari para penguasa jahat dan masyarakat yang
-dibangun atas mereka, membongkar sebuah realitas rohani masa kini yang selalu benar tetapi tidak
+dirahasiakan; kata ini sama banyaknya berarti penyingkapan akhir dari para penguasa jahat dan masyarakat yang dibangun atas mereka, membongkar sebuah realitas rohani masa kini yang selalu benar tetapi tidak
 selalu terlihat.
 
 **Sebuah tempat untuk jujur tentang godaan yang diciptakan genre ini.** Karena bahasa apokaliptik

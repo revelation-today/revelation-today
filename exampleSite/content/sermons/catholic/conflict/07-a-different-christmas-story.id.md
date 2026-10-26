@@ -85,8 +85,7 @@ drama kosmis, dan Israel adalah perempuan yang melaluinya hal itu terjadi.
 
 ## Dan tafsir Maria — sebuah lapisan tambahan yang nyata
 
-Inilah bagian yang layak disampaikan dengan hangat dan tanpa keraguan: tradisi Katolik, sejak zaman
-Bapa-Bapa Gereja, juga membaca perempuan ini sebagai Maria — dan tafsir ini bukanlah kesalahan yang
+Inilah bagian yang layak disampaikan dengan hangat dan tanpa keraguan: tradisi Katolik, sejak masa akhir Bapa-Bapa Gereja, juga membaca perempuan ini sebagai Maria (Bapa-Bapa yang paling awal kebanyakan membacanya sebagai Gereja) — dan tafsir ini bukanlah kesalahan yang
 perlu dikoreksi. Ini adalah lensa kedua yang sah, yang telah dipegang Gereja berdampingan dengan
 yang pertama, bukan menggantikannya.
 

@@ -82,8 +82,7 @@ değişirdi?
 4. Farkında olmadan, "Tanrı'nın gazabını" "gerçek kurbanlar için adaletten" koparıp onu ya soyut
    bir doktrine ya da yalnızca başkalarına yönelik bir tehdide dönüştürdüğünüz yerler nerede
    olabilir?
-5. Bize "kötülüğümüzün sonuçlarının tek bir duayla basitçe silinmediği" ve Tanrı'nın taş
-   yürekleri gerçekten değiştirmek istediği söyleniyor. Bu, tövbeyi bir işlem olarak mı yoksa
+5. Doğru anlaşılan gazap bizden de bir şey ister: verdiğimiz zarardan, doğrudan ya da görmezden gelerek, biz de sorumluyuz. Bu, tövbeyi bir işlem olarak mı yoksa
    daha derin bir şey olarak mı düşünmenizi şekillendiriyor?
 
 ## Kapanış dua önerisi

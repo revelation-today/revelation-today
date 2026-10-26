@@ -74,9 +74,7 @@ nesil tarafından çözülene kadar iki bin yıl uykuda kalması gereken bir keh
 kaldırılması" veya "vahiy" anlamına gelir. Bu kelimeyi duyup nihayet çözülen gizli bir zaman
 çizelgesi anlamına geldiğini düşünmek kolaydır — ama kelime kendi tür bağlamında bunu işaret
 etmez. Öncelikle gizli bir gelecek olayın örtüsünün kaldırılması anlamına gelmez; her zaman
-gerçek olan ama her zaman görülmeyen mevcut ruhsal bir gerçekliği ortaya çıkararak, kötü
-yöneticilerin ve onların üzerine kurulu toplumların sonunun örtüsünün kaldırılması anlamına
-gelir.
+gerçek olan ama her zaman görülmeyen mevcut ruhsal bir gerçekliği ortaya çıkararak, aynı ölçüde kötü yöneticilerin ve onların üzerine kurulu toplumların sonunun örtüsünün kaldırılması anlamına gelir.
 
 **Bu türün yarattığı ayartı hakkında dürüst olunacak bir yer.** Kıyamet dili canlı, kozmik ve acil
 olduğu için, "gazete tefsiri" için kaçırılmaya özellikle uygundur — sembolleri bu haftanın

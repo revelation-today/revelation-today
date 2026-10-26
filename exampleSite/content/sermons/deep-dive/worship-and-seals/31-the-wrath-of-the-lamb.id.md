@@ -35,7 +35,7 @@ Inilah tepatnya persoalan yang disebutkan dalam tantangan yang dihadapi audiens 
 2. Teks itu hanya menggambarkan ketakutan manusia, tidak pernah tindakan marah dari Allah atau Anak Domba dalam adegan ini. Bagaimana pengamatan itu mengubah cara Anda membaca perikop ini?
 3. Pernahkah Anda (atau seseorang yang dekat dengan Anda) mengalami penindasan, eksploitasi, atau kekerasan yang sungguh nyata sampai-sampai Anda benar-benar merindukan Allah bertindak dalam penghakiman demi Anda? Bagaimana pengalaman itu — atau ketiadaannya — membentuk seberapa nyaman Anda dengan topik ini?
 4. Di manakah Anda, tanpa menyadarinya, mungkin telah melepaskan "murka Allah" dari "keadilan bagi para korban yang sesungguhnya" dan mengubahnya menjadi doktrin abstrak atau ancaman yang ditujukan hanya kepada orang lain?
-5. Kita diberitahu bahwa "akibat dari kejahatan kita tidak begitu saja terhapus oleh satu doa" dan bahwa Allah ingin hati yang keras seperti batu benar-benar berubah. Bagaimana hal itu membentuk cara Anda memikirkan pertobatan — sebagai sebuah transaksi, atau sebagai sesuatu yang lebih dalam?
+5. Murka yang "dipahami dengan benar" juga menuntut sesuatu dari kita: kita bertanggung jawab atas kerugian yang kita timbulkan, langsung maupun dengan berpaling. Bagaimana hal itu membentuk cara Anda memikirkan pertobatan — sebagai sebuah transaksi, atau sebagai sesuatu yang lebih dalam?
 
 ## Doa penutup
 

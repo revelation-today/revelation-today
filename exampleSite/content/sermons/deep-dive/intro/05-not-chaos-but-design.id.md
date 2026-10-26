@@ -37,8 +37,7 @@ bahaya kehilangan identitas mereka sebagai jemaat — meskipun
 Sardis juga menerima vonis yang unik kerasnya ("engkau dikatakan hidup, padahal
 engkau mati," {{% bible val="Why 3:1" link="rev:3,1" lang="ind" %}}) tanpa satu pun pujian dalam
 uraian pembukanya. Pembaca yang masuk akal bisa saja mengurutkan jemaat "terburuk" secara berbeda;
-yang tidak diperdebatkan adalah bahwa surat-surat itu disusun dengan simetri yang nyata dan sebuah
-pusat kepemimpinan yang korup, bukan secara acak.
+yang tidak diperdebatkan adalah bahwa surat-surat itu disusun dengan simetri yang nyata dan sebuah pusat di mana ajaran sesat dibiarkan di dalam jemaat, bukan secara acak.
 
 **Segala sesuatu mengalir dari ruang takhta.** Menghadapi diagnosis yang menggugah itu, jawaban
 Allah adalah penyembahan yang tak henti (pasal 4-5) — dan dari ruang takhta itulah segala sesuatu

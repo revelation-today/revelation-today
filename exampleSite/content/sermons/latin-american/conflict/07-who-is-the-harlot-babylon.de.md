@@ -58,9 +58,7 @@ bilden sie das gesamte Gegen-Evangelium des Teufels: Sicherheit, erkauft durch A
 Gewalt, Reichtum, aufgebaut durch die Ausbeutung der Armen und den Ausschluss aller, die nicht
 mitspielen, ein Gefühl der Überlegenheit und das Zum-Schweigen-Bringen jeder unbequemen
 Stimme, die benennt, was wirklich geschieht (siehe Offenbarung 13,4.7.10.13–14.16–17; 17,6).
-Aber die Gemeinde ist immer in Gefahr, in ihre Umlaufbahn hineingezogen zu werden – „sodass
-ihr gezwungen seid, Tag für Tag weiter darüber nachzudenken und aus ihr herauszutreten", wie
-der Text selbst es ausdrückt (18,4), „weil Babel überall ist."
+Aber die Gemeinde ist immer in Gefahr, in ihre Umlaufbahn hineingezogen zu werden, und deshalb ist der Ruf in 18,4 ein täglicher: „Geht hinaus aus ihr, mein Volk."
 
 ## Die Kollision direkt benennen
 

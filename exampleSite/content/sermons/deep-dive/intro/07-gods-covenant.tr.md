@@ -75,7 +75,7 @@ dilini nasıl okuduğumuz için önemlidir: bu, memnun edilmesi imkansız bir ta
 antlaşma ortağının gerçek kederidir.
 
 **Orijinal dil notu: *hesed*.** Bütün bunlar boyunca, Tanrı Kendisini İsrail'in Babası olarak
-adlandırır ({{% bible val="Çıkış 3:6" link="exo:3,6" lang="tr" %}}) — antlaşma lanetlerini
+adlandırır ({{% bible val="Çıkış 4:22" link="exo:4,22" lang="tr" %}}) — antlaşma lanetlerini
 uygulama hakkına yasal olarak sahip olsa bile merhametli kalan bir baba. Kutsal Yazı bu
 birleşimi İbranice *hesed* (חֶסֶד) kelimesinde yakalar, genellikle "antlaşma sadakati" veya
 "sarsılmaz sevgi" olarak çevrilir, ama bağlama bağlı olarak iyilik, merhamet ve sadakat anlamını

@@ -14,8 +14,7 @@ Ask your group what they think of when they hear the word "mystery" in a religio
 secret code, something spooky, an unsolved puzzle. Now point out: Paul uses the word
 differently. When he calls something a "mystery," he almost always means something that was
 always true in God's plan but wasn't fully revealed until now — not a puzzle to decode, but a
-staggering reality finally coming into view. Revelation uses the word exactly three times, and
-tracing all three together reveals one of the book's central structural ideas: a mirrored
+staggering reality finally coming into view. Revelation uses the word four times, for three mysteries, and tracing all three together reveals one of the book's central structural ideas: a mirrored
 triptych of church, God, and the harlot.
 
 ## The Core Teaching
@@ -28,7 +27,7 @@ in full.
 
 **Why three mysteries, and why here.** As we saw in session 3, the word "mystery" in Revelation
 deliberately echoes {{% bible val="Daniel 2" link="dan:2,28-45" lang="en" %}}, the only prophetic
-book to use the term — and Revelation uses it exactly three times: the mystery of the
+book to use the term — and Revelation uses it four times, for three mysteries: the mystery of the
 {{% bible val="church" link="rev:1,20" lang="en" %}}, the mystery of
 {{% bible val="God" link="rev:10,7" lang="en" %}}, and the mystery of the
 {{% bible val="harlot" link="rev:17,5" lang="en" %}}. These three aren't scattered at random —

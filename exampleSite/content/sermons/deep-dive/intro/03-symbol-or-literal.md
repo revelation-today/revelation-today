@@ -35,7 +35,7 @@ author left us?
 **The Daniel connection.** Revelation deliberately echoes the language that frames
 {{% bible val="Daniel 2" link="dan:2,28-45" lang="en" %}} — a vision that pictures empires
 symbolically, as a statue destroyed by a stone, itself another symbol. Daniel 2 is the only
-prophetic book to use the word "mystery," and that word appears three times in Revelation too:
+prophetic book to use the word "mystery," and that word appears four times in Revelation too, for three mysteries:
 the mystery of the {{% bible val="church" link="rev:1,20" lang="en" %}}, the mystery of
 {{% bible val="God" link="rev:10,7" lang="en" %}}, and the mystery of the
 {{% bible val="beast" link="rev:17,5" lang="en" %}} (we'll come back to all three in session 6).
@@ -48,7 +48,7 @@ way we'd read Daniel's: symbolically, not as a literal newsreel.
 what must soon take place." These two Greek verbs carry real weight.
 
 - ***Semaino*** (σημαίνω) is the same word used in the Greek Old Testament for the interpretation
-  of a symbolic vision in Daniel. It appears only five times in the whole New Testament — three
+  of a symbolic vision in Daniel. Outside Revelation it appears only five times in the New Testament — three
   of those describing, symbolically, the nature of Jesus's death on the cross
   ({{% bible val="John 12:33" link="jhn:12,33" lang="en" %}},
   {{% bible val="18:32" link="jhn:18,32" lang="en" %}},
@@ -92,7 +92,7 @@ is more durable, because it isn't tied to guessing which century gets to be "the
    a symbolic reading?
 2. How does the Nile-to-blood plague model the idea that something can be both a real historical
    event and a symbol at the same time?
-3. What does it mean that "mystery" occurs in Revelation exactly three times, echoing Daniel 2's
+3. What does it mean that "mystery" occurs in Revelation four times, for three mysteries, echoing Daniel 2's
    unique use of the same term?
 
 **So what for us:**

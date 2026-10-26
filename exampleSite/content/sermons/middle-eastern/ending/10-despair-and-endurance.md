@@ -13,7 +13,7 @@ This session did not come from the standard list of Revelation's chapters, becau
 
 ## Naming the danger honestly
 
-Revelation itself names this danger. In the letter to Smyrna, after describing real, ongoing hardship — poverty, slander, coming imprisonment — Jesus's own words point to something more than the hardship itself: the risk of being "so overwhelmed by despair that we give up" underneath the weight of it. Endurance is not simply a matter of gritting your teeth through pain that has a clear end date. The much harder test comes when the pain has no visible end date at all — when persecution has lasted not months but generations, when a whole community has waited for relief that has not yet come, when leaving seems like the only path to safety left.
+Revelation itself names this danger. In the letter to Smyrna, after describing real, ongoing hardship — poverty, slander, coming imprisonment — the letter points to something more than the hardship itself: the risk of being so overwhelmed by despair that we give up underneath the weight of it. Endurance is not simply a matter of gritting your teeth through pain that has a clear end date. The much harder test comes when the pain has no visible end date at all — when persecution has lasted not months but generations, when a whole community has waited for relief that has not yet come, when leaving seems like the only path to safety left.
 
 If that describes your community's experience — years, maybe your parents' and grandparents' years too, of pressure with no resolution — we want to say clearly, before anything else: Revelation does not treat that exhaustion as a failure of faith. It treats it as something real enough to speak to directly.
 

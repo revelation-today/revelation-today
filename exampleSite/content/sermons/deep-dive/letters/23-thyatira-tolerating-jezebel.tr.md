@@ -47,7 +47,7 @@ verir. İsa gerçek sonuçlar vaat ediyor: Yasabel'in izleyicileri için tövbey
 acı (2:21-22) ve "bütün kiliseler, yürekleri ve düşünceleri araştıranın ben olduğumu bilecek"
 (2:23) uyarısı — Tiyatira'nın başarısızlığı her diğer cemaat için bir ders niteliği kazanıyor.
 
-Bu bozuk liderlik altında sadık kalanlara İsa, kendi gerçek yetkilerini vaat ediyor —
+Bu yanlış öğretinin karşısında sadık kalanlara İsa, kendi gerçek yetkilerini vaat ediyor —
 Mezmur 2'den gelen bir dille "demir çomakla" egemenlik sürmek — ve "sabah yıldızı" (2:28); bu,
 Vahiy'in başka bir yerinde (22:16) İsa'nın kendine uyguladığı bir unvandır: kötü liderliğin bu
 arada verdiği zararın ötesinde kalıcı bir umudun doğuşu.

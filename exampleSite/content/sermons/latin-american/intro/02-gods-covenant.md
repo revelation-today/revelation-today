@@ -12,8 +12,7 @@ next: /sermons/latin-american/worship-and-seals/03-worship-in-the-throne-room
 ## Family was everything
 
 In the ancient world, belonging to a family meant survival itself — protection, provision,
-identity, everything. If you weren't born into the right family, Scripture recognizes only a
-few doors in: marriage, birth, adoption, or covenant. That last one — covenant — is the door
+identity, everything. If you weren't born into the right family, Scripture recognizes only a few doors in: marriage, birth, or covenant. That last one — covenant — is the door
 God chose to walk through with his people, and understanding how it worked in the ancient
 world changes how we read the whole Bible, including Revelation.
 
@@ -52,8 +51,7 @@ The covenant at Sinai follows the same ancient legal pattern nation-states used 
 a preamble naming the greater party ("I am the Lord your God"), a prologue recalling kindness
 already shown ("who brought you out of Egypt"), demands, blessings and curses, and witnesses.
 And crucially — unlike the covenants of conquest that were often designed to make the weaker
-party fail — God's terms were never impossible. Israel could have kept them. They simply chose
-not to, again and again. Through all of it, God calls himself Israel's Father — a father who,
+party fail — God's terms were never impossible. Israel could have kept them; time after time they did not. Through all of it, God calls himself Israel's Father — a father who,
 even while enforcing the covenant's terms, remains marked by hesed: covenant loyalty rich
 enough to be translated love, goodness, mercy, faithfulness, all at once.
 

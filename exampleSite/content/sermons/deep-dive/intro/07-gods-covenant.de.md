@@ -82,7 +82,7 @@ eines Bundespartners, der seine eigene Seite vollständig gehalten hat und nicht
 sein Volk nicht tatsächlich hätte tun können.
 
 **Hinweis zur Originalsprache: *hesed*.** Durch all das nennt sich Gott den Vater Israels
-({{% bible val="2. Mose 3,6" link="exo:3,6" lang="de" %}}) — ein Vater, der, selbst wenn er
+({{% bible val="2. Mose 4,22" link="exo:4,22" lang="de" %}}) — ein Vater, der, selbst wenn er
 rechtlich befugt ist, Bundesflüche durchzusetzen, barmherzig bleibt. Die Schrift fasst diese
 Kombination im hebräischen Wort *hesed* (חֶסֶד) zusammen, gewöhnlich übersetzt als „Bundestreue"
 oder „beständige Liebe", aber reich genug, um je nach Kontext auch Güte, Barmherzigkeit und

@@ -11,7 +11,7 @@ next: /sermons/deep-dive/worship-and-seals/36-the-two-witnesses
 
 ## Opening hook
 
-Think about the last time your group prayed for a friend, a neighbor, a coworker who wanted nothing to do with faith — and nothing changed. No breakthrough, no dramatic answer, just the same hard silence week after week. That's roughly where Revelation 10 opens. Nine plagues have fallen on a world that "did not repent" (Revelation 9:20-21), and the sixth trumpet has just faded out. If disaster alone could turn hearts, it already would have. So what actually reaches people? Revelation 10 answers that question — and the answer is not another plague. It's a scroll that someone has to eat.
+Think about the last time your group prayed for a friend, a neighbor, a coworker who wanted nothing to do with faith — and nothing changed. No breakthrough, no dramatic answer, just the same hard silence week after week. That's roughly where Revelation 10 opens. Six trumpet plagues have fallen on a world that "did not repent" (Revelation 9:20-21), and the sixth trumpet has just faded out. If disaster alone could turn hearts, it already would have. So what actually reaches people? Revelation 10 answers that question — and the answer is not another plague. It's a scroll that someone has to eat.
 
 ## Setting the scene: why the story pauses here
 

@@ -41,7 +41,7 @@ The witnesses are clothed in sackcloth (11:3) — Old Testament clothing loaded 
 
 Crucially, the witnesses are killed only "when they have finished their testimony" (11:7) — their mission is complete before their death, not cut off by it. The world celebrates their apparent defeat and even refuses them burial (11:9), a deliberate humiliation (compare Goliath's taunt in 1 Samuel 17:44-46). Then, after three and a half days — a pointed echo of the 3.5 years — they are raised and taken up to heaven, exactly as Jesus was (11:11-12).
 
-This inverts two familiar Old Testament patterns. First, it reverses Esther: there, God's threatened people fight back and their enemies end up sending gifts in defeat (Esther 9:15-25); here, the witnesses are killed and it's their enemies who celebrate — until the survivors are converted, not slaughtered (11:13). Second, it reverses the usual "remnant saved, majority judged" pattern: only 10 percent die in the earthquake, and the 90 percent who remain give glory to God (11:13) — and in Revelation, giving glory is always a mark of genuine worship (16:9).
+This inverts two familiar Old Testament patterns. First, it reverses Esther: there, God's threatened people fight back and win, and they celebrate by sending gifts to each other (Esther 9:19, 22); here, the witnesses are killed and it's their enemies who celebrate by sending each other gifts (11:10) — until the survivors are converted, not slaughtered (11:13). Second, it reverses the usual "remnant saved, majority judged" pattern: only 10 percent die in the earthquake, and the 90 percent who remain give glory to God (11:13) — and in Revelation, giving glory is always a mark of genuine worship (16:9).
 
 ## Discussion questions
 

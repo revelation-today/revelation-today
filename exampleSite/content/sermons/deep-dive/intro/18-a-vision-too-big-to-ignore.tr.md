@@ -40,10 +40,7 @@ edeceği iki Eski Antlaşma imgesini birleştirir:
   Eskiden Beri Var Olan'ı (Baba Tanrı) çağrıştırır. Alevli gözler ve tunç ayaklar, Daniel'i son
   görümüne hazırlayan melek haberciyi tanımlayan Daniel 10:5-6'dan gelir.
 
-**Kaynak konusunda bir uyarı sözü:** Bu öğretinin bazı sürümleri bu fiziksel tanımlama için
-Daniel 10:7'yi kaynak gösteriyor — ama 10:7 aslında görümü görmeyen, dehşete kapılmış yanındaki
-kişileri tanımlıyor, meleğin görünüşünü değil. Alevli gözlerin ve tunç uzuvların tanımı Daniel
-10:5-6'dadır. Küçük bir nokta, ama metne kendiniz geri dönerseniz doğru bilmeye değer (bkz.
+**Kaynak konusunda bir uyarı sözü:** Alevli gözlerin ve tunç uzuvların tanımı Daniel 10:5-6'dadır (10:7, görümü görmeyen, dehşete kapılmış yanındaki kişileri tanımlar). Metne kendiniz geri dönerseniz kontrol etmeye değer (bkz.
 [Vizyon]({{< relref "expl/content/vision/the-vision" >}})).
 
 Bu imgelerin birleşmesinin etkisi: Yuhanna'nın İsa görümü, Eskiden Beri Var Olan ile "insanoğlu"

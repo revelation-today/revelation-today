@@ -82,8 +82,7 @@ von der richtigen Generation entschlüsselt wird.
 „Enthüllung" oder „Offenbarung" bedeutet. Man hört dieses Wort leicht und denkt, es meine, dass ein
 verborgener Zeitplan endlich geknackt wird — aber das signalisiert das Wort in seinem eigenen
 Gattungskontext nicht. Es bedeutet in erster Linie nicht die Enthüllung eines geheimen zukünftigen
-Ereignisses; es bedeutet die Enthüllung des Endes böser Herrscher und der auf ihnen aufgebauten
-Gesellschaften — die Aufdeckung einer gegenwärtigen geistlichen Realität, die immer wahr war, aber
+Ereignisses; es bedeutet ebenso sehr die Enthüllung des Endes böser Herrscher und der auf ihnen aufgebauten Gesellschaften — die Aufdeckung einer gegenwärtigen geistlichen Realität, die immer wahr war, aber
 nicht immer gesehen wurde.
 
 **Ein Ort, an dem man die Versuchung ehrlich benennen sollte, die diese Gattung erzeugt.** Weil

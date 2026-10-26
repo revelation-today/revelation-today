@@ -34,8 +34,7 @@ bırakmış?
 
 **Daniel bağlantısı.** Vahiy, kasıtlı olarak {{% bible val="Daniel 2" link="dan:2,28-45" lang="tr" %}}'yi çerçeveleyen dili yankılar — imparatorlukları sembolik olarak, bir taş tarafından
 yıkılan bir heykel olarak resmeden bir görü, ki taş da kendisi başka bir semboldür. Daniel 2,
-"mystery" (sır/gizem) kelimesini kullanan tek peygamberlik kitabıdır ve bu kelime Vahiy'de de üç
-kez geçer: {{% bible val="kilise" link="rev:1,20" lang="tr" %}}'nin sırrı,
+"mystery" (sır/gizem) kelimesini kullanan tek peygamberlik kitabıdır ve bu kelime Vahiy'de de dört kez geçer, üç sır için: {{% bible val="kilise" link="rev:1,20" lang="tr" %}}'nin sırrı,
 {{% bible val="Tanrı" link="rev:10,7" lang="tr" %}}'nın sırrı ve
 {{% bible val="canavar" link="rev:17,5" lang="tr" %}}ın sırrı (6. oturumda üçüne de geri
 döneceğiz). Vahiy'in açılış formülü, "yakında olması gerekenleri göstermek için," doğrudan
@@ -48,7 +47,7 @@ bunu bildirdiğini (*semaino*)" ve kullarına "yakında olması gerekenleri gös
 için verdiğini söyler. Bu iki Yunanca fiil gerçek bir ağırlık taşır.
 
 - ***Semaino*** (σημαίνω), Daniel'deki sembolik bir görünün yorumu için Yunanca Eski Ahit'te
-  kullanılan aynı kelimedir. Yeni Ahit'in tamamında sadece beş kez geçer — bunlardan üçü,
+  kullanılan aynı kelimedir. Vahiy dışında Yeni Ahit'te sadece beş kez geçer — bunlardan üçü,
   İsa'nın çarmıhtaki ölümünün doğasını sembolik olarak anlatır
   ({{% bible val="Yuhanna 12:33" link="jhn:12,33" lang="tr" %}},
   {{% bible val="18:32" link="jhn:18,32" lang="tr" %}},
@@ -95,8 +94,7 @@ bağlı değildir.
    olarak işlev görüyor?
 2. Nil'in kana dönüşmesi belası, bir şeyin aynı anda hem gerçek bir tarihsel olay hem de bir
    sembol olabileceği fikrini nasıl modelliyor?
-3. Daniel 2'nin "mystery" (sır) teriminin benzersiz kullanımını yankılayarak, bu kelimenin
-   Vahiy'de tam olarak üç kez geçmesi ne anlama geliyor?
+3. Daniel 2'nin "mystery" (sır) teriminin benzersiz kullanımını yankılayarak, bu kelimenin Vahiy'de dört kez (üç sır için) geçmesi ne anlama geliyor?
 
 **Bizim için ne anlama geliyor:**
 4. Hiç bir Vahiy sembolünü güncel bir olayla veya kamusal bir figürle eşleştiren kendinden emin

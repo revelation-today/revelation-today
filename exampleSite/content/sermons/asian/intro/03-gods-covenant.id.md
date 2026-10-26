@@ -31,7 +31,7 @@ Pola yang sama muncul, dalam bentuk lengkap, pada perjanjian Allah dengan Israel
 
 ## 4. Sang Bapa yang tetap penuh belas kasihan
 
-Sepanjang kisah ini, Allah menyebut diri-Nya Bapa Israel (Keluaran 3:6) — Bapa yang, bahkan sambil terikat oleh syarat-syarat perjanjian-Nya sendiri, tetap berkomitmen pada belas kasihan. Alkitab menangkap ini dalam kata yang kaya makna *hesed*: kesetiaan perjanjian, kasih, kebaikan, kesetiaan — semuanya sekaligus. Allah tidak sekadar menoleransi keluarga perjanjian-Nya. Dia terikat pada mereka, atas pilihan-Nya sendiri, dengan cara yang menjamin pemeliharaan-Nya yang terus-menerus bahkan ketika mereka mengecewakan-Nya.
+Sepanjang kisah ini, Allah menyebut diri-Nya Bapa Israel (Keluaran 4:22) — Bapa yang, bahkan sambil terikat oleh syarat-syarat perjanjian-Nya sendiri, tetap berkomitmen pada belas kasihan. Alkitab menangkap ini dalam kata yang kaya makna *hesed*: kesetiaan perjanjian, kasih, kebaikan, kesetiaan — semuanya sekaligus. Allah tidak sekadar menoleransi keluarga perjanjian-Nya. Dia terikat pada mereka, atas pilihan-Nya sendiri, dengan cara yang menjamin pemeliharaan-Nya yang terus-menerus bahkan ketika mereka mengecewakan-Nya.
 
 ## 5. Mengapa ini penting di sini
 

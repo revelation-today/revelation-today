@@ -40,9 +40,7 @@ für Witwen und Waisen zu einem bestimmenden Kennzeichen wahrer Religion
 ({{% bible val="Jakobus 1,27" link="jas:1,27" lang="de" %}}). Und das Muster der biblischen
 Erzählung selbst verstärkt diese Kritik: Gott erwählt immer wieder Könige und Helden ausgerechnet
 aus den Familien, die die umgebende Kultur abgeschrieben hätte — Rut die Moabiterin wird König
-Davids Urgroßmutter; drei der vier Frauen, die in Jesu Stammbaum in Matthäus 1 genannt werden, sind
-nicht-israelitische Außenseiterinnen (Tamar die Kanaaniterin, Rut die Moabiterin, Batseba, die
-Frau des Hetiters).
+Davids Urgroßmutter; alle vier Frauen, die in Jesu Stammbaum in Matthäus 1 genannt werden, kommen mit der Geschichte einer Außenseiterin: Tamar die Kanaaniterin, Rahab aus Jericho, Rut die Moabiterin und Batseba, genannt nach ihrem hetitischen Mann.
 
 **Der Erlöser — eine bestimmte rechtliche Rolle, die Gott selbst übernimmt.** Das antike
 israelitische Gesetz sah eine Rolle namens *go'el* vor, den „nächsten Verwandten, der erlöst"
@@ -93,7 +91,7 @@ Familiensysteme der Welt im Stich gelassen haben.
 2. Was bedeutet es, dass der *go'el* ein spezifisches rechtliches Amt war, nicht nur eine
    allgemeine Vorstellung von „Familie hilft Familie"? Wie schärft das, was es bedeutet, dass Gott
    diese Rolle selbst übernimmt?
-3. Schaut euch die im Stammbaum Jesu genannten Frauen an (Matthäus 1) — Tamar, Rut, Batseba. Was
+3. Schaut euch die im Stammbaum Jesu genannten Frauen an (Matthäus 1) — Tamar, Rahab, Rut, Batseba. Was
    haben sie gemeinsam, und warum könnte Matthäus sie bewusst einbezogen haben?
 
 **Was das für uns bedeutet:**

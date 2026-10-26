@@ -39,9 +39,7 @@ bu aldatma, doğrudan bir sonuç olarak durdurulur. 12. bölümde Şeytan "zaman
 bilir (12:12); 20. bölümde ise "kısa bir süre için" serbest bırakılır (20:3). Paralellikler,
 bunların iki ayrı olay değil de, farklı açılardan iki kez anlatılan aynı olay gibi
 okunmasını sağlayacak kadar derindir — Kutsal Yazı'nın başka yerlerde de kullandığı bir örüntü.
-Pavlus, bu aynı bağlanmayı İsa'nın ilk gelişinde "zaten gerçekleştirdiği" bir şey olarak tanımlar
-(Markos 3:27), aynı zamanda şimdi engellenmiş ama Mesih'in dönüşünden önce kısaca serbest
-bırakılacak bir "yasa tanımaz adam"ı tanımlarken (2. Selanikliler 2:6-12) — ikisi de aynı anda
+İsa, bu aynı bağlanmayı ilk gelişinde "zaten gerçekleştirdiği" bir şey olarak tanımlar (Markos 3:27); Pavlus ise şimdi engellenmiş ama Mesih'in dönüşünden önce kısaca serbest bırakılacak bir "yasa tanımaz adam"ı tanımlar (2. Selanikliler 2:6-12) — ikisi de aynı anda
 doğrudur.
 
 ## Peki Eski Antlaşma vaatleri ne olacak?

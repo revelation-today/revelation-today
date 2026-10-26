@@ -23,7 +23,7 @@ Bu antlaşmalar standart beş bölümlü bir şekli takip ederdi: güçlü taraf
 
 ## Tanrı, İbrahim ile şartları yeniden yazar
 
-Yaratılış 15, tam olarak bu sahneyi İbrahim'le kurar — ikiye kesilmiş, alışılmış şekilde dizilmiş kurbanlar. Ama sonra hikâye, hiçbir fetih ahdinin yapmadığı bir şey yapar: parçaların arasında yürüyen, zayıf taraf olan İbrahim değildir. Ateş olarak beliren Tanrı'nın kendisidir ve geçerek laneti önceden kendi üzerine alır. İbrahim daha sonra sözünü bozduğunda — ki bozar — bozulan ahdin ağırlığı, her kadim okuyucunun bekleyeceği gibi zayıf tarafın üzerine düşmez. Tanrı onu zaten üstlenmiştir.
+Yaratılış 15, tam olarak bu sahneyi İbrahim'le kurar — ikiye kesilmiş, alışılmış şekilde dizilmiş kurbanlar. Ama sonra hikâye, hiçbir fetih ahdinin yapmadığı bir şey yapar: parçaların arasında yürüyen, zayıf taraf olan İbrahim değildir. Ateş olarak beliren Tanrı'nın kendisidir ve geçerek laneti önceden kendi üzerine alır. İbrahim'in soyu daha sonra sözünü bozduğunda — ki bozarlar — bozulan ahdin ağırlığı, her kadim okuyucunun bekleyeceği gibi zayıf tarafın üzerine düşmez. Tanrı onu zaten üstlenmiştir.
 
 Bu üzerinde bir an durmaya değer, çünkü inancımızın tam merkezindeki bir şeyin önizlemesini yapar. Sözünü tutamayan kişi adına Tanrı tarafından üstlenilen ahit laneti, Tanrı'nın kendi Oğlu'nun bizim taşıyamayacağımızı taşıdığı çarmıha işaret eder. Her İlahi Liturya tam olarak bunu ilan eder: bizim başardığımız bir sözleşme değil, Tanrı'nın her iki tarafında da tuttuğu bir ahit.
 
@@ -31,7 +31,7 @@ Bu üzerinde bir an durmaya değer, çünkü inancımızın tam merkezindeki bir
 
 Aynı beş bölümlü ahit yapısı Sina'da neredeyse kelimesi kelimesine tekrar görünür: "Ben senin Tanrın Rab'bim" (kendini tanıtma), "seni Mısır'dan, kölelik diyarından çıkaran" (herhangi bir talepten önce zaten gösterilen lütfu hatırlatan önsöz), buyruklar (Tanrı'ya yalnız ibadet çağrısıyla uygun şekilde açılan talepler), Tesniye 28'de bereket ve lanet ve son olarak gök ve yerin kendisinin tanık olarak çağrılması. Sırayı fark edin: lütuf yasadan önce gelir. Tanrı önce İsrail'i Mısır'dan kurtarır, ancak ondan sonra buyrukları verir — ahit hiçbir zaman İsrail'in çoktan verilmiş kurtuluşu kazanmak için tırmanması gereken bir merdiven değildir.
 
-Ve önemli olan şu ki, şartlar hiçbir zaman imkânsız değildi. Zayıf tarafı başarısızlığa mahkûm edecek şekilde tasarlanmış birçok kadim antlaşmanın aksine, Tanrı'nın halkı gerçekten sadık kalabilirdi. Sadece, defalarca, kalmamayı seçtiler. Yine de Tanrı, İsrail'in Babası olarak boyunca kendini adlandırır — kendi ahit sözüyle bağlı, İsrail sadık olmadığında bile sadık kalan bir Baba. Kutsal Kitap bunun için zengin bir kelimeye sahiptir: *hesed*, ahit sadakati, çeşitli şekillerde sevgi, merhamet, iyilik, sadakat olarak çevrilir — asla salt sözleşmesel değil, her zaman kişisel.
+Ve önemli olan şu ki, şartlar hiçbir zaman imkânsız değildi. Zayıf tarafı başarısızlığa mahkûm edecek şekilde tasarlanmış birçok kadim antlaşmanın aksine, Tanrı'nın halkı gerçekten sadık kalabilirdi; defalarca kalmadılar. Yine de Tanrı, İsrail'in Babası olarak boyunca kendini adlandırır — kendi ahit sözüyle bağlı, İsrail sadık olmadığında bile sadık kalan bir Baba. Kutsal Kitap bunun için zengin bir kelimeye sahiptir: *hesed*, ahit sadakati, çeşitli şekillerde sevgi, merhamet, iyilik, sadakat olarak çevrilir — asla salt sözleşmesel değil, her zaman kişisel.
 
 ## Bunun Vahiy'i okumak için neden önemli olduğu
 

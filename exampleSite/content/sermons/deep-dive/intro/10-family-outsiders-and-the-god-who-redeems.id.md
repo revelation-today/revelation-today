@@ -42,9 +42,7 @@ yatim menjadi penanda utama dari agama yang sejati
 ({{% bible val="Yakobus 1:27" link="jas:1,27" lang="ind" %}}). Dan pola narasi Alkitab sendiri
 memperkuat kritik itu: Allah terus memilih raja-raja dan pahlawan-pahlawan justru dari
 keluarga-keluarga yang akan dianggap tidak berharga oleh budaya sekitarnya — Rut orang Moab
-menjadi buyut Raja Daud; tiga dari empat perempuan yang disebutkan dalam silsilah Yesus di Matius 1
-adalah orang luar bukan Israel (Tamar orang Kanaan, Rut orang Moab, istri Uria orang Het,
-yaitu Batsyeba).
+menjadi buyut Raja Daud; keempat perempuan yang disebutkan dalam silsilah Yesus di Matius 1 semuanya datang dengan kisah orang luar: Tamar orang Kanaan, Rahab dari Yerikho, Rut orang Moab, dan Batsyeba, yang disebut lewat suaminya yang orang Het.
 
 **Sang penebus — sebuah peran hukum khusus yang diambil Allah atas diri-Nya sendiri.** Hukum
 Israel kuno memasukkan sebuah peran yang disebut *go'el*, "kerabat terdekat yang menebus"
@@ -96,7 +94,7 @@ bagi setiap orang yang gagal dilindungi oleh sistem keluarga dunia.
 2. Apa artinya bahwa *go'el* adalah sebuah jabatan hukum yang spesifik, bukan sekadar gagasan
    umum "keluarga menolong keluarga"? Bagaimana itu mempertajam makna Allah mengambil peran ini
    atas diri-Nya sendiri?
-3. Lihatlah para perempuan yang disebutkan dalam silsilah Yesus (Matius 1) — Tamar, Rut, Batsyeba.
+3. Lihatlah para perempuan yang disebutkan dalam silsilah Yesus (Matius 1) — Tamar, Rahab, Rut, Batsyeba.
    Apa kesamaan mereka, dan mengapa Matius mungkin dengan sengaja memilih untuk menyertakan mereka?
 
 **Lalu bagaimana bagi kita:**

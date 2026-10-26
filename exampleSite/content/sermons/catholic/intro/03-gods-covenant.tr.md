@@ -86,7 +86,7 @@ her yedi yılda bir ve her kralın taç giyme töreninde yeniden — yüksek ses
 (Yasa'nın Tekrarı 17:18–19; 31:9–13).
 
 Açıkça söylemek için bir an durmaya değer: bu antlaşmanın şartları hiçbir zaman imkânsız değildi.
-İsrail bunları tutabilirdi. Tanrı kendisini İsrail'in Babası olarak adlandırır (Çıkış 3:6) ve
+İsrail bunları tutabilirdi. Tanrı kendisini İsrail'in Babası olarak adlandırır (Çıkış 4:22) ve
 Kutsal Yazı'nın O'nun antlaşma sadakati için tekrar tekrar kullandığı sözcük *hesed*'dir — sevgi,
 iyilik, merhamet ve sadakati aynı anda ifade eden, bir ailenin içinde borçlu olunan sadakati
 anlatan zengin bir sözcük.

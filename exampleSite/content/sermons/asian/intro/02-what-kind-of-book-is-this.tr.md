@@ -35,7 +35,7 @@ Peygamberliğin bazen tam olarak gerçekleşmemesi için var olduğunu da hatır
 
 ## 4. Bir kıyamet yazını (apokalips)
 
-Kitabın açılış sözleri "İsa Mesih'in vahyi [apokalypsis]"dir — uzak bir gelecek olayının gizli bir önizlemesi değil ve gerçekte dünyanın sonuyla ilgili de değil, kötü yöneticilerin ve onların etrafında kurulmuş yozlaşmış sistemlerin sonuyla ilgilidir. Kutsal Kitap'ın başka yerlerindeki kıyamet yazınları (Daniel 7-12 ve Markos 13, Matta 24, Luka 21'in bazı bölümleri) aynı amacı paylaşır: Tanrı'nın halkını, ezenlerini ifşa ederek, direnişe çağırarak ve Tanrı'nın nihai zaferine güven inşa ederek kriz içinde cesaretlendirmek.
+Kitabın açılış sözleri "İsa Mesih'in vahyi [apokalypsis]"dir — uzak bir gelecek olayının gizli bir önizlemesi değil ve yalnızca dünyanın sonuyla ilgili değil, aynı ölçüde kötü yöneticilerin ve onların etrafında kurulmuş yozlaşmış sistemlerin sonuyla ilgilidir. Kutsal Kitap'ın başka yerlerindeki kıyamet yazınları (Daniel 7-12 ve Markos 13, Matta 24, Luka 21'in bazı bölümleri) aynı amacı paylaşır: Tanrı'nın halkını, ezenlerini ifşa ederek, direnişe çağırarak ve Tanrı'nın nihai zaferine güven inşa ederek kriz içinde cesaretlendirmek.
 
 Bunu kasıtlı bir ikilik yoluyla yapar — zamanda (bu şimdiki çağ geçip gidiyor; daha iyisi geliyor ve onu ancak Tanrı getirebilir) ve karakterde (Tanrı'ya karşı Şeytan, iyiye karşı kötü). Bunun etkisi bir karar dayatmaktır. Ortada tarafsız bir zemin sunulmaz. Sembolik imgeler mesajı gizlemek için orada değildir — onu keskinleştirir, geleceğin gerçek bir fotoğrafından çok, şimdiki gerçekliğe ruhsal bir kavrayış sağlar. Faydalı bir modern karşılaştırma siyasi karikatürdür: ejderhanın gerçek, fiziksel olarak var olan bir yaratık olmasına ihtiyaç duymadan mesajı anında anlarız.
 

@@ -53,9 +53,7 @@ sırılsıklam ortak. Canavar kaba kuvvettir; fahişe ise o kuvveti çekici, gü
 kılan şeydir. Birlikte, şeytanın bütün sahte müjdesini oluştururlar: şiddet korkusuyla satın
 alınan güvenlik, yoksulları sömürerek ve uyum sağlamayanı dışlayarak inşa edilen zenginlik, bir
 üstünlük duygusu ve gerçekte neler olduğunu adlandıran her rahatsız edici sesin susturulması
-(bkz. Vahiy 13:4, 7, 10, 13-14, 16-17; 17:6). Ama kilise her zaman onun yörüngesine çekilme
-riski altındadır — metnin kendi ifadesiyle, "gün be gün yansıtmaya ve ondan çıkmaya devam etmen
-gerekecek" (18:4), "çünkü Babil her yerdedir."
+(bkz. Vahiy 13:4, 7, 10, 13-14, 16-17; 17:6). Ama kilise her zaman onun yörüngesine çekilme riski altındadır; bu yüzden 18:4'teki çağrı günlüktür: "Ey halkım, onun içinden çıkın."
 
 ## Çatışmayı doğrudan adlandırmak
 

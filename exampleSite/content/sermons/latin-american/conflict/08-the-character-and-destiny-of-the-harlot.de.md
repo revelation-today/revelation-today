@@ -19,8 +19,7 @@ letztlich zu Fall?
 
 ## Wie sie operiert
 
-Die Hure sitzt auf dem „zweiten Tier" aus Kapitel 13 – dem Tier, das nicht durch offene Gewalt
-wirkt, sondern durch Zeichen, wirtschaftlichen Druck und Überredung (13,11–17). Das ist auch
+Die Hure sitzt auf dem scharlachroten Tier, das dem ersten Tier aus Kapitel 13 entspricht, und sie selbst wirkt wie das zweite Tier – nicht durch offene Gewalt, sondern durch Zeichen, wirtschaftlichen Druck und Überredung (13,11–17). Das ist auch
 ihre Methode: Sie wirkt über die Wahrnehmung. Sie kontrolliert Geld und Handel, und mit dieser
 Kontrolle kann sie Menschen sowohl aufbauen als auch ruinieren. Ihr Reichtum wird in
 erschöpfender, fast obsessiver Detailfülle beschrieben – Gold, Edelsteine, feine Stoffe,

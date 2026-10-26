@@ -37,8 +37,7 @@ dieser Textabschnitt, und welche Hinweise hat der Autor uns hinterlassen?
 **Die Daniel-Verbindung.** Die Offenbarung greift bewusst die Sprache auf, die
 {{% bible val="Daniel 2" link="dan:2,28-45" lang="de" %}} rahmt — eine Vision, die Weltreiche
 symbolisch darstellt, als eine Statue, zerstört von einem Stein, der selbst wieder ein Symbol ist.
-Daniel 2 ist das einzige prophetische Buch, das das Wort „Geheimnis" verwendet, und dieses Wort
-kommt auch in der Offenbarung dreimal vor: das Geheimnis der
+Daniel 2 ist das einzige prophetische Buch, das das Wort „Geheimnis" verwendet, und dieses Wort kommt auch in der Offenbarung viermal vor, für drei Geheimnisse: das Geheimnis der
 {{% bible val="Gemeinde" link="rev:1,20" lang="de" %}}, das Geheimnis
 {{% bible val="Gottes" link="rev:10,7" lang="de" %}} und das Geheimnis des
 {{% bible val="Tieres" link="rev:17,5" lang="de" %}} (wir kommen in Einheit 6 auf alle drei
@@ -52,8 +51,7 @@ es „durch seinen Engel kundgetan (*semaino*)" und seinen Knechten gegeben, „
 was bald geschehen muss". Diese beiden griechischen Verben tragen echtes Gewicht.
 
 - ***Semaino*** (σημαίνω) ist dasselbe Wort, das in der griechischen Übersetzung des Alten
-  Testaments für die Deutung einer symbolischen Vision bei Daniel verwendet wird. Es erscheint im
-  gesamten Neuen Testament nur fünfmal — drei davon beschreiben symbolisch die Art von Jesu Tod am
+  Testaments für die Deutung einer symbolischen Vision bei Daniel verwendet wird. Außerhalb der Offenbarung erscheint es im Neuen Testament nur fünfmal — drei davon beschreiben symbolisch die Art von Jesu Tod am
   Kreuz ({{% bible val="Johannes 12,33" link="jhn:12,33" lang="de" %}},
   {{% bible val="18,32" link="jhn:18,32" lang="de" %}},
   {{% bible val="21,19" link="jhn:21,19" lang="de" %}}). Bemerkenswert: Johannes hatte ein
@@ -101,7 +99,7 @@ davon abhängt, richtig zu erraten, welches Jahrhundert „die" Erfüllung sein 
    Beleg für eine symbolische Lesart?
 2. Wie veranschaulicht die Plage, bei der der Nil zu Blut wird, den Gedanken, dass etwas gleichzeitig
    ein reales historisches Ereignis und ein Symbol sein kann?
-3. Was bedeutet es, dass „Geheimnis" in der Offenbarung genau dreimal vorkommt und damit Daniel 2s
+3. Was bedeutet es, dass „Geheimnis" in der Offenbarung viermal (für drei Geheimnisse) vorkommt und damit Daniel 2s
    einzigartigen Gebrauch desselben Begriffs aufgreift?
 
 **Was das für uns bedeutet:**

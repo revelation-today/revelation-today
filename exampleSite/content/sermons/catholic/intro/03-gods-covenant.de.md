@@ -29,9 +29,7 @@ weit dieses Muster zurückreicht.
 ## Was ein Bund tatsächlich war
 
 In der antiken Welt war die Zugehörigkeit zu einer Familie nicht sentimental — sie war Überleben.
-Familie bedeutete Versorgung, Schutz und Identität. Die Heilige Schrift kennt vier Wege, auf denen
-ein Mensch Teil einer Familie werden konnte: durch Heirat, durch Geburt, durch Adoption und durch
-Bund. Von diesen ist der Bund derjenige, der uns in der Offenbarung und in der Geschichte Israels
+Familie bedeutete Versorgung, Schutz und Identität. Die Heilige Schrift kennt mehrere Wege, auf denen ein Mensch Teil einer Familie werden konnte: durch Heirat, durch Geburt und durch Bund. Von diesen ist der Bund derjenige, der uns in der Offenbarung und in der Geschichte Israels
 am meisten betrifft, denn er ist die Tür, durch die eine ganze Nation zu Gottes Familie wurde.
 
 Antike Bündnisse hatten zwei grundlegende Formen. Manche wurden zwischen Gleichrangigen geschlossen
@@ -90,7 +88,7 @@ im Tempel hinterlegt, und der Bund musste öffentlich und regelmäßig laut vorg
 sieben Jahre, und erneut bei der Krönung jedes Königs (Deuteronomium 17,18-19; 31,9-13).
 
 Es lohnt sich, kurz innezuhalten, um es klar zu sagen: Die Bedingungen dieses Bundes waren niemals
-unmöglich. Israel hätte sie halten können. Gott nennt sich selbst Israels Vater (Exodus 3,6), und
+unmöglich. Israel hätte sie halten können (5. Mose 30,11-14); die Schwäche lag in der menschlichen Sünde, nicht im Gesetz. Gott nennt sich selbst Israels Vater (Exodus 3,6), und
 das Wort, das die Heilige Schrift immer wieder für seine Bundestreue verwendet, ist *hesed* — ein
 reiches Wort, das Liebe, Güte, Barmherzigkeit und Treue zugleich bedeutet, die Loyalität, die man
 innerhalb einer Familie schuldet.

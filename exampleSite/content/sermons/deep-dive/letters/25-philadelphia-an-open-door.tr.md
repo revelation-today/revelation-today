@@ -59,10 +59,7 @@ tahliye edileceği gelecekteki bir dönem değil.
 
 ## Alıntı Üzerine Bir Not
 
-Bunu taşıyan ayet Yakup 1:27'dir: "kendini dünyanın lekesinden korumak" — dünyadan alınarak değil,
-dünyanın içinde korunarak. Süleyman'ın Özdeyişleri 7:5 bazen yanına konur, ama o, baştan
-çıkarılmaktan kaçınma üzerine İbrani bilgelik edebiyatıdır; örtüşme çeviridedir, argümanda değil.
-Yakup 1:27 kendi başına yeterince iyi durur.
+Yuhanna 17:15 bu ifade için en yakın paralel olandır (tērein ek). Yakup 1:27, "kendini dünyanın lekesinden korumak", aynı düşünceyi farklı bir edatla taşır (tērein apo): dünyadan alınarak değil, dünyanın içinde korunarak.
 
 ## Üzerinde Durulmaya Değer Canlı Bir Soru
 

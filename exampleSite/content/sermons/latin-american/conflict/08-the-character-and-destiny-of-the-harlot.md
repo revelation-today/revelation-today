@@ -18,8 +18,7 @@ actual method — how does she operate day to day? And what finally brings her d
 
 ## How she operates
 
-The harlot sits on "the second beast" of chapter 13 — the beast that works not through open
-force but through signs, economic pressure, and persuasion (13:11–17). That's her method too:
+The harlot sits on the scarlet beast, which parallels the first beast of chapter 13, and she herself works like the second beast — not through open force but through signs, economic pressure, and persuasion (13:11–17). That's her method too:
 she works through perception. She controls money and trade, and with that control she can both
 build people up and ruin them. Her wealth is described in exhaustive, almost obsessive detail —
 gold, jewels, fine cloth, spices, "and human beings sold as slaves" (18:11–13), a list drawn

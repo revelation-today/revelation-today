@@ -62,10 +62,7 @@ birini almak ve ondan uzağa götürmek için geldiği tasvir edilmiyor.
 
 **"Alınıp kapılmak" gerçekte ne anlama geliyor?** Yunanca kelime *harpazo*'dur, "kapmak" anlamına
 gelir. Yeni Antlaşma'nın başka yerlerinde, bir hırsızın mülk kapmasını, bir kurdun sürüye
-saldırmasını, Filipus'un Ruh tarafından aniden başka bir yere taşınmasını, Pavlus'un öfkeli bir
-kalabalıktan güvenliğe çekilmesini tanımlarken görünür. Her durumda, fiilin nesnesine gayri ihtiyari
-bir şey olur — ama bunların hiçbiri göğe fiziksel bir yükselişi tanımlamaz. Daha açıklayıcı olarak:
-İsa'yla buluşmanın gerçek *eylemini* tanımlayan kelime — *apantesis*, "buluşma" — Yeni Antlaşma'da
+saldırmasını, Filipus'un Ruh tarafından aniden başka bir yere taşınmasını, Pavlus'un öfkeli bir kalabalıktan güvenliğe çekilmesini ve ayrıca Pavlus'un üçüncü göğe alınmasını (2. Korintliler 12:2) ve çocuğun Tanrı'nın tahtına kaldırılmasını (Vahiy 12:5) tanımlarken görünür. Yani fiilin kendisi hareketin nereye vardığını belirlemez. Daha açıklayıcı olan şudur: İsa'yla buluşmanın gerçek *eylemini* tanımlayan kelime — *apantesis*, "buluşma" — Yeni Antlaşma'da
 sadece iki başka yerde görünür: bir düğünde bir güveyin varışı (Matta 25:6), ve Pavlus'a Roma'ya
 yaklaşırken verilen karşılama (Elçilerin İşleri 28:15). Her iki durumda da, insanlar gelen bir
 büyüğü karşılamak için dışarı çıkar ve sonra dönüp onu geldiği yoldan geri eşlik ederler. Bu
@@ -73,8 +70,7 @@ kelimenin arkasındaki gelenek budur — dışarı çıkan bir karşılama alay�
 Buraya uygulandığında, görüntü, İsa'nın yeryüzüne varışına işaret eder, inanlıların onu karşılamak
 için dışarı çıkması ve onunla geri dönmesine, ondan uzaklaştırılmalarına değil.
 
-**Bir başka husus:** bu belirli görüntü — İsa'yla bulutlarda buluşmak — Kutsal Kitap'ın başka
-hiçbir yerinde görünmez. Ana konusu gerçekte başka bir şey olan (yas tutanları teselli etmek,
+**Bir başka husus:** bu belirli görüntü — havada Rab'le buluşmak — Kutsal Kitap'ın başka hiçbir yerinde tam bu biçimiyle görünmez. Ana konusu gerçekte başka bir şey olan (yas tutanları teselli etmek,
 tahliyeyi tanımlamak değil) tek bir kısa pasaja dayanan büyük bir doktrin, ve bu görüntü başka
 hiçbir yerde doğrulanmadığında, bu, sonucu güvenle değil daha gevşek tutmak için makul bir
 sinyaldir.

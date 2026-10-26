@@ -75,9 +75,7 @@ menjemput siapa pun dan membawa mereka pergi darinya.
 **Apa sesungguhnya arti "diangkat"?** Kata Yunaninya adalah *harpazo*, yang berarti "merenggut."
 Kata itu muncul di tempat lain dalam Perjanjian Baru menggambarkan seorang pencuri yang
 merenggut harta benda, seekor serigala yang menyerang sekawanan domba, Filipus yang tiba-tiba
-dipindahkan oleh Roh, Paulus yang ditarik ke tempat aman dari kerumunan yang marah. Dalam setiap
-kasus, sesuatu yang tidak disengaja terjadi pada objek kata kerja itu — tetapi tidak satu pun dari
-kasus-kasus ini menggambarkan sebuah pengangkatan fisik ke surga. Lebih mengungkapkan lagi, kata
+dipindahkan oleh Roh, Paulus yang ditarik ke tempat aman dari kerumunan yang marah, dan juga Paulus yang diangkat ke surga ketiga (2 Korintus 12:2) serta anak yang direnggut naik ke takhta Allah (Wahyu 12:5). Jadi kata kerja itu sendiri tidak menentukan ke mana gerakan itu berakhir. Lebih mengungkapkan lagi, kata
 yang menggambarkan tindakan sesungguhnya dari menyongsong Yesus — *apantesis*, "menyongsong" —
 muncul di hanya dua tempat lain dalam Perjanjian Baru: kedatangan seorang mempelai pria pada
 sebuah pesta pernikahan (Matius 25:6), dan penyambutan yang diberikan kepada Paulus saat ia
@@ -87,8 +85,7 @@ kebiasaan di balik kata ini — sebuah rombongan penyambut yang keluar, lalu ber
 bersama-sama. Diterapkan di sini, gambarannya menunjuk pada Yesus tiba di bumi, dengan orang-
 orang percaya keluar menyongsong-Nya dan kembali bersama-Nya, bukan direnggut pergi darinya.
 
-**Satu pertimbangan lagi:** gambaran khusus ini — menyongsong Yesus di awan-awan — tidak muncul
-di tempat lain mana pun dalam Kitab Suci. Ketika sebuah doktrin besar bersandar pada satu perikop
+**Satu pertimbangan lagi:** gambaran khusus ini — menyongsong Tuhan di udara — tidak muncul di tempat lain mana pun dalam Kitab Suci dalam bentuk persis seperti ini. Ketika sebuah doktrin besar bersandar pada satu perikop
 singkat yang pokok bahasannya sebenarnya adalah sesuatu yang lain (menghibur mereka yang berduka,
 bukan menggambarkan sebuah evakuasi), dan gambaran itu tidak dikuatkan di tempat lain mana pun,
 itu adalah sebuah sinyal yang wajar untuk memegang kesimpulan itu dengan lebih longgar daripada

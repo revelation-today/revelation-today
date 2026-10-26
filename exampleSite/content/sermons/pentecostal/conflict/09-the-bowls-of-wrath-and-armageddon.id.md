@@ -75,11 +75,7 @@ pukulan penentu bukan dilakukan oleh seorang prajurit melainkan oleh Yael, seora
 dengan sebatang patok kemah (Hakim-hakim 4). Elia mengalahkan beberapa ratus nabi Baal seorang
 diri di Gunung Karmel, yang memandang ke lembah yang sama (1 Raja-raja 18). Dan Raja Yosia, yang
 memerintah sebuah kerajaan kecil dan rentan, memberikan nyawanya berperang melawan Firaun Nekho
-di Megido — sebuah pertahanan yang mahal harganya yang secara historis membantu menunda pasukan
-Mesir cukup lama sehingga Babel, bukan Asyur, akhirnya memerintah wilayah itu, yang sangat
-mungkin menjadi alasan mengapa suku-suku selatan Israel selamat dari pembuangan secara utuh
-sementara suku-suku utara, yang lebih dahulu dideportasi oleh Asyur, begitu saja lenyap dari
-sejarah. Setiap "kisah Megido" dalam Alkitab mengikuti bentuk yang sama: yang lemah dan tidak
+di Megido — sebuah perlawanan yang mahal harganya melawan kekuatan dunia, tanpa kemenangan di dalamnya, dan itulah nada yang jujur dalam pola ini. Sebagian besar kisah Megido dalam Alkitab mengikuti bentuk yang sama: yang lemah dan tidak
 mungkin mengalahkan yang tak terkalahkan. Itulah sejarah yang sarat makna di balik nama
 "Harmagedon" — bukan sebuah nubuat tentang sebuah konflik adikuasa di masa depan, melainkan
 sebuah nama yang sudah membawa putusannya sendiri: Allah mengkhususkan diri dalam menjatuhkan

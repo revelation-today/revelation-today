@@ -76,7 +76,7 @@ disproportionate anger of an impossible-to-please deity, but the real grief of a
 who kept His own side completely and asked for nothing His people couldn't actually do.
 
 **Original-language note: *hesed*.** Through all of this, God calls Himself the Father of Israel
-({{% bible val="Exodus 3:6" link="exo:3,6" lang="en" %}}) — a father who, even while legally
+({{% bible val="Exodus 4:22" link="exo:4,22" lang="en" %}}) — a father who, even while legally
 entitled to enforce covenant curses, remains merciful. Scripture captures that combination in the
 Hebrew word *hesed* (חֶסֶד), usually translated "covenant loyalty" or "steadfast love," but rich
 enough to also carry the sense of goodness, mercy, and faithfulness depending on context. It's

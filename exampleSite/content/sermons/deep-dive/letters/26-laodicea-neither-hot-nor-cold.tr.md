@@ -51,8 +51,7 @@ alıntılanan ayetlerden biridir, ama genellikle bağlamından koparılarak iman
 müjdeleme çağrısı olarak okunur. Bağlamda bu, çoktan Mesih'e sahip olduğunu iddia eden bir kiliseye
 seslenir — bu, Ezgiler Ezgisi 5:1-5'i yankılayan, sevgilinin sevilene çağrısıdır, dışarıdakiler
 için bir çağrı değil. Ve karşılık verenler için vaat şaşırtıcıdır: "Tahtımda benimle oturacaklar"
-(3:21) — yalnızca Tanrı'nın huzurunda durmak değil, ki bu Vahiy'in taht odası sahneleri boyunca
-herkesin konumudur, ama gerçekten oturmak; İsa'nın kendi egemenlik yerini paylaşmak.
+(3:21) — 4-5. bölümlerin taht odasında ihtiyarlar tahtın çevresindeki tahtlarda oturur, ama burada vaat, İsa'yla birlikte O'nun kendi tahtında oturmaktır; özel bir armağan: İsa'nın kendi egemenlik yerini paylaşmak (3:21).
 
 ## Üzerinde Durulmaya Değer Canlı Bir Soru
 

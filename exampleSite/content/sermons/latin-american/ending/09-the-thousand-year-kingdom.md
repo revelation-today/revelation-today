@@ -37,9 +37,7 @@ the devil, or Satan"; both describe him deceiving the world, and in both, that d
 stopped as a direct result. In chapter 12, Satan knows he has "only a short time" (12:12); in
 chapter 20, he is released for "a short time" (20:3). The parallels run deep enough that these
 read less like two separate events than the same event, described twice, from different angles
-— a pattern Scripture uses elsewhere too. Paul describes this same binding as something Jesus
-"already accomplished" at his first coming (Mark 3:27), while also describing a "man of
-lawlessness" restrained now but released briefly before Christ's return (2 Thessalonians
+— a pattern Scripture uses elsewhere too. Jesus describes this same binding as something he "already accomplished" at his first coming (Mark 3:27), while Paul describes a "man of lawlessness" restrained now but released briefly before Christ's return (2 Thessalonians
 2:6–12) — both true at once.
 
 ## What about the Old Testament promises?

@@ -146,7 +146,7 @@ Ama bunun canavarla ne ilgisi var? Daniel'deki öykünün nasıl bittiğine bak�
 ## Süleyman'ın zenginliği
 
 <a name="d311"></a>
-Üçüncü yol: 666, Kutsal Kitap'ta tam olarak bu şekilde yazılı olarak {{% bible val="Kral Süleyman'ın yaşamının özetinde" link="1ki:10,14-29" lang="tr" %}}, tam da bu özetin başında görünür — {{% bible val="onun feci başarısızlığının anlatılmasından" link="1ki:11,1-13" lang="tr" %}} hemen önceki son yükseliş noktası.
+Üçüncü yol: 666, Kutsal Kitap'ta {{% bible val="Kral Süleyman'ın yaşamının özetinde" link="1ki:10,14-29" lang="tr" %}}, tam da bu özetin başında görünür (sayı bir kez daha, Ezra 2:13'te geçer, ama yalnızca tek bir ailenin büyüklüğü olarak) — {{% bible val="onun feci başarısızlığının anlatılmasından" link="1ki:11,1-13" lang="tr" %}} hemen önceki son yükseliş noktası.
 
 Süleyman'ın öyküsü nedir? {{% bible val="Bat-Şeva öyküsüyle" link="2sa:11" lang="tr" %}} başlar; bu da {{% bible val="Natan'ın Davut'u azarlamasına ve bu günahtan doğan çocuğun ölümüne" link="2sa:12,1-23" lang="tr" %}} yol açar — yine de {{% bible val="Tanrı ona Bat-Şeva'dan, Tanrı'nın kendi sevgisinin bir işareti olan başka bir çocuk verir" link="2sa:12,24-25" lang="tr" %}}. Süleyman tahta çıktıktan sonra, {{% bible val="zenginlik ve güç yerine anlayışlı bir yürek istedi — ve bunu istediği için Tanrı ona bunun üstüne bütün gücü ve zenginliği de verdi" link="1ki:3" lang="tr" %}}.
 

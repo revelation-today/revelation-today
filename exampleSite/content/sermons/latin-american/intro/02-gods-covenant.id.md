@@ -13,8 +13,7 @@ next: /sermons/latin-american/worship-and-seals/03-worship-in-the-throne-room
 
 Di dunia kuno, menjadi bagian dari sebuah keluarga berarti kelangsungan hidup itu sendiri —
 perlindungan, penyediaan kebutuhan, identitas, segalanya. Jika kau tidak dilahirkan ke dalam
-keluarga yang tepat, Kitab Suci hanya mengenal beberapa pintu masuk: pernikahan, kelahiran,
-pengangkatan anak, atau perjanjian. Pintu yang terakhir itu — perjanjian — adalah pintu yang
+keluarga yang tepat, Kitab Suci hanya mengenal beberapa pintu masuk: pernikahan, kelahiran, atau perjanjian. Pintu yang terakhir itu — perjanjian — adalah pintu yang
 dipilih Allah untuk dilalui-Nya bersama umat-Nya, dan memahami cara kerjanya di dunia kuno
 mengubah cara kita membaca seluruh Alkitab, termasuk Kitab Wahyu.
 
@@ -59,8 +58,7 @@ pada masa itu: sebuah pembukaan yang menyebut pihak yang lebih besar ("Akulah TU
 Allahmu"), sebuah prolog yang mengingatkan kebaikan yang telah ditunjukkan ("yang membawamu
 keluar dari Mesir"), tuntutan-tuntutan, berkat dan kutuk, serta saksi-saksi. Dan yang paling
 penting — tidak seperti perjanjian-perjanjian penaklukan yang seringkali dirancang agar pihak
-yang lemah gagal — persyaratan Allah tidak pernah mustahil. Israel bisa saja menepatinya.
-Mereka hanya berkali-kali memilih untuk tidak melakukannya. Melalui semua itu, Allah menyebut
+yang lemah gagal — persyaratan Allah tidak pernah mustahil. Israel bisa saja menepatinya; berkali-kali mereka tidak menepatinya. Melalui semua itu, Allah menyebut
 diri-Nya sendiri Bapa Israel — seorang bapa yang, bahkan ketika menegakkan ketentuan-ketentuan
 perjanjian, tetap ditandai oleh hesed: kesetiaan perjanjian yang cukup kaya untuk diterjemahkan
 sebagai kasih, kebaikan, belas kasihan, dan kesetiaan sekaligus.

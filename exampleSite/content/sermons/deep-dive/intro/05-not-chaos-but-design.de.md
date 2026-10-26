@@ -38,8 +38,7 @@ Liste, Ephesus und Laodizea, sind die beiden, die in Gefahr stehen, ihre Identit
 ein einzigartig scharfes Urteil erhält („du hast den Namen, dass du lebst, und bist tot",
 {{% bible val="Offb 3,1" link="rev:3,1" lang="de" %}}) ganz ohne Lob in seiner Eröffnungsbeschreibung.
 Vernünftige Leser könnten die „schlimmste" Gemeinde unterschiedlich einstufen; unstrittig ist, dass
-die Briefe mit echter Symmetrie und einem Zentrum korrupter Führung angeordnet sind, nicht
-willkürlich.
+die Briefe mit echter Symmetrie und einem Mittelpunkt angeordnet sind, an dem falsche Lehre in der Gemeinde geduldet wird, nicht willkürlich.
 
 **Alles fließt aus dem Thronsaal.** Gegen diese ernüchternde Diagnose ist Gottes Antwort
 ununterbrochene Anbetung (Kapitel 4-5) — und aus diesem Thronsaal fließt alles andere im Buch

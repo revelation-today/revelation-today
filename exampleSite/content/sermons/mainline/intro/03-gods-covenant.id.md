@@ -31,8 +31,7 @@ umat-Nya.
 
 Di dunia kuno, menjadi bagian dari sebuah keluarga berarti kelangsungan hidup —
 penyediaan, perlindungan, jati diri. Jika kamu tidak dilahirkan ke dalam keluarga
-yang tepat, Alkitab mengenali empat pintu masuk: pernikahan, kelahiran, adopsi,
-dan perjanjian. Secara historis ada dua jenis perjanjian. Yang satu antara pihak
+yang tepat, Alkitab mengenali beberapa pintu masuk: pernikahan, kelahiran, dan perjanjian. Secara historis ada dua jenis perjanjian. Yang satu antara pihak
 yang setara — sebuah aliansi timbal balik, para anggotanya disebut saudara. Yang
 lain antara pihak yang kuat dan yang lemah: sebuah perjanjian penaklukan, di mana
 pihak yang lebih kuat disebut tuan atau bapak, dan pihak yang lebih lemah disebut
@@ -85,8 +84,7 @@ dan bumi sendiri (Ulangan 30:19).
 Yang terpenting — dan inilah inti dari apa yang membuat ini sebuah perjanjian
 anugerah dan bukan sekadar hukum — ketentuan-ketentuan perjanjian itu tidak
 pernah mustahil untuk dipenuhi, tidak seperti begitu banyak perjanjian duniawi
-yang dirancang untuk menjebak pihak yang lebih lemah agar gagal. Israel bisa
-saja memegang perjanjian itu. Israel memilih untuk tidak melakukannya. Dan di
+yang dirancang untuk menjebak pihak yang lebih lemah agar gagal. Israel bisa saja memegang perjanjian itu; berulang kali Israel tidak melakukannya (kelemahannya ada pada dosa manusia, bukan pada hukumnya, Roma 8:3). Dan di
 sepanjang itu semua, Allah menyebut diri-Nya sendiri Bapa Israel — seorang
 bapa yang, sekalipun terikat oleh ketentuan-ketentuan perjanjian, tetap
 berbelas kasihan. Alkitab menangkap perpaduan itu dalam kata Ibrani yang kaya,
@@ -131,5 +129,5 @@ mendapatkannya karena usahanya sendiri.
   manakah kamu pernah mengalaminya, dan di manakah kamu merasa paling sulit
   untuk memberikannya kepada orang lain?
 - Jika ketentuan-ketentuan perjanjian Israel sungguh-sungguh dapat dipenuhi
-  dan Israel semata-mata memilih untuk tidak memenuhinya, apa artinya itu
+  dan Israel toh berulang kali tidak memenuhinya, apa artinya itu
   tentang hakikat dosa — dan tentang perlunya anugerah?

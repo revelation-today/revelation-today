@@ -11,7 +11,7 @@ next: /sermons/deep-dive/worship-and-seals/36-the-two-witnesses
 
 ## Pembuka
 
-Ingatlah kapan terakhir kali kelompok Anda mendoakan seorang teman, tetangga, atau rekan kerja yang tidak mau tahu apa-apa tentang iman — dan tidak ada yang berubah. Tidak ada terobosan, tidak ada jawaban dramatis, hanya kesunyian keras yang sama minggu demi minggu. Kurang lebih di situlah Wahyu 10 dimulai. Sembilan tulah telah jatuh atas dunia yang "tidak juga bertobat" (Wahyu 9:20-21), dan sangkakala keenam baru saja memudar. Jika bencana saja dapat mengubah hati, itu sudah terjadi. Jadi apa sesungguhnya yang menjangkau manusia? Wahyu 10 menjawab pertanyaan itu — dan jawabannya bukan tulah lainnya. Ini adalah sebuah gulungan kitab yang harus dimakan seseorang.
+Ingatlah kapan terakhir kali kelompok Anda mendoakan seorang teman, tetangga, atau rekan kerja yang tidak mau tahu apa-apa tentang iman — dan tidak ada yang berubah. Tidak ada terobosan, tidak ada jawaban dramatis, hanya kesunyian keras yang sama minggu demi minggu. Kurang lebih di situlah Wahyu 10 dimulai. Enam tulah sangkakala telah jatuh atas dunia yang "tidak juga bertobat" (Wahyu 9:20-21), dan sangkakala keenam baru saja memudar. Jika bencana saja dapat mengubah hati, itu sudah terjadi. Jadi apa sesungguhnya yang menjangkau manusia? Wahyu 10 menjawab pertanyaan itu — dan jawabannya bukan tulah lainnya. Ini adalah sebuah gulungan kitab yang harus dimakan seseorang.
 
 ## Menata adegan: mengapa kisah ini berhenti sejenak di sini
 

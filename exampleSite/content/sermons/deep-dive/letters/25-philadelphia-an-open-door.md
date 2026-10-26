@@ -27,7 +27,7 @@ Into a congregation that is financially struggling and facing opposition, Jesus 
 
 ## A note on citation
 
-The verse that carries this is James 1:27, "keep oneself unstained from the world" — protected within the world, not removed from it. Proverbs 7:5 is sometimes quoted alongside it, but that is Hebrew wisdom literature about avoiding seduction; the overlap is in the English wording, not in the argument. James 1:27 stands well enough on its own.
+John 17:15 is the closest parallel for this phrase (tērein ek). James 1:27, "keep oneself unstained from the world", has the same idea with a different preposition (tērein apo): kept within the world, not removed from it.
 
 ## A live question worth naming
 

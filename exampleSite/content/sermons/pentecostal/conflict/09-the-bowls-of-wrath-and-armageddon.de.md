@@ -75,11 +75,7 @@ Megiddo, und der entscheidende Schlag wurde nicht von einem Soldaten geführt, s
 einer Frau mit einem Zeltpflock (Richter 4). Elia besiegte mehrere hundert Baalspropheten im
 Alleingang auf dem Berg Karmel, mit Blick auf dasselbe Tal (1. Könige 18). Und König Josia, der
 über ein kleines, verletzliches Königreich herrschte, gab sein Leben im Kampf gegen Pharao Necho
-bei Megiddo – ein kostspieliger Widerstand, der historisch half, die Streitkräfte Ägyptens lange
-genug aufzuhalten, sodass letztlich Babel, nicht Assyrien, die Region beherrschte, was sehr
-wohl der Grund sein könnte, warum die südlichen Stämme Israels das Exil intakt überstanden,
-während die nördlichen Stämme, früher von Assyrien deportiert, einfach aus der Geschichte
-verschwanden. Jede einzelne „Megiddo-Geschichte" in der Bibel folgt derselben Gestalt: Die
+bei Megiddo – ein kostspieliger Widerstand gegen eine Weltmacht, ohne einen Sieg darin, und das ist die ehrliche Note in diesem Muster. Die meisten Megiddo-Geschichten in der Bibel folgen derselben Gestalt: Die
 Schwachen und Unwahrscheinlichen besiegen den Unbesiegbaren. Das ist die geschichtsträchtige
 Bedeutung hinter dem Namen „Armageddon" – keine Prophezeiung über einen zukünftigen
 Supermachtkonflikt, sondern ein Name, der bereits sein eigenes Urteil in sich trägt: Gott ist

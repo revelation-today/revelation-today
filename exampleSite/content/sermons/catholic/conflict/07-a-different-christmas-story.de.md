@@ -83,7 +83,7 @@ die es geschieht.
 ## Und die marianische Deutung — eine echte, zusätzliche Schicht
 
 Hier ist der Teil, der warmherzig und ohne Vorbehalt gesagt werden verdient: Die katholische
-Tradition hat, von den Kirchenvätern an, diese Frau auch als Maria gelesen — und diese Deutung ist
+Tradition hat, von der späteren Zeit der Kirchenväter an, diese Frau auch als Maria gelesen (die frühesten Väter lasen sie überwiegend als die Kirche) — und diese Deutung ist
 kein Irrtum, der korrigiert werden müsste. Sie ist eine zweite, legitime Sichtweise, die die Kirche
 neben der ersten festgehalten hat, nicht anstelle von ihr.
 

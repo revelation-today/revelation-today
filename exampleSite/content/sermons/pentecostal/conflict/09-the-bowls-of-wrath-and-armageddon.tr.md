@@ -69,10 +69,7 @@ tarihinde durdurulamaz bir kötülüğün kazandığını anlatan hiçbir şey y
 bir asker değil, bir çadır kazığıyla Yael adında bir kadın vurdu (Hakimler 4). İlyas, aynı vadiye
 bakan Karmel Dağı'nda birkaç yüz Baal peygamberini tek başına yendi (1. Krallar 18). Ve küçük,
 savunmasız bir krallığı yöneten Kral Yoşiya, Megiddo'da Firavun Neko'ya karşı savaşırken hayatını
-verdi — Mısır'ın güçlerini, Asur değil Babil'in bölgeyi yönetmesini sağlayacak kadar geciktirmeye
-tarihsel olarak yardımcı olan pahalı bir duruş, ki bu da çok olasılıkla İsrail'in güney oymaklarının
-sürgünden bütün olarak sağ çıkmasının nedenidir, oysa daha önce Asur tarafından sürgün edilen kuzey
-oymakları basitçe tarihten kayboldu. Kutsal Kitap'taki her tek "Megiddo hikayesi" aynı şekli izler:
+verdi — bir dünya gücüne karşı, içinde zafer bulunmayan pahalı bir duruş; örüntüdeki dürüst nota budur. Kutsal Kitap'taki Megiddo hikâyelerinin çoğu aynı şekli izler:
 zayıf ve olası görünmeyen, yenilmez olanı yener. Bu, "Armageddon" adının arkasındaki tarih
 yüklü anlamdır — gelecekteki bir süper güç çatışması hakkında bir peygamberlik değil, zaten kendi
 hükmünü taşıyan bir isim: Tanrı, yenilmez olanı küçük ve olası görünmeyen aracılığıyla devirme

@@ -37,7 +37,7 @@ Genau dieses Muster erscheint am Sinai. Die Präambel: "Ich bin der HERR, dein G
 
 Entscheidend: Die Bedingungen von Gottes Bund waren nie unmöglich zu erfüllen, anders als so viele menschliche Bündnisse, die darauf angelegt waren, die schwächere Partei zum Scheitern zu bringen. Israel hätte den Bund halten können. Sie haben sich einfach dagegen entschieden.
 
-Durch alles hindurch nennt sich Gott Israels Vater (2. Mose 3,6) — ein Vater, der, selbst gebunden an die Bedingungen des Bundes, barmherzig bleibt. Die Schrift hat ein Wort für diese Verbindung: Hesed, meist übersetzt mit "Bundestreue" oder "beständige Liebe" — reich genug, um Liebe, Güte, Barmherzigkeit und Treue zugleich zu bedeuten.
+Durch alles hindurch nennt sich Gott Israels Vater (2. Mose 4,22) — ein Vater, der, selbst gebunden an die Bedingungen des Bundes, barmherzig bleibt. Die Schrift hat ein Wort für diese Verbindung: Hesed, meist übersetzt mit "Bundestreue" oder "beständige Liebe" — reich genug, um Liebe, Güte, Barmherzigkeit und Treue zugleich zu bedeuten.
 
 ## Warum das für das Lesen der Offenbarung wichtig ist
 

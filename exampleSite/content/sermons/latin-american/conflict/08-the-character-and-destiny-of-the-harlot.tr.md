@@ -18,8 +18,7 @@ işliyor? Ve onu sonunda çökerten şey nedir?
 
 ## Nasıl işliyor
 
-Fahişe, 13. bölümün "ikinci canavarı" üzerinde oturur — açık güç yerine işaretler, ekonomik
-baskı ve ikna yoluyla işleyen canavar (13:11-17). Onun yöntemi de budur: algı yoluyla işler.
+Fahişe, 13. bölümdeki ilk canavara karşılık gelen kırmızı canavarın üzerinde oturur ve kendisi ikinci canavar gibi işler — açık güç yerine işaretler, ekonomik baskı ve ikna yoluyla (13:11-17). Onun yöntemi de budur: algı yoluyla işler.
 Parayı ve ticareti kontrol eder ve bu kontrolle hem insanları yükseltebilir hem de mahvedebilir.
 Zenginliği ayrıntılı, neredeyse takıntılı bir biçimde tasvir edilir — altın, mücevherler, ince
 kumaş, baharatlar, "ve köle olarak satılan insan canları" (18:11-13), antik ticaret şehri Sur'un

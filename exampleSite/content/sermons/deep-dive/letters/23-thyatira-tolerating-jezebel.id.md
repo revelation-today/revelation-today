@@ -50,7 +50,7 @@ penderitaan bagi para pengikut Izebel yang dimaksudkan untuk mendorong pertobata
 sebuah peringatan bahwa "semua jemaat akan tahu, bahwa Akulah Dia yang menyelidiki batin dan hati"
 (2:23) — kegagalan Tiatira menjadi pelajaran bagi setiap jemaat lainnya.
 
-Kepada mereka yang tetap setia di bawah kepemimpinan yang rusak ini, Yesus menjanjikan otoritas
+Kepada mereka yang tetap setia menghadapi ajaran sesat ini, Yesus menjanjikan otoritas
 nyata bagi mereka sendiri — memerintah "dengan tongkat besi," bahasa dari Mazmur 2 — dan "bintang
 timur" (2:28), yang di tempat lain dalam Kitab Wahyu (22:16) adalah gelar yang diterapkan Yesus
 pada diri-Nya sendiri: fajar sebuah pengharapan yang bertahan melampaui kerusakan apa pun yang

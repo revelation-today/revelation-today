@@ -41,9 +41,7 @@ direkte Folge gestoppt. In Kapitel 12 weiß der Satan, dass er „nur eine kurze
 (12,12); in Kapitel 20 wird er für „eine kurze Zeit" freigelassen (20,3). Die Parallelen
 reichen tief genug, dass sich das weniger wie zwei getrennte Ereignisse liest als wie
 dasselbe Ereignis, zweimal beschrieben, aus verschiedenen Blickwinkeln – ein Muster, das die
-Schrift auch anderswo verwendet. Paulus beschreibt dieselbe Bindung als etwas, das Jesus bei
-seinem ersten Kommen „bereits vollbracht" hat (Markus 3,27), während er zugleich einen
-„Menschen der Gesetzlosigkeit" beschreibt, der jetzt zurückgehalten wird, aber kurz vor Christi
+Schrift auch anderswo verwendet. Jesus beschreibt dieselbe Bindung als etwas, das er bei seinem ersten Kommen „bereits vollbracht" hat (Markus 3,27), während Paulus einen „Menschen der Gesetzlosigkeit" beschreibt, der jetzt zurückgehalten wird, aber kurz vor Christi
 Wiederkunft freigelassen wird (2. Thessalonicher 2,6–12) – beides gleichzeitig wahr.
 
 ## Was ist mit den alttestamentlichen Verheißungen?

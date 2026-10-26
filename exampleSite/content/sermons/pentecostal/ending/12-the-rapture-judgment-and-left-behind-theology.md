@@ -66,9 +66,7 @@ away from it.
 
 **What does "caught up" actually mean?** The Greek word is *harpazo*, meaning "to snatch." It
 appears elsewhere in the New Testament describing a thief snatching property, a wolf attacking a
-flock, Philip being suddenly relocated by the Spirit, Paul being pulled to safety from an angry
-crowd. In every case, something involuntary happens to the object of the verb — but none of
-these describe a physical ascension into heaven. More tellingly, the word that describes the
+flock, Philip being suddenly relocated by the Spirit, Paul being pulled to safety from an angry crowd, and also Paul caught up to the third heaven (2 Corinthians 12:2) and the child snatched up to God's throne (Revelation 12:5). So the verb alone does not settle where the movement ends. More telling is the word that describes the
 actual *action* of meeting Jesus — *apantesis*, "meeting" — appears in only two other places in
 the New Testament: the arrival of a bridegroom at a wedding (Matthew 25:6), and the welcome given
 to Paul as he approached Rome (Acts 28:15). In both cases, people go out to meet an arriving
@@ -77,8 +75,7 @@ this word — a welcoming party going out, then processing back in together. App
 image points to Jesus arriving on earth, with believers going out to welcome him and returning
 with him, not being carried away from it.
 
-**One more consideration:** this specific image — meeting Jesus in the clouds — appears nowhere
-else in Scripture. When a major doctrine rests on one brief passage whose main subject is
+**One more consideration:** this specific image — believers meeting the Lord in the air — appears nowhere else in Scripture in just this form. When a major doctrine rests on one brief passage whose main subject is
 actually something else (comforting the grieving, not describing an evacuation), and that image
 isn't corroborated anywhere else, that's a reasonable signal to hold the conclusion more loosely
 than confidently.

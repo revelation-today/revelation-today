@@ -50,7 +50,7 @@ Bedeutet das, dass nur buchstäbliche Märtyrer regieren dürfen? Nein — die P
 
 **Den Text verstehen**
 1. Geht die drei parallelen Szenen zwischen Offenbarung 12 und 20 oben durch. Findet ihr dieses Argument für Rekapitulation überzeugend? Was würde eine sequenzielle Lesart zu denselben Parallelen sagen?
-2. Offenbarung 20,7-10 — nicht 19,7-10 — ist die Stelle, an der die Schlacht von Gog und Magog tatsächlich erzählt wird (19,7-10 ist die Ankündigung der Hochzeit des Lammes). Warum ist es wichtig, dieses Zitat richtig zu bekommen, um dem Argument zu folgen?
+2. Offenbarung 20,7-10 erzählt die Schlacht von Gog und Magog, während 19,7-10 die Hochzeit des Lammes ankündigt. Warum ist es wichtig, diese beiden Szenen auseinanderzuhalten, um dem Argument zu folgen?
 3. Was verändert das Muster des *hysteron proteron* in 20,4 daran, wie ihr "sie wurden lebendig und regierten" lest?
 
 **Und was bedeutet das für uns?**

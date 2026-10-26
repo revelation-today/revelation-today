@@ -69,11 +69,7 @@ Consider the pattern: Deborah and Barak defeated an oppressive army near Megiddo
 finishing blow was struck not by a soldier but by Jael, a woman with a tent peg (Judges 4).
 Elijah defeated several hundred prophets of Baal single-handedly on Mount Carmel, overlooking
 the same valley (1 Kings 18). And King Josiah, ruling a small, vulnerable kingdom, gave his life
-fighting Pharaoh Necho at Megiddo — a costly stand that historically helped delay Egypt's forces
-long enough that Babel, not Assyria, ended up ruling the region, which is very possibly the
-reason the southern tribes of Israel survived exile intact while the northern tribes,
-deported earlier by Assyria, simply vanished from history. Every single "Megiddo story" in the
-Bible follows the same shape: the weak and unlikely defeat the invincible. That's the loaded
+fighting Pharaoh Necho at Megiddo — a costly stand against a world power, with no victory in it, which is the honest note in the pattern. Most of the Megiddo stories in the Bible have the same shape: the weak and unlikely defeat the invincible. That's the loaded
 history behind the name "Armageddon" — not a prophecy about a future superpower conflict, but a
 name that already carries its own verdict: God specializes in toppling the unbeatable through
 the small and unlikely.

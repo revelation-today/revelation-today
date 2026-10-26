@@ -37,7 +37,7 @@ Die "erschreckte" Reaktion der Menge auf die Rechtfertigung der zwei Zeugen (11,
 
 1. Wenn eure eigenen Gebete tatsächlich Ereignisse in diesem Ausmaß auslösen, wie dieser Abschnitt behauptet, wie verändert das euer Gespür dafür, was Gebet tatsächlich bewirkt?
 2. Die Posaunen entziehen systematisch Nahrung, Wasser, Handel und sogar Licht und Finsternis selbst – die grundlegenden Sicherheiten des täglichen Lebens. Was sind die modernen Entsprechungen dessen, worauf Menschen statt auf Gott vertrauen und was in eurem eigenen Leben vielleicht entzogen werden muss?
-3. Trotz neun sich steigernder Plagen taten die Menschen "immer noch nicht Buße". Warum, glaubt ihr, erzeugt sich verschärfendes Gericht allein so selten echte Buße – und was legt das darüber nahe, wie Gott Menschen stattdessen erreicht?
+3. Trotz sechs sich steigernder Plagen taten die Menschen "immer noch nicht Buße". Warum, glaubt ihr, erzeugt sich verschärfendes Gericht allein so selten echte Buße – und was legt das darüber nahe, wie Gott Menschen stattdessen erreicht?
 4. Das Zeugnis der zwei Zeugen (sogar durch ihren Tod) bewirkte mehr als sechs Posaunenplagen zusammen. Was legt das über die relative Kraft von treuem Zeugnis gegenüber dramatischem Gericht als Weg nahe, Menschen zu erreichen?
 5. Selbst die dämonischen Heuschrecken der fünften Posaune stehen unter ausdrücklichen göttlichen Grenzen, ebenso wie Satan die Erlaubnis brauchte, bevor er Hiob anrühren durfte. Wie prägt das euer Gespür dafür, wie viel Kontrolle das Böse tatsächlich hat gegenüber dem, wie viel es zu haben scheint?
 

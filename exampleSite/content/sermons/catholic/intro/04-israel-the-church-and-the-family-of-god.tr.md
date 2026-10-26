@@ -91,8 +91,7 @@ biçim olarak Yeni Yeruşalim — Kutsal Yazı'nın, Kilise'nin yüzyıllar sonr
 öğretecek olduğu şeyi tam olarak önceden haber vermesi gibi okunur.
 
 Ve Kilise, bu resmin diğer yarısı konusunda da eşit derecede açık olmuştur. Aynı konsilde
-yayımlanan *Nostra Aetate*, Tanrı'nın Yahudi halkıyla yaptığı antlaşmanın hiçbir zaman
-iptal edilmediğinde ısrar eder, Yahudilere yönelik her türlü nefret ve zulmü kınar ve
+yayımlanan *Nostra Aetate*, Tanrı'nın Yahudi halkına verdiği armağanların ve çağrısının geri alınamaz olduğunu hatırlatır (Romalılar 11:29), Yahudilere yönelik her türlü nefret ve zulmü kınar ve
 Kutsal Yazı'nın — "Şeytan'ın havrası" kadar sert bölümler dahil — belirli bir birinci yüzyıl
 yerel çatışmasını Yahudi halkı hakkında topyekûn bir hükme dönüştürecek her okumasını kesin
 bir şekilde reddeder. Aynı çizgiyi izleyen Katolik Kilisesi İlmihali, Kilise'nin Yahudi halkıyla

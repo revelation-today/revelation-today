@@ -95,8 +95,7 @@ Kitab Suci yang mengantisipasi persis apa yang akan diajarkan Gereja tentang dir
 berabad-abad kemudian.
 
 Dan Gereja sama jelasnya tentang setengah lain dari gambaran ini. *Nostra Aetate*, dimaklumkan
-pada konsili yang sama, menegaskan bahwa perjanjian yang dibuat Allah dengan bangsa Yahudi tidak
-pernah dicabut, mengecam kebencian dan penganiayaan terhadap orang Yahudi dalam bentuk apa pun,
+pada konsili yang sama, mengingatkan bahwa karunia dan panggilan Allah kepada bangsa Yahudi tidak dapat ditarik kembali (Roma 11:29), mengecam kebencian dan penganiayaan terhadap orang Yahudi dalam bentuk apa pun,
 dan dengan tegas menolak segala pembacaan Kitab Suci — termasuk ayat-ayat setajam "jemaah Iblis"
 — yang akan mengubah sebuah konflik lokal abad pertama yang khusus menjadi vonis yang berlaku
 umum atas bangsa Yahudi. Katekismus, mengikuti garis yang sama, memperlakukan hubungan Gereja

@@ -38,8 +38,7 @@ Bu yüzden dul ve yetimlere bakmak gerçek dinin belirleyici bir işareti haline
 ({{% bible val="Yakup 1:27" link="jas:1,27" lang="tr" %}}). Ve Kutsal Kitap'ın kendi
 anlatısının kalıbı bu eleştiriyi pekiştirir: Tanrı, kralları ve kahramanları çevredeki kültürün
 yazacağı tam olarak o ailelerden seçmeye devam eder — Moavlı Ruth, Kral Davut'un
-büyükannesi olur; İsa'nın Matta 1'deki soy kütüğünde adı geçen dört kadından üçü İsrailli
-olmayan yabancılardır (Kenanlı Tamar, Moavlı Ruth, Hititli'nin karısı Bat-Şeva).
+büyükannesi olur; İsa'nın Matta 1'deki soy kütüğünde adı geçen dört kadının hepsi bir yabancının öyküsüyle gelir: Kenanlı Tamar, Erihalı Rahav, Moavlı Ruth ve Hititli kocası üzerinden anılan Bat-Şeva.
 
 **Kurtarıcı — Tanrı'nın kendi üzerine aldığı belirli bir yasal rol.** Antik İsrail hukuku,
 *go'el*, "kurtaran en yakın akraba" ({{% bible val="Levililer 25:47-49" link="lev:25,47-49" lang="tr" %}}) adında bir rol içeriyordu — başka bir akraba ciddi belaya düştüğünde devreye giren
@@ -85,7 +84,7 @@ kalıcı bir aidiyet.
 2. *Go'el*'in "aile ailesine yardım eder" gibi genel bir fikir değil, belirli bir yasal görev
    olması ne anlama geliyor? Bu, Tanrı'nın bu rolü kendisi üzerine almasının ne anlama geldiğini
    nasıl keskinleştiriyor?
-3. İsa'nın soy kütüğündeki (Matta 1) adı geçen kadınlara — Tamar, Ruth, Bat-Şeva — bakın. Ortak
+3. İsa'nın soy kütüğündeki (Matta 1) adı geçen kadınlara — Tamar, Rahav, Ruth, Bat-Şeva — bakın. Ortak
    noktaları nedir ve Matta neden onları bilinçli olarak dahil etmiş olabilir?
 
 **Bizim için ne anlama geliyor:**

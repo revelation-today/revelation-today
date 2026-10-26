@@ -73,9 +73,7 @@ wegzutragen.
 **Was bedeutet „entrückt" tatsächlich?** Das griechische Wort ist *harpazo*, was „ergreifen,
 entreißen" bedeutet. Es erscheint anderswo im Neuen Testament, wo es einen Dieb beschreibt, der
 Eigentum entreißt, einen Wolf, der eine Herde angreift, Philippus, der plötzlich vom Geist an
-einen anderen Ort versetzt wird, Paulus, der aus einer wütenden Menge in Sicherheit gezogen wird.
-In jedem Fall geschieht dem Objekt des Verbs etwas Unfreiwilliges – aber keiner dieser Fälle
-beschreibt einen physischen Aufstieg in den Himmel. Bezeichnender noch: Das Wort, das die
+einen anderen Ort versetzt wird, Paulus, der aus einer wütenden Menge in Sicherheit gezogen wird, und auch Paulus, der in den dritten Himmel entrückt wird (2. Korinther 12,2), und das Kind, das zu Gottes Thron entrückt wird (Offenbarung 12,5). Das Verb allein entscheidet also nicht, wohin die Bewegung führt. Bezeichnender ist das Wort, das die
 tatsächliche *Handlung* der Begegnung mit Jesus beschreibt – *apantesis*, „Begegnung" –, erscheint
 an nur zwei anderen Stellen im Neuen Testament: bei der Ankunft eines Bräutigams zu einer Hochzeit
 (Matthäus 25,6) und beim Empfang, der Paulus bereitet wird, als er sich Rom nähert
@@ -86,8 +84,7 @@ zurückzieht. Auf diese Stelle angewandt, weist das Bild darauf hin, dass Jesus 
 ankommt, wobei Gläubige hinausgehen, um ihn willkommen zu heißen, und mit ihm zurückkehren, nicht
 von ihr weggetragen werden.
 
-**Eine weitere Überlegung:** Dieses besondere Bild – Jesus in den Wolken zu begegnen – erscheint
-nirgendwo sonst in der Schrift. Wenn eine bedeutende Lehre auf einer einzigen kurzen Passage
+**Eine weitere Überlegung:** Dieses besondere Bild – dem Herrn in der Luft zu begegnen – erscheint in genau dieser Form nirgendwo sonst in der Schrift. Wenn eine bedeutende Lehre auf einer einzigen kurzen Passage
 ruht, deren eigentliches Thema tatsächlich etwas anderes ist (die Trauernden zu trösten, nicht
 eine Evakuierung zu beschreiben), und dieses Bild anderswo nicht bestätigt wird, ist das ein
 vernünftiges Signal, die Schlussfolgerung lockerer zu halten als mit Überzeugung.

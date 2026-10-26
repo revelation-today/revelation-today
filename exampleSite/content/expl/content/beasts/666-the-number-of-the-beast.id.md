@@ -146,7 +146,7 @@ Tetapi apa hubungannya dengan binatang itu? Perhatikan bagaimana kisah dalam Dan
 ## Kekayaan Salomo
 
 <a name="e63a"></a>
-Cara ketiga: angka 666 muncul persis seperti itu dalam Alkitab, dalam {{% bible val="ringkasan kehidupan Raja Salomo" link="1ki:10,14-29" lang="ind" %}}, tepat di bagian awalnya — titik puncak terakhir sebelum {{% bible val="penggambaran kejatuhannya yang menghancurkan" link="1ki:11,1-13" lang="ind" %}}.
+Cara ketiga: angka 666 muncul dalam Alkitab dalam {{% bible val="ringkasan kehidupan Raja Salomo" link="1ki:10,14-29" lang="ind" %}}, tepat di bagian awalnya (angka itu muncul sekali lagi, di Ezra 2:13, tetapi hanya sebagai jumlah satu keluarga) — titik puncak terakhir sebelum {{% bible val="penggambaran kejatuhannya yang menghancurkan" link="1ki:11,1-13" lang="ind" %}}.
 
 Bagaimana kisah Salomo berjalan? Kisah itu dimulai dengan {{% bible val="kisah Batsyeba" link="2sa:11" lang="ind" %}}, yang berujung pada {{% bible val="teguran Natan kepada Daud, dan pada kematian anak yang lahir dari dosa itu" link="2sa:12,1-23" lang="ind" %}} — namun {{% bible val="Allah memberinya anak lain dari Batsyeba, sebuah tanda kasih Allah sendiri" link="2sa:12,24-25" lang="ind" %}}. Setelah Salomo dinobatkan, {{% bible val="ia meminta kepada Allah hati yang bijaksana, bukan kekayaan dan kekuasaan — dan karena ia meminta hal itu, Allah pun memberinya segala kuasa dan kekayaan" link="1ki:3" lang="ind" %}} sebagai tambahan.
 

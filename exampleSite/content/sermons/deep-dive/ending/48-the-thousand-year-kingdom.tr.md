@@ -50,7 +50,7 @@ Bu, yalnızca harfi harfine şehitlerin mi hükmedeceği anlamına gelir? Hayır
 
 **Metni anlamak**
 1. Yukarıdaki Vahiy 12 ile 20 arasındaki üç paralel sahneyi inceleyin. Bu tekrar argümanını ikna edici buluyor musunuz? Ardışık bir okuma aynı paralellikler hakkında ne söylerdi?
-2. Vahiy 20:7-10 — 19:7-10 değil — Gog ve Magog savaşının gerçekten anlatıldığı yerdir (19:7-10, Kuzu'nun düğününün duyurusudur). Bu alıntıyı doğru almak, argümanı izlemek için neden önemlidir?
+2. Vahiy 20:7-10 Gog ve Magog savaşını anlatır, 19:7-10 ise Kuzu'nun düğününü duyurur. Argümanı izlerken bu iki sahneyi birbirinden ayırmak neden önemlidir?
 3. 20:4'teki *hysteron proteron* örüntüsü, "hayata döndüler ve hükmettiler"i nasıl okuduğunuzda neyi değiştirir?
 
 **Bizim için ne anlama geliyor**

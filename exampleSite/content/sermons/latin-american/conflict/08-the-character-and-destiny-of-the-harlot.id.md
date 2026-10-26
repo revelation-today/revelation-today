@@ -19,8 +19,7 @@ menjatuhkannya?
 
 ## Bagaimana ia beroperasi
 
-Sang pelacur duduk di atas "binatang kedua" dari pasal 13 — binatang yang bekerja bukan melalui
-kekuatan terbuka melainkan melalui tanda-tanda, tekanan ekonomi, dan bujukan (13:11-17). Itu
+Sang pelacur duduk di atas binatang merah tua yang sepadan dengan binatang pertama dari pasal 13, dan ia sendiri bekerja seperti binatang kedua — bukan melalui kekuatan terbuka melainkan melalui tanda-tanda, tekanan ekonomi, dan bujukan (13:11-17). Itu
 juga metodenya: ia bekerja melalui persepsi. Ia mengendalikan uang dan perdagangan, dan dengan
 kendali itu ia dapat membangun orang sekaligus menghancurkan mereka. Kekayaannya digambarkan
 dengan detail yang menyeluruh, hampir obsesif — emas, permata, kain halus, rempah-rempah, "dan

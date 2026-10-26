@@ -41,7 +41,7 @@ So rather than dwelling on the image of exposure, sit with the simpler, sharper 
 
 Despite everything, Jesus does not walk away from this church. He calls them out of their complacency and knocks at the door — language that, in its Old Testament background, is not an altar call to unbelievers but the tender call of a lover to the one he loves (echoing Song of Songs 5:1–5). Even to the church with nothing praiseworthy said about it, Jesus says: I am still here, still knocking, still wanting in.
 
-And the promise, if they listen, is extraordinary: they will sit with him on his own throne. Stop and consider what that means — in the throne-room vision of chapters 4 and 5, no one else sits; every other figure stands or falls prostrate in worship. Is that promise enough to shake a self-satisfied church out of the way it sees itself?
+And the promise, if they listen, is extraordinary: they will sit with him on his own throne. Stop and consider what that means — in the throne-room vision of chapters 4 and 5 the elders sit on thrones around the throne, while the throne itself belongs to God and the Lamb. To sit with Jesus on his own throne is a special granting. Is that promise enough to shake a self-satisfied church out of the way it sees itself?
 
 ## 6. A different way to apply this letter
 

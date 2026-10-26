@@ -37,8 +37,7 @@ for widows and orphans becomes a defining marker of true religion
 ({{% bible val="James 1:27" link="jas:1,27" lang="en" %}}). And the pattern of the Bible's own
 narrative reinforces the critique: God keeps choosing kings and heroes from exactly the families
 the surrounding culture would have written off — Ruth the Moabite becomes King David's
-great-grandmother; three of the four women named in Jesus's genealogy in Matthew 1 are
-non-Israelite outsiders (Tamar the Canaanite, Ruth the Moabite, Bathsheba the Hittite's wife).
+great-grandmother; the four women named in Jesus's genealogy in Matthew 1 all come with an outsider's story: Tamar the Canaanite, Rahab of Jericho, Ruth the Moabite, and Bathsheba, named through her Hittite husband.
 
 **The redeemer — a specific legal role God takes on Himself.** Ancient Israelite law built in a
 role called the *go'el*, the "next of kin who redeems"
@@ -86,7 +85,7 @@ systems failed.
 2. What does it mean that the *go'el* was a specific legal office, not just a generic idea of
    "family helping family"? How does that sharpen what it means for God to take on this role
    Himself?
-3. Look at the women named in Jesus's genealogy (Matthew 1) — Tamar, Ruth, Bathsheba. What do
+3. Look at the women named in Jesus's genealogy (Matthew 1) — Tamar, Rahab, Ruth, Bathsheba. What do
    they have in common, and why might Matthew have chosen to include them deliberately?
 
 **So what for us:**

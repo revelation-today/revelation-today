@@ -50,7 +50,7 @@ Does this mean only literal martyrs get to reign? No — the parallel with "the 
 
 **Understanding the text**
 1. Walk through the three parallel scenes between Revelation 12 and 20 above. Do you find this argument for recapitulation convincing? What would a sequential reading say about the same parallels?
-2. Revelation 20:7-10 — not 19:7-10 — is where the Gog and Magog battle is actually narrated (19:7-10 is the announcement of the wedding of the Lamb). Why does getting this citation right matter for tracing the argument?
+2. Revelation 20:7-10 narrates the Gog and Magog battle, while 19:7-10 announces the wedding of the Lamb. Why does it matter to keep these two scenes apart when tracing the argument?
 3. What does the *hysteron proteron* pattern in 20:4 change about how you read "they came to life and reigned"?
 
 **So what for us**

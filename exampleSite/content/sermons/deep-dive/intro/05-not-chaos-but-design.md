@@ -36,7 +36,7 @@ the list, Ephesus and Laodicea, are the two in danger of losing their very ident
 though Sardis, too, receives a uniquely
 severe verdict ("you have the reputation of being alive, but you are dead," {{% bible val="Rev 3:1" link="rev:3,1" lang="en" %}}) with no commendation at all in its opening description. Reasonable
 readers could rank the "worst" church differently; what's not in dispute is that the letters are
-arranged with real symmetry and a corrupt-leadership centerpiece, not randomly.
+arranged with real symmetry and a centerpiece where false teaching is tolerated inside the church, not randomly.
 
 **Everything flows from the throne room.** Against that sobering diagnosis, God's answer is
 unceasing worship (chapters 4-5) — and from that throne room, everything else in the book flows

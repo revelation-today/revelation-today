@@ -14,8 +14,7 @@ Gruba dini bir bağlamda "sır" (mystery) kelimesini duyduklarında ne düşünd
 bir kod, ürkütücü bir şey, çözülmemiş bir bulmaca. Şimdi şunu belirtin: Pavlus kelimeyi farklı
 kullanır. Bir şeye "sır" dediğinde, neredeyse her zaman Tanrı'nın planında her zaman doğru olan
 ama şimdiye kadar tam olarak açıklanmamış bir şeyi kastediyordur — çözülecek bir bulmaca değil,
-nihayet görünür hale gelen çarpıcı bir gerçeklik. Vahiy bu kelimeyi tam olarak üç kez kullanır ve
-üçünü birlikte izlemek, kitabın merkezi yapısal fikirlerinden birini ortaya çıkarır: kilise,
+nihayet görünür hale gelen çarpıcı bir gerçeklik. Vahiy bu kelimeyi dört kez, üç sır için kullanır ve üçünü birlikte izlemek, kitabın merkezi yapısal fikirlerinden birini ortaya çıkarır: kilise,
 Tanrı ve fahişenin yansıtılmış bir üçlemesi.
 
 ## Ana Öğreti
@@ -27,7 +26,7 @@ ilkini tam olarak açar.
 
 **Neden üç sır ve neden burada.** 3. oturumda gördüğümüz gibi, Vahiy'deki "sır" kelimesi
 kasıtlı olarak {{% bible val="Daniel 2" link="dan:2,28-45" lang="tr" %}}'yi yankılar, bu terimi
-kullanan tek peygamberlik kitabıdır — ve Vahiy bunu tam olarak üç kez kullanır:
+kullanan tek peygamberlik kitabıdır — ve Vahiy bunu dört kez, üç sır için kullanır: 
 {{% bible val="kilise" link="rev:1,20" lang="tr" %}}'nin sırrı,
 {{% bible val="Tanrı" link="rev:10,7" lang="tr" %}}'nın sırrı ve
 {{% bible val="fahişe" link="rev:17,5" lang="tr" %}}nin sırrı. Bu üçü rastgele dağılmış değildir

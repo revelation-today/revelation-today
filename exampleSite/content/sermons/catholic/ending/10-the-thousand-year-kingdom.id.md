@@ -21,9 +21,7 @@ tekstual bagi sesuatu yang tradisi Anda telah diam-diam ajarkan kepada Anda.
 
 Sebagian orang Kristen — kebanyakan dalam kalangan Protestan tertentu — membaca Wahyu 20 sebagai
 menggambarkan sebuah pemerintahan seribu tahun Kristus di bumi yang harfiah dan di masa depan,
-yang baru tiba setelah kedatangan-Nya yang kedua. Pandangan itu (disebut premilenialisme, bagian
-dari kerangka yang lebih besar yang disebut dispensasionalisme) adalah perkembangan yang relatif
-modern, dan itu bukan lensa yang membentuk sebagian besar umat Katolik. Pembacaan historis Gereja
+yang baru tiba setelah kedatangan-Nya yang kedua. Pandangan itu (disebut premilenialisme, yang hari ini paling sering dijumpai dalam kerangka yang lebih besar yang disebut dispensasionalisme) berakar pada abad-abad awal, tetapi bentuk dispensasionalnya yang populer adalah perkembangan abad ke-19, dan itu bukan lensa yang membentuk sebagian besar umat Katolik. Pembacaan historis Gereja
 — kembali ke Agustinus, yang tafsirannya atas pasal ini membentuk pembacaan Kristen Barat atas
 Wahyu 20 selama enam belas abad berikutnya — berbeda: "seribu tahun" adalah gambaran simbolis dari
 seluruh zaman Gereja, seluruh rentang antara kedatangan Kristus yang pertama dan yang kedua. Sesi

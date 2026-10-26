@@ -92,7 +92,7 @@ depan umum secara teratur — setiap tujuh tahun, dan lagi pada setiap penobatan
 17:18-19; 31:9-13).
 
 Patut kita katakan dengan jelas: syarat-syarat perjanjian ini tidak pernah mustahil. Israel bisa
-saja menepatinya. Allah menyebut diri-Nya sendiri Bapak Israel (Keluaran 3:6), dan kata yang
+saja menepatinya. Allah menyebut diri-Nya sendiri Bapak Israel (Keluaran 4:22), dan kata yang
 digunakan Kitab Suci berulang-ulang untuk kesetiaan perjanjian-Nya adalah *hesed* — sebuah kata
 yang kaya makna yang berarti kasih, kebaikan, belas kasihan, dan kesetiaan sekaligus, kesetiaan
 yang wajib ada dalam sebuah keluarga.

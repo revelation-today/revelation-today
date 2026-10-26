@@ -35,7 +35,7 @@ It's worth remembering, too, that prophecy sometimes exists precisely so it will
 
 ## 4. An apocalypse
 
-The book's opening words are "the revelation [apokalypsis] of Jesus Christ" — not a secret preview of a distant future event, and not really about the end of the world at all, but about the end of evil rulers and the corrupt systems built around them. Apocalyptic literature elsewhere in Scripture (Daniel 7–12, and parts of Mark 13, Matthew 24, Luke 21) shares the same purpose: encouraging God's people through crisis by exposing their oppressors, calling for resistance, and building confidence in God's ultimate victory.
+The book's opening words are "the revelation [apokalypsis] of Jesus Christ" — not a secret preview of a distant future event, and not only about the end of the world, but just as much about the end of evil rulers and the corrupt systems built around them. Apocalyptic literature elsewhere in Scripture (Daniel 7–12, and parts of Mark 13, Matthew 24, Luke 21) shares the same purpose: encouraging God's people through crisis by exposing their oppressors, calling for resistance, and building confidence in God's ultimate victory.
 
 It does this through a deliberate dualism — in time (this present age is passing away; a better one is coming, and only God can bring it) and in character (God against Satan, good against evil). The effect is to force a decision. There is no neutral ground on offer. The symbolic imagery isn't there to obscure the message — it sharpens it, giving spiritual insight into present reality rather than a literal photograph of the future. A helpful modern comparison is the political cartoon: we understand the message instantly without needing the dragon to be a literal, physically existing creature.
 

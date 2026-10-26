@@ -68,8 +68,7 @@ değil, canlı imgeler kullanarak bir tepki uyandırıp şimdi davranışı değ
 ## Bir kıyamet
 
 Kitabın açılış sözleri *Apokalypsis Iesou Christou*'dur — "İsa Mesih'in vahyi." "Kıyamet"
-(apocalypse), yakın ya da uzak bir olayın gizli bir öngörüsü anlamına gelmez, ve gerçekte
-fiziksel dünyanın sonuyla ilgili de değildir — kötü yöneticilerin ve onların etrafında kurulan
+(apocalypse), yakın ya da uzak bir olayın gizli bir öngörüsü anlamına gelmez, ve yalnızca fiziksel dünyanın sonuyla ilgili değildir — aynı ölçüde kötü yöneticilerin ve onların etrafında kurulan
 yozlaşmış sistemlerin sonuyla ilgilidir. Kutsal Kitap'taki başka tek kıyamet metinleri Daniel
 7–12 ve İsa'nın kendi kıyamet söylevleri olan Markos 13, Matta 24 ve Luka 21'dir — bunların
 hepsi, ünlü biçimde, iyi yorumlanması zor metinlerdir.

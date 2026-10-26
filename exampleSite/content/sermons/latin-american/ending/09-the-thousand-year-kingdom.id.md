@@ -42,9 +42,7 @@ akibat langsung. Dalam pasal 12, Iblis tahu bahwa "waktunya tinggal sedikit lagi
 pasal 20, ia dilepaskan untuk "waktu yang singkat" (20:3). Kesejajaran itu cukup dalam sehingga
 ini lebih terbaca bukan sebagai dua peristiwa yang terpisah melainkan sebagai peristiwa yang
 sama, digambarkan dua kali, dari sudut yang berbeda — sebuah pola yang juga digunakan Kitab Suci
-di tempat lain. Paulus menggambarkan pembelengguan yang sama ini sebagai sesuatu yang "sudah
-dicapai" Yesus pada kedatangan-Nya yang pertama (Markus 3:27), sambil juga menggambarkan seorang
-"manusia durhaka" yang sekarang ditahan tetapi akan dilepaskan sebentar sebelum kedatangan
+di tempat lain. Yesus menggambarkan pembelengguan yang sama ini sebagai sesuatu yang "sudah dicapai"-Nya pada kedatangan-Nya yang pertama (Markus 3:27), sementara Paulus menggambarkan seorang "manusia durhaka" yang sekarang ditahan tetapi akan dilepaskan sebentar sebelum kedatangan
 Kristus (2 Tesalonika 2:6-12) — keduanya benar sekaligus.
 
 ## Bagaimana dengan janji-janji Perjanjian Lama?

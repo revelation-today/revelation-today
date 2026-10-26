@@ -50,7 +50,7 @@ Apakah ini berarti hanya martir harfiah yang mendapat memerintah? Tidak — para
 
 **Memahami teks**
 1. Telusuri tiga adegan paralel antara Wahyu 12 dan 20 di atas. Apakah Anda menemukan argumen untuk rekapitulasi ini meyakinkan? Apa yang akan dikatakan pembacaan sekuensial tentang paralel-paralel yang sama itu?
-2. Wahyu 20:7-10 — bukan 19:7-10 — adalah tempat pertempuran Gog dan Magog sebenarnya dinarasikan (19:7-10 adalah pengumuman perkawinan Anak Domba). Mengapa memastikan kutipan ini benar itu penting untuk menelusuri argumen?
+2. Wahyu 20:7-10 menarasikan pertempuran Gog dan Magog, sedangkan 19:7-10 mengumumkan perkawinan Anak Domba. Mengapa penting memisahkan kedua adegan ini ketika menelusuri argumen?
 3. Apa yang diubah oleh pola *hysteron proteron* dalam 20:4 tentang cara Anda membaca "mereka hidup kembali dan memerintah"?
 
 **Bagi kita**

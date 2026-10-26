@@ -44,11 +44,7 @@ hätten:
   Bronzefüße stammen aus Daniel 10,5-6, wo der Engelsbote beschrieben wird, der Daniel auf seine
   letzte Vision vorbereitet.
 
-**Ein Wort der Vorsicht zur Quellenangabe:** Manche Fassungen dieser Lehre zitieren Daniel 10,7
-für diese physische Beschreibung — aber 10,7 beschreibt tatsächlich die verängstigten Umstehenden,
-die die Vision nicht sahen, nicht das Aussehen des Engels selbst. Die Beschreibung von
-Feueraugen und Bronzegliedern steht in Daniel 10,5-6. Ein kleiner Punkt, aber es lohnt sich, ihn
-richtig zu haben, wenn ihr selbst zum Text zurückgeht (siehe [Die Vision des Menschensohnes]({{< relref "expl/content/vision/the-vision" >}})).
+**Ein Hinweis zur Stelle:** Die Beschreibung von Feueraugen und Bronzegliedern steht in Daniel 10,5-6 (10,7 beschreibt die verängstigten Umstehenden, die die Vision nicht sahen). Es lohnt sich, das nachzuprüfen, wenn ihr selbst zum Text zurückgeht (siehe [Die Vision des Menschensohnes]({{< relref "expl/content/vision/the-vision" >}})).
 
 Der Effekt dieser Verschmelzung der Bilder: Johannes' Vision von Jesus vereint den Hochbetagten
 und die „Menschensohn"-Gestalt in einer Person — eine auffällige, zurückhaltend formulierte

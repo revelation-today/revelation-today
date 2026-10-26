@@ -31,7 +31,7 @@ Aynı örüntü, Tanrı'nın Sina'da İsrail'le yaptığı antlaşmada tam biçi
 
 ## 4. Merhametli kalan Baba
 
-Bu öykü boyunca Tanrı kendini İsrail'in Babası olarak adlandırır (Çıkış 3:6) — antlaşmanın kendi şartlarıyla bağlı olsa bile, merhamete bağlı kalan biri. Kutsal Kitap bunu zengin bir sözcükle yakalar: *hesed* — antlaşma sadakati, sevgi, iyilik, güvenilirlik, hepsi bir arada. Tanrı antlaşma ailesine yalnızca katlanmaz. Onlara, kendi seçimiyle, onu hayal kırıklığına uğrattıklarında bile devam eden ilgisini garanti eden bir şekilde bağlıdır.
+Bu öykü boyunca Tanrı kendini İsrail'in Babası olarak adlandırır (Çıkış 4:22) — antlaşmanın kendi şartlarıyla bağlı olsa bile, merhamete bağlı kalan biri. Kutsal Kitap bunu zengin bir sözcükle yakalar: *hesed* — antlaşma sadakati, sevgi, iyilik, güvenilirlik, hepsi bir arada. Tanrı antlaşma ailesine yalnızca katlanmaz. Onlara, kendi seçimiyle, onu hayal kırıklığına uğrattıklarında bile devam eden ilgisini garanti eden bir şekilde bağlıdır.
 
 ## 5. Bunun burada neden önemli olduğu
 

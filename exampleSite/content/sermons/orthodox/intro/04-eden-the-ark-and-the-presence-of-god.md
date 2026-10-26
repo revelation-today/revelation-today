@@ -17,7 +17,7 @@ If you had to summarize the entire Bible in a single sentence, you could do wors
 
 ## The garden was never meant to be lost
 
-Genesis begins with God dwelling among his creatures, not at a distance. He walks with Adam and Eve, meets with them in the garden, gives them a sanctuary to tend as priests of creation. This is already a kind of temple — the first place where heaven and earth overlap without division. After the fall, humanity is exiled from that fellowship, and things spiral: Cain kills Abel, and even after God mercifully marks Cain for protection, Cain "looks for his own security instead and builds a city" (Genesis 4:16–17). His descendants keep building, generation after generation, their own architecture of safety apart from God, culminating in the arrogant tower at Babel. Every human city in Genesis, in other words, is a counterfeit temple — a substitute refuge built by people no longer welcome in the real one.
+Genesis begins with God dwelling among his creatures, not at a distance. He walks with Adam and Eve, meets with them in the garden, gives them a sanctuary to tend as priests of creation. This is already a kind of temple — the first place where heaven and earth overlap without division. After the fall, humanity is exiled from that fellowship, and things spiral: Cain kills Abel, and even after God mercifully marks Cain for protection, Cain looks for his own security instead and builds a city (Genesis 4:17). His descendants keep building, generation after generation, their own architecture of safety apart from God, culminating in the arrogant tower at Babel. Every human city in Genesis, in other words, is a counterfeit temple — a substitute refuge built by people no longer welcome in the real one.
 
 But God never abandons the goal. Even from Cain's line, "people begin again to call on the name of the Lord" (Genesis 4:26), and God chooses to make a name for Abraham exactly where Babel failed to make one for itself.
 
@@ -39,7 +39,7 @@ This is precisely the ground on which your tradition's understanding of theosis 
 
 ## The church, and then the city
 
-With Christ's death, Paul tells us, the temple becomes the church, since the church is Christ's own body (1 Corinthians 6:19). And in Revelation, this reaches its final form: the church appears as the Bride of Christ, who is also the New Jerusalem — the place, at long last, where fellowship between God and humanity is entirely undisturbed. Ezekiel's river returns, now flowing from the throne of God and the Lamb (Revelation 22:1–5), watering the tree of life that was lost at Eden's gate. The whole arc closes precisely where it opened, except now the barrier is gone for good.
+With Christ's death, Paul tells us, the temple becomes the church, since the church is Christ's own body (1 Corinthians 3:16-17). And in Revelation, this reaches its final form: the church appears as the Bride of Christ, who is also the New Jerusalem — the place, at long last, where fellowship between God and humanity is entirely undisturbed. Ezekiel's river returns, now flowing from the throne of God and the Lamb (Revelation 22:1–5), watering the tree of life that was lost at Eden's gate. The whole arc closes precisely where it opened, except now the barrier is gone for good.
 
 ## Closing
 

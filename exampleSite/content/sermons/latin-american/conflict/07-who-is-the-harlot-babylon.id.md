@@ -61,10 +61,7 @@ membuat kekuatan itu tampak menarik, aman, dan layak dipercaya. Bersama-sama mer
 seluruh Injil tiruan iblis: keamanan yang dibeli melalui ketakutan akan kekerasan, kekayaan yang
 dibangun dengan mengeksploitasi orang miskin dan mengucilkan siapa pun yang tidak mau patuh,
 perasaan superioritas, dan pembungkaman suara yang tidak nyaman mana pun yang menyebutkan apa
-yang sesungguhnya sedang terjadi (lihat Wahyu 13:4, 7, 10, 13-14, 16-17; 17:6). Tetapi gereja
-selalu berisiko tertarik ke dalam orbitnya — "sehingga kau dipaksa terus-menerus merenung dan
-melangkah keluar darinya, hari demi hari," sebagaimana teks itu sendiri mengatakannya (18:4),
-"karena Babel ada di mana-mana."
+yang sesungguhnya sedang terjadi (lihat Wahyu 13:4, 7, 10, 13-14, 16-17; 17:6). Tetapi gereja selalu berisiko tertarik ke dalam orbitnya, itulah sebabnya panggilan di 18:4 bersifat harian: "Keluarlah dari padanya, hai umat-Ku."
 
 ## Menyebutkan benturan itu secara langsung
 

@@ -41,7 +41,7 @@ Jadi alih-alih berlama-lama pada gambaran keterpaparan itu, renungkanlah pertany
 
 Meskipun demikian, Yesus tidak meninggalkan jemaat ini. Dia memanggil mereka keluar dari kepuasan diri mereka dan mengetuk pintu — bahasa yang, dalam latar belakang Perjanjian Lamanya, bukanlah sebuah ajakan pertobatan bagi orang yang belum percaya, melainkan panggilan lembut seorang kekasih kepada orang yang dicintainya (bergema dengan Kidung Agung 5:1–5). Bahkan kepada jemaat yang tidak dikatakan satu hal baik pun tentangnya, Yesus berkata: Aku masih di sini, masih mengetuk, masih ingin masuk.
 
-Dan janjinya, jika mereka mendengarkan, sungguh luar biasa: mereka akan duduk bersama-Nya di takhta-Nya sendiri. Berhentilah sejenak dan renungkan apa artinya itu — dalam penglihatan ruang takhta pasal 4 dan 5, tidak ada seorang pun yang duduk; setiap sosok lainnya berdiri atau tersungkur dalam penyembahan. Apakah janji itu cukup untuk mengguncang sebuah jemaat yang puas diri keluar dari cara mereka memandang diri mereka sendiri?
+Dan janjinya, jika mereka mendengarkan, sungguh luar biasa: mereka akan duduk bersama-Nya di takhta-Nya sendiri. Berhentilah sejenak dan renungkan apa artinya itu — dalam penglihatan ruang takhta pasal 4 dan 5 para tua-tua duduk di atas takhta-takhta di sekeliling takhta, sementara takhta itu sendiri adalah milik Allah dan Anak Domba. Duduk bersama Yesus di atas takhta-Nya sendiri adalah pemberian yang istimewa. Apakah janji itu cukup untuk mengguncang sebuah jemaat yang puas diri keluar dari cara mereka memandang diri mereka sendiri?
 
 ## 6. Cara berbeda untuk menerapkan surat ini
 

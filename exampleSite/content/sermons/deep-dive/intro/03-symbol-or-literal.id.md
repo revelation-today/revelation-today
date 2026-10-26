@@ -39,7 +39,7 @@ ditinggalkan penulisnya bagi kita?
 {{% bible val="Daniel 2" link="dan:2,28-45" lang="ind" %}} — sebuah penglihatan yang menggambarkan
 kerajaan-kerajaan secara simbolis, sebagai sebuah patung yang dihancurkan oleh sebuah batu, yang
 juga merupakan simbol lain. Daniel 2 adalah satu-satunya kitab nubuat yang menggunakan kata
-"rahasia," dan kata itu muncul tiga kali juga dalam Wahyu: rahasia
+"rahasia," dan kata itu muncul empat kali juga dalam Wahyu, untuk tiga rahasia: rahasia
 {{% bible val="jemaat" link="rev:1,20" lang="ind" %}}, rahasia
 {{% bible val="Allah" link="rev:10,7" lang="ind" %}}, dan rahasia
 {{% bible val="binatang itu" link="rev:17,5" lang="ind" %}} (kita akan kembali ke ketiganya dalam
@@ -54,8 +54,7 @@ kepada hamba-hamba-Nya apa yang harus segera terjadi." Kedua kata kerja Yunani i
 yang sesungguhnya.
 
 - ***Semaino*** (σημαίνω) adalah kata yang sama yang digunakan dalam Perjanjian Lama versi Yunani
-  untuk penafsiran sebuah penglihatan simbolis dalam Daniel. Kata ini hanya muncul lima kali dalam
-  seluruh Perjanjian Baru — tiga di antaranya menggambarkan, secara simbolis, hakikat kematian
+  untuk penafsiran sebuah penglihatan simbolis dalam Daniel. Di luar Wahyu, kata ini hanya muncul lima kali dalam Perjanjian Baru — tiga di antaranya menggambarkan, secara simbolis, hakikat kematian
   Yesus di kayu salib ({{% bible val="Yohanes 12:33" link="jhn:12,33" lang="ind" %}},
   {{% bible val="18:32" link="jhn:18,32" lang="ind" %}},
   {{% bible val="21:19" link="jhn:21,19" lang="ind" %}}). Perlu dicatat, Yohanes punya kata yang
@@ -103,7 +102,7 @@ pada tebakan abad mana yang mendapat giliran menjadi "sang" penggenapan.
    sebagai bukti untuk sebuah pembacaan simbolis?
 2. Bagaimana tulah Sungai Nil menjadi darah memberi teladan bahwa sesuatu bisa menjadi peristiwa
    sejarah yang nyata sekaligus sebuah simbol pada saat yang sama?
-3. Apa artinya bahwa "rahasia" muncul dalam Wahyu tepat tiga kali, menggemakan penggunaan unik
+3. Apa artinya bahwa "rahasia" muncul dalam Wahyu empat kali (untuk tiga rahasia), menggemakan penggunaan unik
    istilah yang sama dalam Daniel 2?
 
 **Lalu bagaimana bagi kita:**

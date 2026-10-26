@@ -25,7 +25,7 @@ Jesus approaches this church as "the Son of God, whose eyes are like blazing fir
 
 **The counsel given is striking in its restraint.** Ordinary believers aren't told to overthrow Jezebel, organize a resistance, or leave the church. They're told simply: "hold on to what you have until I come" (2:25) — remain faithful, and let Jesus deal with the leadership himself, since leaders are accountable to him in a way ordinary members cannot enforce. Jesus promises real consequences: suffering for Jezebel's followers meant to prompt repentance (2:21-22), and a warning that "all the churches will know that I am he who searches hearts and minds" (2:23) — Thyatira's failure becomes an object lesson for every other congregation.
 
-To those who remain faithful under this corrupt leadership, Jesus promises real authority of their own — ruling "with an iron scepter," language from Psalm 2 — and "the morning star" (2:28), which elsewhere in Revelation (22:16) is a title Jesus applies to himself: the dawning of a hope that outlasts whatever damage bad leadership does in the meantime.
+To those who remain faithful in the face of this false teaching, Jesus promises real authority of their own — ruling "with an iron scepter," language from Psalm 2 — and "the morning star" (2:28), which elsewhere in Revelation (22:16) is a title Jesus applies to himself: the dawning of a hope that outlasts whatever damage bad leadership does in the meantime.
 
 ## Discussion questions
 

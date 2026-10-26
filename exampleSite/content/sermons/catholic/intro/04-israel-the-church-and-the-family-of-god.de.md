@@ -95,8 +95,7 @@ würde die Heilige Schrift genau das vorwegnehmen, was die Kirche Jahrhunderte s
 selbst lehren würde.
 
 Und die Kirche war ebenso klar in Bezug auf die andere Hälfte dieses Bildes. *Nostra Aetate*, auf
-demselben Konzil verkündet, besteht darauf, dass der Bund, den Gott mit dem jüdischen Volk
-geschlossen hat, niemals widerrufen wurde, missbilligt Hass und Verfolgung gegen Juden in jeder
+demselben Konzil verkündet, erinnert daran, dass Gottes Gaben und Berufung an das jüdische Volk unwiderruflich sind (Römer 11,29), missbilligt Hass und Verfolgung gegen Juden in jeder
 Form und weist entschieden jede Lesart der Heiligen Schrift zurück — einschließlich so scharfer
 Passagen wie „Synagoge des Satans" —, die einen konkreten, örtlichen Konflikt des ersten
 Jahrhunderts in ein pauschales Urteil über das jüdische Volk verwandeln würde. Der Katechismus

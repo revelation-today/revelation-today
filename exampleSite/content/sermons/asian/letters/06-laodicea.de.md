@@ -41,7 +41,7 @@ Statt also bei dem Bild der Entblößung zu verweilen, setzen Sie sich mit der e
 
 Trotz allem wendet sich Jesus nicht von dieser Gemeinde ab. Er ruft sie aus ihrer Selbstgefälligkeit heraus und klopft an die Tür — eine Sprache, die in ihrem alttestamentlichen Hintergrund kein Aufruf zur Bekehrung für Ungläubige ist, sondern der zärtliche Ruf eines Liebenden an die, die er liebt (ein Echo von Hohelied 5,1–5). Selbst zu der Gemeinde, über die nichts Lobenswertes gesagt wird, sagt Jesus: Ich bin noch hier, klopfe noch, will noch hinein.
 
-Und die Verheißung, wenn sie hören, ist außerordentlich: Sie werden mit ihm auf seinem eigenen Thron sitzen. Halten Sie inne und bedenken Sie, was das bedeutet — in der Thronsaal-Vision der Kapitel 4 und 5 sitzt sonst niemand; jede andere Gestalt steht oder fällt anbetend nieder. Ist diese Verheißung genug, um eine selbstzufriedene Gemeinde aus der Art, wie sie sich selbst sieht, aufzurütteln?
+Und die Verheißung, wenn sie hören, ist außerordentlich: Sie werden mit ihm auf seinem eigenen Thron sitzen. Halten Sie inne und bedenken Sie, was das bedeutet — in der Thronsaal-Vision der Kapitel 4 und 5 sitzen die Ältesten auf Thronen rund um den Thron, während der Thron selbst Gott und dem Lamm gehört. Mit Jesus auf seinem eigenen Thron zu sitzen ist eine besondere Zusage. Ist diese Verheißung genug, um eine selbstzufriedene Gemeinde aus der Art, wie sie sich selbst sieht, aufzurütteln?
 
 ## 6. Eine andere Art, diesen Brief anzuwenden
 

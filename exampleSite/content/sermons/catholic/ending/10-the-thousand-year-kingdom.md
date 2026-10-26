@@ -21,8 +21,7 @@ taught you already.
 
 Some Christians — mostly in certain Protestant circles — read Revelation 20 as describing a
 literal, future thousand-year reign of Christ on earth, arriving only after his second coming.
-That view (called premillennialism, part of a larger framework called dispensationalism) is a
-relatively modern development, and it's simply not the lens most Catholics have been formed in.
+That view (premillennialism, most often met today in the larger framework called dispensationalism) has roots in the early centuries, but its popular dispensational form is a nineteenth-century development, and it's simply not the lens most Catholics have been formed in.
 The historic reading of the Church — going back to Augustine, whose interpretation of this chapter
 shaped Western Christian reading of Revelation 20 for the next sixteen centuries — is different:
 the "thousand years" is a symbolic description of the whole age of the Church, the entire span

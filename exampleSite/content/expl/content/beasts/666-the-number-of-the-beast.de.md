@@ -146,7 +146,7 @@ Aber was hat das mit dem Tier zu tun? Sieh dir an, wie die Geschichte in Daniel 
 ## Salomos Reichtum
 
 <a name="e63a"></a>
-Ein dritter Zugang: Die 666 erscheint genauso ausgeschrieben in der Bibel, in der {{% bible val="Zusammenfassung des Lebens von König Salomo" link="1ki:10,14-29" lang="de" %}}, gleich zu deren Beginn — dem letzten Höhepunkt vor {{% bible val="der Beschreibung seines katastrophalen Scheiterns" link="1ki:11,1-13" lang="de" %}}.
+Ein dritter Zugang: Die 666 erscheint in der Bibel in der {{% bible val="Zusammenfassung des Lebens von König Salomo" link="1ki:10,14-29" lang="de" %}}, gleich zu deren Beginn (die Zahl kommt noch einmal vor, in Esra 2,13, aber nur als Größe einer Familie) — dem letzten Höhepunkt vor {{% bible val="der Beschreibung seines katastrophalen Scheiterns" link="1ki:11,1-13" lang="de" %}}.
 
 Was ist die Geschichte von Salomo? Sie beginnt mit der {{% bible val="Geschichte von Batseba" link="2sa:11" lang="de" %}}, die dazu führte, dass {{% bible val="Nathan David zurechtwies und das aus dieser Sünde geborene Kind starb" link="2sa:12,1-23" lang="de" %}} — doch {{% bible val="Gott schenkte ihm mit Batseba ein weiteres Kind, ein Zeichen von Gottes eigener Liebe" link="2sa:12,24-25" lang="de" %}}. Nachdem er inthronisiert worden war, {{% bible val="bat er Gott um ein verständiges Herz anstelle von Reichtum und Macht — und weil er darum bat, gab Gott ihm obendrein alle Macht und allen Reichtum" link="1ki:3" lang="de" %}}.
 

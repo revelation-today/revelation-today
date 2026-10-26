@@ -37,7 +37,7 @@ Pola yang persis sama muncul di Sinai. Pembukaannya: "Akulah TUHAN, Allahmu" (Ke
 
 Yang terpenting: syarat-syarat perjanjian Allah tidak pernah mustahil untuk dipenuhi, tidak seperti begitu banyak perjanjian manusia yang dirancang untuk menjebak pihak yang lemah agar gagal. Israel sebenarnya bisa memelihara perjanjian itu. Mereka hanya memilih untuk tidak melakukannya.
 
-Sepanjang semuanya itu, Allah menyebut diri-Nya Bapa Israel (Keluaran 3:6) — seorang Bapa yang, sekalipun terikat oleh syarat-syarat perjanjian, tetap penuh belas kasihan. Kitab Suci memiliki satu kata untuk perpaduan itu: hesed, biasanya diterjemahkan "kesetiaan perjanjian" atau "kasih setia" — kaya maknanya sehingga sekaligus berarti kasih, kebaikan, belas kasihan, dan kesetiaan.
+Sepanjang semuanya itu, Allah menyebut diri-Nya Bapa Israel (Keluaran 4:22) — seorang Bapa yang, sekalipun terikat oleh syarat-syarat perjanjian, tetap penuh belas kasihan. Kitab Suci memiliki satu kata untuk perpaduan itu: hesed, biasanya diterjemahkan "kesetiaan perjanjian" atau "kasih setia" — kaya maknanya sehingga sekaligus berarti kasih, kebaikan, belas kasihan, dan kesetiaan.
 
 ## Mengapa hal ini penting untuk membaca Kitab Wahyu
 

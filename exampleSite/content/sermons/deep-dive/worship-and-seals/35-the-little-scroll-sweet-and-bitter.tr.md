@@ -13,8 +13,7 @@ next: /sermons/deep-dive/worship-and-seals/36-the-two-witnesses
 
 Grubunuzun en son, imana hiç ilgisi olmayan bir arkadaş, komşu ya da iş arkadaşı için dua
 ettiği ve hiçbir şeyin değişmediği zamanı düşünün. Ne bir atılım, ne çarpıcı bir cevap, sadece
-hafta hafta aynı zorlu sessizlik. Vahiy 10 aşağı yukarı bu noktada açılır. Dokuz bela, "tövbe
-etmeyen" (Vahiy 9:20-21) bir dünyanın üzerine düşmüş, ve altıncı boru henüz sönmüştür. Eğer
+hafta hafta aynı zorlu sessizlik. Vahiy 10 aşağı yukarı bu noktada açılır. Altı boru belası, §tövbe etmeyen§ (Vahiy 9:20-21) bir dünyanın üzerine düşmüş, ve altıncı boru henüz sönmüştür. Eğer
 felaketin tek başına yürekleri değiştirebilme gücü olsaydı, çoktan değiştirmiş olurdu. Peki
 insanlara gerçekte ne ulaşır? Vahiy 10 bu soruyu cevaplar — ve cevap başka bir bela değildir. Bir
 kişinin yemesi gereken bir tomardır.

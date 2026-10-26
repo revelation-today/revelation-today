@@ -15,8 +15,7 @@ keagamaan — sebuah kode rahasia, sesuatu yang menyeramkan, sebuah teka-teki ya
 Sekarang tunjukkan: Paulus memakai kata itu secara berbeda. Ketika ia menyebut sesuatu sebagai
 sebuah "rahasia," ia hampir selalu memaksudkan sesuatu yang selalu benar dalam rencana Allah tetapi
 belum sepenuhnya dinyatakan sampai sekarang — bukan sebuah teka-teki untuk dipecahkan, melainkan
-sebuah realitas yang menakjubkan yang akhirnya tampak. Wahyu memakai kata itu tepat tiga kali, dan
-menelusuri ketiganya bersama-sama mengungkapkan salah satu gagasan struktural utama kitab ini:
+sebuah realitas yang menakjubkan yang akhirnya tampak. Wahyu memakai kata itu empat kali, untuk tiga rahasia, dan menelusuri ketiganya bersama-sama mengungkapkan salah satu gagasan struktural utama kitab ini:
 sebuah triptik yang bercermin antara jemaat, Allah, dan sundal itu.
 
 ## Pengajaran Inti
@@ -29,7 +28,7 @@ secara lengkap.
 
 **Mengapa tiga rahasia, dan mengapa di sini.** Sebagaimana kita lihat pada sesi 3, kata "rahasia"
 dalam Wahyu dengan sengaja menggemakan {{% bible val="Daniel 2" link="dan:2,28-45" lang="ind" %}},
-satu-satunya kitab nubuat yang memakai istilah itu — dan Wahyu memakainya tepat tiga kali: rahasia
+satu-satunya kitab nubuat yang memakai istilah itu — dan Wahyu memakainya empat kali, untuk tiga rahasia: rahasia
 {{% bible val="jemaat" link="rev:1,20" lang="ind" %}}, rahasia
 {{% bible val="Allah" link="rev:10,7" lang="ind" %}}, dan rahasia
 {{% bible val="sundal itu" link="rev:17,5" lang="ind" %}}. Ketiganya tidak tersebar secara acak —

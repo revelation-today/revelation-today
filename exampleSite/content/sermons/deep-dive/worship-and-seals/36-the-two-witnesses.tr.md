@@ -100,8 +100,7 @@ hatta onlara gömülme bile reddedilir (11:9), bilinçli bir aşağılama (Golya
 yankısı — İsa'nın olduğu gibi diriltilip göğe alınırlar (11:11-12).
 
 Bu, iki tanıdık Eski Antlaşma kalıbını tersine çevirir. Birincisi, Ester'i tersine çevirir:
-orada, Tanrı'nın tehdit edilen halkı karşılık verir ve düşmanları sonunda yenilgide hediyeler
-gönderir (Ester 9:15-25); burada, tanıklar öldürülür ve kutlayan düşmanlarıdır — ta ki
+orada, Tanrı'nın tehdit edilen halkı karşılık verir ve kazanır, ve birbirlerine hediyeler göndererek kutlarlar (Ester 9:19, 22); burada, tanıklar öldürülür ve birbirlerine hediyeler göndererek kutlayan düşmanlarıdır (11:10) — ta ki
 hayatta kalanlar katledilmek yerine ihtida edene kadar (11:13). İkincisi, olağan "kalıntı
 kurtulur, çoğunluk yargılanır" kalıbını tersine çevirir: depremde yalnızca yüzde on ölür, ve
 geriye kalan yüzde doksan Tanrı'yı yüceltir (11:13) — ve Vahiy'de, yücelik vermek her zaman

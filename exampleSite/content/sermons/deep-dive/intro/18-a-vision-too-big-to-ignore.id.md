@@ -44,11 +44,7 @@ Perjanjian Lama yang akan langsung dikenali oleh pembaca Daniel di abad pertama:
   tembaga berasal dari Daniel 10:5-6, yang menggambarkan utusan malaikat yang mempersiapkan Daniel
   untuk penglihatan terakhirnya.
 
-**Sebuah catatan kehati-hatian tentang sumber:** beberapa edisi pengajaran ini mengutip Daniel
-10:7 untuk deskripsi fisik itu — namun 10:7 sebenarnya menggambarkan orang-orang yang menyertai
-Daniel yang ketakutan karena tidak melihat penglihatan itu, bukan penampilan malaikat itu sendiri.
-Deskripsi mata yang menyala dan anggota tubuh tembaga ada di Daniel 10:5-6. Poin kecil, namun
-layak diperbaiki jika kamu memeriksa sendiri teksnya (lihat [Penglihatan tentang Anak Manusia]({{< relref "expl/content/vision/the-vision" >}})).
+**Sebuah catatan tentang rujukan:** deskripsi mata yang menyala dan anggota tubuh tembaga ada di Daniel 10:5-6 (10:7 menggambarkan orang-orang yang ketakutan karena tidak melihat penglihatan itu). Layak diperiksa jika kamu memeriksa sendiri teksnya (lihat [Penglihatan tentang Anak Manusia]({{< relref "expl/content/vision/the-vision" >}})).
 
 Dampak dari penggabungan gambaran-gambaran ini: penglihatan Yohanes tentang Yesus menyatukan Yang
 Lanjut Usianya dan sosok "anak manusia" menjadi satu — sebuah klaim yang mencolok namun tersirat

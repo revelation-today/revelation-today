@@ -78,8 +78,7 @@ kozmik dramaya sıkıştırır ve İsrail bunun gerçekleştiği kadındır.
 
 ## Ve Meryem yorumu — gerçek, ek bir katman
 
-İşte sıcak bir şekilde ve çekinmeden söylenmesi gereken kısım: Katolik geleneği, Kilise
-Babaları'ndan beri bu kadını Meryem olarak da okumuştur — ve bu okuma düzeltilmesi gereken bir
+İşte sıcak bir şekilde ve çekinmeden söylenmesi gereken kısım: Katolik geleneği, Kilise Babaları'nın sonraki dönemlerinden beri bu kadını Meryem olarak da okumuştur (en eski Babalar onu çoğunlukla Kilise olarak okurdu) — ve bu okuma düzeltilmesi gereken bir
 hata değildir. Kilise'nin birincinin yerine değil, onun yanında tuttuğu ikinci, meşru bir
 mercektir.
 

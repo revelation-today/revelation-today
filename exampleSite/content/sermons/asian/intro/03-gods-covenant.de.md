@@ -31,7 +31,7 @@ Dasselbe Muster erscheint in voller Form in Gottes Bund mit Israel am Sinai: die
 
 ## 4. Der Vater, der barmherzig bleibt
 
-Während dieser ganzen Geschichte nennt sich Gott Israels Vater (2. Mose 3,6) — einer, der, obwohl er an die Bedingungen des eigenen Bundes gebunden ist, der Barmherzigkeit verpflichtet bleibt. Die Schrift fasst das im reichen Wort *Chesed* zusammen: Bundestreue, Liebe, Güte, Treue, alles zugleich. Gott duldet seine Bundesfamilie nicht bloß. Er ist ihr verbunden, aus eigener Wahl, auf eine Weise, die seine fortwährende Fürsorge garantiert, selbst wenn sie ihn enttäuschen.
+Während dieser ganzen Geschichte nennt sich Gott Israels Vater (2. Mose 4,22) — einer, der, obwohl er an die Bedingungen des eigenen Bundes gebunden ist, der Barmherzigkeit verpflichtet bleibt. Die Schrift fasst das im reichen Wort *Chesed* zusammen: Bundestreue, Liebe, Güte, Treue, alles zugleich. Gott duldet seine Bundesfamilie nicht bloß. Er ist ihr verbunden, aus eigener Wahl, auf eine Weise, die seine fortwährende Fürsorge garantiert, selbst wenn sie ihn enttäuschen.
 
 ## 5. Warum das hier von Bedeutung ist
 

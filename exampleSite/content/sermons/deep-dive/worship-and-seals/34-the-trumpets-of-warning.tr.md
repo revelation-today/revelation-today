@@ -65,7 +65,7 @@ milyonluk bir orduyu salar — sıradan Yunanca sayma sisteminde ifade edilebile
 oluşturulmuş bir sayı, gerçek bir askeri sayımdan çok, işlevsel olarak sayılamaz bir şeyi
 resmetmesi amaçlanmıştır.
 
-**Düşündürücü sonuç.** Dokuz boru belasından sonra, "bu belalarla öldürülmeyen insanların geri
+**Düşündürücü sonuç.** Altı boru belasından sonra, "bu belalarla öldürülmeyen insanların geri
 kalanı yine de tövbe etmedi" (9:20-21). Yargı hiçbir zaman tek amaç değildi — bu belalar,
 insanlara Tanrı'ya dönmek için gerçek bir sebep vermek üzere tasarlanmıştı. Bunun yerine, insanlar
 kendilerine hiçbir şey sunamayacak putlara daha sıkı sarıldılar. Bu reddediş, daha sonra dördüncü

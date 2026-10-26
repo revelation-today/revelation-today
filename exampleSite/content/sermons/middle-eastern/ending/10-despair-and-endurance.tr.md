@@ -13,7 +13,7 @@ Bu oturum, Vahiy'in bölümlerinin standart listesinden gelmiyor, çünkü o sta
 
 ## Tehlikeyi dürüstçe adlandırmak
 
-Vahiy'in kendisi bu tehlikeyi adlandırıyor. İzmir'e yazılan mektupta, gerçek, süregelen zorluğu — yoksulluğu, iftirayı, gelmekte olan hapsi — anlattıktan sonra, İsa'nın kendi sözleri, zorluğun ötesinde bir şeye işaret ediyor: onun ağırlığı altında "umutsuzluğa öylesine kapılıp pes etme" tehlikesi. Dayanma, yalnızca belirli bir bitiş tarihi olan acıya dişlerinizi sıkarak katlanma meselesi değildir. Çok daha zor sınav, acının hiçbir görünür bitiş tarihi olmadığında gelir — zulüm aylarca değil nesillerce sürdüğünde, bütün bir topluluk henüz gelmemiş bir rahatlamayı beklediğinde, gitmek geriye kalan tek güvenlik yolu gibi göründüğünde.
+Vahiy'in kendisi bu tehlikeyi adlandırıyor. İzmir'e yazılan mektupta, gerçek, süregelen zorluğu — yoksulluğu, iftirayı, gelmekte olan hapsi — anlattıktan sonra, mektup, zorluğun ötesinde bir şeye işaret ediyor: onun ağırlığı altında umutsuzluğa öylesine kapılıp pes etme tehlikesi. Dayanma, yalnızca belirli bir bitiş tarihi olan acıya dişlerinizi sıkarak katlanma meselesi değildir. Çok daha zor sınav, acının hiçbir görünür bitiş tarihi olmadığında gelir — zulüm aylarca değil nesillerce sürdüğünde, bütün bir topluluk henüz gelmemiş bir rahatlamayı beklediğinde, gitmek geriye kalan tek güvenlik yolu gibi göründüğünde.
 
 Eğer bu, topluluğunuzun deneyimini tanımlıyorsa — belki ana babanızın ve büyükanne büyükbabanızın yılları da dahil, çözümsüz baskı yılları — her şeyden önce açıkça söylemek istiyoruz: Vahiy bu tükenmişliği bir iman başarısızlığı olarak ele almıyor. Onu, doğrudan konuşulacak kadar gerçek bir şey olarak ele alıyor.
 

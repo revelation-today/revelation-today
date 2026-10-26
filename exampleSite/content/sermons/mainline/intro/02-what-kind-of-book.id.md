@@ -82,9 +82,7 @@ tentang sebuah jadwal waktu yang jauh.
 
 Kata-kata pembuka kitab ini adalah *Apokalypsis Iesou Christou* — "penyataan
 Yesus Kristus." "Apokalips" tidak berarti sebuah ramalan rahasia tentang
-peristiwa yang dekat atau jauh, dan kitab ini sesungguhnya tidak berbicara
-tentang berakhirnya dunia fisik — kitab ini berbicara tentang berakhirnya
-penguasa-penguasa yang jahat dan sistem-sistem korup yang dibangun di sekitar
+peristiwa yang dekat atau jauh, dan kitab ini tidak hanya berbicara tentang berakhirnya dunia fisik — kitab ini sama banyaknya berbicara tentang berakhirnya penguasa-penguasa yang jahat dan sistem-sistem korup yang dibangun di sekitar
 mereka. Satu-satunya teks apokaliptik Alkitab lainnya adalah Daniel 7–12 dan
 wacana-wacana apokaliptik Yesus sendiri dalam Markus 13, Matius 24, dan Lukas
 21 — semuanya, seperti yang diketahui banyak orang, sulit untuk ditafsirkan

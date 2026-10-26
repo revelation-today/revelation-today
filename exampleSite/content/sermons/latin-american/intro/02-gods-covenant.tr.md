@@ -12,8 +12,7 @@ next: /sermons/latin-american/worship-and-seals/03-worship-in-the-throne-room
 ## Aile her şeydi
 
 Antik dünyada bir aileye ait olmak, hayatta kalmanın ta kendisi anlamına geliyordu — korunma,
-geçim, kimlik, her şey. Doğru aileye doğmamışsan, Kutsal Yazı yalnızca birkaç kapı tanır: evlilik,
-doğum, evlat edinme ya da antlaşma. İşte o son kapı — antlaşma — Tanrı'nın halkıyla birlikte
+geçim, kimlik, her şey. Doğru aileye doğmamışsan, Kutsal Yazı yalnızca birkaç kapı tanır: evlilik, doğum ya da antlaşma. İşte o son kapı — antlaşma — Tanrı'nın halkıyla birlikte
 girmeyi seçtiği kapıdır ve bunun antik dünyada nasıl işlediğini anlamak, Vahiy dahil, tüm
 Kutsal Kitab'ı nasıl okuduğumuzu değiştirir.
 
@@ -52,8 +51,7 @@ Sina'daki antlaşma, o dönemin ulus-devletlerinin kullandığı aynı antik huk
 büyük tarafı adlandıran bir giriş ("Ben senin Tanrın RAB'bim"), zaten gösterilmiş iyiliği
 hatırlatan bir önsöz ("seni Mısır'dan çıkaran"), talepler, bereketler ve lanetler, ve tanıklar.
 Ve en önemlisi — zayıf tarafın başarısız olması için tasarlanmış olan fetih antlaşmalarının
-aksine — Tanrı'nın şartları hiçbir zaman imkânsız değildi. İsrail bu şartları tutabilirdi.
-Ama defalarca tutmamayı seçtiler. Bütün bunlar boyunca Tanrı kendini İsrail'in Babası olarak
+aksine — Tanrı'nın şartları hiçbir zaman imkânsız değildi. İsrail bu şartları tutabilirdi; ama defalarca tutmadılar. Bütün bunlar boyunca Tanrı kendini İsrail'in Babası olarak
 adlandırır — antlaşmanın şartlarını uygularken bile hesed ile — yani aynı anda sevgi, iyilik,
 merhamet, sadakat olarak çevrilebilecek kadar zengin bir antlaşma bağlılığıyla — nitelenen bir
 Baba.

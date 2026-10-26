@@ -14,8 +14,7 @@ Fragt eure Gruppe, woran sie denkt, wenn sie das Wort „Geheimnis" in einem rel
 — an einen Geheimcode, etwas Gruseliges, ein ungelöstes Rätsel. Weist dann darauf hin: Paulus
 gebraucht das Wort anders. Wenn er etwas ein „Geheimnis" nennt, meint er fast immer etwas, das in
 Gottes Plan schon immer wahr war, aber erst jetzt vollständig offenbart wurde — kein zu
-entschlüsselndes Rätsel, sondern eine überwältigende Realität, die endlich sichtbar wird. Die
-Offenbarung verwendet das Wort genau dreimal, und alle drei Stellen gemeinsam nachzuzeichnen
+entschlüsselndes Rätsel, sondern eine überwältigende Realität, die endlich sichtbar wird. Die Offenbarung verwendet das Wort viermal, für drei Geheimnisse, und alle drei gemeinsam nachzuzeichnen
 enthüllt eine der zentralen strukturellen Ideen des Buches: ein gespiegeltes Triptychon aus
 Gemeinde, Gott und der Hure.
 
@@ -29,8 +28,7 @@ entfaltet.
 
 **Warum drei Geheimnisse, und warum hier.** Wie wir in Einheit 3 gesehen haben, greift das Wort
 „Geheimnis" in der Offenbarung bewusst {{% bible val="Daniel 2" link="dan:2,28-45" lang="de" %}}
-auf, das einzige prophetische Buch, das diesen Begriff verwendet — und die Offenbarung verwendet
-es genau dreimal: das Geheimnis der {{% bible val="Gemeinde" link="rev:1,20" lang="de" %}}, das
+auf, das einzige prophetische Buch, das diesen Begriff verwendet — und die Offenbarung verwendet es viermal, für drei Geheimnisse: das Geheimnis der {{% bible val="Gemeinde" link="rev:1,20" lang="de" %}}, das
 Geheimnis {{% bible val="Gottes" link="rev:10,7" lang="de" %}} und das Geheimnis der
 {{% bible val="Hure" link="rev:17,5" lang="de" %}}. Diese drei sind nicht zufällig verstreut —
 zusammen bilden sie einen gespiegelten Kontrast, der sich durch das ganze Buch zieht: die Berufung

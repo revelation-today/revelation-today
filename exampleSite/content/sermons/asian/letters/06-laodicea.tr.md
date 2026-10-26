@@ -41,7 +41,7 @@ Bu yüzden, ifşa imgesi üzerinde durmak yerine, altındaki daha basit, daha ke
 
 Her şeye rağmen, İsa bu kiliseden uzaklaşmaz. Onları kendini beğenmişlikten çağırır ve kapıyı çalar — Eski Antlaşma kökeninde bu, imansızlara yönelik bir çağrı değil, sevdiği kişiye seslenen bir sevgilinin şefkatli çağrısıdır (Ezgiler Ezgisi 5:1-5'i yankılar). Hakkında hiçbir övgü sözü söylenmeyen kiliseye bile İsa şöyle der: hâlâ buradayım, hâlâ kapıyı çalıyorum, hâlâ içeri girmek istiyorum.
 
-Ve eğer dinlerlerse, vaat olağanüstüdür: onunla kendi tahtında oturacaklar. Durup bunun ne anlama geldiğini düşünün — 4. ve 5. bölümlerin taht odası görümünde, başka hiç kimse oturmaz; her diğer figür ya ayakta durur ya da tapınarak yüzüstü yere kapanır. Bu vaat, kendinden memnun bir kiliseyi kendini görme biçiminden sarsmaya yeter mi?
+Ve eğer dinlerlerse, vaat olağanüstüdür: onunla kendi tahtında oturacaklar. Durup bunun ne anlama geldiğini düşünün — 4. ve 5. bölümlerin taht odası görümünde ihtiyarlar tahtın çevresindeki tahtlarda oturur; tahtın kendisi ise Tanrı'ya ve Kuzu'ya aittir. İsa'yla birlikte O'nun kendi tahtında oturmak özel bir armağandır. Bu vaat, kendinden memnun bir kiliseyi kendini görme biçiminden sarsmaya yeter mi?
 
 ## 6. Bu mektubu uygulamanın farklı bir yolu
 

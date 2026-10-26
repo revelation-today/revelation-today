@@ -146,7 +146,7 @@ But what does this have to do with the beast? Look at how the story in Daniel en
 ## Solomon's riches
 
 <a name="719b"></a>
-A third way: 666 appears written out exactly like that in the Bible, in {{% bible val="the summary of Solomon's wealth" link="1ki:10,14-29" lang="en" %}}, right at its opening — the last high point before {{% bible val="the description of his catastrophic failure" link="1ki:11,1-13" lang="en" %}}.
+A third way: 666 appears in the Bible in {{% bible val="the summary of Solomon's wealth" link="1ki:10,14-29" lang="en" %}}, right at its opening (the number occurs once more, in Ezra 2:13, but only as the size of one family) — the last high point before {{% bible val="the description of his catastrophic failure" link="1ki:11,1-13" lang="en" %}}.
 
 What is the story of Solomon? It begins with the {{% bible val="story of Bathsheba" link="2sa:11" lang="en" %}}, which led to {{% bible val="Nathan rebuking David, and to the loss of the child born from that sin" link="2sa:12,1-23" lang="en" %}} — yet {{% bible val="God gave him another child with Bathsheba, a sign of God's own love" link="2sa:12,24-25" lang="en" %}}. After Solomon was enthroned, {{% bible val="he asked God for an understanding heart instead of wealth and power — and because he asked for that, God gave him all the power and wealth" link="1ki:3" lang="en" %}} on top.
 

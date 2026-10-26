@@ -39,7 +39,7 @@ Read this way, the whole vision becomes the Gospel story told again as a single 
 
 ## And the Marian reading — a real, additional layer
 
-Here is the part that deserves to be said warmly and without hedging: Catholic tradition has, from the Church Fathers onward, also read this woman as Mary — and this reading is not a mistake to be corrected. It is a second, legitimate lens the Church has held alongside the first, not instead of it.
+Here is the part that deserves to be said warmly and without hedging: Catholic tradition has, from the later centuries of the Church Fathers onward, also read this woman as Mary (the earliest Fathers mostly read her as the Church) — and this reading is not a mistake to be corrected. It is a second, legitimate lens the Church has held alongside the first, not instead of it.
 
 The Church has never needed to choose between "Israel" and "Mary" here, because Mary herself is the place where Israel's identity becomes personal and concrete. She is the daughter of Zion in the most literal sense: the one true Israelite in whom Israel's centuries-long vocation to bring forth the Messiah reaches its actual, historical fulfillment. When the Church reads this passage at Mass on the Feast of the Assumption, it is not overriding the Israel reading — it is recognizing that Mary stands exactly where "daughter Zion" was always going to stand: the woman who says yes, who labors, who watches the dragon rage against her child, and who shares in the child's ultimate triumph.
 

@@ -35,7 +35,7 @@ Genau das ist der Punkt, der bei konservativ-evangelikalen Zuhörerschaften bena
 2. Der Text beschreibt nur den Schrecken der Menschen, nie eine zornige Handlung Gottes oder des Lammes in dieser Szene. Wie verändert diese Beobachtung, wie ihr diesen Abschnitt lest?
 3. Habt ihr (oder jemand euch Nahestehendes) je echte Unterdrückung, Ausbeutung oder Gewalt erlebt, die so schwerwiegend war, dass ihr euch aufrichtig wünschtet, Gott möge zu eurem Recht eingreifen? Wie prägt diese Erfahrung – oder ihr Fehlen – euren Umgang mit diesem Thema?
 4. Wo habt ihr vielleicht, ohne es zu merken, "Gottes Zorn" von "Gerechtigkeit für echte Opfer" getrennt und ihn zu einer abstrakten Lehre oder einer Drohung gemacht, die nur andere betrifft?
-5. Uns wird gesagt, "die Folgen unserer Bosheit werden nicht einfach durch ein einziges Gebet weggewischt" und dass Gott will, dass sich steinerne Herzen tatsächlich verändern. Wie prägt das euer Verständnis von Buße – als Transaktion oder als etwas Tieferes?
+5. Zorn „richtig verstanden" verlangt auch etwas von uns: Wir stehen ein für den Schaden, den wir anrichten, direkt oder indem wir wegsehen. Wie prägt das euer Verständnis von Buße – als Transaktion oder als etwas Tieferes?
 
 ## Impuls für das Abschlussgebet
 

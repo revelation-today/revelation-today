@@ -84,7 +84,7 @@ seorang mitra perjanjian yang telah sepenuhnya menepati bagian-Nya sendiri dan t
 pun yang sebenarnya tidak mampu dilakukan umat-Nya.
 
 **Catatan bahasa asli: *hesed*.** Melalui semua ini, Allah menyebut diri-Nya sendiri Bapak Israel
-({{% bible val="Keluaran 3:6" link="exo:3,6" lang="ind" %}}) — seorang bapak yang, bahkan ketika
+({{% bible val="Keluaran 4:22" link="exo:4,22" lang="ind" %}}) — seorang bapak yang, bahkan ketika
 secara sah berhak menegakkan kutuk perjanjian, tetap penuh belas kasihan. Alkitab menangkap
 gabungan itu dalam kata Ibrani *hesed* (חֶסֶד), biasanya diterjemahkan "kesetiaan perjanjian" atau
 "kasih setia," tetapi cukup kaya untuk juga membawa arti kebaikan, belas kasihan, dan kesetiaan

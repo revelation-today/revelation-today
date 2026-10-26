@@ -37,8 +37,7 @@ açılış tanımında hiçbir
 övgü olmadan ("yaşıyorsun diye bir adın var, ama ölüsün,"
 {{% bible val="Va 3:1" link="rev:3,1" lang="tr" %}}) benzersiz derecede ağır bir hüküm alır.
 Makul okuyucular "en kötü" kiliseyi farklı sıralayabilir; tartışılmayan şey, mektupların
-rastgele değil, gerçek bir simetriyle ve yozlaşmış bir liderlik merkez parçasıyla
-düzenlenmiş olduğudur.
+rastgele değil, gerçek bir simetriyle ve kilisenin içinde yanlış öğretiye göz yumulan bir merkez parçasıyla düzenlenmiş olduğudur.
 
 **Her şey taht odasından akar.** Bu düşündürücü teşhise karşılık, Tanrı'nın cevabı kesintisiz
 tapınmadır (4-5. bölümler) — ve o taht odasından, kitaptaki her şey dışarıya doğru akar: mühürler,

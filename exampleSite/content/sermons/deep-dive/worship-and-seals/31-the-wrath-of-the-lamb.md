@@ -35,7 +35,7 @@ This is precisely the point named in the challenges facing conservative evangeli
 2. The text describes only the people's terror, never an angry action by God or the Lamb in this scene. How does that observation change how you read this passage?
 3. Have you (or has someone close to you) ever experienced real oppression, exploitation, or violence severe enough that you genuinely longed for God to act in judgment on your behalf? How does that experience — or its absence — shape how comfortable you are with this topic?
 4. Where might you, without realizing it, have detached "God's wrath" from "justice for real victims" and turned it into either an abstract doctrine or a threat aimed only at other people?
-5. We are told "the consequences of our wickedness aren't simply wiped away by a single prayer" and that God wants hearts of stone to actually change. How does that shape how you think about repentance — as a transaction, or as something deeper?
+5. Wrath "rightly understood" asks something of us too: we answer for the harm we cause, directly or by looking away. How does that shape how you think about repentance — as a transaction, or as something deeper?
 
 ## Closing prayer prompt
 

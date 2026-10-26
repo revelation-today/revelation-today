@@ -17,7 +17,7 @@ Kutsal Kitap'ın tamamını tek bir cümlede özetlemeniz gerekseydi, şundan da
 
 ## Bahçe hiçbir zaman kaybedilmek üzere yaratılmadı
 
-Yaratılış, Tanrı'nın uzakta değil, yarattıkları arasında ikamet etmesiyle başlar. Adem ve Havva ile yürür, bahçede onlarla buluşur, yaratılışın rahipleri olarak bakmaları için onlara bir kutsal mekân verir. Bu zaten bir tür tapınaktır — göğün ve yerin bölünmeden çakıştığı ilk yerdir. Düşüşten sonra insanlık bu paydaşlıktan sürülür ve işler sarpa sarar: Kayin, Habil'i öldürür ve Tanrı merhametle Kayin'i korumak için işaretledikten sonra bile Kayin "bunun yerine kendi güvenliğini arar ve bir şehir kurar" (Yaratılış 4:16-17). Onun soyundan gelenler, nesil be nesil, Tanrı'dan ayrı kendi güvenlik mimarilerini inşa etmeye devam ederler ve bu, Babil'deki kibirli kulede doruğa ulaşır. Yaratılış'taki her insan şehri, başka bir deyişle, sahte bir tapınaktır — artık gerçeğinde hoş karşılanmayan insanlar tarafından inşa edilmiş bir yedek sığınaktır.
+Yaratılış, Tanrı'nın uzakta değil, yarattıkları arasında ikamet etmesiyle başlar. Adem ve Havva ile yürür, bahçede onlarla buluşur, yaratılışın rahipleri olarak bakmaları için onlara bir kutsal mekân verir. Bu zaten bir tür tapınaktır — göğün ve yerin bölünmeden çakıştığı ilk yerdir. Düşüşten sonra insanlık bu paydaşlıktan sürülür ve işler sarpa sarar: Kayin, Habil'i öldürür ve Tanrı merhametle Kayin'i korumak için işaretledikten sonra bile Kayin bunun yerine kendi güvenliğini arar ve bir şehir kurar (Yaratılış 4:17). Onun soyundan gelenler, nesil be nesil, Tanrı'dan ayrı kendi güvenlik mimarilerini inşa etmeye devam ederler ve bu, Babil'deki kibirli kulede doruğa ulaşır. Yaratılış'taki her insan şehri, başka bir deyişle, sahte bir tapınaktır — artık gerçeğinde hoş karşılanmayan insanlar tarafından inşa edilmiş bir yedek sığınaktır.
 
 Ama Tanrı hiçbir zaman amacından vazgeçmez. Kayin'in soyundan bile "insanlar yine Rab'bin adını anmaya başlar" (Yaratılış 4:26) ve Tanrı, Babil'in kendisi için bir ad yapmayı başaramadığı yerde tam olarak İbrahim için bir ad yapmayı seçer.
 
@@ -39,7 +39,7 @@ Bu, tam olarak geleneğinizin teosis anlayışının üzerinde durduğu zemindir
 
 ## Kilise, sonra da şehir
 
-Mesih'in ölümüyle Pavlus bize tapınağın kilise haline geldiğini söyler, çünkü kilise Mesih'in kendi bedenidir (1. Korintliler 6:19). Ve Vahiy'de bu nihai biçimine ulaşır: kilise, aynı zamanda Yeni Yeruşalim de olan Mesih'in Gelini olarak görünür — Tanrı ile insanlık arasındaki paydaşlığın nihayet tamamen bozulmadan sürdüğü yer. Hezekiel'in ırmağı geri döner, şimdi Tanrı'nın ve Kuzu'nun tahtından akarak (Vahiy 22:1-5), Aden'in kapısında kaybedilen yaşam ağacını sular. Tüm yay tam olarak açıldığı yerde kapanır, ama artık engel sonsuza dek yok olmuştur.
+Mesih'in ölümüyle Pavlus bize tapınağın kilise haline geldiğini söyler, çünkü kilise Mesih'in kendi bedenidir (1. Korintliler 3:16-17). Ve Vahiy'de bu nihai biçimine ulaşır: kilise, aynı zamanda Yeni Yeruşalim de olan Mesih'in Gelini olarak görünür — Tanrı ile insanlık arasındaki paydaşlığın nihayet tamamen bozulmadan sürdüğü yer. Hezekiel'in ırmağı geri döner, şimdi Tanrı'nın ve Kuzu'nun tahtından akarak (Vahiy 22:1-5), Aden'in kapısında kaybedilen yaşam ağacını sular. Tüm yay tam olarak açıldığı yerde kapanır, ama artık engel sonsuza dek yok olmuştur.
 
 ## Kapanış
 

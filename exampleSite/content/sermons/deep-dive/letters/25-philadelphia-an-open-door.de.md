@@ -67,11 +67,7 @@ zukünftige Periode, aus der Gläubige herausgeflogen werden, bevor sie beginnt.
 
 ## Ein Hinweis zur Zitierung
 
-Der Vers, der das trägt, ist Jakobus 1,27: „sich von der Welt unbefleckt halten" — geschützt
-innerhalb der Welt, nicht aus ihr entfernt. Sprüche 7,5 wird manchmal daneben zitiert, aber das
-ist hebräische Weisheitsliteratur über die
-Vermeidung von Verführung; die Überschneidung liegt in der Übersetzung, nicht im Argument.
-Jakobus 1,27 steht gut genug für sich allein.
+Johannes 17,15 ist die engste Parallele für diese Wendung (tērein ek). Jakobus 1,27, „sich von der Welt unbefleckt halten", hat denselben Gedanken mit einer anderen Präposition (tērein apo): bewahrt innerhalb der Welt, nicht aus ihr entfernt.
 
 ## Eine lebendige Frage, die es wert ist, benannt zu werden
 

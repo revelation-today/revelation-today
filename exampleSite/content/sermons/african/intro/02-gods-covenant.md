@@ -37,7 +37,7 @@ This exact pattern appears at Sinai. The preamble: "I am the LORD your God" (Exo
 
 Crucially: the terms of God's covenant were never impossible to keep, unlike so many human covenants designed to set the weaker party up for failure. Israel could have kept the covenant. They simply chose not to.
 
-Through it all, God calls himself Israel's Father (Exodus 3:6) — a Father who, even while bound by covenant terms, remains merciful. Scripture has a word for that combination: hesed, usually translated "covenant loyalty" or "steadfast love" — rich enough to mean love, goodness, mercy, and faithfulness all at once.
+Through it all, God calls himself Israel's Father (Exodus 4:22) — a Father who, even while bound by covenant terms, remains merciful. Scripture has a word for that combination: hesed, usually translated "covenant loyalty" or "steadfast love" — rich enough to mean love, goodness, mercy, and faithfulness all at once.
 
 ## Why this matters for reading Revelation
 

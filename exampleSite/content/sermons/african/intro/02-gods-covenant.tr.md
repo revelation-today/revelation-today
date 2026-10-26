@@ -37,7 +37,7 @@ Aynı kalıp Sina'da karşımıza çıkar. Önsöz: "Seni Mısır'dan, köle old
 
 Önemli olan şu: Tanrı'nın antlaşmasının şartları, zayıf tarafı başarısızlığa hazırlamak üzere tasarlanan birçok insan antlaşmasının aksine, hiçbir zaman tutulması imkânsız değildi. İsrail antlaşmayı tutabilirdi. Sadece tutmamayı seçtiler.
 
-Bütün bunlar boyunca Tanrı kendini İsrail'in Babası olarak adlandırır (Çıkış 3:6) — antlaşma şartlarıyla bağlı olsa bile merhametli kalan bir Baba. Kutsal Yazılar'ın bu bileşim için bir sözcüğü vardır: hesed, genellikle "antlaşma sadakati" ya da "sarsılmaz sevgi" olarak çevrilir — sevgiyi, iyiliği, merhameti ve sadakati aynı anda ifade edecek kadar zengin.
+Bütün bunlar boyunca Tanrı kendini İsrail'in Babası olarak adlandırır (Çıkış 4:22) — antlaşma şartlarıyla bağlı olsa bile merhametli kalan bir Baba. Kutsal Yazılar'ın bu bileşim için bir sözcüğü vardır: hesed, genellikle "antlaşma sadakati" ya da "sarsılmaz sevgi" olarak çevrilir — sevgiyi, iyiliği, merhameti ve sadakati aynı anda ifade edecek kadar zengin.
 
 ## Bunun Vahiy'i okumak için neden önemli olduğu
 

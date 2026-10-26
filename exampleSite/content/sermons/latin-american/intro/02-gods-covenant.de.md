@@ -13,7 +13,7 @@ next: /sermons/latin-american/worship-and-seals/03-worship-in-the-throne-room
 
 In der antiken Welt bedeutete die Zugehörigkeit zu einer Familie das eigene Überleben –
 Schutz, Versorgung, Identität, alles. Wenn man nicht in die richtige Familie hineingeboren
-wurde, kennt die Schrift nur wenige Türen hinein: Heirat, Geburt, Adoption oder Bund. Diese
+wurde, kennt die Schrift nur wenige Türen hinein: Heirat, Geburt oder Bund. Diese
 letzte Tür – der Bund – ist die Tür, durch die Gott mit seinem Volk gehen wollte, und zu
 verstehen, wie das in der antiken Welt funktionierte, verändert, wie wir die ganze Bibel lesen,
 einschließlich der Offenbarung.
@@ -57,7 +57,7 @@ eine Präambel, die die größere Partei benennt („Ich bin der Herr, dein Gott
 bereits erwiesene Güte in Erinnerung ruft („der dich aus Ägypten herausgeführt hat"),
 Forderungen, Segen und Fluch, und Zeugen. Und entscheidend: Anders als die Eroberungsbünde, die
 oft so gestaltet waren, dass die schwächere Partei scheitern musste, waren Gottes Bedingungen
-nie unmöglich. Israel hätte sie halten können. Sie entschieden sich immer wieder dagegen. Durch
+nie unmöglich. Israel hätte sie halten können; immer wieder hielten sie sie nicht. Durch
 das alles hindurch nennt Gott sich selbst Israels Vater – ein Vater, der, selbst während er die
 Bedingungen des Bundes durchsetzt, geprägt bleibt von Hesed: Bundestreue, reich genug, um mit
 Liebe, Güte, Erbarmen und Treue zugleich übersetzt zu werden.

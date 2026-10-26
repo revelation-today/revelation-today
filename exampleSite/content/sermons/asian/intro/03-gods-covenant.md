@@ -31,7 +31,7 @@ The same pattern appears, in full form, in God's covenant with Israel at Sinai: 
 
 ## 4. The Father who remains merciful
 
-Throughout this story, God calls himself Israel's Father (Exodus 3:6) — one who, even while bound by the covenant's own terms, remains committed to mercy. Scripture captures this in the rich word *hesed*: covenant loyalty, love, goodness, faithfulness, all at once. God does not merely tolerate his covenant family. He is bound to them, by his own choice, in a way that guarantees his ongoing care even when they fail him.
+Throughout this story, God calls himself Israel's Father (Exodus 4:22) — one who, even while bound by the covenant's own terms, remains committed to mercy. Scripture captures this in the rich word *hesed*: covenant loyalty, love, goodness, faithfulness, all at once. God does not merely tolerate his covenant family. He is bound to them, by his own choice, in a way that guarantees his ongoing care even when they fail him.
 
 ## 5. Why this matters here
 

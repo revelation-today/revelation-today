@@ -53,9 +53,7 @@ power. The beast is brute force; the harlot is what makes that force look attrac
 and worth trusting. Together they form the devil's whole counterfeit gospel: security bought
 through fear of violence, wealth built by exploiting the poor and excluding anyone who won't
 comply, a feeling of superiority, and the silencing of any inconvenient voice that names what's
-really happening (see Revelation 13:4, 7, 10, 13–14, 16–17; 17:6). But the church is always at
-risk of being pulled into her orbit — "so that you're forced to keep reflecting and stepping
-out of it, day after day," as the text itself puts it (18:4), "because Babel is everywhere."
+really happening (see Revelation 13:4, 7, 10, 13–14, 16–17; 17:6). But the church is always at risk of being pulled into her orbit, which is why the call in 18:4 is a daily one: "Come out of her, my people."
 
 ## Naming the collision directly
 

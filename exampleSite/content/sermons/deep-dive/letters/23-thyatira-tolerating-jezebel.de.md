@@ -51,7 +51,7 @@ Isebels Anhänger, das zur Umkehr bewegen soll (2,21-22), und eine Warnung, dass
 erkennen werden, dass ich der bin, der Herz und Nieren erforscht" (2,23) — Thyatiras Versagen wird
 zur Lehrstunde für jede andere Gemeinde.
 
-Denen, die unter dieser korrupten Führung treu bleiben, verspricht Jesus echte eigene Autorität —
+Denen, die angesichts dieser falschen Lehre treu bleiben, verspricht Jesus echte eigene Autorität —
 sie werden herrschen „mit eisernem Zepter", Sprache aus Psalm 2 — und „den Morgenstern" (2,28),
 der anderswo in der Offenbarung (22,16) ein Titel ist, den Jesus auf sich selbst anwendet: das
 Anbrechen einer Hoffnung, die alles überdauert, was schlechte Führung in der Zwischenzeit an

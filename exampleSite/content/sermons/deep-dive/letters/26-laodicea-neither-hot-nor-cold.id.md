@@ -58,9 +58,7 @@ konteksnya sebagai sebuah ajakan penginjilan kepada orang yang belum percaya. Da
 ini ditujukan kepada sebuah jemaat yang sudah mengaku Kristus — ini adalah panggilan seorang
 kekasih kepada yang dikasihinya, menggemakan Kidung Agung 5:1-5, bukan sebuah ajakan altar bagi
 orang luar. Dan janji bagi mereka yang menanggapi sungguh mengejutkan: mereka akan "duduk bersama-
-sama dengan Aku di atas takhta-Ku" (3:21) — bukan sekadar berdiri di hadapan Allah, yang merupakan
-posisi semua orang lain di sepanjang adegan-adegan ruang takhta Wahyu, melainkan benar-benar
-duduk, berbagi tempat pemerintahan Yesus sendiri.
+sama dengan Aku di atas takhta-Ku" (3:21) — di ruang takhta pasal 4-5 para tua-tua duduk di atas takhta-takhta di sekeliling takhta, tetapi di sini janjinya adalah duduk bersama Yesus di atas takhta-Nya sendiri, sebuah pemberian yang istimewa: berbagi tempat pemerintahan Yesus sendiri (3:21).
 
 ## Sebuah Pertanyaan Hidup yang Layak Disebutkan
 

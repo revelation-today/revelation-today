@@ -54,9 +54,7 @@ häufigsten zitierten Verse im Neuen Testament, wird aber meist aus dem Kontext 
 evangelistischer Appell an Ungläubige gelesen. Im Kontext ist es an eine Gemeinde gerichtet, die
 Christus bereits für sich beansprucht — das ist der Ruf eines Liebenden an die Geliebte, ein
 Anklang an Hoheslied 5,1-5, kein Altarruf an Außenstehende. Und die Verheißung für diejenigen, die
-antworten, ist verblüffend: Sie werden „mit mir auf meinem Thron sitzen" (3,21) — nicht nur in
-Gottes Gegenwart stehen, was die Position aller anderen in den Thronsaal-Szenen der Offenbarung
-ist, sondern tatsächlich sitzen, Jesu eigenen Herrschaftsplatz teilend.
+antworten, ist verblüffend: Sie werden „mit mir auf meinem Thron sitzen" (3,21) — im Thronsaal von Kapitel 4-5 sitzen die Ältesten auf Thronen rund um den Thron, aber hier gilt die Verheißung, mit Jesus auf seinem eigenen Thron zu sitzen, eine besondere Zusage: Jesu eigenen Herrschaftsplatz zu teilen (3,21).
 
 ## Eine lebendige Frage, die es wert ist, benannt zu werden
 

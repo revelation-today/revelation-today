@@ -69,11 +69,7 @@ keluar sebelum dimulai.
 
 ## Sebuah Catatan tentang Kutipan
 
-Ayat yang menopang hal ini adalah Yakobus 1:27, "menjaga dirinya sendiri supaya tidak dicemarkan
-oleh dunia" — dilindungi di dalam dunia, bukan diangkat keluar darinya. Amsal 7:5 kadang dikutip
-bersamanya, tetapi itu adalah sastra hikmat Ibrani tentang
-menghindari godaan seksual; tumpang tindihnya ada pada terjemahan, bukan pada argumennya.
-Yakobus 1:27 berdiri cukup baik dengan sendirinya.
+Yohanes 17:15 adalah paralel terdekat untuk ungkapan ini (tērein ek). Yakobus 1:27, "menjaga dirinya sendiri supaya tidak dicemarkan oleh dunia", memuat gagasan yang sama dengan kata depan yang berbeda (tērein apo): dijaga di dalam dunia, bukan diangkat keluar darinya.
 
 ## Sebuah Pertanyaan Hidup yang Layak Disebutkan
 

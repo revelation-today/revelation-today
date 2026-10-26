@@ -23,7 +23,7 @@ These treaties followed a standard five-part shape: a grand self-introduction fr
 
 ## God rewrites the terms with Abraham
 
-Genesis 15 stages this exact scene with Abraham — sacrifices cut in half, arranged in the customary way. But then the story does something no covenant of conquest ever did: it is not Abraham, the weaker party, who walks between the pieces. It is God himself, appearing as fire, who passes through and takes the curse upon himself in advance. When Abraham later breaks faith — as he does — the weight of that broken covenant does not fall where every ancient reader would expect it to fall, on the weaker party. God has already absorbed it.
+Genesis 15 stages this exact scene with Abraham — sacrifices cut in half, arranged in the customary way. But then the story does something no covenant of conquest ever did: it is not Abraham, the weaker party, who walks between the pieces. It is God himself, appearing as fire, who passes through and takes the curse upon himself in advance. When Abraham's descendants later break faith — as they do — the weight of that broken covenant does not fall where every ancient reader would expect it to fall, on the weaker party. God has already absorbed it.
 
 This is worth sitting with for a moment, because it previews something at the very center of our faith. The covenant curse, taken up by God on behalf of the one who cannot keep his word, points forward to the cross, where God's own Son bears what we could not bear ourselves. Every Divine Liturgy proclaims exactly this: not a contract we managed to fulfill, but a covenant God kept on both sides.
 
@@ -31,7 +31,7 @@ This is worth sitting with for a moment, because it previews something at the ve
 
 The same five-part covenant structure appears again at Sinai, almost word for word: "I am the Lord your God" (the self-introduction), "who brought you out of Egypt, out of the land of slavery" (the prologue recalling grace already shown, before any demand is made), the commandments (the demands, opening fittingly with the call to worship God alone), blessing and curse in Deuteronomy 28, and finally heaven and earth themselves called as witnesses. Notice the order: grace comes before law. God rescues Israel from Egypt first, and only then gives the commandments — the covenant is never a ladder Israel must climb to earn deliverance already given.
 
-And crucially, the terms were never impossible. Unlike so many ancient treaties designed to set the weaker party up to fail, God's people genuinely could have kept faith. They simply, repeatedly, chose not to. Even so, God calls himself Israel's Father throughout — a Father who, bound by his own covenant word, remains faithful even when Israel is not. Scripture has a rich word for this: *hesed*, covenant loyalty, rendered variously as love, mercy, goodness, faithfulness — never merely contractual, always personal.
+And crucially, the terms were never impossible. Unlike so many ancient treaties designed to set the weaker party up to fail, God's people genuinely could have kept faith; time after time they did not. Even so, God calls himself Israel's Father throughout — a Father who, bound by his own covenant word, remains faithful even when Israel is not. Scripture has a rich word for this: *hesed*, covenant loyalty, rendered variously as love, mercy, goodness, faithfulness — never merely contractual, always personal.
 
 ## Why this matters for reading Revelation
 
