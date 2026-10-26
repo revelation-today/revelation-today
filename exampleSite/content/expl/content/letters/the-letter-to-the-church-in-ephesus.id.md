@@ -56,7 +56,7 @@ Jadi kasih manakah yang telah hilang dari Efesus - kasih kepada Yesus, kepada sa
 
 Yesus sendiri menyatukan kasih kepada Allah dan kasih kepada sesama menjadi satu perintah (Mrk. 12:29–31). Ketika salah satu kasih ini mendingin, yang lain ikut mendingin - dan kesaksian, yaitu kasih yang keluar menuju dunia, juga ikut mendingin.
 
-Efesus mungkin tampak seperti jemaat yang mapan dan dewasa, karena mereka sudah mengembangkan strategi yang nyata untuk menghadapi tantangan-tantangan rohani. Tetapi mereka tampaknya telah melupakan untuk apa semua ini mereka lakukan sejak semula, dan akhirnya menjadi berpusat pada diri sendiri alih-alih pada upaya membenahi keadaan.
+Efesus mungkin tampak seperti jemaat yang mapan dan dewasa, karena mereka sudah mengembangkan strategi yang nyata untuk menghadapi tantangan-tantangan rohani. Tetapi mereka tampaknya telah melupakan untuk apa semua ini mereka lakukan sejak semula, dan akhirnya menjadi berpusat ke dalam, pada diri sendiri alih-alih pada dunia yang dipanggil untuk dikasihinya.
 
 ## Solusinya
 

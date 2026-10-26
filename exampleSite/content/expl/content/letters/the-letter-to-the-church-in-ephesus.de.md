@@ -56,7 +56,7 @@ Welche Liebe hat Ephesus also verloren - die Liebe zu Jesus, zueinander oder zur
 
 Jesus selbst hat die Liebe zu Gott und die Liebe zum Nächsten zu einem einzigen Gebot verbunden (Mk 12,29–31). Wenn eine dieser Lieben erkaltet, kühlen die anderen mit ab - und auch das Zeugnis erkaltet, das ja Liebe ist, die zur Welt hinausgeht.
 
-Ephesus mag wie eine etablierte, reife Gemeinde wirken, da sie echte Strategien entwickelt hat, um mit geistlichen Herausforderungen umzugehen. Aber sie hat wahrscheinlich vergessen, warum sie das alles überhaupt tut, und ist am Ende auf sich selbst fokussiert statt darauf, die Dinge in Ordnung zu bringen.
+Ephesus mag wie eine etablierte, reife Gemeinde wirken, da sie echte Strategien entwickelt hat, um mit geistlichen Herausforderungen umzugehen. Aber sie hat wahrscheinlich vergessen, warum sie das alles überhaupt tut, und ist am Ende nach innen gekehrt, auf sich selbst fokussiert statt auf die Welt, die sie lieben soll.
 
 ## Die Lösung
 

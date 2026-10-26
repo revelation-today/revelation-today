@@ -56,7 +56,7 @@ So which love has Ephesus lost — love for Jesus, for one another, or for the w
 
 Jesus himself joined love for God and love for neighbour into one command (Mark 12:29–31). When one of these loves grows cold, the others cool with it — and witness, which is love going out to the world, goes cold too.
 
-Ephesus may look like an established, mature church, since it has developed real strategies for handling spiritual challenges. But it has likely forgotten why it does any of this in the first place, and has ended up focused on itself rather than on setting things right.
+Ephesus may look like an established, mature church, since it has developed real strategies for handling spiritual challenges. But it has likely forgotten why it does any of this in the first place, and has ended up turned inward, focused on itself rather than on the world it is called to love.
 
 ## The solution
 

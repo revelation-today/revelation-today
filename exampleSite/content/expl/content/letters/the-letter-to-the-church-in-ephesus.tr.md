@@ -56,7 +56,7 @@ Peki Efes hangi sevgiyi kaybetti — İsa'ya, birbirine ya da dünyaya olan sevg
 
 İsa'nın kendisi Tanrı sevgisini ve komşu sevgisini tek bir buyrukta birleştirdi (Mar. 12:29–31). Bu sevgilerden biri soğuduğunda, diğerleri de onunla birlikte soğur — ve dünyaya doğru giden sevgi olan tanıklık da soğur.
 
-Efes, ruhsal zorluklarla başa çıkmak için gerçek stratejiler geliştirmiş olduğundan, köklü, olgun bir kilise gibi görünebilir. Ama muhtemelen bütün bunları neden yaptığını unutmuştur ve sonunda işleri düzeltmek yerine kendine odaklanmış bir hâle gelmiştir.
+Efes, ruhsal zorluklarla başa çıkmak için gerçek stratejiler geliştirmiş olduğundan, köklü, olgun bir kilise gibi görünebilir. Ama muhtemelen bütün bunları neden yaptığını unutmuştur ve sonunda içine kapanmış, sevmekle çağrıldığı dünya yerine kendine odaklanmış bir hâle gelmiştir.
 
 ## Çözüm
 
