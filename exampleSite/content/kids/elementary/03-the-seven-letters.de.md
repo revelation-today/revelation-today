@@ -46,7 +46,7 @@ echten Städten. Und Jesus schreibt sie selbst.
 
 Lass die Kinder raten, bevor du es sagst.
 
-**Smyrna und Philadelphia.** Die beiden kleinsten. Die beiden ärmsten. Die beiden mit den
+**Smyrna und Philadelphia.** Die beiden ärmsten. Die beiden mit den
 meisten Schwierigkeiten. Sie sind die einzigen zwei, an denen Jesus nichts auszusetzen hat.
 
 Darüber lohnt es sich kurz nachzudenken, denn so bewerten wir sonst nicht.

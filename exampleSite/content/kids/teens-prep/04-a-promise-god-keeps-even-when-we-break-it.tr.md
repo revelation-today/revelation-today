@@ -33,7 +33,7 @@ Bunu bir saniye düşün. Bu anlaşmanın normal versiyonunda, zayıf taraf tüm
 
 Tanrı'nın daha sonra Sina'da tüm İsrail ulusuyla yaptığı antlaşma, her antik antlaşmanın kullandığı standart beş bölümlü formatı takip etti: Tanrı'nın kim olduğunu belirten bir giriş ("Ben senin Tanrın Rab'bim"), onlar için zaten yaptıklarının bir hatırlatması ("seni Mısır'dan çıkaran"), gerçek şartlar ("benden başka tanrın olmasın" ve bundan çıkanlar), bu şartları tutmanın ya da bozmanın sonuçları, ve bunu yerinde tutmak için çağrılan tanıklar — bu durumda, göklerin ve yerin kendisi. Bu format olarak alışılmadık değildi. Alışılmadık olan içerikti.
 
-İşte üzerinde durmaya değer detay: gerçek dünyadaki, zayıf tarafı başarısız olmaya ayarlamak için tasarlanmış birçok antlaşmanın aksine, Tanrı'nın İsrail'e verdiği şartlar hiçbir zaman imkansız değildi. Halkı bunları tutabilirdi. Sadece tutmamayı seçtiler. Ve o zaman bile — İsrail şartları defalarca bozduktan sonra bile — Tanrı kendini onların Babası olarak tanımlamaya devam etti, İbranice'de *hesed* ile eşleşen bir kelime: antlaşma sadakati, diğer tarafın bunu hak eden bir şey yapmış olması yüzünden vazgeçmeyen inatçı, kararlı bir sevgi.
+İşte üzerinde durmaya değer detay: gerçek dünyadaki, zayıf tarafı başarısız olmaya ayarlamak için tasarlanmış birçok antlaşmanın aksine, Tanrı'nın İsrail'e verdiği şartlar hiçbir zaman imkansız değildi. Halkı bunları tutabilirdi. Defalarca tutmadılar. Ve o zaman bile — İsrail şartları defalarca bozduktan sonra bile — Tanrı kendini onların Babası olarak tanımlamaya devam etti, İbranice'de *hesed* ile eşleşen bir kelime: antlaşma sadakati, diğer tarafın bunu hak eden bir şey yapmış olması yüzünden vazgeçmeyen inatçı, kararlı bir sevgi.
 
 ## Zaten güçlü olduğun yer
 

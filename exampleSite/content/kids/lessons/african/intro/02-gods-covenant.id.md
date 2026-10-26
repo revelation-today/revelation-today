@@ -37,7 +37,7 @@ Dan kemudian, ketika orang-orang benar-benar melanggar janji mereka kepada Allah
 
 Di Gunung Sinai, Allah membuat janji besar kepada umat-Nya, Israel. Ia berkata, "Akulah Tuhan, Allahmu, yang telah membawa kamu keluar dari perbudakan di Mesir." Pertama Ia mengingatkan mereka akan semua kebaikan yang sudah Ia lakukan. Lalu Ia memberi mereka aturan-aturan-Nya — dimulai dengan yang paling penting: hanya mengasihi Aku, jangan mengejar allah-allah lain.
 
-Ada satu hal penting: aturan-aturan Allah tidak pernah mustahil untuk ditaati. Umat-Nya sebenarnya bisa menaatinya. Mereka hanya memilih untuk tidak melakukannya, berulang kali. Dan bahkan begitu, Allah tetap setia pada janji-Nya.
+Ada satu hal penting: aturan-aturan Allah tidak pernah mustahil untuk ditaati. Umat-Nya sebenarnya bisa menaatinya. Berulang kali mereka tidak menaatinya. Dan bahkan begitu, Allah tetap setia pada janji-Nya.
 
 ## Bapa yang menepati janji-Nya
 

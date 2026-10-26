@@ -47,7 +47,7 @@ seven real towns. And Jesus writes them himself.
 
 Ask the children to guess before you tell them.
 
-**Smyrna and Philadelphia.** The two smallest. The two poorest. The two with the most
+**Smyrna and Philadelphia.** The two poorest. The two with the most
 trouble. They are the only two Jesus finds nothing to correct in.
 
 That is worth sitting with for a moment, because it is not how we usually score things.

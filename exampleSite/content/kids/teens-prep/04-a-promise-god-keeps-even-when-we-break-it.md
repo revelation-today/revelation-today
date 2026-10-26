@@ -33,7 +33,7 @@ Let that sit for a second. In the normal version of this deal, the weak party ta
 
 The covenant God later made with the whole nation of Israel at Sinai followed the standard five-part format every ancient treaty used: an introduction identifying who God is ("I am the Lord your God"), a reminder of what he'd already done for them ("who brought you out of Egypt"), the actual terms ("have no other gods before me" and what follows from it), the consequences of keeping or breaking those terms, and witnesses called to hold it in place — in this case, heaven and earth themselves. This wasn't unusual as a format. What was unusual was the content.
 
-Here's the detail worth sitting with: unlike a lot of real-world treaties designed to set the weaker side up to fail, God's terms to Israel were never impossible. His people could have kept them. They simply chose not to. And even then — even after Israel broke the terms again and again — God kept describing himself as their Father, a word that in Hebrew comes paired with *hesed*: covenant loyalty, a stubborn, committed love that doesn't quit just because the other side did something to deserve it quitting.
+Here's the detail worth sitting with: unlike a lot of real-world treaties designed to set the weaker side up to fail, God's terms to Israel were never impossible. His people could have kept them. Time after time they did not. And even then — even after Israel broke the terms again and again — God kept describing himself as their Father, a word that in Hebrew comes paired with *hesed*: covenant loyalty, a stubborn, committed love that doesn't quit just because the other side did something to deserve it quitting.
 
 ## Where you're already strong
 

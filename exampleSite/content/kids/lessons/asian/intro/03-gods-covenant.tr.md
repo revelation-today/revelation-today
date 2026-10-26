@@ -42,7 +42,7 @@ Ve tam da bu oldu. İnsanlar Tanrı'nın sözünü defalarca bozduğunda, bizim 
 
 ## 4. Tanrı, sözünü tutan Babamız
 
-Tanrı kendisini halkının Babası olarak adlandırır (Çıkış 3:6) — ve halkı sözlerini bozduğunda uzaklaşmaya her hakkı olmasına rağmen, sadık kaldı. Kutsal Kitap'ta bunun için özel bir kelime var: "hesed" — sevgi, sadakat ve merhametin bir arada karışımı anlamına gelir, vazgeçmeyen bir sevgi türü.
+Tanrı kendisini halkının Babası olarak adlandırır (Çıkış 4:22) — ve halkı sözlerini bozduğunda uzaklaşmaya her hakkı olmasına rağmen, sadık kaldı. Kutsal Kitap'ta bunun için özel bir kelime var: "hesed" — sevgi, sadakat ve merhametin bir arada karışımı anlamına gelir, vazgeçmeyen bir sevgi türü.
 
 ---
 

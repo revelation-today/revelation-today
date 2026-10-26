@@ -42,7 +42,7 @@ Dan itulah yang benar-benar terjadi. Ketika orang-orang berkali-kali melanggar j
 
 ## 4. Allah, Bapa kita yang menepati janji
 
-Allah menyebut diri-Nya Bapa bagi umat-Nya (Keluaran 3:6) — dan meskipun Ia sebenarnya berhak pergi begitu saja ketika umat-Nya melanggar janji, Ia tetap setia. Alkitab punya kata istimewa untuk ini: "hesed" — artinya kasih, kesetiaan, dan belas kasihan yang bercampur jadi satu, jenis kasih yang tidak pernah menyerah.
+Allah menyebut diri-Nya Bapa bagi umat-Nya (Keluaran 4:22) — dan meskipun Ia sebenarnya berhak pergi begitu saja ketika umat-Nya melanggar janji, Ia tetap setia. Alkitab punya kata istimewa untuk ini: "hesed" — artinya kasih, kesetiaan, dan belas kasihan yang bercampur jadi satu, jenis kasih yang tidak pernah menyerah.
 
 ---
 

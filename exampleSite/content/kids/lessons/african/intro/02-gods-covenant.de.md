@@ -37,7 +37,7 @@ Und später, als Menschen ihre Versprechen an Gott tatsächlich brachen, wer, gl
 
 Am Berg Sinai gab Gott seinem Volk Israel ein großes Versprechen. Er sagte: "Ich bin der Herr, dein Gott, der dich aus der Sklaverei in Ägypten herausgeführt hat." Zuerst erinnerte er sie an all das Gute, das er schon getan hatte. Dann gab er ihnen seine Regeln – angefangen mit der wichtigsten: Liebt nur mich, lauft nicht anderen Göttern nach.
 
-Hier ist etwas Wichtiges: Gottes Regeln waren nie unmöglich zu befolgen. Sein Volk hätte gehorchen können. Es hat sich nur immer wieder dagegen entschieden. Und selbst dann blieb Gott seinem Versprechen treu.
+Hier ist etwas Wichtiges: Gottes Regeln waren nie unmöglich zu befolgen. Sein Volk hätte gehorchen können. Immer wieder hat es nicht gehorcht. Und selbst dann blieb Gott seinem Versprechen treu.
 
 ## Ein Vater, der zu seinem Wort steht
 

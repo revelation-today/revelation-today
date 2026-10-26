@@ -42,7 +42,7 @@ And that's exactly what happened. When people broke God's promise again and agai
 
 ## 4. God, our Father who keeps promises
 
-God calls himself the Father of his people (Exodus 3:6) — and even though he had every right to walk away when his people broke their promises, he stayed faithful. The Bible has a special word for this: "hesed" — it means love, loyalty, and mercy all mixed together, the kind of love that doesn't quit.
+God calls himself the Father of his people (Exodus 4:22) — and even though he had every right to walk away when his people broke their promises, he stayed faithful. The Bible has a special word for this: "hesed" — it means love, loyalty, and mercy all mixed together, the kind of love that doesn't quit.
 
 ---
 

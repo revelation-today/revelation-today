@@ -42,7 +42,7 @@ Und genau das ist passiert. Als Menschen Gottes Versprechen immer wieder brachen
 
 ## 4. Gott, unser Vater, der Versprechen hält
 
-Gott nennt sich selbst den Vater seines Volkes (2. Mose 3,6) — und obwohl er jedes Recht gehabt hätte, sich abzuwenden, als sein Volk seine Versprechen brach, blieb er treu. Die Bibel hat dafür ein besonderes Wort: "Hesed" — es bedeutet Liebe, Treue und Barmherzigkeit, alles zusammen gemischt, die Art von Liebe, die niemals aufgibt.
+Gott nennt sich selbst den Vater seines Volkes (2. Mose 4,22) — und obwohl er jedes Recht gehabt hätte, sich abzuwenden, als sein Volk seine Versprechen brach, blieb er treu. Die Bibel hat dafür ein besonderes Wort: "Hesed" — es bedeutet Liebe, Treue und Barmherzigkeit, alles zusammen gemischt, die Art von Liebe, die niemals aufgibt.
 
 ---
 

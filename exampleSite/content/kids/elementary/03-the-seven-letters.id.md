@@ -46,7 +46,7 @@ nyata. Dan Yesus sendiri yang menulisnya.
 
 Minta anak-anak menebak sebelum kau memberi tahu.
 
-**Smirna dan Filadelfia.** Dua yang paling kecil. Dua yang paling miskin. Dua yang paling banyak
+**Smirna dan Filadelfia.** Dua yang paling miskin. Dua yang paling banyak
 kesulitan. Hanya mereka berdua yang tidak mendapat koreksi sama sekali dari Yesus.
 
 Itu layak direnungkan sebentar, karena bukan begitu biasanya kita menilai.

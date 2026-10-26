@@ -37,7 +37,7 @@ Ve daha sonra, insanlar Tanrı'ya verdikleri sözleri bozduğunda, cezayı kimin
 
 Sina Dağı'nda Tanrı, halkı İsrail'e büyük bir vaatte bulundu. "Seni Mısır'da kölelikten çıkaran Tanrı Rab benim" dedi. Önce onlara zaten yaptığı bütün iyilikleri hatırlattı. Sonra onlara kurallarını verdi — en önemlisinden başlayarak: sadece beni sev, başka tanrıların peşinden gitme.
 
-Önemli bir şey var burada: Tanrı'nın kuralları hiçbir zaman tutulması imkânsız değildi. Halkı itaat edebilirdi. Sadece tekrar tekrar itaat etmemeyi seçtiler. Ve buna rağmen bile, Tanrı vaadine sadık kaldı.
+Önemli bir şey var burada: Tanrı'nın kuralları hiçbir zaman tutulması imkânsız değildi. Halkı itaat edebilirdi. Tekrar tekrar itaat etmediler. Ve buna rağmen bile, Tanrı vaadine sadık kaldı.
 
 ## Sözünü tutan bir Baba
 

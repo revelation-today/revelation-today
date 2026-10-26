@@ -37,7 +37,7 @@ And later, when people did break their promises to God, guess who took the punis
 
 At Mount Sinai, God made a big promise to his people, Israel. He said, "I am the Lord your God, who brought you out of slavery in Egypt." First he reminded them of everything good he had already done. Then he gave them his rules — starting with the most important one: love only me, don't chase after other gods.
 
-Here's something important: God's rules were never impossible to keep. His people could have obeyed. They just chose not to, again and again. And even then, God stayed loyal to his promise.
+Here's something important: God's rules were never impossible to keep. His people could have obeyed. Again and again they did not obey. And even then, God stayed loyal to his promise.
 
 ## A Father who keeps his word
 

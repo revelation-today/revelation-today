@@ -45,7 +45,7 @@ onları kendisi yazıyor.
 
 Söylemeden önce çocuklardan tahmin etmelerini iste.
 
-**İzmir ve Filadelfya.** En küçük ikisi. En yoksul ikisi. En çok sıkıntı çeken ikisi. İsa'nın
+**İzmir ve Filadelfya.** En yoksul ikisi. En çok sıkıntı çeken ikisi. İsa'nın
 düzeltecek hiçbir şey bulmadığı yalnızca bu ikisi.
 
 Bunun üzerinde bir an durmaya değer, çünkü genelde biz böyle puan vermeyiz.
