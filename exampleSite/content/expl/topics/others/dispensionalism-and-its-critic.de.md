@@ -27,7 +27,7 @@ Der Dispensationalismus ist stolz darauf, die Bibel wörtlich zu lesen, was auf 
 
 Man nehme das Hohelied, das durch und durch poetische Literatur ist. Liest man es mit flacher Wörtlichkeit, hat Sulamith am Ende {{% bible val="Tauben als Augen und einen Turm als Hals" link="sng:4,1-4" lang="de" %}} — offenkundig nicht die Absicht des Textes. Mehrere andere Stellen tragen dasselbe Warnsignal, darunter eine, bei der der Text selbst anzeigt, dass er nicht {{% bible val="wörtlich" link="isa:55,12" lang="de" %}} gemeint ist.
 
-Bezeichnender noch: Dispensationalisten wenden ihr eigenes Prinzip nicht einmal konsequent an. Sie stimmen zum Beispiel zu, dass {{% bible val="das Tier keine sieben Köpfe und zehn Hörner haben wird" link="rev:13,1" lang="de" %}} in irgendeinem wörtlichen, sichtbaren Sinn. Und die Waffen der Offenbarung werden als moderne gelesen: Hal Lindsey versteht den „großen, mit Feuer brennenden Berg“, der ins Meer geworfen wird ({{% bible val="Offb 8,8–9" link="rev:8,8-9" lang="de" %}}), als Beschreibung einer thermonuklearen Seeschlacht in der Sprache des ersten Jahrhunderts und erklärt das Wissen des Johannes damit, dass Gott ihn in der Zeit vorwärts getragen habe, um sie zu sehen[^lindsey] — ein durch und durch unwörtlicher Schritt für eine Hermeneutik, die Wörtlichkeit als ihr Markenzeichen beansprucht.
+Bezeichnender noch: Dispensationalisten wenden ihr eigenes Prinzip nicht einmal konsequent an. Sie stimmen zum Beispiel zu, dass {{% bible val="das Tier keine sieben Köpfe und zehn Hörner haben wird" link="rev:13,1" lang="de" %}} in irgendeinem wörtlichen, sichtbaren Sinn. Und die Waffen der Offenbarung werden als moderne gelesen: Hal Lindsey versteht den „großen, mit Feuer brennenden Berg“, der ins Meer geworfen wird ({{% bible val="Offb 8,8–9" link="rev:8,8-9" lang="de" %}}), als Beschreibung einer thermonuklearen Seeschlacht in der Sprache des ersten Jahrhunderts und erklärt das Wissen des Johannes damit, dass Gott ihn in der Zeit vorwärts getragen habe, um sie zu sehen[^lindsey] — ein durch und durch unwörtlicher Schritt für eine Hermeneutik, die Wörtlichkeit als ihr Markenzeichen beansprucht. Ähnlich liest er Hesekiel: „Feuer und Schwefel“ in {{% bible val="Hes 38,22" link="ezk:38,22" lang="de" %}} könnten taktische Atomwaffen beschreiben, das Feuer auf Magog in {{% bible val="Hes 39,6" link="ezk:39,6" lang="de" %}} einen nuklearen Schlagabtausch mit ballistischen Raketen[^lindsey2].
 
 ## Eine Theorie, die die Literatur selbst missversteht
 
@@ -123,6 +123,8 @@ Die Theorie stellt außerdem politische Behauptungen auf, die die Bibel nicht st
 [^josh]: Rossing, *The Rapture Exposed*, Kap. 2 (Anfang). Die Geschichten erzählen Studierende in ihrem Seminar über die Offenbarung.
 
 [^lindsey]: Rossing, *The Rapture Exposed*, Kap. 2, zitiert Hal Lindsey, *The Rapture: Truth or Consequences*, S. 101–102.
+
+[^lindsey2]: Hal Lindsey, *The Late Great Planet Earth* (1970), S. 160–161 der Taschenbuchausgabe. Er formuliert vorsichtig („könnte“): Es könne ein direktes Gericht Gottes sein, oder Gott könne zulassen, dass die Länder einen nuklearen Schlagabtausch mit ballistischen Raketen beginnen.
 
 [^politics]: Rossing, *The Rapture Exposed*, Kap. 3 (die Gründung Israels 1948 als „prophetisches Super-Zeichen“ und das Left-Behind-Drehbuch für den Nahen Osten); im Vorwort zur Taschenbuchausgabe nennt sie „Unterstützung von Militarismus und Expansionismus im Nahen Osten“ unter den Richtungen, in die Entrückungstheologie führen kann.
 

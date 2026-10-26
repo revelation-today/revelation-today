@@ -27,7 +27,7 @@ Dispensationalism prides itself on reading the Bible literally, which sounds res
 
 Take the Song of Songs, which is poetic literature through and through. Read it with a flat literalism and Sulamith ends up with {{% bible val="doves for eyes and a tower for a neck" link="sng:4,1-4" lang="en" %}} — plainly not the intent. Several other passages carry the same warning sign, including one where the text itself signals it isn't meant {{% bible val="literally" link="isa:55,12" lang="en" %}}.
 
-More tellingly, dispensationalists don't even apply their own principle consistently. They agree, for instance, that the {{% bible val="beast will not have seven heads and ten horns" link="rev:13,1" lang="en" %}} in any literal, visible sense. And the weapons of Revelation are read as modern ones: Hal Lindsey takes the "great mountain burning with fire" thrown into the sea ({{% bible val="Rev 8:8–9" link="rev:8,8-9" lang="en" %}}) as John's first-century description of a thermonuclear naval battle, and explains how John could know by saying God carried him forward in time to see it[^lindsey] — a thoroughly non-literal move for a hermeneutic that claims literalism as its badge.
+More tellingly, dispensationalists don't even apply their own principle consistently. They agree, for instance, that the {{% bible val="beast will not have seven heads and ten horns" link="rev:13,1" lang="en" %}} in any literal, visible sense. And the weapons of Revelation are read as modern ones: Hal Lindsey takes the "great mountain burning with fire" thrown into the sea ({{% bible val="Rev 8:8–9" link="rev:8,8-9" lang="en" %}}) as John's first-century description of a thermonuclear naval battle, and explains how John could know by saying God carried him forward in time to see it[^lindsey] — a thoroughly non-literal move for a hermeneutic that claims literalism as its badge. He reads Ezekiel the same way: the "fire and brimstone" of {{% bible val="Ezek 38:22" link="ezk:38,22" lang="en" %}} could well describe tactical nuclear weapons, and the fire on Magog in {{% bible val="Ezek 39:6" link="ezk:39,6" lang="en" %}} a nuclear exchange of ballistic missiles[^lindsey2].
 
 ### A theory that misreads the literature itself
 
@@ -123,6 +123,8 @@ The theory also makes political claims that the Bible does not support, and that
 [^josh]: Rossing, *The Rapture Exposed*, ch. 2 (opening). The stories are told by students in her seminary class on Revelation.
 
 [^lindsey]: Rossing, *The Rapture Exposed*, ch. 2, quoting Hal Lindsey, *The Rapture: Truth or Consequences*, pp. 101–102.
+
+[^lindsey2]: Hal Lindsey, *The Late Great Planet Earth* (1970), pp. 160–161 of the paperback printing. He words it with "could": "this could be a direct judgment from God, or God could allow the various countries to launch a nuclear exchange of ballistic missiles upon each other."
 
 [^politics]: Rossing, *The Rapture Exposed*, ch. 3 (the founding of Israel in 1948 as a "prophetic super-sign", and the Left Behind script for the Middle East); in the preface to the paperback edition she names "support for militarism and expansionism in the Middle East" among the directions rapture theology can lead.
 
