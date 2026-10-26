@@ -26,7 +26,7 @@ A mighty angel descends "wrapped in a cloud, with a rainbow above his head. His 
 - **Face like the sun** — matches John's earlier description of the risen Christ in Revelation 1:16: "his face was like the sun shining in full strength."
 - **Legs like pillars of fire** — matches Christ's feet "like burnished bronze, refined in a furnace" in Revelation 1:15, and recalls the fiery, glorified figure of Daniel 10:6.
 
-Line those up and the case for reading this figure as Jesus (or a figure so saturated with his identity that the distinction barely matters) is genuinely strong — not just asserted but demonstrated. Whether this is Christ himself in angelic guise, or an angel sent to represent him fully, is a real question worth sitting with as a group; either way, the scroll he carries comes with his authority.
+Line those up and the case for reading this figure as Jesus (or a figure so saturated with his identity that the distinction barely matters) is strong — not just asserted but laid out in the text — though some commentators read the figure as an angel. Whether this is Christ himself in angelic guise, or an angel sent to represent him fully, is a real question worth sitting with as a group; either way, the scroll he carries comes with his authority.
 
 That scroll is related to, but not identical with, the scroll Jesus opened in chapter 5. The chapter 5 scroll is opened to expose Satan's downfall — the main event, already accomplished at the cross. This one is smaller, and it isn't opened; it's eaten. The relationship between the two scrolls is a relationship of scale: Jesus already won. What's left is a smaller, but not optional, task handed to the church.
 

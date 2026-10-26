@@ -59,8 +59,7 @@ düşmüş bir yıldız cehennem çukurunu açar (başka yerde Şeytan'ın düş
 10:18, ve genel olarak iblisleri, Vahiy 12:4, 9-10), insanların "ölmeyi özleyeceği ama ölümün
 onlardan kaçacağı" kadar şiddetli bir eziyet salar (9:6) — yine de bu çekirgeler bile Tanrı'nın
 nihai buyruğu altında kalır, tıpkı Şeytan'ın Eyüp'e dokunmadan önce izin alması gerektiği gibi
-(Eyüp 2:4-6). Bu da Mısır'ı yankılar: Firavun'u sonunda kendi günahını itiraf etmeye zorlayan
-çekirge belası (Mısır'dan Çıkış 10:7, 13-17). Altıncı boru daha da tırmanır, Fırat'ta 200
+(Eyüp 2:4-6). Bu da Mısır'ı yankılar: Firavun'u günahını yeniden itiraf etmeye zorlayan çekirge belası (Mısır'dan Çıkış 10:7, 13-17; ilk kez dolu belasında, 9:27). Altıncı boru daha da tırmanır, Fırat'ta 200
 milyonluk bir orduyu salar — sıradan Yunanca sayma sisteminde ifade edilebilecek en büyük birimden
 oluşturulmuş bir sayı, gerçek bir askeri sayımdan çok, işlevsel olarak sayılamaz bir şeyi
 resmetmesi amaçlanmıştır.

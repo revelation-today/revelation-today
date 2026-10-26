@@ -41,8 +41,7 @@ koymaya değer:
   (Vahiy 1:15) eşleşir, ve Daniel 10:6'nın ateşli, yüceltilmiş figürünü hatırlatır.
 
 Bunları bir araya getirdiğinizde, bu figürü İsa olarak (ya da onun kimliğine o kadar doymuş bir
-figür olarak ki ayrım neredeyse önemsiz kalır) okuma savı gerçekten güçlüdür — sadece iddia
-edilmiyor, gösteriliyor. Bunun Mesih'in kendisi mi meleksi bir kılıkta mı, yoksa onu tam olarak
+figür olarak ki ayrım neredeyse önemsiz kalır) okuma savı güçlüdür — sadece iddia edilmiyor, metinde gösteriliyor — ama bazı yorumcular figürü bir melek olarak okur. Bunun Mesih'in kendisi mi meleksi bir kılıkta mı, yoksa onu tam olarak
 temsil etmek üzere gönderilmiş bir melek mi olduğu, grup olarak üzerinde durulmaya değer gerçek
 bir sorudur; her iki durumda da, taşıdığı tomar onun yetkisiyle gelir.
 
