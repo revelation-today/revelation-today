@@ -115,7 +115,7 @@ Kitabın açılış sözleri "_Apokalypsis Iesou Christou_"dur, "İsa Mesih'in v
 
 Baştan başlayalım: kıyamet, diğerleri gibi bir türdür. Bir kitabı kıyamet yapan şeyin tek, eksiksiz bir tanımına sahip değiliz, ama bir tanesini iyi okumamıza yardımcı olacak yeterince bilgi var.
 
-Böyle bir kitap, zulüm gibi bir kriz döneminde Tanrı'nın halkını cesaretlendirmeyi amaçlar ve bunu şu yollarla yapar:
+Böyle bir kitap, zulüm gibi bir kriz döneminde Tanrı'nın halkını cesaretlendirmeyi amaçlar ve bunu şu yollarla yapar:[^gorman1][^bauckham38]
 
 - baskıcılara yönelik acımasız eleştiri,
 - direniş için tutkulu çağrılar,
@@ -156,3 +156,7 @@ Kitabın *olmadığı* şey:
 
 - (kendi antik dinleyicilerinin bakış açısından) onlarla hiçbir ilgisi olmayacak olayları anlatan, uzak geleceğe bir bakış.
 - geleceğin tam olarak nasıl görüneceğine dair düz bir tanım.
+
+[^gorman1]: Gorman, *Reading Revelation Responsibly*, 2. bölüm, "Apocalypse" kısmı: bir apokalips ezenleri sert biçimde eleştirir, tutkuyla direnişe çağırır ve Tanrı'nın kötülüğe karşı nihai zaferine sarsılmaz güven duyar; buna kozmik ve ahlaki bir düalizm ile iki çağın zamansal düalizmi eşlik eder. Sayfa numaraları eklenecek.
+
+[^bauckham38]: Bauckham, *The Theology of the Book of Revelation*, s. 38: Roma gücü sistemine yönelik köklü peygamberce eleştiri, Vahiy'i erken İmparatorluk döneminin "en güçlü siyasi direniş edebiyatı" yapar.

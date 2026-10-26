@@ -115,7 +115,7 @@ The book's opening words are "_Apokalypsis Iesou Christou_," translated as "The 
 
 Let's start at the beginning: apocalypse is a genre like any other. We don't have one tidy, complete definition of what makes a book apocalyptic, but there's enough information available to help us read one well.
 
-Such a book aims to encourage God's people through a crisis, such as persecution, and does so through:
+Such a book aims to encourage God's people through a crisis, such as persecution, and does so through:[^gorman1][^bauckham38]
 
 - scathing criticism of the oppressors,
 - passionate calls for resistance,
@@ -156,3 +156,7 @@ What the book is *not*:
 
 - a look into a future so far from its first listeners that the events would have had no bearing on them at all.
 - a straightforward description of what the future will look like.
+
+[^gorman1]: Gorman, *Reading Revelation Responsibly*, ch. 2, section "Apocalypse": an apocalypse offers "scathing critique of the oppressors, passionate exhortations to defiance … and unfailing confidence in God's ultimate defeat of the present evil", with a cosmic and ethical dualism and a temporal dualism of two ages. Page numbers still to add.
+
+[^bauckham38]: Bauckham, *The Theology of the Book of Revelation*, p. 38: Revelation's "thorough-going prophetic critique of the system of Roman power" makes it "the most powerful piece of political resistance literature from the period of the early Empire".

@@ -115,7 +115,7 @@ Kata-kata pembuka kitab ini adalah "_Apokalypsis Iesou Christou_," diterjemahkan
 
 Mari kita mulai dari awal: apokalips adalah sebuah genre seperti genre lainnya. Kita tidak memiliki satu definisi yang rapi dan lengkap tentang apa yang membuat sebuah kitab bersifat apokaliptik, tetapi ada cukup informasi yang tersedia untuk membantu kita membacanya dengan baik.
 
-Kitab semacam ini bertujuan menguatkan umat Allah melalui sebuah krisis, seperti penganiayaan, dan melakukannya melalui:
+Kitab semacam ini bertujuan menguatkan umat Allah melalui sebuah krisis, seperti penganiayaan, dan melakukannya melalui:[^gorman1][^bauckham38]
 
 - kritik tajam terhadap para penindas,
 - seruan-seruan penuh semangat untuk melawan,
@@ -156,3 +156,7 @@ Yang *bukan* merupakan kitab ini:
 
 - sebuah pandangan ke masa depan yang jauh (dari sudut pandang para pendengarnya di zaman kuno) yang menggambarkan peristiwa-peristiwa yang sama sekali tidak relevan bagi mereka.
 - sebuah gambaran langsung tentang seperti apa masa depan nanti.
+
+[^gorman1]: Gorman, *Reading Revelation Responsibly*, bab 2, bagian "Apocalypse": sebuah apokalips mengajukan kritik tajam terhadap para penindas, seruan penuh semangat untuk melawan, dan keyakinan teguh akan kemenangan akhir Allah atas kejahatan, dengan dualisme kosmis dan etis serta dualisme waktu dua zaman. Nomor halaman menyusul.
+
+[^bauckham38]: Bauckham, *The Theology of the Book of Revelation*, hlm. 38: kritik nubuat yang menyeluruh terhadap sistem kekuasaan Roma menjadikan Wahyu "karya perlawanan politik yang paling kuat dari masa awal Kekaisaran".

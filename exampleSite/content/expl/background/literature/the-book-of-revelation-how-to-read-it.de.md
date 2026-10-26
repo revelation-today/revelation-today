@@ -115,7 +115,7 @@ Die ersten Worte des Buches lauten „_Apokalypsis Iesou Christou_", übersetzt 
 
 Fangen wir am Anfang an: Die Apokalypse ist ein Genre wie jedes andere. Es gibt keine einzige, vollständige Definition dessen, was ein Buch apokalyptisch macht, aber es gibt genug Anhaltspunkte, die uns helfen, ein solches Buch gut zu lesen.
 
-Ein solches Buch will das Volk Gottes durch eine Krise hindurch ermutigen, etwa durch Verfolgung, und tut dies durch:
+Ein solches Buch will das Volk Gottes durch eine Krise hindurch ermutigen, etwa durch Verfolgung, und tut dies durch:[^gorman1][^bauckham38]
 
 - schneidende Kritik an den Unterdrückern,
 - leidenschaftliche Aufrufe zum Widerstand,
@@ -156,3 +156,7 @@ Was das Buch *nicht* ist:
 
 - ein Blick in die ferne Zukunft (aus Sicht seiner antiken Hörer), der Ereignisse beschreibt, die mit ihnen überhaupt nichts zu tun hatten.
 - eine schlichte Beschreibung dessen, wie die Zukunft aussehen wird.
+
+[^gorman1]: Gorman, *Reading Revelation Responsibly*, Kap. 2, Abschnitt „Apocalypse“: Eine Apokalypse übt „scathing critique of the oppressors“, ruft leidenschaftlich zum Widerstand auf und vertraut unerschütterlich auf Gottes endgültigen Sieg über das Böse; dazu kommen ein kosmischer und ethischer Dualismus und ein zeitlicher Dualismus der zwei Zeitalter. Seitenzahlen folgen.
+
+[^bauckham38]: Bauckham, *The Theology of the Book of Revelation*, S. 38: Die „durchgreifende prophetische Kritik am System der römischen Macht“ macht die Offenbarung zum „most powerful piece of political resistance literature from the period of the early Empire“.
