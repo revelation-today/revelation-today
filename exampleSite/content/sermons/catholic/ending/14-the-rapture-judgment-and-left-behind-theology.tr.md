@@ -96,9 +96,7 @@ Yine de, bazı yazarlar bu argümanın daha dikkatli bir versiyonunu yaparlar, i
 yasakladığıdır: "o günü ve saati kimse bilmez... Baba'dan başka" (Matta 24:36). İncir ağacı ne
 simgelerse simgelesin, bölüm onu bir takvime dönüştürmeyi yasaklar.
 
-İsa'nın Matta 24-25 boyunca gerçek konusu, Yeruşalim tapınağının gelecekteki yıkımıdır — MS
-66-73 Yahudi Savaşı'nda gerçekleşmiştir — gelecek için gizli bir zaman çizelgesi değil, ne
-gelirse gelsin sadık kalma çağrısıyla eşleştirilmiş.
+İsa'nın Matta 24-25'te söylediklerinin büyük bölümü Yeruşalim tapınağının gelecekteki yıkımıyla ilgilidir — MS 66-73 Yahudi Savaşı'nda gerçekleşmiştir — ve bu bölümler İnsanoğlu'nun gelişinden de söz eder; her iki durumda da çağrı, gelecek için gizli bir zaman çizelgesi hesaplamak değil, ne gelirse gelsin sadık kalmaktır.
 
 ## "Bizim İçin Bir Yer" — Yuhanna 14
 

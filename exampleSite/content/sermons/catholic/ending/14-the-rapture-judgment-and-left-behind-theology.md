@@ -40,7 +40,7 @@ But look at the comparison Jesus makes two verses earlier: the flood in Noah's d
 
 Some popular teaching reads the fig tree in Matthew 24:32 as a coded reference to the founding of the modern state of Israel in 1948. That specific date-based reading is a real stretch. To be fair, though, some writers make a more careful version of this argument, pointing to a genuine Old Testament pattern where fig trees symbolize the nation of Israel (Jeremiah 24; Hosea 9:10). The decisive answer isn't that fig trees never carry that meaning anywhere in Scripture — it's that Jesus's own point, stated explicitly right afterward, rules out date-setting regardless: "about that day or hour no one knows... only the Father" (Matthew 24:36). Whatever the fig tree symbolizes, the passage forbids turning it into a calendar.
 
-Jesus's actual subject across Matthew 24-25 is the coming destruction of the Jerusalem temple — fulfilled in the Jewish War of AD 66-73 — paired with a call to stay faithful through whatever tribulation comes, not a hidden timetable for the future.
+Much of what Jesus says in Matthew 24-25 is about the coming destruction of the Jerusalem temple — fulfilled in the Jewish War of AD 66-73 — and the chapters also speak of the Son of Man's coming; either way the call is to stay faithful through whatever tribulation comes, not to work out a hidden timetable for the future.
 
 ## "A place for us" — John 14
 

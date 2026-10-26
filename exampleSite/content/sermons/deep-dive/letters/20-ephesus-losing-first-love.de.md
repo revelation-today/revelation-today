@@ -20,8 +20,7 @@ verurteilt wird.
 ## Die Kernlehre
 
 Ephesus war das Kronjuwel der sieben Gemeinden — eine bedeutende Hafenstadt, Heimat des Artemis-
-Tempels (eines der großen Weltwunder der Antike), und historisch wahrscheinlich die größte der
-sieben angesprochenen Gemeinden. Jesus beginnt damit, echte, substanzielle Stärken zu bestätigen
+Tempels (eines der großen Weltwunder der Antike). Jesus beginnt damit, echte, substanzielle Stärken zu bestätigen
 (Offenbarung 2,1-3, siehe [Das Schreiben an Ephesus]({{< relref "expl/content/letters/the-letter-to-the-church-in-ephesus" >}}) für den
 vollständigen Hintergrund):
 

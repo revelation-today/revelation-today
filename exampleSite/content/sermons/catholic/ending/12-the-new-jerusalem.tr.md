@@ -71,7 +71,7 @@ Bu bağlantılardan ikisini, metne adil davranmak için, biraz daha gevşek tutm
 beyaz cüppeler vaat edilmişti (Vahiy 3:5); Vahiy 21:2 gelinin elbisesini tasvir eder, ama bu tam
 olarak aynı imge değildir, bu yüzden daha iyi paralel, gelinin "parlak ve temiz ince keten"
 giydiği, açıkça "azizlerin doğru işleri" olarak tanımlanan Vahiy 19:8'dir. Ve Pergamon'a yeni bir
-isimle "beyaz bir tılsım" ya da "taş" vaat edilmişti (Vahiy 2:17); Yeni Yeruşalim'in mücevherleri
+isimle "beyaz bir taş" (Yunanca *psēphos*, çakıl taşı) vaat edilmişti (Vahiy 2:17); Yeni Yeruşalim'in mücevherleri
 ve temel taşları (Vahiy 21:11, 18-21) bunu ancak gevşek bir şekilde, tam bire bir bir tamamlanma
 olarak değil, tema yoluyla — taşlar, parlaklık — yankılar. Kutsal Yazı'nın güvenilir olması için
 her bağlantının mükemmel bir eşleşmeye zorlanmasına gerek yoktur; bazı iplikler sadece yankı

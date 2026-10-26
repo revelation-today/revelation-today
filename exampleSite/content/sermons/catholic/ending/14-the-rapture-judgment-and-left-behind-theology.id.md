@@ -40,7 +40,7 @@ Tetapi perhatikan perbandingan yang dibuat Yesus dua ayat sebelumnya: air bah pa
 
 Sebagian pengajaran populer membaca pohon ara dalam Matius 24:32 sebagai rujukan tersandi bagi berdirinya negara Israel modern pada tahun 1948. Pembacaan berbasis tanggal yang spesifik itu adalah tarikan yang sangat dipaksakan. Namun, adil untuk diakui, sebagian penulis membuat versi argumen ini yang lebih cermat, menunjuk pada pola Perjanjian Lama yang nyata di mana pohon ara melambangkan bangsa Israel (Yeremia 24; Hosea 9:10). Jawaban yang menentukan bukanlah bahwa pohon ara tidak pernah membawa makna itu di mana pun dalam Kitab Suci — melainkan bahwa inti Yesus sendiri, yang dinyatakan secara eksplisit tepat sesudahnya, tetap menyingkirkan penetapan tanggal apa pun: "tentang hari dan saat itu tidak seorang pun yang tahu... hanya Bapa saja" (Matius 24:36). Apa pun yang dilambangkan pohon ara itu, bagian ini melarang mengubahnya menjadi sebuah kalender.
 
-Pokok sesungguhnya yang dibicarakan Yesus sepanjang Matius 24-25 adalah kehancuran Bait Suci Yerusalem yang akan datang — digenapi dalam Perang Yahudi tahun 66-73 M — dipadukan dengan panggilan untuk tetap setia melewati kesengsaraan apa pun yang datang, bukan sebuah jadwal tersembunyi bagi masa depan.
+Sebagian besar dari apa yang Yesus katakan dalam Matius 24-25 adalah tentang kehancuran Bait Suci Yerusalem yang akan datang — digenapi dalam Perang Yahudi tahun 66-73 M — dan pasal-pasal itu juga berbicara tentang kedatangan Anak Manusia; bagaimanapun juga, panggilannya adalah tetap setia melewati kesengsaraan apa pun yang datang, bukan menghitung jadwal tersembunyi bagi masa depan.
 
 ## "Suatu tempat bagi kita" — Yohanes 14
 

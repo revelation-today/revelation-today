@@ -40,7 +40,7 @@ Doch schau dir den Vergleich an, den Jesus zwei Verse zuvor zieht: die Flut zu N
 
 Manche volkstümliche Lehre liest den Feigenbaum in Matthäus 24,32 als verschlüsselten Hinweis auf die Gründung des modernen Staates Israel 1948. Diese konkrete, datumsbezogene Lesart ist wirklich weit hergeholt. Fairerweise machen manche Autoren aber eine sorgfältigere Version dieses Arguments und weisen auf ein echtes alttestamentliches Muster hin, in dem Feigenbäume die Nation Israel symbolisieren (Jeremia 24; Hosea 9,10). Die entscheidende Antwort ist nicht, dass Feigenbäume nirgends in der Schrift diese Bedeutung tragen könnten — sie ist, dass Jesu eigener Kernpunkt, unmittelbar danach ausdrücklich formuliert, das Datumsfestlegen ohnehin ausschließt: "Diesen Tag aber und diese Stunde kennt niemand… nur der Vater" (Matthäus 24,36). Was auch immer der Feigenbaum symbolisiert, die Stelle verbietet es, daraus einen Kalender zu machen.
 
-Jesu eigentliches Thema in Matthäus 24-25 ist die kommende Zerstörung des Jerusalemer Tempels — erfüllt im Jüdischen Krieg 66-73 n. Chr. — gepaart mit einem Aufruf, treu zu bleiben durch welche Trübsal auch immer kommt, kein verborgener Zeitplan für die Zukunft.
+Vieles von dem, was Jesus in Matthäus 24-25 sagt, gilt der kommenden Zerstörung des Jerusalemer Tempels — erfüllt im Jüdischen Krieg 66-73 n. Chr. —, und die Kapitel sprechen auch vom Kommen des Menschensohns; so oder so lautet der Aufruf, treu zu bleiben durch welche Trübsal auch immer kommt, nicht einen verborgenen Zeitplan für die Zukunft auszurechnen.
 
 ## "Eine Stätte für uns" — Johannes 14
 

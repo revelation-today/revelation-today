@@ -20,8 +20,7 @@ evaluasi mana pun, namun tetap dihukum.
 ## Inti Pengajaran
 
 Efesus adalah permata mahkota dari ketujuh jemaat — sebuah kota pelabuhan besar, rumah bagi Bait
-Artemis (salah satu keajaiban dunia kuno), dan, secara historis, kemungkinan merupakan jemaat
-terbesar di antara ketujuh yang disapa. Yesus membuka suratnya dengan menegaskan kekuatan-kekuatan
+Artemis (salah satu keajaiban dunia kuno). Yesus membuka suratnya dengan menegaskan kekuatan-kekuatan
 nyata dan substansial (Wahyu 2:1-3, lihat
 [Surat kepada Efesus]({{< relref "expl/content/letters/the-letter-to-the-church-in-ephesus" >}}) untuk latar belakang lengkapnya):
 
