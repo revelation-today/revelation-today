@@ -55,6 +55,8 @@ Vahiy bütün bu çizgiyi sonuna ulaştırır. Kilise, aynı zamanda yeni Yeruş
 
 Yuhanna'nın orada tapınak görmemesinin nedeni budur: "{{% bible val="Her Şeye Gücü Yeten Rab Tanrı ve Kuzu, kentin tapınağıdır" link="rev:21,22" lang="tr" %}}". {{% bible val="Tahttan bir ırmak akar ve kıyısında yaşam ağacı büyür" link="rev:22,1-2" lang="tr" %}}. Aden, tapınak ve şehir tek bir yer olmuştur ve Tanrı ile halkı arasındaki paydaşlık sonunda hiç bozulmadan sürer.
 
+→ {{% int_link val="Yeni Kudüs" link="/expl/content/paradise/the-new-jerusalem" %}}
+
 ## Daha derine inmek isterseniz
 
 {{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources#beale_dwell" %}}

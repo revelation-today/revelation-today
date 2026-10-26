@@ -55,6 +55,8 @@ Kitab Wahyu membawa seluruh garis ini sampai ke ujungnya. Gereja tampil sebagai 
 
 Itulah sebabnya Yohanes tidak melihat Bait Suci di sana: "{{% bible val="Tuhan, Allah Yang Mahakuasa, adalah Bait Sucinya, demikian juga Anak Domba itu" link="rev:21,22" lang="ind" %}}". {{% bible val="Sebuah sungai mengalir dari takhta, dan di tepinya tumbuh pohon kehidupan" link="rev:22,1-2" lang="ind" %}}. Eden, Bait Suci, dan kota itu telah menjadi satu tempat, dan persekutuan antara Allah dan umat-Nya akhirnya tidak lagi terganggu.
 
+→ {{% int_link val="Yerusalem Baru" link="/expl/content/paradise/the-new-jerusalem" %}}
+
 ## Selidiki Lebih Lanjut
 
 {{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources#beale_dwell" %}}

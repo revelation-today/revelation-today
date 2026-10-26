@@ -52,6 +52,8 @@ Revelation brings the whole line to its end. The church appears as the Bride of 
 
 That is why John sees no temple there: "{{% bible val="the Lord God the Almighty and the Lamb are its temple" link="rev:21,22" lang="en" %}}". {{% bible val="A river runs from the throne, and the tree of life grows beside it" link="rev:22,1-2" lang="en" %}}. Eden, the temple and the city have become one place, and the fellowship between God and his people is at last undisturbed.
 
+→ {{% int_link val="The New Jerusalem" link="/expl/content/paradise/the-new-jerusalem" %}}
+
 ## Dig deeper
 
 {{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources#beale_dwell" %}}

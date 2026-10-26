@@ -61,6 +61,8 @@ Die Offenbarung führt die ganze Linie an ihr Ziel. Die Gemeinde erscheint als d
 
 Darum sieht Johannes dort keinen Tempel: „{{% bible val="Der Herr, der allmächtige Gott, ist ihr Tempel, er und das Lamm" link="rev:21,22" lang="de" %}}“. {{% bible val="Ein Strom fließt vom Thron aus, und an ihm wächst der Baum des Lebens" link="rev:22,1-2" lang="de" %}}. Eden, der Tempel und die Stadt sind ein Ort geworden, und die Gemeinschaft zwischen Gott und seinem Volk ist endlich ungestört.
 
+→ {{% int_link val="Das neue Jerusalem" link="/expl/content/paradise/the-new-jerusalem" %}}
+
 ## Tiefer eintauchen
 
 {{% int_link val="Beale, Kim: God dwells among us" link="/about/ressources#beale_dwell" %}}
