@@ -23,9 +23,7 @@ A white horse. A crown. Conquest. Doesn't that sound like Jesus? Later in Revela
 
 Look closer, and the case falls apart. In Ezekiel, God strikes the bow out of the hands of Gog and Magog — marking the bow as the weapon of God's end-time enemy, not his ally (Ezekiel 39:3). The demonic locusts of Revelation 9:7 also wear crowns — so a crown alone doesn't prove divine origin. "Conquering" elsewhere in Revelation describes the beast conquering the saints (Revelation 11:7, 13:7) — not a positive action.
 
-More importantly: the four horsemen function as a single unit, just as Zechariah's four horses and chariots form one unit (Zechariah 1:8-15; 6:1-8), and just as Revelation's seals, trumpets, and bowls each move in matching groups of four. Either all four horsemen are evil, or none of them are — you can't split this rider off from the other three.
-
-And Jesus' own teaching about the last days, given in Mark 13, Matthew 24, and Luke 21, opens with exactly this order: first, a warning about deception ("many will come in my name" and lead many astray), then war, then famine. That's the same sequence as our four horsemen. The first horseman is deception disguised as victory — a false Christ, a counterfeit gospel of conquest without the cross.
+The four horsemen also look like a unit, just as Zechariah's four horses and chariots form one unit (Zechariah 1:8-15; 6:1-8), and just as Revelation's seals, trumpets, and bowls each move in groups of four. That pattern alone does not prove the first rider is evil, since groups of four can also hold contrasts, but it fits what follows. The stronger evidence is Jesus' own teaching about the last days, given in Mark 13, Matthew 24, and Luke 21, which opens with exactly this order: first, a warning about deception ("many will come in my name" and lead many astray), then war, then famine. That's the same sequence as our four horsemen. The first horseman is deception disguised as victory — a false Christ, a counterfeit gospel of conquest without the cross.
 
 ## The unveiling
 

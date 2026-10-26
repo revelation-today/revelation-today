@@ -30,12 +30,7 @@ Hand Gogs und Magogs, dem eigenen Bild der Bibel für den Endzeitfeind (Hesekiel
 bedeutet, ein Bogen kennzeichnet diesen Reiter als feindlich, nicht als heilig. Die
 dämonischen Heuschrecken später in der Offenbarung tragen ebenfalls Kronen (9,7), also
 beweist eine Krone allein nichts. „Erobern" beschreibt anderswo im Buch das Tier, das die
-Heiligen überwältigt, nicht Christi voranschreitendes Evangelium (Offenbarung 11,7; 13,7). Und
-entscheidend: Die vier Reiter fungieren als eine Einheit, entnommen aus Sacharjas Vision von
-vier Pferden, die ausgesandt werden, um die ganze Erde zu durchstreifen (Sacharja 1,8–15;
-6,1–8), und aus Hesekiels vier Plagen – Schwert, Hungersnot, wilde Tiere und Pest (Hesekiel
-14,12–23). Alle vier gehören zusammen. Entweder dienen alle vier Reiter Gottes Zwecken auf die
-gleiche Weise, oder keiner tut es – und die letzten drei sind eindeutig nicht heldenhaft.
+Heiligen überwältigt, nicht Christi voranschreitendes Evangelium (Offenbarung 11,7; 13,7). Die vier Reiter wirken außerdem wie eine Einheit, entnommen aus Sacharjas Vision von vier Pferden, die ausgesandt werden, um die ganze Erde zu durchstreifen (Sacharja 1,8–15; 6,1–8), und aus Hesekiels vier Plagen – Schwert, Hungersnot, wilde Tiere und Pest (Hesekiel 14,12–23). Dieses Muster allein entscheidet es nicht, denn Vierergruppen können auch Gegensätze nebeneinanderstellen. Der stärkere Beleg ist Jesu eigene Endzeitlehre (Markus 13, Matthäus 24, Lukas 21), die mit einer Warnung vor Verführung beginnt, bevor sie Krieg und Hunger nennt – dieselbe Reihenfolge wie bei den Reitern.
 
 Die Lösung: Der erste Reiter ist das Böse, das sich als gut ausgibt – ein falscher Christus.
 Genau das ist das Muster, das die Passage aufbaut. Kapitel 5 hat gerade Jesus als den einzigen

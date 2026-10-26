@@ -47,12 +47,7 @@ Allah mematahkan busur dari tangan Gog, musuh akhir zaman, dalam Yehezkiel
 Mahkota-mahkota dalam Kitab Wahyu tidak eksklusif milik Kristus; belalang-
 belalang setani pada pasal 9 juga mengenakannya. "Menaklukkan" di tempat
 lain dalam kitab ini menggambarkan binatang itu mengalahkan orang-orang
-kudus (11:7; 13:7) — kebalikan dari sebuah kampanye Injil yang jaya. Dan
-secara struktural, keempat kuda itu membentuk satu kesatuan, sama seperti
-dalam Zakharia, sama seperti keempat sangkakala pertama dan keempat cawan
-pertama masing-masing membentuk satu kesatuannya sendiri kemudian dalam
-kitab ini — sebuah argumen kuat bahwa apa pun keempat sosok ini,
-mereka berdiri atau jatuh bersama-sama.
+kudus (11:7; 13:7) — kebalikan dari sebuah kampanye Injil yang jaya. Dan secara struktural, keempat kuda itu tampak sebagai satu kesatuan, sama seperti dalam Zakharia, sama seperti keempat sangkakala pertama dan keempat cawan pertama masing-masing membentuk satu kesatuannya sendiri kemudian dalam kitab ini. Pola itu saja belum menentukan, sebab kelompok empat juga dapat memuat hal-hal yang berlawanan. Bukti yang lebih kuat adalah ajaran akhir zaman Yesus sendiri dalam Markus 13, Matius 24, dan Lukas 21, yang menyebut penyesatan lebih dulu, lalu perang, lalu kelaparan — urutan para penunggang itu.
 
 Penyelesaiannya: penunggang pertama adalah kejahatan yang menyamar sebagai
 kebaikan — sebagai Kristus sendiri. Pembacaan itu cocok dengan posisinya

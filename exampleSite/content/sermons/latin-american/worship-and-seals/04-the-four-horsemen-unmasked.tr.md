@@ -28,12 +28,7 @@ resmi olan Gog ve Magog'un elinden yayı kırar (Hezekiel 39:3) — bu, bir yay�
 değil düşman olarak işaretlediği anlamına gelir. Vahiy'in ilerleyen bölümlerindeki iblisi
 çekirgeler de taç takar (9:7), yani sadece bir taç hiçbir şey kanıtlamaz. "Fethetmek", kitabın
 başka bir yerinde canavarın kutsalları fethetmesini tanımlar, Mesih'in müjdesinin ilerlemesini
-değil (Vahiy 11:7, 13:7). Ve kesin olan şu: dört atlı, Zekeriya'nın tüm dünyayı devriye
-gezmek üzere gönderilen dört at görümünden (Zekeriya 1:8-15; 6:1-8) ve Hezekiel'in dört
-belasından — kılıç, kıtlık, yabani hayvanlar ve salgın hastalık (Hezekiel 14:12-23) — alınan
-tek bir birim olarak işlev görür. Dördü de birlikte aittir. Ya dört atlının hepsi Tanrı'nın
-amaçlarına aynı şekilde hizmet eder, ya da hiçbiri etmez — ve son üçü açıkça kahramanca
-değildir.
+değil (Vahiy 11:7, 13:7). Dört atlı ayrıca, Zekeriya'nın tüm dünyayı devriye gezmek üzere gönderilen dört at görümünden (Zekeriya 1:8-15; 6:1-8) ve Hezekiel'in dört belasından — kılıç, kıtlık, yabani hayvanlar ve salgın hastalık (Hezekiel 14:12-23) — alınan tek bir birim gibi görünür. Bu örüntü tek başına meseleyi çözmez, çünkü dörtlü gruplar karşıtları da yan yana koyabilir. Daha güçlü kanıt, İsa'nın kendi son zaman öğretisidir (Markos 13, Matta 24, Luka 21); bu öğreti savaş ve kıtlığı anmadan önce aldatma uyarısıyla başlar — atlılarla aynı sıra.
 
 Çözüm: ilk atlı, iyi gibi davranan kötülüktür — sahte bir Mesih. Bu, tam olarak pasajın inşa
 ettiği örüntüdür. Bölüm 5, İsa'yı tomarı açmaya layık tek kişi olarak az önce ortaya çıkarmıştı.

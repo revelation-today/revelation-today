@@ -37,10 +37,7 @@ the book. But the case against is stronger on close reading. God strikes the bow
 hand of Gog, the end-time enemy, in Ezekiel 39:3 — identifying the bow itself as the
 weapon of God's opponent. Crowns in Revelation are not exclusive to Christ; the demonic
 locusts of chapter 9 wear them too. "Conquering" elsewhere in the book describes the beast
-overpowering the saints (11:7; 13:7) — the opposite of a triumphant gospel campaign. And
-structurally, the four horses form a single unit, just as they do in Zechariah, just as the
-first four trumpets and first four bowls each form their own unit later in the book — a
-strong argument that whatever these four are, they stand or fall together.
+overpowering the saints (11:7; 13:7) — the opposite of a triumphant gospel campaign. And structurally, the four horses look like a single unit, just as they do in Zechariah, just as the first four trumpets and first four bowls each form their own unit later in the book. That pattern alone is not decisive, since groups of four can also hold contrasts. The stronger evidence is Jesus' own end-times teaching in Mark 13, Matthew 24, and Luke 21, which names deception first, then war, then famine — the order of the riders.
 
 The resolution: the first horseman is evil masquerading as good — as Christ himself. That
 reading fits its position in the narrative precisely. The chapter immediately before this

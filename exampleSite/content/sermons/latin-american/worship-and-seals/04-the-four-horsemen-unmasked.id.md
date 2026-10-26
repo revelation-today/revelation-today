@@ -30,13 +30,7 @@ dan Magog, gambaran Alkitab sendiri tentang musuh akhir zaman (Yehezkiel 39:3) �
 busur menandai penunggang ini sebagai musuh, bukan yang kudus. Belalang-belalang setan yang
 muncul kemudian dalam Kitab Wahyu juga mengenakan mahkota (9:7), jadi mahkota semata tidak
 membuktikan apa pun. "Menaklukkan" di tempat lain dalam kitab ini menggambarkan si binatang
-menaklukkan orang-orang kudus, bukan Injil Kristus yang maju (Wahyu 11:7, 13:7). Dan yang
-menentukan: keempat penunggang kuda berfungsi sebagai satu kesatuan, diambil dari penglihatan
-Zakharia tentang empat ekor kuda yang diutus untuk berpatroli di seluruh bumi (Zakharia 1:8-15;
-6:1-8) dan dari empat tulah Yehezkiel — pedang, kelaparan, binatang buas, dan penyakit sampar
-(Yehezkiel 14:12-23). Keempatnya adalah satu kesatuan. Entah keempat penunggang itu melayani
-maksud Allah dengan cara yang sama, atau tidak satu pun dari mereka melakukannya — dan tiga yang
-terakhir jelas bukan pahlawan.
+menaklukkan orang-orang kudus, bukan Injil Kristus yang maju (Wahyu 11:7, 13:7). Keempat penunggang kuda juga tampak sebagai satu kesatuan, diambil dari penglihatan Zakharia tentang empat ekor kuda yang diutus untuk berpatroli di seluruh bumi (Zakharia 1:8-15; 6:1-8) dan dari empat tulah Yehezkiel — pedang, kelaparan, binatang buas, dan penyakit sampar (Yehezkiel 14:12-23). Pola itu saja belum menentukan, sebab kelompok empat juga dapat menempatkan hal-hal yang berlawanan berdampingan. Bukti yang lebih kuat adalah ajaran akhir zaman Yesus sendiri (Markus 13, Matius 24, Lukas 21), yang dibuka dengan peringatan terhadap penyesatan sebelum menyebut perang dan kelaparan — urutan yang sama dengan para penunggang itu.
 
 Penyelesaiannya: penunggang pertama adalah kejahatan yang berpura-pura menjadi kebaikan — sebuah
 Kristus palsu. Itulah tepatnya pola yang sedang dibangun oleh perikop ini. Pasal 5 baru saja

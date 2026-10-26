@@ -28,12 +28,7 @@ But look closer, and the case collapses. God strikes the bow from the hand of Go
 the Bible's own picture of the end-time enemy (Ezekiel 39:3) — meaning a bow marks this rider
 as hostile, not holy. The demonic locusts later in Revelation also wear crowns (9:7), so a crown
 alone proves nothing. "Conquering" elsewhere in the book describes the beast conquering the
-saints, not Christ's gospel advancing (Revelation 11:7, 13:7). And decisively: the four
-horsemen function as a single unit, drawn from Zechariah's vision of four horses sent to patrol
-the whole earth (Zechariah 1:8–15; 6:1–8) and from Ezekiel's four plagues — sword, famine, wild
-beasts, and pestilence (Ezekiel 14:12–23). All four belong together. Either all four riders
-serve God's purposes in the same way, or none of them do — and the last three are plainly not
-heroic.
+saints, not Christ's gospel advancing (Revelation 11:7, 13:7). The four horsemen also look like a unit, drawn from Zechariah's vision of four horses sent to patrol the whole earth (Zechariah 1:8–15; 6:1–8) and from Ezekiel's four plagues — sword, famine, wild beasts, and pestilence (Ezekiel 14:12–23). That pattern alone does not settle it, since groups of four can also set contrasts side by side. The stronger evidence is Jesus' own end-times teaching (Mark 13, Matthew 24, Luke 21), which opens with a warning against deception before it names war and famine — the same order as the riders.
 
 The resolution: the first horseman is evil pretending to be good — a counterfeit Christ.
 That's exactly the pattern the passage is building. Chapter 5 has just revealed Jesus as the

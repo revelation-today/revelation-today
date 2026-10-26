@@ -23,9 +23,7 @@ Beyaz bir at. Bir taç. Zafer. Bu İsa'ya benzemiyor mu? Vahiy'in ilerleyen böl
 
 Daha yakından bakınca, bu görüş çöker. Hezekiel'de Tanrı, Gog ve Magog'un elinden yayı düşürür — bu, yayı Tanrı'nın müttefiki değil, son çağ düşmanının silahı olarak işaretler (Hezekiel 39:3). Vahiy 9:7'deki iblis çekirgeleri de taç takar — yani tek başına bir taç, ilahi köken kanıtlamaz. Vahiy'in başka yerlerinde "zafer kazanmak" canavarın azizlere karşı zafer kazanmasını tarif eder (Vahiy 11:7, 13:7) — olumlu bir eylem değil.
 
-Daha da önemlisi: dört atlı, tıpkı Zekeriya'nın dört atının ve savaş arabasının tek bir birim oluşturması gibi (Zekeriya 1:8-15; 6:1-8), ve Vahiy'in mühürlerinin, borazanlarının ve tasların her birinin dörtlü gruplar halinde eşleşerek hareket etmesi gibi, tek bir birim olarak işlev görür. Ya dört atlının hepsi kötüdür, ya da hiçbiri değildir — bu biniciyi diğer üçünden ayıramazsınız.
-
-Ve İsa'nın son günler hakkındaki öğretisi, Markos 13, Matta 24 ve Luka 21'de verilir, tam olarak bu sırayla açılır: önce aldatma uyarısı ("adımla birçokları gelecek" ve birçoklarını saptıracak), sonra savaş, sonra kıtlık. Bu dört atlımızla aynı sıradır. İlk binici, zafer kılığına girmiş aldatmadır — sahte bir Mesih, çarmıhsız bir zafer müjdesinin sahtesi.
+Dört atlı ayrıca, tıpkı Zekeriya'nın dört atının ve savaş arabasının tek bir birim oluşturması gibi (Zekeriya 1:8-15; 6:1-8), ve Vahiy'in mühürlerinin, borazanlarının ve tasların her birinin dörtlü gruplar halinde hareket etmesi gibi, tek bir birim gibi görünür. Bu örüntü tek başına ilk atlının kötü olduğunu kanıtlamaz, çünkü dörtlü gruplar karşıtları da içerebilir, ama sonrasında gelenle uyuşur. Daha güçlü kanıt, İsa'nın son günler hakkındaki öğretisidir; Markos 13, Matta 24 ve Luka 21'de verilir ve tam olarak bu sırayla açılır: önce aldatma uyarısı ("adımla birçokları gelecek" ve birçoklarını saptıracak), sonra savaş, sonra kıtlık. Bu dört atlımızla aynı sıradır. İlk binici, zafer kılığına girmiş aldatmadır — sahte bir Mesih, çarmıhsız bir zafer müjdesinin sahtesi.
 
 ## Perdenin arkası
 

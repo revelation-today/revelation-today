@@ -37,10 +37,7 @@ bakıldığında karşıt argüman daha güçlüdür. Tanrı, son zaman düşman
 düşürür (Hezekiel 39:3) — bu, yayın kendisini Tanrı'nın düşmanının silahı olarak tanımlar.
 Vahiy'deki taçlar yalnızca Mesih'e özgü değildir; 9. bölümün şeytani çekirgeleri de taç
 giyer. Kitapta başka yerde "fethetmek," canavarın kutsalları yenmesini tanımlar (11:7; 13:7) —
-zafer kazanan bir müjde seferinin tam tersi. Ve yapısal olarak dört at, tıpkı Zekeriya'da
-olduğu gibi, tıpkı kitapta daha sonra ilk dört borazanın ve ilk dört kâsenin kendi
-başlarına birer birim oluşturması gibi, tek bir birim oluşturur — bu dördünün her ne
-olursa olsun, birlikte ayakta durup birlikte düştüğüne dair güçlü bir argümandır.
+zafer kazanan bir müjde seferinin tam tersi. Ve yapısal olarak dört at, tıpkı Zekeriya'da olduğu gibi, tıpkı kitapta daha sonra ilk dört borazanın ve ilk dört kâsenin kendi başlarına birer birim oluşturması gibi, tek bir birim gibi görünür. Bu örüntü tek başına kesin değildir, çünkü dörtlü gruplar karşıtları da içerebilir. Daha güçlü kanıt, İsa'nın kendi son zaman öğretisidir (Markos 13, Matta 24, Luka 21): önce aldatma, sonra savaş, sonra kıtlık — atlıların sırası.
 
 Çözüm şudur: ilk binici, iyi kılığına girmiş kötülüktür — İsa'nın kendisi kılığına girmiş.
 Bu okuma, anlatıdaki konumuna tam olarak uyar. Bundan hemen önceki bölüm, İsa'yı tomarı açmaya
