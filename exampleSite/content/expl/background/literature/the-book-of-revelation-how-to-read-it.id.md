@@ -157,6 +157,6 @@ Yang *bukan* merupakan kitab ini:
 - sebuah pandangan ke masa depan yang jauh (dari sudut pandang para pendengarnya di zaman kuno) yang menggambarkan peristiwa-peristiwa yang sama sekali tidak relevan bagi mereka.
 - sebuah gambaran langsung tentang seperti apa masa depan nanti.
 
-[^gorman1]: Gorman, *Reading Revelation Responsibly*, bab 2, bagian "Apocalypse": sebuah apokalips mengajukan kritik tajam terhadap para penindas, seruan penuh semangat untuk melawan, dan keyakinan teguh akan kemenangan akhir Allah atas kejahatan, dengan dualisme kosmis dan etis serta dualisme waktu dua zaman. Nomor halaman menyusul.
+[^gorman1]: Gorman, *Reading Revelation Responsibly*, bab 2, bagian "Apocalypse", hlm. 14–16: sebuah apokalips mengajukan kritik tajam terhadap para penindas, seruan penuh semangat untuk melawan, dan keyakinan teguh akan kemenangan akhir Allah atas kejahatan (hlm. 15), dengan dualisme kosmis dan etis (hlm. 15–16) serta dualisme waktu dua zaman (hlm. 16). Ia juga membandingkan gambar-gambar Wahyu dengan kartun politik (hlm. 19). Tentang "resistance literature" ia mengutip Bauckham dan lainnya, hlm. 24–25.
 
 [^bauckham38]: Bauckham, *The Theology of the Book of Revelation*, hlm. 38: kritik nubuat yang menyeluruh terhadap sistem kekuasaan Roma menjadikan Wahyu "karya perlawanan politik yang paling kuat dari masa awal Kekaisaran".

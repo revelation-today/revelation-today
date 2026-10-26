@@ -157,6 +157,6 @@ What the book is *not*:
 - a look into a future so far from its first listeners that the events would have had no bearing on them at all.
 - a straightforward description of what the future will look like.
 
-[^gorman1]: Gorman, *Reading Revelation Responsibly*, ch. 2, section "Apocalypse": an apocalypse offers "scathing critique of the oppressors, passionate exhortations to defiance … and unfailing confidence in God's ultimate defeat of the present evil", with a cosmic and ethical dualism and a temporal dualism of two ages. Page numbers still to add.
+[^gorman1]: Gorman, *Reading Revelation Responsibly*, ch. 2, section "Apocalypse", pp. 14–16: an apocalypse offers "scathing critique of the oppressors, passionate exhortations to defiance … and unfailing confidence in God's ultimate defeat of the present evil" (p. 15), with a cosmic and ethical dualism (pp. 15–16) and a temporal dualism of two ages (p. 16). He too compares Revelation's images to political cartoons (p. 19). On "resistance literature" he quotes Bauckham and others, pp. 24–25.
 
 [^bauckham38]: Bauckham, *The Theology of the Book of Revelation*, p. 38: Revelation's "thorough-going prophetic critique of the system of Roman power" makes it "the most powerful piece of political resistance literature from the period of the early Empire".

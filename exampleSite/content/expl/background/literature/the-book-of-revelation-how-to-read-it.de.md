@@ -157,6 +157,6 @@ Was das Buch *nicht* ist:
 - ein Blick in die ferne Zukunft (aus Sicht seiner antiken Hörer), der Ereignisse beschreibt, die mit ihnen überhaupt nichts zu tun hatten.
 - eine schlichte Beschreibung dessen, wie die Zukunft aussehen wird.
 
-[^gorman1]: Gorman, *Reading Revelation Responsibly*, Kap. 2, Abschnitt „Apocalypse“: Eine Apokalypse übt „scathing critique of the oppressors“, ruft leidenschaftlich zum Widerstand auf und vertraut unerschütterlich auf Gottes endgültigen Sieg über das Böse; dazu kommen ein kosmischer und ethischer Dualismus und ein zeitlicher Dualismus der zwei Zeitalter. Seitenzahlen folgen.
+[^gorman1]: Gorman, *Reading Revelation Responsibly*, Kap. 2, Abschnitt „Apocalypse“, S. 14–16: Eine Apokalypse übt „scathing critique of the oppressors“, ruft leidenschaftlich zum Widerstand auf und vertraut unerschütterlich auf Gottes endgültigen Sieg über das Böse (S. 15); dazu kommen ein kosmischer und ethischer Dualismus (S. 15–16) und ein zeitlicher Dualismus der zwei Zeitalter (S. 16). Auch er vergleicht die Bilder der Offenbarung mit politischen Karikaturen (S. 19). Zur „resistance literature“ zitiert er Bauckham und andere, S. 24–25.
 
 [^bauckham38]: Bauckham, *The Theology of the Book of Revelation*, S. 38: Die „durchgreifende prophetische Kritik am System der römischen Macht“ macht die Offenbarung zum „most powerful piece of political resistance literature from the period of the early Empire“.

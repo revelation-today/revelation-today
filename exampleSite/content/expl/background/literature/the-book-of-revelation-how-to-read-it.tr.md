@@ -157,6 +157,6 @@ Kitabın *olmadığı* şey:
 - (kendi antik dinleyicilerinin bakış açısından) onlarla hiçbir ilgisi olmayacak olayları anlatan, uzak geleceğe bir bakış.
 - geleceğin tam olarak nasıl görüneceğine dair düz bir tanım.
 
-[^gorman1]: Gorman, *Reading Revelation Responsibly*, 2. bölüm, "Apocalypse" kısmı: bir apokalips ezenleri sert biçimde eleştirir, tutkuyla direnişe çağırır ve Tanrı'nın kötülüğe karşı nihai zaferine sarsılmaz güven duyar; buna kozmik ve ahlaki bir düalizm ile iki çağın zamansal düalizmi eşlik eder. Sayfa numaraları eklenecek.
+[^gorman1]: Gorman, *Reading Revelation Responsibly*, 2. bölüm, "Apocalypse" kısmı, s. 14–16: bir apokalips ezenleri sert biçimde eleştirir, tutkuyla direnişe çağırır ve Tanrı'nın kötülüğe karşı nihai zaferine sarsılmaz güven duyar (s. 15); buna kozmik ve ahlaki bir düalizm (s. 15–16) ile iki çağın zamansal düalizmi (s. 16) eşlik eder. O da Vahiy'in imgelerini siyasi karikatürlerle karşılaştırır (s. 19). "Resistance literature" için Bauckham'ı ve başkalarını aktarır, s. 24–25.
 
 [^bauckham38]: Bauckham, *The Theology of the Book of Revelation*, s. 38: Roma gücü sistemine yönelik köklü peygamberce eleştiri, Vahiy'i erken İmparatorluk döneminin "en güçlü siyasi direniş edebiyatı" yapar.
