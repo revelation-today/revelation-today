@@ -83,9 +83,9 @@ Bu, kitabın edebiyat türünü anlamak için [iyi bir kaynaktır](https://www.l
 
 <a name="koester_rev"></a>
 
-### Köster, Revelation and the end of all things
+### Koester, Revelation and the end of all things (2nd ed., 2018)
 
-[Okuması kolay bir kitap](https://www.amazon.de/Revelation-End-Things-Craig-Koester/dp/0802846602)
+[Okuması kolay bir kitap](https://www.amazon.de/Revelation-End-Things-Craig-Koester/dp/0802875785)
 
 ## Tamamlayıcı konular
 

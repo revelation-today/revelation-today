@@ -83,9 +83,9 @@ Sebuah jilid pendamping dari yang di atas, kali ini untuk perdebatan waktu penga
 
 <a name="koester_rev"></a>
 
-### Köster, Revelation and the end of all things
+### Koester, Revelation and the end of all things (2nd ed., 2018)
 
-[Buku yang mudah dibaca](https://www.amazon.de/Revelation-End-Things-Craig-Koester/dp/0802846602)
+[Buku yang mudah dibaca](https://www.amazon.de/Revelation-End-Things-Craig-Koester/dp/0802875785)
 
 ## Topik-topik pelengkap
 

@@ -85,9 +85,9 @@ Ein Begleitband zum obigen Werk, diesmal für die Debatte um den Zeitpunkt der E
 
 <a name="koester_rev"></a>
 
-### Köster, Revelation and the end of all things
+### Koester, Revelation and the end of all things (2nd ed., 2018)
 
-[Einfach zu lesen](https://www.amazon.de/Revelation-End-Things-Craig-Koester/dp/0802846602)
+[Einfach zu lesen](https://www.amazon.de/Revelation-End-Things-Craig-Koester/dp/0802875785)
 
 ## Weitere Themen
 
