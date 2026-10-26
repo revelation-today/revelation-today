@@ -40,7 +40,7 @@ Es ist eine Rolle, die Gott selbst übernimmt — er nennt sich Israels {{% bibl
 ## Der Patriarch
 
 <a name="75b9"></a>
-Die Familieneinheit bestand aus dem Patriarchen (dem ältesten männlichen Mitglied) und seiner Frau, ihren Söhnen und Töchtern sowie den Frauen und Kindern der Söhne. Eine solche Familie konnte drei Generationen umfassen und bis zu dreißig Personen zählen, die alle zusammen lebten und arbeiteten.
+Die Familieneinheit bestand aus dem Patriarchen (dem ältesten männlichen Mitglied) und seiner Frau, ihren Söhnen und Töchtern sowie den Frauen und Kindern der Söhne. Eine solche Familie konnte drei Generationen umfassen und bis zu dreißig Personen zählen, die alle zusammen lebten und arbeiteten.[^thirty]
 
 Die Aufgabe des Patriarchen war es, die Familie finanziell zu unterstützen, Recht, Gerechtigkeit und Moral innerhalb der Familie durchzusetzen und sich um ihre benachteiligten Mitglieder in Krankheit, Krieg oder Hungersnot zu kümmern. In den extremsten Situationen — Hungersnot, erdrückende Schulden — musste der Patriarch sogar entscheiden, wer überlebte und wer nicht, wer in die Sklaverei ging und wer wieder freigekauft wurde. Genau diese Rolle gibt der Bund Gott: In den Verträgen jener Zeit hieß die stärkere Partei „Vater“, war verpflichtet, für die schwächere zu sorgen und sie zu schützen, und verlangte ungeteilte Treue — {{% int_link val="Der Bund Gottes" link="/expl/background/israel/gods-covenant" %}} baut genau darauf auf.
 
@@ -68,3 +68,5 @@ Land war die Ressource, von der eine Familie lebte, und es ging vom Vater auf de
 
 <a name="26ef"></a>
 Dieses ganze Bild wird zur Linse, durch die die Bibel von Gott spricht: Er wird als Vater dargestellt, Jesus als der Erstgeborene, der sich um die anderen kümmert, und er {{% bible val="gibt ein Haus mit vielen Wohnungen" link="jhn:14,1-3" lang="de" %}}, damit wir alle zusammen leben können.
+
+[^thirty]: Richter, *The Epic of Eden*, Kap. 1: Das *bêt ʾāb* konnte „bis zu drei Generationen, bis zu dreißig Personen“ umfassen; sie verweist auf L. E. Stager, *BASOR* 260 (1985) 20, und King/Stager, *Life in Biblical Israel*, S. 39–40. Sie beschreibt auch die rechtliche und wirtschaftliche Verantwortung des Patriarchen bis hin zu Leben und Tod (Juda und Tamar, 1 Mose 38). Seitenzahlen folgen.

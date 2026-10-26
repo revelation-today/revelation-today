@@ -40,7 +40,7 @@ Ini adalah peran yang diambil alih oleh Allah sendiri — Ia menyebut diri-Nya {
 ## Sang Patriark
 
 <a name="75b9"></a>
-Satuan keluarga terdiri atas sang patriark (anggota laki-laki tertua), istrinya, putra-putri mereka, serta istri-istri dan anak-anak dari para putranya. Keluarga semacam ini bisa mencakup tiga generasi dan berjumlah hingga tiga puluh orang, yang semuanya hidup dan bekerja bersama-sama.
+Satuan keluarga terdiri atas sang patriark (anggota laki-laki tertua), istrinya, putra-putri mereka, serta istri-istri dan anak-anak dari para putranya. Keluarga semacam ini bisa mencakup tiga generasi dan berjumlah hingga tiga puluh orang, yang semuanya hidup dan bekerja bersama-sama.[^thirty]
 
 Tugas sang patriark adalah menopang keluarga secara finansial, menegakkan hukum, keadilan, dan moralitas di dalamnya, serta memperhatikan anggota-anggotanya yang kurang beruntung ketika sakit, dalam masa perang, atau kelaparan. Dalam situasi yang paling ekstrem — kelaparan, utang yang mencekik — sang patriark bahkan harus memutuskan siapa yang akan bertahan hidup dan siapa yang tidak, siapa yang akan dijual menjadi budak dan siapa yang akan ditebus kembali dari perbudakan. Inilah juga peran yang diberikan perjanjian kepada Allah: dalam perjanjian-perjanjian pada masa itu pihak yang lebih kuat disebut "bapa", wajib memelihara dan melindungi pihak yang lebih lemah, dan menuntut kesetiaan yang tak terbagi — {{% int_link val="Perjanjian Allah" link="/expl/background/israel/gods-covenant" %}} dibangun tepat di atas hal ini.
 
@@ -68,3 +68,5 @@ Tanah adalah sumber daya yang menjadi penghidupan sebuah keluarga, dan diwariska
 
 <a name="26ef"></a>
 Keseluruhan gambaran ini menjadi lensa bagaimana Alkitab berbicara tentang Allah: Ia digambarkan sebagai seorang bapak, Yesus sebagai anak sulung yang mengurus yang lain, dan Ia {{% bible val="memberikan sebuah rumah dengan banyak tempat tinggal" link="jhn:14,1-3" lang="ind" %}} supaya kita semua dapat tinggal bersama.
+
+[^thirty]: Richter, *The Epic of Eden*, bab 1: *bêt ʾāb* dapat mencakup "hingga tiga generasi, sampai tiga puluh orang"; ia merujuk L. E. Stager, *BASOR* 260 (1985) 20, dan King/Stager, *Life in Biblical Israel*, hlm. 39–40. Ia juga menggambarkan tanggung jawab hukum dan ekonomi sang patriark, termasuk atas hidup dan mati (Yehuda dan Tamar, Kej. 38). Nomor halaman menyusul.

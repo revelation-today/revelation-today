@@ -40,7 +40,7 @@ It's a role God takes on Himself — he calls himself Israel's {{% bible val="Re
 ## The patriarch
 
 <a name="7e2f"></a>
-The family unit consisted of the patriarch (the oldest male member) and his wife, their sons and daughters, and the wives and children of the sons. Such a family could span three generations and number up to thirty people, all living and working together.
+The family unit consisted of the patriarch (the oldest male member) and his wife, their sons and daughters, and the wives and children of the sons. Such a family could span three generations and number up to thirty people, all living and working together.[^thirty]
 
 The patriarch's role was to provide financial support for the family, to enforce law, justice, and morality within it, and to care for its disadvantaged members through illness, war, or famine. In the most extreme situations — famine, crushing debt — the patriarch even had to decide who would survive and who wouldn't, who would go into slavery and who would be bought back out of it. This is also the role the covenant gives God: in the treaties of the time the stronger party was called "father", was bound to provide for and protect the weaker, and asked for exclusive loyalty — {{% int_link val="God's covenant" link="/expl/background/israel/gods-covenant" %}} builds on exactly this.
 
@@ -68,3 +68,5 @@ Land was the resource a family lived off, and it passed from father to son. Losi
 
 <a name="01d7"></a>
 This whole picture becomes the lens for how the Bible speaks of God: He is portrayed as a father, Jesus as the first-born who takes care of the others, and He {{% bible val="gives a house with many apartments" link="jhn:14,1-3" lang="en" %}} so that we can all live together.
+
+[^thirty]: Richter, *The Epic of Eden*, ch. 1 ("The Bible as the Story of Redemption"): the *bêt ʾāb* "could include as many as three generations, up to thirty persons", citing L. E. Stager, "The Archaeology of the Family in Ancient Israel", *BASOR* 260 (1985) 20, and King and Stager, *Life in Biblical Israel*, pp. 39–40. She also describes the patriarch's legal and economic responsibility, including life and death (Judah and Tamar, Gen 38). Page numbers still to add.

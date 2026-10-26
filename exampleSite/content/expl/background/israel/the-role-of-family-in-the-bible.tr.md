@@ -40,7 +40,7 @@ Bu, Tanrı'nın kendi üzerine aldığı bir roldür — O, kendisini İsrail'in
 ## Aile reisi
 
 <a name="3a5d"></a>
-Aile birimi; aile reisinden (en yaşlı erkek üye) ve eşinden, oğullarından ve kızlarından, oğullarının eşlerinden ve çocuklarından oluşurdu. Böyle bir aile üç kuşağa yayılabilir ve birlikte yaşayıp çalışan otuz kişiye kadar ulaşabilirdi.
+Aile birimi; aile reisinden (en yaşlı erkek üye) ve eşinden, oğullarından ve kızlarından, oğullarının eşlerinden ve çocuklarından oluşurdu. Böyle bir aile üç kuşağa yayılabilir ve birlikte yaşayıp çalışan otuz kişiye kadar ulaşabilirdi.[^thirty]
 
 Aile reisinin görevi, ailenin maddi desteğini sağlamak, aile içinde hukuku, adaleti ve ahlakı uygulamak ve hastalık, savaş ya da kıtlık zamanlarında dezavantajlı üyelere bakmaktı. En uç durumlarda — kıtlık, ağır borç — aile reisi kimin hayatta kalacağına, kimin kölelik yoluna gideceğine ve kimin oradan geri satın alınacağına bile karar vermek zorunda kalırdı. Antlaşmanın Tanrı'ya verdiği rol de budur: o dönemin antlaşmalarında güçlü taraf "baba" diye anılır, zayıf tarafı geçindirmek ve korumakla yükümlüydü ve bölünmez sadakat isterdi — {{% int_link val="Tanrı’nın antlaşması" link="/expl/background/israel/gods-covenant" %}} tam da bunun üzerine kuruludur.
 
@@ -68,3 +68,5 @@ Toprak, bir ailenin geçimini sağladığı kaynaktı ve babadan oğula geçerdi
 
 <a name="7049"></a>
 Bu bütün tablo, Kutsal Kitap'ın Tanrı'dan söz ederken kullandığı merceğe dönüşür: O bir baba olarak, İsa ise diğerlerine bakan ilk doğan oğul olarak resmedilir ve hepimiz birlikte yaşayabilelim diye {{% bible val="birçok konutu olan bir ev verir" link="jhn:14,1-3" lang="tr" %}}.
+
+[^thirty]: Richter, *The Epic of Eden*, 1. bölüm: *bêt ʾāb* "üç kuşağa, otuz kişiye kadar" ulaşabilirdi; L. E. Stager, *BASOR* 260 (1985) 20 ve King/Stager, *Life in Biblical Israel*, s. 39–40'a dayanır. Ayrıca ataerkin hukuki ve ekonomik sorumluluğunu, yaşam ve ölüm dahil, anlatır (Yahuda ve Tamar, Yar. 38). Sayfa numaraları eklenecek.
