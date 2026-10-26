@@ -25,8 +25,7 @@ olan Artemis Tapınağı'nın evi. İsa, gerçek, önemli güçleri onaylayarak 
 - Sıkı çalışma ve sebat; Artemis tapınmasının kültürel çekişine etkin biçimde direnmek — bu
   tapınma öylesine kök salmıştı ki karşı çıkıldığında kent çapında bir isyana yol açmıştı
   (Elçilerin İşleri 19:23-41).
-- Doktrinel ayırt etme yetisi — sahte elçileri sınadılar ve reddettiler; bu disiplin daha sonra
-  bu bölümlerde başka kiliseler için ölümcül olacak.
+- Doktrinel ayırt etme yetisi — sahte elçileri sınadılar ve reddettiler; bu disiplinin yokluğu daha sonra bu bölümlerde başka kiliselere pahalıya mal olacak.
 - İsa'nın adı uğruna gerçek zorluklara katlanma.
 
 Her dışsal ölçütle bu, olgun, disiplinli, doktrinel açıdan sağlam bir kilise. Ve İsa yine de onları

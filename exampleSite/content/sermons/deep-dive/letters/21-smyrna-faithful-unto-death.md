@@ -23,7 +23,7 @@ Smyrna sat about 70 km north of Ephesus on a strategic harbor, and by the time R
 
 **The paradox at the center of the letter.** Jesus doesn't promise Smyrna deliverance from suffering. He promises that if they remain faithful "even to the point of death," they will not be harmed by the second death (2:10-11) — because he has already walked that exact road, dying and rising as the slain Lamb who now reigns (Revelation 5:5-6). The pattern that emerges across Revelation: the less power we have to fix our own circumstances, the more room there is for Jesus to be the one who acts. Smyrna isn't told to solve its own persecution. It's told to endure it, together with him, trusting a resurrection he has already proven works.
 
-**Why no rebuke?** The pairing with Philadelphia later in these chapters (both poor, both pressured, both praised without correction) suggests something important: Jesus doesn't measure these churches by strength, resources, or how comfortable their circumstances are. He measures them by whether they keep trusting him under pressure they can't escape. Comfortable churches have more to answer for, not less — Ephesus, wealthy and disciplined, gets a stern warning; poor, persecuted Smyrna gets none.
+**Why no rebuke?** The pairing with Philadelphia later in these chapters (both poor, both pressured, both praised without correction) suggests something important: Jesus doesn't measure these churches by strength, resources, or how comfortable their circumstances are. He measures them by whether they keep trusting him under pressure they can't escape. Comfortable churches have more to answer for, not less — Ephesus, strong and disciplined, gets a stern warning; poor, persecuted Smyrna gets none.
 
 ## A note on historical background
 

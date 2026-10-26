@@ -45,7 +45,7 @@ işlediğini kanıtladığı bir dirilişe güvenerek, buna katlanması söyleni
 ikisi de baskı altında, ikisi de düzeltmesiz övülür) önemli bir şeyi düşündürüyor: İsa bu kiliseleri
 güçle, kaynaklarla ya da koşullarının ne kadar rahat olduğuyla ölçmüyor. Onları, kaçamayacakları
 baskı altında O'na güvenmeye devam edip etmedikleriyle ölçüyor. Rahat kiliselerin daha az değil
-daha fazla hesap vermesi gerekiyor — zengin, disiplinli Efes sert bir uyarı alıyor; yoksul, zulüm
+daha fazla hesap vermesi gerekiyor — güçlü, disiplinli Efes sert bir uyarı alıyor; yoksul, zulüm
 gören İzmir hiçbir uyarı almıyor.
 
 ## Tarihsel Arka Plan Üzerine Bir Not

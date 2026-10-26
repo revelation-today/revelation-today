@@ -27,8 +27,7 @@ vollständigen Hintergrund):
 - Harte Arbeit und Ausdauer, aktiver Widerstand gegen den kulturellen Sog der Artemis-Verehrung —
   eine Verehrung, die so tief verwurzelt war, dass sie einen stadtweiten Aufruhr auslöste, als sie
   herausgefordert wurde (Apostelgeschichte 19,23-41).
-- Lehrmäßige Unterscheidungsgabe — sie prüften falsche Apostel und wiesen sie zurück, eine
-  Disziplin, die sich für andere Gemeinden später in diesen Kapiteln als fatal erweisen wird.
+- Lehrmäßige Unterscheidungsgabe — sie prüften falsche Apostel und wiesen sie zurück, eine Disziplin, deren Fehlen sich für andere Gemeinden später in diesen Kapiteln als verhängnisvoll erweisen wird.
 - Ausdauer unter echter Bedrängnis um Jesu Namen willen.
 
 Nach jedem äußeren Maßstab ist das eine reife, disziplinierte, lehrmäßig gesunde Gemeinde. Und

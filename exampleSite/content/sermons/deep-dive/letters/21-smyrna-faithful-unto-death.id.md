@@ -52,7 +52,7 @@ sebuah kebangkitan yang telah terbukti berhasil.
 penting: Yesus tidak mengukur jemaat-jemaat ini berdasarkan kekuatan, sumber daya, atau seberapa
 nyaman keadaan mereka. Ia mengukur mereka berdasarkan apakah mereka terus mempercayai-Nya di bawah
 tekanan yang tidak bisa mereka hindari. Jemaat-jemaat yang nyaman memiliki lebih banyak yang harus
-dipertanggungjawabkan, bukan lebih sedikit — Efesus, yang kaya dan disiplin, menerima peringatan
+dipertanggungjawabkan, bukan lebih sedikit — Efesus, yang kuat dan disiplin, menerima peringatan
 keras; Smirna, yang miskin dan dianiaya, tidak menerima teguran sama sekali.
 
 ## Catatan tentang Latar Belakang Sejarah

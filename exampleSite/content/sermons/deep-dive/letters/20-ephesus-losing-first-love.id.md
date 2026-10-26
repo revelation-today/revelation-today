@@ -27,8 +27,7 @@ nyata dan substansial (Wahyu 2:1-3, lihat
 - Kerja keras dan ketekunan, secara aktif melawan tarikan budaya penyembahan Artemis — penyembahan
   yang begitu mengakar sehingga pernah memicu kerusuhan seluruh kota ketika ditentang (Kisah Para
   Rasul 19:23-41).
-- Kepekaan doktrinal — mereka menguji rasul-rasul palsu dan menolaknya, sebuah kedisiplinan yang
-  akan terbukti fatal bagi jemaat-jemaat lain kemudian dalam pasal-pasal ini.
+- Kepekaan doktrinal — mereka menguji rasul-rasul palsu dan menolaknya, sebuah kedisiplinan yang ketiadaannya akan terbukti merugikan jemaat-jemaat lain kemudian dalam pasal-pasal ini.
 - Ketahanan menghadapi kesulitan nyata demi nama Yesus.
 
 Menurut ukuran luar mana pun, ini adalah jemaat yang dewasa, disiplin, dan sehat secara doktrin.

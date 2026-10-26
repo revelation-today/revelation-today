@@ -50,7 +50,7 @@ Auferstehung, die er bereits als wirksam erwiesen hat.
 unter Druck, beide gelobt ohne Korrektur) legt etwas Wichtiges nahe: Jesus misst diese Gemeinden
 nicht an Stärke, Ressourcen oder daran, wie bequem ihre Umstände sind. Er misst sie daran, ob sie
 ihm weiterhin unter Druck vertrauen, dem sie nicht entkommen können. Bequeme Gemeinden haben mehr
-zu verantworten, nicht weniger — Ephesus, wohlhabend und diszipliniert, erhält eine ernste
+zu verantworten, nicht weniger — Ephesus, stark und diszipliniert, erhält eine ernste
 Warnung; das arme, verfolgte Smyrna erhält keine.
 
 ## Ein Hinweis zum historischen Hintergrund
