@@ -126,7 +126,7 @@ Teori ini juga membuat klaim-klaim politik yang tidak didukung oleh Alkitab, dan
 
 [^lindsey2]: Hal Lindsey, *The Late Great Planet Earth* (1970), hlm. 160–161 pada cetakan paperback. Ia memakai kata "bisa": itu bisa menjadi penghakiman langsung dari Allah, atau Allah bisa membiarkan negara-negara saling meluncurkan rudal balistik dalam pertukaran nuklir.
 
-[^gorman]: Gorman, *Reading Revelation Responsibly*, bab 4, bagian "Problems with the 'Left Behind' Series": pendekatan ini mengaku harfiah, tetapi tidak atau hanya secara selektif; contohnya belalang sebagai helikopter dan binatang bertanduk sepuluh sebagai sepuluh negara Eropa. Nomor halaman menyusul.
+[^gorman]: Gorman, *Reading Revelation Responsibly*, bab 4, bagian "Problems with the 'Left Behind' Series": hlm. 69–73: pendekatan ini mengaku harfiah, tetapi tidak atau hanya secara selektif (hlm. 71, no. 3), dan menemukan "pengangkatan dalam Kitab Wahyu" yang tidak ada di sana (hlm. 71, no. 5). Dalam bab yang sama ia memberi contoh belalang sebagai helikopter dan binatang bertanduk sepuluh sebagai sepuluh negara Eropa, yaitu simbol yang dibaca sebagai simbol.
 
 [^politics]: Rossing, *The Rapture Exposed*, bab 3 (berdirinya Israel tahun 1948 sebagai "tanda super profetis", dan naskah Left Behind untuk Timur Tengah); dalam kata pengantar edisi paperback ia menyebut "dukungan terhadap militerisme dan ekspansionisme di Timur Tengah" di antara arah yang dapat ditempuh teologi pengangkatan.
 

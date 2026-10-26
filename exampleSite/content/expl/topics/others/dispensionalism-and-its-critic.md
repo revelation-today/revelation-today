@@ -126,7 +126,7 @@ The theory also makes political claims that the Bible does not support, and that
 
 [^lindsey2]: Hal Lindsey, *The Late Great Planet Earth* (1970), pp. 160–161 of the paperback printing. He words it with "could": "this could be a direct judgment from God, or God could allow the various countries to launch a nuclear exchange of ballistic missiles upon each other."
 
-[^gorman]: Gorman, *Reading Revelation Responsibly*, ch. 4, section "Problems with the 'Left Behind' Series": the approach "claims to be literal, but it is not or is only selectively so"; he gives locusts as helicopters and the ten-horned beast as ten European nations as examples of symbols read as symbols. Page numbers still to add.
+[^gorman]: Gorman, *Reading Revelation Responsibly*, ch. 4, section "Problems with the 'Left Behind' Series", pp. 69–73: the approach "claims to be literal, but it is not or is only selectively so" (p. 71, no. 3), and he adds that it finds "a rapture in Revelation" that is not there (p. 71, no. 5). In the same chapter he gives locusts as helicopters and the ten-horned beast as ten European nations as examples of symbols read as symbols.
 
 [^politics]: Rossing, *The Rapture Exposed*, ch. 3 (the founding of Israel in 1948 as a "prophetic super-sign", and the Left Behind script for the Middle East); in the preface to the paperback edition she names "support for militarism and expansionism in the Middle East" among the directions rapture theology can lead.
 

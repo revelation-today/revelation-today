@@ -131,7 +131,7 @@ Konuya çok daha ayrıntılı girmek isterseniz, "[The rapture exposed](https://
 
 [^lindsey2]: Hal Lindsey, *The Late Great Planet Earth* (1970), s. 160–161 (ciltsiz baskı). "Olabilir" diyerek ihtiyatlı yazar: bu Tanrı'nın doğrudan bir yargısı olabilir, ya da Tanrı ülkelerin birbirine balistik füzelerle nükleer saldırı başlatmasına izin verebilir.
 
-[^gorman]: Gorman, *Reading Revelation Responsibly*, 4. bölüm, "Problems with the 'Left Behind' Series" kısmı: bu yaklaşım harfi olduğunu söyler, ama değildir ya da yalnızca seçici olarak harfidir; örnek olarak çekirgeleri helikopter, on boynuzlu canavarı on Avrupa ülkesi sayması verilir. Sayfa numaraları eklenecek.
+[^gorman]: Gorman, *Reading Revelation Responsibly*, 4. bölüm, "Problems with the 'Left Behind' Series" kısmı: s. 69–73: bu yaklaşım harfi olduğunu söyler, ama değildir ya da yalnızca seçici olarak harfidir (s. 71, no. 3) ve Vahiy'de olmayan bir "kapılma" bulur (s. 71, no. 5). Aynı bölümde çekirgeleri helikopter, on boynuzlu canavarı on Avrupa ülkesi sayması, sembollerin sembol olarak okunmasına örnek olarak verilir.
 
 [^politics]: Rossing, *The Rapture Exposed*, 3. bölüm (1948'de İsrail'in kuruluşu bir "kehanet süper-işareti" olarak ve Left Behind'ın Orta Doğu senaryosu); ciltsiz baskının önsözünde, göğe alınma teolojisinin götürebileceği yönler arasında "Orta Doğu'da militarizme ve yayılmacılığa destek"i sayar.
 

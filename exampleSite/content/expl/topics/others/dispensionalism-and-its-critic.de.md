@@ -126,7 +126,7 @@ Die Theorie stellt außerdem politische Behauptungen auf, die die Bibel nicht st
 
 [^lindsey2]: Hal Lindsey, *The Late Great Planet Earth* (1970), S. 160–161 der Taschenbuchausgabe. Er formuliert vorsichtig („könnte“): Es könne ein direktes Gericht Gottes sein, oder Gott könne zulassen, dass die Länder einen nuklearen Schlagabtausch mit ballistischen Raketen beginnen.
 
-[^gorman]: Gorman, *Reading Revelation Responsibly*, Kap. 4, Abschnitt „Problems with the ‚Left Behind‘ Series“: Der Ansatz gebe sich wörtlich, sei es aber nicht oder nur selektiv; als Beispiele nennt er Heuschrecken als Hubschrauber und das zehnhörnige Tier als zehn europäische Nationen. Seitenzahlen folgen.
+[^gorman]: Gorman, *Reading Revelation Responsibly*, Kap. 4, Abschnitt „Problems with the ‚Left Behind‘ Series“: S. 69–73: Der Ansatz gebe sich wörtlich, sei es aber nicht oder nur selektiv (S. 71, Nr. 3), und finde eine „Entrückung in der Offenbarung“, die dort nicht stehe (S. 71, Nr. 5). Im selben Kapitel nennt er Heuschrecken als Hubschrauber und das zehnhörnige Tier als zehn europäische Nationen als Beispiele für Symbole, die als Symbole gelesen werden.
 
 [^politics]: Rossing, *The Rapture Exposed*, Kap. 3 (die Gründung Israels 1948 als „prophetisches Super-Zeichen“ und das Left-Behind-Drehbuch für den Nahen Osten); im Vorwort zur Taschenbuchausgabe nennt sie „Unterstützung von Militarismus und Expansionismus im Nahen Osten“ unter den Richtungen, in die Entrückungstheologie führen kann.
 
