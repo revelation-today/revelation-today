@@ -33,7 +33,7 @@ Aber die {{% bible val="Kraft des kommenden Zeitalters ist schon da" link="heb:6
 
 Wir können es uns das wie in diesem Bild vorstellen.
 
-![](/images/era_de.jpg)
+![Diagramm zweier Zeitalter als zwei Linien. Das gegenwärtige Zeitalter ist die untere Linie, das kommende Zeitalter die obere. Mit Jesu erstem Kommen beginnt das kommende Zeitalter, mit seinem zweiten Kommen endet das gegenwärtige. Zwischen den beiden Kommen bestehen beide Zeitalter nebeneinander.](/images/era_de.jpg)
 
 Es gibt zwei parallele Reiche zwischen dem ersten und dem zweiten Kommen Jesu. Sie existieren nebeneinander. Das Reich Gottes ist schon da, aber noch nicht in seiner Fülle. Man kann es ausdrücken als „schon, aber noch nicht”. Eine Überbewertung des “schon” führt zu
 

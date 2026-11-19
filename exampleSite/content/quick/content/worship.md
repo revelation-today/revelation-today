@@ -31,7 +31,7 @@ The scroll sealed seven times ({{% bible val="Revelation 5:1-5" link="rev:5,1-5"
 
 No one is found worthy - until John is told the Lion of Judah has triumphed. But when he turns to look, what he *sees* is not a lion at all: a Lamb, looking as if it had been slain. John *hears* one thing and *sees* another that reinterprets it entirely - the conquering Messiah everyone expected turns out to conquer through sacrifice. The same hear/see pattern repeats later with the 144,000 (chapter 7): announced as an army, revealed as a worshiping multitude.
 
-![](/images/hear_en.jpg)
+![Two-column comparison. In the prophetic tradition the prophet sees an overwhelming picture and then hears an explanation that brings understanding. In Revelation it is the other way round: one hears a known picture and then sees its deeper meaning.](/images/hear_en.jpg)
 
 ## Key images
 

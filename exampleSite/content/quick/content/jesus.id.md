@@ -20,7 +20,7 @@ Dilihat dari sisi surga, peristiwa yang sama berlangsung sebagai peperangan: Mik
 
 Akhirnya naga itu berbalik menyerang "keturunannya yang lain" - semua orang yang mengikut Yesus. Sampai titik ini dalam pasal tersebut, polanya sudah tak terbantahkan: setiap upaya yang dilakukan naga itu berakhir dengan kegagalan.
 
-![](/images/jesus_en.jpg)
+![Diagram Wahyu 12. Ayat 1-6: Israel, sang wanita, melahirkan Yesus, sang anak; Iblis, sang naga, berusaha membinasakan-Nya; anak itu diangkat ke surga. Ayat 7-12: Mikhael dan Iblis berperang, dan Iblis dilemparkan keluar dari surga; Daniel 7 menghubungkan Anak Manusia dan Mikhael. Ayat 13-16: Iblis berusaha membinasakan Israel, yang diberi tempat yang aman. Ayat 17 dan seterusnya: Iblis menyerang jemaat, keturunan wanita itu. Apakah kamu melihat polanya?](/images/jesus_en.jpg)
 
 ## Mengapa kesusahan itu semakin hebat
 

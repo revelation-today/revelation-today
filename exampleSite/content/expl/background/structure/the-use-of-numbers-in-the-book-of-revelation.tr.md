@@ -119,7 +119,7 @@ Vahiy'in sayılarının bir katmanı daha vardır: oluşturdukları şekiller.
 - Bu iki dikdörtgenin ardındaki kareler, 36 ve 1225, 1'den sonra hem kare hem üçgen olan ilk iki sayıdır: canavarın üçgeninin Tanrı halkının karesiyle buluştuğu nokta. 1225 de 49 = 7 × 7'nin, özgürlük yılının üçgenidir.
 - Bunun bir tasarım olduğunu Yuhanna'nın dışarıda bıraktıkları düşündürür: Daniel {{% bible val="1290 ve 1335 gün" link="dan:12,11-12" lang="tr" %}} der, ama Yuhanna 1260'a ulaşmak için tam 360 günlük bir yıl hesaplar.
 
-![](/images/numbers-shapes.tr.svg)
+![Üçgen, kare ve dikdörtgen biçiminde dizilmiş çakıl taşı diyagramları. Canavar: 6 x 6 = 36 hem bir kare hem 1+2+...+8 üçgenidir; 36 üzerindeki üçgen, yani 1+2+...+36, 666'dır; 6 x 7 = 42 bir dikdörtgendir, onun zamanı olan 42 aydır. Tanrı ve halkı: 35 x 35 = 1225 hem bir kare hem 1+...+49 üçgenidir; 49, yani 7 x 7, jübile yılıdır; 35 x 36 = 1260 bir dikdörtgendir, kilisenin zamanı olan 1260 gündür. 1'den sonra hem kare hem üçgen olan tek sayılar 36 ve 1225'tir.](/images/numbers-shapes.tr.svg)
 
 **Bu sitenin eklediği: iddia ve gerçek.** Aşağıdaki gözlem bu sitenin kendisine aittir; bir yorumcu bir pasajı aynı biçimde okuyorsa adı verilir.
 
@@ -131,7 +131,7 @@ Vahiy'in sayılarının bir katmanı daha vardır: oluşturdukları şekiller.
 - İlk atlı beyaz bir atla, taç giymiş ve {{% bible val="galip gelerek" link="rev:6,2" lang="tr" %}} gelir; canavar ölümcül yarasından kurtulur, ikinci canavar da {{% bible val="büyük belirtiler" link="rev:13,3-13" lang="tr" %}} gösterir — ilk bakışta Tanrı'nınkinden daha iyi bir teklif.
 - Babil övünür: {{% bible val="Kraliçe olarak oturuyorum … asla yas görmeyeceğim" link="rev:18,7" lang="tr" %}}; Gog ile Magog da {{% bible val="deniz kumu kadar" link="rev:20,8" lang="tr" %}} bir ordu toplar — Tanrı'nın İbrahim'e vaat ettiği sayısız halkın ta kendisi olan imge.
 
-![](/images/numbers-claim.tr.svg)
+![Diyagram: canavarın her sayısı Tanrı'nın bir sayısının hemen üstünde durur. Canavarın sekizi, yani Vahiy 17:11'deki sekizinci, Tanrı'nın yedisinin üstündedir. Daniel 12:11'deki 1290 gün kilisenin 1260 gününün üstündedir. Canavarın bir sonraki karesi olan 1296, Tanrı'nın karesi olan 1225'in üstündedir. İşaya'nın Göğe Alınışı, Deccal'e 1332 gün verir.](/images/numbers-claim.tr.svg)
 
 *Gerçek — çok daha küçük.* 13. bölüm iddiayı düzeltir: sayısı {{% bible val="666" link="rev:13,18" lang="tr" %}} — altı, altı, altı, her basamakta yediden eksik (Beale, s. 64). Ve her iddia çöker:
 
@@ -151,7 +151,7 @@ Vahiy'in sayılarının bir katmanı daha vardır: oluşturdukları şekiller.
 
 Her adım sayıyı kendisiyle çarptığı için uçurum aynı kalmaz, her adımda büyür: tabanda yaklaşık 6 kat, karede yaklaşık 34 kat, üçgende 1.100 kattan fazla. Yalnızca bir adım eşit çıkar: dikdörtgenler. 42 ay ile 1260 gün aynı üç buçuk yıldır. İki taraf zamanı paylaşır; gücü paylaşmaz.
 
-![](/images/numbers-scale.tr.svg)
+![İki sütun, 6 üzerine kurulu canavarı 35 üzerine kurulu Tanrı'nın halkıyla aynı adımlarla karşılaştırır. Kare üçgene eşittir: 36, 1+...+8'dir; karşısında 1225, yani 1+...+49 durur. Dikdörtgen zamana eşittir: 42 ay karşısında 1260 gün, aynı üç buçuk yıl. Kare üzerindeki üçgen: 666 karşısında 750.925. Aradaki fark 6 katından 34 katına, oradan 1.100 katın üzerine çıkar; Tanrı'nın tarafı 2 m boyunda olsaydı canavarınki 2 mm'den kısa olurdu.](/images/numbers-scale.tr.svg)
 
 **Bu nereye kadar geçerli.** Hesap kesindir. Bauckham'ın kısmı, Yuhanna'nın bunu kastettiğine dair bilimsel bir savdır ve ilk Hristiyanlar bu oyunu gerçekten oynamıştır: *İşaya'nın Göğe Yükselişi* Deccal'a 1332 gün, 666'ya bağlı dikdörtgeni verir (Bauckham, *Climax of Prophecy*, s. 403). İddia ve gerçek örüntüsü metnin kendisine dayanır — taçlar, boynuzlar, bir saat, ateş — ve Beale canavarın taçlarını Mesih'in krallığına dair sahte iddialar olarak okur. İki sayı ailesi Bauckham'a aittir; canavarın son adımını Tanrı'nın ailesi için de atmak ve bundan doğan büyüyen uçurum bu sitenin canlandırmasıdır — gizli bir şifre olarak değil, Vahiy'in sözlerle söylediğinin bir resmi olarak sunulur: Şeytan, Tanrı'dan biraz büyük görünmeye çalışır ve çok daha küçük olduğu gösterilir.
 

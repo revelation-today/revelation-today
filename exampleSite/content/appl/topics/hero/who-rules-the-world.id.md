@@ -33,7 +33,7 @@ Tetapi {{% bible val="kuasa zaman yang akan datang sudah hadir sekarang" link="h
 
 Kita bisa membayangkannya seperti dalam gambar ini.
 
-![](/images/era_en.jpg)
+![Diagram dua zaman dalam bentuk dua garis. Zaman sekarang adalah garis bawah, zaman yang akan datang adalah garis atas. Pada kedatangan Yesus yang pertama zaman yang akan datang dimulai, dan pada kedatangan-Nya yang kedua zaman sekarang berakhir. Di antara kedua kedatangan itu kedua zaman ada berdampingan.](/images/era_en.jpg)
 
 Ada dua kerajaan yang berjalan paralel antara kedatangan Yesus yang pertama dan yang kedua. Keduanya ada berdampingan. Kerajaan Allah sudah ada, tetapi belum dalam kepenuhannya. Bisa diungkapkan sebagai "sudah, tetapi belum sepenuhnya". Penekanan berlebihan pada "sudah" akan membawa kepada
 

@@ -49,7 +49,7 @@ Filadelfia adalah jemaat lain yang dipuji Yesus tanpa syarat - kecil, letih, tak
 
 Lalu ada Laodikia: suam-suam kuku, puas diri, buta akan betapa miskinnya ia sebenarnya - satu-satunya jemaat yang tidak menerima pujian sama sekali. Namun bahkan di sini, Yesus tidak berpaling pergi. Ia mengetuk. Ia memperingatkan. Ia masih ingin masuk.
 
-![](/images/Churches_de.jpg) <!-- https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" -->
+![Peta Anatolia, yaitu Turki masa kini, dengan Patmos dan ketujuh jemaat serta masalah masing-masing. Efesus: tanpa kasih. Smirna: penjara. Pergamus: ajaran sesat. Tiatira: kepemimpinan buruk. Sardis: kekuatan sendiri. Filadelfia: miskin. Laodikia: tidak ada yang baik. Smirna dan Filadelfia, yang ditandai hijau, adalah dua jemaat tanpa teguran.](/images/Churches_de.jpg) <!-- https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" -->
 
 {{< story_links base="/quick/content/letters" appl="/appl/content/letters" expl="/expl/content/letters/the-angel-of-the-churches" kids="/kids/elementary/03-the-seven-letters" >}}
 

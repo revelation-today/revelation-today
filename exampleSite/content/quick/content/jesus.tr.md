@@ -20,7 +20,7 @@ Göğün tarafından bakıldığında aynı olay bir savaş olarak yaşanır: Mi
 
 Sonunda ejderha "kadının soyundan geri kalanlara" — İsa'yı izleyen herkese — döner. Bölümün bu noktasında örüntü artık gözden kaçmaz: ejderhanın yaptığı her bir girişim başarısızlıkla sonuçlanır.
 
-![](/images/jesus_tr.jpg)
+![Vahiy 12'nin diyagramı. 1-6. ayetler: İsrail, yani kadın, çocuk olan İsa'yı doğurur; ejderha olan Şeytan onu yok etmeye çalışır; çocuk göğe alınır. 7-12. ayetler: Mikail ile Şeytan savaşır, Şeytan gökten atılır; Daniel 7 İnsanoğlu ile Mikail'i birbirine bağlar. 13-16. ayetler: Şeytan İsrail'i yok etmeye çalışır, İsrail'e güvenli bir yer verilir. 17. ayetten sonrası: Şeytan kiliseye, yani kadının soyuna saldırır. Bir örüntü görüyor musun?](/images/jesus_tr.jpg)
 
 ## Sıkıntı neden yoğunlaşıyor?
 

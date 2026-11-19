@@ -119,7 +119,7 @@ There is one more layer to Revelation's numbers: the shapes they make.
 - The squares behind those two rectangles, 36 and 1225, are the first two numbers after 1 that are both square and triangle: the point where the beast's triangle meets the square of God's people. And 1225 is the triangle of 49 = 7 × 7, the jubilee.
 - That this is design is suggested by what John left out: Daniel gives {{% bible val="1290 and 1335 days" link="dan:12,11-12" lang="en" %}}, yet John reckons a year of exactly 360 days to arrive at 1260.
 
-![](/images/numbers-shapes.en.svg)
+![Pebble diagrams of triangles, squares and rectangles. The beast: 6 x 6 = 36 is a square and also the triangle 1+2+...+8; the triangle on 36, that is 1+2+...+36, is 666; 6 x 7 = 42 is a rectangle, the 42 months of its time. God and his people: 35 x 35 = 1225 is a square and also the triangle 1+...+49, where 49 is 7 x 7, the jubilee; 35 x 36 = 1260 is a rectangle, the 1260 days of the church's time. After 1, only 36 and 1225 are both square and triangle.](/images/numbers-shapes.en.svg)
 
 **What this site adds: the claim and the truth.** The following observation is this site's own; where a commentator reads a passage the same way, he is named.
 
@@ -131,7 +131,7 @@ There is one more layer to Revelation's numbers: the shapes they make.
 - The first rider comes on a white horse, crowned and {{% bible val="conquering" link="rev:6,2" lang="en" %}}; the beast survives its mortal wound, and the second beast works {{% bible val="great signs" link="rev:13,3-13" lang="en" %}} — on the face of it, a better offer than God's.
 - Babel boasts: {{% bible val="I sit enthroned as queen… I will never mourn" link="rev:18,7" lang="en" %}}; and Gog and Magog gather an army {{% bible val="like the sand on the seashore" link="rev:20,8" lang="en" %}} — the very image of the countless people God promised Abraham.
 
-![](/images/numbers-claim.en.svg)
+![Diagram: each number of the beast sits just above a number of God. The beast's eight, an eighth in Revelation 17:11, is above God's seven. 1290 days from Daniel 12:11 are above the church's 1260 days. 1296, the beast's next square, is above 1225, God's square. The Ascension of Isaiah gives the Antichrist 1332 days.](/images/numbers-claim.en.svg)
 
 *The truth — significantly smaller.* Chapter 13 corrects the claim: his number is {{% bible val="666" link="rev:13,18" lang="en" %}} — six, six, six, short of seven at every place (Beale, p. 64). And every claim collapses:
 
@@ -151,7 +151,7 @@ There is one more layer to Revelation's numbers: the shapes they make.
 
 Because every step multiplies the number by itself, the gap does not stay the same but grows with each step: about 6 times at the base, about 34 times for the square, more than 1,100 times for the triangle. Only one step comes out equal: the rectangles. 42 months and 1260 days are the same three and a half years. The two sides share the time; they do not share the power.
 
-![](/images/numbers-scale.en.svg)
+![Two columns compare the beast, built on 6, with God's people, built on 35, using the same steps. Square equals triangle: 36 is 1+...+8, against 1225, which is 1+...+49. Rectangle equals time: 42 months against 1260 days, the same three and a half years. Triangle on the square: 666 against 750,925. The gap grows from 6 times to 34 times to over 1,100 times; if God's side stood 2 m tall, the beast's would be under 2 mm.](/images/numbers-scale.en.svg)
 
 **How far this holds.** The arithmetic is exact. Bauckham's part is a scholarly argument that John meant it, and early Christians did play this game: the *Ascension of Isaiah* gives the Antichrist 1332 days, the rectangle tied to 666 (Bauckham, *Climax of Prophecy*, p. 403). The pattern of claim and truth rests on the text itself — the crowns, the horns, the one hour, the fire — and Beale reads the beast's crowns as false claims to Christ's kingship. The two number families are Bauckham's; taking the beast's last step for God's family too, and the growing gap that results, are this site's illustration — offered not as a hidden code but as a picture of what Revelation says in words: Satan tries to look slightly bigger than God, and is shown to be significantly smaller.
 

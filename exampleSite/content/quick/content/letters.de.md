@@ -78,4 +78,4 @@ Der Reichtum von Laodizea hat die Gemeinde blind für ihre eigene Armut gemacht 
 
 [Die ausführlichere Erklärung und jeden einzelnen Brief lesen →]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})
 
-![](/images/Churches_de.jpg)
+![Karte Anatoliens, der heutigen Türkei, mit Patmos und den sieben Gemeinden und dem Problem jeder Gemeinde. Ephesus: keine Liebe. Smyrna: Gefängnis. Pergamon: falsche Lehre. Thyatira: schlechte Leitung. Sardes: eigene Kraft. Philadelphia: arm. Laodizea: nichts Gutes. Smyrna und Philadelphia, grün markiert, sind die beiden ohne Tadel.](/images/Churches_de.jpg)

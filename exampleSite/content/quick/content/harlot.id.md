@@ -16,7 +16,7 @@ kids: /kids/elementary/14-the-harlot-and-the-bride
 
 Sama seperti meterai-meterai dan sangkakala-sangkakala yang masing-masing memiliki penglihatan pelengkap, bagian ini melengkapi cawan-cawan, dengan menghimpun segala kejahatan sejauh ini ke dalam satu gambaran: seorang pelacur bernama Babel, menunggangi seekor binatang yang mengendalikan raja-raja di bumi, memanipulasi para penguasa dan membunuh mereka yang bersaksi.
 
-![](/images/Hure+Tier_en.jpg)
+![Diagram tentang pelacur dan binatang buas. Yesus memimpin orang-orang kudus, yaitu mempelai. Kesepuluh tanduk, yaitu sepuluh raja, menyerang orang-orang kudus, memberi kuasa kepada binatang pertama yang melambangkan kekerasan, dan membinasakan pelacur itu. Pelacur itu adalah binatang kedua; ia menunggangi binatang pertama dan menipu raja-raja bumi. Tujuh kepala adalah tujuh raja dan tujuh bukit, yaitu Roma. Penduduk bumi takjub.](/images/Hure+Tier_en.jpg)
 
 Ia tampak tak terbendung - tetapi binatang yang sama, yang dalam pasal 13 tampak tak terkalahkan, kini secara terang-terangan diejek sebagai tidak dapat diandalkan, tiruan yang memudar di samping Allah yang sungguh-sungguh "ada, dan sudah ada, dan yang akan datang" ({{% bible val="Wahyu 1:8" link="rev:1,8" lang="id" %}}). Baik binatang maupun pelacur itu pada akhirnya tidak menang atas orang-orang kudus; sebaliknya, justru raja-raja yang memberi kuasa kepada binatang itu berbalik dan menghancurkan sang pelacur sendiri - karena Allah telah merencanakannya demikian sejak semula.
 
@@ -28,7 +28,7 @@ Di balik permukaan, perdagangannya menggemakan kelaparan pada meterai ketiga: or
 
 Ketika Yesus turun tangan, sang pelacurlah - bukan gereja - yang menjadi sasaran, dihakimi oleh raja-raja yang dahulu melayani binatang itu. Sombong dan yakin akan keamanannya sendiri, kejatuhannya datang dengan tiba-tiba, persis seperti yang terjadi pada Babel yang historis, dan dengan takaran yang sama seperti yang ia timpakan kepada orang lain.
 
-![](/images/Hure_en.jpg)
+![Diagram siklus. Pelacur itu mirip dengan imam besar, hal itu mengarah pada penyembahan berhala, yang memengaruhi perdagangan, yang menjadi nyata dalam eksploitasi, dan eksploitasi itu kembali menggambarkan pelacur tersebut.](/images/Hure_en.jpg)
 
 Mengapa kitab ini menghabiskan lebih dari dua pasal untuknya? Karena "menjadi bagian dari" sang pelacur ({{% bible val="Wahyu 18:4" link="rev:18,4" lang="id" %}}) - menukar kesetiaan dengan kekayaan, sebagaimana penyembahan dan perdagangan saling terikat di dunia kuno - mengubah cara manusia diperlakukan, dari dipedulikan menjadi dipakai.
 

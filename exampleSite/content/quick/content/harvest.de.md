@@ -18,7 +18,7 @@ Bevor das Gericht über die Anhänger des Tieres hereinbricht, verkündet zuerst
 
 Die übrigen Szenen beschreiben zwei Ernten. Die erste ist eine Getreideernte, eingebracht von einer Gestalt, die dem Menschensohn gleicht - die Treuen, die einfach eingesammelt werden, ohne dass ein Gericht damit verbunden wäre. Die zweite ist eine Traubenernte, geworfen in "die große Kelter des Zornes Gottes", zertreten, bis Blut fließt - die Anhänger des Tieres, die gerichtet statt eingesammelt werden.
 
-![](/images/harvest_de.jpg)
+![Diagramm der sieben Engel aus Offenbarung 14. Erster Engel: Evangelium für alle. Zweiter Engel: Gericht über Babylon. Dritter Engel: Gericht über die Anhänger des Tieres. Vierter Engel: ruft die Getreideernte aus und sieht aus wie der Menschensohn, Jesus. Fünfter Engel: erntet das Getreide, Rettung. Sechster Engel: ruft die Traubenernte aus. Siebter Engel: keltert die Trauben, Gericht.](/images/harvest_de.jpg)
 
 Damit schließt sich der Kreis zu jenem ersten Engel: Haben die Völker die Nachricht, die ihnen verkündet wurde, wirklich angenommen? Das war der Inhalt der {{% int_link val="kleinen Schriftrolle" link="/quick/content/scroll" %}} in Kapitel 10 - die Gemeinden, die das Lebensmuster Christi zu den Völkern tragen, damit die Ernte sie einsammelt, statt sie zu richten.
 

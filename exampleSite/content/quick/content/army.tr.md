@@ -28,7 +28,7 @@ Ama Yuhanna baktığında *gördüğü* şey bambaşkadır: "her ulustan, her oy
 
 Büyük Sıkıntı yalnızca hâlâ gelecekte olan bir olay değildir — Vahiy onu çoktan başlamış bir şeye bağlar: İsa'nın çarmıhtaki ölümüne ve Şeytan'ın gökten kovulmasına (daha sonra, 12. bölümde anlatılan bir sahne). İsa'yı izleyen herkes ona ortak olur ve o, tarihin sonuna doğru şiddetlenir — sunağın altındaki şehitlerin zaten içine çekildiği örüntü budur.
 
-![](/images/Drangsal_tr.jpg)
+![Dört neden-sonuç zincirini gösteren diyagram. İsrail itaat eder: Tanrı korur, Şeytan ve düşmanlar saldırır, Tanrı'nın bereketi. İsrail itaatsizlik eder: Tanrı cezalandırır, Şeytan ve düşmanlar saldırır, acı. İsa itaat eder: Tanrı oradadır, Şeytan tahtından indirilir, Şeytan acımasızlaşır. Sonra kilise: Tanrı onu mühürler, Şeytan saldırır, acı; karışık kırmızı ve yeşil renkle gösterilmiştir.](/images/Drangsal_tr.jpg)
 
 
 ## Önemli imgeler

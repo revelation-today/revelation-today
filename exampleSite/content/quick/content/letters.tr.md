@@ -78,4 +78,4 @@ Laodikya'nın zenginliği onu kendi yoksulluğuna karşı kör etmiştir — "ı
 
 [Daha ayrıntılı açıklamayı ve her bir mektubu oku →]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})
 
-![](/images/Churches_tr.jpg)
+![Anadolu'nun, yani bugünkü Türkiye'nin haritası; Patmos, yedi kilise ve her birinin sorunu gösteriliyor. Efes: sevgisizlik. Smirna: hapis. Bergama: yanlış öğreti. Tiyatira: kötü önderlik. Sardis: kendi gücü. Filadelfiya: yoksul. Laodikya: iyi bir şey yok. Yeşil işaretli Smirna ve Filadelfiya azarlanmayan iki kilisedir.](/images/Churches_tr.jpg)

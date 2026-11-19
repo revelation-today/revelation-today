@@ -33,7 +33,7 @@ Ancak İsa geldiğinde bu gerçekleşmemiştir. {{% bible val="Markos" link="mrk
 
 Buna aşağıdaki şekilde bakabiliriz.
 
-![](/images/era_tr.jpg)
+![İki çağı iki çizgi olarak gösteren diyagram. Mevcut çağ alttaki, gelecek çağ üstteki çizgidir. İsa'nın birinci gelişinde gelecek çağ başlar, ikinci gelişinde mevcut çağ sona erer. İki geliş arasında iki çağ yan yana vardır.](/images/era_tr.jpg)
 
 İsa’nın birinci ve ikinci gelişi arasında iki paralel âlem vardır. Bunlar bir arada var olurlar. Tanrı’nın krallığı oradadır ama tam olarak değil.
 

@@ -28,7 +28,7 @@ Tetapi apa yang *dilihat* Yohanes ketika ia memandang sama sekali berbeda: kumpu
 
 Kesusahan Besar bukan hanya peristiwa masa depan yang masih akan datang - kitab Wahyu mengaitkannya dengan sesuatu yang sudah dimulai: kematian Yesus di kayu salib dan pengusiran Iblis dari surga (adegan yang digambarkan kemudian, dalam pasal 12). Semua orang yang mengikut Yesus mengambil bagian di dalamnya, dan penderitaan itu makin berat menjelang akhir sejarah - pola yang sudah dialami para martir di bawah mezbah.
 
-![](/images/Drangsal_en.jpg)
+![Diagram empat rantai sebab dan akibat. Israel taat: Allah melindungi, Iblis dan musuh menyerang, berkat Allah. Israel tidak taat: Allah menghukum, Iblis dan musuh menyerang, penderitaan. Yesus taat: Allah hadir, Iblis dilengserkan, Iblis menjadi kejam. Lalu jemaat: Allah memeteraikannya, Iblis menyerang, penderitaan, digambarkan dengan warna merah dan hijau bercampur.](/images/Drangsal_en.jpg)
 
 
 ## Gambaran penting

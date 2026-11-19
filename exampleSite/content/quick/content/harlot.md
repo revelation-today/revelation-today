@@ -16,7 +16,7 @@ kids: /kids/elementary/14-the-harlot-and-the-bride
 
 Just as the seals and the trumpets each had a supplementary vision, this section supplements the bowls, gathering everything evil so far into one image: a harlot named Babel, riding a beast that controls the kings of the earth, manipulating rulers and killing those who testify.
 
-![](/images/Hure+Tier_en.jpg)
+![Diagram of the harlot and the beast. Jesus leads the saints, the bride. The ten horns, the ten kings, attack the saints, give power to the first beast, which stands for violence, and destroy the harlot. The harlot is the second beast; she rides the first beast and deceives the kings of the earth. The seven heads are seven kings and seven hills, meaning Rome. The people on earth are astonished.](/images/Hure+Tier_en.jpg)
 
 It looks unstoppable - but the same beast that seemed invincible in chapter 13 is now openly mocked as unreliable, a fading imitation next to the God who truly "is, and was, and is to come" ({{% bible val="Revelation 1:8" link="rev:1,8" lang="en" %}}). Neither beast nor harlot ultimately triumphs over the saints; instead, the very kings who empowered the beast turn and destroy the harlot themselves - because God has planned it that way all along.
 
@@ -28,7 +28,7 @@ Underneath the surface, her trade echoes the hunger of the third seal: the poor 
 
 When Jesus intervenes, it's the harlot - not the church - who becomes the target, judged by the very kings who once served the beast. Proud and certain of her own security, her downfall comes suddenly, exactly as it did for historical Babel, and in the same measure she dealt out to others.
 
-![](/images/Hure_en.jpg)
+![Cycle diagram. The harlot is similar to the high priest, which leads to idol worship, which impacts trade, which becomes real in exploitation, which in turn describes the harlot.](/images/Hure_en.jpg)
 
 Why does the book spend more than two chapters on her? Because being "part of" the harlot ({{% bible val="Revelation 18:4" link="rev:18,4" lang="en" %}}) - trading loyalty for wealth, the way worship and commerce were tied together in the ancient world - changes how people get treated, from care toward use.
 

@@ -18,7 +18,7 @@ Tipu daya itulah yang lebih banyak menyingkapkan. Sang naga, disertai seekor bin
 
 Betapapun meyakinkannya tiruan itu pada pandangan pertama, perbedaannya bersifat menentukan. Yesus memerintah melalui kasih, dalam kelemahan yang tampak, rela ditolak. Sistem Iblis memerintah melalui ketakutan, manipulasi, penganiayaan, dan kematian, dan sama sekali tidak pernah sanggup menunjukkan kelemahan.
 
-![](/images/trinity_en.jpg)
+![Tabel tiga tokoh dengan empat tema. Penipuan: penunggang kuda pertama dalam pasal 6 adalah pemenang yang penuh janji, naga dalam pasal 13 memanggil kedua binatang dan menciptakan tritunggal palsu. Kekuasaan: penunggang kedua membawa perang dan pedang; binatang pertama tidak terkalahkan; dalam pasal 17 binatang berkepala tujuh dan bertanduk sepuluh berperang, dan raja-raja memberinya kuasa. Ekonomi dan masyarakat: penunggang ketiga membawa ketidakadilan, kemiskinan, dan kelaparan; binatang kedua melakukan mukjizat, menaruh tanda pada tangan dan dahi, dan mengendalikan jual beli; pelacur itu memikat raja-raja dengan kekayaan dan eksploitasi. Ringkasan: penunggang keempat membawa kehancuran, kematian, dan wabah.](/images/trinity_en.jpg)
 
 Kontras itulah, menurut kitab ini, yang seharusnya membedakan jemaat-jemaat itu dari semua orang yang terpedaya oleh tiruan tersebut: bukan kuasa yang lebih besar, melainkan kerelaan untuk mengasihi tanpa ketakutan atau manipulasi di baliknya.
 

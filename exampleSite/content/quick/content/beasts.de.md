@@ -18,7 +18,7 @@ Die Täuschung ist die aufschlussreichere von beiden. Der Drache bildet zusammen
 
 So überzeugend die Fälschung auf den ersten Blick wirkt - die Unterschiede sind entscheidend. Jesus herrscht durch Liebe, in scheinbarer Schwäche, bereit, abgelehnt zu werden. Satans System herrscht durch Angst, Manipulation, Verfolgung und Tod - und kann es sich niemals leisten, Schwäche zu zeigen.
 
-![](/images/trinity_de.jpg)
+![Tabelle mit drei Gestalten und vier Themen. Täuschung: Der erste Reiter aus Kapitel 6 ist ein Sieger mit Versprechungen, der Drache aus Kapitel 13 ruft die Tiere und schafft eine falsche Dreieinigkeit. Macht: Der zweite Reiter bringt Krieg und Schwert; das erste Tier ist unbesiegbar; in Kapitel 17 führt ein Tier mit 7 Köpfen und 10 Hörnern Krieg, und Könige geben ihm Macht. Wirtschaft und Gesellschaft: Der dritte Reiter bringt Ungerechtigkeit, Armut und Hunger; das zweite Tier wirkt Wunder, setzt ein Malzeichen auf Hand und Stirn und beherrscht Kaufen und Verkaufen; die Hure verführt die Könige mit Reichtum und Ausbeutung. Zusammenfassung: Der vierte Reiter bringt Zerstörung, Tod und Seuche.](/images/trinity_de.jpg)
 
 Genau an diesem Kontrast, so sagt das Buch, sollen sich die Gemeinden von allen unterscheiden, die auf die Fälschung hereinfallen: nicht an größerer Macht, sondern an der Bereitschaft zu lieben, ohne Angst oder Manipulation im Rücken.
 

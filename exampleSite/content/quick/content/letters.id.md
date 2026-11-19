@@ -78,4 +78,4 @@ Kekayaan Laodikia telah membuatnya buta terhadap kemiskinannya sendiri - "suam-s
 
 [Baca penjelasan yang lebih lengkap dan setiap surat satu per satu →]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})
 
-![](/images/Churches_en.jpg)
+![Peta Anatolia, yaitu Turki masa kini, dengan Patmos dan ketujuh jemaat serta masalah masing-masing. Efesus: tanpa kasih. Smirna: penjara. Pergamus: ajaran sesat. Tiatira: kepemimpinan buruk. Sardis: kekuatan sendiri. Filadelfia: miskin. Laodikia: tidak ada yang baik. Smirna dan Filadelfia, yang ditandai hijau, adalah dua jemaat tanpa teguran.](/images/Churches_en.jpg)

@@ -28,7 +28,7 @@ Doch was Johannes *sieht*, als er hinschaut, ist etwas ganz anderes: eine unzäh
 
 Die Große Trübsal ist nicht nur ein zukünftiges Ereignis, das noch aussteht - die Offenbarung verbindet sie mit etwas, das bereits begonnen hat: dem Tod Jesu am Kreuz und der Vertreibung Satans aus dem Himmel (eine Szene, die später in Kapitel 12 beschrieben wird). Alle, die Jesus folgen, haben Anteil an ihr, und sie verschärft sich zum Ende der Geschichte hin - genau das Muster, in dem die Märtyrer unter dem Altar schon standen.
 
-![](/images/Drangsal_de.jpg)
+![Diagramm mit vier Ursache-Wirkung-Ketten. Israel gehorcht: Gott schützt, Satan und Feinde greifen an, Gottes Segen. Israel ist ungehorsam: Gott straft, Satan und Feinde greifen an, Leid. Jesus gehorcht: Gott ist da, Satan wird entthront, Satan wird rücksichtslos. Dann die Gemeinde: Gott versiegelt sie, Satan greift an, Leid, in gemischtem Rot und Grün dargestellt.](/images/Drangsal_de.jpg)
 
 
 ## Schlüsselbilder

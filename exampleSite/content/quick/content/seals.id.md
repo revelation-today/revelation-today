@@ -20,7 +20,7 @@ Yang pertama tampak seperti seorang penakluk: kuda putih, mahkota, panah, maju u
 
 Penunggang pertama itulah yang diperdebatkan para pembaca, sebab Kristus sendiri menunggang kuda putih di bagian akhir kitab ini ({{% bible val="pasal 19" link="rev:19" lang="id" %}}). Kitab Wahyu berulang kali menghadirkan tokoh-tokoh yang mirip seperti ini, dan pendiriannya adalah bahwa kuasa yang menjanjikan kemenangan di sini hanyalah tiruan: ia sanggup menaklukkan, menakut-nakuti dan membuat orang kelaparan, tetapi tidak menciptakan apa pun dari dirinya sendiri. Tiruan tiga bagian yang sama muncul lagi dalam {{% bible val="pasal 13" link="rev:13" lang="id" %}} dengan {{% int_link val="naga dan kedua binatang" link="/quick/content/beasts" %}}, dan dalam {{% bible val="pasal 17" link="rev:17" lang="id" %}} dengan {{% int_link val="pelacur dan binatang itu" link="/quick/content/harlot" %}}.
 
-![](/images/trinity_en.jpg)
+![Tabel tiga tokoh dengan empat tema. Penipuan: penunggang kuda pertama dalam pasal 6 adalah pemenang yang penuh janji, naga dalam pasal 13 memanggil kedua binatang dan menciptakan tritunggal palsu. Kekuasaan: penunggang kedua membawa perang dan pedang; binatang pertama tidak terkalahkan; dalam pasal 17 binatang berkepala tujuh dan bertanduk sepuluh berperang, dan raja-raja memberinya kuasa. Ekonomi dan masyarakat: penunggang ketiga membawa ketidakadilan, kemiskinan, dan kelaparan; binatang kedua melakukan mukjizat, menaruh tanda pada tangan dan dahi, dan mengendalikan jual beli; pelacur itu memikat raja-raja dengan kekayaan dan eksploitasi. Ringkasan: penunggang keempat membawa kehancuran, kematian, dan wabah.](/images/trinity_en.jpg)
 
 ## Jiwa-jiwa di bawah mezbah
 

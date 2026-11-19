@@ -33,7 +33,7 @@ But the {{% bible val="power of the coming age is already available" link="heb:6
 
 We can look at it in the following way.
 
-![](/images/era_en.jpg)
+![Diagram of two ages as two lines. The current era is the lower line, the coming era the higher line. At Jesus' first coming the coming era begins, and at his second coming the current era ends. Between the two comings both eras exist side by side.](/images/era_en.jpg)
 
 There are two parallel realms between the first and second coming of Jesus. They coexist. God’s kingdom is there, but not fully.
 

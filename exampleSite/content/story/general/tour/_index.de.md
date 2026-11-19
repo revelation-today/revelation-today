@@ -65,7 +65,7 @@ Philadelphia ist die andere Gemeinde, die Jesus ohne Einschränkung lobt - klein
 
 Dann ist da noch Laodizea: lauwarm, selbstzufrieden, blind dafür, wie arm sie wirklich ist - die einzige Gemeinde, die kein Lob erhält. Und doch wendet Jesus sich selbst hier nicht ab. Er klopft an. Er warnt. Er will immer noch hinein.
 
-![](/images/Churches_de.jpg) <!-- https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" -->
+![Karte Anatoliens, der heutigen Türkei, mit Patmos und den sieben Gemeinden und dem Problem jeder Gemeinde. Ephesus: keine Liebe. Smyrna: Gefängnis. Pergamon: falsche Lehre. Thyatira: schlechte Leitung. Sardes: eigene Kraft. Philadelphia: arm. Laodizea: nichts Gutes. Smyrna und Philadelphia, grün markiert, sind die beiden ohne Tadel.](/images/Churches_de.jpg) <!-- https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" -->
 
 {{< story_links base="/quick/content/letters" appl="/appl/content/letters" expl="/expl/content/letters/the-angel-of-the-churches" kids="/kids/elementary/03-the-seven-letters" >}}
 

@@ -28,7 +28,7 @@ But what John *sees* when he looks is entirely different: an uncountable multitu
 
 The Great Tribulation isn't only a future event still to come - Revelation ties it to something that already began: Jesus' death on the cross and Satan's expulsion from heaven (a scene described later, in chapter 12). All who follow Jesus share in it, and it grows more severe toward the end of history - the pattern the martyrs under the altar were already caught up in.
 
-![](/images/Drangsal_en.jpg)
+![Diagram of four chains of cause and effect. Israel obeys: God protects, Satan and enemies attack, God blesses. Israel disobeys: God punishes, Satan and enemies attack, suffering. Jesus obeys: God is there, Satan is dethroned, Satan becomes ruthless. Then the church: God seals it, Satan attacks, suffering, shown in mixed red and green.](/images/Drangsal_en.jpg)
 
 
 ## Key images

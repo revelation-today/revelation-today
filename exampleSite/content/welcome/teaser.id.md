@@ -15,15 +15,15 @@ Apa pun yang membawa Anda ke sini - selamat datang. Anda tidak perlu pengetahuan
 
 Inilah kebenaran yang jujur: Kitab Wahyu punya masalah citra. Kitab ini pernah dipakai untuk menjual kalender kiamat, memicu film-film buruk, dan menakut-nakuti orang agar datang ke gereja. Jika itulah gambaran yang Anda miliki tentang kitab ini, Anda tidak sepenuhnya salah - memang begitulah kitab ini sering "dijual."
 
-![](/images/Crazy.jpg)
+![Kolase dari tinta, cat air, dan kertas koran: penunggang kuda putih, naga hijau dengan banyak kepala yang menyemburkan api, seorang wanita berbaju merah muda, piring terbang dengan sinar jingga, mobil biru yang hancur, mesin berkaki dengan satu mata merah, angka 666, dan seorang anak berambut merah yang ketakutan di sudut.](/images/Crazy.jpg)
 
 Tapi bukan itulah kitab ini sebenarnya. Kitab ini ditulis untuk tujuh jemaat sungguhan, di tujuh kota sungguhan, pada masa ketika mengikut Yesus bisa membuat Anda kehilangan usaha, reputasi, keamanan, bahkan nyawa. Kitab ini bukan terutama teka-teki untuk dipecahkan atau hitungan mundur menuju bencana di masa depan. Ini adalah surat kepada orang-orang biasa yang patah semangat dan tertekan, mengingatkan mereka siapa yang sebenarnya berkuasa atas dunia ini - dan mengapa itu adalah kabar baik.
 
 Dan justru karena itulah kitab ini masih relevan sampai sekarang. Kita mungkin tidak berhadapan dengan kaisar Romawi yang menuntut penyembahan, tapi kita tahu rasanya kewalahan oleh berita buruk, tidak yakin harus percaya kepada siapa, tergoda untuk ikut arus demi kenyamanan hidup. Kitab ini ditulis untuk orang-orang yang persis berada dalam situasi itu. Inti dari kitab ini tidak pernah benar-benar tentang bencana masa depan - intinya adalah Yesus, dan apa artinya benar-benar menyembah Dia, bukan hal lain yang bersaing untuk tempat itu dalam hidup kita.
 
 <div style="display:flex; gap:1em; flex-wrap:wrap; margin: 1.5em 0;">
-  {{< static_img src="images/ww3.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="" >}}
-  {{< static_img src="images/everyday.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="" >}}
+  {{< static_img src="images/ww3.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="Lukisan awan jamur berwarna merah, jingga, dan krem yang membubung di langit merah tua dan hitam." >}}
+  {{< static_img src="images/everyday.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="Lukisan dapur biasa dalam nuansa kuning dan merah muda: wajan di atas kompor, mesin kopi dengan teko kaca kosong, spons dan botol sabun cuci piring di dekat bak cuci, serta kap lampu merah di atas meja." >}}
 </div>
 
 ## Apa yang bisa Anda harapkan

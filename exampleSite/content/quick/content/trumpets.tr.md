@@ -24,7 +24,7 @@ Mısır'ın belaları örnek alınarak biçimlendirilen ilk dört borazan, insan
 
 Bu arada kilise — 7. bölümde zaten mühürlenmiş olan — beşinci borazanın işkencesinden özellikle ayrı tutulur ({{% bible val="Vahiy 9:4-6" link="rev:9,4-6" lang="tr" %}}). Bu, rahat bir yolculuk demek değildir: imanlılar da aynı güvenceleri yitirir, kimileri yaşamını kaybeder. Ama bu kaybı umudu yitirmeden göğüslemek, izleyen dünyaya gerçek güvencenin neye benzediğini gösteren tam da o tür bir tanıklık haline gelir.
 
-![](/images/trumpets_tr.jpg)
+![İlk altı borunun diyagramı. 1'den 4'e kadar borular güvenceleri ortadan kaldırır. Tanrı kiliseye bakar, ama iman etmeyenler korkar. 5. boru, umutsuzluk, ve 6. boru, ölüm, şeytani alana aittir. Belalar şeytani olana tutunan iman etmeyenleri vurur; kilise ölümden korkmaz.](/images/trumpets_tr.jpg)
 
 
 ## Önemli imgeler

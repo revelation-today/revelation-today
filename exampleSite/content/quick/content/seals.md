@@ -20,7 +20,7 @@ The first looks like a conqueror: white horse, crown, bow, riding out to win. Th
 
 The first rider is the one readers argue over, because Christ rides a white horse himself later in the book ({{% bible val="chapter 19" link="rev:19" lang="en" %}}). Revelation keeps setting up look-alikes like this, and its case is that the power promising victory here is an imitation: it can conquer, frighten and starve, but it makes nothing of its own. The same three-part imitation returns in {{% bible val="chapter 13" link="rev:13" lang="en" %}} with the {{% int_link val="dragon and the two beasts" link="/quick/content/beasts" %}}, and in {{% bible val="chapter 17" link="rev:17" lang="en" %}} with the {{% int_link val="harlot and the beast" link="/quick/content/harlot" %}}.
 
-![](/images/trinity_en.jpg)
+![Table of three figures against four themes. Deception: the first horseman of chapter 6 is a victor with promises, the dragon of chapter 13 calls the beasts and creates a counterfeit trinity. Power: the second horseman brings war and the sword; the first beast is invincible; in chapter 17 an animal with 7 heads and 10 horns wages war, and kings give it power. Economy and society: the third horseman brings injustice, poverty and hunger; the second beast works miracles, puts a mark on hand and forehead and controls buying and selling; the harlot seduces kings with riches and exploitation. Summary: the fourth horseman brings destruction, death and plague.](/images/trinity_en.jpg)
 
 ## The souls under the altar
 

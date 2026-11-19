@@ -24,7 +24,7 @@ Inilah kejutannya: alih-alih hanya semakin mengeraskan hati manusia, kitab Wahyu
 
 Sementara itu, gereja - yang sudah dimeteraikan dalam pasal 7 - secara khusus dikecualikan dari siksaan sangkakala kelima ({{% bible val="Wahyu 9:4-6" link="rev:9,4-6" lang="id" %}}). Itu tidak berarti perjalanan yang mudah: orang-orang percaya tetap kehilangan rasa aman yang sama, dan sebagian kehilangan nyawa. Tetapi menanggung kehilangan itu tanpa kehilangan harapan justru menjadi kesaksian yang memperlihatkan kepada dunia yang menyaksikannya seperti apa rasa aman yang sejati.
 
-![](/images/trumpets_en.jpg)
+![Diagram enam sangkakala pertama. Sangkakala 1 sampai 4 menyingkirkan rasa aman. Allah menyediakan bagi jemaat, tetapi orang-orang yang tidak percaya merasa takut. Sangkakala 5, keputusasaan, dan sangkakala 6, kematian, termasuk ranah iblis. Bencana menimpa orang-orang yang tidak percaya, yang berpegang pada hal-hal iblis; jemaat tidak takut mati.](/images/trumpets_en.jpg)
 
 
 ## Gambaran penting

@@ -119,7 +119,7 @@ Die Zahlen der Offenbarung haben noch eine weitere Schicht: die Formen, die sie 
 - Die Quadrate hinter diesen beiden Rechtecken, 36 und 1225, sind nach der 1 die ersten beiden Zahlen, die zugleich Quadrat und Dreieck sind: der Punkt, an dem das Dreieck des Tieres auf das Quadrat des Volkes Gottes trifft. Und 1225 ist das Dreieck der 49 = 7 × 7, des Jubeljahres.
 - Dass hier Absicht vorliegt, legt nahe, was Johannes weggelassen hat: Daniel nennt {{% bible val="1290 und 1335 Tage" link="dan:12,11-12" lang="de" %}}, doch Johannes rechnet mit einem Jahr von genau 360 Tagen, um auf 1260 zu kommen.
 
-![](/images/numbers-shapes.de.svg)
+![Kieselstein-Diagramme aus Dreiecken, Quadraten und Rechtecken. Das Tier: 6 x 6 = 36 ist ein Quadrat und zugleich das Dreieck 1+2+...+8; das Dreieck über 36, also 1+2+...+36, ist 666; 6 x 7 = 42 ist ein Rechteck, die 42 Monate seiner Zeit. Gott und sein Volk: 35 x 35 = 1225 ist ein Quadrat und zugleich das Dreieck 1+...+49, wobei 49 gleich 7 x 7 ist, das Jubeljahr; 35 x 36 = 1260 ist ein Rechteck, die 1260 Tage der Zeit der Gemeinde. Nach der 1 sind nur 36 und 1225 zugleich Quadrat und Dreieck.](/images/numbers-shapes.de.svg)
 
 **Was diese Seite hinzufügt: Anspruch und Wirklichkeit.** Die folgende Beobachtung ist eine eigene dieser Seite; wo ein Ausleger eine Stelle ebenso liest, wird er genannt.
 
@@ -131,7 +131,7 @@ Die Zahlen der Offenbarung haben noch eine weitere Schicht: die Formen, die sie 
 - Der erste Reiter kommt auf einem weißen Pferd, gekrönt und {{% bible val="siegend" link="rev:6,2" lang="de" %}}; das Tier überlebt seine Todeswunde, und das zweite Tier tut {{% bible val="große Zeichen" link="rev:13,3-13" lang="de" %}} — auf den ersten Blick ein besseres Angebot als das Gottes.
 - Babel prahlt: {{% bible val="Ich throne als Königin … Trauer werde ich nicht sehen" link="rev:18,7" lang="de" %}}; und Gog und Magog sammeln ein Heer {{% bible val="wie der Sand am Meer" link="rev:20,8" lang="de" %}} — genau das Bild des unzählbaren Volkes, das Gott Abraham verheißen hat.
 
-![](/images/numbers-claim.de.svg)
+![Diagramm: Jede Zahl des Tieres liegt knapp über einer Zahl Gottes. Die Acht des Tieres, ein Achter in Offenbarung 17,11, über Gottes Sieben. 1290 Tage aus Daniel 12,11 über den 1260 Tagen der Gemeinde. 1296, das nächste Quadrat des Tieres, über 1225, Gottes Quadrat. Die Himmelfahrt des Jesaja gibt dem Antichristen 1332 Tage.](/images/numbers-claim.de.svg)
 
 *Die Wirklichkeit — deutlich kleiner.* Kapitel 13 berichtigt den Anspruch: Seine Zahl ist {{% bible val="666" link="rev:13,18" lang="de" %}} — sechs, sechs, sechs, an jeder Stelle unter der Sieben (Beale, S. 64). Und jeder Anspruch bricht zusammen:
 
@@ -151,7 +151,7 @@ Die Zahlen der Offenbarung haben noch eine weitere Schicht: die Formen, die sie 
 
 Weil jeder Schritt die Zahl mit sich selbst malnimmt, bleibt die Kluft nicht gleich, sondern wächst mit jedem Schritt: etwa das 6-Fache bei der Grundzahl, etwa das 34-Fache beim Quadrat, mehr als das 1.100-Fache beim Dreieck. Nur ein Schritt geht gleich auf: die Rechtecke. 42 Monate und 1260 Tage sind dieselben dreieinhalb Jahre. Die beiden Seiten teilen die Zeit, nicht die Macht.
 
-![](/images/numbers-scale.de.svg)
+![Zwei Spalten vergleichen das Tier, auf 6 gebaut, mit Gottes Volk, auf 35 gebaut, in denselben Schritten. Quadrat gleich Dreieck: 36 ist 1+...+8, gegenüber 1225, das ist 1+...+49. Rechteck gleich Zeit: 42 Monate gegenüber 1260 Tagen, dieselben dreieinhalb Jahre. Dreieck über dem Quadrat: 666 gegenüber 750.925. Die Kluft wächst vom 6-Fachen über das 34-Fache auf über das 1.100-Fache; wäre Gottes Seite 2 m groß, wäre die des Tieres kleiner als 2 mm.](/images/numbers-scale.de.svg)
 
 **Wie weit das trägt.** Die Rechnung stimmt genau. Bauckhams Teil ist ein wissenschaftliches Argument dafür, dass Johannes es so gemeint hat, und frühe Christen haben dieses Spiel tatsächlich gespielt: Die *Himmelfahrt des Jesaja* gibt dem Antichristen 1332 Tage, das mit 666 verbundene Rechteck (Bauckham, *Climax of Prophecy*, S. 403). Das Muster von Anspruch und Wirklichkeit beruht auf dem Text selbst — die Kronen, die Hörner, die eine Stunde, das Feuer —, und Beale liest die Kronen des Tieres als falsche Ansprüche auf Christi Königtum. Die beiden Zahlenfamilien stammen von Bauckham; den letzten Schritt des Tieres auch für Gottes Familie zu gehen, und die wachsende Kluft, die daraus folgt, sind die Veranschaulichung dieser Seite — nicht als versteckter Code gemeint, sondern als Bild dessen, was die Offenbarung mit Worten sagt: Satan versucht, etwas größer als Gott zu wirken, und wird als deutlich kleiner gezeigt.
 

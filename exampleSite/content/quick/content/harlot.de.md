@@ -16,7 +16,7 @@ kids: /kids/elementary/14-the-harlot-and-the-bride
 
 So wie die Siegel und die Posaunen jeweils eine ergänzende Vision hatten, ergänzt dieser Abschnitt die Schalen und fasst alles bisherige Böse in einem Bild zusammen: eine Hure namens Babel, die auf einem Tier reitet, das die Könige der Erde beherrscht, die Herrscher manipuliert und die tötet, die Zeugnis ablegen.
 
-![](/images/Hure+Tier_de.jpg)
+![Diagramm der Hure und des Tieres. Jesus führt die Heiligen, die Braut. Die zehn Hörner, die zehn Könige, greifen die Heiligen an, geben dem ersten Tier Macht, das für Gewalt steht, und vernichten die Hure. Die Hure ist das zweite Tier; sie sitzt auf dem ersten Tier und täuscht die Könige der Erde. Die sieben Köpfe sind sieben Könige und sieben Hügel, das heißt Rom. Die Menschen auf der Erde staunen.](/images/Hure+Tier_de.jpg)
 
 Das sieht unaufhaltsam aus - doch dasselbe Tier, das in Kapitel 13 unbesiegbar schien, wird jetzt offen als unzuverlässig verspottet, eine verblassende Nachahmung neben dem Gott, der wirklich der ist, "der ist und der war und der kommt" ({{% bible val="Offenbarung 1,8" link="rev:1,8" lang="de" %}}). Weder Tier noch Hure triumphieren am Ende über die Heiligen; stattdessen wenden sich genau die Könige, die dem Tier ihre Macht gegeben haben, gegen die Hure und vernichten sie selbst - weil Gott es von Anfang an so geplant hat.
 
@@ -28,7 +28,7 @@ Unter der Oberfläche klingt in ihrem Handel der Hunger des dritten Siegels nach
 
 Als Jesus eingreift, wird die Hure - nicht die Gemeinde - zum Ziel, gerichtet von genau den Königen, die einst dem Tier dienten. Stolz und ihrer eigenen Sicherheit gewiss, kommt ihr Sturz plötzlich, genau wie beim historischen Babel, und mit demselben Maß, mit dem sie anderen zugeteilt hat.
 
-![](/images/Hure_de.jpg)
+![Kreisdiagramm. Die Hure ähnelt dem Hohenpriester, das führt zu Götzendienst, der den Handel beeinflusst, was sich in Ausbeutung zeigt, und diese beschreibt wiederum die Hure.](/images/Hure_de.jpg)
 
 Warum widmet das Buch ihr mehr als zwei Kapitel? Weil es etwas verändert, "Teil" der Hure zu sein ({{% bible val="Offenbarung 18,4" link="rev:18,4" lang="de" %}}): Loyalität gegen Reichtum einzutauschen, so wie Kult und Handel in der antiken Welt miteinander verflochten waren, verändert, wie mit Menschen umgegangen wird - von Fürsorge hin zu Benutzung.
 

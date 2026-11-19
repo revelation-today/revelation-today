@@ -24,7 +24,7 @@ Und hier kommt die überraschende Wendung: Statt die Menschen nur weiter zu verh
 
 Die Gemeinde dagegen - schon in Kapitel 7 versiegelt - wird von der Qual der fünften Posaune ausdrücklich ausgenommen ({{% bible val="Offenbarung 9,4-6" link="rev:9,4-6" lang="de" %}}). Das heißt nicht, dass es leicht wird: Auch Gläubige verlieren dieselben Sicherheiten, und manche verlieren ihr Leben. Aber diesen Verlust zu ertragen, ohne die Hoffnung zu verlieren, wird genau zu der Art von Zeugnis, das einer zuschauenden Welt zeigt, wie echte Sicherheit aussieht.
 
-![](/images/trumpets_de.jpg)
+![Diagramm der ersten sechs Posaunen. Die Posaunen 1 bis 4 nehmen die Sicherheiten weg. Gott versorgt die Gemeinde, aber die Ungläubigen haben Angst. Posaune 5, Hoffnungslosigkeit, und Posaune 6, Tod, gehören zum dämonischen Bereich. Plagen treffen die Ungläubigen, die am Dämonischen festhalten; die Gemeinde hat keine Angst vor dem Tod.](/images/trumpets_de.jpg)
 
 
 ## Schlüsselbilder

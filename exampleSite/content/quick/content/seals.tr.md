@@ -20,7 +20,7 @@ kids: /kids/elementary/05-the-seals
 
 Okuyucuların üzerinde tartıştığı atlı ilkidir, çünkü kitabın ilerisinde Mesih'in kendisi de beyaz bir ata biner ({{% bible val="19. bölüm" link="rev:19" lang="tr" %}}). Vahiy bu tür benzerleri sürekli karşımıza çıkarır ve kitabın savı şudur: burada zafer vaat eden güç bir taklittir — fethedebilir, korkutabilir, aç bırakabilir, ama kendine ait hiçbir şey yaratmaz. Aynı üç parçalı taklit {{% bible val="13. bölümde" link="rev:13" lang="tr" %}} {{% int_link val="ejderha ve iki canavar" link="/quick/content/beasts" %}} ile, {{% bible val="17. bölümde" link="rev:17" lang="tr" %}} ise {{% int_link val="fahişe ve canavar" link="/quick/content/harlot" %}} ile yeniden karşımıza çıkar.
 
-![](/images/trinity_tr.jpg)
+![Üç figürü dört konuyla karşılaştıran tablo. Aldatma: 6. bölümdeki birinci atlı vaatleri olan bir fatihtir, 13. bölümdeki ejderha canavarları çağırır ve sahte bir üçlübirlik oluşturur. Güç: ikinci atlı savaş ve kılıç getirir; birinci canavar yenilmezdir; 17. bölümde yedi başlı ve on boynuzlu bir hayvan savaş açar, krallar ona güç verir. Ekonomi ve toplum: üçüncü atlı adaletsizlik, yoksulluk ve açlık getirir; ikinci canavar mucizeler yapar, ele ve alna damga vurur, alım satımı denetler; fahişe kralları zenginlik ve sömürüyle baştan çıkarır. Özet: dördüncü atlı yıkım, ölüm ve veba getirir.](/images/trinity_tr.jpg)
 
 ## Sunağın altındaki canlar
 

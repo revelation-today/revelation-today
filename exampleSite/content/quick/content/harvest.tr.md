@@ -18,7 +18,7 @@ Yargı, canavarın izleyicilerinin üzerine inmeden önce, bir melek iyi haberi 
 
 Kalan sahneler iki hasadı anlatır. İlki bir tahıl hasadıdır; İnsanoğlu'na benzeyen bir kişi tarafından toplanır — sadıklar, yargı eklenmeden, yalnızca bir araya getirilir. İkincisi ise üzüm hasadıdır; "Tanrı'nın gazabının büyük masarasına" atılır, kan akıncaya dek çiğnenir — canavarın izleyicileri, toplanmak yerine yargılanır.
 
-![](/images/harvest_tr.jpg)
+![Vahiy 14'teki yedi meleğin diyagramı. Birinci melek: herkes için müjde. İkinci melek: Babil'in üzerine yargı. Üçüncü melek: canavarın izleyicilerinin üzerine yargı. Dördüncü melek: buğday hasadını çağırır ve İnsanoğlu'na, yani İsa'ya benzer. Beşinci melek: buğdayı biçer, kurtuluş. Altıncı melek: üzüm hasadını çağırır. Yedinci melek: üzümü ezer, yargı.](/images/harvest_tr.jpg)
 
 Bu, çemberi o ilk meleğe geri kapatır: uluslar kendilerine duyurulan haberi gerçekten kabul ettiler mi? 10. bölümdeki {{% int_link val="küçük tomarın" link="/quick/content/scroll" %}} içeriği tam da buydu — kiliselerin, hasat ulusları yargılamak yerine toplasın diye Mesih'in kendi örneğini onlara taşıması.
 

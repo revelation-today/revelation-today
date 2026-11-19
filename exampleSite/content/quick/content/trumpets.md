@@ -24,7 +24,7 @@ Here is the surprising turn: rather than only hardening people further, Revelati
 
 Meanwhile, the church - already sealed in chapter 7 - is specifically excluded from the fifth trumpet's torment ({{% bible val="Revelation 9:4-6" link="rev:9,4-6" lang="en" %}}). That doesn't mean an easy ride: believers still lose the same securities, and some lose their lives. But enduring that loss without losing hope becomes exactly the kind of testimony that shows a watching world what real security looks like.
 
-![](/images/trumpets_en.jpg)
+![Diagram of the first six trumpets. Trumpets 1 to 4 take the securities away. God provides for the church, but the unbelievers are afraid. Trumpet 5, hopelessness, and trumpet 6, death, belong to the demonic realm. Plagues strike the unbelievers, who hold on to the demonic; the church has no fear of death.](/images/trumpets_en.jpg)
 
 
 ## Key images

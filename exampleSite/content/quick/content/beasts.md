@@ -18,7 +18,7 @@ The deception is the more revealing of the two. The dragon, joined by a beast fr
 
 However convincing the counterfeit looks at first, the differences are decisive. Jesus rules through love, in apparent weakness, willing to be rejected. Satan's system rules through fear, manipulation, persecution, and death, and can never afford to show weakness at all.
 
-![](/images/trinity_en.jpg)
+![Table of three figures against four themes. Deception: the first horseman of chapter 6 is a victor with promises, the dragon of chapter 13 calls the beasts and creates a counterfeit trinity. Power: the second horseman brings war and the sword; the first beast is invincible; in chapter 17 an animal with 7 heads and 10 horns wages war, and kings give it power. Economy and society: the third horseman brings injustice, poverty and hunger; the second beast works miracles, puts a mark on hand and forehead and controls buying and selling; the harlot seduces kings with riches and exploitation. Summary: the fourth horseman brings destruction, death and plague.](/images/trinity_en.jpg)
 
 That contrast is what the book says should mark out the churches from everyone taken in by the counterfeit: not greater power, but a willingness to love without fear or manipulation behind it.
 

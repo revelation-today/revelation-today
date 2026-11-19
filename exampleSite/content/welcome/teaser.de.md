@@ -15,15 +15,15 @@ Was auch immer dich hierher gebracht hat - willkommen. Du brauchst kein Vorwisse
 
 Hier ist die ehrliche Wahrheit: Das Buch der Offenbarung hat ein Imageproblem. Es wurde benutzt, um Weltuntergangs-Kalender zu verkaufen, schlechte Filme zu befeuern und Menschen mit Angst in die Kirchenbank zu treiben. Wenn das dein Bild von diesem Buch ist, liegst du nicht falsch - so wurde es tatsächlich oft verkauft.
 
-![](/images/Crazy.jpg)
+![Collage aus Tusche, Aquarell und Zeitungspapier: ein Reiter auf einem weißen Pferd, ein grüner Drache mit vielen feuerspeienden Köpfen, eine Frau in einem rosa Oberteil, ein Ufo mit orangefarbenen Strahlen, ein zerstörtes blaues Auto, eine Kampfmaschine auf Beinen mit einem roten Auge, die Zahl 666 und ein verängstigtes rothaariges Kind in der Ecke.](/images/Crazy.jpg)
 
 Aber das ist nicht, was dieses Buch wirklich ist. Es wurde an sieben echte Gemeinden in sieben echten Städten geschrieben, zu einer Zeit, in der die Nachfolge Jesu dich dein Geschäft, deinen Ruf, deine Sicherheit oder dein Leben kosten konnte. Es ist in erster Linie kein Rätsel zum Entschlüsseln oder ein Countdown zu einer zukünftigen Katastrophe. Es ist ein Brief an entmutigte, unter Druck stehende, ganz normale Menschen, der sie daran erinnert, wer wirklich die Welt regiert - und warum das eine gute Nachricht ist.
 
 Und genau deshalb ist es heute noch genauso wichtig. Wir stehen vielleicht keinen römischen Kaisern gegenüber, die Anbetung fordern, aber wir wissen, wie es sich anfühlt, von schlechten Nachrichten überwältigt zu sein, unsicher, wem wir vertrauen können, versucht, einfach mitzumachen, um es uns bequem zu machen. Dieses Buch wurde für Menschen genau in dieser Situation geschrieben. Sein eigentliches Thema war nie die zukünftige Katastrophe - es ist Jesus, und was es bedeutet, wirklich ihn anzubeten, statt allem anderen, was um diesen Platz in unserem Leben konkurriert.
 
 <div style="display:flex; gap:1em; flex-wrap:wrap; margin: 1.5em 0;">
-  {{< static_img src="images/ww3.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="" >}}
-  {{< static_img src="images/everyday.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="" >}}
+  {{< static_img src="images/ww3.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="Gemälde einer Pilzwolke in Rot, Orange und Creme vor einem dunkelroten und schwarzen Himmel." >}}
+  {{< static_img src="images/everyday.jpg" style="width:48%; min-width:220px; object-fit:cover;" alt="Gemälde einer gewöhnlichen Küche in Gelb- und Rosatönen: eine Pfanne auf dem Herd, eine Kaffeemaschine mit leerer Glaskanne, ein Schwamm und eine Flasche Spülmittel am Spülbecken und ein roter Lampenschirm auf dem Tisch." >}}
 </div>
 
 ## Was dich erwartet

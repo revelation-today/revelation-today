@@ -20,7 +20,7 @@ Seen from heaven's side, the same event plays out as a war: Michael and his ange
 
 Finally the dragon turns on "the rest of her offspring" - everyone who follows Jesus. By this point in the chapter, the pattern is unmistakable: every single attempt the dragon makes ends in failure.
 
-![](/images/jesus_en.jpg)
+![Diagram of Revelation 12. Verses 1-6: Israel, the woman, gives birth to Jesus, the child; Satan, the dragon, tries to destroy him; the child is raised into heaven. Verses 7-12: Michael and Satan fight, and Satan is thrown out of heaven; Daniel 7 links the son of man and Michael. Verses 13-16: Satan tries to destroy Israel, who is given a safe place. Verse 17 on: Satan attacks the church, her seed. Do you see a pattern?](/images/jesus_en.jpg)
 
 ## Why the tribulation intensifies
 

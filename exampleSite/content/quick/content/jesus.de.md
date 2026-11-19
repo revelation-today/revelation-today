@@ -20,7 +20,7 @@ Von der Himmelsseite aus gesehen spielt sich dasselbe Ereignis als Krieg ab: Mic
 
 Schließlich wendet sich der Drache gegen "die Übrigen von ihren Nachkommen" - alle, die Jesus nachfolgen. An diesem Punkt des Kapitels ist das Muster unübersehbar: Jeder einzelne Versuch des Drachen endet im Scheitern.
 
-![](/images/jesus_de.jpg)
+![Diagramm zu Offenbarung 12. Verse 1-6: Israel, die Frau, gebiert Jesus, das Kind; Satan, der Drache, versucht ihn zu vernichten; das Kind wird in den Himmel entrückt. Verse 7-12: Michael und Satan kämpfen, und Satan wird aus dem Himmel geworfen; Daniel 7 verbindet den Menschensohn und Michael. Verse 13-16: Satan versucht Israel zu vernichten, das einen sicheren Ort bekommt. Ab Vers 17: Satan greift die Gemeinde an, ihre Nachkommen. Erkennst du ein Muster?](/images/jesus_de.jpg)
 
 ## Warum die Trübsal zunimmt
 

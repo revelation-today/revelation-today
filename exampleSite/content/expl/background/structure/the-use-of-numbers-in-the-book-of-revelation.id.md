@@ -119,7 +119,7 @@ Bilangan-bilangan dalam Kitab Wahyu masih memiliki satu lapisan lagi: bentuk-ben
 - Persegi di balik kedua persegi panjang itu, 36 dan 1225, adalah dua bilangan pertama setelah 1 yang sekaligus persegi dan segitiga: titik tempat segitiga binatang itu bertemu persegi umat Allah. Dan 1225 adalah segitiga dari 49 = 7 × 7, tahun Yobel.
 - Bahwa ini disengaja, terlihat dari apa yang ditinggalkan Yohanes: Daniel menyebut {{% bible val="1290 dan 1335 hari" link="dan:12,11-12" lang="ind" %}}, tetapi Yohanes menghitung satu tahun tepat 360 hari untuk sampai pada 1260.
 
-![](/images/numbers-shapes.id.svg)
+![Diagram kerikil berbentuk segitiga, persegi, dan persegi panjang. Binatang buas: 6 x 6 = 36 adalah persegi sekaligus segitiga 1+2+...+8; segitiga di atas 36, yaitu 1+2+...+36, adalah 666; 6 x 7 = 42 adalah persegi panjang, yaitu 42 bulan masa berkuasanya. Allah dan umat-Nya: 35 x 35 = 1225 adalah persegi sekaligus segitiga 1+...+49, dengan 49 sama dengan 7 x 7, tahun yobel; 35 x 36 = 1260 adalah persegi panjang, yaitu 1260 hari masa jemaat. Setelah 1, hanya 36 dan 1225 yang sekaligus persegi dan segitiga.](/images/numbers-shapes.id.svg)
 
 **Tambahan dari situs ini: klaim dan kenyataan.** Pengamatan berikut adalah milik situs ini sendiri; jika seorang penafsir membaca sebuah bagian dengan cara yang sama, ia disebutkan.
 
@@ -131,7 +131,7 @@ Bilangan-bilangan dalam Kitab Wahyu masih memiliki satu lapisan lagi: bentuk-ben
 - Penunggang pertama datang dengan kuda putih, bermahkota dan {{% bible val="menang" link="rev:6,2" lang="ind" %}}; binatang itu sembuh dari luka yang mematikan, dan binatang kedua mengadakan {{% bible val="tanda-tanda yang dahsyat" link="rev:13,3-13" lang="ind" %}} — sekilas tawaran yang lebih baik daripada tawaran Allah.
 - Babel bermegah: {{% bible val="Aku bertakhta seperti ratu … aku tidak akan pernah berkabung" link="rev:18,7" lang="ind" %}}; dan Gog dan Magog mengumpulkan pasukan {{% bible val="seperti pasir di laut" link="rev:20,8" lang="ind" %}} — gambaran yang sama dengan bangsa yang tak terhitung yang dijanjikan Allah kepada Abraham.
 
-![](/images/numbers-claim.id.svg)
+![Diagram: setiap angka binatang buas terletak sedikit di atas angka Allah. Angka delapan milik binatang itu, yaitu yang kedelapan dalam Wahyu 17:11, berada di atas angka tujuh milik Allah. 1290 hari dari Daniel 12:11 berada di atas 1260 hari milik jemaat. 1296, persegi berikutnya milik binatang itu, berada di atas 1225, persegi milik Allah. Kenaikan Yesaya memberi Antikristus 1332 hari.](/images/numbers-claim.id.svg)
 
 *Kenyataannya — jauh lebih kecil.* Pasal 13 meluruskan klaim itu: bilangannya adalah {{% bible val="666" link="rev:13,18" lang="ind" %}} — enam, enam, enam, di setiap tempat kurang dari tujuh (Beale, hlm. 64). Dan setiap klaim runtuh:
 
@@ -151,7 +151,7 @@ Bilangan-bilangan dalam Kitab Wahyu masih memiliki satu lapisan lagi: bentuk-ben
 
 Karena setiap langkah mengalikan bilangan itu dengan dirinya sendiri, jurang itu tidak tetap, tetapi makin lebar pada setiap langkah: sekitar 6 kali pada dasarnya, sekitar 34 kali pada perseginya, lebih dari 1.100 kali pada segitiganya. Hanya satu langkah yang hasilnya sama: persegi panjangnya. 42 bulan dan 1260 hari adalah tiga setengah tahun yang sama. Kedua pihak berbagi waktu; mereka tidak berbagi kuasa.
 
-![](/images/numbers-scale.id.svg)
+![Dua kolom membandingkan binatang buas, yang dibangun di atas 6, dengan umat Allah, yang dibangun di atas 35, dengan langkah yang sama. Persegi sama dengan segitiga: 36 adalah 1+...+8, berbanding 1225, yaitu 1+...+49. Persegi panjang sama dengan waktu: 42 bulan berbanding 1260 hari, yaitu tiga setengah tahun yang sama. Segitiga di atas persegi: 666 berbanding 750.925. Kesenjangannya membesar dari 6 kali menjadi 34 kali lalu lebih dari 1.100 kali; jika sisi Allah setinggi 2 m, sisi binatang itu kurang dari 2 mm.](/images/numbers-scale.id.svg)
 
 **Sejauh mana ini berlaku.** Hitungannya tepat. Bagian Bauckham adalah argumen ilmiah bahwa Yohanes memaksudkannya, dan orang Kristen mula-mula memang memainkan permainan ini: *Kenaikan Yesaya* memberi Antikristus 1332 hari, persegi panjang yang terkait dengan 666 (Bauckham, *Climax of Prophecy*, hlm. 403). Pola klaim dan kenyataan bertumpu pada teks itu sendiri — mahkota, tanduk, satu jam, api — dan Beale membaca mahkota binatang itu sebagai klaim palsu atas kerajaan Kristus. Kedua keluarga bilangan itu berasal dari Bauckham; mengambil langkah terakhir binatang itu juga bagi keluarga Allah, dan jurang yang makin lebar sebagai hasilnya, adalah ilustrasi situs ini — tidak disajikan sebagai kode tersembunyi, melainkan sebagai gambaran dari apa yang dikatakan Kitab Wahyu dengan kata-kata: Iblis berusaha tampak sedikit lebih besar daripada Allah, dan diperlihatkan jauh lebih kecil.
 

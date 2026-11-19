@@ -18,7 +18,7 @@ Before judgment falls on the beast's followers, an angel first announces the goo
 
 The remaining scenes describe two harvests. The first is a grain harvest, gathered in by a figure resembling the Son of Man - the faithful, simply collected, with no judgment attached. The second is a harvest of grapes, thrown into "the great winepress of God's wrath," trampled until blood flows - the followers of the beast, judged rather than gathered.
 
-![](/images/harvest_en.jpg)
+![Diagram of the seven angels of Revelation 14. First angel: gospel for all. Second angel: judgment over Babylon. Third angel: judgment over the followers of the beast. Fourth angel: calls the grain harvest and looks like the son of man, Jesus. Fifth angel: reaps the grain, salvation. Sixth angel: calls the grape harvest. Seventh angel: crushes the grapes, judgment.](/images/harvest_en.jpg)
 
 This closes the loop back to that first angel: did the nations actually receive the news announced to them? That was the content of the {{% int_link val="little scroll" link="/quick/content/scroll" %}} in chapter 10 - the churches carrying Christ's own pattern to the nations, so that the harvest would gather them rather than judge them.
 

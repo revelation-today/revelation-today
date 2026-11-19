@@ -20,7 +20,7 @@ Der erste sieht aus wie ein Eroberer: weißes Pferd, Krone, Bogen, er zieht aus,
 
 Über den ersten Reiter wird gestritten, denn später im Buch reitet Christus selbst auf einem weißen Pferd ({{% bible val="Kapitel 19" link="rev:19" lang="de" %}}). Die Offenbarung stellt immer wieder solche Doppelgänger auf, und ihre These ist, dass die Macht, die hier den Sieg verspricht, eine Nachahmung ist: Sie kann erobern, Angst machen und aushungern, aber sie bringt nichts Eigenes hervor. Dieselbe dreiteilige Nachahmung kehrt in {{% bible val="Kapitel 13" link="rev:13" lang="de" %}} mit dem {{% int_link val="Drachen und den zwei Tieren" link="/quick/content/beasts" %}} wieder, und in {{% bible val="Kapitel 17" link="rev:17" lang="de" %}} mit der {{% int_link val="Hure und dem Tier" link="/quick/content/harlot" %}}.
 
-![](/images/trinity_de.jpg)
+![Tabelle mit drei Gestalten und vier Themen. Täuschung: Der erste Reiter aus Kapitel 6 ist ein Sieger mit Versprechungen, der Drache aus Kapitel 13 ruft die Tiere und schafft eine falsche Dreieinigkeit. Macht: Der zweite Reiter bringt Krieg und Schwert; das erste Tier ist unbesiegbar; in Kapitel 17 führt ein Tier mit 7 Köpfen und 10 Hörnern Krieg, und Könige geben ihm Macht. Wirtschaft und Gesellschaft: Der dritte Reiter bringt Ungerechtigkeit, Armut und Hunger; das zweite Tier wirkt Wunder, setzt ein Malzeichen auf Hand und Stirn und beherrscht Kaufen und Verkaufen; die Hure verführt die Könige mit Reichtum und Ausbeutung. Zusammenfassung: Der vierte Reiter bringt Zerstörung, Tod und Seuche.](/images/trinity_de.jpg)
 
 ## Die Seelen unter dem Altar
 

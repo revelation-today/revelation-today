@@ -18,7 +18,7 @@ kids: /kids/elementary/11-the-dragon-and-the-two-beasts
 
 Sahtesi ilk bakışta ne kadar inandırıcı görünürse görünsün, farklar belirleyicidir. İsa sevgiyle, görünürdeki zayıflık içinde, reddedilmeye razı olarak egemenlik sürer. Şeytan'ın sistemi ise korku, manipülasyon, zulüm ve ölümle egemenlik sürer ve zayıflık göstermeyi asla göze alamaz.
 
-![](/images/trinity_tr.jpg)
+![Üç figürü dört konuyla karşılaştıran tablo. Aldatma: 6. bölümdeki birinci atlı vaatleri olan bir fatihtir, 13. bölümdeki ejderha canavarları çağırır ve sahte bir üçlübirlik oluşturur. Güç: ikinci atlı savaş ve kılıç getirir; birinci canavar yenilmezdir; 17. bölümde yedi başlı ve on boynuzlu bir hayvan savaş açar, krallar ona güç verir. Ekonomi ve toplum: üçüncü atlı adaletsizlik, yoksulluk ve açlık getirir; ikinci canavar mucizeler yapar, ele ve alna damga vurur, alım satımı denetler; fahişe kralları zenginlik ve sömürüyle baştan çıkarır. Özet: dördüncü atlı yıkım, ölüm ve veba getirir.](/images/trinity_tr.jpg)
 
 Kitaba göre kiliseleri sahtekârlığa kananlardan ayırması gereken şey bu karşıtlıktır: daha büyük güç değil, arkasında korku ya da manipülasyon olmadan sevme isteği.
 

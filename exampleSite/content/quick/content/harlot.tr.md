@@ -16,7 +16,7 @@ kids: /kids/elementary/14-the-harlot-and-the-bride
 
 Mühürlerin ve borazanların her birinin tamamlayıcı bir görümü olduğu gibi, bu kısım da tasları tamamlar ve şimdiye dek görülen tüm kötülüğü tek bir imgede toplar: Babil adında bir fahişe; yeryüzünün krallarını denetleyen bir canavara binmiş, hükümdarları manipüle ediyor ve tanıklık edenleri öldürüyor.
 
-![](/images/Hure+Tier_tr.jpg)
+![Fahişe ile canavarın diyagramı. İsa azizleri, yani gelini yönetir. On boynuz, yani on kral, azizlere saldırır, şiddeti simgeleyen birinci canavara güç verir ve fahişeyi yok eder. Fahişe ikinci canavardır; birinci canavarın üstüne oturur ve dünyanın krallarını aldatır. Yedi baş yedi kral ve yedi tepedir, yani Roma. Yeryüzündeki insanlar şaşkına döner.](/images/Hure+Tier_tr.jpg)
 
 Durdurulamaz görünür — ama 13. bölümde yenilmez gibi görünen aynı canavarla şimdi açıkça alay edilir: güvenilmezdir; gerçekten "var olan, var olmuş ve gelecek olan" Tanrı'nın ({{% bible val="Vahiy 1:8" link="rev:1,8" lang="tr" %}}) yanında solup giden bir taklittir. Sonuçta ne canavar ne de fahişe kutsallara galip gelir; tam tersine, canavarı güçlendiren kralların ta kendileri dönüp fahişeyi kendi elleriyle yok eder — çünkü Tanrı bunu en baştan böyle planlamıştır.
 
@@ -28,7 +28,7 @@ Yüzeyin altında, onun ticareti üçüncü mührün kıtlığını yankılar: i
 
 İsa müdahale ettiğinde hedef kilise değil fahişe olur; bir zamanlar canavara hizmet eden kralların ta kendileri tarafından yargılanır. Gururlu ve kendi güvenliğinden emin olan fahişenin çöküşü ansızın gelir — tıpkı tarihteki Babil'de olduğu gibi — ve başkalarına dağıttığı ölçünün aynısıyla.
 
-![](/images/Hure_en.jpg)
+![Döngü diyagramı. Fahişe başkâhine benzer; bu putperestliğe yol açar, putperestlik ticareti etkiler, ticaret sömürüde gerçek olur ve sömürü de fahişeyi betimler.](/images/Hure_en.jpg)
 
 Kitap ona neden iki bölümden fazla yer ayırıyor? Çünkü fahişenin "bir parçası olmak" ({{% bible val="Vahiy 18:4" link="rev:18,4" lang="tr" %}}) — antik dünyada tapınmayla ticaretin birbirine bağlı olması gibi, sadakati zenginlikle takas etmek — insanlara nasıl davranıldığını ilgiden kullanmaya doğru değiştirir.
 

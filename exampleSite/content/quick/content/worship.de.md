@@ -31,7 +31,7 @@ Die siebenfach versiegelte Schriftrolle ({{% bible val="Offenbarung 5,1-5" link=
 
 Niemand wird für würdig befunden - bis Johannes gesagt wird, der Löwe von Juda habe gesiegt. Doch als er sich umdreht, *sieht* er gar keinen Löwen: ein Lamm, wie geschlachtet. Johannes *hört* das eine und *sieht* etwas anderes, das es völlig neu deutet - der siegreiche Messias, den alle erwartet haben, siegt in Wahrheit durch Opfer. Dasselbe Hören/Sehen-Muster wiederholt sich später bei den 144.000 (Kapitel 7): angekündigt als Heer, offenbart als anbetende Menge.
 
-![](/images/hear_de.jpg)
+![Gegenüberstellung in zwei Spalten. In der prophetischen Tradition sieht der Prophet ein überwältigendes Bild und hört dann eine Erklärung, die Verständnis bringt. In der Offenbarung ist es umgekehrt: Man hört ein bekanntes Bild und sieht dann seine tiefere Bedeutung.](/images/hear_de.jpg)
 
 ## Schlüsselbilder
 

@@ -31,7 +31,7 @@ Gulungan kitab yang dimeteraikan tujuh kali ({{% bible val="Wahyu 5:1-5" link="r
 
 Tidak seorang pun ditemukan layak - sampai Yohanes diberi tahu bahwa Singa dari Yehuda telah menang. Tetapi ketika ia berpaling untuk melihat, yang *dilihatnya* sama sekali bukan seekor singa: seekor Anak Domba, tampak seperti telah disembelih. Yohanes *mendengar* satu hal dan *melihat* hal lain yang menafsirkannya kembali secara menyeluruh - Mesias penakluk yang dinanti-nantikan semua orang ternyata menaklukkan melalui pengorbanan. Pola dengar/lihat yang sama terulang kemudian pada ke-144.000 itu (pasal 7): diumumkan sebagai pasukan, dinyatakan sebagai kumpulan besar penyembah.
 
-![](/images/hear_en.jpg)
+![Perbandingan dua kolom. Dalam tradisi nubuat, nabi melihat gambaran yang menakjubkan lalu mendengar penjelasan yang memberi pengertian. Dalam Wahyu urutannya terbalik: orang mendengar gambaran yang sudah dikenal lalu melihat makna yang lebih dalam.](/images/hear_en.jpg)
 
 ## Gambaran penting
 

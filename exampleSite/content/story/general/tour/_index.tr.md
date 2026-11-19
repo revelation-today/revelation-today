@@ -65,7 +65,7 @@ Filadelfiya, İsa'nın çekincesiz övdüğü diğer kilise - küçük, yorgun, 
 
 Sonra Laodikya var: ne sıcak ne soğuk, kendinden hoşnut, gerçekte ne kadar yoksul olduğunu görmeyen - hiçbir övgü almayan tek kilise. Yine de İsa burada bile geri çekilmiyor. Kapıyı çalıyor. Uyarıyor. Hâlâ içeri girmek istiyor.
 
-![](/images/Churches_tr.jpg) <!-- https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" -->
+![Anadolu'nun, yani bugünkü Türkiye'nin haritası; Patmos, yedi kilise ve her birinin sorunu gösteriliyor. Efes: sevgisizlik. Smirna: hapis. Bergama: yanlış öğreti. Tiyatira: kötü önderlik. Sardis: kendi gücü. Filadelfiya: yoksul. Laodikya: iyi bir şey yok. Yeşil işaretli Smirna ve Filadelfiya azarlanmayan iki kilisedir.](/images/Churches_tr.jpg) <!-- https://en.wikipedia.org/wiki/File:Seven_churches_of_asia.svg" -->
 
 {{< story_links base="/quick/content/letters" appl="/appl/content/letters" expl="/expl/content/letters/the-angel-of-the-churches" >}}
 

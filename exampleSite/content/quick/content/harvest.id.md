@@ -18,7 +18,7 @@ Sebelum penghakiman menimpa para pengikut binatang itu, seorang malaikat terlebi
 
 Adegan-adegan selanjutnya menggambarkan dua penuaian. Yang pertama adalah penuaian gandum, yang dikumpulkan oleh sesosok yang menyerupai Anak Manusia - orang-orang setia, yang hanya dikumpulkan, tanpa penghakiman apa pun. Yang kedua adalah penuaian buah anggur, yang dilemparkan ke dalam "kilangan besar murka Allah," diinjak-injak sampai darah mengalir - para pengikut binatang itu, yang dihakimi, bukan dikumpulkan.
 
-![](/images/harvest_en.jpg)
+![Diagram tujuh malaikat dalam Wahyu 14. Malaikat pertama: Injil bagi semua orang. Malaikat kedua: penghakiman atas Babel. Malaikat ketiga: penghakiman atas para pengikut binatang buas. Malaikat keempat: memanggil panen gandum dan tampak seperti Anak Manusia, yaitu Yesus. Malaikat kelima: menuai gandum, keselamatan. Malaikat keenam: memanggil panen anggur. Malaikat ketujuh: memeras anggur, penghakiman.](/images/harvest_en.jpg)
 
 Ini menutup lingkaran kembali ke malaikat yang pertama itu: apakah bangsa-bangsa sungguh menerima kabar yang diberitakan kepada mereka? Itulah isi {{% int_link val="gulungan kitab kecil" link="/quick/content/scroll" %}} dalam pasal 10 - jemaat-jemaat membawa pola hidup Kristus sendiri kepada bangsa-bangsa, supaya penuaian itu mengumpulkan mereka dan bukan menghakimi mereka.
 

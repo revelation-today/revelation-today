@@ -31,7 +31,7 @@ Yedi kez mühürlenmiş tomar ({{% bible val="Vahiy 5:1-5" link="rev:5,1-5" lang
 
 Kimse layık bulunmaz — ta ki Yuhanna'ya Yahuda Aslanı'nın galip geldiği söylenene dek. Ama dönüp baktığında *gördüğü* şey hiç de bir aslan değildir: boğazlanmış gibi duran bir Kuzu. Yuhanna bir şey *işitir* ve onu tamamen yeniden yorumlayan başka bir şey *görür* — herkesin beklediği fetheden Mesih'in, kurban olma yoluyla fethettiği ortaya çıkar. Aynı işit/gör kalıbı daha sonra 144.000 ile (7. bölüm) tekrarlanır: bir ordu olarak duyurulur, tapınan bir kalabalık olarak açığa çıkar.
 
-![](/images/hear_tr.jpg)
+![İki sütunlu karşılaştırma. Peygamberlik geleneğinde peygamber çarpıcı bir görüntü görür, ardından anlayış kazandıran bir açıklama duyar. Vahiy'de ise tersidir: kişi bilinen bir görüntüyü duyar, ardından onun daha derin anlamını görür.](/images/hear_tr.jpg)
 
 ## Önemli imgeler
 

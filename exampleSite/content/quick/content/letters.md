@@ -78,4 +78,4 @@ Laodicea's wealth has made it blind to its own poverty - "lukewarm" describes a 
 
 [Read the fuller explanation and each individual letter →]({{< relref "expl/content/letters/the-letters-to-the-seven-churches" >}})
 
-![](/images/Churches_en.jpg)
+![Map of Anatolia, today's Turkey, with Patmos and the seven churches and the problem named for each. Ephesus: no love. Smyrna: prison. Pergamum: wrong teaching. Thyatira: bad leadership. Sardis: own strength. Philadelphia: poor. Laodicea: nothing good. Smyrna and Philadelphia, marked in green, are the two without a rebuke.](/images/Churches_en.jpg)
