@@ -1,6 +1,6 @@
 ---
 title: "Kisahnya: Seperti Apa Keamanan yang Sejati"
-linkTitle: "Keamanan yang Sejati (teologi kemakmuran)"
+linkTitle: "Keamanan yang Sejati (Gerakan Iman)"
 weight: 250
 ---
 

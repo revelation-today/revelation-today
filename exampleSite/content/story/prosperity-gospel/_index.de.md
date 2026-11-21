@@ -1,6 +1,6 @@
 ---
 title: "Die Geschichte: Wie echte Sicherheit aussieht"
-linkTitle: "Wie echte Sicherheit aussieht (Wohlstandslehre)"
+linkTitle: "Wie echte Sicherheit aussieht (Glaubensbewegung)"
 weight: 250
 ---
 

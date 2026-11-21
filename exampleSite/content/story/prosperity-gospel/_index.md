@@ -1,6 +1,6 @@
 ---
 title: "The Story: What Real Security Looks Like"
-linkTitle: "What Real Security Looks Like (prosperity teaching)"
+linkTitle: "What Real Security Looks Like (Word of Faith)"
 weight: 250
 ---
 

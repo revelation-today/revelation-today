@@ -1,6 +1,6 @@
 ---
 title: "Hikaye: Gerçek Güvenlik Neye Benzer"
-linkTitle: "Gerçek Güvenlik (refah öğretisi)"
+linkTitle: "Gerçek Güvenlik (İman hareketi)"
 weight: 250
 ---
 
