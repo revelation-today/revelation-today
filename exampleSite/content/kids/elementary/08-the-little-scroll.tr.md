@@ -14,7 +14,7 @@ chapters: "Vahiy 10"
 
 > **Okunacak hikâye:** [Bal Tadındaki — ve Dertli — Tomar (Bölüm 10)]({{< relref "story/elementary/tour#scroll" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 10" link="rev:10" lang="tr" %}}  
-> **Yazdırmak için:** [el işi şablonu, boyama sayfası ve kartlar (PDF)](/kids/print/tr/elementary-08.pdf)
+> **Yazdırmak için:** [boyama sayfası veya el işi şablonu (her çocuk için bir kopya) ve lider sayfası (PDF)](/kids/print/tr/elementary-08.pdf)
 
 
 ## 1. Ödevini yemek

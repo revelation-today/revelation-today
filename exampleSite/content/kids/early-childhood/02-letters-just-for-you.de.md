@@ -12,7 +12,7 @@ next: /kids/early-childhood/03-the-best-party-in-heaven
 
 > **Geschichte zum Vorlesen:** [Die Briefe an die Gemeinden (Kapitel 2-3)]({{< relref "story/early-childhood/tour#letters" >}})  
 > **Bibel:** {{% bible val="Offenbarung 2–3" link="rev:2" lang="de" trans="hfa" %}}  
-> **Zum Ausdrucken:** [Ausmalbild und Karten (PDF)](/kids/print/de/early-childhood-02.pdf)
+> **Zum Ausdrucken:** [Ausmalbild(er) (eins wählen, pro Kind kopieren) und Leiterseite (PDF)](/kids/print/de/early-childhood-02.pdf)
 
 
 ## Das Bild

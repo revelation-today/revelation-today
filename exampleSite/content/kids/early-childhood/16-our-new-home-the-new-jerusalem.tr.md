@@ -11,7 +11,7 @@ prev: /kids/early-childhood/15-heaven-is-being-close-to-god
 
 > **Okunacak hikâye:** [Yeni gökler ve yeni yer (Bölüm 21-22)]({{< relref "story/early-childhood/tour#paradise" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 21–22" link="rev:21" lang="tr" %}}  
-> **Yazdırmak için:** [boyama sayfası ve kartlar (PDF)](/kids/print/tr/early-childhood-16.pdf)
+> **Yazdırmak için:** [boyama sayfası/sayfaları (birini seçin, her çocuk için kopyalayın) ve lider sayfası (PDF)](/kids/print/tr/early-childhood-16.pdf)
 
 
 ## Resim

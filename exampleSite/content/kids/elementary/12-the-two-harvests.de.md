@@ -14,7 +14,7 @@ chapters: "Offenbarung 14"
 
 > **Geschichte zum Vorlesen:** [Zwei Ernten (Kapitel 14)]({{< relref "story/elementary/tour#harvest" >}})  
 > **Bibel:** {{% bible val="Offenbarung 14" link="rev:14" lang="de" trans="hfa" %}}  
-> **Zum Ausdrucken:** [Bastelvorlage, Ausmalbild und Karten (PDF)](/kids/print/de/elementary-12.pdf)
+> **Zum Ausdrucken:** [Ausmalbild oder Bastelvorlage (pro Kind kopieren) und Leiterseite (PDF)](/kids/print/de/elementary-12.pdf)
 
 
 ## 1. Sortieren

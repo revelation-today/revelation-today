@@ -12,7 +12,7 @@ next: /kids/early-childhood/14-a-thousand-years-of-jesus-being-king
 
 > **Story to read:** [The Bowls of Wrath]({{< relref "story/early-childhood/tour#bowls" >}})  
 > **Bible:** {{% bible val="Revelation 15–16" link="rev:15" lang="en" %}}  
-> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-13.pdf)
+> **To print:** [picture(s) to colour (choose one, copy it per child) and leader's page (PDF)](/kids/print/en/early-childhood-13.pdf)
 
 
 ## The Picture

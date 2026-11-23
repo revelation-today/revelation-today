@@ -12,7 +12,7 @@ next: /kids/early-childhood/05-the-horses-are-not-the-boss
 
 > **Story to read:** [Worship in the Throne Room]({{< relref "story/early-childhood/tour#worship" >}})  
 > **Bible:** {{% bible val="Revelation 4–5" link="rev:4" lang="en" %}}  
-> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-04.pdf)
+> **To print:** [picture(s) to colour (choose one, copy it per child) and leader's page (PDF)](/kids/print/en/early-childhood-04.pdf)
 
 
 ## The Picture

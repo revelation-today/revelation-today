@@ -12,7 +12,7 @@ next: /kids/early-childhood/04-the-lion-who-is-really-a-lamb
 
 > **Cerita untuk dibacakan:** [Penyembahan (Pasal 4-5)]({{< relref "story/early-childhood/tour#worship" >}})  
 > **Alkitab:** {{% bible val="Wahyu 4–5" link="rev:4" lang="ind" %}}  
-> **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-03.pdf)
+> **Untuk dicetak:** [gambar mewarnai (pilih satu, salin per anak) dan halaman pemimpin (PDF)](/kids/print/id/early-childhood-03.pdf)
 
 
 ## Gambarannya

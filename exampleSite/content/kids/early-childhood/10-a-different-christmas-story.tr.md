@@ -12,7 +12,7 @@ next: /kids/early-childhood/11-the-copycat-villain
 
 > **Okunacak hikâye:** [İsa'nın zaferi (Bölüm 12)]({{< relref "story/early-childhood/tour#jesus" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 12" link="rev:12" lang="tr" %}}  
-> **Yazdırmak için:** [boyama sayfası ve kartlar (PDF)](/kids/print/tr/early-childhood-10.pdf)
+> **Yazdırmak için:** [boyama sayfası/sayfaları (birini seçin, her çocuk için kopyalayın) ve lider sayfası (PDF)](/kids/print/tr/early-childhood-10.pdf)
 
 
 ## Resim

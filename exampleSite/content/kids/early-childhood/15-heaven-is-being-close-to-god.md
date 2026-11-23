@@ -12,7 +12,7 @@ next: /kids/early-childhood/16-our-new-home-the-new-jerusalem
 
 > **Story to read:** [The Millennium]({{< relref "story/early-childhood/tour#1000y" >}})  
 > **Bible:** {{% bible val="Revelation 20" link="rev:20" lang="en" %}}  
-> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-15.pdf)
+> **To print:** [picture(s) to colour (choose one, copy it per child) and leader's page (PDF)](/kids/print/en/early-childhood-15.pdf)
 
 
 ## The Picture

@@ -14,7 +14,7 @@ chapters: "Revelation 15–16"
 
 > **Story to read:** [The Bowls of Wrath]({{< relref "story/elementary/tour#bowls" >}})  
 > **Bible:** {{% bible val="Revelation 15–16" link="rev:15" lang="en" %}}  
-> **To print:** [craft template, colouring page and cards (PDF)](/kids/print/en/elementary-13.pdf)
+> **To print:** [picture to colour or craft template (copy one per child) and leader's page (PDF)](/kids/print/en/elementary-13.pdf)
 
 
 ## 1. What does angry mean?

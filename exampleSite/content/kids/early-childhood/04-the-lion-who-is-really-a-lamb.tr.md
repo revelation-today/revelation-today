@@ -12,7 +12,7 @@ next: /kids/early-childhood/05-the-horses-are-not-the-boss
 
 > **Okunacak hikâye:** [Tapınma (Bölüm 4-5)]({{< relref "story/early-childhood/tour#worship" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 4–5" link="rev:4" lang="tr" %}}  
-> **Yazdırmak için:** [boyama sayfası ve kartlar (PDF)](/kids/print/tr/early-childhood-04.pdf)
+> **Yazdırmak için:** [boyama sayfası/sayfaları (birini seçin, her çocuk için kopyalayın) ve lider sayfası (PDF)](/kids/print/tr/early-childhood-04.pdf)
 
 
 ## Resim

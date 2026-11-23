@@ -12,7 +12,7 @@ next: /kids/early-childhood/13-bad-things-dont-win
 
 > **Cerita untuk dibacakan:** [Dua tuaian (Pasal 14)]({{< relref "story/early-childhood/tour#harvest" >}})  
 > **Alkitab:** {{% bible val="Wahyu 14" link="rev:14" lang="ind" %}}  
-> **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-12.pdf)
+> **Untuk dicetak:** [gambar mewarnai (pilih satu, salin per anak) dan halaman pemimpin (PDF)](/kids/print/id/early-childhood-12.pdf)
 
 
 ## Gambarannya

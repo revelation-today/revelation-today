@@ -13,7 +13,7 @@ chapters: "Revelation 21–22"
 
 > **Story to read:** [New Heaven and New Earth]({{< relref "story/elementary/tour#paradise" >}})  
 > **Bible:** {{% bible val="Revelation 21–22" link="rev:21" lang="en" %}}  
-> **To print:** [craft template, colouring page and cards (PDF)](/kids/print/en/elementary-16.pdf)
+> **To print:** [picture to colour or craft template (copy one per child) and leader's page (PDF)](/kids/print/en/elementary-16.pdf)
 
 
 ## 1. What do you think heaven is like?

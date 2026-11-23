@@ -12,7 +12,7 @@ next: /kids/early-childhood/07-loud-trumpets-big-warnings
 
 > **Okunacak hikâye:** [Tanrı'nın ordusu (Bölüm 7)]({{< relref "story/early-childhood/tour#army" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 7" link="rev:7" lang="tr" %}}  
-> **Yazdırmak için:** [boyama sayfası ve kartlar (PDF)](/kids/print/tr/early-childhood-06.pdf)
+> **Yazdırmak için:** [boyama sayfası/sayfaları (birini seçin, her çocuk için kopyalayın) ve lider sayfası (PDF)](/kids/print/tr/early-childhood-06.pdf)
 
 
 ## Resim

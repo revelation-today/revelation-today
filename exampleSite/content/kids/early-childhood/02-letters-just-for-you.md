@@ -12,7 +12,7 @@ next: /kids/early-childhood/03-the-best-party-in-heaven
 
 > **Story to read:** [The Letters to the Churches]({{< relref "story/early-childhood/tour#letters" >}})  
 > **Bible:** {{% bible val="Revelation 2–3" link="rev:2" lang="en" %}}  
-> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-02.pdf)
+> **To print:** [picture(s) to colour (choose one, copy it per child) and leader's page (PDF)](/kids/print/en/early-childhood-02.pdf)
 
 
 ## The Picture

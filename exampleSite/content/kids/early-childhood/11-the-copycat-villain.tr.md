@@ -12,7 +12,7 @@ next: /kids/early-childhood/12-faithful-even-when-its-hard
 
 > **Okunacak hikâye:** [Ejderha ve iki canavar (Bölüm 13)]({{< relref "story/early-childhood/tour#beasts" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 13" link="rev:13" lang="tr" %}}  
-> **Yazdırmak için:** [boyama sayfası ve kartlar (PDF)](/kids/print/tr/early-childhood-11.pdf)
+> **Yazdırmak için:** [boyama sayfası/sayfaları (birini seçin, her çocuk için kopyalayın) ve lider sayfası (PDF)](/kids/print/tr/early-childhood-11.pdf)
 
 
 ## Resim

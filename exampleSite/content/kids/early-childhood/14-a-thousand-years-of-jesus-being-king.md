@@ -12,7 +12,7 @@ next: /kids/early-childhood/15-heaven-is-being-close-to-god
 
 > **Story to read:** [The Millennium]({{< relref "story/early-childhood/tour#1000y" >}})  
 > **Bible:** {{% bible val="Revelation 20" link="rev:20" lang="en" %}}  
-> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-14.pdf)
+> **To print:** [picture(s) to colour (choose one, copy it per child) and leader's page (PDF)](/kids/print/en/early-childhood-14.pdf)
 
 
 ## The Picture

@@ -11,7 +11,7 @@ next: /kids/early-childhood/02-letters-just-for-you
 
 > **Geschichte zum Vorlesen:** [Die Vision (Kapitel 1)]({{< relref "story/early-childhood/tour#vision" >}})  
 > **Bibel:** {{% bible val="Offenbarung 1" link="rev:1" lang="de" trans="hfa" %}}  
-> **Zum Ausdrucken:** [Ausmalbild und Karten (PDF)](/kids/print/de/early-childhood-01.pdf)
+> **Zum Ausdrucken:** [Ausmalbild(er) (eins wählen, pro Kind kopieren) und Leiterseite (PDF)](/kids/print/de/early-childhood-01.pdf)
 
 
 ## Das Bild

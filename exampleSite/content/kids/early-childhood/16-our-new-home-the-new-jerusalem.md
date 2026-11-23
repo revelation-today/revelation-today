@@ -11,7 +11,7 @@ prev: /kids/early-childhood/15-heaven-is-being-close-to-god
 
 > **Story to read:** [New Heaven and New Earth]({{< relref "story/early-childhood/tour#paradise" >}})  
 > **Bible:** {{% bible val="Revelation 21–22" link="rev:21" lang="en" %}}  
-> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-16.pdf)
+> **To print:** [picture(s) to colour (choose one, copy it per child) and leader's page (PDF)](/kids/print/en/early-childhood-16.pdf)
 
 
 ## The Picture

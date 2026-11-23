@@ -13,7 +13,7 @@ chapters: "Arka Plan"
 
 > **Okunacak hikâye:** [Tanrı Olmak İsteyen İmparator (Arka Plan)]({{< relref "story/elementary/tour#background" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 1:9" link="rev:1,9" lang="tr" %}}  
-> **Yazdırmak için:** [el işi şablonu, boyama sayfası ve kartlar (PDF)](/kids/print/tr/elementary-01.pdf)
+> **Yazdırmak için:** [boyama sayfası veya el işi şablonu (her çocuk için bir kopya) ve lider sayfası (PDF)](/kids/print/tr/elementary-01.pdf)
 
 
 ## 1. Alkış oyunu

@@ -14,7 +14,7 @@ chapters: "Wahyu 14"
 
 > **Cerita untuk dibacakan:** [Dua Tuaian (Pasal 14)]({{< relref "story/elementary/tour#harvest" >}})  
 > **Alkitab:** {{% bible val="Wahyu 14" link="rev:14" lang="ind" %}}  
-> **Untuk dicetak:** [pola kerajinan, gambar mewarnai dan kartu (PDF)](/kids/print/id/elementary-12.pdf)
+> **Untuk dicetak:** [gambar mewarnai atau pola kerajinan (salin satu per anak) dan halaman pemimpin (PDF)](/kids/print/id/elementary-12.pdf)
 
 
 ## 1. Memilah

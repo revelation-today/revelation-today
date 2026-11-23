@@ -12,7 +12,7 @@ next: /kids/early-childhood/07-loud-trumpets-big-warnings
 
 > **Cerita untuk dibacakan:** [Pasukan Allah (Pasal 7)]({{< relref "story/early-childhood/tour#army" >}})  
 > **Alkitab:** {{% bible val="Wahyu 7" link="rev:7" lang="ind" %}}  
-> **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-06.pdf)
+> **Untuk dicetak:** [gambar mewarnai (pilih satu, salin per anak) dan halaman pemimpin (PDF)](/kids/print/id/early-childhood-06.pdf)
 
 
 ## Gambarannya

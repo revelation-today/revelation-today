@@ -14,7 +14,7 @@ chapters: "Wahyu 1"
 
 > **Cerita untuk dibacakan:** [Suara di Pulau Itu (Pasal 1)]({{< relref "story/elementary/tour#vision" >}})  
 > **Alkitab:** {{% bible val="Wahyu 1" link="rev:1" lang="ind" %}}  
-> **Untuk dicetak:** [pola kerajinan, gambar mewarnai dan kartu (PDF)](/kids/print/id/elementary-02.pdf)
+> **Untuk dicetak:** [gambar mewarnai atau pola kerajinan (salin satu per anak) dan halaman pemimpin (PDF)](/kids/print/id/elementary-02.pdf)
 
 
 ## 1. Pertanyaan yang mengejutkan

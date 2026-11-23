@@ -12,7 +12,7 @@ next: /kids/early-childhood/13-bad-things-dont-win
 
 > **Geschichte zum Vorlesen:** [Die zwei Ernten (Kapitel 14)]({{< relref "story/early-childhood/tour#harvest" >}})  
 > **Bibel:** {{% bible val="Offenbarung 14" link="rev:14" lang="de" trans="hfa" %}}  
-> **Zum Ausdrucken:** [Ausmalbild und Karten (PDF)](/kids/print/de/early-childhood-12.pdf)
+> **Zum Ausdrucken:** [Ausmalbild(er) (eins wählen, pro Kind kopieren) und Leiterseite (PDF)](/kids/print/de/early-childhood-12.pdf)
 
 
 ## Das Bild

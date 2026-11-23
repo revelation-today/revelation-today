@@ -12,7 +12,7 @@ next: /kids/early-childhood/09-brave-helpers
 
 > **Okunacak hikâye:** [Küçük tomar (Bölüm 10)]({{< relref "story/early-childhood/tour#scroll" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 10" link="rev:10" lang="tr" %}}  
-> **Yazdırmak için:** [boyama sayfası ve kartlar (PDF)](/kids/print/tr/early-childhood-08.pdf)
+> **Yazdırmak için:** [boyama sayfası/sayfaları (birini seçin, her çocuk için kopyalayın) ve lider sayfası (PDF)](/kids/print/tr/early-childhood-08.pdf)
 
 
 ## Resim

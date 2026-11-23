@@ -12,7 +12,7 @@ next: /kids/early-childhood/09-brave-helpers
 
 > **Cerita untuk dibacakan:** [Gulungan kecil (Pasal 10)]({{< relref "story/early-childhood/tour#scroll" >}})  
 > **Alkitab:** {{% bible val="Wahyu 10" link="rev:10" lang="ind" %}}  
-> **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-08.pdf)
+> **Untuk dicetak:** [gambar mewarnai (pilih satu, salin per anak) dan halaman pemimpin (PDF)](/kids/print/id/early-childhood-08.pdf)
 
 
 ## Gambarannya

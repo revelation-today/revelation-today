@@ -14,7 +14,7 @@ chapters: "Vahiy 6"
 
 > **Okunacak hikâye:** [Dört Atlı ve Bir Soru (Bölüm 6)]({{< relref "story/elementary/tour#seals" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 6" link="rev:6" lang="tr" %}}  
-> **Yazdırmak için:** [el işi şablonu, boyama sayfası ve kartlar (PDF)](/kids/print/tr/elementary-05.pdf)
+> **Yazdırmak için:** [boyama sayfası veya el işi şablonu (her çocuk için bir kopya) ve lider sayfası (PDF)](/kids/print/tr/elementary-05.pdf)
 
 
 ## 1. Sahtesini bul

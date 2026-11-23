@@ -14,7 +14,7 @@ chapters: "Wahyu 8–9"
 
 > **Cerita untuk dibacakan:** [Tujuh Sangkakala Mengguncang Dunia (Pasal 8-9)]({{< relref "story/elementary/tour#trumpets" >}})  
 > **Alkitab:** {{% bible val="Wahyu 8–9" link="rev:8" lang="ind" %}}  
-> **Untuk dicetak:** [pola kerajinan, gambar mewarnai dan kartu (PDF)](/kids/print/id/elementary-07.pdf)
+> **Untuk dicetak:** [gambar mewarnai atau pola kerajinan (salin satu per anak) dan halaman pemimpin (PDF)](/kids/print/id/elementary-07.pdf)
 
 
 ## 1. Apa yang akan kau lakukan?

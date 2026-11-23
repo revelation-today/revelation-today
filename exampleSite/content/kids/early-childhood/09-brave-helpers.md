@@ -12,7 +12,7 @@ next: /kids/early-childhood/10-a-different-christmas-story
 
 > **Story to read:** [The Two Witnesses]({{< relref "story/early-childhood/tour#witnesses" >}})  
 > **Bible:** {{% bible val="Revelation 11" link="rev:11" lang="en" %}}  
-> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-09.pdf)
+> **To print:** [picture(s) to colour (choose one, copy it per child) and leader's page (PDF)](/kids/print/en/early-childhood-09.pdf)
 
 
 ## The Picture

@@ -14,7 +14,7 @@ chapters: "Vahiy 8–9"
 
 > **Okunacak hikâye:** [Yedi Borazan Dünyayı Sarsıyor (Bölüm 8-9)]({{< relref "story/elementary/tour#trumpets" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 8–9" link="rev:8" lang="tr" %}}  
-> **Yazdırmak için:** [el işi şablonu, boyama sayfası ve kartlar (PDF)](/kids/print/tr/elementary-07.pdf)
+> **Yazdırmak için:** [boyama sayfası veya el işi şablonu (her çocuk için bir kopya) ve lider sayfası (PDF)](/kids/print/tr/elementary-07.pdf)
 
 
 ## 1. Sen ne yapardın?

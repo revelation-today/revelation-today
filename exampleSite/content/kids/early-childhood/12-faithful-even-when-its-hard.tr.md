@@ -12,7 +12,7 @@ next: /kids/early-childhood/13-bad-things-dont-win
 
 > **Okunacak hikâye:** [İki hasat (Bölüm 14)]({{< relref "story/early-childhood/tour#harvest" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 14" link="rev:14" lang="tr" %}}  
-> **Yazdırmak için:** [boyama sayfası ve kartlar (PDF)](/kids/print/tr/early-childhood-12.pdf)
+> **Yazdırmak için:** [boyama sayfası/sayfaları (birini seçin, her çocuk için kopyalayın) ve lider sayfası (PDF)](/kids/print/tr/early-childhood-12.pdf)
 
 
 ## Resim

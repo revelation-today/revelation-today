@@ -14,7 +14,7 @@ chapters: "Vahiy 1"
 
 > **Okunacak hikâye:** [Adadaki Ses (Bölüm 1)]({{< relref "story/elementary/tour#vision" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 1" link="rev:1" lang="tr" %}}  
-> **Yazdırmak için:** [el işi şablonu, boyama sayfası ve kartlar (PDF)](/kids/print/tr/elementary-02.pdf)
+> **Yazdırmak için:** [boyama sayfası veya el işi şablonu (her çocuk için bir kopya) ve lider sayfası (PDF)](/kids/print/tr/elementary-02.pdf)
 
 
 ## 1. Şaşırtıcı bir soru

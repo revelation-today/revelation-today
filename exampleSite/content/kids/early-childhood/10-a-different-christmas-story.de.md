@@ -12,7 +12,7 @@ next: /kids/early-childhood/11-the-copycat-villain
 
 > **Geschichte zum Vorlesen:** [Der Sieg von Jesus (Kapitel 12)]({{< relref "story/early-childhood/tour#jesus" >}})  
 > **Bibel:** {{% bible val="Offenbarung 12" link="rev:12" lang="de" trans="hfa" %}}  
-> **Zum Ausdrucken:** [Ausmalbild und Karten (PDF)](/kids/print/de/early-childhood-10.pdf)
+> **Zum Ausdrucken:** [Ausmalbild(er) (eins wählen, pro Kind kopieren) und Leiterseite (PDF)](/kids/print/de/early-childhood-10.pdf)
 
 
 ## Das Bild

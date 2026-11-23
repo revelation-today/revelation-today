@@ -12,7 +12,7 @@ next: /kids/early-childhood/10-a-different-christmas-story
 
 > **Cerita untuk dibacakan:** [Dua saksi (Pasal 11)]({{< relref "story/early-childhood/tour#witnesses" >}})  
 > **Alkitab:** {{% bible val="Wahyu 11" link="rev:11" lang="ind" %}}  
-> **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-09.pdf)
+> **Untuk dicetak:** [gambar mewarnai (pilih satu, salin per anak) dan halaman pemimpin (PDF)](/kids/print/id/early-childhood-09.pdf)
 
 
 ## Gambarannya

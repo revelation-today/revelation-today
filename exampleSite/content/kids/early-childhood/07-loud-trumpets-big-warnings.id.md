@@ -12,7 +12,7 @@ next: /kids/early-childhood/08-a-sweet-and-sour-scroll
 
 > **Cerita untuk dibacakan:** [Sangkakala-sangkakala (Pasal 8-9)]({{< relref "story/early-childhood/tour#trumpets" >}})  
 > **Alkitab:** {{% bible val="Wahyu 8–9" link="rev:8" lang="ind" %}}  
-> **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-07.pdf)
+> **Untuk dicetak:** [gambar mewarnai (pilih satu, salin per anak) dan halaman pemimpin (PDF)](/kids/print/id/early-childhood-07.pdf)
 
 
 ## Gambarannya

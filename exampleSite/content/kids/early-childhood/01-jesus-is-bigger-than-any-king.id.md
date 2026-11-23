@@ -11,7 +11,7 @@ next: /kids/early-childhood/02-letters-just-for-you
 
 > **Cerita untuk dibacakan:** [Penglihatan itu (Pasal 1)]({{< relref "story/early-childhood/tour#vision" >}})  
 > **Alkitab:** {{% bible val="Wahyu 1" link="rev:1" lang="ind" %}}  
-> **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-01.pdf)
+> **Untuk dicetak:** [gambar mewarnai (pilih satu, salin per anak) dan halaman pemimpin (PDF)](/kids/print/id/early-childhood-01.pdf)
 
 
 ## Gambarannya

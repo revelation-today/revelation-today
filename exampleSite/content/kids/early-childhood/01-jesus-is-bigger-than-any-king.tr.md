@@ -11,7 +11,7 @@ next: /kids/early-childhood/02-letters-just-for-you
 
 > **Okunacak hikâye:** [Görüm (Bölüm 1)]({{< relref "story/early-childhood/tour#vision" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 1" link="rev:1" lang="tr" %}}  
-> **Yazdırmak için:** [boyama sayfası ve kartlar (PDF)](/kids/print/tr/early-childhood-01.pdf)
+> **Yazdırmak için:** [boyama sayfası/sayfaları (birini seçin, her çocuk için kopyalayın) ve lider sayfası (PDF)](/kids/print/tr/early-childhood-01.pdf)
 
 
 ## Resim

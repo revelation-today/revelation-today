@@ -12,7 +12,7 @@ next: /kids/early-childhood/12-faithful-even-when-its-hard
 
 > **Cerita untuk dibacakan:** [Naga dan dua binatang buas (Pasal 13)]({{< relref "story/early-childhood/tour#beasts" >}})  
 > **Alkitab:** {{% bible val="Wahyu 13" link="rev:13" lang="ind" %}}  
-> **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-11.pdf)
+> **Untuk dicetak:** [gambar mewarnai (pilih satu, salin per anak) dan halaman pemimpin (PDF)](/kids/print/id/early-childhood-11.pdf)
 
 
 ## Gambarannya

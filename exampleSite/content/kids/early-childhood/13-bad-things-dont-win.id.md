@@ -12,7 +12,7 @@ next: /kids/early-childhood/14-a-thousand-years-of-jesus-being-king
 
 > **Cerita untuk dibacakan:** [Cawan-cawan murka (Pasal 15-16)]({{< relref "story/early-childhood/tour#bowls" >}})  
 > **Alkitab:** {{% bible val="Wahyu 15–16" link="rev:15" lang="ind" %}}  
-> **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-13.pdf)
+> **Untuk dicetak:** [gambar mewarnai (pilih satu, salin per anak) dan halaman pemimpin (PDF)](/kids/print/id/early-childhood-13.pdf)
 
 
 ## Gambarannya

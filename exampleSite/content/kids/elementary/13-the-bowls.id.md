@@ -14,7 +14,7 @@ chapters: "Wahyu 15–16"
 
 > **Cerita untuk dibacakan:** [Tujuh Cawan dan Satu Medan Perang Terakhir (Pasal 15-16)]({{< relref "story/elementary/tour#bowls" >}})  
 > **Alkitab:** {{% bible val="Wahyu 15–16" link="rev:15" lang="ind" %}}  
-> **Untuk dicetak:** [pola kerajinan, gambar mewarnai dan kartu (PDF)](/kids/print/id/elementary-13.pdf)
+> **Untuk dicetak:** [gambar mewarnai atau pola kerajinan (salin satu per anak) dan halaman pemimpin (PDF)](/kids/print/id/elementary-13.pdf)
 
 
 ## 1. Apa artinya marah?

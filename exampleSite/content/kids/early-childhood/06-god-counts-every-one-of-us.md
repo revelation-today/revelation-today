@@ -12,7 +12,7 @@ next: /kids/early-childhood/07-loud-trumpets-big-warnings
 
 > **Story to read:** [The Army of God]({{< relref "story/early-childhood/tour#army" >}})  
 > **Bible:** {{% bible val="Revelation 7" link="rev:7" lang="en" %}}  
-> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-06.pdf)
+> **To print:** [picture(s) to colour (choose one, copy it per child) and leader's page (PDF)](/kids/print/en/early-childhood-06.pdf)
 
 
 ## The Picture

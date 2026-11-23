@@ -12,7 +12,7 @@ next: /kids/early-childhood/06-god-counts-every-one-of-us
 
 > **Story to read:** [The Seals]({{< relref "story/early-childhood/tour#seals" >}})  
 > **Bible:** {{% bible val="Revelation 6" link="rev:6" lang="en" %}}  
-> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-05.pdf)
+> **To print:** [picture(s) to colour (choose one, copy it per child) and leader's page (PDF)](/kids/print/en/early-childhood-05.pdf)
 
 
 ## The Picture

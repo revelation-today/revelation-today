@@ -12,7 +12,7 @@ next: /kids/early-childhood/09-brave-helpers
 
 > **Geschichte zum Vorlesen:** [Die kleine Schriftrolle (Kapitel 10)]({{< relref "story/early-childhood/tour#scroll" >}})  
 > **Bibel:** {{% bible val="Offenbarung 10" link="rev:10" lang="de" trans="hfa" %}}  
-> **Zum Ausdrucken:** [Ausmalbild und Karten (PDF)](/kids/print/de/early-childhood-08.pdf)
+> **Zum Ausdrucken:** [Ausmalbild(er) (eins wählen, pro Kind kopieren) und Leiterseite (PDF)](/kids/print/de/early-childhood-08.pdf)
 
 
 ## Das Bild

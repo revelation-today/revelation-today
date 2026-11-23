@@ -14,7 +14,7 @@ chapters: "Wahyu 4–5"
 
 > **Cerita untuk dibacakan:** [Pintu di Langit (Pasal 4-5)]({{< relref "story/elementary/tour#worship" >}})  
 > **Alkitab:** {{% bible val="Wahyu 4–5" link="rev:4" lang="ind" %}}  
-> **Untuk dicetak:** [pola kerajinan, gambar mewarnai dan kartu (PDF)](/kids/print/id/elementary-04.pdf)
+> **Untuk dicetak:** [gambar mewarnai atau pola kerajinan (salin satu per anak) dan halaman pemimpin (PDF)](/kids/print/id/elementary-04.pdf)
 
 
 ## 1. Menyerahkan sesuatu

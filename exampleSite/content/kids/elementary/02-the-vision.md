@@ -14,7 +14,7 @@ chapters: "Revelation 1"
 
 > **Story to read:** [The Vision]({{< relref "story/elementary/tour#vision" >}})  
 > **Bible:** {{% bible val="Revelation 1" link="rev:1" lang="en" %}}  
-> **To print:** [craft template, colouring page and cards (PDF)](/kids/print/en/elementary-02.pdf)
+> **To print:** [picture to colour or craft template (copy one per child) and leader's page (PDF)](/kids/print/en/elementary-02.pdf)
 
 
 ## 1. A surprising question

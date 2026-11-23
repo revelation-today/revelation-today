@@ -12,7 +12,7 @@ next: /kids/early-childhood/10-a-different-christmas-story
 
 > **Geschichte zum Vorlesen:** [Die zwei Zeugen (Kapitel 11)]({{< relref "story/early-childhood/tour#witnesses" >}})  
 > **Bibel:** {{% bible val="Offenbarung 11" link="rev:11" lang="de" trans="hfa" %}}  
-> **Zum Ausdrucken:** [Ausmalbild und Karten (PDF)](/kids/print/de/early-childhood-09.pdf)
+> **Zum Ausdrucken:** [Ausmalbild(er) (eins wählen, pro Kind kopieren) und Leiterseite (PDF)](/kids/print/de/early-childhood-09.pdf)
 
 
 ## Das Bild

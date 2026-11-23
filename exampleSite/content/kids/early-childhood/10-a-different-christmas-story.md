@@ -12,7 +12,7 @@ next: /kids/early-childhood/11-the-copycat-villain
 
 > **Story to read:** [The Victory of Jesus]({{< relref "story/early-childhood/tour#jesus" >}})  
 > **Bible:** {{% bible val="Revelation 12" link="rev:12" lang="en" %}}  
-> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-10.pdf)
+> **To print:** [picture(s) to colour (choose one, copy it per child) and leader's page (PDF)](/kids/print/en/early-childhood-10.pdf)
 
 
 ## The Picture

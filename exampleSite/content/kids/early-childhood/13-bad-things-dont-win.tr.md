@@ -12,7 +12,7 @@ next: /kids/early-childhood/14-a-thousand-years-of-jesus-being-king
 
 > **Okunacak hikâye:** [Gazap tasları (Bölüm 15-16)]({{< relref "story/early-childhood/tour#bowls" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 15–16" link="rev:15" lang="tr" %}}  
-> **Yazdırmak için:** [boyama sayfası ve kartlar (PDF)](/kids/print/tr/early-childhood-13.pdf)
+> **Yazdırmak için:** [boyama sayfası/sayfaları (birini seçin, her çocuk için kopyalayın) ve lider sayfası (PDF)](/kids/print/tr/early-childhood-13.pdf)
 
 
 ## Resim

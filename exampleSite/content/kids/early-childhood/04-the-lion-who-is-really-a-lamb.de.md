@@ -12,7 +12,7 @@ next: /kids/early-childhood/05-the-horses-are-not-the-boss
 
 > **Geschichte zum Vorlesen:** [Anbetung (Kapitel 4-5)]({{< relref "story/early-childhood/tour#worship" >}})  
 > **Bibel:** {{% bible val="Offenbarung 4–5" link="rev:4" lang="de" trans="hfa" %}}  
-> **Zum Ausdrucken:** [Ausmalbild und Karten (PDF)](/kids/print/de/early-childhood-04.pdf)
+> **Zum Ausdrucken:** [Ausmalbild(er) (eins wählen, pro Kind kopieren) und Leiterseite (PDF)](/kids/print/de/early-childhood-04.pdf)
 
 
 ## Das Bild

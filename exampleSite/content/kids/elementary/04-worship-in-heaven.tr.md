@@ -14,7 +14,7 @@ chapters: "Vahiy 4–5"
 
 > **Okunacak hikâye:** [Gökteki Kapı (Bölüm 4-5)]({{< relref "story/elementary/tour#worship" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 4–5" link="rev:4" lang="tr" %}}  
-> **Yazdırmak için:** [el işi şablonu, boyama sayfası ve kartlar (PDF)](/kids/print/tr/elementary-04.pdf)
+> **Yazdırmak için:** [boyama sayfası veya el işi şablonu (her çocuk için bir kopya) ve lider sayfası (PDF)](/kids/print/tr/elementary-04.pdf)
 
 
 ## 1. Bir şeyi teslim etmek

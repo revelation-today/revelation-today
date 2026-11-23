@@ -12,7 +12,7 @@ next: /kids/early-childhood/15-heaven-is-being-close-to-god
 
 > **Okunacak hikâye:** [Bin yıl (Bölüm 20)]({{< relref "story/early-childhood/tour#1000y" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 20" link="rev:20" lang="tr" %}}  
-> **Yazdırmak için:** [boyama sayfası ve kartlar (PDF)](/kids/print/tr/early-childhood-14.pdf)
+> **Yazdırmak için:** [boyama sayfası/sayfaları (birini seçin, her çocuk için kopyalayın) ve lider sayfası (PDF)](/kids/print/tr/early-childhood-14.pdf)
 
 
 ## Resim

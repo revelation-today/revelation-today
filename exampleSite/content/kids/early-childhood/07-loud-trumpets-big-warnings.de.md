@@ -12,7 +12,7 @@ next: /kids/early-childhood/08-a-sweet-and-sour-scroll
 
 > **Geschichte zum Vorlesen:** [Die Posaunen (Kapitel 8-9)]({{< relref "story/early-childhood/tour#trumpets" >}})  
 > **Bibel:** {{% bible val="Offenbarung 8–9" link="rev:8" lang="de" trans="hfa" %}}  
-> **Zum Ausdrucken:** [Ausmalbild und Karten (PDF)](/kids/print/de/early-childhood-07.pdf)
+> **Zum Ausdrucken:** [Ausmalbild(er) (eins wählen, pro Kind kopieren) und Leiterseite (PDF)](/kids/print/de/early-childhood-07.pdf)
 
 
 ## Das Bild

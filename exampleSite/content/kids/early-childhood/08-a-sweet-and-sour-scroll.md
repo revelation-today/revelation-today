@@ -12,7 +12,7 @@ next: /kids/early-childhood/09-brave-helpers
 
 > **Story to read:** [The Small Scroll]({{< relref "story/early-childhood/tour#scroll" >}})  
 > **Bible:** {{% bible val="Revelation 10" link="rev:10" lang="en" %}}  
-> **To print:** [colouring page and cards (PDF)](/kids/print/en/early-childhood-08.pdf)
+> **To print:** [picture(s) to colour (choose one, copy it per child) and leader's page (PDF)](/kids/print/en/early-childhood-08.pdf)
 
 
 ## The Picture

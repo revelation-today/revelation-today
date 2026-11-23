@@ -13,7 +13,7 @@ chapters: "Latar Belakang"
 
 > **Cerita untuk dibacakan:** [Kaisar yang Ingin Menjadi Allah (Latar Belakang)]({{< relref "story/elementary/tour#background" >}})  
 > **Alkitab:** {{% bible val="Wahyu 1:9" link="rev:1,9" lang="ind" %}}  
-> **Untuk dicetak:** [pola kerajinan, gambar mewarnai dan kartu (PDF)](/kids/print/id/elementary-01.pdf)
+> **Untuk dicetak:** [gambar mewarnai atau pola kerajinan (salin satu per anak) dan halaman pemimpin (PDF)](/kids/print/id/elementary-01.pdf)
 
 
 ## 1. Permainan tepuk tangan

@@ -14,7 +14,7 @@ chapters: "Wahyu 11"
 
 > **Cerita untuk dibacakan:** [Dua Saksi yang Tak Mau Tetap Terkapar (Pasal 11)]({{< relref "story/elementary/tour#witnesses" >}})  
 > **Alkitab:** {{% bible val="Wahyu 11" link="rev:11" lang="ind" %}}  
-> **Untuk dicetak:** [pola kerajinan, gambar mewarnai dan kartu (PDF)](/kids/print/id/elementary-09.pdf)
+> **Untuk dicetak:** [gambar mewarnai atau pola kerajinan (salin satu per anak) dan halaman pemimpin (PDF)](/kids/print/id/elementary-09.pdf)
 
 
 ## 1. Apa itu saksi?

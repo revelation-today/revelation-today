@@ -12,7 +12,7 @@ next: /kids/early-childhood/03-the-best-party-in-heaven
 
 > **Cerita untuk dibacakan:** [Surat-surat untuk gereja-gereja (Pasal 2-3)]({{< relref "story/early-childhood/tour#letters" >}})  
 > **Alkitab:** {{% bible val="Wahyu 2–3" link="rev:2" lang="ind" %}}  
-> **Untuk dicetak:** [gambar mewarnai dan kartu (PDF)](/kids/print/id/early-childhood-02.pdf)
+> **Untuk dicetak:** [gambar mewarnai (pilih satu, salin per anak) dan halaman pemimpin (PDF)](/kids/print/id/early-childhood-02.pdf)
 
 
 ## Gambarannya

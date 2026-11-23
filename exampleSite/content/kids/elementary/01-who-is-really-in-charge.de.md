@@ -13,7 +13,7 @@ chapters: "Hintergrund"
 
 > **Geschichte zum Vorlesen:** [Der Kaiser, der ein Gott sein wollte (Hintergrund)]({{< relref "story/elementary/tour#background" >}})  
 > **Bibel:** {{% bible val="Offenbarung 1:9" link="rev:1,9" lang="de" trans="hfa" %}}  
-> **Zum Ausdrucken:** [Bastelvorlage, Ausmalbild und Karten (PDF)](/kids/print/de/elementary-01.pdf)
+> **Zum Ausdrucken:** [Ausmalbild oder Bastelvorlage (pro Kind kopieren) und Leiterseite (PDF)](/kids/print/de/elementary-01.pdf)
 
 
 ## 1. Das Klatschspiel

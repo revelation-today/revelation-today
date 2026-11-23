@@ -14,7 +14,7 @@ chapters: "Offenbarung 15–16"
 
 > **Geschichte zum Vorlesen:** [Sieben Schalen und ein letztes Schlachtfeld (Kapitel 15-16)]({{< relref "story/elementary/tour#bowls" >}})  
 > **Bibel:** {{% bible val="Offenbarung 15–16" link="rev:15" lang="de" trans="hfa" %}}  
-> **Zum Ausdrucken:** [Bastelvorlage, Ausmalbild und Karten (PDF)](/kids/print/de/elementary-13.pdf)
+> **Zum Ausdrucken:** [Ausmalbild oder Bastelvorlage (pro Kind kopieren) und Leiterseite (PDF)](/kids/print/de/elementary-13.pdf)
 
 
 ## 1. Was heißt zornig?

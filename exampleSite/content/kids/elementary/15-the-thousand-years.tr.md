@@ -14,7 +14,7 @@ chapters: "Vahiy 20"
 
 > **Okunacak hikâye:** [Göremediğin Hükümranlık (Bölüm 20)]({{< relref "story/elementary/tour#1000y" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 20" link="rev:20" lang="tr" %}}  
-> **Yazdırmak için:** [el işi şablonu, boyama sayfası ve kartlar (PDF)](/kids/print/tr/elementary-15.pdf)
+> **Yazdırmak için:** [boyama sayfası veya el işi şablonu (her çocuk için bir kopya) ve lider sayfası (PDF)](/kids/print/tr/elementary-15.pdf)
 
 
 ## 1. Anlaşamayan yetişkinler
