@@ -14,7 +14,7 @@ chapters: "Revelation 14"
 
 > **Story to read:** [The Two Harvests]({{< relref "story/elementary/tour#harvest" >}})  
 > **Bible:** {{% bible val="Revelation 14" link="rev:14" lang="en" %}}  
-> **To print:** [craft template and cards (PDF)](/kids/print/en/elementary-12.pdf)
+> **To print:** [craft template, colouring page and cards (PDF)](/kids/print/en/elementary-12.pdf)
 
 
 ## 1. Sorting

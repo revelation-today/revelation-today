@@ -14,7 +14,7 @@ chapters: "Offenbarung 13"
 
 > **Geschichte zum Vorlesen:** [Der Drache heuert zwei Ungeheuer an (Kapitel 13)]({{< relref "story/elementary/tour#beasts" >}})  
 > **Bibel:** {{% bible val="Offenbarung 13" link="rev:13" lang="de" trans="hfa" %}}  
-> **Zum Ausdrucken:** [Bastelvorlage und Karten (PDF)](/kids/print/de/elementary-11.pdf)
+> **Zum Ausdrucken:** [Bastelvorlage, Ausmalbild und Karten (PDF)](/kids/print/de/elementary-11.pdf)
 
 
 ## 1. Nachmacher

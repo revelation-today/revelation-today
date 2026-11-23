@@ -14,7 +14,7 @@ chapters: "Wahyu 2–3"
 
 > **Cerita untuk dibacakan:** [Tujuh Surat untuk Tujuh Tim (Pasal 2-3)]({{< relref "story/elementary/tour#letters" >}})  
 > **Alkitab:** {{% bible val="Wahyu 2–3" link="rev:2" lang="ind" %}}  
-> **Untuk dicetak:** [pola kerajinan dan kartu (PDF)](/kids/print/id/elementary-03.pdf)
+> **Untuk dicetak:** [pola kerajinan, gambar mewarnai dan kartu (PDF)](/kids/print/id/elementary-03.pdf)
 
 
 ## 1. Rapor sekolah

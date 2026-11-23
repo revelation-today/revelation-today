@@ -14,7 +14,7 @@ chapters: "Wahyu 7"
 
 > **Cerita untuk dibacakan:** [Pasukan yang Tidak Bertarung (Pasal 7)]({{< relref "story/elementary/tour#army" >}})  
 > **Alkitab:** {{% bible val="Wahyu 7" link="rev:7" lang="ind" %}}  
-> **Untuk dicetak:** [pola kerajinan dan kartu (PDF)](/kids/print/id/elementary-06.pdf)
+> **Untuk dicetak:** [pola kerajinan, gambar mewarnai dan kartu (PDF)](/kids/print/id/elementary-06.pdf)
 
 
 ## 1. Gambarlah sebuah pasukan

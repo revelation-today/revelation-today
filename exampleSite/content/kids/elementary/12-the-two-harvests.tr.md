@@ -14,7 +14,7 @@ chapters: "Vahiy 14"
 
 > **Okunacak hikâye:** [İki Hasat (Bölüm 14)]({{< relref "story/elementary/tour#harvest" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 14" link="rev:14" lang="tr" %}}  
-> **Yazdırmak için:** [el işi şablonu ve kartlar (PDF)](/kids/print/tr/elementary-12.pdf)
+> **Yazdırmak için:** [el işi şablonu, boyama sayfası ve kartlar (PDF)](/kids/print/tr/elementary-12.pdf)
 
 
 ## 1. Ayırmak

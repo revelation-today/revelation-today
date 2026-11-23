@@ -14,7 +14,7 @@ chapters: "Revelation 2–3"
 
 > **Story to read:** [The Letters to the Churches]({{< relref "story/elementary/tour#letters" >}})  
 > **Bible:** {{% bible val="Revelation 2–3" link="rev:2" lang="en" %}}  
-> **To print:** [craft template and cards (PDF)](/kids/print/en/elementary-03.pdf)
+> **To print:** [craft template, colouring page and cards (PDF)](/kids/print/en/elementary-03.pdf)
 
 
 ## 1. School reports

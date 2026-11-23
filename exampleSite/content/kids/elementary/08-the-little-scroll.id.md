@@ -14,7 +14,7 @@ chapters: "Wahyu 10"
 
 > **Cerita untuk dibacakan:** [Gulungan yang Rasanya Seperti Madu — dan Masalah (Pasal 10)]({{< relref "story/elementary/tour#scroll" >}})  
 > **Alkitab:** {{% bible val="Wahyu 10" link="rev:10" lang="ind" %}}  
-> **Untuk dicetak:** [pola kerajinan dan kartu (PDF)](/kids/print/id/elementary-08.pdf)
+> **Untuk dicetak:** [pola kerajinan, gambar mewarnai dan kartu (PDF)](/kids/print/id/elementary-08.pdf)
 
 
 ## 1. Makan pekerjaan rumah

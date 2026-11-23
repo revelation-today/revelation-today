@@ -14,7 +14,7 @@ chapters: "Vahiy 7"
 
 > **Okunacak hikâye:** [Savaşmayan Ordu (Bölüm 7)]({{< relref "story/elementary/tour#army" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 7" link="rev:7" lang="tr" %}}  
-> **Yazdırmak için:** [el işi şablonu ve kartlar (PDF)](/kids/print/tr/elementary-06.pdf)
+> **Yazdırmak için:** [el işi şablonu, boyama sayfası ve kartlar (PDF)](/kids/print/tr/elementary-06.pdf)
 
 
 ## 1. Bir ordu çiz

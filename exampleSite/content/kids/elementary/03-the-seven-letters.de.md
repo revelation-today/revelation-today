@@ -14,7 +14,7 @@ chapters: "Offenbarung 2–3"
 
 > **Geschichte zum Vorlesen:** [Sieben Briefe an sieben Teams (Kapitel 2-3)]({{< relref "story/elementary/tour#letters" >}})  
 > **Bibel:** {{% bible val="Offenbarung 2–3" link="rev:2" lang="de" trans="hfa" %}}  
-> **Zum Ausdrucken:** [Bastelvorlage und Karten (PDF)](/kids/print/de/elementary-03.pdf)
+> **Zum Ausdrucken:** [Bastelvorlage, Ausmalbild und Karten (PDF)](/kids/print/de/elementary-03.pdf)
 
 
 ## 1. Zeugnisse

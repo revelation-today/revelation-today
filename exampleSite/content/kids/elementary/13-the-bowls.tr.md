@@ -14,7 +14,7 @@ chapters: "Vahiy 15–16"
 
 > **Okunacak hikâye:** [Yedi Tas ve Son Bir Savaş Alanı (Bölüm 15-16)]({{< relref "story/elementary/tour#bowls" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 15–16" link="rev:15" lang="tr" %}}  
-> **Yazdırmak için:** [el işi şablonu ve kartlar (PDF)](/kids/print/tr/elementary-13.pdf)
+> **Yazdırmak için:** [el işi şablonu, boyama sayfası ve kartlar (PDF)](/kids/print/tr/elementary-13.pdf)
 
 
 ## 1. Öfkeli ne demek?

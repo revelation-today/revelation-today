@@ -14,7 +14,7 @@ chapters: "Revelation 12"
 
 > **Story to read:** [The Victory of Jesus]({{< relref "story/elementary/tour#jesus" >}})  
 > **Bible:** {{% bible val="Revelation 12" link="rev:12" lang="en" %}}  
-> **To print:** [craft template and cards (PDF)](/kids/print/en/elementary-10.pdf)
+> **To print:** [craft template, colouring page and cards (PDF)](/kids/print/en/elementary-10.pdf)
 
 
 ## 1. A Christmas story you haven't heard

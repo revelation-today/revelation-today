@@ -14,7 +14,7 @@ chapters: "Wahyu 6"
 
 > **Cerita untuk dibacakan:** [Empat Penunggang Kuda dan Sebuah Pertanyaan (Pasal 6)]({{< relref "story/elementary/tour#seals" >}})  
 > **Alkitab:** {{% bible val="Wahyu 6" link="rev:6" lang="ind" %}}  
-> **Untuk dicetak:** [pola kerajinan dan kartu (PDF)](/kids/print/id/elementary-05.pdf)
+> **Untuk dicetak:** [pola kerajinan, gambar mewarnai dan kartu (PDF)](/kids/print/id/elementary-05.pdf)
 
 
 ## 1. Temukan yang palsu

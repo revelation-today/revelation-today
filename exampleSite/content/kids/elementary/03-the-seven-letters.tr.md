@@ -14,7 +14,7 @@ chapters: "Vahiy 2–3"
 
 > **Okunacak hikâye:** [Yedi Takıma Yedi Mektup (Bölüm 2-3)]({{< relref "story/elementary/tour#letters" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 2–3" link="rev:2" lang="tr" %}}  
-> **Yazdırmak için:** [el işi şablonu ve kartlar (PDF)](/kids/print/tr/elementary-03.pdf)
+> **Yazdırmak için:** [el işi şablonu, boyama sayfası ve kartlar (PDF)](/kids/print/tr/elementary-03.pdf)
 
 
 ## 1. Karneler

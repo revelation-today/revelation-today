@@ -14,7 +14,7 @@ chapters: "Vahiy 11"
 
 > **Okunacak hikâye:** [Yere Yıkılmayı Reddeden İki Tanık (Bölüm 11)]({{< relref "story/elementary/tour#witnesses" >}})  
 > **Kutsal Kitap:** {{% bible val="Vahiy 11" link="rev:11" lang="tr" %}}  
-> **Yazdırmak için:** [el işi şablonu ve kartlar (PDF)](/kids/print/tr/elementary-09.pdf)
+> **Yazdırmak için:** [el işi şablonu, boyama sayfası ve kartlar (PDF)](/kids/print/tr/elementary-09.pdf)
 
 
 ## 1. Tanık ne demek?
