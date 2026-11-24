@@ -31,6 +31,8 @@ Offenbarung 8–9 liest sich wie moderne Katastrophenschlagzeilen, doch Johannes
 
 Die Posaunen sind der zweite der drei siebenteiligen Zyklen des Buches (Siegel, Posaunen, Schalen). Wie die Siegel und die Schalen bilden sie keine strikte chronologische Fortsetzung der Siegel – sie greifen dieselben Ereignisse aus einem anderen Blickwinkel wieder auf und steigern sie, weshalb dieselben abschließenden Zeichen (Donner, Blitz, Erdbeben) und dieselben einander entsprechenden Gerichte (sechste Posaune und sechste Schale, siebte Posaune und siebte Schale) sich immer wieder gegenseitig widerspiegeln. Diese rekapitulierende Lesart ist derselbe Rahmen, der ausführlicher im {{% int_link val="Artikel über den Aufbau des Buches" link="/expl/background/structure/the-structure-of-the-book-of-revelation#chiasm" %}} dargestellt wird, im Gegensatz zu Lesarten, die Siegel, Posaunen und Schalen als einen einzigen, strikt aufeinanderfolgenden Zeitplan behandeln. Ihre Eröffnungsszene gibt den Ton für alles Folgende vor: Sie beginnt nicht mit einem Engel, sondern mit einem Gebetstreffen.
 
+![Diagramm: drei Reihen mit je sieben Zeichen, Siegel, Posaunen und Schalen. Jede Reihe läuft auf dasselbe Ende aus Blitzen, Donner und Erdbeben zu: Die drei Reihen erzählen eine Geschichte dreimal.](/images/three-times_de.svg)
+
 ## Was du vorher lesen solltest
 
 <a name="50de"></a>

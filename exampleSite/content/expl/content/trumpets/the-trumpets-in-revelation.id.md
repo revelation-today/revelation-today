@@ -31,6 +31,8 @@ Wahyu pasal 8-9 terbaca seperti judul-judul berita bencana zaman sekarang, tetap
 
 Sangkakala-sangkakala ini adalah rangkaian kedua dari tiga rangkaian tujuh peristiwa dalam kitab ini (meterai, sangkakala, cawan). Seperti meterai dan cawan, sangkakala-sangkakala ini bukanlah kelanjutan kronologis yang ketat dari meterai-meterai - melainkan mengulang dan mengintensifkan peristiwa yang sama dari sudut pandang yang berbeda, itulah sebabnya tanda-tanda penutup yang sama (guruh, kilat, gempa bumi) dan penghakiman-penghakiman yang berpasangan sama (sangkakala keenam dan cawan keenam, sangkakala ketujuh dan cawan ketujuh) terus bergema satu sama lain. Pembacaan rekapitulasi ini adalah kerangka yang sama yang diuraikan lebih lengkap dalam {{% int_link val="artikel tentang struktur kitab ini" link="/expl/background/structure/the-structure-of-the-book-of-revelation#chiasm" %}}, berbeda dengan pembacaan yang memperlakukan meterai, sangkakala, dan cawan sebagai satu jadwal waktu yang ketat dan berurutan. Adegan pembukanya menentukan nada bagi segala sesuatu yang menyusul: rangkaian ini dimulai bukan dengan seorang malaikat, melainkan dengan sebuah pertemuan doa.
 
+![Diagram: tiga baris dengan masing-masing tujuh tanda, meterai, sangkakala dan cawan. Setiap baris menuju akhir yang sama, yaitu kilat, guruh dan gempa bumi, sehingga ketiga rangkaian menceritakan satu kisah tiga kali.](/images/three-times_id.svg)
+
 ## Baik Dibaca Sebelumnya
 
 <a name="50de"></a>

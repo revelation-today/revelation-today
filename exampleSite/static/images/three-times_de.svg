@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 370" font-family="Georgia, 'Times New Roman', serif">
+<rect width="760" height="370" fill="#f6f1e6"/>
+<g fill="none" stroke="#1b4f8f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<text x="380.0" y="40" text-anchor="middle" fill="#1b4f8f" stroke="none" font-size="22">Eine Geschichte, dreimal erzählt</text>
+<text x="30" y="111" fill="#1b4f8f" stroke="none" font-size="18">Siegel</text>
+<line x1="156" y1="105" x2="621" y2="105" stroke-dasharray="2 7" opacity=".55"/>
+<g transform="translate(190 105) scale(1.5)"><rect x="-9" y="-7" width="18" height="14" rx="6"/><circle cx="0" cy="0" r="2.6" fill="#1b4f8f"/></g>
+<g transform="translate(252 105) scale(1.5)"><rect x="-9" y="-7" width="18" height="14" rx="6"/><circle cx="0" cy="0" r="2.6" fill="#1b4f8f"/></g>
+<g transform="translate(314 105) scale(1.5)"><rect x="-9" y="-7" width="18" height="14" rx="6"/><circle cx="0" cy="0" r="2.6" fill="#1b4f8f"/></g>
+<g transform="translate(376 105) scale(1.5)"><rect x="-9" y="-7" width="18" height="14" rx="6"/><circle cx="0" cy="0" r="2.6" fill="#1b4f8f"/></g>
+<g transform="translate(438 105) scale(1.5)"><rect x="-9" y="-7" width="18" height="14" rx="6"/><circle cx="0" cy="0" r="2.6" fill="#1b4f8f"/></g>
+<g transform="translate(500 105) scale(1.5)"><rect x="-9" y="-7" width="18" height="14" rx="6"/><circle cx="0" cy="0" r="2.6" fill="#1b4f8f"/></g>
+<g transform="translate(562 105) scale(1.5)"><rect x="-9" y="-7" width="18" height="14" rx="6"/><circle cx="0" cy="0" r="2.6" fill="#1b4f8f"/></g>
+<path d="M621 99 L629 105 L621 111" />
+<text x="30" y="186" fill="#1b4f8f" stroke="none" font-size="18">Posaunen</text>
+<line x1="156" y1="180" x2="621" y2="180" stroke-dasharray="2 7" opacity=".55"/>
+<g transform="translate(190 180) scale(1.5)"><path d="M-9 -3 L9 -9 L9 9 L-9 3 Z"/></g>
+<g transform="translate(252 180) scale(1.5)"><path d="M-9 -3 L9 -9 L9 9 L-9 3 Z"/></g>
+<g transform="translate(314 180) scale(1.5)"><path d="M-9 -3 L9 -9 L9 9 L-9 3 Z"/></g>
+<g transform="translate(376 180) scale(1.5)"><path d="M-9 -3 L9 -9 L9 9 L-9 3 Z"/></g>
+<g transform="translate(438 180) scale(1.5)"><path d="M-9 -3 L9 -9 L9 9 L-9 3 Z"/></g>
+<g transform="translate(500 180) scale(1.5)"><path d="M-9 -3 L9 -9 L9 9 L-9 3 Z"/></g>
+<g transform="translate(562 180) scale(1.5)"><path d="M-9 -3 L9 -9 L9 9 L-9 3 Z"/></g>
+<path d="M621 174 L629 180 L621 186" />
+<text x="30" y="261" fill="#1b4f8f" stroke="none" font-size="18">Schalen</text>
+<line x1="156" y1="255" x2="621" y2="255" stroke-dasharray="2 7" opacity=".55"/>
+<g transform="translate(190 255) scale(1.5)"><path d="M-10 -5 L10 -5 Q9 9 0 9 Q-9 9 -10 -5 Z"/></g>
+<g transform="translate(252 255) scale(1.5)"><path d="M-10 -5 L10 -5 Q9 9 0 9 Q-9 9 -10 -5 Z"/></g>
+<g transform="translate(314 255) scale(1.5)"><path d="M-10 -5 L10 -5 Q9 9 0 9 Q-9 9 -10 -5 Z"/></g>
+<g transform="translate(376 255) scale(1.5)"><path d="M-10 -5 L10 -5 Q9 9 0 9 Q-9 9 -10 -5 Z"/></g>
+<g transform="translate(438 255) scale(1.5)"><path d="M-10 -5 L10 -5 Q9 9 0 9 Q-9 9 -10 -5 Z"/></g>
+<g transform="translate(500 255) scale(1.5)"><path d="M-10 -5 L10 -5 Q9 9 0 9 Q-9 9 -10 -5 Z"/></g>
+<g transform="translate(562 255) scale(1.5)"><path d="M-10 -5 L10 -5 Q9 9 0 9 Q-9 9 -10 -5 Z"/></g>
+<path d="M621 249 L629 255 L621 261" />
+<path d="M661 75 L647 150 L663 148 L649 232" stroke-width="3"/>
+<path d="M621 275 L635 266 L649 280 L663 266 L677 280 L691 270" />
+<line x1="625" y1="75" x2="625" y2="232" opacity=".0"/>
+<text x="380.0" y="344" text-anchor="middle" fill="#1b4f8f" stroke="none" font-size="16" font-style="italic">Jede Runde endet am selben Ort: Blitze, Donner, Erdbeben</text>
+</g></svg>

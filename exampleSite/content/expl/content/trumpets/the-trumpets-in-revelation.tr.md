@@ -31,6 +31,8 @@ Vahiy 8-9 modern felaket haberleri gibi okunur, ama Yuhanna yeni bir şeyden sö
 
 Borazanlar, kitabın üç yedili döngüsünün (mühürler, borazanlar, kaseler) ikincisidir. Mühürler ve kaseler gibi, bunlar da mühürlerin devamı olan sıkı bir kronolojik diziliş oluşturmaz — aynı olayları farklı bir açıdan yeniden ele alıp yoğunlaştırırlar; bu yüzden aynı kapanış işaretleri (gök gürültüsü, şimşek, deprem) ve aynı eşleşen yargılar (altıncı borazan ile altıncı kâse, yedinci borazan ile yedinci kâse) birbirini durmadan yankılar. Bu rekapitülasyon okuması, {{% int_link val="kitabın yapısı üzerine makalede" link="/expl/background/structure/the-structure-of-the-book-of-revelation#chiasm" %}} daha kapsamlı biçimde ortaya konan çerçevenin aynısıdır; bu, mühürleri, borazanları ve kaseleri tek, sıkı, ardışık bir zaman çizelgesi olarak ele alan okumaların aksinedir. Açılış sahneleri sonrasında gelen her şeyin tonunu belirler: bir melekle değil, bir dua toplantısıyla başlar.
 
+![Diyagram: yedişer işaretten oluşan üç sıra, mühürler, borazanlar ve kaseler. Her sıra şimşek, gök gürültüsü ve depremden oluşan aynı sona varır; üç dizi tek bir hikâyeyi üç kez anlatır.](/images/three-times_tr.svg)
+
 ## Daha önce okumak isteyebilirsiniz
 
 <a name="b75f"></a>

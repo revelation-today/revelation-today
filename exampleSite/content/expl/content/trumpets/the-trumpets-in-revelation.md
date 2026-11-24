@@ -31,6 +31,8 @@ Revelation 8–9 read like modern disaster headlines, but John isn't describing 
 
 The trumpets are the second of the book's three seven-part cycles (seals, trumpets, bowls). Like the seals and bowls, they aren't a strict chronological sequence tacked onto the seals — they recap and intensify the same events from a different angle, which is why the same closing signs (thunder, lightning, earthquake) and the same paired judgments (trumpet six and bowl six, trumpet seven and bowl seven) keep echoing each other. This recapitulation reading is the same framework laid out more fully in {{% int_link val="the article on the structure of the book" link="/expl/background/structure/the-structure-of-the-book-of-revelation#chiasm" %}}, in contrast to readings that treat the seals, trumpets, and bowls as one strict, sequential timetable. Their opening scene sets the tone for everything that follows: it starts not with an angel, but with a prayer meeting.
 
+![Diagram: three rows of seven marks, seals, trumpets and bowls. Each row runs to the same ending of lightning, thunder and earthquake, so the three series tell one story three times.](/images/three-times_en.svg)
+
 ## You may want to read before
 
 <a name="bced"></a>
