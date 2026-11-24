@@ -48,6 +48,8 @@ Segala sesuatu yang menyusul — meterai-meterai, sangkakala-sangkakala, dan caw
 
 Setiap dari ketiga rangkaian ini juga membawa selingannya sendiri: meterai-meterai dan sangkakala-sangkakala masing-masing berhenti sejenak untuk memperdalam tema itu (pasal 7; {{% bible val="10:1–11:14" link="rev:10,1" lang="ind" %}}), sementara sangkakala-sangkakala dan cawan-cawan masing-masing melampirkan bagian yang lebih panjang yang mengembangkannya lebih jauh (pasal 12–14 setelah sangkakala; {{% bible val="17:1–22:5" link="rev:17,1" lang="ind" %}} setelah cawan). Lampiran cawan-cawan itu berlangsung hingga pasal terakhir, yaitu Yerusalem Baru itu sendiri.
 
+![Diagram susunan kitab: pembukaan dan surat-surat (pasal 1–3) menuju ruang takhta (4–5), dan dari sana mengalir tiga rangkaian: meterai (6–8) dan sangkakala (8–11), masing-masing dengan satu jeda, serta cawan (15–16) tanpa jeda. Setiap rangkaian berakhir dengan kilat, guruh dan gempa bumi. Pada sangkakala (12–14) dan cawan (17–22) ditambahkan satu bagian, yang berakhir di Yerusalem Baru.](/images/book-shape_id.svg)
+
 ## Meterai-Meterai Itu
 
 <a name="3431"></a>

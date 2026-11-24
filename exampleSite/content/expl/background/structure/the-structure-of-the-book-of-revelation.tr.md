@@ -48,6 +48,8 @@ Bundan sonra gelen her şey — mühürler, borazanlar ve kaseler — bu yerden 
 
 Üç dizinin her biri kendi kesintisini de taşır: mühürler ve borazanlar her biri temayı derinleştirmek için durur (7. bölüm; {{% bible val="10:1–11:14" link="rev:10,1" lang="tr" %}}), borazanlar ve kaseler ise her biri konuyu daha da geliştiren daha uzun bir bölüm ekler (borazanlardan sonra 12–14. bölümler; kaselerden sonra {{% bible val="17:1–22:5" link="rev:17,1" lang="tr" %}}). Kaselerin eki, son bölüme, Yeni Yeruşalim'in kendisine kadar uzanır.
 
+![Kitabın yapısını gösteren diyagram: giriş ve mektuplar (1–3. bölümler) taht odasına (4–5) götürür, oradan üç dizi çıkar: mühürler (6–8) ve borazanlar (8–11) birer arayla, kaseler (15–16) arasız. Her dizi şimşek, gök gürültüsü ve depremle biter. Borazanlara (12–14) ve kaselere (17–22) birer bölüm eklenmiştir; sonuncusu Yeni Yeruşalim’de sona erer.](/images/book-shape_tr.svg)
+
 ## Mühürler
 
 <a name="e9dc"></a>

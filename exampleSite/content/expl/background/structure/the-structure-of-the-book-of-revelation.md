@@ -48,6 +48,8 @@ Everything that follows — the seals, the trumpets, and the bowls — flows out
 
 Each of the three series also carries its own interruption: the seals and the trumpets each pause for an interlude that deepens the theme (chapter 7;{{% bible val=" 10:1–11:14" link="rev:10,1" lang="en" %}}), while the trumpets and the bowls each have a longer section attached that develops it further (chapters 12–14 after the trumpets;{{% bible val=" 17:1–22:5" link="rev:17,1" lang="en" %}} after the bowls). The bowls' appendix runs all the way to the final chapter, the New Jerusalem itself.
 
+![Diagram of the book’s shape: the opening and the letters (chapters 1–3) lead to the throne room (4–5), and from there the three series flow out: the seals (6–8) and the trumpets (8–11) each with a pause, the bowls (15–16) without one. Each series ends in thunder, lightning and earthquake. A section is attached to the trumpets (12–14) and to the bowls (17–22), which ends in the New Jerusalem.](/images/book-shape_en.svg)
+
 ## The Seals
 
 <a name="8ec8"></a>

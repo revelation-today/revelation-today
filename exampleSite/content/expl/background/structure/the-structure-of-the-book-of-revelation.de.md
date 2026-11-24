@@ -48,6 +48,8 @@ Alles, was danach folgt — die Siegel, die Posaunen und die Schalen — geht vo
 
 Jede der drei Reihen trägt zudem ihre eigene Unterbrechung in sich: Siegel und Posaunen halten jeweils inne, um ein Thema zu vertiefen (Kapitel 7; {{% bible val="10,1–11,14" link="rev:10,1" lang="de" %}}), während Posaunen und Schalen jeweils einen längeren Abschnitt anfügen, der es weiter entfaltet (Kapitel 12–14 nach den Posaunen; {{% bible val="17,1–22,5" link="rev:17,1" lang="de" %}} nach den Schalen). Der Anhang der Schalen reicht dabei bis zum letzten Kapitel, dem Neuen Jerusalem selbst.
 
+![Diagramm vom Aufbau des Buches: Eröffnung und Briefe (Kapitel 1–3) führen in den Thronsaal (4–5), und von dort gehen die drei Reihen aus: die Siegel (6–8) und die Posaunen (8–11) je mit einer Pause, die Schalen (15–16) ohne. Jede Reihe endet mit Blitzen, Donner und Erdbeben. An die Posaunen (12–14) und die Schalen (17–22) ist je ein Teil angefügt; er endet im Neuen Jerusalem.](/images/book-shape_de.svg)
+
 ## Die Siegel
 
 <a name="3431"></a>
