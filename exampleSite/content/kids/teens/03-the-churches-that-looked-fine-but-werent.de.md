@@ -1,5 +1,5 @@
 ---
-title: "Offb. 2–3: Die Gemeinden, die okay wirkten, es aber nicht waren"
+title: "Offb. 2–3: Die scheinbar guten Gemeinden"
 weight: 3
 docType: kids
 audience_group: "teens"

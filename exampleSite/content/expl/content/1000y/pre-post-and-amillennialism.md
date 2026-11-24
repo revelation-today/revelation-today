@@ -28,6 +28,8 @@ It is tempting to set these out as three lists of arguments and count which list
 
 ## The three views, briefly
 
+![Diagram: three panels with the same drawing, a timeline, a hatched band for the thousand years and a sun for Christ’s return. In the first the return comes before the band, in the second after it, in the third at the end of a band that covers the present age.](/images/three-views_en.svg)
+
 <a name="9c2a"></a>
 **Premillennialism.** Jesus returns first, defeats the beast and the false prophet, and then reigns bodily on earth for 1,000 years before Satan is released for one final rebellion and the new creation arrives. It comes in two main varieties — historic premillennialism, where the church goes through the tribulation, and dispensational premillennialism, which adds a {{% int_link val="pre-tribulation rapture" link="/expl/topics/others/the-rapture" %}} and a separate future for ethnic Israel.
 

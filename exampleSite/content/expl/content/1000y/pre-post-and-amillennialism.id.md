@@ -28,6 +28,8 @@ Menggoda sekali untuk menyusunnya sebagai tiga daftar argumen lalu menghitung da
 
 ## Tiga pandangan itu, secara singkat
 
+![Diagram: tiga panel dengan gambar yang sama, garis waktu, pita bergaris untuk seribu tahun dan matahari untuk kedatangan Kristus kembali. Pada yang pertama kedatangan itu mendahului pita, pada yang kedua mengikutinya, pada yang ketiga ada di ujung pita yang meliputi zaman kini.](/images/three-views_id.svg)
+
 <a name="9c2a"></a>
 **Pramilenialisme.** Yesus datang kembali lebih dulu, mengalahkan binatang dan nabi palsu, lalu memerintah secara jasmani di bumi selama 1.000 tahun sebelum Iblis dilepaskan untuk satu pemberontakan terakhir dan ciptaan baru tiba. Ada dua varian utama — pramilenialisme historis, di mana gereja melewati masa kesengsaraan, dan pramilenialisme dispensasional, yang menambahkan {{% int_link val="pengangkatan sebelum tribulasi" link="/expl/topics/others/the-rapture" %}} dan masa depan tersendiri bagi Israel etnis.
 

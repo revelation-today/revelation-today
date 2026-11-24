@@ -82,7 +82,7 @@ docType: expl
 | {{% bible val="Offenbarung 2" link="rev:2" lang="de" %}} | ["Briefe nur für dich": Offenbarung 2–3](/de/kids/early-childhood/02-letters-just-for-you) |
 | {{% bible val="Offenbarung 2" link="rev:2" lang="de" %}} | [Offenbarung 2–3](/de/kids/elementary/03-the-seven-letters#offenbarung-23) |
 | {{% bible val="Offenbarung 2" link="rev:2" lang="de" %}} | ["Offb. 2–3: Echte Briefe an echte Gemeinden": Offenbarung 2–3](/de/kids/teens/02-real-letters-to-real-churches) |
-| {{% bible val="Offenbarung 2" link="rev:2" lang="de" %}} | ["Offb. 2–3: Die Gemeinden, die okay wirkten, es aber nicht waren": Offenbarung 2–3](/de/kids/teens/03-the-churches-that-looked-fine-but-werent) |
+| {{% bible val="Offenbarung 2" link="rev:2" lang="de" %}} | ["Offb. 2–3: Die scheinbar guten Gemeinden": Offenbarung 2–3](/de/kids/teens/03-the-churches-that-looked-fine-but-werent) |
 | {{% bible val="Offenbarung 2" link="rev:2" lang="de" %}} | ["Offb. 2–3: Die Gemeinden, die niemand genug lobte": Offenbarung 2–3](/de/kids/teens/04-the-churches-nobody-praised-enough) |
 | {{% bible val="Offenbarung 2" link="rev:2" lang="de" %}} | ["Die Sendschreiben an die Gemeinden (Kap. 2-3)": Kapitel 2](/de/quick/content/letters) |
 | {{% bible val="Offenbarung 2,1" link="rev:2,1" lang="de" %}} | ["Beobachtungen": schreibe dem Engel der Gemeinde](/de/expl/content/letters/the-angel-of-the-churches#e9dd) |

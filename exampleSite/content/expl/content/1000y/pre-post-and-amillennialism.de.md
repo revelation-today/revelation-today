@@ -28,6 +28,8 @@ Es ist verlockend, das als drei Argumentlisten aufzureihen und zu zählen, welch
 
 ## Die drei Positionen, kurz
 
+![Diagramm: drei gleich gezeichnete Felder mit Zeitleiste, schraffiertem Band für die tausend Jahre und einer Sonne für die Wiederkunft Christi. Im ersten kommt die Wiederkunft vor dem Band, im zweiten danach, im dritten am Ende eines Bandes, das die jetzige Zeit umfasst.](/images/three-views_de.svg)
+
 <a name="d41a"></a>
 **Prämillennialismus.** Jesus kommt zuerst wieder, besiegt das Tier und den falschen Propheten und herrscht dann leiblich auf der Erde 1000 Jahre lang, bevor Satan für eine letzte Rebellion freigelassen wird und die neue Schöpfung anbricht. Es gibt zwei Hauptvarianten – den historischen Prämillennialismus, in dem die Gemeinde die Trübsal durchlebt, und den dispensationalistischen Prämillennialismus, der eine {{% int_link val="Entrückung vor der Trübsal" link="/expl/topics/others/the-rapture" %}} und eine gesonderte Zukunft für das ethnische Israel hinzufügt.
 

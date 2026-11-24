@@ -28,6 +28,8 @@ Bunları üç argüman listesi hâlinde dizip hangisinin daha uzun olduğunu say
 
 ## Üç görüş, kısaca
 
+![Diyagram: aynı biçimde çizilmiş üç bölme; zaman çizgisi, bin yıl için taralı bir şerit ve Mesih’in dönüşü için bir güneş. Birincide dönüş şeridin önünde, ikincide ardında, üçüncüde bugünkü çağı kapsayan şeridin sonundadır.](/images/three-views_tr.svg)
+
 <a name="7a3e"></a>
 **Premilenyalizm.** İsa önce geri döner, canavarı ve sahte peygamberi yener, sonra Şeytan son bir isyan için salıverilmeden ve yeni yaratılış gelmeden önce yeryüzünde bedensel olarak bin yıl hüküm sürer. İki ana çeşidi vardır — kilisenin sıkıntı döneminden geçtiği tarihsel premilenyalizm ve buna {{% int_link val="tribülasyon öncesi kaçırılma" link="/expl/topics/others/the-rapture" %}} ile etnik İsrail için ayrı bir gelecek ekleyen dispensasyonel premilenyalizm.
 
