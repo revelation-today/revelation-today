@@ -1,0 +1,8 @@
+{{- $name := .Get "name" -}}
+{{- $lang := .Page.Language.Lang -}}
+<figure class="my-6">
+  <video controls preload="none" playsinline class="w-full rounded-lg" poster="">
+    <source src="/videos/{{ $lang }}/{{ $name }}.mp4" type="video/mp4">
+    <track kind="captions" src="/videos/{{ $lang }}/{{ $name }}.vtt" srclang="{{ $lang }}" label="{{ $lang }}" default>
+  </video>
+</figure>
